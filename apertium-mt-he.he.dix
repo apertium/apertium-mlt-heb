@@ -15,8 +15,8 @@
     <e><p><l>ים</l><r><s n="n"/><s n="pl"/></r></p></e>
   </pardef>
   <pardef n="r/oeh__vblex">
-    <e><p><l>ואה</l><r><s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
-    <e><p><l>ואים</l><r><s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
+    <e><p><l>ואה</l><r>ואה<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
+    <e><p><l>ואים</l><r>ואה<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
   </pardef>
 </pardefs>
 <section id="main" type="standard">

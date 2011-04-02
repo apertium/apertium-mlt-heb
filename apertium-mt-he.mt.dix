@@ -24,6 +24,6 @@
 <section id="main" type="standard">
   <e lm="gramafown"><i>gram</i><par n="gram/afown__n"/></e>
   <e lm="ara"><i>ara</i><par n="ara__vblex"/></e>
-  <e lm="jara"><i>jara</i><par n="jara__vblex"/></e>
+  <e lm="ara"><p><l>jara</l><r>ara</r></p><par n="jara__vblex"/></e>
 </section>
 </dictionary>
