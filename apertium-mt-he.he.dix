@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+<alphabet>אבגדהוזחטיכלמנסעפצקרשתךםןףץ</alphabet>
+<sdefs>
+    <sdef n="n"/>
+    <sdef n="sg"/>
+    <sdef n="pl"/>
+    <sdef n="vblex"/>
+    <sdef n="p1"/>
+    <sdef n="pri"/>
+</sdefs>
+<pardefs>
+  <pardef n="patifon__n">
+    <e><p><l/><r><s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>ים</l><r><s n="n"/><s n="pl"/></r></p></e>
+  </pardef>
+  <pardef n="r/oeh__vblex">
+    <e><p><l>ואה</l><r><s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
+    <e><p><l>ואים</l><r><s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
+  </pardef>
+</pardefs>
+<section id="main" type="standard">
+  <e lm="patifon"><i>פטיפון</i><par n="patifon__n"/></e>
+  <e lm="roeh"><i>ר</i><par n="r/oeh__vblex"/></e>
+</section>
+</dictionary>

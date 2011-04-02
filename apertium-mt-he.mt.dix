@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+<alphabet>ABĊDEFĠGGHĦIIJKLMNOPQRSTUVWXZŻabċdefġgħgħhħieiejklmnopqrstuvwxzż</alphabet>
+<sdefs>
+   <sdef n="n"/>
+   <sdef n="sg"/>
+   <sdef n="pl"/>
+   <sdef n="vblex"/>
+   <sdef n="p1"/>
+   <sdef n="pri"/>
+</sdefs>
+<pardefs>
+  <pardef n="gram/afown__n">
+    <e><p><l>afown</l><r>afown<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>ofoni</l><r>afown<s n="n"/><s n="pl"/></r></p></e>
+  </pardef>
+  <pardef n="ara__vblex">
+    <e><p><l/><r><s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
+  </pardef>
+  <pardef n="jara__vblex">
+    <e><p><l/><r><s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
+  </pardef>
+</pardefs>
+<section id="main" type="standard">
+  <e lm="gramafown"><i>gram</i><par n="gram/afown__n"/></e>
+  <e lm="ara"><i>ara</i><par n="ara__vblex"/></e>
+  <e lm="jara"><i>jara</i><par n="jara__vblex"/></e>
+</section>
+</dictionary>

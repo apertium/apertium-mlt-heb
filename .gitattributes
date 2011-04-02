@@ -1,1 +1,14 @@
 * text=auto !eol
+/apertium-mt-he.he.dix -text
+/apertium-mt-he.mt-he.dix -text
+/apertium-mt-he.mt-he.t1x -text
+/apertium-mt-he.mt.dix -text
+/he-mt.aotobil.bin -text
+/he-mt.autobil.bin -text
+/he-mt.autogen.bin -text
+/he-mt.automorf.bin -text
+/mt-he.autobil.bin -text
+/mt-he.autogen.bin -text
+/mt-he.automorf.bin -text
+/mt-he.t1x.bin -text
+/recompile.sh -text
