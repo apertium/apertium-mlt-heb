@@ -8,6 +8,8 @@
     <sdef n="vblex"/>
     <sdef n="p1"/>
     <sdef n="pri"/>
+    <sdef n="prn"/>
+    <sdef n="subj"/>
 </sdefs>
 <pardefs>
   <pardef n="patifon__n">
@@ -18,9 +20,14 @@
     <e><p><l>ואה</l><r>ואה<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
     <e><p><l>ואים</l><r>ואה<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
   </pardef>
+  <pardef n="prsubj__prn">
+     <e><p><l>אני</l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="sg"/></r></p></e>
+     <e><p><l>אנחנו</l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="pl"/></r></p></e>
+  </pardef>
 </pardefs>
 <section id="main" type="standard">
   <e lm="patifon"><i>פטיפון</i><par n="patifon__n"/></e>
   <e lm="roeh"><i>ר</i><par n="r/oeh__vblex"/></e>
+  <e lm="personal subject pronouns"><i/><par n="prsubj__prn"/></e>
 </section>
 </dictionary>
