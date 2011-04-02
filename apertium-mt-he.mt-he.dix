@@ -8,10 +8,12 @@
      <sdef n="vblex"/>
      <sdef n="p1"/>
      <sdef n="pri"/>
+     <sdef n="prn"/>
    </sdefs>
 
    <section id="main" type="standard">
      <e><p><l>gramafown<s n="n"/></l><r>פטיפון<s n="n"/></r></p></e>
      <e><p><l>ara<s n="vblex"/></l><r>רואה<s n="vblex"/></r></p></e>
+     <e><p><l>prpers<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
    </section>
 </dictionary>

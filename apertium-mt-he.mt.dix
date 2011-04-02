@@ -24,7 +24,7 @@
   </pardef>
   <pardef n="prsubj__prn">
      <e><p><l>I</l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="sg"/></r></p></e>
-      <e><p><l>aħna</l><r>prpers<s n="prn"/><s n="subj"/><s n="pl"/><s n="sg"/></r></p></e>
+      <e><p><l>aħna</l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="pl"/></r></p></e>
   </pardef>
 </pardefs>
 <section id="main" type="standard">
