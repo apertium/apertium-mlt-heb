@@ -5,5 +5,6 @@
 /apertium-mt-he.mt.dix -text
 dev/dout.nouns.shemp.dix -text
 dev/dout.nouns.wolig.dix -text
+dev/he.dix -text
 dev/he.nouns.dix -text
 /recompile.sh -text
