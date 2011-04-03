@@ -3,17 +3,68 @@
    <alphabet/>
    <sdefs>
      <sdef n="n"/>
+     <sdef n="np"/>
+     <sdef n="prn"/>
+     <sdef n="vblex"/>
+     <sdef n="rel"/>
+     <sdef n="cnjsub"/>
+     <sdef n="cnjcoo"/>
+     <sdef n="adv"/>
+     <sdef n="adj"/>
+
      <sdef n="sg"/>
      <sdef n="pl"/>
-     <sdef n="vblex"/>
+
+     <sdef n="m"/>
+     <sdef n="f"/>
+
      <sdef n="p1"/>
-     <sdef n="pri"/>
-     <sdef n="prn"/>
+
+     <sdef n="top"/>
+
    </sdefs>
 
    <section id="main" type="standard">
-     <e><p><l>gramafown<s n="n"/></l><r>פטיפון<s n="n"/></r></p></e>
-     <e><p><l>ara<s n="vblex"/></l><r>רואה<s n="vblex"/></r></p></e>
+     <!-- SECTION: Conjunctions -->
+
+     <e><p><l>u<s n="cnjcoo"/></l><r>-ו<s n="cnjcoo"/></r></p></e>
+
+     <e><p><l>li<s n="cnjsub"/></l><r>כי<s n="cnjsub"/></r></p></e>
+
+     <!-- SECTION: Prepositions -->
+
+     <!-- SECTION: Pronouns -->
+
      <e><p><l>prpers<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
+
+     <e><p><l>li<s n="rel"/></l><r>כי<s n="rel"/></r></p></e>
+
+     <!-- SECTION: Determiners -->
+
+     <!-- SECTION: Numerals -->
+ 
+     <!-- SECTION: Nouns -->
+
+     <e><p><l>gramafown<s n="n"/></l><r>פטיפון<s n="n"/></r></p></e> <!-- gender missing -->
+     <e><p><l>ktieb<s n="n"/></l><r>ספר<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>ilsien<s n="n"/></l><r>לשון<s n="n"/><s n="f"/></r></p></e>
+     <e r="LR"><p><l>lingwa<s n="n"/></l><r>לשון<s n="n"/><s n="f"/></r></p></e>
+     <e r="RL"><p><l>ilsien<s n="n"/></l><r>שפה<s n="n"/><s n="f"/></r></p></e>
+
+     <!-- SECTION: Proper nouns -->
+
+     <e><p><l>Valletta<s n="np"/><s n="top"/></l><r>ולטה<s n="np"/><s n="top"/></r></p></e>
+
+     <!-- SECTION: Adjectives -->
+
+     <!-- SECTION: Adverbs -->
+
+     <e><p><l>biss<s n="adv"/></l><r>רק<s n="adv"/></r></p></e>
+
+     <!-- SECTION: Verbs -->
+
+     <e><p><l>ara<s n="vblex"/></l><r>רואה<s n="vblex"/></r></p></e>
+     <e><p><l>kiteb<s n="vblex"/></l><r>כתב<s n="vblex"/></r></p></e>
+
    </section>
 </dictionary>
