@@ -4,4 +4,5 @@
 /apertium-mt-he.mt-he.t1x -text
 /apertium-mt-he.mt.dix -text
 dev/dout.nouns.shemp.dix -text
+dev/dout.nouns.wolig.dix -text
 /recompile.sh -text
