@@ -1,16 +1,19 @@
 <dictionary>
   <alphabet>אבגדהוזחטיכךלמםנןסעפףצץקרשת•ﭏ</alphabet>
   <sdefs>
-    <sdef n="n"      c="Noun"/>
-    <sdef n="pr"      c="Preposition"/>
-    <sdef n="f"      c="Noun"/>
-    <sdef n="m"      c="Noun"/>
-    <sdef n="mf"      c="Noun"/>
-    <sdef n="sg"      c="Noun"/>
-    <sdef n="pl"      c="Noun"/>
-    <sdef n="gen"      c="Noun"/>
-    <sdef n="px1sg"      c="Noun"/>
-    <sdef n="px1pl"      c="Noun"/>
+    <sdef n="n"            c="Noun"/>
+    <sdef n="pr"           c="Preposition"/>
+    <sdef n="prn"          c="Pronoun"/>
+    <sdef n="f"            c="Noun"/>
+    <sdef n="subj"         c="Subject"/>
+    <sdef n="p1"           c="First person"/>
+    <sdef n="m"            c="Noun"/>
+    <sdef n="mf"           c="Noun"/>
+    <sdef n="sg"           c="Noun"/>
+    <sdef n="pl"           c="Noun"/>
+    <sdef n="gen"          c="Noun"/>
+    <sdef n="px1sg"        c="Noun"/>
+    <sdef n="px1pl"        c="Noun"/>
     <sdef n="px2sg_m"      c="Noun"/>
     <sdef n="px2sg_f"      c="Noun"/>
     <sdef n="px2pl_m"      c="Noun"/>
@@ -19,13 +22,33 @@
     <sdef n="px3sg_f"      c="Noun"/>
     <sdef n="px3pl_m"      c="Noun"/>
     <sdef n="px3pl_f"      c="Noun"/>
+
+    <sdef n="cm"      c="Comma"/>
+    <sdef n="sent"      c="Sentence marker"/>
   </sdefs>
   <pardefs>
+ 
+    <!-- SECTION: Punctuation -->
+
+    <pardef n="separa">
+      <e><re>[.\?;:!]</re><p>          <l></l><r><s n="sent"/></r></p></e>
+    </pardef>
+    <pardef n="coma">
+      <e><p>          <l>,</l><r>,<s n="cm"/></r></p></e>
+    </pardef>
  
     <!-- SECTION: Prepositions -->
 
     <pardef n="ללא__pr">
       <e><p>          <l></l><r><s n="pr"/></r></p></e>
+    </pardef>
+
+    <!-- SECTION: Pronouns -->
+
+    <pardef n="prsubj__prn">
+      <e><p><l>אני</l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p><l>אנחנו</l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e r="LR"><p><l>אנו</l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="pl"/></r></p></e>
     </pardef>
 
     <!-- SECTION: Nouns -->  
@@ -18735,5 +18758,9 @@
     <e lm="הצרחה"><i>הצרח</i><par n="ריצ/ה__n_f"/></e>
     <e lm="נשילה"><i>נשיל</i><par n="ריצ/ה__n_f"/></e>
 
+  </section>
+  <section id="final" type="inconditional">
+    <e><par n="separa"/></e>
+    <e><par n="coma"/></e>
   </section>
 </dictionary>
