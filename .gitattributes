@@ -10,6 +10,7 @@ dev/he-mt.interwiki.xml -text
 dev/he.dix -text
 dev/he.nouns.dix -text
 dev/mt-he.interwiki.xml -text
+/modes.xml -text
 /mt-he.prob -text svneol=unset#unset
 /pending-tests.sh -text
 /recompile.sh -text
