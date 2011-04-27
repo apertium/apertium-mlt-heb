@@ -1,4 +1,5 @@
 * text=auto !eol
+/Makefile -text
 /apertium-mt-he.he.dix -text
 /apertium-mt-he.mt-he.dix -text
 /apertium-mt-he.mt-he.t1x -text
