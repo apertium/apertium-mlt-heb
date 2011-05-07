@@ -17,7 +17,11 @@
        <attr-item tags="n"/>
     </def-attr>
      <def-attr n="temps">
-        <attr-item tags="pri"/>
+        <attr-item tags="pres"/>
+        <attr-item tags="past"/>
+        <attr-item tags="pp"/>
+        <attr-item tags="inf"/>
+        <attr-item tags="ger"/>
      </def-attr>
     <def-attr n="pers">
        <attr-item tags="p1"/>
