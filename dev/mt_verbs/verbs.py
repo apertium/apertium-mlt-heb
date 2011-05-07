@@ -5,9 +5,10 @@
 import sys, codecs, copy;
 import classes;
 
-sys.stdin  = codecs.getreader('utf-8')(sys.stdin);
-sys.stdout = codecs.getwriter('utf-8')(sys.stdout);
-sys.stderr = codecs.getwriter('utf-8')(sys.stderr);
+sys.stdin  = codecs.getreader('utf-8')(sys.stdin)
+sys.stdout = codecs.getwriter('utf-8')(sys.stdout)
+sys.stderr = codecs.getwriter('utf-8')(sys.stderr)
+reload(sys); sys.setdefaultencoding("utf-8")
 
 FORMAT="speling"
 if len(sys.argv)>0 and '--dix' in sys.argv:
@@ -62,4 +63,4 @@ for line in file('stems.csv'):
 	print '' # newline between words
 
 
-if FORMAT=="dix": print '</setion>';
+if FORMAT=="dix": print '</section>';
