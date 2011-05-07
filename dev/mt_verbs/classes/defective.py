@@ -3,81 +3,81 @@
 # -*- encoding: utf-8 -*-
 
 def past_p1_sg(stem, root, vowels):
-	# kiteb; ktibt; past.p1.sg; vblex
-	return root[0] + root[1] + 'i' + root[2] + 't'
+	# fetaħ; ftaħt; past.p1.sg; vblex
+	return root[0] + root[1] + vowels[1] + root[2] + 't'
 
 def past_p2_sg(stem, root, vowels):
-	# kiteb; ktibt; past.p2.sg; vblex
-	return root[0] + root[1] + 'i' + root[2] + 't'
+	# fetaħ; ftaħt; past.p1.sg; vblex
+	return root[0] + root[1] + vowels[1] + root[2] + 't'
 
 def past_p3_m_sg(stem, root, vowels):
-	# kiteb; kiteb; past.p3.m.sg; vblex
+	# fetaħ; fetaħ; past.p3.m.sg; vblex
 	return stem
 	
 def past_p3_f_sg(stem, root, vowels):
-	# kiteb; kitbet; past.p3.f.sg; vblex
+	# fetaħ; fetħet; past.p3.f.sg; vblex
 	return root[0] + vowels[0] + root[1] + root[2] + 'et'
 
 def past_p1_pl(stem, root, vowels):
-	# kiteb; ktibna; past.p1.pl; vblex
-	return root[0] + root[1] + 'i' + root[2] + 'na'
+	# fetaħ; ftaħna; past.p1.pl; vblex
+	return root[0] + root[1] + 'a' + root[2] + 'na'
 
 def past_p2_pl(stem, root, vowels):
-	# kiteb; ktibtu; past.p2.pl; vblex
-	return root[0] + root[1] + 'i' + root[2] + 'tu'
+	# fetaħ; ftaħtu; past.p2.pl; vblex
+	return root[0] + root[1] + 'a' + root[2] + 'tu'
 
 def past_p3_pl(stem, root, vowels):
-	# kiteb; kitbu; past.p3.pl; vblex
+	# fetaħ; fetħu; past.p3.pl; vblex
 	return root[0] + vowels[0] + root[1] + root[2] + 'u'
 
 def pres_p1_sg(stem, root, vowels):
-	# kiteb; nikteb; pres.p1.sg; vblex
+	# fetaħ; niftaħ; pres.p1.sg; vblex
 	return 'ni' + root[0] + root[1] + vowels[1] + root[2]
 
 def pres_p2_sg(stem, root, vowels):
-	# kiteb; tikteb; pres.p2.sg; vblex
+	# fetaħ; tiftaħ; pres.p2.sg; vblex
 	return 'ti' + root[0] + root[1] + vowels[1] + root[2]
 
 def pres_p3_m_sg(stem, root, vowels):
-	# kiteb; jikteb; pres.p3.m.sg; vblex
+	# fetaħ; jiftaħ; pres.p3.m.sg; vblex
 	return 'ji' + root[0]  + root[1] + vowels[1] + root[2]
 
 def pres_p3_f_sg(stem, root, vowels):
-	# kiteb; tikteb; pres.p3.f.sg; vblex
+	# fetaħ; tiftaħ; pres.p3.f.sg; vblex
 	return 'ti' + root[0] + root[1] + vowels[1] + root[2]
 
 def pres_p1_pl(stem, root, vowels):
-	# kiteb; niktbu; pres.p1.pl; vblex
+	# fetaħ; niftħu; pres.p1.pl; vblex
 	return 'ni' + root[0] + root[1] + root[2] + 'u'
 
 def pres_p2_pl(stem, root, vowels):
-	# kiteb; tiktbu; pres.p2.pl; vblex
+	# fetaħ; tiftħu; pres.p2.pl; vblex
 	return 'ti' + root[0] + root[1] + root[2] + 'u'
 
 def pres_p3_pl(stem, root, vowels):
-	# kiteb; jiktbu; pres.p3.pl; vblex
+	# fetaħ; jiftħu; pres.p3.pl; vblex
 	return 'ji' + root[0] + root[1] + root[2] + 'u'
 
 def imp_p2_sg(stem, root, vowels):
-	# kiteb; ikteb; imp.p2.sg; vblex
+	# fetaħ; iftaħ; imp.p2.sg; vblex
 	return 'i' + root[0] + root[1] + vowels[1] + root[2]
 
 def imp_p2_pl(stem, root, vowels):
-	# kiteb; iktbu; imp.p2.pl; vblex
+	# fetaħ; iftħu; imp.p2.pl; vblex
 	return 'i' + root[0] + root[1] + root[2] + 'u'
 
 def pp_sg(stem, root, vowels):
-	# kiteb; miktub; pp.sg; vblex
+	# fetaħ; miftuħ; pp.sg; vblex
 	return 'mi' + root[0] + root[1] + 'u' + root[2]
 
 def ger(stem, root, vowels):
-	# kiteb; kitba; ger; vblex
+	# fetaħ; fitħa; ger; vblex
 	return root[0] + 'i' + root[1] + root[2] + 'a'
 
 def main(stem, root, vowels):
 	sp = {}
 
-	sp['inf'] = stem
+	sp['inf'] = stem;
 	sp['past.p1.sg'] = past_p1_sg(stem, root, vowels)
 	sp['past.p2.sg'] = past_p2_sg(stem, root, vowels)
 	sp['past.p3.m.sg'] = past_p3_m_sg(stem, root, vowels)
