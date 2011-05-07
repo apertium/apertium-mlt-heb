@@ -1,3 +1,3 @@
 import strong, strong_double_mid_radical
 import defective
-import loan_italian
+import loan_italian, loan_english
