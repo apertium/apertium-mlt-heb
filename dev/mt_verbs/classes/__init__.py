@@ -1,1 +1,1 @@
-import kiteb, kisser
+import strong, strong_kiser

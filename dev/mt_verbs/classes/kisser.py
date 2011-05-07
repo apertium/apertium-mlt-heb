@@ -1,3 +1,5 @@
+# DEPRECATED!
+
 from common import *
 
 def past_p1_sg(stem): #{

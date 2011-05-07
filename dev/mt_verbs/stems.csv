@@ -1,5 +1,5 @@
-#stem,pattern,type,vow_config,gloss,checked
-kiteb,kiteb,sound,i·e,write,
-rikeb,kiteb,sound,i·e,ride,
-kisser,kisser,sound,i·e,wreck,
-fisser,kisser,sound,i·e,signify,
+#stem, category, gloss, root, vowels, subclass, checked
+kiteb, strong, write, k-t-b, i-e,,checked
+rikeb, strong, ride, r-k-b, i-e,,
+kiser, strong, break, k-s-r, i-e, kiser,
+kisser, strong, smash, k-ss-r, i-e, kiser,

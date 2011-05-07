@@ -1,3 +1,5 @@
+# DEPRECATED!
+
 vowel = ['a', 'e', 'i', 'o', 'u']; 
 
 def get_vowel_positions(stem): #{
