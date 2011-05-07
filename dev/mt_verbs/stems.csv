@@ -1,5 +1,5 @@
-#stem,pattern,gloss,checked
-kiteb,kiteb,write,
-rikeb,kiteb,ride,
-kisser,kisser,wreck,
-fisser,kisser,signify,
+#stem,pattern,type,vow_config,gloss,checked
+kiteb,kiteb,sound,i·e,write,
+rikeb,kiteb,sound,i·e,ride,
+kisser,kisser,sound,i·e,wreck,
+fisser,kisser,sound,i·e,signify,
