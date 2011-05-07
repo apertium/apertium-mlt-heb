@@ -2,7 +2,7 @@
 # coding=utf-8
 # -*- encoding: utf-8 -*-
 
-import sys, codecs, copy;
+import sys, codecs, copy, time;
 import classes;
 
 sys.stdin  = codecs.getreader('utf-8')(sys.stdin)
@@ -21,7 +21,7 @@ def format_entry(FORMAT, stem, form, pos, feat):
 	elif FORMAT=="dix":
 		tags = ''.join(['<s n="%s"/>' % tag
 				for tag in [pos] + feat.split('.')]);
-		return "<e><p><l>%s</l>\t<r>%s%s</r></p></e>" % (speling[feat],
+		return "    <e><p><l>%s</l>\t<r>%s%s</r></p></e>" % (speling[feat],
 								 stem,
 								 tags);
 	else:
@@ -29,7 +29,9 @@ def format_entry(FORMAT, stem, form, pos, feat):
 
 
 
-if FORMAT=="dix": print '<section id="verbs" type="standard">';
+if FORMAT=="dix": 
+	print '  <section id="verbs" type="standard">';
+	print '    <!-- Generated on: ' + time.strftime('%Y-%m-%d %H:%M %Z') + ' -->'; 
 
 
 for line in file('stems.csv'):
@@ -63,4 +65,4 @@ for line in file('stems.csv'):
 	print '' # newline between words
 
 
-if FORMAT=="dix": print '</section>';
+if FORMAT=="dix": print '  </section>';
