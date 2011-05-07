@@ -10,7 +10,7 @@ sys.stdout = codecs.getwriter('utf-8')(sys.stdout);
 sys.stderr = codecs.getwriter('utf-8')(sys.stderr);
 
 for line in file('stems.csv'): #{
-	if len(line) < 2: #{
+	if len(line) < 2 or line[0] == '#': #{
 		continue;
 	#}
 	row = line.split(',');
