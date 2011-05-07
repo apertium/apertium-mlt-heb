@@ -1,5 +1,5 @@
 #stem, category, gloss, root, vowels, subclass, checked
 kiteb, strong, write, k-t-b, i-e,,checked
 rikeb, strong, ride, r-k-b, i-e,,
-kiser, strong, break, k-s-r, i-e, kiser,
-kisser, strong, smash, k-ss-r, i-e, kiser,
+kiser, strong, break, k-s-r, i-e, , checked
+kisser, strong, smash, k-s-s-r, i-e, double_mid_radical, checked

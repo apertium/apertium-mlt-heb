@@ -1,1 +1,1 @@
-import strong, strong_kiser
+import strong, strong_double_mid_radical
