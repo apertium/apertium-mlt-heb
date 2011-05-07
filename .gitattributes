@@ -1,9 +1,16 @@
 * text=auto !eol
-/Makefile -text
+/AUTHORS -text
+/COPYING -text
+/ChangeLog -text
+/Makefile.am -text
+/NEWS -text
+/README -text
 /apertium-mt-he.he.dix -text
 /apertium-mt-he.mt-he.dix -text
 /apertium-mt-he.mt-he.t1x -text
 /apertium-mt-he.mt.dix -text
+/autogen.sh -text
+/configure.ac -text
 dev/dout.nouns.shemp.dix -text
 dev/dout.nouns.wolig.dix -text
 dev/he-mt.interwiki.xml -text
@@ -25,6 +32,5 @@ dev/verb_lists/allmalteseverbs17apr.xls -text
 /modes.xml -text
 /mt-he.prob -text svneol=unset#unset
 /pending-tests.sh -text
-/recompile.sh -text
 /regression-tests.sh -text
 /wiki-tests.sh -text
