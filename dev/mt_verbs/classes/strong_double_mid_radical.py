@@ -1,3 +1,7 @@
+#!/usr/bin/python
+# coding=utf-8
+# -*- encoding: utf-8 -*-
+
 def past_p1_sg(stem, root, vowels):
 	# kiser; kisirt; past.p1.sg; vblex
 	return root[0] + vowels[0] + root[1] + root[2] + 'i' + root[3] + 't'
