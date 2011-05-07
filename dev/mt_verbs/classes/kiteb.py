@@ -1,32 +1,6 @@
-#!/usr/bin/python
-# coding=utf-8
-# -*- encoding: utf-8 -*-
+from common import *
 
-import sys, codecs, copy;
-
-sys.stdin  = codecs.getreader('utf-8')(sys.stdin);
-sys.stdout = codecs.getwriter('utf-8')(sys.stdout);
-sys.stderr = codecs.getwriter('utf-8')(sys.stderr);
-
-# SETS 
-
-vowel = ['a', 'e', 'i', 'o', 'u']; 
-
-def get_vowel_positions(stem): #{
-	vowels = {};
-	count = 0;
-	pos = 0;
-	for char in stem: #{
-		if char in vowel: #{
-			vowels[count] = pos;
-			count = count + 1;	
-		#}
-		pos = pos + 1;
-	#}
-	return vowels;
-#}
-
-def kiteb_past_p1_sg(stem): #{
+def past_p1_sg(stem): #{
 	surface = '';
 	# kiteb; ktibt; past.p1.sg; vblex
 
@@ -52,7 +26,7 @@ def kiteb_past_p1_sg(stem): #{
 	return surface;
 #}
 
-def kiteb_past_p3_f_sg(stem): #{
+def past_p3_f_sg(stem): #{
 	surface = '';
 	# kiteb; kitbet; past.p3.f.sg; vblex
 
@@ -75,7 +49,7 @@ def kiteb_past_p3_f_sg(stem): #{
 	return surface;
 #}
 
-def kiteb_past_p1_pl(stem): #{
+def past_p1_pl(stem): #{
 	surface = ''
 	# kiteb; ktibna; past.p1.pl; vblex
 	
@@ -101,7 +75,7 @@ def kiteb_past_p1_pl(stem): #{
 	return surface;
 #}
 
-def kiteb_past_p2_pl(stem): #{
+def past_p2_pl(stem): #{
 	surface = ''
 	# kiteb; ktibtu; past.p2.pl; vblex
 	
@@ -127,7 +101,7 @@ def kiteb_past_p2_pl(stem): #{
 	return surface;
 #}
 
-def kiteb_past_p3_pl(stem): #{
+def past_p3_pl(stem): #{
 	surface = ''
 	# kiteb; kitbu; past.p3.pl; vblex
 	
@@ -150,7 +124,7 @@ def kiteb_past_p3_pl(stem): #{
 	return surface;
 #}
 
-def kiteb_pres_p1_sg(stem): #{
+def pres_p1_sg(stem): #{
 	surface = ''
 	# kiteb; nikteb; pres.p1.sg; vblex
 	
@@ -173,7 +147,7 @@ def kiteb_pres_p1_sg(stem): #{
 	return surface;
 #}
 
-def kiteb_pres_p2_sg(stem): #{
+def pres_p2_sg(stem): #{
 	surface = ''
 	# kiteb; tikteb; pres.p2.sg; vblex
 	
@@ -196,7 +170,7 @@ def kiteb_pres_p2_sg(stem): #{
 	return surface;
 #}
 
-def kiteb_pres_p3_m_sg(stem): #{
+def pres_p3_m_sg(stem): #{
 	surface = ''
 	# kiteb; jikteb; pres.p3.m.sg; vblex
 	
@@ -219,7 +193,7 @@ def kiteb_pres_p3_m_sg(stem): #{
 	return surface;
 #}
 
-def kiteb_pres_p3_f_sg(stem): #{
+def pres_p3_f_sg(stem): #{
 	surface = ''
 	# kiteb; tikteb; pres.p3.f.sg; vblex
 	
@@ -242,7 +216,7 @@ def kiteb_pres_p3_f_sg(stem): #{
 	return surface;
 #}
 
-def kiteb_pres_p1_pl(stem): #{
+def pres_p1_pl(stem): #{
 	surface = ''
 	# kiteb; niktbu; pres.p1.pl; vblex
 	
@@ -270,7 +244,7 @@ def kiteb_pres_p1_pl(stem): #{
 	return surface;
 #}
 
-def kiteb_pres_p2_pl(stem): #{
+def pres_p2_pl(stem): #{
 	surface = ''
 	# kiteb; tiktbu; pres.p2.pl; vblex
 	
@@ -298,7 +272,7 @@ def kiteb_pres_p2_pl(stem): #{
 	return surface;
 #}
 
-def kiteb_pres_p3_pl(stem): #{
+def pres_p3_pl(stem): #{
 	surface = ''
 	# kiteb; jiktbu; pres.p3.pl; vblex
 	
@@ -326,7 +300,7 @@ def kiteb_pres_p3_pl(stem): #{
 	return surface;
 #}
 
-def kiteb_imp_p2_sg(stem): #{
+def imp_p2_sg(stem): #{
 	surface = ''
 	# kiteb; ikteb; imp.p2.sg; vblex
 	
@@ -349,7 +323,7 @@ def kiteb_imp_p2_sg(stem): #{
 	return surface;
 #}
 
-def kiteb_imp_p2_pl(stem): #{
+def imp_p2_pl(stem): #{
 	surface = ''
 	# kiteb; iktbu; imp.p2.pl; vblex
 	
@@ -377,7 +351,7 @@ def kiteb_imp_p2_pl(stem): #{
 	return surface;
 #}
 
-def kiteb_pp_sg(stem): #{
+def pp_sg(stem): #{
 	surface = ''
 	# kiteb; miktub; pp.sg; vblex
 	
@@ -403,7 +377,7 @@ def kiteb_pp_sg(stem): #{
 	return surface;
 #}
 
-def kiteb_ger(stem): #{
+def ger(stem): #{
 	surface = ''
 	# kiteb; kitba; ger; vblex
 	
@@ -426,47 +400,30 @@ def kiteb_ger(stem): #{
 #}
 
 
-def kiteb_main(stem): #{
+def main(stem): #{
 	speling_line = {};
 
 	speling_line['inf'] = stem;
-	speling_line['past.p1.sg'] = kiteb_past_p1_sg(stem);
-	speling_line['past.p2.sg'] = kiteb_past_p1_sg(stem);
+	speling_line['past.p1.sg'] = past_p1_sg(stem);
+	speling_line['past.p2.sg'] = past_p1_sg(stem);
 	speling_line['past.p3.m.sg'] = stem;
-	speling_line['past.p3.f.sg'] = kiteb_past_p3_f_sg(stem);
-	speling_line['past.p1.pl'] = kiteb_past_p1_pl(stem);
-	speling_line['past.p2.pl'] = kiteb_past_p2_pl(stem);
-	speling_line['past.p3.pl'] = kiteb_past_p3_pl(stem);
-	speling_line['pres.p1.sg'] = kiteb_pres_p1_sg(stem);
-	speling_line['pres.p2.sg'] = kiteb_pres_p2_sg(stem);
-	speling_line['pres.p3.m.sg'] = kiteb_pres_p3_m_sg(stem);
-	speling_line['pres.p3.f.sg'] = kiteb_pres_p3_f_sg(stem);
-	speling_line['pres.p1.pl'] = kiteb_pres_p1_pl(stem);
-	speling_line['pres.p2.pl'] = kiteb_pres_p2_pl(stem);
-	speling_line['pres.p3.pl'] = kiteb_pres_p3_pl(stem);
-	speling_line['imp.p2.sg'] = kiteb_imp_p2_sg(stem);
-	speling_line['imp.p2.pl'] = kiteb_imp_p2_pl(stem);
-	speling_line['pp.sg'] = kiteb_pp_sg(stem);
-	speling_line['ger'] = kiteb_ger(stem);
+	speling_line['past.p3.f.sg'] = past_p3_f_sg(stem);
+	speling_line['past.p1.pl'] = past_p1_pl(stem);
+	speling_line['past.p2.pl'] = past_p2_pl(stem);
+	speling_line['past.p3.pl'] = past_p3_pl(stem);
+	speling_line['pres.p1.sg'] = pres_p1_sg(stem);
+	speling_line['pres.p2.sg'] = pres_p2_sg(stem);
+	speling_line['pres.p3.m.sg'] = pres_p3_m_sg(stem);
+	speling_line['pres.p3.f.sg'] = pres_p3_f_sg(stem);
+	speling_line['pres.p1.pl'] = pres_p1_pl(stem);
+	speling_line['pres.p2.pl'] = pres_p2_pl(stem);
+	speling_line['pres.p3.pl'] = pres_p3_pl(stem);
+	speling_line['imp.p2.sg'] = imp_p2_sg(stem);
+	speling_line['imp.p2.pl'] = imp_p2_pl(stem);
+	speling_line['pp.sg'] = pp_sg(stem);
+	speling_line['ger'] = ger(stem);
 
 	for feat in speling_line.keys(): #{
 		print stem + '; ' + speling_line[feat] + '; ' + feat + '; vblex';
 	#}
-#}
-
-
-for line in file('stems.csv'): #{
-	if len(line) < 2: #{
-		continue;
-	#}
-	row = line.split(',');
-
-	stem = row[0].strip();
-	clas = row[1].strip();
-	
-	if clas == 'kiteb':
-		kiteb_main(stem);
-	else:
-		print 'MISSING CLASS:', clas
-	print ''; # newline between words
 #}
