@@ -3,13 +3,11 @@
 # -*- encoding: utf-8 -*-
 
 import sys, codecs, copy;
-from classes import *;
+import classes;
 
 sys.stdin  = codecs.getreader('utf-8')(sys.stdin);
 sys.stdout = codecs.getwriter('utf-8')(sys.stdout);
 sys.stderr = codecs.getwriter('utf-8')(sys.stderr);
-
-# SETS 
 
 for line in file('stems.csv'): #{
 	if len(line) < 2: #{
@@ -20,9 +18,10 @@ for line in file('stems.csv'): #{
 	stem = row[0].strip();
 	clas = row[1].strip();
 	
-	if clas == 'kiteb':
-		kiteb.main(stem);
-	else:
+	try:
+		klass = getattr(classes, clas);
+		klass.main(stem);
+	except AttributeError:
 		print 'MISSING CLASS:', clas
 	print ''; # newline between words
 #}
