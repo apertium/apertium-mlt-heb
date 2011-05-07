@@ -14,7 +14,7 @@ if len(sys.argv)>0 and '--dix' in sys.argv:
 	FORMAT="dix"
 
 
-def format(FORMAT, stem, form, pos, feat):
+def format_entry(FORMAT, stem, form, pos, feat):
 	if FORMAT=="speling":
 		return stem + '; ' + speling[feat] + '; ' + feat + '; ' + pos;
 	elif FORMAT=="dix":
@@ -25,6 +25,10 @@ def format(FORMAT, stem, form, pos, feat):
 								 tags);
 	else:
 		raise(Exception);
+
+
+
+if FORMAT=="dix": print '<section id="verbs" type="standard">';
 
 
 for line in file('stems.csv'):
@@ -50,9 +54,12 @@ for line in file('stems.csv'):
 		speling = klass.main(stem, root, vowels)
 		
 		for feat in speling.keys():
-			print format(FORMAT, stem, speling[feat], 'vblex', feat);
+			print format_entry(FORMAT, stem, speling[feat], 'vblex', feat);
 			
 	except AttributeError:
 		print 'MISSING CLASS:', classname
 		
 	print '' # newline between words
+
+
+if FORMAT=="dix": print '</setion>';
