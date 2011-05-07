@@ -22,6 +22,7 @@ dev/mt_verbs/classes/common.py -text
 dev/mt_verbs/classes/defective.py -text
 dev/mt_verbs/classes/kisser.py -text
 dev/mt_verbs/classes/kiteb.py -text
+dev/mt_verbs/classes/loan_italian.py -text
 dev/mt_verbs/classes/strong.py -text
 dev/mt_verbs/classes/strong_double_mid_radical.py -text
 dev/mt_verbs/stems.csv -text
