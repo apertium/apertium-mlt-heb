@@ -19,8 +19,12 @@ dev/he.nouns.dix -text
 dev/mt-he.interwiki.xml -text
 dev/mt_verbs/classes/__init__.py -text
 dev/mt_verbs/classes/defective.py -text
+dev/mt_verbs/classes/irregular_gie.py -text
+dev/mt_verbs/classes/irregular_gie.pyc -text
+dev/mt_verbs/classes/irregular_ha.py -text
 dev/mt_verbs/classes/irregular_qal.py -text
 dev/mt_verbs/classes/irregular_ra.py -text
+dev/mt_verbs/classes/irregular_ta.py -text
 dev/mt_verbs/classes/loan_english.py -text
 dev/mt_verbs/classes/loan_italian.py -text
 dev/mt_verbs/classes/strong.py -text
