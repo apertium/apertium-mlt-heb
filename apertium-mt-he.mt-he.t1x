@@ -9,9 +9,15 @@
     </def-cat>
   </section-def-cats>
   <section-def-attrs>
+    <def-attr n="gen">
+       <attr-item tags="m"/>
+       <attr-item tags="f"/>
+       <attr-item tags="mf"/>
+    </def-attr>
     <def-attr n="nbr">
        <attr-item tags="sg"/>
        <attr-item tags="pl"/>
+       <attr-item tags="sp"/>
     </def-attr>
     <def-attr n="a_nom">
        <attr-item tags="n"/>
@@ -34,7 +40,7 @@
     <def-var n="number"/>
   </section-def-vars>
   <section-rules>
-    <rule>
+    <rule comment="rule: nom">
        <pattern>
          <pattern-item n="nom"/>
        </pattern>
@@ -43,12 +49,14 @@
            <lu>
              <clip pos="1" side="tl" part="lem"/>
              <clip pos="1" side="tl" part="a_nom"/>
+             <clip pos="1" side="tl" part="gen"/>
              <clip pos="1" side="tl" part="nbr"/>
            </lu>
          </out>
        </action>
     </rule>
-    <rule>
+
+    <rule comment="rule: verb">
        <pattern>
          <pattern-item n="vrb"/>
        </pattern>
