@@ -75,6 +75,11 @@
       <e><p><l>otba</l><r>tieb<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     </pardef>
 
+    <pardef n="reliġjon__n">
+      <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>ijiet</l><r><s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+    </pardef>
+
 
 
   </pardefs>
@@ -103,7 +108,7 @@
     <e lm="gramafown"><i>gram</i><par n="gram/afown__n"/></e>
     <e lm="dar"><i>d</i><par n="d/ar__n"/></e>
     <e lm="ktieb"><i>k</i><par n="k/tieb__n"/></e>
-
+    <e lm="reliġjon"><i>reliġjon</i><par n="reliġjon__n"/></e>
   </section>
 
   <section id="verbs" type="standard">
