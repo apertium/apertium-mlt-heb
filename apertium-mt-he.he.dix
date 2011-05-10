@@ -4081,32 +4081,6 @@
       <e><p>          <l>אותיה</l><r>י<s n="n"/><s n="m"/><s n="pl"/><s n="px3sg_f"/></r></p></e>
       <e><p>          <l>אותיהם</l><r>י<s n="n"/><s n="m"/><s n="pl"/><s n="px3pl_m"/></r></p></e>
     </pardef>
-    <pardef n="__n_m">
-      <e><p>          <l>כלב</l><r><s n="n"/><s n="m"/><s n="sg"/></r></p></e>
-      <e><p>          <l>כלב</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="cons"/></r></p></e>
-      <e><p>          <l>כלבי</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="px1sg"/></r></p></e>
-      <e><p>          <l>כלבנו</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="px1pl"/></r></p></e>
-      <e><p>          <l>כלבך</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="px2sg_m"/></r></p></e>
-      <e><p>          <l>כלבך</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="px2sg_f"/></r></p></e>
-      <e><p>          <l>כלבכם</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="px2pl_m"/></r></p></e>
-      <e><p>          <l>כלבכן</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="px2pl_f"/></r></p></e>
-      <e><p>          <l>כלבן</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="px2pl_f"/></r></p></e>
-      <e><p>          <l>כלבו</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="px3sg_m"/></r></p></e>
-      <e><p>          <l>כלבה</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="px3sg_f"/></r></p></e>
-      <e><p>          <l>כלבם</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="px3pl_m"/></r></p></e>
-      <e><p>          <l>כלבים</l><r><s n="n"/><s n="m"/><s n="pl"/></r></p></e>
-      <e><p>          <l>כלבי</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="cons"/></r></p></e>
-      <e><p>          <l>כלביי</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="px1sg"/></r></p></e>
-      <e><p>          <l>כלבינו</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="px1pl"/></r></p></e>
-      <e><p>          <l>כלביך</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="px2sg_m"/></r></p></e>
-      <e><p>          <l>כלבייך</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="px2sg_f"/></r></p></e>
-      <e><p>          <l>כלביכם</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="px2pl_m"/></r></p></e>
-      <e><p>          <l>כלביכן</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="px2pl_f"/></r></p></e>
-      <e><p>          <l>כלביהן</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="px2pl_f"/></r></p></e>
-      <e><p>          <l>כלביו</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="px3sg_m"/></r></p></e>
-      <e><p>          <l>כלביה</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="px3sg_f"/></r></p></e>
-      <e><p>          <l>כלביהם</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="px3pl_m"/></r></p></e>
-    </pardef>
     <pardef n="ר/וחב__n_m">
       <e><p>          <l>וחב</l><r>וחב<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
       <e><p>          <l>וחב</l><r>וחב<s n="n"/><s n="m"/><s n="sg"/><s n="cons"/></r></p></e>
@@ -6012,7 +5986,6 @@
 
     <!-- SECTION: Nouns -->
 
-    <e lm=""><i></i><par n="__n_m"/></e>
     <e lm="רפדת"><i>רפדת</i><par n="עת__n_f"/></e>
     <e lm="תפלצת"><i>תפלצת</i><par n="עת__n_f"/></e>
     <e lm="הנבטה"><i>הנבט</i><par n="גב/ה__n_f"/></e>
@@ -6061,7 +6034,7 @@
     <e lm="טיפונת"><i>טיפונת</i><par n="לבה__n_f"/></e>
     <e lm="עשרת"><i>עשרת</i><par n="עת__n_f"/></e>
     <e lm="חשמלאות"><i>חשמלאות</i><par n="עת__n_f"/></e>
-    <e lm="דת"><i>דת</i><par n="עת__n_f"/></e>
+    <e lm="דת"><par n="ה"/><i>דת</i><par n="עת__n_f"/></e>
     <e lm="דש"><i>דש</i><par n="שק__n_m"/></e>
     <e lm="סנדלרייה"><i>סנדלריי</i><par n="גב/ה__n_f"/></e>
     <e lm="דף"><i>ד</i><par n="ר/ף__n_m"/></e>

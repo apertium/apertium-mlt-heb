@@ -5,6 +5,7 @@
     <sdef n="n"           c="Noun"/>
     <sdef n="vblex"       c="Verb"/>
     <sdef n="prn"         c="Pronoun"/>
+    <sdef n="det"         c="Determiner"/>
     <sdef n="pr"          c="Preposition"/>
     <sdef n="rel"         c="Relative"/>
     <sdef n="cnjcoo"      c="Co-ordinating conjunction"/>
@@ -32,6 +33,7 @@
     <sdef n="pp"          c="Past participle"/>
  
     <sdef n="subj"        c="Subject"/>
+    <sdef n="def"         c="Definite"/>
   </sdefs>
   <pardefs>
     <!-- SECTION: Conjunctions -->
@@ -57,6 +59,24 @@
     <pardef n="li__rel">
       <e><p><l/><r><s n="rel"/><s n="an"/><s n="mf"/><s n="sp"/></r></p></e>
     </pardef>
+
+    <!-- SECTION: Determiners -->
+
+    <pardef n="l-__det">
+      <e r="LR"><p><l>l-</l><r>l<s n="det"/><s n="def"/></r></p></e>
+      <e r="LR"><p><l>il-</l><r>l<s n="det"/><s n="def"/></r></p></e>
+      <e r="LR"><p><l>iċ-</l><r>l<s n="det"/><s n="def"/></r></p></e>
+      <e r="LR"><p><l>id-</l><r>l<s n="det"/><s n="def"/></r></p></e>
+      <e r="LR"><p><l>in-</l><r>l<s n="det"/><s n="def"/></r></p></e>
+      <e r="LR"><p><l>ir-</l><r>l<s n="det"/><s n="def"/></r></p></e>
+      <e r="LR"><p><l>is-</l><r>l<s n="det"/><s n="def"/></r></p></e>
+      <e r="LR"><p><l>it-</l><r>l<s n="det"/><s n="def"/></r></p></e>
+      <e r="LR"><p><l>ix-</l><r>l<s n="det"/><s n="def"/></r></p></e>
+      <e r="LR"><p><l>iz-</l><r>l<s n="det"/><s n="def"/></r></p></e>
+      <e r="LR"><p><l>iż-</l><r>l<s n="det"/><s n="def"/></r></p></e>
+      <e r="RL"><p><l><a/>l-</l><r>l<s n="det"/><s n="def"/></r></p></e>
+    </pardef>
+
 
 
     <!-- SECTION: Nouns -->
@@ -104,11 +124,31 @@
 
     <e lm="li"><i>li</i><par n="li__rel"/></e>
 
+    <!-- SECTION: Determiners -->
+
+    
+
     <!-- SECTION: Nouns -->
     <e lm="gramafown"><i>gram</i><par n="gram/afown__n"/></e>
     <e lm="dar"><i>d</i><par n="d/ar__n"/></e>
     <e lm="ktieb"><i>k</i><par n="k/tieb__n"/></e>
     <e lm="reliġjon"><i>reliġjon</i><par n="reliġjon__n"/></e>
+  </section>
+
+  <section id="article" type="postblank">
+    <e lm="l"><i/><par n="l-__det"/></e>
+
+    <e lm="fi" r="LR"><p><l>f'</l><r>fi</r></p><par n="kontra__pr"/></e>
+    <e lm="ta'" r="LR"><p><l>t'</l><r>ta'</r></p><par n="kontra__pr"/></e>
+    <e lm="sa" r="LR"><p><l>s'</l><r>sa</r></p><par n="kontra__pr"/></e>
+    <e lm="bi" r="LR"><p><l>b'</l><r>bi</r></p><par n="kontra__pr"/></e>
+    <e lm="ta'" r="LR"><i>ta'</i><par n="kontra__pr"/></e>
+    <e lm="ma'" r="LR"><i>ma'</i><par n="kontra__pr"/></e>
+    <e lm="t-" r="LR"><p><l>t-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e lm="s-" r="LR"><p><l>s-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+
+    <e lm="fil" r="LR"><p><l>f</l><r>fi<s n="pr"/><j/></r></p><par n="l-__det"/></e>
+    <e lm="bil" r="LR"><p><l>b</l><r>bi<s n="pr"/><j/></r></p><par n="l-__det"/></e>
   </section>
 
   <section id="verbs" type="standard">

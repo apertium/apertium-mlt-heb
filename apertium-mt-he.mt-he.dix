@@ -8,6 +8,7 @@
      <sdef n="vblex"/>
      <sdef n="rel"/>
      <sdef n="cnjsub"/>
+     <sdef n="det"/>
      <sdef n="cnjcoo"/>
      <sdef n="adv"/>
      <sdef n="adj"/>
@@ -19,6 +20,8 @@
      <sdef n="f"/>
 
      <sdef n="p1"/>
+
+     <sdef n="def"/>
 
      <sdef n="top"/>
 
@@ -40,6 +43,8 @@
      <e><p><l>li<s n="rel"/></l><r>כי<s n="rel"/></r></p></e>
 
      <!-- SECTION: Determiners -->
+
+     <e><p><l>l<s n="det"/><s n="def"/></l><r>ה<s n="det"/><s n="def"/></r></p></e>
 
      <!-- SECTION: Numerals -->
  

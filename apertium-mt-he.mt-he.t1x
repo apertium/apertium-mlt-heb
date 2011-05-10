@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <transfer>
   <section-def-cats>
+    <def-cat n="artic">
+      <cat-item tags="det.def.*"/>
+      <cat-item tags="det.def"/>
+    </def-cat>
     <def-cat n="nom">
       <cat-item tags="n.*"/>
     </def-cat>
@@ -52,6 +56,29 @@
              <clip pos="1" side="tl" part="gen"/>
              <clip pos="1" side="tl" part="nbr"/>
            </lu>
+         </out>
+       </action>
+    </rule>
+
+
+    <rule comment="rule: artic nom">
+       <pattern>
+         <pattern-item n="artic"/>
+         <pattern-item n="nom"/>
+       </pattern>
+       <action>
+         <out>
+           <mlu>
+             <lu>
+               <clip pos="1" side="tl" part="whole"/>
+             </lu>
+             <lu>
+               <clip pos="2" side="tl" part="lem"/>
+               <clip pos="2" side="tl" part="a_nom"/>
+               <clip pos="2" side="tl" part="gen"/>
+               <clip pos="2" side="tl" part="nbr"/>
+             </lu>
+           </mlu>
          </out>
        </action>
     </rule>
