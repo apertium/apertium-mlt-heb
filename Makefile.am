@@ -30,6 +30,21 @@ $(PREFIX1).autogen.bin: $(BASENAME).$(LANG2).dix
 	lt-comp rl $(BASENAME).$(LANG2).dix $@
 
 
+# he-mt (for dev purposes, not in TARGETS_COMMON, EXTRA_DIST, etc. yet)
+$(PREFIX2).automorf.bin: $(BASENAME).$(LANG2).dix
+	apertium-validate-dictionary $(BASENAME).$(LANG2).dix
+	lt-comp lr $(BASENAME).$(LANG2).dix $@
+
+$(PREFIX2).autobil.bin: $(BASENAME).$(PREFIX2).dix
+	apertium-validate-dictionary $(BASENAME).$(PREFIX2).dix
+	lt-comp lr $(BASENAME).$(PREFIX2).dix $@
+
+$(PREFIX2).autogen.bin: $(BASENAME).$(LANG1).dix
+	apertium-validate-dictionary $(BASENAME).$(LANG1).dix
+	lt-comp rl $(BASENAME).$(LANG1).dix $@
+
+
+
 EXTRA_DIST=$(BASENAME).$(LANG1).dix $(BASENAME).$(PREFIX1).dix \
 	   $(BASENAME).$(LANG2).dix \
            $(PREFIX1).prob \
