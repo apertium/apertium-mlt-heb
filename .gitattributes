@@ -19,6 +19,7 @@ dev/he.nouns.dix -text
 dev/mt-he.interwiki.xml -text
 dev/mt_verbs/classes/__init__.py -text
 dev/mt_verbs/classes/defective.py -text
+dev/mt_verbs/classes/defective_a_a.py -text
 dev/mt_verbs/classes/irregular_gie.py -text
 dev/mt_verbs/classes/irregular_ha.py -text
 dev/mt_verbs/classes/irregular_qal.py -text
