@@ -1,1 +1,4 @@
+/*.bin
+/*.pyc
+/.DS_Store
 dev/mt_verbs/*.pyc

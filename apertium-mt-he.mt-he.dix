@@ -73,8 +73,9 @@
 
      <!-- SECTION: Verbs -->
 
-     <e><p><l>ara<s n="vblex"/></l><r>רואה<s n="vblex"/></r></p></e>
+     <e><p><l>ara<s n="vblex"/></l><r>ראה<s n="vblex"/></r></p></e>
      <e><p><l>kiteb<s n="vblex"/></l><r>כתב<s n="vblex"/></r></p></e>
+     <e><p><l>iddeċide<s n="vblex"/></l><r>החליט<s n="vblex"/></r></p></e>
 
    </section>
 </dictionary>
