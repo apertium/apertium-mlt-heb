@@ -27,6 +27,7 @@ dev/mt_verbs/classes/irregular_ra.py -text
 dev/mt_verbs/classes/irregular_ta.py -text
 dev/mt_verbs/classes/loan_english.py -text
 dev/mt_verbs/classes/loan_romance.py -text
+dev/mt_verbs/classes/quadriliteral.py -text
 dev/mt_verbs/classes/strong.py -text
 dev/mt_verbs/classes/strong_a_o.py -text
 dev/mt_verbs/classes/strong_a_o_overloaded.py -text
