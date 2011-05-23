@@ -31,8 +31,16 @@
      <!-- SECTION: Conjunctions -->
 
      <e><p><l>u<s n="cnjcoo"/></l><r>-ו<s n="cnjcoo"/></r></p></e>
+     <e><p><l>jew<s n="cnjcoo"/></l><r>או<s n="cnjcoo"/></r></p></e>
+     <e><p><l>meta<s n="cnjcoo"/></l><r>כש-<s n="cnjcoo"/></r></p></e>
+     <e><p><l>jekk<s n="cnjcoo"/></l><r>אם<s n="cnjcoo"/></r></p></e>
+     <e><p><l>mentri<s n="cnjcoo"/></l><r>תוך<s n="cnjcoo"/></r></p></e>
+     <e><p><l>ġaladarba<s n="cnjcoo"/></l><r>מאז<s n="cnjcoo"/></r></p></e>
+     <e><p><l>sija<s n="cnjcoo"/></l><r>גם<s n="cnjcoo"/></r></p></e>
 
-     <e><p><l>li<s n="cnjsub"/></l><r>כי<s n="cnjsub"/></r></p></e>
+     <e><p><l>li<s n="cnjsub"/></l><r>ל<s n="cnjsub"/></r></p></e>
+     <e><p><l>għax<s n="cnjsub"/></l><r>כי<s n="cnjsub"/></r></p></e>
+     <e><p><l>bħalma<s n="cnjsub"/></l><r>כ-<s n="cnjsub"/></r></p></e>
 
      <!-- SECTION: Prepositions -->
 
