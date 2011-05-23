@@ -60,6 +60,15 @@
       <e><p><l>אני</l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="sg"/></r></p></e>
       <e><p><l>אנחנו</l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="pl"/></r></p></e>
       <e r="LR"><p><l>אנו</l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p><l>אתה</l><r>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>את</l><r>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>אתם</l><r>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p><l>אתן</l><r>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+      <e><p><l>הוא</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"><s n="m"/><s n="sg"/></s></r></p></e>
+      <e><p><l>היא</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"><s n="f"/><s n="sg"/></s></r></p></e>
+      <e><p><l>הם</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"><s n="m"/><s n="pl"/></s></r></p></e>
+      <e><p><l>הן</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"><s n="f"/><s n="pl"/></s></r></p></e>
+      
     </pardef>
 
     <!-- SECTION: Nouns -->  

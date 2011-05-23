@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dictionary>
-<alphabet>ABĊDEFĠGGHĦIIJKLMNOPQRSTUVWXZŻabċdefġgħgħhħieiejklmnopqrstuvwxzżycYCáéíóúàèìòù</alphabet>
+<alphabet>ABĊDEFĠGGHĦIIJKLMNOPQRSTUVWXZŻabċdefġgħghieiejklmnopqrstuvwxzżycYCáéíóúàèìòù</alphabet>
   <sdefs>
     <sdef n="n"           c="Noun"/>
     <sdef n="vblex"       c="Verb"/>
@@ -138,6 +138,14 @@
     <!-- SECTION: Conjunctions -->
     <e lm="u"><i>u</i><par n="u__cnjcoo"/></e>
     <e lm="jew"><i>jew</i><par n="u__cnjcoo"/></e>
+    <e lm="meta"><i>meta</i><par n="u__cnjcoo"/></e>
+    <e lm="jekk"><i>jekk</i><par n="u__cnjcoo"/></e>
+    <e lm="għax"><i>għax</i><par n="u__cnjcoo"/></e>
+    <e lm="bħalma"><i>bħalma</i><par n="u__cnjcoo"/></e>
+    <e lm="mentri"><i>mentri</i><par n="u__cnjcoo"/></e>
+    <e lm="ġaladarba"><i>ġaladarba</i><par n="u__cnjcoo"/></e>
+    <e lm="sija"><i>sija</i><par n="u__cnjcoo"/></e>
+    <!-- TODO more conjunctions! -->
 
     <e lm="li"><i>li</i><par n="li__cnjsub"/></e>
 
@@ -147,8 +155,9 @@
     <e lm="minn"><i>minn</i><par n="kontra__pr"/></e>
     <e lm="fuq"><i>fuq</i><par n="kontra__pr"/></e>
     <e lm="wara"><i>wara</i><par n="kontra__pr"/></e>
-    <e lm="minn"><i>minn</i><par n="kontra__pr"/></e>
     <e lm="lil"><i>lil</i><par n="kontra__pr"/></e>
+    <e lm="għal"><i>għal</i><par n="kontra__pr"/></e>
+    <e lm="bħal"><i>bħal</i><par n="kontra__pr"/></e>
 
     <!-- SECTION: Pronouns -->
     <e lm="personal subject pronouns"><i/><par n="prsubj__prn"/></e>
@@ -172,6 +181,7 @@
     <e lm="fi" r="LR"><p><l>f'</l><r>fi</r></p><par n="kontra__pr"/></e>
     <e lm="ta'" r="LR"><p><l>t'</l><r>ta'</r></p><par n="kontra__pr"/></e>
     <e lm="sa" r="LR"><p><l>s'</l><r>sa</r></p><par n="kontra__pr"/></e>
+    <e lm="ġo" r="LR"><p><l>ġ'</l><r>ġo</r></p><par n="kontra__pr"/></e>
     <e lm="bi" r="LR"><p><l>b'</l><r>bi</r></p><par n="kontra__pr"/></e>
     <e lm="ta'" r="LR"><i>ta'</i><par n="kontra__pr"/></e>
     <e lm="ma'" r="LR"><i>ma'</i><par n="kontra__pr"/></e>
@@ -180,6 +190,10 @@
 
     <e lm="fil" r="LR"><p><l>f</l><r>fi<s n="pr"/><j/></r></p><par n="l-__det"/></e>
     <e lm="bil" r="LR"><p><l>b</l><r>bi<s n="pr"/><j/></r></p><par n="l-__det"/></e>
+  </section>
+  
+  <section id="final" type="inconditional">
+    <e><p><l>?</l><r>,<s n="sent"/></r></p></e>
   </section>
 
   <section id="verbs" type="standard">
