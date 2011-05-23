@@ -32,7 +32,10 @@
     <sdef n="imp"         c="Imperative"/>
     <sdef n="pp"          c="Past participle"/>
  
+    <sdef n="tn"          c="Tonico(?)"/>
+
     <sdef n="subj"        c="Subject"/>
+    <sdef n="obj"         c="Object"/>
     <sdef n="def"         c="Definite"/>
   </sdefs>
   <pardefs>
