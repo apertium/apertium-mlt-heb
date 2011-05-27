@@ -49,6 +49,50 @@
      <e><p><l>prpers<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
 
      <e><p><l>li<s n="rel"/></l><r>כי<s n="rel"/></r></p></e>
+     
+     <e><p><l>kollu<s n="prn"/></l><r>כל<s n="prn"/></r></p></e>
+     <e><p><l>jew<s n="prn"/></l><r>או<s n="prn"/></r></p></e>
+
+     <e><p><l>iehor<s n="prn"/></l><r>אחר<s n="prn"/></r></p></e>
+     <e><p><l>kwalunkwe haga<s n="prn"/></l><r>כל דבר<s n="prn"/></r></p></e>
+     <e><p><l>xi ħadd<s n="prn"/></l><r>כל אחד<s n="prn"/></r></p></e>
+     <e><p><l>kulhadd<s n="prn"/></l><r>כולם<s n="prn"/></r></p></e>
+     <e><p><l>kollox<s n="prn"/></l><r>הכל<s n="prn"/></r></p></e>
+     <e><p><l>ħadd<s n="prn"/></l><r>אף<b/>אחד<s n="prn"/></r></p></e>
+     <e><p><l>xejn<s n="prn"/></l><r>כלום<s n="prn"/></r></p></e>
+     <e><p><l>xi hadd<s n="prn"/></l><r>מישהו<s n="prn"/></r></p></e>
+     <e><p><l>kull<s n="prn"/></l><r>כל<s n="prn"/></r></p></e>
+     <e><p><l>dak kollu<s n="prn"/></l><r>כלשהו<s n="prn"/></r></p></e>
+
+     <e><p><l>ħadd<s n="prn"/></l><r>אף<b/>לא<b/>אחד<s n="prn"/></r></p></e>
+     <e><p><l>kwalunkwe<s n="prn"/></l><r>כל<s n="prn"/></r></p></e>
+     <e><p><l>xi haga<s n="prn"/></l><r>משהו<s n="prn"/></r></p></e>
+     <e><p><l>b'xi mod jew iehor<s n="prn"/></l><r>איפשהו<s n="prn"/></r></p></e>
+
+     <e><p><l>xi<s n="prn"/></l><r>חלק<s n="prn"/></r></p></e>
+     <e><p><l>kemm<s n="prn"/></l><r>הן<s n="prn"/></r></p></e>
+     <e><p><l>hafna<s n="prn"/></l><r>רבים<s n="prn"/></r></p></e>
+     <e><p><l>ftit<s n="prn"/></l><r>כמה<s n="prn"/></r></p></e>
+     <e><p><l>oħrajn<s n="prn"/></l><r>אחרים<s n="prn"/></r></p></e>
+     <e><p><l>diversi<s n="prn"/></l><r>מספר<s n="prn"/></r></p></e>
+     <e><p><l>l-iktar<s n="prn"/></l><r>מרבית<s n="prn"/></r></p></e>
+
+     <e><p><l>min<s n="prn"/></l><r>מי<s n="prn"/></r></p></e>
+     <e><p><l>dak li<s n="prn"/></l><r>מה<s n="prn"/></r></p></e>
+     <e><p><l>liema<s n="prn"/></l><r>איזה<s n="prn"/></r></p></e>
+     <e><p><l>kemm huma<s n="prn"/></l><r>כמה<s n="prn"/></r></p></e>
+     <e><p><l>kemm iqum<s n="prn"/></l><r>כמה<s n="prn"/></r></p></e>
+
+     <e><p><l>dan<s n="prn"/></l><r>זה<s n="prn"/></r></p></e>
+
+     <!-- Possessive pronouns -->
+     <e><p><l>tieghi<s n="prn"/></l><r>שלי<s n="prn"/></r></p></e>
+     <e><p><l>taghna<s n="prn"/></l><r>שלנו<s n="prn"/></r></p></e>
+     <e><p><l>tieghek<s n="prn"/></l><r>שלך<s n="prn"/></r></p></e>
+     <e><p><l>taghkom<s n="prn"/></l><r>שלך<s n="prn"/></r></p></e>
+     <e><p><l>tieghu<s n="prn"/></l><r>שלו<s n="prn"/></r></p></e>
+     <e><p><l>taghha<s n="prn"/></l><r>שלה<s n="prn"/></r></p></e>
+     <e><p><l>taghhom<s n="prn"/></l><r>שלהם<s n="prn"/></r></p></e>
 
      <!-- SECTION: Determiners -->
 

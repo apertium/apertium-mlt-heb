@@ -56,6 +56,7 @@
     </pardef>
 
     <!-- SECTION: Pronouns -->
+    
     <pardef n="prsubj__prn">
       <e><p><l>I</l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
       <e><p><l>jien</l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
@@ -69,24 +70,52 @@
       <e><p><l>aħna</l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
       <e><p><l>intom</l><r>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p></e>
       <e><p><l>huma</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
-    </pardef>  
-    <!-- TODO: missing "it"?? -->
+      <!-- TODO: missing "it"?? -->
+    </pardef>
+      
+    <pardef n="kollu_prn">
+      <e><p><l/><r><s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></r></p></e>
+    </pardef>
+    <pardef n="iehor__prn">
+      <e><p><l/><r><s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
+    </pardef>
+    <pardef n="ħadd__prn">
+      <e><p><l/><r><s n="prn"/><s n="tn"/><s n="nt"/><s n="sg"/></r></p></e>
+    </pardef>
+    <pardef n="xi__prn">
+      <e><p><l/><r><s n="prn"/><s n="tn"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
+    <pardef n="min__prn">
+      <e><p><l/><r><s n="prn"/><s n="itg"/><s n="m"/><s n="sp"/></r></p></e>
+    </pardef>
+    <pardef n="kemm_huma__prn">
+      <e><p><l/><r><s n="prn"/><s n="itg"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
+    <pardef n="kemm_iequm__prn">
+      <e><p><l/><r><s n="prn"/><s n="itg"/><s n="mf"/><s n="sg"/></r></p></e>
+    </pardef>
+    <pardef n="dan__prn">
+      <e><p><l/><r><s n="prn"/><s n="tn"/><s n="mf"/><s n="sg"/></r></p></e>
+    </pardef>
+    <pardef n="taghha__prn">
+      <e><p><l/><r><s n="prn"/><s n="pos"/><s n="mf"/><s n="sp"/></r></p></e>
+    </pardef>
     
     <!-- TODO: check if these are valid pronoun objects. I have a feeling lilek=to you -->
     <pardef n="probj__prn">
-    <e><p><l>lili</l><r>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
-    <e><p><l>lilek</l><r>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
-    <e><p><l>lilkum</l><r>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p></e>
-    <e><p><l>lilu</l><r>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
-    <e><p><l>ha</l><r>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
-    <e><p><l>lilna</l><r>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
-    <e><p><l>lilhom</l><r>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
-    <e><p><l><b/>dan</l><r><j/>dan<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
-    <e><p><l><b/>din</l><r><j/>tan<s n="prn"/><s n="tn"/><s n="f"/><s n="sg"/></r></p></e>
-    <e><p><l><b/>dak</l><r><j/>dak<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
-    <e><p><l><b/>dik</l><r><j/>dak<s n="prn"/><s n="tn"/><s n="f"/><s n="sg"/></r></p></e>
-    <e><p><l><b/>dawn</l><r><j/>dawn<s n="prn"/><s n="tn"/><s n="mf"/><s n="pl"/></r></p></e>
-    <e><p><l><b/>dawk</l><r><j/>dawn<s n="prn"/><s n="tn"/><s n="mf"/><s n="pl"/></r></p></e>
+      <e><p><l>lili</l><r>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e><p><l>lilek</l><r>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e><p><l>lilkum</l><r>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p></e>
+      <e><p><l>lilu</l><r>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>ha</l><r>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>lilna</l><r>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
+      <e><p><l>lilhom</l><r>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
+      <e><p><l><b/>dan</l><r><j/>dan<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l><b/>din</l><r><j/>tan<s n="prn"/><s n="tn"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l><b/>dak</l><r><j/>dak<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l><b/>dik</l><r><j/>dak<s n="prn"/><s n="tn"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l><b/>dawn</l><r><j/>dawn<s n="prn"/><s n="tn"/><s n="mf"/><s n="pl"/></r></p></e>
+      <e><p><l><b/>dawk</l><r><j/>dawn<s n="prn"/><s n="tn"/><s n="mf"/><s n="pl"/></r></p></e>
     </pardef>
 
     <pardef n="li__rel">
@@ -165,6 +194,50 @@
     <e lm="personal subject pronouns"><i/><par n="prsubj__prn"/></e>
 
     <e lm="li"><i>li</i><par n="li__rel"/></e>
+    
+    <e lm="kollu" c="all"><i>kollu</i><par n="kollu_prn"/></e>
+    <e lm="jew" c="either"><i>jew</i><par n="kollu_prn"/></e>
+    
+    <e lm="iehor" c="another"><i>iehor</i><par n="iehor__prn"/></e>
+    <e lm="kwalunkwe haga" c="anything"><i>kwalunkwe<b/>haga</i><par n="iehor__prn"/></e>
+    <e lm="xi ħadd" c="anybody"><i>xi ħadd</i><par n="iehor__prn"/></e>
+    <e lm="kulhadd" c="everyone"><i>kulhadd</i><par n="iehor__prn"/></e>
+    <e lm="kollox" c="everything"><i>kollox</i><par n="iehor__prn"/></e>
+    <e lm="ħadd" c="nobody"><i>ħadd</i><par n="iehor__prn"/></e>
+    <e lm="xejn" c="nothing"><i>xejn</i><par n="iehor__prn"/></e>
+    <e lm="xi hadd" c="someone"><i>xi<b/>hadd</i><par n="iehor__prn"/></e>
+    <e lm="kull" c="each"><i>kull</i><par n="iehor__prn"/></e>
+    <e lm="dak kollu" c="whatever"><i>dak<b/>kollu</i><par n="iehor__prn"/></e>
+    
+    <e lm="ħadd" c="none"><i>ħadd</i><par n="ħadd__prn"/></e>
+    <e lm="kwalunkwe" c="any"><i>kwalunkwe</i><par n="kollu_prn"/></e>
+    <e lm="xi haga" c="something"><i>xi<b/>haga</i><par n="ħadd__prn"/></e>
+    <e lm="b'xi mod jew iehor" c="somewhere"><i>b'xi<b/>mod<b/>jew<b/>iehor</i><par n="ħadd__prn"/></e>
+    
+    <e lm="xi" c="some"><i>xi</i><par n="xi__prn"/></e>
+    <e lm="kemm" c="both"><i>kemm</i><par n="xi__prn"/></e>
+    <e lm="hafna" c="many"><i>hafna</i><par n="xi__prn"/></e>
+    <e lm="ftit" c="few"><i>ftit</i><par n="xi__prn"/></e>
+    <e lm="oħrajn" c="others"><i>oħrajn</i><par n="xi__prn"/></e>
+    <e lm="diversi" c="several"><i>diversi</i><par n="xi__prn"/></e>
+    <e lm="l-iktar" c="most"><i>l-iktar</i><par n="xi__prn"/></e>
+    
+    <e lm="min" c="who"><i>min</i><par n="min__prn"/></e>
+    <e lm="dak li" c="what"><i>dak<b/>li</i><par n="min__prn"/></e>
+    <e lm="liema" c="which"><i>liema</i><par n="min__prn"/></e>
+    <e lm="kemm huma" c="how many"><i>kemm<b/>huma</i><par n="kemm_huma__prn"/></e>
+    <e lm="kemm iequm" c="how much"><i>kemm<b/>iqum</i><par n="kemm_iequm__prn"/></e>
+    
+    <e lm="dan" c="this"><i>dan</i><par n="dan__prn"/></e>
+    
+    <!-- Possessive pronouns -->
+    <e lm="tieghi" c="mine"><i>tieghi</i><par n="taghha__prn"/></e>
+    <e lm="taghna" c="ours"><i>taghna</i><par n="taghha__prn"/></e>
+    <e lm="tieghek" c="yours (sg)"><i>tieghek</i><par n="taghha__prn"/></e>
+    <e lm="taghkom" c="yours (pl)"><i>taghkom</i><par n="taghha__prn"/></e>
+    <e lm="tieghu" c="his"><i>tieghu</i><par n="taghha__prn"/></e>
+    <e lm="taghha" c="hers"><i>taghha</i><par n="taghha__prn"/></e>
+    <e lm="taghhom" c="theirs"><i>taghhom</i><par n="taghha__prn"/></e>
 
     <!-- SECTION: Determiners -->
 

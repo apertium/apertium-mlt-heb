@@ -71,6 +71,34 @@
       <e><p><l>הם</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
       <e><p><l>הן</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
       
+      <pardef n="כל_prn">
+        <e><p><l/><r><s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></r></p></e>
+      </pardef>
+      <pardef n="אחר__prn">
+        <e><p><l/><r><s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
+      </pardef>
+      <pardef n="משהו__prn">
+        <e><p><l/><r><s n="prn"/><s n="tn"/><s n="nt"/><s n="sg"/></r></p></e>
+      </pardef>
+      <pardef n="חלק__prn">
+        <e><p><l/><r><s n="prn"/><s n="tn"/><s n="mf"/><s n="pl"/></r></p></e>
+      </pardef>
+      <pardef n="מי__prn">
+        <e><p><l/><r><s n="prn"/><s n="itg"/><s n="m"/><s n="sp"/></r></p></e>
+      </pardef>
+      <pardef n="כמה__prn">
+        <e><p><l/><r><s n="prn"/><s n="itg"/><s n="mf"/><s n="pl"/></r></p></e>
+      </pardef>
+      <pardef n="kemm_iequm__prn">
+        <e><p><l/><r><s n="prn"/><s n="itg"/><s n="mf"/><s n="sg"/></r></p></e>
+      </pardef>
+      <pardef n="זה__prn">
+        <e><p><l/><r><s n="prn"/><s n="tn"/><s n="mf"/><s n="sg"/></r></p></e>
+      </pardef>
+      <pardef n="שלי__prn">
+        <e><p><l/><r><s n="prn"/><s n="pos"/><s n="mf"/><s n="sp"/></r></p></e>
+      </pardef>
+      
     </pardef>
 
     <!-- SECTION: Nouns -->  
@@ -5947,6 +5975,56 @@
     </pardef>
   </pardefs>
   <section id="main" type="standard">
+    
+    <!-- SECTION: Pronouns -->
+    <e lm="personal subject pronouns"><i/><par n="prsubj__prn"/></e>
+
+    <e lm="li"><i>li</i><par n="li__rel"/></e>
+    
+    <e lm="כל" c="all"><i>כל</i><par n="כל_prn"/></e>
+    <e lm="או" c="either"><i>או</i><par n="כל_prn"/></e>
+    <e lm="כל" c="any"><i>כל</i><par n="כל_prn"/></e>
+    
+    <e lm="אחר" c="another"><i>אחר</i><par n="אחר__prn"/></e>
+    <e lm="כל דבר" c="anything"><i>כל<b/>דבר<b/>haga</i><par n="אחר__prn"/></e>
+    <e lm="כל אחד אחר" c="another"><i>כל<b/>אחד<b/>אחר</i><par n="אחר__prn"/></e>
+    <e lm="כל אחד" c="anybody"><i>כל<b/>אחד</i><par n="אחר__prn"/></e>
+    <e lm="כולם" c="everyone"><i>כולם</i><par n="אחר__prn"/></e>
+    <e lm="הכל" c="everything"><i>הכל</i><par n="אחר__prn"/></e>
+    <e lm="אף אחד" c="nobody"><i>אף<b/>אחד</i><par n="אחר__prn"/></e>
+    <e lm="אף דבר" c="nothing"><i>כלום</i><par n="אחר__prn"/></e>
+    <e lm="מישהו" c="someone"><i>מישהו</i><par n="אחר__prn"/></e>
+    <e lm="כל" c="each"><i>כל</i><par n="אחר__prn"/></e>
+    <e lm="כלשהו" c="whatever"><i>כלשהו</i><par n="אחר__prn"/></e>
+    
+    <e lm="משהו" c="something"><i>משהו</i><par n="משהו__prn"/></e>
+    <e lm="איפשהו" c="somewhere"><i>איפשהו<par n="משהו__prn"></par></e>
+    <e lm="אף לא אחד" c="none"><i>אף<b/>לא<b/>אחד</i><par n="משהו__prn"/></e>
+    
+    <e lm="חלק" c="some"><i>חלק</i><par n="חלק__prn"/></e>
+    <e lm="הן" c="both"><i>הן</i><par n="חלק__prn"/></e>
+    <e lm="רבים" c="many"><i>רבים</i><par n="חלק__prn"/></e>
+    <e lm="כמה" c="few"><i>כמה</i><par n="חלק__prn"/></e>
+    <e lm="אחרים" c="others"><i>אחרים</i><par n="חלק__prn"/></e>
+    <e lm="מספר" c="several"><i>מספר</i><par n="חלק__prn"/></e>
+    <e lm="מרבית" c="most"><i>מרבית</i><par n="חלק__prn"/></e>
+    
+    <e lm="מי" c="who"><i>מי</i><par n="מי__prn"/></e>
+    <e lm="מה" c="what"><i>מה<b/>li</i><par n="מי__prn"/></e>
+    <e lm="איזה" c="which"><i>איזה</i><par n="מי__prn"/></e>
+    <e lm="כמה" c="how many"><i>כמה</i><par n="כמה__prn"/></e>
+    
+    <e lm="זה" c="this"><i>זה</i><par n="זה__prn"/></e>
+    
+    <!-- Possessive pronouns -->
+    <e lm="שלי" c="mine"><i>שלי</i><par n="שלי__prn"/></e>
+    <e lm="שלנו" c="ours"><i>שלנו</i><par n="שלי__prn"/></e>
+    <e lm="שלך" c="yours (sg)"><i>שלך</i><par n="שלי__prn"/></e>
+    <e lm="שלכם" c="yours (pl)"><i>שלכם</i><par n="שלי__prn"/></e>
+    <e lm="שלו" c="his"><i>שלו</i><par n="שלי__prn"/></e>
+    <e lm="שלה" c="hers"><i>שלה</i><par n="שלי__prn"/></e>
+    <e lm="שלהם" c="theirs (m)"><i>שלהם</i><par n="שלי__prn"/></e>
+    <e lm="שלהן" c="theirs (f)"><i>שלהן</i><par n="שלי__prn"/></e>
 
     <!-- SECTION: Prepositions -->
 
