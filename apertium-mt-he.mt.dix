@@ -2,6 +2,8 @@
 <dictionary>
 <alphabet>ABĊDEFĠGGHĦIIJKLMNOPQRSTUVWXZŻabċdefġgħghieiejklmnopqrstuvwxzżycYCáéíóúàèìòù</alphabet>
   <sdefs>
+    <sdef n="sent"/>
+    
     <sdef n="n"           c="Noun"/>
     <sdef n="vblex"       c="Verb"/>
     <sdef n="prn"         c="Pronoun"/>
@@ -146,8 +148,8 @@
     <!-- TODO more conjunctions! -->
 
     <e lm="li"><i>li</i><par n="li__cnjsub"/></e>
-    <e lm="għax"><i>għax</i><par n="u__cnjsub"/></e>
-    <e lm="bħalma"><i>bħalma</i><par n="u__cnjsub"/></e>
+    <e lm="għax"><i>għax</i><par n="li__cnjsub"/></e>
+    <e lm="bħalma"><i>bħalma</i><par n="li__cnjsub"/></e>
 
     <!-- SECTION: Prepositions -->
     <e lm="kontra"><i>kontra</i><par n="kontra__pr"/></e>

@@ -8,11 +8,13 @@
     <sdef n="f"            c="Noun"/>
     <sdef n="subj"         c="Subject"/>
     <sdef n="p1"           c="First person"/>
+    <sdef n="p2"           c="Second person"/>
+    <sdef n="p3"           c="Third person"/>
     <sdef n="m"            c="Noun"/>
     <sdef n="mf"           c="Noun"/>
     <sdef n="sg"           c="Noun"/>
     <sdef n="pl"           c="Noun"/>
-    <sdef n="cons"          c="Noun"/>
+    <sdef n="cons"         c="Noun"/>
     <sdef n="px1sg"        c="Noun"/>
     <sdef n="px1pl"        c="Noun"/>
     <sdef n="px2sg_m"      c="Noun"/>
@@ -64,10 +66,10 @@
       <e><p><l>את</l><r>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="f"/><s n="sg"/></r></p></e>
       <e><p><l>אתם</l><r>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
       <e><p><l>אתן</l><r>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
-      <e><p><l>הוא</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"><s n="m"/><s n="sg"/></s></r></p></e>
-      <e><p><l>היא</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"><s n="f"/><s n="sg"/></s></r></p></e>
-      <e><p><l>הם</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"><s n="m"/><s n="pl"/></s></r></p></e>
-      <e><p><l>הן</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"><s n="f"/><s n="pl"/></s></r></p></e>
+      <e><p><l>הוא</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>היא</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>הם</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p><l>הן</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
       
     </pardef>
 
