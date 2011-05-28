@@ -104,7 +104,7 @@
  
      <!-- SECTION: Nouns -->
 
-     <e><p><l>gramafown<s n="n"/></l><r>פטיפון<s n="n"/></r></p></e> <!-- gender missing -->
+     <e><p><l>gramafown<s n="n"/><s n="m"/></l><r>פטיפון<s n="n"/><s n="m"/></r></p></e>
      <e><p><l>reliġjon<s n="n"/><s n="m"/></l><r>דת<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>ktieb<s n="n"/><s n="m"/></l><r>ספר<s n="n"/><s n="m"/></r></p></e>
      <e><p><l>ilsien<s n="n"/><s n="m"/></l><r>לשון<s n="n"/><s n="f"/></r></p></e>

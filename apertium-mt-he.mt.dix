@@ -154,8 +154,8 @@
 
     <!-- SECTION: Nouns -->
     <pardef n="gram/afown__n">
-      <e><p><l>afown</l><r>afown<s n="n"/><s n="sg"/></r></p></e>
-      <e><p><l>ofoni</l><r>afown<s n="n"/><s n="pl"/></r></p></e>
+      <e><p><l>afown</l><r>afown<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>ofoni</l><r>afown<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     </pardef>
 
     <pardef n="d/ar__n">
