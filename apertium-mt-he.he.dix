@@ -1,35 +1,42 @@
 <dictionary>
   <alphabet>אבגדהוזחטיכךלמםנןסעפףצץקרשת•ﭏ</alphabet>
   <sdefs>
-    <sdef n="n"            c="Noun"/>
-    <sdef n="pr"           c="Preposition"/>
-    <sdef n="prn"          c="Pronoun"/>
-    <sdef n="det"          c="Determiner"/>
-    <sdef n="f"            c="Noun"/>
-    <sdef n="subj"         c="Subject"/>
-    <sdef n="p1"           c="First person"/>
-    <sdef n="p2"           c="Second person"/>
-    <sdef n="p3"           c="Third person"/>
-    <sdef n="m"            c="Noun"/>
-    <sdef n="mf"           c="Noun"/>
-    <sdef n="sg"           c="Noun"/>
-    <sdef n="pl"           c="Noun"/>
-    <sdef n="cons"         c="Noun"/>
-    <sdef n="px1sg"        c="Noun"/>
-    <sdef n="px1pl"        c="Noun"/>
-    <sdef n="px2sg_m"      c="Noun"/>
-    <sdef n="px2sg_f"      c="Noun"/>
-    <sdef n="px2pl_m"      c="Noun"/>
-    <sdef n="px2pl_f"      c="Noun"/>
-    <sdef n="px3sg_m"      c="Noun"/>
-    <sdef n="px3sg_f"      c="Noun"/>
-    <sdef n="px3pl_m"      c="Noun"/>
-    <sdef n="px3pl_f"      c="Noun"/>
+    <sdef n="n"           c="Noun"/>
+    <sdef n="pr"          c="Preposition"/>
+    <sdef n="prn"         c="Pronoun"/>
+    <sdef n="det"         c="Determiner"/>
+    <sdef n="p1"          c="First person"/>
+    <sdef n="p2"          c="Second person"/>
+    <sdef n="p3"          c="Third person"/>
+    
+    <sdef n="m"           c="Masculine"/>
+    <sdef n="f"           c="Feminine"/>
+    <sdef n="mf"          c="Masculine / feminine"/>
+    
+    <sdef n="sg"          c="Singular"/>
+    <sdef n="pl"          c="Plural"/>
+    <sdef n="sp"          c="Singular / plural"/>
+    
+    <sdef n="cons"        c="Noun"/>
+    <sdef n="px1sg"       c="Noun"/>
+    <sdef n="px1pl"       c="Noun"/>
+    <sdef n="px2sg_m"     c="Noun"/>
+    <sdef n="px2sg_f"     c="Noun"/>
+    <sdef n="px2pl_m"     c="Noun"/>
+    <sdef n="px2pl_f"     c="Noun"/>
+    <sdef n="px3sg_m"     c="Noun"/>
+    <sdef n="px3sg_f"     c="Noun"/>
+    <sdef n="px3pl_m"     c="Noun"/>
+    <sdef n="px3pl_f"     c="Noun"/>
+    
+    <sdef n="subj"        c="Subject"/>
+    <sdef n="obj"         c="Object"/>
+    <sdef n="def"         c="Definite"/>
+    <sdef n="ind"         c="Indefinite"/>
+    <sdef n="pos"         c="Possesive"/>
 
-    <sdef n="def"      c="Noun"/>
-
-    <sdef n="cm"      c="Comma"/>
-    <sdef n="sent"      c="Sentence marker"/>
+    <sdef n="cm"          c="Comma"/>
+    <sdef n="sent"        c="Sentence marker"/>
   </sdefs>
   <pardefs>
  
@@ -70,35 +77,31 @@
       <e><p><l>היא</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
       <e><p><l>הם</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
       <e><p><l>הן</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
-      
-      <pardef n="כל_prn">
-        <e><p><l/><r><s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></r></p></e>
-      </pardef>
-      <pardef n="אחר__prn">
-        <e><p><l/><r><s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
-      </pardef>
-      <pardef n="משהו__prn">
-        <e><p><l/><r><s n="prn"/><s n="tn"/><s n="nt"/><s n="sg"/></r></p></e>
-      </pardef>
-      <pardef n="חלק__prn">
-        <e><p><l/><r><s n="prn"/><s n="tn"/><s n="mf"/><s n="pl"/></r></p></e>
-      </pardef>
-      <pardef n="מי__prn">
-        <e><p><l/><r><s n="prn"/><s n="itg"/><s n="m"/><s n="sp"/></r></p></e>
-      </pardef>
-      <pardef n="כמה__prn">
-        <e><p><l/><r><s n="prn"/><s n="itg"/><s n="mf"/><s n="pl"/></r></p></e>
-      </pardef>
-      <pardef n="kemm_iequm__prn">
-        <e><p><l/><r><s n="prn"/><s n="itg"/><s n="mf"/><s n="sg"/></r></p></e>
-      </pardef>
-      <pardef n="זה__prn">
-        <e><p><l/><r><s n="prn"/><s n="tn"/><s n="mf"/><s n="sg"/></r></p></e>
-      </pardef>
-      <pardef n="שלי__prn">
-        <e><p><l/><r><s n="prn"/><s n="pos"/><s n="mf"/><s n="sp"/></r></p></e>
-      </pardef>
-      
+    </pardef>
+    
+    <pardef n="כל_prn">
+      <e><p><l/><r><s n="prn"/><s n="ind"/><s n="mf"/><s n="sp"/></r></p></e>
+    </pardef>
+    <pardef n="אחר__prn">
+      <e><p><l/><r><s n="prn"/><s n="ind"/><s n="m"/><s n="sg"/></r></p></e>
+    </pardef>
+    <pardef n="משהו__prn">
+      <e><p><l/><r><s n="prn"/><s n="ind"/><s n="mf"/><s n="sg"/></r></p></e>
+    </pardef>
+    <pardef n="חלק__prn">
+      <e><p><l/><r><s n="prn"/><s n="ind"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
+    <pardef n="מי__prn">
+      <e><p><l/><r><s n="prn"/><s n="def"/><s n="m"/><s n="sp"/></r></p></e>
+    </pardef>
+    <pardef n="כמה__prn">
+      <e><p><l/><r><s n="prn"/><s n="def"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
+    <pardef n="זה__prn">
+      <e><p><l/><r><s n="prn"/><s n="def"/><s n="mf"/><s n="sg"/></r></p></e>
+    </pardef>
+    <pardef n="שלי__prn">
+      <e><p><l/><r><s n="prn"/><s n="pos"/><s n="mf"/><s n="sp"/></r></p></e>
     </pardef>
 
     <!-- SECTION: Nouns -->  
@@ -5978,8 +5981,6 @@
     
     <!-- SECTION: Pronouns -->
     <e lm="personal subject pronouns"><i/><par n="prsubj__prn"/></e>
-
-    <e lm="li"><i>li</i><par n="li__rel"/></e>
     
     <e lm="כל" c="all"><i>כל</i><par n="כל_prn"/></e>
     <e lm="או" c="either"><i>או</i><par n="כל_prn"/></e>
@@ -5998,7 +5999,7 @@
     <e lm="כלשהו" c="whatever"><i>כלשהו</i><par n="אחר__prn"/></e>
     
     <e lm="משהו" c="something"><i>משהו</i><par n="משהו__prn"/></e>
-    <e lm="איפשהו" c="somewhere"><i>איפשהו<par n="משהו__prn"></par></e>
+    <e lm="איפשהו" c="somewhere"><i>איפשהו</i><par n="משהו__prn"/></e>
     <e lm="אף לא אחד" c="none"><i>אף<b/>לא<b/>אחד</i><par n="משהו__prn"/></e>
     
     <e lm="חלק" c="some"><i>חלק</i><par n="חלק__prn"/></e>

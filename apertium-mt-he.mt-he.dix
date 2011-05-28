@@ -22,6 +22,8 @@
      <sdef n="p1"/>
 
      <sdef n="def"/>
+     <sdef n="ind"/>
+     <sdef n="pos"/>
 
      <sdef n="top"/>
 
@@ -86,13 +88,13 @@
      <e><p><l>dan<s n="prn"/></l><r>זה<s n="prn"/></r></p></e>
 
      <!-- Possessive pronouns -->
-     <e><p><l>tieghi<s n="prn"/></l><r>שלי<s n="prn"/></r></p></e>
-     <e><p><l>taghna<s n="prn"/></l><r>שלנו<s n="prn"/></r></p></e>
-     <e><p><l>tieghek<s n="prn"/></l><r>שלך<s n="prn"/></r></p></e>
-     <e><p><l>taghkom<s n="prn"/></l><r>שלך<s n="prn"/></r></p></e>
-     <e><p><l>tieghu<s n="prn"/></l><r>שלו<s n="prn"/></r></p></e>
-     <e><p><l>taghha<s n="prn"/></l><r>שלה<s n="prn"/></r></p></e>
-     <e><p><l>taghhom<s n="prn"/></l><r>שלהם<s n="prn"/></r></p></e>
+     <e><p><l>tieghi<s n="prn"/><s n="pos"/></l><r>שלי<s n="prn"/><s n="pos"/></r></p></e>
+     <e><p><l>taghna<s n="prn"/><s n="pos"/></l><r>שלנו<s n="prn"/><s n="pos"/></r></p></e>
+     <e><p><l>tieghek<s n="prn"/><s n="pos"/></l><r>שלך<s n="prn"/><s n="pos"/></r></p></e>
+     <e><p><l>taghkom<s n="prn"/><s n="pos"/></l><r>שלך<s n="prn"/><s n="pos"/></r></p></e>
+     <e><p><l>tieghu<s n="prn"/><s n="pos"/></l><r>שלו<s n="prn"/><s n="pos"/></r></p></e>
+     <e><p><l>taghha<s n="prn"/><s n="pos"/></l><r>שלה<s n="prn"/><s n="pos"/></r></p></e>
+     <e><p><l>taghhom<s n="prn"/><s n="pos"/></l><r>שלהם<s n="prn"/><s n="pos"/></r></p></e>
 
      <!-- SECTION: Determiners -->
 

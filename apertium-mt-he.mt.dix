@@ -33,12 +33,12 @@
     <sdef n="ger"         c="Gerund"/>
     <sdef n="imp"         c="Imperative"/>
     <sdef n="pp"          c="Past participle"/>
- 
-    <sdef n="tn"          c="Tonico(?)"/>
 
     <sdef n="subj"        c="Subject"/>
     <sdef n="obj"         c="Object"/>
     <sdef n="def"         c="Definite"/>
+    <sdef n="ind"         c="Indefinite"/>
+    <sdef n="pos"         c="Possesive"/>
   </sdefs>
   <pardefs>
     <!-- SECTION: Conjunctions -->
@@ -74,28 +74,28 @@
     </pardef>
       
     <pardef n="kollu_prn">
-      <e><p><l/><r><s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e><p><l/><r><s n="prn"/><s n="ind"/><s n="mf"/><s n="sp"/></r></p></e>
     </pardef>
     <pardef n="iehor__prn">
-      <e><p><l/><r><s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l/><r><s n="prn"/><s n="ind"/><s n="m"/><s n="sg"/></r></p></e>
     </pardef>
     <pardef n="ħadd__prn">
-      <e><p><l/><r><s n="prn"/><s n="tn"/><s n="nt"/><s n="sg"/></r></p></e>
+      <e><p><l/><r><s n="prn"/><s n="ind"/><s n="mf"/><s n="sg"/></r></p></e>
     </pardef>
     <pardef n="xi__prn">
-      <e><p><l/><r><s n="prn"/><s n="tn"/><s n="mf"/><s n="pl"/></r></p></e>
+      <e><p><l/><r><s n="prn"/><s n="ind"/><s n="mf"/><s n="pl"/></r></p></e>
     </pardef>
     <pardef n="min__prn">
-      <e><p><l/><r><s n="prn"/><s n="itg"/><s n="m"/><s n="sp"/></r></p></e>
+      <e><p><l/><r><s n="prn"/><s n="def"/><s n="m"/><s n="sp"/></r></p></e>
     </pardef>
     <pardef n="kemm_huma__prn">
-      <e><p><l/><r><s n="prn"/><s n="itg"/><s n="mf"/><s n="pl"/></r></p></e>
+      <e><p><l/><r><s n="prn"/><s n="def"/><s n="mf"/><s n="pl"/></r></p></e>
     </pardef>
     <pardef n="kemm_iequm__prn">
-      <e><p><l/><r><s n="prn"/><s n="itg"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e><p><l/><r><s n="prn"/><s n="def"/><s n="mf"/><s n="sg"/></r></p></e>
     </pardef>
     <pardef n="dan__prn">
-      <e><p><l/><r><s n="prn"/><s n="tn"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e><p><l/><r><s n="prn"/><s n="def"/><s n="mf"/><s n="sg"/></r></p></e>
     </pardef>
     <pardef n="taghha__prn">
       <e><p><l/><r><s n="prn"/><s n="pos"/><s n="mf"/><s n="sp"/></r></p></e>
@@ -110,12 +110,12 @@
       <e><p><l>ha</l><r>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
       <e><p><l>lilna</l><r>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
       <e><p><l>lilhom</l><r>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e><p><l><b/>dan</l><r><j/>dan<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
-      <e><p><l><b/>din</l><r><j/>tan<s n="prn"/><s n="tn"/><s n="f"/><s n="sg"/></r></p></e>
-      <e><p><l><b/>dak</l><r><j/>dak<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
-      <e><p><l><b/>dik</l><r><j/>dak<s n="prn"/><s n="tn"/><s n="f"/><s n="sg"/></r></p></e>
-      <e><p><l><b/>dawn</l><r><j/>dawn<s n="prn"/><s n="tn"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e><p><l><b/>dawk</l><r><j/>dawn<s n="prn"/><s n="tn"/><s n="mf"/><s n="pl"/></r></p></e>
+      <e><p><l><b/>dan</l><r><j/>dan<s n="prn"/><s n="def"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l><b/>din</l><r><j/>tan<s n="prn"/><s n="def"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l><b/>dak</l><r><j/>dak<s n="prn"/><s n="def"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l><b/>dik</l><r><j/>dak<s n="prn"/><s n="def"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l><b/>dawn</l><r><j/>dawn<s n="prn"/><s n="def"/><s n="mf"/><s n="pl"/></r></p></e>
+      <e><p><l><b/>dawk</l><r><j/>dawn<s n="prn"/><s n="def"/><s n="mf"/><s n="pl"/></r></p></e>
     </pardef>
 
     <pardef n="li__rel">
