@@ -37,6 +37,7 @@
     <sdef n="def"         c="Definite"/>
     <sdef n="ind"         c="Indefinite"/>
     <sdef n="pos"         c="Possesive"/>
+    <sdef n="num"         c="Numeral"/>
 
     <sdef n="cm"          c="Comma"/>
     <sdef n="sent"        c="Sentence marker"/>

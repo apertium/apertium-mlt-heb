@@ -34,6 +34,7 @@
     <sdef n="def"         c="Definite"/>
     <sdef n="ind"         c="Indefinite"/>
     <sdef n="pos"         c="Possesive"/>
+    <sdef n="num"         c="Numeral"/>
 
     <sdef n="cm"          c="Comma"/>
     <sdef n="sent"        c="Sentence marker"/>
@@ -150,19 +151,19 @@
     
     <pardef n="עשרים__num">
       <e><p><l/><r/></p><par n="חמישה__num"/></e>
-      <e><p><i>ואחד</i></p><par n="חמישה__num"/></e>
-      <e><p><i>ואחת</i></p><par n="חמש__num"/></e>
-      <e><p><i>ושני</i></p><par n="שני/ים__num"/></e>
-      <e><p><i>ושתי</i></p><par n="שתי/ים__num"/></e>
-      <e><p><i>ושלוש</i></p><par n="שלוש/ה__num"/></e>
-      <e><p><i>וארבע</i></p><par n="שלוש/ה__num"/></e>
-      <e><p><i>וחמישה</i></p><par n="חמישה__num"/></e>
-      <e><p><i>וחמש</i></p><par n="חמש__num"/></e>
-      <e><p><i>ושישה</i></p><par n="חמישה__num"/></e>
-      <e><p><i>ושש</i></p><par n="חמש__num"/></e>
-      <e><p><i>ושבע</i></p><par n="שלוש/ה__num"/></e>
-      <e><p><i>ושמונ</i></p><par n="שמונ"/></e>
-      <e><p><i>ותשע</i></p><par n="שלוש/ה__num"/></e>
+      <e><p><l>ואחד</l><r>ואחד</r></p><par n="חמישה__num"/></e>
+      <e><p><l>ואחת</l><r>ואחת</r></p><par n="חמש__num"/></e>
+      <e><p><l>ושני</l><r>ושני</r></p><par n="שני/ים__num"/></e>
+      <e><p><l>ושתי</l><r>ושתי</r></p><par n="שתי/ים__num"/></e>
+      <e><p><l>ושלוש</l><r>ושלוש</r></p><par n="שלוש/ה__num"/></e>
+      <e><p><l>וארבע</l><r>וארבע</r></p><par n="שלוש/ה__num"/></e>
+      <e><p><l>וחמישה</l><r>וחמישה</r></p><par n="חמישה__num"/></e>
+      <e><p><l>וחמש</l><r>וחמש</r></p><par n="חמש__num"/></e>
+      <e><p><l>ושישה</l><r>ושישה</r></p><par n="חמישה__num"/></e>
+      <e><p><l>ושש</l><r>ושש</r></p><par n="חמש__num"/></e>
+      <e><p><l>ושבע</l><r>ושבע</r></p><par n="שלוש/ה__num"/></e>
+      <e><p><l>ושמונ</l><r>ושמונ</r></p><par n="שמונ/ה__num"/></e>
+      <e><p><l>ותשע</l><r>ותשע</r></p><par n="שלוש/ה__num"/></e>
     </pardef>
     <pardef n="מאתיים__num">
       <e><p><l/><r><s n="num"/><s n="sp"/></r></p></e>
@@ -6152,9 +6153,9 @@
     <e lm="חמישה" c="five (m)"><i>חמישה</i><par n="חמישה__num"/></e>
     <e lm="חמש" c="five (f)"><i>חמש</i><par n="חמש__num"/></e>
     <e lm="שישה" c="six (m)"><i>שישה</i><par n="חמישה__num"/></e>
-    <e lm="שש" c="six (f)"><i>שש</i><par n="חמש__num/ה__num"/></e>
+    <e lm="שש" c="six (f)"><i>שש</i><par n="חמש__num"/></e>
     <e lm="שבע" c="seven"><i>שבע</i><par n="שלוש/ה__num"/></e>
-    <e lm="שמונה" c="eight"><i>שמונ</i><par n="שמונ"/></e>
+    <e lm="שמונה" c="eight"><i>שמונ</i><par n="שמונ/ה__num"/></e>
     <e lm="תשע" c="nine"><i>תשע</i><par n="שלוש/ה__num"/></e>
     <e lm="עשר" c="ten"><i>עשר</i><par n="שלוש/ה__num"/></e>
     <e lm="עשרים" c="twenty"><i>עשרים</i><par n="עשרים__num"/></e>
@@ -6169,7 +6170,7 @@
     <e lm="מאתיים" c="two hundreds"><i>מאתיים</i><par n="מאתיים__num"/></e>
     <e lm="מאות" c="hundreds"><i>מאות</i><par n="מיליון__num"/></e>
     <e lm="אלף" c="thousand"><i>אלף</i><par n="מיליון__num"/></e>
-    <e lm="אלפיים" c="two thousands"><i>אלפיים</i><par n="אלפיים__num"/></e>
+    <e lm="אלפיים" c="two thousands"><i>אלפיים</i><par n="מאתיים__num"/></e>
     <e lm="אלפים" c="thousands"><i>אלפים</i><par n="מיליון__num"/></e>
     <e lm="מיליון" c="million"><i>מיליון</i><par n="מיליון__num"/></e>
     <e lm="מיליונים" c="millions"><i>מיליונים</i><par n="מיליון__num"/></e>
