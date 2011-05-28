@@ -5,6 +5,7 @@
      <sdef n="n"/>
      <sdef n="np"/>
      <sdef n="prn"/>
+     <sdef n="pr"/>
      <sdef n="vblex"/>
      <sdef n="rel"/>
      <sdef n="cnjsub"/>
@@ -26,7 +27,7 @@
      <sdef n="pos"/>
 
      <sdef n="top"/>
-
+     <sdef n="num"/>
    </sdefs>
 
    <section id="main" type="standard">
@@ -110,44 +111,44 @@
 
      <!-- SECTION: Numerals -->
      
-     <e><p><l>wieħed<s n="num"></l><r>אחד<s n="num"></r></p></e>
-     <e><p><l>waħda<s n="num"></l><r>אחת<s n="num"></r></p></e>
-     <e><p><l>tnejn<s n="num"></l><r>שניים<s n="num"></r></p></e>
-     <e><p><l>tli<s n="num"></l><r>שלושה<s n="num"></r></p></e>
-     <e><p><l>erbgħa<s n="num"></l><r>ארבעה<s n="num"></r></p></e>
-     <e><p><l>ħam<s n="num"></l><r>חמישה<s n="num"></r></p></e>
-     <e><p><l>sit<s n="num"></l><r>שישה<s n="num"></r></p></e>
-     <e><p><l>seb<s n="num"></l><r>שבעה<s n="num"></r></p></e>
-     <e><p><l>tmi<s n="num"></l><r>שמונה<s n="num"></r></p></e>
-     <e><p><l>dis<s n="num"></l><r>תשעה<s n="num"></r></p></e>
-     <e><p><l>għax<s n="num"></l><r>עשרה<s n="num"></r></p></e>
-     <e><p><l>ħdax<s n="num"></l><r>אחד<b/>עשר<s n="num"></r></p></e>
-     <e><p><l>tnax<s n="num"></l><r>שניים<b/>עשר<s n="num"></r></p></e>
-     <e><p><l>tlettax<s n="num"></l><r>שלושה<b/>עשר<s n="num"></r></p></e>
-     <e><p><l>erbatax<s n="num"></l><r>ארבעה<b/>עשר<s n="num"></r></p></e>
-     <e><p><l>ħmistax<s n="num"></l><r>חמישה<b/>עשר<s n="num"></r></p></e>
-     <e><p><l>sittax<s n="num"></l><r>שישה<b/>עשר<s n="num"></r></p></e>
-     <e><p><l>sbatax<s n="num"></l><r>שבעה<b/>עשר<s n="num"></r></p></e>
-     <e><p><l>tmintax<s n="num"></l><r>שמונה<b/>עשר<s n="num"></r></p></e>
-     <e><p><l>dsatax<s n="num"></l><r>תשעה<b/>עשר<s n="num"></r></p></e>
-     <e><p><l>għoxrin<s n="num"></l><r>עשרים<s n="num"></r></p></e>
-     <e><p><l>tletin<s n="num"></l><r>שלושים<s n="num"></r></p></e>
-     <e><p><l>erbgħin<s n="num"></l><r>ארבעים<s n="num"></r></p></e>
-     <e><p><l>ħamsin<s n="num"></l><r>חמישים<s n="num"></r></p></e>
-     <e><p><l>sittin<s n="num"></l><r>שישים<s n="num"></r></p></e>
-     <e><p><l>sebgħin<s n="num"></l><r>שבעים<s n="num"></r></p></e>
-     <e><p><l>tmenin<s n="num"></l><r>שמונים<s n="num"></r></p></e>
-     <e><p><l>disgħin<s n="num"></l><r>תשעים<s n="num"></r></p></e>
-     <e><p><l>mija<s n="num"></l><r>מאה<s n="num"></r></p></e>
-     <e><p><l>mitejn<s n="num"></l><r>מאתיים<s n="num"></r></p></e>
-     <e><p><l>elf<s n="num"></l><r>אלף<s n="num"></r></p></e>
-     <e><p><l>elfejn<s n="num"></l><r>אלפיים<s n="num"></r></p></e>
-     <e><p><l>miljun<s n="num"></l><r>מיליון<s n="num"></r></p></e>
-     <e><p><l>miljuni<s n="num"></l><r>מיליונים<s n="num"></r></p></e>
-     <e><p><l>biljun<s n="num"></l><r>מיליארד<s n="num"></r></p></e>
-     <e><p><l>biljuni<s n="num"></l><r>מיליארדים<s n="num"></r></p></e>
-     <e><p><l>triljun<s n="num"></l><r>טריליון<s n="num"></r></p></e>
-     <e><p><l>triljuni<s n="num"></l><r>טריליונים<s n="num"></r></p></e>
+     <e><p><l>wieħed<s n="num"/></l><r>אחד<s n="num"/></r></p></e>
+     <e><p><l>waħda<s n="num"/></l><r>אחת<s n="num"/></r></p></e>
+     <e><p><l>tnejn<s n="num"/></l><r>שניים<s n="num"/></r></p></e>
+     <e><p><l>tli<s n="num"/></l><r>שלושה<s n="num"/></r></p></e>
+     <e><p><l>erbgħa<s n="num"/></l><r>ארבעה<s n="num"/></r></p></e>
+     <e><p><l>ħam<s n="num"/></l><r>חמישה<s n="num"/></r></p></e>
+     <e><p><l>sit<s n="num"/></l><r>שישה<s n="num"/></r></p></e>
+     <e><p><l>seb<s n="num"/></l><r>שבעה<s n="num"/></r></p></e>
+     <e><p><l>tmi<s n="num"/></l><r>שמונה<s n="num"/></r></p></e>
+     <e><p><l>dis<s n="num"/></l><r>תשעה<s n="num"/></r></p></e>
+     <e><p><l>għax<s n="num"/></l><r>עשרה<s n="num"/></r></p></e>
+     <e><p><l>ħdax<s n="num"/></l><r>אחד<b/>עשר<s n="num"/></r></p></e>
+     <e><p><l>tnax<s n="num"/></l><r>שניים<b/>עשר<s n="num"/></r></p></e>
+     <e><p><l>tlettax<s n="num"/></l><r>שלושה<b/>עשר<s n="num"/></r></p></e>
+     <e><p><l>erbatax<s n="num"/></l><r>ארבעה<b/>עשר<s n="num"/></r></p></e>
+     <e><p><l>ħmistax<s n="num"/></l><r>חמישה<b/>עשר<s n="num"/></r></p></e>
+     <e><p><l>sittax<s n="num"/></l><r>שישה<b/>עשר<s n="num"/></r></p></e>
+     <e><p><l>sbatax<s n="num"/></l><r>שבעה<b/>עשר<s n="num"/></r></p></e>
+     <e><p><l>tmintax<s n="num"/></l><r>שמונה<b/>עשר<s n="num"/></r></p></e>
+     <e><p><l>dsatax<s n="num"/></l><r>תשעה<b/>עשר<s n="num"/></r></p></e>
+     <e><p><l>għoxrin<s n="num"/></l><r>עשרים<s n="num"/></r></p></e>
+     <e><p><l>tletin<s n="num"/></l><r>שלושים<s n="num"/></r></p></e>
+     <e><p><l>erbgħin<s n="num"/></l><r>ארבעים<s n="num"/></r></p></e>
+     <e><p><l>ħamsin<s n="num"/></l><r>חמישים<s n="num"/></r></p></e>
+     <e><p><l>sittin<s n="num"/></l><r>שישים<s n="num"/></r></p></e>
+     <e><p><l>sebgħin<s n="num"/></l><r>שבעים<s n="num"/></r></p></e>
+     <e><p><l>tmenin<s n="num"/></l><r>שמונים<s n="num"/></r></p></e>
+     <e><p><l>disgħin<s n="num"/></l><r>תשעים<s n="num"/></r></p></e>
+     <e><p><l>mija<s n="num"/></l><r>מאה<s n="num"/></r></p></e>
+     <e><p><l>mitejn<s n="num"/></l><r>מאתיים<s n="num"/></r></p></e>
+     <e><p><l>elf<s n="num"/></l><r>אלף<s n="num"/></r></p></e>
+     <e><p><l>elfejn<s n="num"/></l><r>אלפיים<s n="num"/></r></p></e>
+     <e><p><l>miljun<s n="num"/></l><r>מיליון<s n="num"/></r></p></e>
+     <e><p><l>miljuni<s n="num"/></l><r>מיליונים<s n="num"/></r></p></e>
+     <e><p><l>biljun<s n="num"/></l><r>מיליארד<s n="num"/></r></p></e>
+     <e><p><l>biljuni<s n="num"/></l><r>מיליארדים<s n="num"/></r></p></e>
+     <e><p><l>triljun<s n="num"/></l><r>טריליון<s n="num"/></r></p></e>
+     <e><p><l>triljuni<s n="num"/></l><r>טריליונים<s n="num"/></r></p></e>
  
      <!-- SECTION: Nouns -->
 
