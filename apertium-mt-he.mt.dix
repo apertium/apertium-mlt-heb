@@ -149,8 +149,71 @@
       <e r="LR"><p><l>iż-</l><r>l<s n="det"/><s n="def"/></r></p></e>
       <e r="RL"><p><l><a/>l-</l><r>l<s n="det"/><s n="def"/></r></p></e>
     </pardef>
-
-
+    
+    
+    <!-- SECTION: Numerals -->
+    <pardef n="wieħed__num">
+      <e><p><l/><r><s n="num"/><s n="m"/><s n="sg"/></r></p></e>
+    </pardef>
+    <pardef n="waħda__num">
+      <e><p><l/><r><s n="num"/><s n="f"/><s n="sg"/></r></p></e>
+    </pardef>
+    <pardef n="tnejn__num">
+      <e><p><l/><r><s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+    </pardef>
+    <pardef n="tli/eta__num">
+      <e><p><l>et</l><r><s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e><p><l>eta</l><r><s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e><p><l>tt</l><r><s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+    </pardef>
+    <pardef n="ħam/sa__num">
+      <e><p><l>sa</l><r><s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e><p><l>es</l><r><s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e><p><l>est</l><r><s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+    </pardef>
+    <pardef n="sitt/a__num">
+      <e><p><l/><r><s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e><p><l>a</l><r><s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+    </pardef>
+    <pardef n="seb/għa__num">
+      <e><p><l>għa</l><r><s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e><p><l>a'</l><r><s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e><p><l>at</l><r><s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e><p><l>agħt</l><r><s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+    </pardef>
+    <pardef n="tmi/en__num">
+      <e><p><l>en</l><r><s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e><p><l>enja</l><r><s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e><p><l>nt</l><r><s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+    </pardef>
+    <pardef n="dis/at__num">
+      <e><p><l>at</l><r><s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e><p><l>a'</l><r><s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e><p><l>għa</l><r><s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e><p><l>għt</l><r><s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+    </pardef>
+    <pardef n="għax/ra__num">
+      <e><p><l>ra</l><r><s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e><p><l>ar</l><r><s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e><p><l>art</l><r><s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+    </pardef>
+    <pardef n="ħdax__num">
+      <e><p><l/><r><s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e><p><l>-il</l><r><s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+    </pardef>
+    <pardef n="għoxrin__num">
+      <e><p><l/><r><s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+    </pardef>
+    <pardef n="mija__num">
+      <e><p><l/><r><s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+    </pardef>
+    <pardef n="mitejn__num">
+      <e><p><l/><r><s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+    </pardef>
+    <pardef n="miljun__num">
+      <e><p><l/><r><s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e><p><l>i</l><r><s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+    </pardef>
 
     <!-- SECTION: Nouns -->
     <pardef n="gram/afown__n">
@@ -252,6 +315,42 @@
 
     <!-- SECTION: Determiners -->
 
+    <!-- SECTION: Numerals -->
+    <e lm="wieħed" c="one (m)"><i>wieħed</i><par n="wieħed__num"/></e>
+    <e lm="waħda" c="one (f)"><i>waħda</i><par n="waħda__num"/></e>
+    <e lm="tnejn" c="two"><i>tnejn</i><par n="tnejn__num"/></e>
+    <e lm="tliet" c="three"><i>tli</i><par n="tli/eta__num"/></e>
+    <e lm="erbgħa" c="four"><i>erbgħa</i><par n="tnejn__num"/></e>
+    <e lm="ħamsa" c="five"><i>ħam</i><par n="ħam/sa__num"/></e>
+    <e lm="sitt" c="six"><i>sit</i><par n="sitt/a__num"/></e>
+    <e lm="sebgħa" c="seven"><i>seb</i><par n="seb/għa__num"/></e>
+    <e lm="tmien" c="eight"><i>tmi</i><par n="tmi/en__num"/></e>
+    <e lm="disat" c="nine"><i>dis</i><par n="dis/at__num"/></e>
+    <e lm="għaxra" c="ten"><i>għax</i><par n="għax/ra__num"/></e>
+    <e lm="ħdax" c="eleven"><i>ħdax</i><par n="ħdax__num"/></e>
+    <e lm="tnax" c="twelve"><i>tnax</i><par n="ħdax__num"/></e>
+    <e lm="tlettax" c="thirteen"><i>tlettax</i><par n="ħdax__num"/></e>
+    <e lm="erbatax" c="fourteen"><i>erbatax</i><par n="ħdax__num"/></e>
+    <e lm="ħmistax" c="fifteen"><i>ħmistax</i><par n="ħdax__num"/></e>
+    <e lm="sittax" c="sixteen"><i>sittax</i><par n="ħdax__num"/></e>
+    <e lm="sbatax" c="seventeen"><i>sbatax</i><par n="ħdax__num"/></e>
+    <e lm="tmintax" c="eighteen"><i>tmintax</i><par n="ħdax__num"/></e>
+    <e lm="dsatax" c="nineteen"><i>dsatax</i><par n="ħdax__num"/></e>
+    <e lm="għoxrin" c="twenty"><i>għoxrin</i><par n="għoxrin__num"/></e>
+    <e lm="tletin" c="thirty"><i>tletin</i><par n="għoxrin__num"/></e>
+    <e lm="erbgħin" c="forty"><i>erbgħin</i><par n="għoxrin__num"/></e>
+    <e lm="ħamsin" c="fifty"><i>ħamsin</i><par n="għoxrin__num"/></e>
+    <e lm="sittin" c="sixty"><i>sittin</i><par n="għoxrin__num"/></e>
+    <e lm="sebgħin" c="seventy"><i>sebgħin</i><par n="għoxrin__num"/></e>
+    <e lm="tmenin" c="eighty"><i>tmenin</i><par n="għoxrin__num"/></e>
+    <e lm="disgħin" c="ninety"><i>disgħin</i><par n="għoxrin__num"/></e>
+    <e lm="mija" c="hundred"><i>mija</i><par n="mija__num"/></e>
+    <e lm="mitejn" c="two hundreds"><i>mitejn</i><par n="mitejn__num"/></e>
+    <e lm="elf" c="thousand"><i>elf</i><par n="mija__num"/></e>
+    <e lm="elfejn" c="two thousands"><i>elfejn</i><par n="mitejn__num"/></e>
+    <e lm="miljun" c="million"><i>miljun</i><par n="miljun__num"/></e>
+    <e lm="biljun" c="billion"><i>biljun</i><par n="miljun__num"/></e>
+    <e lm="triljun" c="trillion"><i>triljun</i><par n="miljun__num"/></e>
     
 
     <!-- SECTION: Nouns -->
