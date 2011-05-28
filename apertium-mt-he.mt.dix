@@ -2,8 +2,6 @@
 <dictionary>
 <alphabet>ABĊDEFĠGGHĦIIJKLMNOPQRSTUVWXZŻabċdefġgħghieiejklmnopqrstuvwxzżycYCáéíóúàèìòù</alphabet>
   <sdefs>
-    <sdef n="sent"/>
-    
     <sdef n="n"           c="Noun"/>
     <sdef n="vblex"       c="Verb"/>
     <sdef n="prn"         c="Pronoun"/>
@@ -39,8 +37,21 @@
     <sdef n="def"         c="Definite"/>
     <sdef n="ind"         c="Indefinite"/>
     <sdef n="pos"         c="Possesive"/>
+
+    <sdef n="cm"          c="Comma"/>
+    <sdef n="sent"        c="Sentence marker"/>
   </sdefs>
   <pardefs>
+ 
+    <!-- SECTION: Punctuation -->
+
+    <pardef n="separa">
+      <e><re>[.\?;:!]</re><p>          <l></l><r><s n="sent"/></r></p></e>
+    </pardef>
+    <pardef n="coma">
+      <e><p>          <l>,</l><r>,<s n="cm"/></r></p></e>
+    </pardef>
+    
     <!-- SECTION: Conjunctions -->
     <pardef n="u__cnjcoo">
       <e><p><l/><r><s n="cnjcoo"/></r></p></e>
@@ -268,7 +279,8 @@
   </section>
   
   <section id="final" type="inconditional">
-    <e><p><l>?</l><r>,<s n="sent"/></r></p></e>
+    <e><par n="separa"/></e>
+    <e><par n="coma"/></e>
   </section>
 
   <section id="verbs" type="standard">
