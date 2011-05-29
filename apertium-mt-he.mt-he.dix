@@ -28,9 +28,17 @@
 
      <sdef n="top"/>
      <sdef n="num"/>
+
+     <sdef n="cm"          c="Comma"/>
+     <sdef n="sent"        c="Sentence marker"/>
    </sdefs>
 
    <section id="main" type="standard">
+     
+     <!-- SECTION: Punctuation -->
+     <e><re>[.\?;:!]</re>  <p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
+     <e>                   <p><l>,<s n="cm"/></l><r>,<s n="cm"/></r></p></e>
+
      <!-- SECTION: Conjunctions -->
 
      <e><p><l>u<s n="cnjcoo"/></l><r>-ו<s n="cnjcoo"/></r></p></e>
@@ -96,7 +104,7 @@
 
      <e><p><l>dan<s n="prn"/></l><r>זה<s n="prn"/></r></p></e>
 
-     <!-- Possessive pronouns -->
+     <!-- SECTION: Possessive pronouns -->
      <e><p><l>tieghi<s n="prn"/><s n="pos"/></l><r>שלי<s n="prn"/><s n="pos"/></r></p></e>
      <e><p><l>taghna<s n="prn"/><s n="pos"/></l><r>שלנו<s n="prn"/><s n="pos"/></r></p></e>
      <e><p><l>tieghek<s n="prn"/><s n="pos"/></l><r>שלך<s n="prn"/><s n="pos"/></r></p></e>
