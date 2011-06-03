@@ -35,6 +35,8 @@
     <sdef n="ind"         c="Indefinite"/>
     <sdef n="pos"         c="Possesive"/>
     <sdef n="num"         c="Numeral"/>
+    <sdef n="cnjcoo"      c="Co-ordinating conjunction"/>
+    <sdef n="cnjsub"      c="Sub-ordinating conjunction"/>
 
     <sdef n="cm"          c="Comma"/>
     <sdef n="sent"        c="Sentence marker"/>
@@ -48,6 +50,15 @@
     </pardef>
     <pardef n="coma">
       <e><p>          <l>,</l><r>,<s n="cm"/></r></p></e>
+    </pardef>
+    
+    <!-- SECTION: Conjunctions -->
+    <pardef n="ו__cnjcoo">
+      <e><p><l/><r><s n="cnjcoo"/></r></p></e>
+    </pardef>
+
+    <pardef n="כאשר__cnjsub">
+      <e><p><l/><r><s n="cnjsub"/></r></p></e>
     </pardef>
  
     <!-- SECTION: Prepositions -->
@@ -6047,7 +6058,157 @@
     </pardef>
   </pardefs>
   <section id="main" type="standard">
-    
+    <!-- SECTION: Conjunctions -->
+    <e lm="ו"><i>ו</i><par n="ו__cnjcoo"/></e>
+    <e lm="וכן"><i>וכן</i><par n="ו__cnjcoo"/></e>
+    <e lm="גם"><i>גם</i><par n="ו__cnjcoo"/></e>
+    <e lm="נוסף לכך"><i>נוסף לכך</i><par n="ו__cnjcoo"/></e>
+    <e lm="יתרה מזאת"><i>יתרה מזאת</i><par n="ו__cnjcoo"/></e>
+    <e lm="יתר על כן"><i>יתר על כן</i><par n="ו__cnjcoo"/></e>
+    <e lm="זאת ועוד"><i>זאת ועוד</i><par n="ו__cnjcoo"/></e>
+    <e lm="כמו כן"><i>כמו כן</i><par n="ו__cnjcoo"/></e>
+    <e lm="לא כל שכן"><i>לא כל שכן</i><par n="ו__cnjcoo"/></e>
+    <e lm="בנוסף"><i>בנוסף</i><par n="ו__cnjcoo"/></e>
+    <e lm="לא רק"><i>לא רק</i><par n="ו__cnjcoo"/></e>
+    <e lm="כי אם גם"><i>כי אם גם</i><par n="ו__cnjcoo"/></e>
+    <e lm="לרבות ה"><i>לרבות ה</i><par n="ו__cnjcoo"/></e>
+    <e lm="מלבד ה"><i>מלבד ה</i><par n="ו__cnjcoo"/></e>
+    <e lm="חוץ מזה"><i>חוץ מזה</i><par n="ו__cnjcoo"/></e>
+    <e lm="אבל"><i>אבל</i><par n="ו__cnjcoo"/></e>
+    <e lm="אמנם"><i>אמנם</i><par n="ו__cnjcoo"/></e>
+    <e lm="אך"><i>אך</i><par n="ו__cnjcoo"/></e>
+    <e lm="אולם"><i>אולם</i><par n="ו__cnjcoo"/></e>
+    <e lm="ברם"><i>ברם</i><par n="ו__cnjcoo"/></e>
+    <e lm="אפס כי"><i>אפס כי</i><par n="ו__cnjcoo"/></e>
+    <e lm="עם זאת"><i>עם זאת</i><par n="ו__cnjcoo"/></e>
+    <e lm="אלא"><i>אלא</i><par n="ו__cnjcoo"/></e>
+    <e lm="כדי ש"><i>כדי ש</i><par n="ו__cnjcoo"/></e>
+    <e lm="במטרה ש"><i>במטרה ש</i><par n="ו__cnjcoo"/></e>
+    <e lm="על מנת ש"><i>על מנת ש</i><par n="ו__cnjcoo"/></e>
+    <e lm="לשם ה"><i>לשם ה</i><par n="ו__cnjcoo"/></e>
+    <e lm="למען ה"><i>למען ה</i><par n="ו__cnjcoo"/></e>
+    <e lm="כדי ל"><i>כדי ל</i><par n="ו__cnjcoo"/></e>
+    <e lm="במטרה ל"><i>במטרה ל</i><par n="ו__cnjcoo"/></e>
+    <e lm="במגמה ל"><i>במגמה ל</i><par n="ו__cnjcoo"/></e>
+    <e lm="על מנת ל"><i>על מנת ל</i><par n="ו__cnjcoo"/></e>
+    <e lm="לשם כך"><i>לשם כך</i><par n="ו__cnjcoo"/></e>
+    <e lm="לתכלית זאת"><i>לתכלית זאת</i><par n="ו__cnjcoo"/></e>
+    <e lm="בשביל ש."><i>בשביל ש.</i><par n="ו__cnjcoo"/></e>
+    <e lm="כדי שלא"><i>כדי שלא</i><par n="ו__cnjcoo"/></e>
+    <e lm="שלא"><i>שלא</i><par n="ו__cnjcoo"/></e>
+    <e lm="פן"><i>פן</i><par n="ו__cnjcoo"/></e>
+    <e lm="שמא"><i>שמא</i><par n="ו__cnjcoo"/></e>
+    <e lm="בהשוואה ל"><i>בהשוואה ל</i><par n="ו__cnjcoo"/></e>
+    <e lm="בדומה ל"><i>בדומה ל</i><par n="ו__cnjcoo"/></e>
+    <e lm="דומה ל"><i>דומה ל</i><par n="ו__cnjcoo"/></e>
+    <e lm="במקביל ל"><i>במקביל ל</i><par n="ו__cnjcoo"/></e>
+    <e lm="כמו ה"><i>כמו ה</i><par n="ו__cnjcoo"/></e>
+    <e lm="כפי ש"><i>כפי ש</i><par n="ו__cnjcoo"/></e>
+    <e lm="בעוד ש"><i>בעוד ש</i><par n="ו__cnjcoo"/></e>
+    <e lm="כשם ש"><i>כשם ש</i><par n="ו__cnjcoo"/></e>
+    <e lm="כך גם"><i>כך גם</i><par n="ו__cnjcoo"/></e>
+    <e lm="כאילו"><i>כאילו</i><par n="ו__cnjcoo"/></e>
+    <e lm="לעומת זאת "><i>לעומת זאת </i><par n="ו__cnjcoo"/></e>
+    <e lm="אילו"><i>אילו</i><par n="ו__cnjcoo"/></e>
+    <e lm="בניגוד ל"><i>בניגוד ל</i><par n="ו__cnjcoo"/></e>
+    <e lm="ככל ש כן"><i>ככל ש כן</i><par n="ו__cnjcoo"/></e>
+    <e lm="במידה ש כך"><i>במידה ש כך</i><par n="ו__cnjcoo"/></e>
+    <e lm="יותר ממה ש"><i>יותר ממה ש</i><par n="ו__cnjcoo"/></e>
+    <e lm="פחות ממה ש"><i>פחות ממה ש</i><par n="ו__cnjcoo"/></e>
+    <e lm="יותר מ"><i>יותר מ</i><par n="ו__cnjcoo"/></e>
+    <e lm="פחות מ"><i>פחות מ</i><par n="ו__cnjcoo"/></e>
+    <e lm="יחסית ל"><i>יחסית ל</i><par n="ו__cnjcoo"/></e>
+    <e lm="בהשוואה ל"><i>בהשוואה ל</i><par n="ו__cnjcoo"/></e>
+    <e lm="אם"><i>אם</i><par n="ו__cnjcoo"/></e>
+    <e lm="במקרה ש"><i>במקרה ש</i><par n="ו__cnjcoo"/></e>
+    <e lm="בתנאי ש"><i>בתנאי ש</i><par n="ו__cnjcoo"/></e>
+    <e lm="ובלבד ש"><i>ובלבד ש</i><par n="ו__cnjcoo"/></e>
+    <e lm="לא אלא אם כן"><i>לא אלא אם כן</i><par n="ו__cnjcoo"/></e>
+    <e lm="לו"><i>לו</i><par n="ו__cnjcoo"/></e>
+    <e lm="אילו"><i>אילו</i><par n="ו__cnjcoo"/></e>
+    <e lm="לולא"><i>לולא</i><par n="ו__cnjcoo"/></e>
+    <e lm="אילולא"><i>אילולא</i><par n="ו__cnjcoo"/></e>
+    <e lm="אלמלא"><i>אלמלא</i><par n="ו__cnjcoo"/></e>
+    <e lm="על אף ש"><i>על אף ש</i><par n="ו__cnjcoo"/></e>
+    <e lm="על אף ה"><i>על אף ה</i><par n="ו__cnjcoo"/></e>
+    <e lm="אף על פי ש"><i>אף על פי ש</i><par n="ו__cnjcoo"/></e>
+    <e lm="חרף ה"><i>חרף ה</i><par n="ו__cnjcoo"/></e>
+    <e lm="אף על פי כן"><i>אף על פי כן</i><par n="ו__cnjcoo"/></e>
+    <e lm="אף כי"><i>אף כי</i><par n="ו__cnjcoo"/></e>
+    <e lm="אף אם"><i>אף אם</i><par n="ו__cnjcoo"/></e>
+    <e lm="גם אם"><i>גם אם</i><par n="ו__cnjcoo"/></e>
+    <e lm="אפילו"><i>אפילו</i><par n="ו__cnjcoo"/></e>
+    <e lm="למרות ה"><i>למרות ה</i><par n="ו__cnjcoo"/></e>
+    <e lm="למרות זאת"><i>למרות זאת</i><par n="ו__cnjcoo"/></e>
+    <e lm="בכל ×במטרה ל"><i>בכל ×במטרה ל</i><par n="ו__cnjcoo"/></e>
+    <e lm="במגמה ל"><i>במגמה ל</i><par n="ו__cnjcoo"/></e>
+    <e lm="על מנת ל"><i>על מנת ל</i><par n="ו__cnjcoo"/></e>
+    <e lm="לשם כך"><i>לשם כך</i><par n="ו__cnjcoo"/></e>
+    <e lm="לתכלית זאת"><i>לתכלית זאת</i><par n="ו__cnjcoo"/></e>
+    <e lm="בשביל ש."><i>בשביל ש.</i><par n="ו__cnjcoo"/></e>
+    <e lm="כדי שלא"><i>כדי שלא</i><par n="ו__cnjcoo"/></e>
+    <e lm="שלא"><i>שלא</i><par n="ו__cnjcoo"/></e>
+    <e lm="פן"><i>פן</i><par n="ו__cnjcoo"/></e>
+    <e lm="שמא"><i>שמא</i><par n="ו__cnjcoo"/></e>
+    <e lm="בהשוואה ל"><i>בהשוואה ל</i><par n="ו__cnjcoo"/></e>
+    <e lm="ב"><i>ב</i><par n="ו__cnjcoo"/></e>
+
+
+    <e lm="כאשר"><i>כאשר</i><par n="כאשר__cnjsub"/></e>
+    <e lm="כש"><i>כש</i><par n="כאשר__cnjsub"/></e>
+    <e lm="בשעה ש"><i>בשעה ש</i><par n="כאשר__cnjsub"/></e>
+    <e lm="בזמן ש"><i>בזמן ש</i><par n="כאשר__cnjsub"/></e>
+    <e lm="לפני ש"><i>לפני ש</i><par n="כאשר__cnjsub"/></e>
+    <e lm="אחרי ש"><i>אחרי ש</i><par n="כאשר__cnjsub"/></e>
+    <e lm="במשך"><i>במשך</i><par n="כאשר__cnjsub"/></e>
+    <e lm="קודם לכן"><i>קודם לכן</i><par n="כאשר__cnjsub"/></e>
+    <e lm="בינתיים"><i>בינתיים</i><par n="כאשר__cnjsub"/></e>
+    <e lm="בטרם"><i>בטרם</i><par n="כאשר__cnjsub"/></e>
+    <e lm="לאחרונה"><i>לאחרונה</i><par n="כאשר__cnjsub"/></e>
+    <e lm="מאז"><i>מאז</i><par n="כאשר__cnjsub"/></e>
+    <e lm="מתי ש"><i>מתי ש</i><par n="כאשר__cnjsub"/></e>
+    <e lm="מראש"><i>מראש</i><par n="כאשר__cnjsub"/></e>
+    <e lm="לאחר מכן"><i>לאחר מכן</i><par n="כאשר__cnjsub"/></e>
+    <e lm="אחרי זה.."><i>אחרי זה..</i><par n="כאשר__cnjsub"/></e>
+    <e lm="בעוד ש"><i>בעוד ש</i><par n="כאשר__cnjsub"/></e>
+    <e lm="בו בזמן ש"><i>בו בזמן ש</i><par n="כאשר__cnjsub"/></e>
+    <e lm="לעומת ה"><i>לעומת ה</i><par n="כאשר__cnjsub"/></e>
+    <e lm="לעומת זאת"><i>לעומת זאת</i><par n="כאשר__cnjsub"/></e>
+    <e lm="ואילו"><i>ואילו</i><par n="כאשר__cnjsub"/></e>
+    <e lm="בניגוד לכך"><i>בניגוד לכך</i><par n="כאשר__cnjsub"/></e>
+    <e lm="כי"><i>כי</i><par n="כאשר__cnjsub"/></e>
+    <e lm="מפני ש"><i>מפני ש</i><par n="כאשר__cnjsub"/></e>
+    <e lm="משום ש"><i>משום ש</i><par n="כאשר__cnjsub"/></e>
+    <e lm="מאחר ש"><i>מאחר ש</i><par n="כאשר__cnjsub"/></e>
+    <e lm="הואיל ו"><i>הואיל ו</i><par n="כאשר__cnjsub"/></e>
+    <e lm="שכן"><i>שכן</i><par n="כאשר__cnjsub"/></e>
+    <e lm="בשל"><i>בשל</i><par n="כאשר__cnjsub"/></e>
+    <e lm="בגלל ה"><i>בגלל ה</i><par n="כאשר__cnjsub"/></e>
+    <e lm="בעקבות"><i>בעקבות</i><par n="כאשר__cnjsub"/></e>
+    <e lm="בזכות ה"><i>בזכות ה</i><par n="כאשר__cnjsub"/></e>
+    <e lm="כיוון ש"><i>כיוון ש</i><par n="כאשר__cnjsub"/></e>
+    <e lm="בגין ה"><i>בגין ה</i><par n="כאשר__cnjsub"/></e>
+    <e lm="לרגל ה"><i>לרגל ה</i><par n="כאשר__cnjsub"/></e>
+    <e lm="בעטיו של"><i>בעטיו של</i><par n="כאשר__cnjsub"/></e>
+    <e lm="מחמת ה"><i>מחמת ה</i><par n="כאשר__cnjsub"/></e>
+    <e lm="מפאת ה"><i>מפאת ה</i><par n="כאשר__cnjsub"/></e>
+    <e lm="עקב"><i>עקב</i><par n="כאשר__cnjsub"/></e>
+    <e lm="כך ש"><i>כך ש</i><par n="כאשר__cnjsub"/></e>
+    <e lm="מכאן ש"><i>מכאן ש</i><par n="כאשר__cnjsub"/></e>
+    <e lm="מכאן נובע ש"><i>מכאן נובע ש</i><par n="כאשר__cnjsub"/></e>
+    <e lm="לכן"><i>לכן</i><par n="כאשר__cnjsub"/></e>
+    <e lm="על כן"><i>על כן</i><par n="כאשר__cnjsub"/></e>
+    <e lm="לפיכך"><i>לפיכך</i><par n="כאשר__cnjsub"/></e>
+    <e lm="הואיל וכך"><i>הואיל וכך</i><par n="כאשר__cnjsub"/></e>
+    <e lm="כתוצאה מכך"><i>כתוצאה מכך</i><par n="כאשר__cnjsub"/></e>
+    <e lm="אי לכך"><i>אי לכך</i><par n="כאשר__cnjsub"/></e>
+    <e lm="משום כך"><i>משום כך</i><par n="כאשר__cnjsub"/></e>
+    <e lm="בעקבות זאת"><i>בעקבות זאת</i><par n="כאשר__cnjsub"/></e>
+    <e lm="עקב כך"><i>עקב כך</i><par n="כאשר__cnjsub"/></e>
+    <e lm="בשל"><i>בשל</i><par n="כאשר__cnjsub"/></e>
+    <e lm="מתוך כך"><i>מתוך כך</i><par n="כאשר__cnjsub"/></e>
+    <e lm="מכיוון שכך"><i>מכיוון שכך</i><par n="כאשר__cnjsub"/></e>
+
     <!-- SECTION: Pronouns -->
     <e lm="personal subject pronouns"><i/><par n="prsubj__prn"/></e>
     

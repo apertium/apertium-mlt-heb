@@ -13,6 +13,10 @@
 /configure.ac -text
 dev/dout.nouns.shemp.dix -text
 dev/dout.nouns.wolig.dix -text
+dev/he-cnjcoo -text
+dev/he-cnjcoo.out -text
+dev/he-cnjsub -text
+dev/he-cnjsub.out -text
 dev/he-mt.interwiki.xml -text
 dev/he.dix -text
 dev/he.nouns.dix -text
