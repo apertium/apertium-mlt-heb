@@ -6070,8 +6070,6 @@
     <e lm="בנוסף"><i>בנוסף</i><par n="ו__cnjcoo"/></e>
     <e lm="לא רק"><i>לא רק</i><par n="ו__cnjcoo"/></e>
     <e lm="כי אם גם"><i>כי אם גם</i><par n="ו__cnjcoo"/></e>
-    <e lm="לרבות ה"><i>לרבות ה</i><par n="ו__cnjcoo"/></e>
-    <e lm="מלבד ה"><i>מלבד ה</i><par n="ו__cnjcoo"/></e>
     <e lm="חוץ מזה"><i>חוץ מזה</i><par n="ו__cnjcoo"/></e>
     <e lm="אבל"><i>אבל</i><par n="ו__cnjcoo"/></e>
     <e lm="אמנם"><i>אמנם</i><par n="ו__cnjcoo"/></e>
@@ -6089,7 +6087,7 @@
     <e lm="שמא"><i>שמא</i><par n="ו__cnjcoo"/></e>
     <e lm="כך גם"><i>כך גם</i><par n="ו__cnjcoo"/></e>
     <e lm="כאילו"><i>כאילו</i><par n="ו__cnjcoo"/></e>
-    <e lm="לעומת זאת "><i>לעומת זאת </i><par n="ו__cnjcoo"/></e>
+    <e lm="לעומת זאת"><i>לעומת זאת</i><par n="ו__cnjcoo"/></e>
     <e lm="אילו"><i>אילו</i><par n="ו__cnjcoo"/></e>
     <e lm="אם"><i>אם</i><par n="ו__cnjcoo"/></e>
     <e lm="לא אלא אם כן"><i>לא אלא אם כן</i><par n="ו__cnjcoo"/></e>
@@ -19035,6 +19033,7 @@
 
   <!-- Post-blank words -->
   <section id="stuff" type="postblank">
+
     <!-- SECTION: Conjunctions -->
     <!--    <e r="LR"><p><l>ו</l><r>ו<s n="cnjcoo"/></r></p></e> -->
     <e lm="ו"><i>ו</i><par n="ו__cnjcoo"/></e>
@@ -19078,6 +19077,8 @@
     <e lm="על מנת ל"><i>על מנת ל</i><par n="ו__cnjcoo"/></e>
     <e lm="בשביל ש"><i>בשביל ש</i><par n="ו__cnjcoo"/></e>
     <e lm="בהשוואה ל"><i>בהשוואה ל</i><par n="ו__cnjcoo"/></e>
+    <e lm="לרבות ה"><i>לרבות ה</i><par n="ו__cnjcoo"/></e>
+    <e lm="מלבד ה"><i>מלבד ה</i><par n="ו__cnjcoo"/></e>
     <e lm="ב"><i>ב</i><par n="ו__cnjcoo"/></e>
 
     <e lm="כש"><i>כש</i><par n="כאשר__cnjsub"/></e>
