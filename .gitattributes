@@ -11,6 +11,7 @@
 /apertium-mt-he.mt.dix -text
 /autogen.sh -text
 /configure.ac -text
+dev/bidix-verbs-to-he.dix.sh -text
 dev/dout.nouns.shemp.dix -text
 dev/dout.nouns.wolig.dix -text
 dev/he-cnjcoo -text
@@ -20,6 +21,8 @@ dev/he-cnjsub.out -text
 dev/he-mt.interwiki.xml -text
 dev/he.dix -text
 dev/he.nouns.dix -text
+dev/he.verbs.dix -text
+dev/hspell-to-dix.sh -text
 dev/mt-he.inconsistency.sh -text
 dev/mt-he.interwiki.xml -text
 dev/mt_verbs/classes/__init__.py -text

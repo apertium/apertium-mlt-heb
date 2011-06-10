@@ -17,6 +17,13 @@
     <sdef n="pl"          c="Plural"/>
     <sdef n="sp"          c="Singular / plural"/>
     
+    <sdef n="vblex"       c="Verb, lexical"/>
+    <sdef n="past"        c="Past tense"/>
+    <sdef n="inf"         c="Infinitive"/>
+    <sdef n="fut"         c="Future"/>
+    <sdef n="pres"        c="Present"/>
+    <sdef n="imp"         c="Imperative"/>
+
     <sdef n="cons"        c="Noun"/>
     <sdef n="px1sg"       c="Noun"/>
     <sdef n="px1pl"       c="Noun"/>
@@ -19029,86 +19036,174 @@
     <e lm="התרפאות"><i>התרפאו</i><par n="הזדכו/ת__n_f"/></e>
     <e lm="הצרחה"><i>הצרח</i><par n="ריצ/ה__n_f"/></e>
     <e lm="נשילה"><i>נשיל</i><par n="ריצ/ה__n_f"/></e>
+
+    <!-- SECTION: Verbs, converted from n0nick's modified hspell, see dev/hspell-to-dix.sh -->
+
+<e lm="החליט"><p><l>החליט</l><r>החליט<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="החליט"><p><l>החלטתי</l><r>החליט<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="החליט"><p><l>החלטת</l><r>החליט<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="החליט"><p><l>החלטת</l><r>החליט<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="החליט"><p><l>החליטה</l><r>החליט<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="החליט"><p><l>החלטנו</l><r>החליט<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="החליט"><p><l>החלטתם</l><r>החליט<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="החליט"><p><l>החלטתן</l><r>החליט<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="החליט"><p><l>החליטו</l><r>החליט<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="החליט"><p><l>החליטו</l><r>החליט<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="החליט"><p><l>להחליט</l><r>החליט<s n="vblex"/><s n="inf"/></r></p></e>
+<e lm="החליט"><p><l>החלט</l><r>החליט<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="החליט"><p><l>החליטי</l><r>החליט<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="החליט"><p><l>החליטו</l><r>החליט<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="החליט"><p><l>החלטנה</l><r>החליט<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="החליט"><p><l>אחליט</l><r>החליט<s n="vblex"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="החליט"><p><l>תחליט</l><r>החליט<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="החליט"><p><l>תחליטי</l><r>החליט<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="החליט"><p><l>יחליט</l><r>החליט<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="החליט"><p><l>תחליט</l><r>החליט<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="החליט"><p><l>נחליט</l><r>החליט<s n="vblex"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="החליט"><p><l>תחליטו</l><r>החליט<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="החליט"><p><l>תחלטנה</l><r>החליט<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="החליט"><p><l>יחליטו</l><r>החליט<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="החליט"><p><l>תחלטנה</l><r>החליט<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="החליט"><p><l>מחליט</l><r>החליט<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="m"/></r></p></e>
+<e lm="החליט"><p><l>מחליטה</l><r>החליט<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="f"/></r></p></e>
+<e lm="החליט"><p><l>מחליטים</l><r>החליט<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="m"/></r></p></e>
+<e lm="החליט"><p><l>מחליטות</l><r>החליט<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="f"/></r></p></e>
+
+<e lm="כתב"><p><l>כתב</l><r>כתב<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="כתב"><p><l>כתבתי</l><r>כתב<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="כתב"><p><l>כתבת</l><r>כתב<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="כתב"><p><l>כתבת</l><r>כתב<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="כתב"><p><l>כתבה</l><r>כתב<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="כתב"><p><l>כתבנו</l><r>כתב<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="כתב"><p><l>כתבתם</l><r>כתב<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="כתב"><p><l>כתבתן</l><r>כתב<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="כתב"><p><l>כתבו</l><r>כתב<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="כתב"><p><l>כתבו</l><r>כתב<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="כתב"><p><l>לכתוב</l><r>כתב<s n="vblex"/><s n="inf"/></r></p></e>
+<e lm="כתב"><p><l>כתוב</l><r>כתב<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="כתב"><p><l>כתבי</l><r>כתב<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="כתב"><p><l>כתבו</l><r>כתב<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="כתב"><p><l>כתובנה</l><r>כתב<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="כתב"><p><l>אכתוב</l><r>כתב<s n="vblex"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="כתב"><p><l>תכתוב</l><r>כתב<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="כתב"><p><l>תכתבי</l><r>כתב<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="כתב"><p><l>יכתוב</l><r>כתב<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="כתב"><p><l>תכתוב</l><r>כתב<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="כתב"><p><l>נכתוב</l><r>כתב<s n="vblex"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="כתב"><p><l>תכתבו</l><r>כתב<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="כתב"><p><l>תכתובנה</l><r>כתב<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="כתב"><p><l>יכתבו</l><r>כתב<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="כתב"><p><l>תכתובנה</l><r>כתב<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="כתב"><p><l>כותב</l><r>כתב<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="m"/></r></p></e>
+<e lm="כתב"><p><l>כותבת</l><r>כתב<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="f"/></r></p></e>
+<e lm="כתב"><p><l>כותבים</l><r>כתב<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="m"/></r></p></e>
+<e lm="כתב"><p><l>כותבות</l><r>כתב<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="f"/></r></p></e>
+
+<e lm="ראה"><p><l>ראה</l><r>ראה<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="ראה"><p><l>ראיתי</l><r>ראה<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="ראה"><p><l>ראית</l><r>ראה<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="ראה"><p><l>ראית</l><r>ראה<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="ראה"><p><l>ראתה</l><r>ראה<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="ראה"><p><l>ראינו</l><r>ראה<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="ראה"><p><l>ראיתם</l><r>ראה<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="ראה"><p><l>ראיתן</l><r>ראה<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="ראה"><p><l>ראו</l><r>ראה<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="ראה"><p><l>ראו</l><r>ראה<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="ראה"><p><l>לראות</l><r>ראה<s n="vblex"/><s n="inf"/></r></p></e>
+<e lm="ראה"><p><l>ראה</l><r>ראה<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="ראה"><p><l>ראי</l><r>ראה<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="ראה"><p><l>ראו</l><r>ראה<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="ראה"><p><l>ראינה</l><r>ראה<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="ראה"><p><l>אראה</l><r>ראה<s n="vblex"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="ראה"><p><l>תראה</l><r>ראה<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="ראה"><p><l>תראי</l><r>ראה<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="ראה"><p><l>יראה</l><r>ראה<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="ראה"><p><l>תראה</l><r>ראה<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="ראה"><p><l>נראה</l><r>ראה<s n="vblex"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="ראה"><p><l>תראו</l><r>ראה<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="ראה"><p><l>תראינה</l><r>ראה<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="ראה"><p><l>יראו</l><r>ראה<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="ראה"><p><l>תראינה</l><r>ראה<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="ראה"><p><l>רואה</l><r>ראה<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="m"/></r></p></e>
+<e lm="ראה"><p><l>רואה</l><r>ראה<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="f"/></r></p></e>
+<e lm="ראה"><p><l>רואים</l><r>ראה<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="m"/></r></p></e>
+<e lm="ראה"><p><l>רואות</l><r>ראה<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="f"/></r></p></e>
+    <!-- /verbs -->
+
   </section>
 
-  <!-- Post-blank words -->
-  <section id="stuff" type="postblank">
+  <!-- Post-blank words --> <section id="stuff" type="postblank">
 
-    <!-- SECTION: Conjunctions -->
-    <!--    <e r="LR"><p><l>ו</l><r>ו<s n="cnjcoo"/></r></p></e> -->
-    <e lm="ו"><i>ו</i><par n="ו__cnjcoo"/></e>
-    <e lm="כדי ש"><i>כדי ש</i><par n="ו__cnjcoo"/></e>
-    <e lm="במטרה ש"><i>במטרה ש</i><par n="ו__cnjcoo"/></e>
-    <e lm="על מנת ש"><i>על מנת ש</i><par n="ו__cnjcoo"/></e>
-    <e lm="לשם ה"><i>לשם ה</i><par n="ו__cnjcoo"/></e>
-    <e lm="למען ה"><i>למען ה</i><par n="ו__cnjcoo"/></e>
-    <e lm="כדי ל"><i>כדי ל</i><par n="ו__cnjcoo"/></e>
-    <e lm="במטרה ל"><i>במטרה ל</i><par n="ו__cnjcoo"/></e>
-    <e lm="במגמה ל"><i>במגמה ל</i><par n="ו__cnjcoo"/></e>
-    <e lm="על מנת ל"><i>על מנת ל</i><par n="ו__cnjcoo"/></e>
-    <e lm="בהשוואה ל"><i>בהשוואה ל</i><par n="ו__cnjcoo"/></e>
-    <e lm="בדומה ל"><i>בדומה ל</i><par n="ו__cnjcoo"/></e>
-    <e lm="דומה ל"><i>דומה ל</i><par n="ו__cnjcoo"/></e>
-    <e lm="במקביל ל"><i>במקביל ל</i><par n="ו__cnjcoo"/></e>
-    <e lm="כמו ה"><i>כמו ה</i><par n="ו__cnjcoo"/></e>
-    <e lm="כפי ש"><i>כפי ש</i><par n="ו__cnjcoo"/></e>
-    <e lm="בעוד ש"><i>בעוד ש</i><par n="ו__cnjcoo"/></e>
-    <e lm="כשם ש"><i>כשם ש</i><par n="ו__cnjcoo"/></e>
-    <e lm="בשביל ש"><i>בשביל ש</i><par n="ו__cnjcoo"/></e>
-    <e lm="בניגוד ל"><i>בניגוד ל</i><par n="ו__cnjcoo"/></e>
-    <e lm="ככל ש"><i>ככל ש</i><par n="ו__cnjcoo"/></e>
-    <e lm="במידה ש"><i>במידה ש</i><par n="ו__cnjcoo"/></e>
-    <e lm="יותר ממה ש"><i>יותר ממה ש</i><par n="ו__cnjcoo"/></e>
-    <e lm="פחות ממה ש"><i>פחות ממה ש</i><par n="ו__cnjcoo"/></e>
-    <e lm="יותר מ"><i>יותר מ</i><par n="ו__cnjcoo"/></e>
-    <e lm="פחות מ"><i>פחות מ</i><par n="ו__cnjcoo"/></e>
-    <e lm="יחסית ל"><i>יחסית ל</i><par n="ו__cnjcoo"/></e>
-    <e lm="בהשוואה ל"><i>בהשוואה ל</i><par n="ו__cnjcoo"/></e>
-    <e lm="במקרה ש"><i>במקרה ש</i><par n="ו__cnjcoo"/></e>
-    <e lm="בתנאי ש"><i>בתנאי ש</i><par n="ו__cnjcoo"/></e>
-    <e lm="ובלבד ש"><i>ובלבד ש</i><par n="ו__cnjcoo"/></e>
-    <e lm="על אף ש"><i>על אף ש</i><par n="ו__cnjcoo"/></e>
-    <e lm="על אף ה"><i>על אף ה</i><par n="ו__cnjcoo"/></e>
-    <e lm="אף על פי ש"><i>אף על פי ש</i><par n="ו__cnjcoo"/></e>
-    <e lm="חרף ה"><i>חרף ה</i><par n="ו__cnjcoo"/></e>
-    <e lm="למרות ה"><i>למרות ה</i><par n="ו__cnjcoo"/></e>
-    <e lm="בכל ×במטרה ל"><i>בכל ×במטרה ל</i><par n="ו__cnjcoo"/></e>
-    <e lm="במגמה ל"><i>במגמה ל</i><par n="ו__cnjcoo"/></e>
-    <e lm="על מנת ל"><i>על מנת ל</i><par n="ו__cnjcoo"/></e>
-    <e lm="בשביל ש"><i>בשביל ש</i><par n="ו__cnjcoo"/></e>
-    <e lm="בהשוואה ל"><i>בהשוואה ל</i><par n="ו__cnjcoo"/></e>
-    <e lm="לרבות ה"><i>לרבות ה</i><par n="ו__cnjcoo"/></e>
-    <e lm="מלבד ה"><i>מלבד ה</i><par n="ו__cnjcoo"/></e>
-    <e lm="ב"><i>ב</i><par n="ו__cnjcoo"/></e>
+    <!-- SECTION: Conjunctions --> <!-- <e r="LR"><p><l>ו</l><r>ו<s
+    n="cnjcoo"/></r></p></e> --> <e lm="ו"><i>ו</i><par
+    n="ו__cnjcoo"/></e> <e lm="כדי ש"><i>כדי ש</i><par
+    n="ו__cnjcoo"/></e> <e lm="במטרה ש"><i>במטרה ש</i><par
+    n="ו__cnjcoo"/></e> <e lm="על מנת ש"><i>על מנת ש</i><par
+    n="ו__cnjcoo"/></e> <e lm="לשם ה"><i>לשם ה</i><par
+    n="ו__cnjcoo"/></e> <e lm="למען ה"><i>למען ה</i><par
+    n="ו__cnjcoo"/></e> <e lm="כדי ל"><i>כדי ל</i><par
+    n="ו__cnjcoo"/></e> <e lm="במטרה ל"><i>במטרה ל</i><par
+    n="ו__cnjcoo"/></e> <e lm="במגמה ל"><i>במגמה ל</i><par
+    n="ו__cnjcoo"/></e> <e lm="על מנת ל"><i>על מנת ל</i><par
+    n="ו__cnjcoo"/></e> <e lm="בהשוואה ל"><i>בהשוואה ל</i><par
+    n="ו__cnjcoo"/></e> <e lm="בדומה ל"><i>בדומה ל</i><par
+    n="ו__cnjcoo"/></e> <e lm="דומה ל"><i>דומה ל</i><par
+    n="ו__cnjcoo"/></e> <e lm="במקביל ל"><i>במקביל ל</i><par
+    n="ו__cnjcoo"/></e> <e lm="כמו ה"><i>כמו ה</i><par
+    n="ו__cnjcoo"/></e> <e lm="כפי ש"><i>כפי ש</i><par
+    n="ו__cnjcoo"/></e> <e lm="בעוד ש"><i>בעוד ש</i><par
+    n="ו__cnjcoo"/></e> <e lm="כשם ש"><i>כשם ש</i><par
+    n="ו__cnjcoo"/></e> <e lm="בשביל ש"><i>בשביל ש</i><par
+    n="ו__cnjcoo"/></e> <e lm="בניגוד ל"><i>בניגוד ל</i><par
+    n="ו__cnjcoo"/></e> <e lm="ככל ש"><i>ככל ש</i><par
+    n="ו__cnjcoo"/></e> <e lm="במידה ש"><i>במידה ש</i><par
+    n="ו__cnjcoo"/></e> <e lm="יותר ממה ש"><i>יותר ממה ש</i><par
+    n="ו__cnjcoo"/></e> <e lm="פחות ממה ש"><i>פחות ממה ש</i><par
+    n="ו__cnjcoo"/></e> <e lm="יותר מ"><i>יותר מ</i><par
+    n="ו__cnjcoo"/></e> <e lm="פחות מ"><i>פחות מ</i><par
+    n="ו__cnjcoo"/></e> <e lm="יחסית ל"><i>יחסית ל</i><par
+    n="ו__cnjcoo"/></e> <e lm="בהשוואה ל"><i>בהשוואה ל</i><par
+    n="ו__cnjcoo"/></e> <e lm="במקרה ש"><i>במקרה ש</i><par
+    n="ו__cnjcoo"/></e> <e lm="בתנאי ש"><i>בתנאי ש</i><par
+    n="ו__cnjcoo"/></e> <e lm="ובלבד ש"><i>ובלבד ש</i><par
+    n="ו__cnjcoo"/></e> <e lm="על אף ש"><i>על אף ש</i><par
+    n="ו__cnjcoo"/></e> <e lm="על אף ה"><i>על אף ה</i><par
+    n="ו__cnjcoo"/></e> <e lm="אף על פי ש"><i>אף על פי ש</i><par
+    n="ו__cnjcoo"/></e> <e lm="חרף ה"><i>חרף ה</i><par
+    n="ו__cnjcoo"/></e> <e lm="למרות ה"><i>למרות ה</i><par
+    n="ו__cnjcoo"/></e> <e lm="בכל ×במטרה ל"><i>בכל ×במטרה ל</i><par
+    n="ו__cnjcoo"/></e> <e lm="במגמה ל"><i>במגמה ל</i><par
+    n="ו__cnjcoo"/></e> <e lm="על מנת ל"><i>על מנת ל</i><par
+    n="ו__cnjcoo"/></e> <e lm="בשביל ש"><i>בשביל ש</i><par
+    n="ו__cnjcoo"/></e> <e lm="בהשוואה ל"><i>בהשוואה ל</i><par
+    n="ו__cnjcoo"/></e> <e lm="לרבות ה"><i>לרבות ה</i><par
+    n="ו__cnjcoo"/></e> <e lm="מלבד ה"><i>מלבד ה</i><par
+    n="ו__cnjcoo"/></e> <e lm="ב"><i>ב</i><par n="ו__cnjcoo"/></e>
 
-    <e lm="כש"><i>כש</i><par n="כאשר__cnjsub"/></e>
-    <e lm="בשעה ש"><i>בשעה ש</i><par n="כאשר__cnjsub"/></e>
-    <e lm="בזמן ש"><i>בזמן ש</i><par n="כאשר__cnjsub"/></e>
-    <e lm="לפני ש"><i>לפני ש</i><par n="כאשר__cnjsub"/></e>
-    <e lm="אחרי ש"><i>אחרי ש</i><par n="כאשר__cnjsub"/></e>
-    <e lm="מתי ש"><i>מתי ש</i><par n="כאשר__cnjsub"/></e>
-    <e lm="בעוד ש"><i>בעוד ש</i><par n="כאשר__cnjsub"/></e>
-    <e lm="בו בזמן ש"><i>בו בזמן ש</i><par n="כאשר__cnjsub"/></e>
-    <e lm="לעומת ה"><i>לעומת ה</i><par n="כאשר__cnjsub"/></e>
-    <e lm="מפני ש"><i>מפני ש</i><par n="כאשר__cnjsub"/></e>
-    <e lm="משום ש"><i>משום ש</i><par n="כאשר__cnjsub"/></e>
-    <e lm="מאחר ש"><i>מאחר ש</i><par n="כאשר__cnjsub"/></e>
-    <e lm="הואיל ו"><i>הואיל ו</i><par n="כאשר__cnjsub"/></e>
-    <e lm="בגלל ה"><i>בגלל ה</i><par n="כאשר__cnjsub"/></e>
-    <e lm="בזכות ה"><i>בזכות ה</i><par n="כאשר__cnjsub"/></e>
-    <e lm="כיוון ש"><i>כיוון ש</i><par n="כאשר__cnjsub"/></e>
-    <e lm="בגין ה"><i>בגין ה</i><par n="כאשר__cnjsub"/></e>
-    <e lm="לרגל ה"><i>לרגל ה</i><par n="כאשר__cnjsub"/></e>
-    <e lm="מחמת ה"><i>מחמת ה</i><par n="כאשר__cnjsub"/></e>
-    <e lm="מפאת ה"><i>מפאת ה</i><par n="כאשר__cnjsub"/></e>
-    <e lm="כך ש"><i>כך ש</i><par n="כאשר__cnjsub"/></e>
-    <e lm="מכאן ש"><i>מכאן ש</i><par n="כאשר__cnjsub"/></e>
-    <e lm="מכאן נובע ש"><i>מכאן נובע ש</i><par n="כאשר__cnjsub"/></e>
- </section>
+    <e lm="כש"><i>כש</i><par n="כאשר__cnjsub"/></e> <e lm="בשעה
+    ש"><i>בשעה ש</i><par n="כאשר__cnjsub"/></e> <e lm="בזמן ש"><i>בזמן
+    ש</i><par n="כאשר__cnjsub"/></e> <e lm="לפני ש"><i>לפני ש</i><par
+    n="כאשר__cnjsub"/></e> <e lm="אחרי ש"><i>אחרי ש</i><par
+    n="כאשר__cnjsub"/></e> <e lm="מתי ש"><i>מתי ש</i><par
+    n="כאשר__cnjsub"/></e> <e lm="בעוד ש"><i>בעוד ש</i><par
+    n="כאשר__cnjsub"/></e> <e lm="בו בזמן ש"><i>בו בזמן ש</i><par
+    n="כאשר__cnjsub"/></e> <e lm="לעומת ה"><i>לעומת ה</i><par
+    n="כאשר__cnjsub"/></e> <e lm="מפני ש"><i>מפני ש</i><par
+    n="כאשר__cnjsub"/></e> <e lm="משום ש"><i>משום ש</i><par
+    n="כאשר__cnjsub"/></e> <e lm="מאחר ש"><i>מאחר ש</i><par
+    n="כאשר__cnjsub"/></e> <e lm="הואיל ו"><i>הואיל ו</i><par
+    n="כאשר__cnjsub"/></e> <e lm="בגלל ה"><i>בגלל ה</i><par
+    n="כאשר__cnjsub"/></e> <e lm="בזכות ה"><i>בזכות ה</i><par
+    n="כאשר__cnjsub"/></e> <e lm="כיוון ש"><i>כיוון ש</i><par
+    n="כאשר__cnjsub"/></e> <e lm="בגין ה"><i>בגין ה</i><par
+    n="כאשר__cnjsub"/></e> <e lm="לרגל ה"><i>לרגל ה</i><par
+    n="כאשר__cnjsub"/></e> <e lm="מחמת ה"><i>מחמת ה</i><par
+    n="כאשר__cnjsub"/></e> <e lm="מפאת ה"><i>מפאת ה</i><par
+    n="כאשר__cnjsub"/></e> <e lm="כך ש"><i>כך ש</i><par
+    n="כאשר__cnjsub"/></e> <e lm="מכאן ש"><i>מכאן ש</i><par
+    n="כאשר__cnjsub"/></e> <e lm="מכאן נובע ש"><i>מכאן נובע ש</i><par
+    n="כאשר__cnjsub"/></e> </section>
 
-  <!-- Inconditionals -->
-  <section id="final" type="inconditional">
-    <e><par n="separa"/></e>
-    <e><par n="coma"/></e>
-  </section>
-</dictionary>
+  <!-- Inconditionals --> <section id="final" type="inconditional">
+  <e><par n="separa"/></e> <e><par n="coma"/></e> </section>
+  </dictionary>
