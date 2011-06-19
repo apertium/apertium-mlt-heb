@@ -236,7 +236,7 @@
       <e><p><l>ijiet</l><r><s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     </pardef>
 
-    <!-- TODO find gender.. marked mf for now -->
+    <!-- TODO find gender for all of these.. marked mf for now -->
     <pardef n="entit/à__n">
       <e><p><l>à_</l><r><s n="n"/><s n="mf"/><s n="sg"/></r></p></e>
       <e><p><l>ajiet</l><r><s n="n"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -244,7 +244,16 @@
 
     <pardef n="espressjoni__n">
       <e><p><l></l><r><s n="n"/><s n="mf"/><s n="sg"/></r></p></e>
-      <e><p><l>jite</l><r><s n="n"/><s n="mf"/><s n="pl"/></r></p></e>
+      <e><p><l>jiet</l><r><s n="n"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
+
+    <pardef n="logħ/ba__n">
+      <e><p><l>ba</l><r><s n="n"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e><p><l>ob</l><r><s n="n"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
+
+    <pardef n="istampa__n">
+      <e><p><l></l><r><s n="n"/><s n="sg"/></r></p></e>
     </pardef>
 
 
@@ -370,7 +379,17 @@
     <e lm="ktieb"><i>k</i><par n="k/tieb__n"/></e>
     <e lm="reliġjon"><i>reliġjon</i><par n="reliġjon__n"/></e>
     <e lm="entità"><i>entit</i><par n="entit/à__n"/></e>
+
     <e lm="espressjoni"><i>espressjoni</i><par n="espressjoni__n"/></e>
+    <e lm="preokkupazzjoni"><i>preokkupazzjoni</i><par n="espressjoni__n"/></e>
+    <e lm="ospitazzjoni"><i>ospitazzjoni</i><par n="espressjoni__n"/></e>
+    <e lm="allegazzjoni"><i>allegazzjoni</i><par n="espressjoni__n"/></e>
+    <e lm="vjolazzjoni"><i>vjolazzjoni</i><par n="espressjoni__n"/></e>
+    <e lm="dritti"><i>dritti</i><par n="espressjoni__n"/></e>
+
+    <e lm="logħba"><i>logħ</i><par n="logħ/ba__n"/></e>
+
+    <e lm="istampa"><i>istampa</i><par n="istampa__n"/></e>
   </section>
 
   <section id="article" type="postblank">
