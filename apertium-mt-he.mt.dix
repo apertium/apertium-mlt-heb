@@ -236,6 +236,17 @@
       <e><p><l>ijiet</l><r><s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     </pardef>
 
+    <!-- TODO find gender.. marked mf for now -->
+    <pardef n="entit/à__n">
+      <e><p><l>à_</l><r><s n="n"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e><p><l>ajiet</l><r><s n="n"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
+
+    <pardef n="espressjoni__n">
+      <e><p><l></l><r><s n="n"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e><p><l>jite</l><r><s n="n"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
+
 
 
   </pardefs>
@@ -358,6 +369,8 @@
     <e lm="dar"><i>d</i><par n="d/ar__n"/></e>
     <e lm="ktieb"><i>k</i><par n="k/tieb__n"/></e>
     <e lm="reliġjon"><i>reliġjon</i><par n="reliġjon__n"/></e>
+    <e lm="entità"><i>entit</i><par n="entit/à__n"/></e>
+    <e lm="espressjoni"><i>espressjoni</i><par n="espressjoni__n"/></e>
   </section>
 
   <section id="article" type="postblank">
