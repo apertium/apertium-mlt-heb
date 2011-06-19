@@ -389,7 +389,8 @@
     <e lm="taghkom" c="yours (pl)"><i>taghkom</i><par n="taghha__prn"/></e>
     <e lm="tieghu" c="his"><i>tieghu</i><par n="taghha__prn"/></e>
     <e lm="taghha" c="hers"><i>taghha</i><par n="taghha__prn"/></e>
-    <e lm="taghhom" c="theirs"><i>taghhom</i><par n="taghha__prn"/></e>
+    <e lm="taghhom" c="theirs"><i>tagħhom</i><par n="taghha__prn"/></e>
+    <e r="LR" lm="taghhom" c="theirs"><i>taghhom</i><par n="taghha__prn"/></e>
 
     <!-- SECTION: Determiners -->
 
