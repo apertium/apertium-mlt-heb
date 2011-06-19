@@ -362,6 +362,8 @@
     <e lm="mentri"><i>mentri</i><par n="u__cnjcoo"/></e>
     <e lm="ġaladarba"><i>ġaladarba</i><par n="u__cnjcoo"/></e>
     <e lm="sija"><i>sija</i><par n="u__cnjcoo"/></e>
+    <e lm="kif ukoll"><i>kif<b/>ukoll</i><par n="u__cnjcoo"/></e> <!-- as well as -->
+
     <!-- TODO more conjunctions! -->
 
     <e lm="li"><i>li</i><par n="li__cnjsub"/></e>
