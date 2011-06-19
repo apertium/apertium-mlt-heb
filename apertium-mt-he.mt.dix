@@ -1413,5 +1413,26 @@
     <e><p><l>tieħdu</l>	<r>ħa<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/></r></p></e>
     <e><p><l>ħadt</l>	<r>ħa<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
 
+    <e><p><l>ħadma</l>	<r>ħadem<s n="vblex"/><s n="ger"/></r></p></e>
+    <e><p><l>ħadem</l>	<r>ħadem<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>ħadmu</l>	<r>ħadem<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/></r></p></e>
+    <e><p><l>jaħdem</l>	<r>ħadem<s n="vblex"/><s n="pres"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>ħdamt</l>	<r>ħadem<s n="vblex"/><s n="past"/><s n="p2"/><s n="sg"/></r></p></e>
+    <e><p><l>jaħdmu</l>	<r>ħadem<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
+    <e><p><l>ħdamtu</l>	<r>ħadem<s n="vblex"/><s n="past"/><s n="p2"/><s n="pl"/></r></p></e>
+    <e><p><l>ħdamna</l>	<r>ħadem<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+    <e><p><l>aħdem</l>	<r>ħadem<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
+    <e><p><l>taħdem</l>	<r>ħadem<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
+    <e><p><l>maħdum</l>	<r>ħadem<s n="vblex"/><s n="pp"/><s n="sg"/></r></p></e>
+    <e><p><l>naħdem</l>	<r>ħadem<s n="vblex"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
+    <e><p><l>naħdmu</l>	<r>ħadem<s n="vblex"/><s n="pres"/><s n="p1"/><s n="pl"/></r></p></e>
+    <e><p><l>aħdmu</l>	<r>ħadem<s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
+    <e><p><l>ħadmet</l>	<r>ħadem<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>ħadem</l>	<r>ħadem<s n="vblex"/><s n="inf"/></r></p></e>
+    <e><p><l>taħdem</l>	<r>ħadem<s n="vblex"/><s n="pres"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>taħdmu</l>	<r>ħadem<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/></r></p></e>
+    <e><p><l>ħdamt</l>	<r>ħadem<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+
+
   </section>
 </dictionary>
