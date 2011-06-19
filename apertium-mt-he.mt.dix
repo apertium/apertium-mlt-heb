@@ -247,6 +247,11 @@
       <e><p><l>jiet</l><r><s n="n"/><s n="mf"/><s n="pl"/></r></p></e>
     </pardef>
 
+    <pardef n="wegħd/a__n">
+      <e><p><l>a</l><r><s n="n"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e><p><l>iet</l><r><s n="n"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
+
     <pardef n="logħ/ba__n">
       <e><p><l>ba</l><r><s n="n"/><s n="mf"/><s n="sg"/></r></p></e>
       <e><p><l>ob</l><r><s n="n"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -254,6 +259,26 @@
 
     <pardef n="istampa__n">
       <e><p><l></l><r><s n="n"/><s n="sg"/></r></p></e>
+    </pardef>
+
+    <pardef n="protestant__n">
+      <e><p><l></l><r><s n="n"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e><p><l>i</l><r><s n="n"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
+
+    <pardef n="propost/a__n">
+      <e><p><l>a</l><r><s n="n"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e><p><l>i</l><r><s n="n"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
+
+    <pardef n="terroristi__n">
+      <e><p><l></l><r><s n="n"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e><p><l>ċi</l><r><s n="n"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
+
+    <pardef n="bojkott__n">
+      <e><p><l></l><r><s n="n"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e><p><l></l><r>s<s n="n"/><s n="mf"/><s n="pl"/></r></p></e>
     </pardef>
 
 
@@ -378,7 +403,9 @@
     <e lm="dar"><i>d</i><par n="d/ar__n"/></e>
     <e lm="ktieb"><i>k</i><par n="k/tieb__n"/></e>
     <e lm="reliġjon"><i>reliġjon</i><par n="reliġjon__n"/></e>
+
     <e lm="entità"><i>entit</i><par n="entit/à__n"/></e>
+    <e lm="possibilità"><i>possibilit</i><par n="entit/à__n"/></e>
 
     <e lm="espressjoni"><i>espressjoni</i><par n="espressjoni__n"/></e>
     <e lm="preokkupazzjoni"><i>preokkupazzjoni</i><par n="espressjoni__n"/></e>
@@ -386,6 +413,34 @@
     <e lm="allegazzjoni"><i>allegazzjoni</i><par n="espressjoni__n"/></e>
     <e lm="vjolazzjoni"><i>vjolazzjoni</i><par n="espressjoni__n"/></e>
     <e lm="dritti"><i>dritti</i><par n="espressjoni__n"/></e>
+    <e lm="persekuzzjoni"><i>persekuzzjoni</i><par n="espressjoni__n"/></e>
+    <e lm="allegazzjoni"><i>allegazzjoni</i><par n="espressjoni__n"/></e>
+    <e lm="projbizzjoni"><i>projbizzjoni</i><par n="espressjoni__n"/></e:
+
+    <e lm="protestant"><i>protestant</i><par n="protestant__n"/></e>
+    <e lm="ġurnal"><i>ġurnal</i><par n="protestant__n"/></e>
+    <e lm="trattament"><i>trattament</i><par n="protestant__n"/></e>
+    <e lm="dissident"><i>dissident</i><par n="protestant__n"/></e>
+    <e lm="biljett"><i>biljett</i><par n="protestant__n"/></e>
+    <e lm="arrest"><i>arrest</i><par n="protestant__n"/></e>
+    <e lm="ispostament"><i>ispostament</i><par n="protestant__n"/></e>
+    <e lm="disturb"><i>disturb</i><par n="protestant__n"/></e>
+    <e lm="resident"><i>resident</i><par n="protestant__n"/></e>
+    <e lm="aċċess"><i>aċċess</i><par n="protestant__n"/></e>
+    <e lm="grupp"><i>grupp</i><par n="protestant__n"/></e>
+
+    <e lm="proposta"><i>propost</i><par n="propost/a__n"/></e>
+    <e lm="żona"><i>żon</i><par n="propost/a__n"/></e>
+    <e lm="tortura"><i>tortur</i><par n="propost/a__n"/></e>
+    <e lm="politika"><i>politik</i><par n="propost/a__n"/></e>
+    <e lm="lukanda"><i>lukand</i><par n="propost/a__n"/></e>
+    <e lm="priġunerija"><i>priġunerij</i><par n="propost/a__n"/></e>
+    <e lm="mira"><i>mir</i><par n="propost/a__n"/></e>
+    <e lm="twissija"><i>twissij</i><par n="propost/a__n"/></e>
+
+    <e lm="wegħda"><i>wegħd</i><par n="wegħd/a__n"/></e>
+
+    <e lm="bojkott"><i>bojkott</i><par n="bojkott__n"/></e>
 
     <e lm="logħba"><i>logħ</i><par n="logħ/ba__n"/></e>
 
