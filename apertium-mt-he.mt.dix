@@ -326,6 +326,10 @@
       <e><p><l></l><r><s n="np"/><s n="top"/><s n="GD"/><s n="sg"/></r></p></e>
     </pardef>
 
+    <pardef n="Tibet__np">
+      <e><p><l></l><r><s n="np"/><s n="top"/><s n="GD"/><s n="sg"/></r></p></e>
+    </pardef>
+
     <!-- SECTION: Adjectives -->
 
     <pardef n="teknoloġi/ku__adj">
@@ -577,6 +581,9 @@
 
     <e lm="Ċina"><i>Ċina</i><par n="Malta__np"/></e>
     <e lm="Malta"><i>Malta</i><par n="Malta__np"/></e>
+
+    <e lm="Bejġing"><i>Bejġing</i><par n="Tibet__np"/></e>
+    <e lm="Tibet"><i>Tibet</i><par n="Tibet__np"/></e>
 
     <!-- SECTION: Adjectives -->
 
