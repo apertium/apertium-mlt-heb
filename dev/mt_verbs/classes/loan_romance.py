@@ -14,6 +14,9 @@ def past_p1_sg(stem, root, vowels):
 	elif vowels == ['a','i']:
 		# falla; fallejt; past.p1.sg; vblex
 		res = stem[:-1] + 'ejt'
+	elif vowels == ['e','e']:
+		# espressa; espressa; past.p1.sg; vblex
+		res = stem
 	return res
 
 def past_p2_sg(stem, root, vowels):
@@ -24,10 +27,20 @@ def past_p2_sg(stem, root, vowels):
 	elif vowels == ['a','i']:
 		# falla; fallejt; past.p2.sg; vblex
 		res = stem[:-1] + 'ejt'
+	elif vowels == ['e','e']:
+		# espressa; espressi; past.p2.sg; vblex
+		res = stem[:-1] + 'i'
 	return res
 	
 def past_p3_m_sg(stem, root, vowels):
-	return stem
+	res = ''
+	if vowels == ['e','e']:
+		# espressa; esprima; past.p3.m.sg; vblex
+		res = 'e' + root[0] + root[1] + root[2] + 'ima'
+	else:
+		# kanta; kanta; past.p3.m.sg; vblex
+		res = stem
+	return res
 	
 def past_p3_f_sg(stem, root, vowels):
 	res = ''
@@ -37,6 +50,9 @@ def past_p3_f_sg(stem, root, vowels):
 	elif vowels == ['a','i']:
 		# falla; falliet; past.p3.f.sg; vblex
 		res = stem[:-1] + 'iet'
+	elif vowels == ['e','e']:
+		# espressa; espressa; past.p3.f.sg; vblex
+		res = stem
 	return res
 	
 def past_p1_pl(stem, root, vowels):
@@ -47,6 +63,9 @@ def past_p1_pl(stem, root, vowels):
 	elif vowels == ['a','i']:
 		# falla; fallejna; past.p1.pl; vblex
 		res = stem[:-1] + 'ejna'
+	elif vowels == ['e','e']:
+		# espressa; espressi; past.p1.pl; vblex
+		res = stem[-1] + 'i'
 	return res
 	
 def past_p2_pl(stem, root, vowels):
@@ -57,16 +76,22 @@ def past_p2_pl(stem, root, vowels):
 	elif vowels == ['a','i']:
 		# falla; fallejtu; past.p2.pl; vblex
 		res = stem[:-1] + 'ejtu'
+	elif vowels == ['e','e']:
+		# espressa; espressi; past.p2.pl; vblex
+		res = stem[:-1] + 'i'
 	return res
 		
 def past_p3_pl(stem, root, vowels):
 	res = ''
 	if vowels == ['a','a']:
-		# kanta; kantaw; past.p2.pl; vblex
+		# kanta; kantaw; past.p3.pl; vblex
 		res = stem + 'w'
 	elif vowels == ['a','i']:
-		# falla; fallew; past.p2.pl; vblex
+		# falla; fallew; past.p3.pl; vblex
 		res = stem[:-1] + 'ew'
+	elif vowels == ['e','e']:
+		# espressa; espressi; past.p3.pl; vblex
+		res = stem[:-1] + 'i'
 	return res
 	
 def pres_p1_sg(stem, root, vowels):
@@ -76,7 +101,10 @@ def pres_p1_sg(stem, root, vowels):
 		res = 'n' + stem
 	elif vowels == ['a','i']:
 		# falla; nfalli; pres.p1.sg; vblex
-		return 'n' + stem[:-1] + 'i'
+		res = 'n' + stem[:-1] + 'i'
+	elif vowels == ['e','e']:
+		# espressa; jesprimu; pres.p1.sg; vblex
+		res = 'j' + vowels[0] + root[0] + root[1] + root[2] + 'imu'
 	return res
 	
 def pres_p2_sg(stem, root, vowels):
@@ -86,7 +114,10 @@ def pres_p2_sg(stem, root, vowels):
 		res = 't' + stem
 	elif vowels == ['a','i']:
 		# falla; tfalli; pres.p2.sg; vblex
-		return 't' + stem[:-1] + 'i'
+		res = 't' + stem[:-1] + 'i'
+	elif vowels == ['e','e']:
+		# espressa; jesprimu; pres.p2.sg; vblex
+		res = 'j' + vowels[0] + root[0] + root[1] + root[2] + 'imu'
 	return res
 	
 def pres_p3_m_sg(stem, root, vowels):
@@ -96,7 +127,10 @@ def pres_p3_m_sg(stem, root, vowels):
 		res = 'j' + stem
 	elif vowels == ['a','i']:
 		# falla; jfalli; pres.p3.m.sg; vblex
-		return 'j' + stem[:-1] + 'i'
+		res = 'j' + stem[:-1] + 'i'
+	elif vowels == ['e','e']:
+		# espressa; jesprimu; pres.p3.m.sg; vblex
+		res = 'j' + vowels[0] + root[0] + root[1] + root[2] + 'imu'
 	return res
 	
 def pres_p3_f_sg(stem, root, vowels):
@@ -106,7 +140,10 @@ def pres_p3_f_sg(stem, root, vowels):
 		res = 't' + stem
 	elif vowels == ['a','i']:
 		# falla; tfalli; pres.p3.f.sg; vblex
-		return 't' + stem[:-1] + 'i'
+		res = 't' + stem[:-1] + 'i'
+	elif vowels == ['e','e']:
+		# espressa; jesprimu; pres.p3.f.sg; vblex
+		res = 'j' + vowels[0] + root[0] + root[1] + root[2] + 'imu'
 	return res
 	
 def pres_p1_pl(stem, root, vowels):
@@ -116,7 +153,10 @@ def pres_p1_pl(stem, root, vowels):
 		res = 'n' + stem + 'w'
 	elif vowels == ['a','i']:
 		# falla; nfallu; pres.p1.pl; vblex
-		return 'n' + stem[:-1] + 'u'
+		res = 'n' + stem[:-1] + 'u'
+	elif vowels == ['e','e']:
+		# espressa; jesprimu; pres.p1.pl; vblex
+		res = 'j' + vowels[0] + root[0] + root[1] + root[2] + 'imu'
 	return res
 	
 def pres_p2_pl(stem, root, vowels):
@@ -126,7 +166,10 @@ def pres_p2_pl(stem, root, vowels):
 		res = 't' + stem + 'w'
 	elif vowels == ['a','i']:
 		# falla; tfallu; pres.p2.pl; vblex
-		return 't' + stem[:-1] + 'u'
+		res = 't' + stem[:-1] + 'u'
+	elif vowels == ['e','e']:
+		# espressa; jesprimu; pres.p2.pl; vblex
+		res = 'j' + vowels[0] + root[0] + root[1] + root[2] + 'imu'
 	return res
 	
 def pres_p3_pl(stem, root, vowels):
@@ -136,7 +179,10 @@ def pres_p3_pl(stem, root, vowels):
 		res = 'j' + stem + 'w'
 	elif vowels == ['a','i']:
 		# falla; jfallu; pres.p3.pl; vblex
-		return 'j' + stem[:-1] + 'u'
+		res = 'j' + stem[:-1] + 'u'
+	elif vowels == ['e','e']:
+		# espressa; jesprimu; pres.p3.pl; vblex
+		res = 'j' + vowels[0] + root[0] + root[1] + root[2] + 'imu'
 	return res
 	
 def imp_p2_sg(stem, root, vowels):
@@ -147,6 +193,9 @@ def imp_p2_sg(stem, root, vowels):
 	elif vowels == ['a','i']:
 		# falla; falli; imp.p2.sg; vblex
 		res = stem[:-1] + 'i'
+	elif vowels == ['e','e']:
+		# espressa; espressa; imp.p2.sg; vblex
+		res = stem
 	return res
 	
 def imp_p2_pl(stem, root, vowels):
@@ -157,6 +206,9 @@ def imp_p2_pl(stem, root, vowels):
 	elif vowels == ['a','i']:
 		# falla; fallu; imp.p2.pl; vblex
 		res = stem[:-1] + 'u'
+	elif vowels == ['e','e']:
+		# espressa; espressa; imp.p2.pl; vblex
+		res = stem
 	return res
 
 def main(stem, root, vowels):
