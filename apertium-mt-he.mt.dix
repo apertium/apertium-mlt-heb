@@ -280,6 +280,11 @@
       <e><p><l>jiet</l><r><s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
 
+    <pardef n="/ilsien__n"> <!-- TODO: fixparadigm-->
+      <e><p><l>ilsien</l><r>ilsien<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+      <e r="LR"><p><l>lsien</l><r>ilsien<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    </pardef>
+
     <!-- TODO find gender for all of these.. marked mf for now -->
     <pardef n="entit/à__n">
       <e><p><l>à</l><r><s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
@@ -577,9 +582,12 @@
 
     <e lm="istampa"><i>istampa</i><par n="istampa__n"/></e>
 
+    <e lm="ilsien"><i></i><par n="/ilsien__n"/></e>
+
     <!-- SECTION: Proper nouns -->
 
     <e lm="Ċina"><i>Ċina</i><par n="Malta__np"/></e>
+    <e lm="Valletta"><i>Valletta</i><par n="Malta__np"/></e>
     <e lm="Malta"><i>Malta</i><par n="Malta__np"/></e>
 
     <e lm="Bejġing"><i>Bejġing</i><par n="Tibet__np"/></e>
@@ -589,6 +597,8 @@
 
     <e lm="politiku"><i>politi</i><par n="teknoloġi/ku__adj"/></e>
     <e lm="elettroniku"><i>elettroni</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="uniku"><i>uni</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="semitiku"><i>semiti</i><par n="teknoloġi/ku__adj"/></e>
 
     <e lm="reliġjuż"><i>reliġjuż</i><par n="reliġjuż__adj"/></e>
     <e lm="ambizzjuż"><i>ambizzjuż</i><par n="reliġjuż__adj"/></e> 
@@ -598,6 +608,8 @@
     <e lm="inkluż"><i>inkluż</i><par n="reliġjuż__adj"/></e> 
     <e lm="prestiġjuż"><i>prestiġjuż</i><par n="reliġjuż__adj"/></e> 
     <e lm="studjuż"><i>studjuż</i><par n="reliġjuż__adj"/></e> 
+
+    <e lm="Ingliż"><i>Ingliż</i><par n="reliġjuż__adj"/></e> 
 
 
     <!-- SECTION: Adverbs -->
