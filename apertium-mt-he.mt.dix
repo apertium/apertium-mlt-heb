@@ -6,6 +6,7 @@
     <sdef n="vblex"       c="Verb"/>
     <sdef n="prn"         c="Pronoun"/>
     <sdef n="det"         c="Determiner"/>
+    <sdef n="np"          c="Proper noun"/>
     <sdef n="pr"          c="Preposition"/>
     <sdef n="rel"         c="Relative"/>
     <sdef n="adv"         c="Adverb"/>
@@ -20,6 +21,8 @@
     <sdef n="nt"          c="Neuter"/>
     <sdef n="mf"          c="Masculine / feminine"/>
  
+    <sdef n="top"         c="Toponym"/>
+
     <sdef n="sg"          c="Singular"/>
     <sdef n="pl"          c="Plural"/>
     <sdef n="sp"          c="Singular / plural"/>
@@ -317,6 +320,12 @@
       <e><p><l></l><r>s<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
     </pardef>
 
+    <!-- SECTION: Proper nouns -->
+
+    <pardef n="Malta__np">
+      <e><p><l></l><r><s n="np"/><s n="top"/><s n="GD"/><s n="sg"/></r></p></e>
+    </pardef>
+
     <!-- SECTION: Adjectives -->
 
     <pardef n="teknoloġi/ku__adj">
@@ -563,6 +572,11 @@
     <e lm="logħba"><i>logħ</i><par n="logħ/ba__n"/></e>
 
     <e lm="istampa"><i>istampa</i><par n="istampa__n"/></e>
+
+    <!-- SECTION: Proper nouns -->
+
+    <e lm="Ċina"><i>Ċina</i><par n="Malta__np"/></e>
+    <e lm="Malta"><i>Malta</i><par n="Malta__np"/></e>
 
     <!-- SECTION: Adjectives -->
 
