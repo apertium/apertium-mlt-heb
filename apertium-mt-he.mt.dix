@@ -285,6 +285,11 @@
       <e r="LR"><p><l>lsien</l><r>ilsien<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     </pardef>
 
+    <pardef n="grupp__n">
+      <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>i</l><r><s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+    </pardef>
+
     <!-- TODO find gender for all of these.. marked mf for now -->
     <pardef n="entit/à__n">
       <e><p><l>à</l><r><s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
@@ -565,7 +570,8 @@
     <e lm="disturb"><i>disturb</i><par n="protestant__n"/></e>
     <e lm="resident"><i>resident</i><par n="protestant__n"/></e>
     <e lm="aċċess"><i>aċċess</i><par n="protestant__n"/></e>
-    <e lm="grupp"><i>grupp</i><par n="protestant__n"/></e>
+
+    <e lm="grupp"><i>grupp</i><par n="grupp__n"/></e>
 
     <e lm="proposta"><i>propost</i><par n="propost/a__n"/></e>
     <e lm="żona"><i>żon</i><par n="propost/a__n"/></e>
@@ -601,6 +607,7 @@
     <e lm="elettroniku"><i>elettroni</i><par n="teknoloġi/ku__adj"/></e>
     <e lm="uniku"><i>uni</i><par n="teknoloġi/ku__adj"/></e>
     <e lm="semitiku"><i>semiti</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="terroristiku"><i>terroristi</i><par n="teknoloġi/ku__adj"/></e>
 
     <e lm="reliġjuż"><i>reliġjuż</i><par n="reliġjuż__adj"/></e>
     <e lm="ambizzjuż"><i>ambizzjuż</i><par n="reliġjuż__adj"/></e> 
@@ -627,6 +634,7 @@
     <e lm="tipikament"><i>tipikament</i><par n="immedjatament__adv"/></e>
     <e lm="internazzjonalment"><i>internazzjonalment</i><par n="immedjatament__adv"/></e>
     <e lm="tradizzjonalment"><i>tradizzjonalment</i><par n="immedjatament__adv"/></e>
+    <e lm="totalment"><i>totalment</i><par n="immedjatament__adv"/></e>
 
   </section>
 
