@@ -237,15 +237,15 @@
       <e><p><l>ijiet</l><r><s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     </pardef>
 
-    <!-- TODO find gender for all of these.. marked mf for now -->
-    <pardef n="entit/à__n">
-      <e><p><l>à_</l><r><s n="n"/><s n="mf"/><s n="sg"/></r></p></e>
-      <e><p><l>ajiet</l><r><s n="n"/><s n="mf"/><s n="pl"/></r></p></e>
+    <pardef n="espressjoni__n">
+      <e><p><l></l><r><s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>jiet</l><r><s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
 
-    <pardef n="espressjoni__n">
-      <e><p><l></l><r><s n="n"/><s n="mf"/><s n="sg"/></r></p></e>
-      <e><p><l>jiet</l><r><s n="n"/><s n="mf"/><s n="pl"/></r></p></e>
+    <!-- TODO find gender for all of these.. marked mf for now -->
+    <pardef n="entit/à__n">
+      <e><p><l>à</l><r><s n="n"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e><p><l>ajiet</l><r><s n="n"/><s n="mf"/><s n="pl"/></r></p></e>
     </pardef>
 
     <pardef n="wegħd/a__n">
@@ -259,7 +259,7 @@
     </pardef>
 
     <pardef n="istampa__n">
-      <e><p><l></l><r><s n="n"/><s n="sg"/></r></p></e>
+      <e><p><l></l><r><s n="n"/><s n="mf"/><s n="sg"/></r></p></e>
     </pardef>
 
     <pardef n="protestant__n">
@@ -281,7 +281,6 @@
       <e><p><l></l><r><s n="n"/><s n="mf"/><s n="sg"/></r></p></e>
       <e><p><l></l><r>s<s n="n"/><s n="mf"/><s n="pl"/></r></p></e>
     </pardef>
-
 
 
   </pardefs>
@@ -417,6 +416,73 @@
     <e lm="persekuzzjoni"><i>persekuzzjoni</i><par n="espressjoni__n"/></e>
     <e lm="allegazzjoni"><i>allegazzjoni</i><par n="espressjoni__n"/></e>
     <e lm="projbizzjoni"><i>projbizzjoni</i><par n="espressjoni__n"/></e>
+
+    <e lm="applikazzjoni"><i>applikazzjoni</i><par n="espressjoni__n"/></e>
+    <e lm="assoċjazzjoni"><i>assoċjazzjoni</i><par n="espressjoni__n"/></e>
+    <e lm="attenzjoni"><i>attenzjoni</i><par n="espressjoni__n"/></e>
+    <e lm="azzjoni"><i>azzjoni</i><par n="espressjoni__n"/></e>
+    <e lm="deċiżjoni"><i>deċiżjoni</i><par n="espressjoni__n"/></e>
+    <e lm="definizzjoni"><i>definizzjoni</i><par n="espressjoni__n"/></e>
+    <e lm="devozzjoni"><i>devozzjoni</i><par n="espressjoni__n"/></e>
+    <e lm="diġestjoni"><i>diġestjoni</i><par n="espressjoni__n"/></e>
+    <e lm="direzzjoni"><i>direzzjoni</i><par n="espressjoni__n"/></e>
+    <e lm="diskussjoni"><i>diskussjoni</i><par n="espressjoni__n"/></e>
+    <e lm="distribuzzjoni"><i>distribuzzjoni</i><par n="espressjoni__n"/></e>
+    <e lm="diviżjoni"><i>diviżjoni</i><par n="espressjoni__n"/></e>
+    <e lm="edizzjoni"><i>edizzjoni</i><par n="espressjoni__n"/></e>
+    <e lm="edukazzjoni"><i>edukazzjoni</i><par n="espressjoni__n"/></e>
+    <e lm="ekwazzjoni"><i>ekwazzjoni</i><par n="espressjoni__n"/></e>
+    <e lm="elezzjoni"><i>elezzjoni</i><par n="espressjoni__n"/></e>
+    <e lm="evoluzzjoni"><i>evoluzzjoni</i><par n="espressjoni__n"/></e>
+    <e lm="fondazzjoni"><i>fondazzjoni</i><par n="espressjoni__n"/></e>
+    <e lm="formazzjoni"><i>formazzjoni</i><par n="espressjoni__n"/></e>
+    <e lm="funzjoni"><i>funzjoni</i><par n="espressjoni__n"/></e>
+    <e lm="fużjoni"><i>fużjoni</i><par n="espressjoni__n"/></e>
+    <e lm="ġenerazzjoni"><i>ġenerazzjoni</i><par n="espressjoni__n"/></e>
+    <e lm="infezzjoni"><i>infezzjoni</i><par n="espressjoni__n"/></e>
+    <e lm="informazzjoni"><i>informazzjoni</i><par n="espressjoni__n"/></e>
+    <e lm="inkwiżizzjoni"><i>inkwiżizzjoni</i><par n="espressjoni__n"/></e>
+    <e lm="integrazzjoni"><i>integrazzjoni</i><par n="espressjoni__n"/></e>
+    <e lm="interpretazzjoni"><i>interpretazzjoni</i><par n="espressjoni__n"/></e>
+    <e lm="introduzzjoni"><i>introduzzjoni</i><par n="espressjoni__n"/></e>
+    <e lm="invażjoni"><i>invażjoni</i><par n="espressjoni__n"/></e>
+    <e lm="ispirazzjoni"><i>ispirazzjoni</i><par n="espressjoni__n"/></e>
+    <e lm="kollezzjoni"><i>kollezzjoni</i><par n="espressjoni__n"/></e>
+    <e lm="kompetizzjoni"><i>kompetizzjoni</i><par n="espressjoni__n"/></e>
+    <e lm="kompożizzjoni"><i>kompożizzjoni</i><par n="espressjoni__n"/></e>
+    <e lm="kostellazzjoni"><i>kostellazzjoni</i><par n="espressjoni__n"/></e>
+    <e lm="kostituzzjoni"><i>kostituzzjoni</i><par n="espressjoni__n"/></e>
+    <e lm="kostruzzjoni"><i>kostruzzjoni</i><par n="espressjoni__n"/></e>
+    <e lm="kummissjoni"><i>kummissjoni</i><par n="espressjoni__n"/></e>
+    <e lm="kundizzjoni"><i>kundizzjoni</i><par n="espressjoni__n"/></e>
+    <e lm="kwalifikazzjoni"><i>kwalifikazzjoni</i><par n="espressjoni__n"/></e>
+    <e lm="kwistjoni"><i>kwistjoni</i><par n="espressjoni__n"/></e>
+    <e lm="lokomozjoni"><i>lokomozjoni</i><par n="espressjoni__n"/></e>
+    <e lm="operazzjoni"><i>operazzjoni</i><par n="espressjoni__n"/></e>
+    <e lm="opinjoni"><i>opinjoni</i><par n="espressjoni__n"/></e>
+    <e lm="organizzazzjoni"><i>organizzazzjoni</i><par n="espressjoni__n"/></e>
+    <e lm="parteċipazzjoni"><i>parteċipazzjoni</i><par n="espressjoni__n"/></e>
+    <e lm="pożizzjoni"><i>pożizzjoni</i><par n="espressjoni__n"/></e>
+    <e lm="pressjoni"><i>pressjoni</i><par n="espressjoni__n"/></e>
+    <e lm="prestazzjoni"><i>prestazzjoni</i><par n="espressjoni__n"/></e>
+    <e lm="produzzjoni"><i>produzzjoni</i><par n="espressjoni__n"/></e>
+    <e lm="professjoni"><i>professjoni</i><par n="espressjoni__n"/></e>
+    <e lm="promozzjoni"><i>promozzjoni</i><par n="espressjoni__n"/></e>
+    <e lm="protezzjoni"><i>protezzjoni</i><par n="espressjoni__n"/></e>
+    <e lm="purċissjoni"><i>purċissjoni</i><par n="espressjoni__n"/></e>
+    <e lm="rappreżentazzjoni"><i>rappreżentazzjoni</i><par n="espressjoni__n"/></e>
+    <e lm="relazzjoni"><i>relazzjoni</i><par n="espressjoni__n"/></e>
+    <e lm="relegazzjoni"><i>relegazzjoni</i><par n="espressjoni__n"/></e>
+    <e lm="selezzjoni"><i>selezzjoni</i><par n="espressjoni__n"/></e>
+    <e lm="sitwazzjoni"><i>sitwazzjoni</i><par n="espressjoni__n"/></e>
+    <e lm="soluzzjoni"><i>soluzzjoni</i><par n="espressjoni__n"/></e>
+    <e lm="tradizzjoni"><i>tradizzjoni</i><par n="espressjoni__n"/></e>
+    <e lm="trażmissjoni"><i>trażmissjoni</i><par n="espressjoni__n"/></e>
+    <e lm="unjoni"><i>unjoni</i><par n="espressjoni__n"/></e>
+    <e lm="verżjoni"><i>verżjoni</i><par n="espressjoni__n"/></e>
+    <e lm="viżjoni"><i>viżjoni</i><par n="espressjoni__n"/></e>
+    <e lm="votazzjoni"><i>votazzjoni</i><par n="espressjoni__n"/></e>
+
 
     <e lm="protestant"><i>protestant</i><par n="protestant__n"/></e>
     <e lm="ġurnal"><i>ġurnal</i><par n="protestant__n"/></e>
