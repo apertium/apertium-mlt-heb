@@ -1,18 +1,15 @@
-Diversi entitajiet esprimew il-preokkupazzjoni tagħhom fuq il-Logħob, jew l-ospitazzjoni taċ-Ċina ta' dawn il-Logħob; dawn jinkludu allegazzjonijiet li ċ-Ċina vvjolat il-wegħda li kienet għamlet li tħalli l-aċċess lill-istampa, allegat vjolazzjoni tad-drittijiet umani, tniġġis tal-arja kemm fil-belt ta' Bejġing u anki fil-madwar, bojkots proposti, twissija tal-possibilità li l-Olimpjadi ta' Bejġing ikunu fil-mira ta' gruppi terroristiċi, disturb vjolenti ta' protestanti favur it-Tibet, persekuzzjonijiet reliġjużi, il-projbizzjoni ta' Tibetani etniċi mill-jaħdmu f'Bejġing matul il-Logħob, kritika fuq politiki li jordnaw is-sorveljanza elettronika tal-lukandi li huma pposeduti internazzjonalment, l-ispostament tar-residenti, diffikulta fil-biljetti, trattament ħażin ma' ġurnal isti barranin, żoni ta' protesti dubbjużi, kif ukoll kien allegat molestja, arresti fid-djar, għebien imfurzat, priġunerija, u torturi ta' dissidenti u protestanti.
-
-
-    ^Diversi/Diversi<prn><ind><mf><pl>$ ^entitajiet/*entitajiet$ ^esprimew/*esprimew$ ^il-/l<det><def>$ ^preokkupazzjoni/*preokkupazzjoni$ ^tagħhom/*tagħhom$ ^fuq/fuq<pr>$
-    ^il-/l<det><def>$ ^Logħob/*Logħob$^,/,<cm>$ ^jew/jew<cnjcoo>/jew<prn><ind><mf><sp>$ ^l-/l<det><def>$ ^ospitazzjoni/*ospitazzjoni$ ^taċ/*taċ$-^Ċina/*Ċina$ ^ta'/ta'<pr>$  ^dawn/*dawn$ ^il-/l<det><def>$ ^Logħob/*Logħob$^;/;<sent>$ ^dawn/*dawn$
-    ^jinkludu/*jinkludu$ ^allegazzjonijiet/*allegazzjonijiet$ ^li/li<cnjsub>/li<rel><an><mf><sp>$ ^ċ/*ċ$-^Ċina/*Ċina$ ^vvjolat/*vvjolat$ ^il-/l<det><def>$ ^wegħda/*wegħda$ ^li/li<cnjsub>/li<rel><an><mf><sp>$ ^kienet/*kienet$
-    ^għamlet/*għamlet$ ^li/li<cnjsub>/li<rel><an><mf><sp>$ ^tħalli/*tħalli$ ^l-/l<det><def>$ ^aċċess/*aċċess$ ^lill/*lill$-^istampa/*istampa$^,/,<cm>$ ^allegat/*allegat$ ^vjolazzjoni/*vjolazzjoni$
-    ^tad/*tad$-^drittijiet/*drittijiet$ ^umani/*umani$^,/,<cm>$ ^tniġġis/*tniġġis$ ^tal/*tal$-^arja/*arja$ ^kemm/kemm<prn><ind><mf><pl>$ ^fil-/fi<pr>+l<det><def>$ ^belt/*belt$ ^ta'/ta'<pr>$  ^Bejġing/*Bejġing$ ^u/u<cnjcoo>$
-    ^anki/*anki$ ^fil-/fi<pr>+l<det><def>$ ^madwar/*madwar$^,/,<cm>$ ^bojkots/*bojkots$ ^proposti/*proposti$^,/,<cm>$ ^twissija/*twissija$ ^tal/*tal$-^possibilità/*possibilità$ ^li/li<cnjsub>/li<rel><an><mf><sp>$
-    ^l-/l<det><def>$ ^Olimpjadi/*Olimpjadi$ ^ta'/ta'<pr>$  ^Bejġing/*Bejġing$ ^ikunu/*ikunu$ ^fil-/fi<pr>+l<det><def>$ ^mira/*mira$ ^ta'/ta'<pr>$  ^gruppi/*gruppi$ ^terroristiċi/*terroristiċi$^,/,<cm>$
-    ^disturb/*disturb$ ^vjolenti/*vjolenti$ ^ta'/ta'<pr>$  ^protestanti/*protestanti$ ^favur/*favur$ ^it-/l<det><def>$ ^Tibet/*Tibet$^,/,<cm>$ ^persekuzzjonijiet/*persekuzzjonijiet$
-    ^reliġjużi/*reliġjużi$^,/,<cm>$ ^il-/l<det><def>$ ^projbizzjoni/*projbizzjoni$ ^ta'/ta'<pr>$  ^Tibetani/*Tibetani$ ^etniċi/*etniċi$ ^mill/*mill$-^jaħdmu/*jaħdmu$ ^f'/fi<pr>$ ^Bejġing/*Bejġing$
-    ^matul/*matul$ ^il-/l<det><def>$ ^Logħob/*Logħob$^,/,<cm>$ ^kritika/*kritika$ ^fuq/fuq<pr>$ ^politiki/*politiki$ ^li/li<cnjsub>/li<rel><an><mf><sp>$ ^jordnaw/*jordnaw$ ^is-/l<det><def>$ ^sorveljanza/*sorveljanza$
-    ^elettronika/*elettronika$ ^tal/*tal$-^lukandi/*lukandi$ ^li/li<cnjsub>/li<rel><an><mf><sp>$ ^huma/prpers<prn><subj><p3><mf><pl>$ ^pposeduti/*pposeduti$ ^internazzjonalment/*internazzjonalment$^,/,<cm>$
-    ^l-/l<det><def>$ ^ispostament/*ispostament$ ^tar/*tar$-^residenti/*residenti$^,/,<cm>$ ^diffikulta/*diffikulta$ ^fil-/fi<pr>+l<det><def>$ ^biljetti/*biljetti$^,/,<cm>$ ^trattament/*trattament$
-    ^ħażin/*ħażin$ ^ma'/ma'<pr>$  ^ġurnal/*ġurnal$ ^isti/*isti$ ^barranin/*barranin$^,/,<cm>$ ^żoni/*żoni$ ^ta'/ta'<pr>$  ^protesti/*protesti$ ^dubbjużi/*dubbjużi$^,/,<cm>$ ^kif/*kif$
-    ^ukoll/*ukoll$ ^kien/*kien$ ^allegat/*allegat$ ^molestja/*molestja$^,/,<cm>$ ^arresti/*arresti$ ^fid-/fi<pr>+l<det><def>$ ^djar/dar<n><m><pl>$^,/,<cm>$ ^għebien/*għebien$ ^imfurzat/*imfurzat$^,/,<cm>$
-    ^priġunerija/*priġunerija$^,/,<cm>$ ^u/u<cnjcoo>$ ^torturi/*torturi$ ^ta'/ta'<pr>$  ^dissidenti/*dissidenti$ ^u/u<cnjcoo>$ ^protestanti/*protestanti$^./.<sent>$
+       Diversi entitajiet esprimew il-preokkupazzjoni tagħhom fuq
+       il-Logħob, jew l-ospitazzjoni taċ-Ċina ta' dawn il-Logħob; dawn
+       jinkludu allegazzjonijiet li ċ-Ċina vvjolat il-wegħda li kienet
+       għamlet li tħalli l-aċċess lill-istampa, allegat vjolazzjoni
+       tad-drittijiet umani, tniġġis tal-arja kemm fil-belt ta' Bejġing u
+       anki fil-madwar, bojkots proposti, twissija tal-possibilità li
+       l-Olimpjadi ta' Bejġing ikunu fil-mira ta' gruppi terroristiċi,
+       disturb vjolenti ta' protestanti favur it-Tibet, persekuzzjonijiet
+       reliġjużi, il-projbizzjoni ta' Tibetani etniċi mill-jaħdmu f'Bejġing
+       matul il-Logħob, kritika fuq politiki li jordnaw is-sorveljanza
+       elettronika tal-lukandi li huma pposeduti internazzjonalment,
+       l-ispostament tar-residenti, diffikulta fil-biljetti, trattament
+       ħażin ma' ġurnal isti barranin, żoni ta' protesti dubbjużi, kif
+       ukoll kien allegat molestja, arresti fid-djar, għebien imfurzat,
+       priġunerija, u torturi ta' dissidenti u protestanti.

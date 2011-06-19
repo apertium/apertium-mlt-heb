@@ -1,50 +1,46 @@
-Bejġing
-Olimpjadi
-Tibet
-Tibetani
-allegat
-anki
-arja
-barranin
-belt
-dawn
-diffikulta
-dubbjużi
-elettronika
-etniċi
-favur
-għamlet
-għebien
-ikunu
-imfurzat
-internazzjonalment
-isti
-jaħdmu
-jinkludu
-jordnaw
-kien
-kienet
-kif
-kritika
-lill
-madwar
-matul
-mill
-molestja
-pposeduti
-reliġjużi
-sorveljanza
-tad
-tagħhom
-tal
-tar
-taċ
-tniġġis
-tħalli
-ukoll
-umani
-vjolenti
-vvjolat
-ċ
-ħażin
-Ċina
+^tagħhom/*tagħhom$
+^Ċina/*Ċina$
+^dawn/*dawn$
+ ^jinkludu/*jinkludu$
+^ċ/*ċ$-^Ċina/*Ċina$
+^vvjolat/*vvjolat$
+^kienet/*kienet$
+ ^għamlet/*għamlet$
+^tħalli/*tħalli$
+^allegat/*allegat$
+^umani/*umani$^,/,<cm>$
+^tniġġis/*tniġġis$
+^arja/*arja$
+^belt/*belt$
+^Bejġing/*Bejġing$
+ ^anki/*anki$
+^madwar/*madwar$^,/,<cm>$
+^bojkots/*bojkots$
+^Olimpjadi/*Olimpjadi$
+^ikunu/*ikunu$
+^terroristiċi/*terroristiċi$^,/,<cm>$
+^vjolenti/*vjolenti$
+^favur/*favur$
+^Tibet/*Tibet$^,/,<cm>$
+ ^reliġjużi/*reliġjużi$^,/,<cm>$
+^Tibetani/*Tibetani$
+^etniċi/*etniċi$
+^jaħdmu/*jaħdmu$
+ ^matul/*matul$
+^kritika/*kritika$
+^jordnaw/*jordnaw$
+^sorveljanza/*sorveljanza$
+ ^elettronika/*elettronika$
+^pposeduti/*pposeduti$
+^diffikulta/*diffikulta$
+ ^ħażin/*ħażin$
+^isti/*isti$
+^barranin/*barranin$^,/,<cm>$
+^protesti/*protesti$
+^dubbjużi/*dubbjużi$^,/,<cm>$
+^kif/*kif$
+ ^ukoll/*ukoll$
+^kien/*kien$
+^molestja/*molestja$^,/,<cm>$
+^għebien/*għebien$
+^imfurzat/*imfurzat$^,/,<cm>$
