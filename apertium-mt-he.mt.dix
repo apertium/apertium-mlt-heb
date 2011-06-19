@@ -9,6 +9,7 @@
     <sdef n="pr"          c="Preposition"/>
     <sdef n="rel"         c="Relative"/>
     <sdef n="adv"         c="Adverb"/>
+    <sdef n="adj"         c="Adjective"/>
     <sdef n="cnjcoo"      c="Co-ordinating conjunction"/>
     <sdef n="cnjsub"      c="Sub-ordinating conjunction"/>
 
@@ -41,6 +42,7 @@
     <sdef n="pos"         c="Possesive"/>
     <sdef n="num"         c="Numeral"/>
 
+    <sdef n="GD"          c="Gender to be determined"/>
     <sdef n="cm"          c="Comma"/>
     <sdef n="sent"        c="Sentence marker"/>
   </sdefs>
@@ -277,42 +279,58 @@
 
     <!-- TODO find gender for all of these.. marked mf for now -->
     <pardef n="entit/à__n">
-      <e><p><l>à</l><r><s n="n"/><s n="mf"/><s n="sg"/></r></p></e>
-      <e><p><l>ajiet</l><r><s n="n"/><s n="mf"/><s n="pl"/></r></p></e>
+      <e><p><l>à</l><r><s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
+      <e><p><l>ajiet</l><r><s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
     </pardef>
 
     <pardef n="wegħd/a__n">
-      <e><p><l>a</l><r><s n="n"/><s n="mf"/><s n="sg"/></r></p></e>
-      <e><p><l>iet</l><r><s n="n"/><s n="mf"/><s n="pl"/></r></p></e>
+      <e><p><l>a</l><r><s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
+      <e><p><l>iet</l><r><s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
     </pardef>
 
     <pardef n="logħ/ba__n">
-      <e><p><l>ba</l><r><s n="n"/><s n="mf"/><s n="sg"/></r></p></e>
-      <e><p><l>ob</l><r><s n="n"/><s n="mf"/><s n="pl"/></r></p></e>
+      <e><p><l>ba</l><r><s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
+      <e><p><l>ob</l><r><s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
     </pardef>
 
     <pardef n="istampa__n">
-      <e><p><l></l><r><s n="n"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e><p><l></l><r><s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
     </pardef>
 
     <pardef n="protestant__n">
-      <e><p><l></l><r><s n="n"/><s n="mf"/><s n="sg"/></r></p></e>
-      <e><p><l>i</l><r><s n="n"/><s n="mf"/><s n="pl"/></r></p></e>
+      <e><p><l></l><r><s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
+      <e><p><l>i</l><r><s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
     </pardef>
 
     <pardef n="propost/a__n">
-      <e><p><l>a</l><r><s n="n"/><s n="mf"/><s n="sg"/></r></p></e>
-      <e><p><l>i</l><r><s n="n"/><s n="mf"/><s n="pl"/></r></p></e>
+      <e><p><l>a</l><r><s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
+      <e><p><l>i</l><r><s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
     </pardef>
 
     <pardef n="terroristi__n">
-      <e><p><l></l><r><s n="n"/><s n="mf"/><s n="sg"/></r></p></e>
-      <e><p><l>ċi</l><r><s n="n"/><s n="mf"/><s n="pl"/></r></p></e>
+      <e><p><l></l><r><s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
+      <e><p><l>ċi</l><r><s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
     </pardef>
 
     <pardef n="bojkott__n">
-      <e><p><l></l><r><s n="n"/><s n="mf"/><s n="sg"/></r></p></e>
-      <e><p><l></l><r>s<s n="n"/><s n="mf"/><s n="pl"/></r></p></e>
+      <e><p><l></l><r><s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
+      <e><p><l></l><r>s<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
+    </pardef>
+
+    <!-- SECTION: Adjectives -->
+
+    <pardef n="teknoloġi/ku__adj">
+      <e><p><l>ku</l><r>ku<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>ka</l><r>ku<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>ċi</l><r>ku<s n="adj"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p><l>ċi</l><r>ku<s n="adj"/><s n="f"/><s n="pl"/></r></p></e>
+    </pardef>
+
+    <pardef n="reliġjuż__adj"> <!-- TODO: check -->
+      <e><p><l></l><r><s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>a</l><r><s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>i</l><r><s n="adj"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p><l>i</l><r><s n="adj"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
 
 
@@ -545,6 +563,21 @@
     <e lm="logħba"><i>logħ</i><par n="logħ/ba__n"/></e>
 
     <e lm="istampa"><i>istampa</i><par n="istampa__n"/></e>
+
+    <!-- SECTION: Adjectives -->
+
+    <e lm="politiku"><i>politi</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="elettroniku"><i>elettroni</i><par n="teknoloġi/ku__adj"/></e>
+
+    <e lm="reliġjuż"><i>reliġjuż</i><par n="reliġjuż__adj"/></e>
+    <e lm="ambizzjuż"><i>ambizzjuż</i><par n="reliġjuż__adj"/></e> 
+    <e lm="eskluż"><i>eskluż</i><par n="reliġjuż__adj"/></e> 
+    <e lm="famuż"><i>famuż</i><par n="reliġjuż__adj"/></e> 
+    <e lm="grazzjuż"><i>grazzjuż</i><par n="reliġjuż__adj"/></e> 
+    <e lm="inkluż"><i>inkluż</i><par n="reliġjuż__adj"/></e> 
+    <e lm="prestiġjuż"><i>prestiġjuż</i><par n="reliġjuż__adj"/></e> 
+    <e lm="studjuż"><i>studjuż</i><par n="reliġjuż__adj"/></e> 
+
 
     <!-- SECTION: Adverbs -->
 
