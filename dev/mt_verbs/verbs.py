@@ -34,7 +34,7 @@ if FORMAT=="dix":
 	print '    <!-- Generated on: ' + time.strftime('%Y-%m-%d %H:%M %Z') + ' -->'; 
 
 
-for line in file('stems.csv'):
+for line in file(sys.path[0] + '/stems.csv'):
 	if len(line) < 2 or line[0] == '#':
 		continue
 	
