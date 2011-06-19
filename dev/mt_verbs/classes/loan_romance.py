@@ -181,8 +181,8 @@ def pres_p3_pl(stem, root, vowels):
 		# falla; jfallu; pres.p3.pl; vblex
 		res = 'j' + stem[:-1] + 'u'
 	elif vowels == ['e','e']:
-		# espressa; jesprimu; pres.p3.pl; vblex
-		res = 'j' + vowels[0] + root[1] + root[2] + root[3] + 'imu'
+		# espressa; esprimew; pres.p3.pl; vblex
+		res = vowels[0] + root[1] + root[2] + root[3] + 'imew'
 	return res
 	
 def imp_p2_sg(stem, root, vowels):
