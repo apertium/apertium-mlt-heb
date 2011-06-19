@@ -42,6 +42,9 @@ dev/mt_verbs/classes/strong_a_o_overloaded.py -text
 dev/mt_verbs/classes/strong_double_mid_radical.py -text
 dev/mt_verbs/stems.csv -text
 dev/mt_verbs/verbs.py -text
+dev/paragraph1.missing.txt -text
+dev/paragraph1.txt -text
+dev/paragraph1.words.txt -text
 dev/verb_lists/allmalteseverbs17apr-strong.csv -text
 dev/verb_lists/allmalteseverbs17apr-weak.csv -text
 dev/verb_lists/allmalteseverbs17apr.xls -text
