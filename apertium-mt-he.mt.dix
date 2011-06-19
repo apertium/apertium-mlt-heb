@@ -8,6 +8,7 @@
     <sdef n="det"         c="Determiner"/>
     <sdef n="pr"          c="Preposition"/>
     <sdef n="rel"         c="Relative"/>
+    <sdef n="adv"         c="Adverb"/>
     <sdef n="cnjcoo"      c="Co-ordinating conjunction"/>
     <sdef n="cnjsub"      c="Sub-ordinating conjunction"/>
 
@@ -61,6 +62,11 @@
 
     <pardef n="li__cnjsub">
       <e><p><l/><r><s n="cnjsub"/></r></p></e>
+    </pardef>
+
+    <!-- SECTION: Adverbs -->
+    <pardef n="immedjatament__adv">
+      <e><p><l/><r><s n="adv"/></r></p></e>
     </pardef>
 
     <!-- SECTION: Prepositions -->
@@ -483,7 +489,6 @@
     <e lm="viżjoni"><i>viżjoni</i><par n="espressjoni__n"/></e>
     <e lm="votazzjoni"><i>votazzjoni</i><par n="espressjoni__n"/></e>
 
-
     <e lm="protestant"><i>protestant</i><par n="protestant__n"/></e>
     <e lm="ġurnal"><i>ġurnal</i><par n="protestant__n"/></e>
     <e lm="trattament"><i>trattament</i><par n="protestant__n"/></e>
@@ -512,6 +517,20 @@
     <e lm="logħba"><i>logħ</i><par n="logħ/ba__n"/></e>
 
     <e lm="istampa"><i>istampa</i><par n="istampa__n"/></e>
+
+    <!-- SECTION: Adverbs -->
+
+    <e lm="astronomikament"><i>astronomikament</i><par n="immedjatament__adv"/></e>
+    <e lm="direttament"><i>direttament</i><par n="immedjatament__adv"/></e>
+    <e lm="eżattament"><i>eżattament</i><par n="immedjatament__adv"/></e>
+    <e lm="immedjatament"><i>immedjatament</i><par n="immedjatament__adv"/></e>
+    <e lm="oriġinarjament"><i>oriġinarjament</i><par n="immedjatament__adv"/></e>
+    <e lm="primarjament"><i>primarjament</i><par n="immedjatament__adv"/></e>
+    <e lm="rispettivament"><i>rispettivament</i><par n="immedjatament__adv"/></e>
+    <e lm="strettament"><i>strettament</i><par n="immedjatament__adv"/></e>
+    <e lm="tipikament"><i>tipikament</i><par n="immedjatament__adv"/></e>
+    <e lm="internazzjonalment"><i>internazzjonalment</i><par n="immedjatament__adv"/></e>
+
   </section>
 
   <section id="article" type="postblank">
