@@ -586,6 +586,7 @@
     <e lm="persekuzzjoni"><i>persekuzzjoni</i><par n="espressjoni__n"/></e>
     <e lm="allegazzjoni"><i>allegazzjoni</i><par n="espressjoni__n"/></e>
     <e lm="projbizzjoni"><i>projbizzjoni</i><par n="espressjoni__n"/></e>
+    <e lm="ordni"><i>ordni</i><par n="espressjoni__n"/></e>
 
     <e lm="applikazzjoni"><i>applikazzjoni</i><par n="espressjoni__n"/></e>
     <e lm="assoċjazzjoni"><i>assoċjazzjoni</i><par n="espressjoni__n"/></e>
