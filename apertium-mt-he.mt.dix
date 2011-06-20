@@ -144,8 +144,26 @@
     <pardef n="kemm_iequm__prn">
       <e><p><l/><r><s n="prn"/><s n="def"/><s n="mf"/><s n="sg"/></r></p></e>
     </pardef>
-    <pardef n="dan__prn">
-      <e><p><l/><r><s n="prn"/><s n="def"/><s n="mf"/><s n="sg"/></r></p></e>
+    <pardef n="d/an__det" c="this/these">
+      <e>       <p><l>an</l> <r>an<s n="det"/><s n="dem"/><s n="m"/><s n="sg"/></r></p></e>
+      <e>       <p><l>in</l> <r>an<s n="det"/><s n="dem"/><s n="f"/><s n="sg"/></r></p></e>
+      <e>       <p><l>awn</l> <r>an<s n="det"/><s n="dem"/><s n="m"/><s n="pl"/></r></p></e>
+      <e>       <p><l>awn</l> <r>an<s n="det"/><s n="dem"/><s n="f"/><s n="pl"/></r></p></e>
+      <!-- is dana (etc.) the same as dan? TODO -->
+      <e r="LR"><p><l>ana</l><r>an<s n="det"/><s n="dem"/><s n="m"/><s n="sg"/></r></p></e>
+      <e r="LR"><p><l>ina</l><r>an<s n="det"/><s n="dem"/><s n="f"/><s n="sg"/></r></p></e>
+      <e r="LR"><p><l>awna</l><r>an<s n="det"/><s n="dem"/><s n="m"/><s n="pl"/></r></p></e>
+      <e r="LR"><p><l>awna</l><r>an<s n="det"/><s n="dem"/><s n="f"/><s n="pl"/></r></p></e>
+    </pardef>
+    <pardef n="d/ak__det" c="that/those">
+      <e>       <p><l>ak</l> <r>ak<s n="det"/><s n="dem"/><s n="m"/><s n="sg"/></r></p></e>
+      <e>       <p><l>ik</l> <r>ak<s n="det"/><s n="dem"/><s n="f"/><s n="sg"/></r></p></e>
+      <e>       <p><l>awk</l> <r>ak<s n="det"/><s n="dem"/><s n="m"/><s n="pl"/></r></p></e>
+      <e>       <p><l>awk</l> <r>ak<s n="det"/><s n="dem"/><s n="f"/><s n="pl"/></r></p></e>
+      <e r="LR"><p><l>aka</l><r>ak<s n="det"/><s n="dem"/><s n="m"/><s n="sg"/></r></p></e>
+      <e r="LR"><p><l>ika</l><r>ak<s n="det"/><s n="dem"/><s n="f"/><s n="sg"/></r></p></e>
+      <e r="LR"><p><l>awka</l><r>ak<s n="det"/><s n="dem"/><s n="m"/><s n="pl"/></r></p></e>
+      <e r="LR"><p><l>awka</l><r>ak<s n="det"/><s n="dem"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
     <pardef n="taghha__prn">
       <e><p><l/><r><s n="prn"/><s n="pos"/><s n="mf"/><s n="sp"/></r></p></e>
@@ -423,7 +441,9 @@
     <e lm="kemm huma" c="how many"><i>kemm<b/>huma</i><par n="kemm_huma__prn"/></e>
     <e lm="kemm iequm" c="how much"><i>kemm<b/>iqum</i><par n="kemm_iequm__prn"/></e>
     
-    <e lm="dan" c="this"><i>dan</i><par n="dan__prn"/></e>
+    <e lm="dan" c="this/these"><i>d</i><par n="d/an__det"/></e>    
+    <e lm="dak" c="that/those"><i>d</i><par n="d/ak__det"/></e>
+
     
     <!-- Possessive pronouns -->
     <e lm="tieghi" c="mine"><i>tieghi</i><par n="taghha__prn"/></e>
