@@ -49,6 +49,7 @@ dev/verb_lists/allmalteseverbs17apr-strong.csv -text
 dev/verb_lists/allmalteseverbs17apr-weak.csv -text
 dev/verb_lists/allmalteseverbs17apr.xls -text
 dev/verb_lists/hspell5jun.speling -text
+dev/wiktionary/extract_wiki_inflections.py -text
 /modes.xml -text
 /mt-he.prob -text svneol=unset#unset
 /pending-tests.sh -text
