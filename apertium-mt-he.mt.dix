@@ -309,9 +309,25 @@
       <e><p><l>jiet</l><r><s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
 
+    <pardef n="ar/ja__n">
+      <e><p><l>ja</l><r>ja<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>ijiet</l><r>ja<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    </pardef>
+
     <pardef n="/ilsien__n"> <!-- TODO: fixparadigm-->
       <e><p><l>ilsien</l><r>ilsien<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
       <e r="LR"><p><l>lsien</l><r>ilsien<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    </pardef>
+
+    <pardef n="belt__n">
+      <e><p><l>belt</l><r>belt<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>ibliet</l><r>belt<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    </pardef>
+
+    <pardef n="għ/ibien__n">
+      <e><p><l>ibien</l><r>ibien<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
+      <e r="LR"><p><l>ebien</l><r>ibien<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
+      <e><p><l>ejbien</l><r>ibien<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
     </pardef>
 
     <pardef n="grupp__n">
@@ -319,20 +335,21 @@
       <e><p><l>i</l><r><s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     </pardef>
 
-    <!-- TODO find gender for all of these.. marked mf for now -->
+    <!-- TODO find gender for all of these.. marked GD for now -->
     <pardef n="entit/à__n">
-      <e><p><l>à</l><r><s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
-      <e><p><l>ajiet</l><r><s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
+      <e><p><l>à</l><r>à<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
+      <e r="LR"><p><l>a</l><r>à<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
+      <e><p><l>ajiet</l><r>à<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
     </pardef>
 
     <pardef n="wegħd/a__n">
-      <e><p><l>a</l><r><s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
-      <e><p><l>iet</l><r><s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
+      <e><p><l>a</l><r>a<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
+      <e><p><l>iet</l><r>a<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
     </pardef>
 
     <pardef n="logħ/ba__n">
-      <e><p><l>ba</l><r><s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
-      <e><p><l>ob</l><r><s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
+      <e><p><l>ba</l><r>ba<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
+      <e><p><l>ob</l><r>ba<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
     </pardef>
 
     <pardef n="istampa__n">
@@ -345,8 +362,8 @@
     </pardef>
 
     <pardef n="propost/a__n">
-      <e><p><l>a</l><r><s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
-      <e><p><l>i</l><r><s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
+      <e><p><l>a</l><r>a<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
+      <e><p><l>i</l><r>a<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
     </pardef>
 
     <pardef n="bojkott__n">
@@ -380,6 +397,12 @@
       <e><p><l>i</l><r><s n="adj"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
 
+    <pardef n="ħ/ażin__adj">
+      <e><p><l>ażin</l><r><s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>ażina</l><r><s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>żiena</l><r><s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
+
 
   </pardefs>
   <section id="main" type="standard">
@@ -408,6 +431,7 @@
     <e lm="lil"><i>lil</i><par n="kontra__pr"/></e>
     <e lm="għal"><i>għal</i><par n="kontra__pr"/></e>
     <e lm="bħal"><i>bħal</i><par n="kontra__pr"/></e>
+    <e lm="favur"><i>favur</i><par n="kontra__pr"/></e>
 
     <!-- SECTION: Pronouns -->
     <e lm="personal subject pronouns"><i/><par n="prsubj__prn"/></e>
@@ -509,6 +533,7 @@
 
     <e lm="entità"><i>entit</i><par n="entit/à__n"/></e>
     <e lm="possibilità"><i>possibilit</i><par n="entit/à__n"/></e>
+    <e lm="diffikultà"><i>diffikult</i><par n="entit/à__n"/></e>
 
     <e lm="espressjoni"><i>espressjoni</i><par n="espressjoni__n"/></e>
     <e lm="preokkupazzjoni"><i>preokkupazzjoni</i><par n="espressjoni__n"/></e>
@@ -600,6 +625,8 @@
 
     <e lm="grupp"><i>grupp</i><par n="grupp__n"/></e>
 
+    <e lm="arja"><i>ar</i><par n="ar/ja__n"/></e>
+
     <e lm="proposta"><i>propost</i><par n="propost/a__n"/></e>
     <e lm="żona"><i>żon</i><par n="propost/a__n"/></e>
     <e lm="tortura"><i>tortur</i><par n="propost/a__n"/></e>
@@ -608,6 +635,7 @@
     <e lm="priġunerija"><i>priġunerij</i><par n="propost/a__n"/></e>
     <e lm="mira"><i>mir</i><par n="propost/a__n"/></e>
     <e lm="twissija"><i>twissij</i><par n="propost/a__n"/></e>
+    <e lm="sorveljanza"><i>sorveljanz</i><par n="propost/a__n"/></e>
 
     <e lm="wegħda"><i>wegħd</i><par n="wegħd/a__n"/></e>
 
@@ -618,6 +646,8 @@
     <e lm="istampa"><i>istampa</i><par n="istampa__n"/></e>
 
     <e lm="ilsien"><i></i><par n="/ilsien__n"/></e>
+    <e lm="belt"><i></i><par n="belt__n"/></e>
+    <e lm="għibien"><i>għ</i><par n="għ/ibien__n"/></e>
 
     <!-- SECTION: Proper nouns -->
 
@@ -627,6 +657,7 @@
 
     <e lm="Bejġing"><i>Bejġing</i><par n="Tibet__np"/></e>
     <e lm="Tibet"><i>Tibet</i><par n="Tibet__np"/></e>
+    <e lm="Olimpjadi"><i>Olimpjadi</i><par n="Tibet__np"/></e>
 
     <!-- SECTION: Adjectives -->
 
@@ -637,15 +668,26 @@
     <e lm="terroristiku"><i>terroristi</i><par n="teknoloġi/ku__adj"/></e>
 
     <e lm="reliġjuż"><i>reliġjuż</i><par n="reliġjuż__adj"/></e>
-    <e lm="ambizzjuż"><i>ambizzjuż</i><par n="reliġjuż__adj"/></e> 
-    <e lm="eskluż"><i>eskluż</i><par n="reliġjuż__adj"/></e> 
-    <e lm="famuż"><i>famuż</i><par n="reliġjuż__adj"/></e> 
-    <e lm="grazzjuż"><i>grazzjuż</i><par n="reliġjuż__adj"/></e> 
-    <e lm="inkluż"><i>inkluż</i><par n="reliġjuż__adj"/></e> 
-    <e lm="prestiġjuż"><i>prestiġjuż</i><par n="reliġjuż__adj"/></e> 
-    <e lm="studjuż"><i>studjuż</i><par n="reliġjuż__adj"/></e> 
+    <e lm="ambizzjuż"><i>ambizzjuż</i><par n="reliġjuż__adj"/></e>
+    <e lm="eskluż"><i>eskluż</i><par n="reliġjuż__adj"/></e>
+    <e lm="famuż"><i>famuż</i><par n="reliġjuż__adj"/></e>
+    <e lm="grazzjuż"><i>grazzjuż</i><par n="reliġjuż__adj"/></e>
+    <e lm="inkluż"><i>inkluż</i><par n="reliġjuż__adj"/></e>
+    <e lm="prestiġjuż"><i>prestiġjuż</i><par n="reliġjuż__adj"/></e>
+    <e lm="studjuż"><i>studjuż</i><par n="reliġjuż__adj"/></e>
+    <e lm="allegat"><i>allegat</i><par n="reliġjuż__adj"/></e>
+    <e lm="uman"><i>uman</i><par n="reliġjuż__adj"/></e>
+    <e lm="vjolent"><i>vjolent</i><par n="reliġjuż__adj"/></e>
+    <e lm="dubbjuż"><i>dubbjuż</i><par n="reliġjuż__adj"/></e>
 
-    <e lm="Ingliż"><i>Ingliż</i><par n="reliġjuż__adj"/></e> 
+    <e lm="ħażin"><i>ħażin</i><par n="ħ/ażin__adj"/></e>
+
+    <!-- the -a form of these 2 is unverified: -->
+    <e lm="etniċ"><i>etniċ</i><par n="reliġjuż__adj"/></e>
+    <e lm="pposedut"><i>pposedut</i><par n="reliġjuż__adj"/></e>
+
+    <e lm="Ingliż"><i>Ingliż</i><par n="reliġjuż__adj"/></e>
+    <e lm="Tibetan"><i>Tibetan</i><par n="reliġjuż__adj"/></e>
 
 
     <!-- SECTION: Adverbs -->
