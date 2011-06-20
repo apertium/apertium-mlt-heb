@@ -1,46 +1,37 @@
-^tagħhom/*tagħhom$
-^Ċina/*Ċina$
 ^dawn/*dawn$
- ^jinkludu/*jinkludu$
-^ċ/*ċ$-^Ċina/*Ċina$
+^jinkludu/*jinkludu$
 ^vvjolat/*vvjolat$
 ^kienet/*kienet$
- ^għamlet/*għamlet$
+^għamlet/*għamlet$
 ^tħalli/*tħalli$
 ^allegat/*allegat$
-^umani/*umani$^,/,<cm>$
+^umani/*umani$
+^,/,<cm>$
 ^tniġġis/*tniġġis$
 ^arja/*arja$
 ^belt/*belt$
-^Bejġing/*Bejġing$
- ^anki/*anki$
-^madwar/*madwar$^,/,<cm>$
+^anki/*anki$
+^madwar/*madwar$
 ^bojkots/*bojkots$
 ^Olimpjadi/*Olimpjadi$
 ^ikunu/*ikunu$
-^terroristiċi/*terroristiċi$^,/,<cm>$
 ^vjolenti/*vjolenti$
 ^favur/*favur$
-^Tibet/*Tibet$^,/,<cm>$
- ^reliġjużi/*reliġjużi$^,/,<cm>$
 ^Tibetani/*Tibetani$
 ^etniċi/*etniċi$
-^jaħdmu/*jaħdmu$
- ^matul/*matul$
+^matul/*matul$
 ^kritika/*kritika$
 ^jordnaw/*jordnaw$
 ^sorveljanza/*sorveljanza$
- ^elettronika/*elettronika$
 ^pposeduti/*pposeduti$
 ^diffikulta/*diffikulta$
- ^ħażin/*ħażin$
+^ħażin/*ħażin$
 ^isti/*isti$
-^barranin/*barranin$^,/,<cm>$
-^protesti/*protesti$
-^dubbjużi/*dubbjużi$^,/,<cm>$
+^barranin/*barranin$
+^dubbjużi/*dubbjużi$
 ^kif/*kif$
- ^ukoll/*ukoll$
+^ukoll/*ukoll$
 ^kien/*kien$
-^molestja/*molestja$^,/,<cm>$
+^molestja/*molestja$
 ^għebien/*għebien$
-^imfurzat/*imfurzat$^,/,<cm>$
+^imfurzat/*imfurzat$

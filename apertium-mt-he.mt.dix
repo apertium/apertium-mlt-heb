@@ -206,6 +206,15 @@
       <e r="LR"><p><l>ix-</l><r>l<s n="det"/><s n="def"/></r></p></e>
       <e r="LR"><p><l>iz-</l><r>l<s n="det"/><s n="def"/></r></p></e>
       <e r="LR"><p><l>iż-</l><r>l<s n="det"/><s n="def"/></r></p></e>
+      <e r="LR"><p><l>ċ-</l><r>l<s n="det"/><s n="def"/></r></p></e>
+      <e r="LR"><p><l>d-</l><r>l<s n="det"/><s n="def"/></r></p></e>
+      <e r="LR"><p><l>n-</l><r>l<s n="det"/><s n="def"/></r></p></e>
+      <e r="LR"><p><l>r-</l><r>l<s n="det"/><s n="def"/></r></p></e>
+      <e r="LR"><p><l>s-</l><r>l<s n="det"/><s n="def"/></r></p></e>
+      <e r="LR"><p><l>t-</l><r>l<s n="det"/><s n="def"/></r></p></e>
+      <e r="LR"><p><l>x-</l><r>l<s n="det"/><s n="def"/></r></p></e>
+      <e r="LR"><p><l>z-</l><r>l<s n="det"/><s n="def"/></r></p></e>
+      <e r="LR"><p><l>ż-</l><r>l<s n="det"/><s n="def"/></r></p></e>
       <e r="RL"><p><l><a/>l-</l><r>l<s n="det"/><s n="def"/></r></p></e>
     </pardef>
     
@@ -592,6 +601,7 @@
     <e lm="disturb"><i>disturb</i><par n="protestant__n"/></e>
     <e lm="resident"><i>resident</i><par n="protestant__n"/></e>
     <e lm="aċċess"><i>aċċess</i><par n="protestant__n"/></e>
+    <e lm="protest"><i>protest</i><par n="protestant__n"/></e>
 
     <e lm="grupp"><i>grupp</i><par n="grupp__n"/></e>
 
