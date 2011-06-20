@@ -20,10 +20,11 @@ def format_entry(FORMAT, stem, form, pos, feat):
 		return stem + '; ' + speling[feat] + '; ' + feat + '; ' + pos;
 	elif FORMAT=="dix":
 		tags = ''.join(['<s n="%s"/>' % tag
-				for tag in [pos] + feat.split('.')]);
+				for tag in [pos] + feat.split('.')])
+		tags = tags.replace('<s n="+neg"/>', '<j/>ma-x<s n="neg"/>'); # TODO: what should the negative lemma be?
 		return "    <e><p><l>%s</l>\t<r>%s%s</r></p></e>" % (speling[feat],
-								 stem,
-								 tags);
+								     stem,
+								     tags);
 	else:
 		raise(Exception);
 
