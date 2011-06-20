@@ -353,6 +353,13 @@
       <e><p><l>i</l><r><s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     </pardef>
 
+    <pardef n="molestja__n"> <!-- mass noun, f -->
+      <e><p><l></l><r><s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    </pardef>
+    <pardef n="tniġġis__n"> <!-- mass noun, m -->
+      <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    </pardef>
+
     <!-- TODO find gender for all of these.. marked GD for now -->
     <pardef n="entit/à__n">
       <e><p><l>à</l><r>à<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
@@ -645,6 +652,9 @@
     <e lm="grupp"><i>grupp</i><par n="grupp__n"/></e>
 
     <e lm="arja"><i>ar</i><par n="ar/ja__n"/></e>
+
+    <e lm="molestja"><i>molestja</i><par n="molestja__n"/></e> <!-- verify gender -->
+    <e lm="tniġġis"><i>tniġġis</i><par n="tniġġis__n"/></e> <!-- verify gender -->
 
     <e lm="proposta"><i>propost</i><par n="propost/a__n"/></e>
     <e lm="żona"><i>żon</i><par n="propost/a__n"/></e>
