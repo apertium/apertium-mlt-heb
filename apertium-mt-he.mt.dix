@@ -143,18 +143,14 @@
     <pardef n="d/ak__prn">
       <e><p><l>ak</l><r>ak<s n="prn"/><s n="dem"/><s n="m"/><s n="sg"/></r></p></e>
       <e><p><l>ik</l><r>ak<s n="prn"/><s n="dem"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>awk</l><r>ak<s n="prn"/><s n="dem"/><s n="mf"/><s n="pl"/></r></p></e>
     </pardef>
 
     <pardef n="d/an__prn">
       <e><p><l>an</l><r>an<s n="prn"/><s n="dem"/><s n="m"/><s n="sg"/></r></p></e>
       <e><p><l>in</l><r>an<s n="prn"/><s n="dem"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>awn</l><r>an<s n="prn"/><s n="dem"/><s n="mf"/><s n="pl"/></r></p></e>
     </pardef>
- 
-    <pardef n="daw/n__prn">
-      <e><p><l>n</l><r>n<s n="prn"/><s n="dem"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e><p><l>k</l><r>n<s n="prn"/><s n="dem"/><s n="mf"/><s n="pl"/></r></p></e>
-    </pardef>
-
  
     <pardef n="kollu_prn">
       <e><p><l/><r><s n="prn"/><s n="ind"/><s n="mf"/><s n="sp"/></r></p></e>
@@ -473,9 +469,8 @@
 
     <e lm="li"><i>li</i><par n="li__rel"/></e>
 
-    <e lm="dak" c="??"><i>d</i><par n="d/ak__prn"/></e>
-    <e lm="dan" c="??"><i>d</i><par n="d/an__prn"/></e>
-    <e lm="dawn" c="??"><i>daw</i><par n="daw/n__prn"/></e>
+    <e lm="dan" c="this"><i>d</i><par n="d/an__prn"/></e>
+    <e lm="dak" c="that"><i>d</i><par n="d/ak__prn"/></e>
     
     <e lm="kollu" c="all"><i>kollu</i><par n="kollu_prn"/></e>
     <e lm="jew" c="either"><i>jew</i><par n="kollu_prn"/></e>
@@ -773,6 +768,9 @@
     <e lm="mill" r="LR"><p><l>mi</l><r>minn<s n="pr"/><j/></r></p><par n="għall-__pr+det"/></e>
     <e lm="lill" r="LR"><p><l>li</l><r>lil<s n="pr"/><j/></r></p><par n="għall-__pr+det"/></e>
     <e lm="ħlief għall" r="LR"><p><l>ħlief<b/>għa</l><r>ħlief<b/>għal<s n="pr"/><j/></r></p><par n="għall-__pr+det"/></e>
+
+    <e lm="dal" r="LR"><p><l>da</l><r>dan<s n="prn"/><s n="dem"/><s n="m"/><s n="sg"/><j/></r></p><par n="l-__det"/></e>
+    <e lm="dil" r="LR"><p><l>di</l><r>dan<s n="prn"/><s n="dem"/><s n="f"/><s n="sg"/><j/></r></p><par n="l-__det"/></e>
 
   </section>
   
