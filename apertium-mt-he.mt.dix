@@ -246,7 +246,11 @@
       <e r="LR"><p><l>ż-</l><r>l<s n="det"/><s n="def"/></r></p></e>
       <e r="RL"><p><l><a/>l-</l><r>l<s n="det"/><s n="def"/></r></p></e>
     </pardef>
-    
+   
+    <pardef n="diversi__det">
+      <e><p><l/><r><s n="det"/><s n="ind"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
+ 
     <!-- SECTION: Numerals -->
     <pardef n="wieħed__num">
       <e><p><l/><r><s n="num"/><s n="m"/><s n="sg"/></r></p></e>
@@ -529,6 +533,8 @@
     <e lm="liema" c="which"><i>liema</i><par n="kif__prn"/></e>
     <e lm="kemm huma" c="how many"><i>kemm<b/>huma</i><par n="kemm_huma__prn"/></e>
     <e lm="kemm iequm" c="how much"><i>kemm<b/>iqum</i><par n="kemm_iequm__prn"/></e>
+
+    <e lm="diversi" c="several"><i>diversi</i><par n="diversi__det"/></e>
     
     <e lm="dan" c="this/these"><i>d</i><par n="d/an__det"/></e>    
     <e lm="dak" c="that/those"><i>d</i><par n="d/ak__det"/></e>
@@ -788,6 +794,7 @@
     <e lm="John"><i>John</i><par n="Mikiel__np"/></e>
     <e lm="Joseph"><i>Joseph</i><par n="Mikiel__np"/></e>
     <e lm="Juan"><i>Juan</i><par n="Mikiel__np"/></e>
+    <e lm="Karlu"><i>Karlu</i><par n="Mikiel__np"/></e>
     <e lm="Louis"><i>Louis</i><par n="Mikiel__np"/></e>
     <e lm="Luke"><i>Luke</i><par n="Mikiel__np"/></e>
     <e lm="Mark"><i>Mark</i><par n="Mikiel__np"/></e>
