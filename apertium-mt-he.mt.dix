@@ -1543,6 +1543,21 @@
     <e><p><l>taħdmu</l>	<r>ħadem<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/></r></p></e>
     <e><p><l>ħdamt</l>	<r>ħadem<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
 
+    <e><p><l>ikun</l>	<r>kien<s n="vaux"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>ikunu</l>	<r>kien<s n="vaux"/><s n="past"/><s n="p3"/><s n="pl"/></r></p></e>
+    <e><p><l>kien</l>	<r>kien<s n="vaux"/><s n="pres"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>thun</l>	<r>kien<s n="vaux"/><s n="past"/><s n="p2"/><s n="sg"/></r></p></e>
+    <e><p><l>kienu</l>	<r>kien<s n="vaux"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
+    <e><p><l>tirunu</l>	<r>kien<s n="vaux"/><s n="past"/><s n="p2"/><s n="pl"/></r></p></e>
+    <e><p><l>nkunu</l>	<r>kien<s n="vaux"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+    <e><p><l>kont</l>	<r>kien<s n="vaux"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
+    <e><p><l>kont</l>	<r>kien<s n="vaux"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
+    <e><p><l>konna</l>	<r>kien<s n="vaux"/><s n="pres"/><s n="p1"/><s n="pl"/></r></p></e>
+    <e><p><l>thun</l>	<r>kien<s n="vaux"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>kien</l>	<r>kien<s n="vaux"/><s n="inf"/></r></p></e>
+    <e><p><l>kienet</l>	<r>kien<s n="vaux"/><s n="pres"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>kontu</l>	<r>kien<s n="vaux"/><s n="pres"/><s n="p2"/><s n="pl"/></r></p></e>
+    <e><p><l>inkun</l>	<r>kien<s n="vaux"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
 
   </section>
 </dictionary>
