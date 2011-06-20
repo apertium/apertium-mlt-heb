@@ -1,22 +1,4 @@
-^jinkludu/*jinkludu$
-^vvjolat/*vvjolat$
-^kienet/*kienet$
-^għamlet/*għamlet$
 ^tħalli/*tħalli$
-^tniġġis/*tniġġis$
-^anki/*anki$
-^madwar/*madwar$
-^,/,<cm>$
-^bojkots/*bojkots$
-^ikunu/*ikunu$
-^matul/*matul$
-^kritika/*kritika$
-^jordnaw/*jordnaw$
-^ħażin/*ħażin$
+^madwar/*madwar$^,/,<cm>$
 ^isti/*isti$
-^barranin/*barranin$
-^kif/*kif$
-^ukoll/*ukoll$
-^kien/*kien$
-^molestja/*molestja$
-^imfurzat/*imfurzat$
+ ^ukoll/*ukoll$
