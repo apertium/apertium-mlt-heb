@@ -4,6 +4,7 @@
   <sdefs>
     <sdef n="n"           c="Noun"/>
     <sdef n="vblex"       c="Verb"/>
+    <sdef n="vaux"        c="Auxilliary verb"/>
     <sdef n="prn"         c="Pronoun"/>
     <sdef n="det"         c="Determiner"/>
     <sdef n="np"          c="Proper noun"/>
