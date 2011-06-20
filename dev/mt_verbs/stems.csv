@@ -1,7 +1,7 @@
 #stem, category, gloss, root, vowels, subclass, checked
 
 kiteb, strong, write, k-t-b, i-e, , checked
-rikeb, strong, ride, r-k-b, i-e, ,
+rikeb, strong, ride, r-k-b, i-e, , unchecked
 kiser, strong, break, k-s-r, i-e, , checked
 żifen, strong, dance, ż-f-n, i-e, , checked
 qasam, strong, divide, q-s-m, a-a, , checked
@@ -14,9 +14,9 @@ talab, strong, ask, t-l-b, a-a, a_o, checked
 
 fetaħ, defective, open, f-t-ħ, e-a, , checked
 qala', defective, earn, q-l-j, a-a, a_a, checked
-qata', defective, cut, q-t-j, a-a, a_a, 
+qata', defective, cut, q-t-j, a-a, a_a, unchecked
 
-qarmeċ, quadriliteral, die, q-r-m-ċ, a-e, 
+qarmeċ, quadriliteral, die, q-r-m-ċ, a-e, unchecked
 
 kanta, loan, sing, k-n-t, a-a, romance, checked
 ammira, loan, admire, m-m-r, a-a, romance, checked
@@ -38,6 +38,7 @@ ittraduċa, loan, translate, t-r-a-c-d-c, a-i, romance, checked
 irreaġixxa, loan, react, r-a-ġ-x, a-i, romance, checked
 ipprojbixxa, loan, prohibit, p-r-j-b-x, a-i, romance, checked
 ippromwova, loan, promote, p-r-m-w-v, a-i, romance, checked
+inkluda, loan, include, i-n-k-l-u-d, a-i, romance, unchecked
 
 espressa, loan, express, e-s-p-r-s-s, e-e, romance
 
