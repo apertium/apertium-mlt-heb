@@ -47,7 +47,7 @@ for line in file(sys.path[0] + '/stems.csv'):
 	root = row[3].strip().split('-')
 	vowels = row[4].strip().split('-')
 	subclass = row[5].strip() if (len(row) >= 5) else None
-	pos = 'vaux' if subclass == 'vaux' else 'vblex'
+	pos = 'vaux' if category == 'vaux' else 'vblex'
 	
 	# build class name
 	classname = category
