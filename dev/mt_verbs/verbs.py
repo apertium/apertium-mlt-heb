@@ -46,6 +46,7 @@ for line in file(sys.path[0] + '/stems.csv'):
 	root = row[3].strip().split('-')
 	vowels = row[4].strip().split('-')
 	subclass = row[5].strip() if (len(row) >= 5) else None
+	pos = 'vaux' if subclass == 'vaux' else 'vblex'
 	
 	# build class name
 	classname = category
@@ -57,7 +58,7 @@ for line in file(sys.path[0] + '/stems.csv'):
 		speling = klass.main(stem, root, vowels)
 		
 		for feat in speling.keys():
-			print format_entry(FORMAT, stem, speling[feat], 'vblex', feat);
+			print format_entry(FORMAT, stem, speling[feat], pos, feat);
 			
 	except AttributeError:
 		print 'MISSING CLASS:', classname
