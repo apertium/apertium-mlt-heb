@@ -25,6 +25,8 @@
     <sdef n="mf"          c="Masculine / feminine"/>
  
     <sdef n="top"         c="Toponym"/>
+    <sdef n="ant"         c="Anthroponym"/>
+    <sdef n="cog"         c="Cognomen"/>
 
     <sdef n="sg"          c="Singular"/>
     <sdef n="pl"          c="Plural"/>
@@ -33,6 +35,8 @@
     <sdef n="p1"          c="First person"/>
     <sdef n="p2"          c="Second person"/>
     <sdef n="p3"          c="Third person"/>
+
+    <sdef n="px1sg"       c="First person singular possessive"/>
  
     <sdef n="pres"        c="Present tense"/>
     <sdef n="past"        c="Past tense"/>
@@ -414,6 +418,18 @@
       <e><p><l></l><r><s n="np"/><s n="top"/><s n="GD"/><s n="sg"/></r></p></e>
     </pardef>
 
+    <pardef n="Cervantes__np">
+      <e><p><l></l><r><s n="np"/><s n="cog"/><s n="mf"/><s n="sg"/></r></p></e>
+    </pardef>
+
+    <pardef n="Mikiel__np">
+      <e><p><l></l><r><s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    </pardef>
+
+    <pardef n="Marija__np">
+      <e><p><l></l><r><s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    </pardef>
+ 
     <!-- SECTION: Adjectives -->
 
     <pardef n="teknoloġi/ku__adj">
@@ -701,9 +717,117 @@
     <e lm="Ċina"><i>Ċina</i><par n="Malta__np"/></e>
     <e lm="Valletta"><i>Valletta</i><par n="Malta__np"/></e>
     <e lm="Malta"><i>Malta</i><par n="Malta__np"/></e>
+    <e lm="Afrika"><i>Afrika</i><par n="Malta__np"/></e>
+    <e lm="Amerika"><i>Amerika</i><par n="Malta__np"/></e>
+    <e lm="Arġentina"><i>Arġentina</i><par n="Malta__np"/></e>
+    <e lm="Asja"><i>Asja</i><par n="Malta__np"/></e>
+    <e lm="Awstralja"><i>Awstralja</i><par n="Malta__np"/></e>
+    <e lm="Awstrija"><i>Awstrija</i><par n="Malta__np"/></e>
+    <e lm="Barcelona"><i>Barcelona</i><par n="Malta__np"/></e>
+    <e lm="Bolivja"><i>Bolivja</i><par n="Malta__np"/></e>
+    <e lm="Brittanja"><i>Brittanja</i><par n="Malta__np"/></e>
+    <e lm="Danimarka"><i>Danimarka</i><par n="Malta__np"/></e>
+    <e lm="Ewropa"><i>Ewropa</i><par n="Malta__np"/></e>
+    <e lm="Franza"><i>Franza</i><par n="Malta__np"/></e>
+    <e lm="Ġermanja"><i>Ġermanja</i><par n="Malta__np"/></e>
+    <e lm="Greċja"><i>Greċja</i><par n="Malta__np"/></e>
+    <e lm="Ingilterra"><i>Ingilterra</i><par n="Malta__np"/></e>
+    <e lm="Irlanda"><i>Irlanda</i><par n="Malta__np"/></e>
+    <e lm="Italja"><i>Italja</i><par n="Malta__np"/></e>
+    <e lm="Kanada"><i>Kanada</i><par n="Malta__np"/></e>
+    <e lm="Kolombja"><i>Kolombja</i><par n="Malta__np"/></e>
+    <e lm="Londra"><i>Londra</i><par n="Malta__np"/></e>
+    <e lm="Norveġja"><i>Norveġja</i><par n="Malta__np"/></e>
+    <e lm="Polonja"><i>Polonja</i><par n="Malta__np"/></e>
+    <e lm="Prussja"><i>Prussja</i><par n="Malta__np"/></e>
+    <e lm="Russja"><i>Russja</i><par n="Malta__np"/></e>
+    <e lm="Serbja"><i>Serbja</i><par n="Malta__np"/></e>
+    <e lm="Spanja"><i>Spanja</i><par n="Malta__np"/></e>
+    <e lm="Valencia"><i>Valencia</i><par n="Malta__np"/></e>
+
 
     <e lm="Bejġing"><i>Bejġing</i><par n="Tibet__np"/></e>
     <e lm="Tibet"><i>Tibet</i><par n="Tibet__np"/></e>
+    <e lm="Berlin"><i>Berlin</i><par n="Tibet__np"/></e>
+    <e lm="Bolton"><i>Bolton</i><par n="Tibet__np"/></e>
+    <e lm="Brażil"><i>Brażil</i><par n="Tibet__np"/></e>
+    <e lm="Bromwich"><i>Bromwich</i><par n="Tibet__np"/></e>
+    <e lm="Coventry"><i>Coventry</i><par n="Tibet__np"/></e>
+    <e lm="Frankfurt"><i>Frankfurt</i><par n="Tibet__np"/></e>
+    <e lm="Fulham"><i>Fulham</i><par n="Tibet__np"/></e>
+    <e lm="Ġappun"><i>Ġappun</i><par n="Tibet__np"/></e>
+    <e lm="Kosovo"><i>Kosovo</i><par n="Tibet__np"/></e>
+    <e lm="Leeds"><i>Leeds</i><par n="Tibet__np"/></e>
+    <e lm="Liverpool"><i>Liverpool</i><par n="Tibet__np"/></e>
+    <e lm="Madrid"><i>Madrid</i><par n="Tibet__np"/></e>
+    <e lm="Manchester"><i>Manchester</i><par n="Tibet__np"/></e>
+    <e lm="Marsaxlokk"><i>Marsaxlokk</i><par n="Tibet__np"/></e>
+    <e lm="Messiku"><i>Messiku</i><par n="Tibet__np"/></e>
+    <e lm="Montenegro"><i>Montenegro</i><par n="Tibet__np"/></e>
+    <e lm="Munich"><i>Munich</i><par n="Tibet__np"/></e>
+    <e lm="Sheffield"><i>Sheffield</i><par n="Tibet__np"/></e>
+    <e lm="Stamford"><i>Stamford</i><par n="Tibet__np"/></e>
+    <e lm="Tottenham"><i>Tottenham</i><par n="Tibet__np"/></e>
+    <e lm="Vatikan"><i>Vatikan</i><par n="Tibet__np"/></e>
+    <e lm="York"><i>York</i><par n="Tibet__np"/></e>
+
+    <e lm="Marie"><i>Marie</i><par n="Marija__np"/></e>
+    <e lm="Marija"><i>Marija</i><par n="Marija__np"/></e>
+
+    <e lm="Alfred"><i>Alfred</i><par n="Mikiel__np"/></e>
+    <e lm="Anton"><i>Anton</i><par n="Mikiel__np"/></e>
+    <e lm="Charles"><i>Charles</i><par n="Mikiel__np"/></e>
+    <e lm="David"><i>David</i><par n="Mikiel__np"/></e>
+    <e lm="Edwin"><i>Edwin</i><par n="Mikiel__np"/></e>
+    <e lm="Francesco"><i>Francesco</i><par n="Mikiel__np"/></e>
+    <e lm="George"><i>George</i><par n="Mikiel__np"/></e>
+    <e lm="Giovanni"><i>Giovanni</i><par n="Mikiel__np"/></e>
+    <e lm="Ġorġ"><i>Ġorġ</i><par n="Mikiel__np"/></e>
+    <e lm="Graham"><i>Graham</i><par n="Mikiel__np"/></e>
+    <e lm="Hilbert"><i>Hilbert</i><par n="Mikiel__np"/></e>
+    <e lm="John"><i>John</i><par n="Mikiel__np"/></e>
+    <e lm="Joseph"><i>Joseph</i><par n="Mikiel__np"/></e>
+    <e lm="Juan"><i>Juan</i><par n="Mikiel__np"/></e>
+    <e lm="Louis"><i>Louis</i><par n="Mikiel__np"/></e>
+    <e lm="Luke"><i>Luke</i><par n="Mikiel__np"/></e>
+    <e lm="Mark"><i>Mark</i><par n="Mikiel__np"/></e>
+    <e lm="Michael"><i>Michael</i><par n="Mikiel__np"/></e>
+    <e lm="Mikiel"><i>Mikiel</i><par n="Mikiel__np"/></e>
+    <e lm="Neville"><i>Neville</i><par n="Mikiel__np"/></e>
+    <e lm="Olivier"><i>Olivier</i><par n="Mikiel__np"/></e>
+    <e lm="Paul"><i>Paul</i><par n="Mikiel__np"/></e>
+    <e lm="Pawl"><i>Pawl</i><par n="Mikiel__np"/></e>
+    <e lm="Robert"><i>Robert</i><par n="Mikiel__np"/></e>
+    <e lm="Ryan"><i>Ryan</i><par n="Mikiel__np"/></e>
+    <e lm="Thomas"><i>Thomas</i><par n="Mikiel__np"/></e>
+    <e lm="William"><i>William</i><par n="Mikiel__np"/></e>
+
+
+    <e lm="Beethoven"><i>Beethoven</i><par n="Cervantes__np"/></e>
+    <e lm="Best"><i>Best</i><par n="Cervantes__np"/></e>
+    <e lm="Bismarck"><i>Bismarck</i><par n="Cervantes__np"/></e>
+    <e lm="Brown"><i>Brown</i><par n="Cervantes__np"/></e>
+    <e lm="Cervantes"><i>Cervantes</i><par n="Cervantes__np"/></e>
+    <e lm="Escher"><i>Escher</i><par n="Cervantes__np"/></e>
+    <e lm="Ferguson"><i>Ferguson</i><par n="Cervantes__np"/></e>
+    <e lm="Giggs"><i>Giggs</i><par n="Cervantes__np"/></e>
+    <e lm="Goethe"><i>Goethe</i><par n="Cervantes__np"/></e>
+    <e lm="Hargreaves"><i>Hargreaves</i><par n="Cervantes__np"/></e>
+    <e lm="Hitler"><i>Hitler</i><par n="Cervantes__np"/></e>
+    <e lm="Keane"><i>Keane</i><par n="Cervantes__np"/></e>
+    <e lm="Lavigne"><i>Lavigne</i><par n="Cervantes__np"/></e>
+    <e lm="Mears"><i>Mears</i><par n="Cervantes__np"/></e>
+    <e lm="Mozart"><i>Mozart</i><par n="Cervantes__np"/></e>
+    <e lm="Newton"><i>Newton</i><par n="Cervantes__np"/></e>
+    <e lm="Ronaldo"><i>Ronaldo</i><par n="Cervantes__np"/></e>
+    <e lm="Rooney"><i>Rooney</i><par n="Cervantes__np"/></e>
+    <e lm="Smith"><i>Smith</i><par n="Cervantes__np"/></e>
+    <e lm="Taylor"><i>Taylor</i><par n="Cervantes__np"/></e>
+
+
+
+
+
     <e lm="Olimpjadi"><i>Olimpjadi</i><par n="Tibet__np"/></e>
 
     <!-- SECTION: Adjectives -->
@@ -714,6 +838,9 @@
     <e lm="semitiku"><i>semiti</i><par n="teknoloġi/ku__adj"/></e>
     <e lm="terroristiku"><i>terroristi</i><par n="teknoloġi/ku__adj"/></e>
     <e lm="kritiku"><i>kriti</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="sovjetiku"><i>sovjeti</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="olimpiku"><i>olimpi</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="brittaniku"><i>brittani</i><par n="teknoloġi/ku__adj"/></e>
 
     <e lm="reliġjuż"><i>reliġjuż</i><par n="reliġjuż__adj"/></e>
     <e lm="ambizzjuż"><i>ambizzjuż</i><par n="reliġjuż__adj"/></e>
