@@ -44,7 +44,9 @@
     <sdef n="obj"         c="Object"/>
     <sdef n="def"         c="Definite"/>
     <sdef n="ind"         c="Indefinite"/>
-    <sdef n="pos"         c="Possesive"/>
+    <sdef n="pos"         c="Possessive"/>
+    <sdef n="itg"         c="Interrogative"/>
+
     <sdef n="num"         c="Numeral"/>
 
     <sdef n="GD"          c="Gender to be determined"/>
@@ -128,50 +130,47 @@
     <pardef n="kollu_prn">
       <e><p><l/><r><s n="prn"/><s n="ind"/><s n="mf"/><s n="sp"/></r></p></e>
     </pardef>
+
     <pardef n="iehor__prn">
       <e><p><l/><r><s n="prn"/><s n="ind"/><s n="m"/><s n="sg"/></r></p></e>
     </pardef>
+
     <pardef n="ħadd__prn">
       <e><p><l/><r><s n="prn"/><s n="ind"/><s n="mf"/><s n="sg"/></r></p></e>
     </pardef>
+
     <pardef n="xi__prn">
       <e><p><l/><r><s n="prn"/><s n="ind"/><s n="mf"/><s n="pl"/></r></p></e>
     </pardef>
+
+<!--
     <pardef n="min__prn">
       <e><p><l/><r><s n="prn"/><s n="def"/><s n="m"/><s n="sp"/></r></p></e>
     </pardef>
+-->
+
     <pardef n="kemm_huma__prn">
       <e><p><l/><r><s n="prn"/><s n="def"/><s n="mf"/><s n="pl"/></r></p></e>
     </pardef>
+
     <pardef n="kemm_iequm__prn">
       <e><p><l/><r><s n="prn"/><s n="def"/><s n="mf"/><s n="sg"/></r></p></e>
     </pardef>
-    <pardef n="d/an__det" c="this/these">
-      <e>       <p><l>an</l> <r>an<s n="det"/><s n="dem"/><s n="m"/><s n="sg"/></r></p></e>
-      <e>       <p><l>in</l> <r>an<s n="det"/><s n="dem"/><s n="f"/><s n="sg"/></r></p></e>
-      <e>       <p><l>awn</l> <r>an<s n="det"/><s n="dem"/><s n="m"/><s n="pl"/></r></p></e>
-      <e>       <p><l>awn</l> <r>an<s n="det"/><s n="dem"/><s n="f"/><s n="pl"/></r></p></e>
-      <!-- is dana (etc.) the same as dan? TODO -->
-      <e r="LR"><p><l>ana</l><r>an<s n="det"/><s n="dem"/><s n="m"/><s n="sg"/></r></p></e>
-      <e r="LR"><p><l>ina</l><r>an<s n="det"/><s n="dem"/><s n="f"/><s n="sg"/></r></p></e>
-      <e r="LR"><p><l>awna</l><r>an<s n="det"/><s n="dem"/><s n="m"/><s n="pl"/></r></p></e>
-      <e r="LR"><p><l>awna</l><r>an<s n="det"/><s n="dem"/><s n="f"/><s n="pl"/></r></p></e>
+
+    <pardef n="kif__prn"> <!-- TODO: Is this an adverb? -->
+      <e><p><l/><r><s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
     </pardef>
-    <pardef n="d/ak__det" c="that/those">
-      <e>       <p><l>ak</l> <r>ak<s n="det"/><s n="dem"/><s n="m"/><s n="sg"/></r></p></e>
-      <e>       <p><l>ik</l> <r>ak<s n="det"/><s n="dem"/><s n="f"/><s n="sg"/></r></p></e>
-      <e>       <p><l>awk</l> <r>ak<s n="det"/><s n="dem"/><s n="m"/><s n="pl"/></r></p></e>
-      <e>       <p><l>awk</l> <r>ak<s n="det"/><s n="dem"/><s n="f"/><s n="pl"/></r></p></e>
-      <e r="LR"><p><l>aka</l><r>ak<s n="det"/><s n="dem"/><s n="m"/><s n="sg"/></r></p></e>
-      <e r="LR"><p><l>ika</l><r>ak<s n="det"/><s n="dem"/><s n="f"/><s n="sg"/></r></p></e>
-      <e r="LR"><p><l>awka</l><r>ak<s n="det"/><s n="dem"/><s n="m"/><s n="pl"/></r></p></e>
-      <e r="LR"><p><l>awka</l><r>ak<s n="det"/><s n="dem"/><s n="f"/><s n="pl"/></r></p></e>
-    </pardef>
+
     <pardef n="taghha__prn">
       <e><p><l/><r><s n="prn"/><s n="pos"/><s n="mf"/><s n="sp"/></r></p></e>
     </pardef>
-    
+
+    <pardef n="li__rel">
+      <e><p><l/><r><s n="rel"/><s n="an"/><s n="mf"/><s n="sp"/></r></p></e>
+    </pardef>
+ 
     <!-- TODO: check if these are valid pronoun objects. I have a feeling lilek=to you -->
+
     <pardef n="probj__prn">
       <e><p><l>lili</l><r>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
       <e><p><l>lilek</l><r>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
@@ -188,11 +187,30 @@
       <e><p><l><b/>dawk</l><r><j/>dawn<s n="prn"/><s n="def"/><s n="mf"/><s n="pl"/></r></p></e>
     </pardef>
 
-    <pardef n="li__rel">
-      <e><p><l/><r><s n="rel"/><s n="an"/><s n="mf"/><s n="sp"/></r></p></e>
+    <!-- SECTION: Determiners -->
+
+    <pardef n="d/an__det" c="this/these">
+      <e>       <p><l>an</l> <r>an<s n="det"/><s n="dem"/><s n="m"/><s n="sg"/></r></p></e>
+      <e>       <p><l>in</l> <r>an<s n="det"/><s n="dem"/><s n="f"/><s n="sg"/></r></p></e>
+      <e>       <p><l>awn</l> <r>an<s n="det"/><s n="dem"/><s n="m"/><s n="pl"/></r></p></e>
+      <e>       <p><l>awn</l> <r>an<s n="det"/><s n="dem"/><s n="f"/><s n="pl"/></r></p></e>
+      <!-- is dana (etc.) the same as dan? TODO -->
+      <e r="LR"><p><l>ana</l><r>an<s n="det"/><s n="dem"/><s n="m"/><s n="sg"/></r></p></e>
+      <e r="LR"><p><l>ina</l><r>an<s n="det"/><s n="dem"/><s n="f"/><s n="sg"/></r></p></e>
+      <e r="LR"><p><l>awna</l><r>an<s n="det"/><s n="dem"/><s n="m"/><s n="pl"/></r></p></e>
+      <e r="LR"><p><l>awna</l><r>an<s n="det"/><s n="dem"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
 
-    <!-- SECTION: Determiners -->
+    <pardef n="d/ak__det" c="that/those">
+      <e>       <p><l>ak</l> <r>ak<s n="det"/><s n="dem"/><s n="m"/><s n="sg"/></r></p></e>
+      <e>       <p><l>ik</l> <r>ak<s n="det"/><s n="dem"/><s n="f"/><s n="sg"/></r></p></e>
+      <e>       <p><l>awk</l> <r>ak<s n="det"/><s n="dem"/><s n="m"/><s n="pl"/></r></p></e>
+      <e>       <p><l>awk</l> <r>ak<s n="det"/><s n="dem"/><s n="f"/><s n="pl"/></r></p></e>
+      <e r="LR"><p><l>aka</l><r>ak<s n="det"/><s n="dem"/><s n="m"/><s n="sg"/></r></p></e>
+      <e r="LR"><p><l>ika</l><r>ak<s n="det"/><s n="dem"/><s n="f"/><s n="sg"/></r></p></e>
+      <e r="LR"><p><l>awka</l><r>ak<s n="det"/><s n="dem"/><s n="m"/><s n="pl"/></r></p></e>
+      <e r="LR"><p><l>awka</l><r>ak<s n="det"/><s n="dem"/><s n="f"/><s n="pl"/></r></p></e>
+    </pardef>
 
     <pardef n="l-__det">
       <e r="LR"><p><l>l-</l><r>l<s n="det"/><s n="def"/></r></p></e>
@@ -217,7 +235,6 @@
       <e r="LR"><p><l>ż-</l><r>l<s n="det"/><s n="def"/></r></p></e>
       <e r="RL"><p><l><a/>l-</l><r>l<s n="det"/><s n="def"/></r></p></e>
     </pardef>
-    
     
     <!-- SECTION: Numerals -->
     <pardef n="wieħed__num">
@@ -465,9 +482,10 @@
     <e lm="diversi" c="several"><i>diversi</i><par n="xi__prn"/></e>
     <e lm="l-iktar" c="most"><i>l-iktar</i><par n="xi__prn"/></e>
     
-    <e lm="min" c="who"><i>min</i><par n="min__prn"/></e>
-    <e lm="dak li" c="what"><i>dak<b/>li</i><par n="min__prn"/></e>
-    <e lm="liema" c="which"><i>liema</i><par n="min__prn"/></e>
+    <e lm="min" c="who"><i>min</i><par n="kif__prn"/></e>
+    <e lm="kif" c="how"><i>kif</i><par n="kif__prn"/></e>
+    <e lm="dak li" c="what"><i>dak<b/>li</i><par n="kif__prn"/></e>
+    <e lm="liema" c="which"><i>liema</i><par n="kif__prn"/></e>
     <e lm="kemm huma" c="how many"><i>kemm<b/>huma</i><par n="kemm_huma__prn"/></e>
     <e lm="kemm iequm" c="how much"><i>kemm<b/>iqum</i><par n="kemm_iequm__prn"/></e>
     
