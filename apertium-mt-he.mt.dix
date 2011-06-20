@@ -920,7 +920,7 @@
   </section>
 
   <section id="verbs" type="standard">
-    <!-- Generated on: 2011-06-20 19:45 IDT -->
+    <!-- Generated on: 2011-06-20 20:07 GMT -->
     <e><p><l>kitba</l>	<r>kiteb<s n="vblex"/><s n="ger"/></r></p></e>
     <e><p><l>kiteb</l>	<r>kiteb<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>kitbu</l>	<r>kiteb<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/></r></p></e>
@@ -1724,6 +1724,24 @@
     <e><p><l>tvvjola</l>	<r>vvjola<s n="vblex"/><s n="pres"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>tvvjolaw</l>	<r>vvjola<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/></r></p></e>
     <e><p><l>vvjolajt</l>	<r>vvjola<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+
+    <e><p><l>ikklassifika</l>	<r>ikklassifika<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>ikklassifikaw</l>	<r>ikklassifika<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/></r></p></e>
+    <e><p><l>jikklassifika</l>	<r>ikklassifika<s n="vblex"/><s n="pres"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>ikklassifikajt</l>	<r>ikklassifika<s n="vblex"/><s n="past"/><s n="p2"/><s n="sg"/></r></p></e>
+    <e><p><l>jikklassifikaw</l>	<r>ikklassifika<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
+    <e><p><l>ikklassifikajtu</l>	<r>ikklassifika<s n="vblex"/><s n="past"/><s n="p2"/><s n="pl"/></r></p></e>
+    <e><p><l>ikklassifikajna</l>	<r>ikklassifika<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+    <e><p><l>ikklassifika</l>	<r>ikklassifika<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
+    <e><p><l>tikklassifika</l>	<r>ikklassifika<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
+    <e><p><l>nikklassifika</l>	<r>ikklassifika<s n="vblex"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
+    <e><p><l>nikklassifikaw</l>	<r>ikklassifika<s n="vblex"/><s n="pres"/><s n="p1"/><s n="pl"/></r></p></e>
+    <e><p><l>ikklassifikaw</l>	<r>ikklassifika<s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
+    <e><p><l>ikklassifikat</l>	<r>ikklassifika<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>ikklassifika</l>	<r>ikklassifika<s n="vblex"/><s n="inf"/></r></p></e>
+    <e><p><l>tikklassifika</l>	<r>ikklassifika<s n="vblex"/><s n="pres"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>tikklassifikaw</l>	<r>ikklassifika<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/></r></p></e>
+    <e><p><l>ikklassifikajt</l>	<r>ikklassifika<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
 
     <e><p><l>ra</l>	<r>ra<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>raw</l>	<r>ra<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/></r></p></e>
