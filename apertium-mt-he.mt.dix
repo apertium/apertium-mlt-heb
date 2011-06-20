@@ -349,11 +349,6 @@
       <e><p><l>i</l><r><s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
     </pardef>
 
-    <pardef n="terroristi__n">
-      <e><p><l></l><r><s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
-      <e><p><l>ċi</l><r><s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
-    </pardef>
-
     <pardef n="bojkott__n">
       <e><p><l></l><r><s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
       <e><p><l></l><r>s<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
