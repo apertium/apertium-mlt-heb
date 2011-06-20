@@ -470,6 +470,7 @@
     <e lm="għal"><i>għal</i><par n="kontra__pr"/></e>
     <e lm="bħal"><i>bħal</i><par n="kontra__pr"/></e>
     <e lm="favur"><i>favur</i><par n="kontra__pr"/></e>
+    <e lm="matul"><i>matul</i><par n="kontra__pr"/></e>
 
     <!-- SECTION: Pronouns -->
     <e lm="personal subject pronouns"><i/><par n="prsubj__prn"/></e>
