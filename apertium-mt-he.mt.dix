@@ -127,7 +127,35 @@
       <e><p><l>huma</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
       <!-- TODO: missing "it"?? -->
     </pardef>
-      
+
+    <!-- TODO: check if these are valid pronoun objects. I have a feeling lilek=to you (dative??) -->
+
+    <pardef n="probj__prn">
+      <e><p><l>lili</l><r>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e><p><l>lilek</l><r>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e><p><l>lilkum</l><r>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p></e>
+      <e><p><l>lilu</l><r>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>ha</l><r>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>lilna</l><r>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
+      <e><p><l>lilhom</l><r>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
+
+    <pardef n="d/ak__prn">
+      <e><p><l>ak</l><r>ak<s n="prn"/><s n="dem"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>ik</l><r>ak<s n="prn"/><s n="dem"/><s n="f"/><s n="sg"/></r></p></e>
+    </pardef>
+
+    <pardef n="d/an__prn">
+      <e><p><l>an</l><r>an<s n="prn"/><s n="dem"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>in</l><r>an<s n="prn"/><s n="dem"/><s n="f"/><s n="sg"/></r></p></e>
+    </pardef>
+ 
+    <pardef n="daw/n__prn">
+      <e><p><l>n</l><r>n<s n="prn"/><s n="dem"/><s n="mf"/><s n="pl"/></r></p></e>
+      <e><p><l>k</l><r>n<s n="prn"/><s n="dem"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
+
+ 
     <pardef n="kollu_prn">
       <e><p><l/><r><s n="prn"/><s n="ind"/><s n="mf"/><s n="sp"/></r></p></e>
     </pardef>
@@ -170,24 +198,6 @@
       <e><p><l/><r><s n="rel"/><s n="an"/><s n="mf"/><s n="sp"/></r></p></e>
     </pardef>
  
-    <!-- TODO: check if these are valid pronoun objects. I have a feeling lilek=to you -->
-
-    <pardef n="probj__prn">
-      <e><p><l>lili</l><r>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
-      <e><p><l>lilek</l><r>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
-      <e><p><l>lilkum</l><r>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e><p><l>lilu</l><r>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
-      <e><p><l>ha</l><r>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
-      <e><p><l>lilna</l><r>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e><p><l>lilhom</l><r>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e><p><l><b/>dan</l><r><j/>dan<s n="prn"/><s n="def"/><s n="m"/><s n="sg"/></r></p></e>
-      <e><p><l><b/>din</l><r><j/>tan<s n="prn"/><s n="def"/><s n="f"/><s n="sg"/></r></p></e>
-      <e><p><l><b/>dak</l><r><j/>dak<s n="prn"/><s n="def"/><s n="m"/><s n="sg"/></r></p></e>
-      <e><p><l><b/>dik</l><r><j/>dak<s n="prn"/><s n="def"/><s n="f"/><s n="sg"/></r></p></e>
-      <e><p><l><b/>dawn</l><r><j/>dawn<s n="prn"/><s n="def"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e><p><l><b/>dawk</l><r><j/>dawn<s n="prn"/><s n="def"/><s n="mf"/><s n="pl"/></r></p></e>
-    </pardef>
-
     <!-- SECTION: Determiners -->
 
     <pardef n="d/an__det" c="this/these">
@@ -462,6 +472,10 @@
     <e lm="personal subject pronouns"><i/><par n="prsubj__prn"/></e>
 
     <e lm="li"><i>li</i><par n="li__rel"/></e>
+
+    <e lm="dak" c="??"><i>d</i><par n="d/ak__prn"/></e>
+    <e lm="dan" c="??"><i>d</i><par n="d/an__prn"/></e>
+    <e lm="dawn" c="??"><i>daw</i><par n="daw/n__prn"/></e>
     
     <e lm="kollu" c="all"><i>kollu</i><par n="kollu_prn"/></e>
     <e lm="jew" c="either"><i>jew</i><par n="kollu_prn"/></e>
