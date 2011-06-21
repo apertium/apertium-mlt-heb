@@ -2,108 +2,108 @@
 # coding=utf-8
 # -*- encoding: utf-8 -*-
 
-def past_p1_sg(stem, root, vowels):
+# Functions for adding pronoun objects to forms:
+def probj_p1_pl(form): return form + 'na'
+def probj_p1_sg(form): return form + 'ni'
+def probj_p2_pl(form): return form + 'kom'
+def probj_p2_sg(form): return form + ('k'
+				      if (form.endswith('ie') or form.endswith('u'))
+				      else 'ek')
+def probj_p3_f_sg(form): return form + 'ha'
+def probj_p3_m_sg(form): return form + ('h'
+					if (form.endswith('ie') or form.endswith('u'))
+					else 'u')
+def probj_p3_pl(form): return form + 'hom'
+
+def add_probjs(feats, form):
 	return {
-		# kiteb; ktibt; past.p1.sg; vblex
-		'past.p1.sg' : root[0] + root[1] + vowels[0] + root[2] + 't',
-		'past.p1.sg.+probj.p1.pl' : None,
-		'past.p1.sg.+probj.p1.sg' : None,
-		'past.p1.sg.+probj.p2.pl' : root[0] + root[1] + vowels[0] + root[2] + 'tkom',
-		'past.p1.sg.+probj.p2.sg' : root[0] + root[1] + vowels[0] + root[2] + 'tek',
-		'past.p1.sg.+probj.p3.f.sg' : root[0] + root[1] + vowels[0] + root[2] + 'tha',
-		'past.p1.sg.+probj.p3.m.sg' : root[0] + root[1] + vowels[0] + root[2] + 'tu',
-		'past.p1.sg.+probj.p3.pl' : root[0] + root[1] + vowels[0] + root[2] + 'thom',
+		feats + '.+probj.p1.pl' : None if '.p1.' in feats else probj_p1_pl(form),
+		feats + '.+probj.p1.sg' : None if '.p1.' in feats else probj_p1_sg(form),
+		feats + '.+probj.p2.pl' : None if '.p2.' in feats else probj_p2_pl(form),
+		feats + '.+probj.p2.sg' : None if '.p2.' in feats else probj_p2_sg(form),
+		feats + '.+probj.p3.f.sg' : probj_p3_f_sg(form),
+		feats + '.+probj.p3.m.sg' : probj_p3_m_sg(form),
+		feats + '.+probj.p3.pl' : probj_p3_pl(form),
 		}
+		
+def past_p1_sg(stem, root, vowels):
+	form = root[0] + root[1] + vowels[0] + root[2] + 't'
+	sp = add_probjs('past.p1.sg', form)
+	# kiteb; ktibt; past.p1.sg; vblex
+	sp['past.p1.sg'] = form
+	return sp
 
 def past_p2_sg(stem, root, vowels):
-	return {
-		# kiteb; ktibt; past.p2.sg; vblex
-		'past.p2.sg' : root[0] + root[1] + vowels[0] + root[2] + 't',
-		'past.p2.sg.+probj.p1.pl' : root[0] + root[1] + vowels[0] + root[2] + 'tna',
-		'past.p2.sg.+probj.p1.sg' : root[0] + root[1] + vowels[0] + root[2] + 'tni',
-		'past.p2.sg.+probj.p2.pl' : None,
-		'past.p2.sg.+probj.p2.sg' : None,
-		'past.p2.sg.+probj.p3.f.sg' : root[0] + root[1] + vowels[0] + root[2] + 'tha',
-		'past.p2.sg.+probj.p3.m.sg' : root[0] + root[1] + vowels[0] + root[2] + 'tu',
-		'past.p2.sg.+probj.p3.pl' : root[0] + root[1] + vowels[0] + root[2] + 'thom',
-		}
+	form = root[0] + root[1] + vowels[0] + root[2] + 't'
+	sp = add_probjs('past.p2.sg', form)
+	# kiteb; ktibt; past.p2.sg; vblex
+	sp['past.p2.sg'] = form
+	return sp
 
 def past_p3_m_sg(stem, root, vowels):
-	return {
-		# kiteb; kiteb; past.p3.m.sg; vblex
-		# the 'i' here -- is it constant, or based on vowels[0]?
-		# (Tried changing it for a dot and grepping through the corpus,
-		#  no matches other than 'i', no matches with it empty either)
-		'past.p3.m.sg' : stem,
-		'past.p3.m.sg.+probj.p1.pl' : root[0] + vowels[0] + root[1] + 'i' + root[2] + 'na',
-		'past.p3.m.sg.+probj.p1.sg' : root[0] + vowels[0] + root[1] + 'i' + root[2] + 'ni',
-		'past.p3.m.sg.+probj.p2.pl' : root[0] + vowels[0] + root[1] + 'i' + root[2] + 'kom',
-		'past.p3.m.sg.+probj.p2.sg' : root[0] + vowels[0] + root[1] + root[2] + 'ek',
-		'past.p3.m.sg.+probj.p3.f.sg' : root[0] + vowels[0] + root[1] + 'i' + root[2] + 'ha',
-		'past.p3.m.sg.+probj.p3.m.sg' : root[0] + vowels[0] + root[1] + root[2] + 'u',
-		'past.p3.m.sg.+probj.p3.pl' : root[0] + vowels[0] + root[1] + 'i' + root[2] + 'hom',
+	i_form = root[0] + vowels[0] + root[1] + 'i' + root[2]
+	form = root[0] + vowels[0] + root[1] + root[2]
+	sp = {
+		'past.p3.m.sg.+probj.p1.pl' : probj_p1_pl(i_form),
+		'past.p3.m.sg.+probj.p1.sg' : probj_p1_sg(i_form),
+		'past.p3.m.sg.+probj.p2.pl' : probj_p2_pl(i_form),
+		'past.p3.m.sg.+probj.p2.sg' : probj_p2_sg(form),
+		'past.p3.m.sg.+probj.p3.f.sg' : probj_p3_f_sg(i_form),
+		'past.p3.m.sg.+probj.p3.m.sg' : probj_p3_m_sg(form),
+		'past.p3.m.sg.+probj.p3.pl' : probj_p3_pl(i_form),
 		}
+	# kiteb; kiteb; past.p3.m.sg; vblex
+	sp['past.p3.m.sg'] = stem
+	return sp
 	
 def past_p3_f_sg(stem, root, vowels):
-	return {
-		# kiteb; kitbet; past.p3.f.sg; vblex
-		'past.p3.f.sg' : root[0] + vowels[0] + root[1] + root[2] + 'et',
-		'past.p3.f.sg.+probj.p1.pl' : root[0] + vowels[0] + root[1] + root[2] + 'itna',
-		'past.p3.f.sg.+probj.p1.sg' : root[0] + vowels[0] + root[1] + root[2] + 'itni',
-		'past.p3.f.sg.+probj.p2.pl' : root[0] + vowels[0] + root[1] + root[2] + 'itkom',
-		'past.p3.f.sg.+probj.p2.sg' : root[0] + vowels[0] + root[1] + root[2] + 'itek',
-		'past.p3.f.sg.+probj.p3.f.sg' : root[0] + vowels[0] + root[1] + root[2] + 'itha',
-		'past.p3.f.sg.+probj.p3.m.sg' : root[0] + vowels[0] + root[1] + root[2] + 'itu',
-		'past.p3.f.sg.+probj.p3.pl' : root[0] + vowels[0] + root[1] + root[2] + 'ithom',
-		}
+	form = root[0] + vowels[0] + root[1] + root[2]
+	sp = add_probjs('past.p3.f.sg', form + 'it')
+	# kiteb; kitbet; past.p3.f.sg; vblex
+	sp['past.p3.f.sg'] = form + 'et' # not vowels[1]+'t' ?
+	return sp
 
 def past_p1_pl(stem, root, vowels):
-	return {
-		# kiteb; ktibna; past.p1.pl; vblex
-		'past.p1.pl' : root[0] + root[1] + vowels[0] + root[2] + 'na',
-		'past.p1.pl.+probj.p1.pl' : None,
-		'past.p1.pl.+probj.p1.sg' : None,
-		'past.p1.pl.+probj.p2.pl' : root[0] + root[1] + vowels[0] + root[2] + 'niekom',
-		'past.p1.pl.+probj.p2.sg' : root[0] + root[1] + vowels[0] + root[2] + 'niek',
-		'past.p1.pl.+probj.p3.f.sg' : root[0] + root[1] + vowels[0] + root[2] + 'nieha',
-		'past.p1.pl.+probj.p3.m.sg' : root[0] + root[1] + vowels[0] + root[2] + 'nieh',
-		'past.p1.pl.+probj.p3.pl' : root[0] + root[1] + vowels[0] + root[2] + 'niehom',
-		}	
-
+	form = root[0] + root[1] + vowels[0] + root[2] + 'n'
+	sp = add_probjs('past.p1.pl', form + 'ie')
+	# kiteb; ktibna; past.p1.pl; vblex
+	sp['past.p1.pl'] = form + 'a'
+	return sp
 
 def past_p2_pl(stem, root, vowels):
-	return {
-		# kiteb; ktibtu; past.p2.pl; vblex
-		'past.p2.pl' : root[0] + root[1] + vowels[0] + root[2] + 'tu',
-		'past.p2.pl.+probj.p1.pl' : root[0] + root[1] + vowels[0] + root[2] + 'tuna',
-		'past.p2.pl.+probj.p1.sg' : root[0] + root[1] + vowels[0] + root[2] + 'tuni',
-		'past.p2.pl.+probj.p2.pl' : None,
-		'past.p2.pl.+probj.p2.sg' : None,
-		'past.p2.pl.+probj.p3.f.sg' : root[0] + root[1] + vowels[0] + root[2] + 'tuha',
-		'past.p2.pl.+probj.p3.m.sg' : root[0] + root[1] + vowels[0] + root[2] + 'tuh',
-		'past.p2.pl.+probj.p3.pl' : root[0] + root[1] + vowels[0] + root[2] + 'tuhom',
-		}
+	form = root[0] + root[1] + vowels[0] + root[2] + 'tu'
+	sp = add_probjs('past.p2.pl', form)
+	# kiteb; ktibtu; past.p2.pl; vblex
+	sp['past.p2.pl'] = form
+	return sp
 
 def past_p3_pl(stem, root, vowels):
-	return {
-		# kiteb; kitbu; past.p3.pl; vblex
-		'past.p3.pl' : root[0] + vowels[0] + root[1] + root[2] + 'u',
-		'past.p3.pl.+probj.p1.pl' : root[0] + vowels[0] + root[1] + root[2] + 'una',
-		'past.p3.pl.+probj.p1.sg' : root[0] + vowels[0] + root[1] + root[2] + 'uni',
-		'past.p3.pl.+probj.p2.pl' : root[0] + vowels[0] + root[1] + root[2] + 'ukom',
-		'past.p3.pl.+probj.p2.sg' : root[0] + vowels[0] + root[1] + root[2] + 'uk',
-		'past.p3.pl.+probj.p3.f.sg' : root[0] + vowels[0] + root[1] + root[2] + 'uha',
-		'past.p3.pl.+probj.p3.m.sg' : root[0] + vowels[0] + root[1] + root[2] + 'uh',
-		'past.p3.pl.+probj.p3.pl' : root[0] + vowels[0] + root[1] + root[2] + 'uhom',
-		}
+	form = root[0] + vowels[0] + root[1] + root[2] + 'u'
+	sp = add_probjs('past.p3.pl', form)
+	# kiteb; kitbu; past.p3.pl; vblex
+	sp['past.p3.pl'] = form
+	return sp
 
 def pres_p1_sg(stem, root, vowels):
 	# kiteb; nikteb; pres.p1.sg; vblex
 	return 'n' + vowels[0] + root[0] + root[1] + vowels[1] + root[2]
 
 def pres_p2_sg(stem, root, vowels):
+	i_form = 't' + vowels[0] + root[0] + root[1] + 'i' + root[2]
+	short_form = 't' + vowels[0] + root[0] + root[1] + root[2]
+	full_form = 't' + vowels[0] + root[0] + root[1] + vowels[1] + root[2]
+	sp = {
+		'pres.p2.sg.+probj.p1.pl' : probj_p1_pl(i_form),
+		'pres.p2.sg.+probj.p1.sg' : probj_p1_sg(i_form),
+		'pres.p2.sg.+probj.p2.pl' : None,
+		'pres.p2.sg.+probj.p2.sg' : None,
+		'pres.p2.sg.+probj.p3.f.sg' : probj_p3_f_sg(i_form),
+		'pres.p2.sg.+probj.p3.m.sg' : probj_p3_m_sg(short_form),
+		'pres.p2.sg.+probj.p3.pl' : probj_p3_pl(i_form),
+		}
 	# kiteb; tikteb; pres.p2.sg; vblex
-	return 't' + vowels[0] + root[0] + root[1] + vowels[1] + root[2]
+	sp['pres.p2.sg'] = full_form
+	return sp
 
 def pres_p3_m_sg(stem, root, vowels):
 	# kiteb; jikteb; pres.p3.m.sg; vblex
@@ -145,15 +145,15 @@ def main(stem, root, vowels):
 	sp = {}
 
 	sp['inf'] = stem
-	sp.update(past_p1_sg(stem, root, vowels))
-	sp.update(past_p2_sg(stem, root, vowels))
-	sp.update(past_p3_m_sg(stem, root, vowels))
-	sp.update(past_p3_f_sg(stem, root, vowels))
-	sp.update(past_p1_pl(stem, root, vowels))
-	sp.update(past_p2_pl(stem, root, vowels))
-	sp.update(past_p3_pl(stem, root, vowels))
+	sp.update( past_p1_sg(stem, root, vowels) )
+	sp.update( past_p2_sg(stem, root, vowels) )
+	sp.update( past_p3_m_sg(stem, root, vowels) )
+	sp.update( past_p3_f_sg(stem, root, vowels) )
+	sp.update( past_p1_pl(stem, root, vowels) )
+	sp.update( past_p2_pl(stem, root, vowels) )
+	sp.update( past_p3_pl(stem, root, vowels) )
 	sp['pres.p1.sg'] = pres_p1_sg(stem, root, vowels)
-	sp['pres.p2.sg'] = pres_p2_sg(stem, root, vowels)
+	sp.update( pres_p2_sg(stem, root, vowels) )
 	sp['pres.p3.m.sg'] = pres_p3_m_sg(stem, root, vowels)
 	sp['pres.p3.f.sg'] = pres_p3_f_sg(stem, root, vowels)
 	sp['pres.p1.pl'] = pres_p1_pl(stem, root, vowels)
