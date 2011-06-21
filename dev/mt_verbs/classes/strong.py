@@ -11,12 +11,33 @@ def past_p2_sg(stem, root, vowels):
 	return root[0] + root[1] + vowels[0] + root[2] + 't'
 
 def past_p3_m_sg(stem, root, vowels):
-	# kiteb; kiteb; past.p3.m.sg; vblex
-	return stem
+	return {
+		# kiteb; kiteb; past.p3.m.sg; vblex
+		'past.p3.m.sg' : stem,
+		'past.p3.m.sg+probj.p2.sg' : root[0] + vowels[0] + root[1] + root[2] + 'ek',
+		'past.p3.m.sg+probj.p3.m.sg' : root[0] + vowels[0] + root[1] + root[2] + 'u',
+		# the 'i' here -- is it constant, or based on vowels[0]?
+		# (Tried changing it for a dot and grepping through the corpus,
+		#  no matches other than 'i', no matches with it empty either)
+		'past.p3.m.sg+probj.p3.f.sg' : root[0] + vowels[0] + root[1] + 'i' + root[2] + 'ha',
+		'past.p3.m.sg+probj.p1.sg' : root[0] + vowels[0] + root[1] + 'i' + root[2] + 'ni',
+		'past.p3.m.sg+probj.p3.pl' : root[0] + vowels[0] + root[1] + 'i' + root[2] + 'hom',
+		'past.p3.m.sg+probj.p2.pl' : root[0] + vowels[0] + root[1] + 'i' + root[2] + 'kom',
+		'past.p3.m.sg+probj.p2.pl' : root[0] + vowels[0] + root[1] + 'i' + root[2] + 'na',
+		}
 	
 def past_p3_f_sg(stem, root, vowels):
-	# kiteb; kitbet; past.p3.f.sg; vblex
-	return root[0] + vowels[0] + root[1] + root[2] + 'et'
+	return {
+		# kiteb; kitbet; past.p3.f.sg; vblex
+		'past.p3.f.sg' : root[0] + vowels[0] + root[1] + root[2] + 'et',
+		'past.p3.f.sg+probj.p2.sg' : root[0] + vowels[0] + root[1] + root[2] + 'itek',
+		'past.p3.f.sg+probj.p3.m.sg' : root[0] + vowels[0] + root[1] + root[2] + 'itu',
+		'past.p3.f.sg+probj.p3.f.sg' : root[0] + vowels[0] + root[1] + root[2] + 'itha',
+		'past.p3.f.sg+probj.p1.sg' : root[0] + vowels[0] + root[1] + root[2] + 'itni',
+		'past.p3.f.sg+probj.p3.pl' : root[0] + vowels[0] + root[1] + root[2] + 'ithom',
+		'past.p3.f.sg+probj.p2.pl' : root[0] + vowels[0] + root[1] + root[2] + 'itkom',
+		'past.p3.f.sg+probj.p2.pl' : root[0] + vowels[0] + root[1] + root[2] + 'itna',
+		}
 
 def past_p1_pl(stem, root, vowels):
 	# kiteb; ktibna; past.p1.pl; vblex
@@ -80,8 +101,10 @@ def main(stem, root, vowels):
 	sp['inf'] = stem
 	sp['past.p1.sg'] = past_p1_sg(stem, root, vowels)
 	sp['past.p2.sg'] = past_p2_sg(stem, root, vowels)
-	sp['past.p3.m.sg'] = past_p3_m_sg(stem, root, vowels)
-	sp['past.p3.f.sg'] = past_p3_f_sg(stem, root, vowels)
+	
+	sp.update(past_p3_m_sg(stem, root, vowels))
+	sp.update(past_p3_f_sg(stem, root, vowels))
+	
 	sp['past.p1.pl'] = past_p1_pl(stem, root, vowels)
 	sp['past.p2.pl'] = past_p2_pl(stem, root, vowels)
 	sp['past.p3.pl'] = past_p3_pl(stem, root, vowels)
