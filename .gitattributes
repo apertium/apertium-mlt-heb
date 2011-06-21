@@ -24,6 +24,7 @@ dev/he.nouns.dix -text
 dev/he.verbs.dix -text
 dev/hitparade.80.txt -text
 dev/hspell-to-dix.sh -text
+dev/inconsistency-summary.sh -text
 dev/mt-he.inconsistency.sh -text
 dev/mt-he.interwiki.xml -text
 dev/mt_verbs/classes/__init__.py -text
@@ -47,6 +48,8 @@ dev/mt_verbs/verbs.py -text
 dev/paragraph1.missing.txt -text
 dev/paragraph1.out -text
 dev/paragraph1.txt -text
+dev/testvoc-summary.mt-he.txt -text
+dev/testvoc.sh -text
 dev/verb_lists/allmalteseverbs17apr-strong.csv -text
 dev/verb_lists/allmalteseverbs17apr-weak.csv -text
 dev/verb_lists/allmalteseverbs17apr.xls -text
