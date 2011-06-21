@@ -20,6 +20,13 @@ def main(stem, root, vowels):
 	sp['pres.p1.pl'] = 'konna'
 	sp['pres.p2.pl'] = 'kontu'
 	sp['pres.p3.pl'] = 'kienu'
-	
+
+	nsp = {}
+	for f in sp: 
+		nsp[f + '.+neg'] = sp[f] + 'x';
+
+	for n in nsp:
+		sp[n] = nsp[n];
+
 	return sp
 

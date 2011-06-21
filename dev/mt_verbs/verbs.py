@@ -21,7 +21,8 @@ def format_entry(FORMAT, stem, form, pos, feat):
 	elif FORMAT=="dix":
 		tags = ''.join(['<s n="%s"/>' % tag
 				for tag in [pos] + feat.split('.')])
-		tags = tags.replace('<s n="+neg"/>', '<j/>ma-x<s n="neg"/>'); # TODO: what should the negative lemma be?
+		tags = tags.replace('<s n="+neg"/>', '<j/>x<s n="neg"/>'); # TODO: what should the negative lemma be?
+		if tags.count('+probj') > 0: return "";
 		return "    <e><p><l>%s</l>\t<r>%s%s</r></p></e>" % (speling[feat],
 								     stem,
 								     tags);
