@@ -491,6 +491,7 @@
     <e lm="mela"><i>mela</i><par n="u__cnjcoo"/></e>
     <e lm="jekk"><i>jekk</i><par n="u__cnjcoo"/></e>
     <e lm="mentri"><i>mentri</i><par n="u__cnjcoo"/></e>
+    <e lm="iżda"><i>iżda</i><par n="u__cnjcoo"/></e>
     <e lm="ġaladarba"><i>ġaladarba</i><par n="u__cnjcoo"/></e>
     <e lm="sija"><i>sija</i><par n="u__cnjcoo"/></e>
     <e lm="imma"><i>imma</i><par n="u__cnjcoo"/></e>
@@ -803,6 +804,7 @@
 
     <e lm="Marie"><i>Marie</i><par n="Marija__np"/></e>
     <e lm="Marija"><i>Marija</i><par n="Marija__np"/></e>
+    <e lm="Tereża"><i>Tereża</i><par n="Marija__np"/></e>
 
     <e lm="Alfred"><i>Alfred</i><par n="Mikiel__np"/></e>
     <e lm="Anton"><i>Anton</i><par n="Mikiel__np"/></e>
@@ -893,7 +895,28 @@
     <e lm="pposedut"><i>pposedut</i><par n="reliġjuż__adj"/></e>
 
     <e lm="Ingliż"><i>Ingliż</i><par n="reliġjuż__adj"/></e>
+    <e lm="Albaniż"><i>Albaniż</i><par n="reliġjuż__adj"/></e>
+    <e lm="Bengaliż"><i>Bengaliż</i><par n="reliġjuż__adj"/></e>
+    <e lm="Bergamiż"><i>Bergamiż</i><par n="reliġjuż__adj"/></e>
+    <e lm="Bolonjiż"><i>Bolonjiż</i><par n="reliġjuż__adj"/></e>
+    <e lm="Bulgariż"><i>Bulgariż</i><par n="reliġjuż__adj"/></e>
+    <e lm="Ċiniż"><i>Ċiniż</i><par n="reliġjuż__adj"/></e>
+    <e lm="Daniż"><i>Daniż</i><par n="reliġjuż__adj"/></e>
+    <e lm="Fillandiż"><i>Fillandiż</i><par n="reliġjuż__adj"/></e>
+    <e lm="Franċiż"><i>Franċiż</i><par n="reliġjuż__adj"/></e>
+    <e lm="Furjaniż"><i>Furjaniż</i><par n="reliġjuż__adj"/></e>
+    <e lm="Galliż"><i>Galliż</i><par n="reliġjuż__adj"/></e>
+    <e lm="Ġappuniż"><i>Ġappuniż</i><par n="reliġjuż__adj"/></e>
+    <e lm="Ġermaniż"><i>Ġermaniż</i><par n="reliġjuż__adj"/></e>
+    <e lm="Irlandiż"><i>Irlandiż</i><par n="reliġjuż__adj"/></e>
+    <e lm="Kalabriż"><i>Kalabriż</i><par n="reliġjuż__adj"/></e>
+    <e lm="Kanadiż"><i>Kanadiż</i><par n="reliġjuż__adj"/></e>
+    <e lm="Olandiż"><i>Olandiż</i><par n="reliġjuż__adj"/></e>
+    <e lm="Portugiż"><i>Portugiż</i><par n="reliġjuż__adj"/></e>
+    <e lm="Tajlandiż"><i>Tajlandiż</i><par n="reliġjuż__adj"/></e>
+
     <e lm="Tibetan"><i>Tibetan</i><par n="reliġjuż__adj"/></e>
+
 
     <e lm="barran"><i>barran</i><par n="barran__adj"/></e>
 
