@@ -7,6 +7,7 @@
      <sdef n="prn"/>
      <sdef n="pr"/>
      <sdef n="vblex"/>
+     <sdef n="vaux"        c="Auxilliary verb"/>
      <sdef n="rel"/>
      <sdef n="cnjsub"/>
      <sdef n="det"/>
@@ -63,6 +64,12 @@
      <e><p><l>lil<s n="pr"/></l><r>אל<s n="pr"/></r></p></e>
      <e><p><l>għal<s n="pr"/></l><r>ל-<s n="pr"/></r></p></e>
      <e><p><l>bħal<s n="pr"/></l><r>כ-<s n="pr"/></r></p></e>
+     <e><p><l>favur<s n="pr"/></l><r>למען<s n="pr"/></r></p></e>
+     <e><p><l>fi<s n="pr"/></l><r>ב-<s n="pr"/></r></p></e>
+     <e><p><l>ma'<s n="pr"/></l><r>עם<s n="pr"/></r></p></e>
+     <e><p><l>ta'<s n="pr"/></l><r>של<s n="pr"/></r></p></e>
+     <e><p><l>kif<s n="pr"/></l><r>כ-<s n="pr"/></r></p></e>
+     <e><p><l>matul<s n="pr"/></l><r>בזמן ש-<s n="pr"/></r></p></e>
 
      <!-- SECTION: Pronouns -->
 
@@ -106,17 +113,19 @@
      <e><p><l>dan<s n="prn"/></l><r>זה<s n="prn"/></r></p></e>
 
      <!-- SECTION: Possessive pronouns -->
-     <e><p><l>tieghi<s n="prn"/><s n="pos"/></l><r>שלי<s n="prn"/><s n="pos"/></r></p></e>
-     <e><p><l>taghna<s n="prn"/><s n="pos"/></l><r>שלנו<s n="prn"/><s n="pos"/></r></p></e>
-     <e><p><l>tieghek<s n="prn"/><s n="pos"/></l><r>שלך<s n="prn"/><s n="pos"/></r></p></e>
-     <e><p><l>taghkom<s n="prn"/><s n="pos"/></l><r>שלך<s n="prn"/><s n="pos"/></r></p></e>
+     <e><p><l>tiegħi<s n="prn"/><s n="pos"/></l><r>שלי<s n="prn"/><s n="pos"/></r></p></e>
+     <e><p><l>tagħna<s n="prn"/><s n="pos"/></l><r>שלנו<s n="prn"/><s n="pos"/></r></p></e>
+     <e><p><l>tiegħek<s n="prn"/><s n="pos"/></l><r>שלך<s n="prn"/><s n="pos"/></r></p></e>
+     <e><p><l>tagħkom<s n="prn"/><s n="pos"/></l><r>שלך<s n="prn"/><s n="pos"/></r></p></e>
      <e><p><l>tieghu<s n="prn"/><s n="pos"/></l><r>שלו<s n="prn"/><s n="pos"/></r></p></e>
-     <e><p><l>taghha<s n="prn"/><s n="pos"/></l><r>שלה<s n="prn"/><s n="pos"/></r></p></e>
-     <e><p><l>taghhom<s n="prn"/><s n="pos"/></l><r>שלהם<s n="prn"/><s n="pos"/></r></p></e>
+     <e><p><l>tagħha<s n="prn"/><s n="pos"/></l><r>שלה<s n="prn"/><s n="pos"/></r></p></e>
+     <e><p><l>tagħhom<s n="prn"/><s n="pos"/></l><r>שלהם<s n="prn"/><s n="pos"/></r></p></e>
 
      <!-- SECTION: Determiners -->
 
      <e><p><l>l<s n="det"/><s n="def"/></l><r>ה<s n="det"/><s n="def"/></r></p></e>
+     <e><p><l>dan<s n="det"/><s n="sg"/></l><r>זה<s n="det"/><s n="sg"/></r></p></e>
+     <e><p><l>dan<s n="det"/><s n="pl"/></l><r>אלה<s n="det"/><s n="pl"/></r></p></e>
 
      <!-- SECTION: Numerals -->
      
@@ -170,23 +179,93 @@
      <e><p><l>ittra<s n="n"/><s n="f"/></l><r>אות<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>sema<s n="n"/><s n="f"/></l><r>שמים<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>art<s n="n"/><s n="f"/></l><r>ארץ<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>entità<s n="n"/></l><r>ישות<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>preokkupazzjoni<s n="n"/><s n="f"/></l><r>דאגה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>logħba<s n="n"/><s n="f"/></l><r>משחק<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>ospitazzjoni<s n="n"/><s n="f"/></l><r>אירוח<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>allegazzjoni<s n="n"/><s n="f"/></l><r>טענה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>aċċess<s n="n"/></l><r>גישה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>bojkott<s n="n"/></l><r>חרם<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>protest<s n="n"/></l><r>מחאה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>tortura<s n="n"/></l><r>עינוי<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>ġurnal<s n="n"/></l><r>כתב<b/>עת<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>arrest<s n="n"/></l><r>מעצר<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>għibien<s n="n"/></l><r>העלמות<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>biljett<s n="n"/></l><r>כרטיס<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>żona<s n="n"/></l><r>אזור<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>diffikultà<s n="n"/></l><r>קושי<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>trattament<s n="n"/></l><r>טיפול<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>dissident<s n="n"/></l><r>מתנגד<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>disturb<s n="n"/></l><r>הפרעה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>persekuzzjoni<s n="n"/></l><r>רדיפה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>priġunerija<s n="n"/></l><r>מאסר<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>dar<s n="n"/></l><r>בית<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>ispostament<s n="n"/></l><r>עקירה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>protestant<s n="n"/></l><r>הפרה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>arja<s n="n"/></l><r>אויר<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>dritti<s n="n"/></l><r>זכות<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>grupp<s n="n"/></l><r>קבוצה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>protestant<s n="n"/></l><r>מפגין<s n="n"/></r></p></e>
+     <e><p><l>molestja<s n="n"/></l><r>הטרדה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>mira<s n="n"/></l><r>מטרה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>twissija<s n="n"/></l><r>אזהרה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>possibilità<s n="n"/></l><r>אפשרות<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>proposta<s n="n"/></l><r>הצעה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>belt<s n="n"/></l><r>עיר<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>tniġġis<s n="n"/></l><r>זיהום<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>politika<s n="n"/></l><r>מדיניות<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>projbizzjoni<s n="n"/></l><r>חרם<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>resident<s n="n"/></l><r>תושב<s n="n"/></r></p></e>
+     <e><p><l>lukanda<s n="n"/></l><r>מלון<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>sorveljanza<s n="n"/></l><r>השגחה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>vjolazzjoni<s n="n"/></l><r>הפרה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>istampa<s n="n"/></l><r>עיתונאות<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>wegħda<s n="n"/></l><r>הבטחה<s n="n"/><s n="f"/></r></p></e>
 
      <!-- SECTION: Proper nouns -->
 
      <e><p><l>Malta<s n="np"/><s n="top"/><s n="f"/></l><r>מלטה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
      <e><p><l>Valletta<s n="np"/><s n="top"/><s n="f"/></l><r>ולטה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Ċina<s n="np"/><s n="top"/><s n="f"/></l><r>סין<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Bejġing<s n="np"/><s n="top"/><s n="m"/></l><r>בייג'ינג'<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+      <e><p><l>Olimpjadi<s n="np"/><s n="top"/><s n="m"/></l><r>אולימיפיאדה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+      <e><p><l>Tibet<s n="np"/><s n="top"/><s n="m"/></l><r>טיבט<s n="np"/><s n="top"/><s n="f"/></r></p></e>
 
      <!-- SECTION: Adjectives -->
+     
+     <e><p><l>barran<s n="adj"/></l><r>זר<s n="adj"/></r></p></e>
+     <e><p><l>dubbjuż<s n="adj"/></l><r>מפוקפק<s n="adj"/></r></p></e>
+     <e><p><l>ħażin<s n="adj"/></l><r>רע<s n="adj"/></r></p></e>
+     <e><p><l>allegat<s n="adj"/></l><r>נטען<s n="adj"/></r></p></e>
+     <e><p><l>kritiku<s n="adj"/></l><r>קריטי<s n="adj"/></r></p></e>
+     <e><p><l>etniċ<s n="adj"/></l><r>אתני<s n="adj"/></r></p></e>
+     <e><p><l>reliġjuż<s n="adj"/></l><r>דתי<s n="adj"/></r></p></e>
+     <e><p><l>elettroniku<s n="adj"/></l><r>אלקטרוני<s n="adj"/></r></p></e>
+     <e><p><l>pposedut<s n="adj"/></l><r>שייך<s n="adj"/></r></p></e>
+     <e><p><l>uman<s n="adj"/></l><r>אנושי<s n="adj"/></r></p></e>
+     <e><p><l>terroristiku<s n="adj"/></l><r>טררוריסטי<s n="adj"/></r></p></e>
+     <e><p><l>vjolent<s n="adj"/></l><r>אלים<s n="adj"/></r></p></e>
+     
+     <e><p><l>Tibetan<s n="adj"/></l><r>טיבטי<s n="adj"/></r></p></e>
+     
 
      <!-- SECTION: Adverbs -->
 
      <e><p><l>biss<s n="adv"/></l><r>רק<s n="adv"/></r></p></e>
+     <e><p><l>internazzjonalment<s n="adv"/></l><r>באופן<b/>בינלאומי<s n="adv"/></r></p></e>
+     <e><p><l>anki<s n="adv"/></l><r>אפילו<s n="adv"/></r></p></e>
 
      <!-- SECTION: Verbs -->
 
+     <e><p><l>kien<s n="vaux"/></l><r>היה<s n="vblex"/></r></p></e>
      <e><p><l>ara<s n="vblex"/></l><r>ראה<s n="vblex"/></r></p></e>
      <e><p><l>kiteb<s n="vblex"/></l><r>כתב<s n="vblex"/></r></p></e>
      <e><p><l>iddeċide<s n="vblex"/></l><r>החליט<s n="vblex"/></r></p></e>
+     <e><p><l>espressa<s n="vblex"/></l><r>הביע<s n="vblex"/></r></p></e>
+     <e><p><l>vvjola<s n="vblex"/></l><r>הפר<s n="vblex"/></r></p></e>
+     <e><p><l>infurza<s n="vblex"/></l><r>אכף<s n="vblex"/></r></p></e>
+     <e><p><l>ordna<s n="vblex"/></l><r>סידר<s n="vblex"/></r></p></e>
+     <e><p><l>ħadem<s n="vblex"/></l><r>עבד<s n="vblex"/></r></p></e>
 
    </section>
 </dictionary>
