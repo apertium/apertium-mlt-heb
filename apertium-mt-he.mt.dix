@@ -93,6 +93,10 @@
       <e><p><l/><r><s n="adv"/></r></p></e>
     </pardef>
 
+    <pardef n="kif__adv">
+      <e><p><l/><r><s n="adv"/><s n="itg"/></r></p></e>
+    </pardef>
+
     <pardef n="immedjatament__adv">
       <e><p><l/><r><s n="adv"/></r></p></e>
     </pardef>
@@ -200,7 +204,7 @@
       <e><p><l/><r><s n="prn"/><s n="def"/><s n="mf"/><s n="sg"/></r></p></e>
     </pardef>
 
-    <pardef n="kif__prn"> <!-- TODO: Is this an adverb? -->
+    <pardef n="min__prn"> <!-- TODO: Is this an adverb? -->
       <e><p><l/><r><s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
     </pardef>
 
@@ -547,10 +551,9 @@
     <e lm="diversi" c="several"><i>diversi</i><par n="xi__prn"/></e>
     <e lm="l-iktar" c="most"><i>l-iktar</i><par n="xi__prn"/></e>
     
-    <e lm="min" c="who"><i>min</i><par n="kif__prn"/></e>
-    <e lm="kif" c="how"><i>kif</i><par n="kif__prn"/></e>
-    <e lm="dak li" c="what"><i>dak<b/>li</i><par n="kif__prn"/></e>
-    <e lm="liema" c="which"><i>liema</i><par n="kif__prn"/></e>
+    <e lm="min" c="who"><i>min</i><par n="min__prn"/></e>
+    <e lm="dak li" c="what"><i>dak<b/>li</i><par n="min__prn"/></e>
+    <e lm="liema" c="which"><i>liema</i><par n="min__prn"/></e>
     <e lm="kemm huma" c="how many"><i>kemm<b/>huma</i><par n="kemm_huma__prn"/></e>
     <e lm="kemm iequm" c="how much"><i>kemm<b/>iqum</i><par n="kemm_iequm__prn"/></e>
 
@@ -898,6 +901,17 @@
     <!-- SECTION: Adverbs -->
 
     <e lm="ma"><i>ma</i><par n="ma__adv"/></e>
+
+    <e lm="kif" c="how"><i>kif</i><par n="kif__adv"/></e>
+    <e lm="biex" c="with what"><i>biex</i><par n="kif__adv"/></e>
+    <e lm="għala" c="why"><i>għala</i><par n="kif__adv"/></e>
+    <e lm="jaqaw" c="can it be"><i>jaqaw</i><par n="kif__adv"/></e>
+    <e lm="jewilla" c="by any chance"><i>jewilla</i><par n="kif__adv"/></e>
+    <e lm="għalfejn" c="for what reason"><i>għalfejn</i><par n="kif__adv"/></e>
+    <e lm="mnejn" c="from where"><i>mnejn</i><par n="kif__adv"/></e>
+    <e lm="safejn" c="till where"><i>safejn</i><par n="kif__adv"/></e>
+    <e lm="minn sa fejn" c="by what right"><i>minn<b/>sa<b/>fejn</i><par n="kif__adv"/></e>
+    <e lm="għaliex" c="why"><i>għaliex</i><par n="kif__adv"/></e>
 
     <e lm="astronomikament"><i>astronomikament</i><par n="immedjatament__adv"/></e>
     <e lm="direttament"><i>direttament</i><par n="immedjatament__adv"/></e>
