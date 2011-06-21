@@ -869,6 +869,7 @@
     <e lm="sovjetiku"><i>sovjeti</i><par n="teknoloġi/ku__adj"/></e>
     <e lm="olimpiku"><i>olimpi</i><par n="teknoloġi/ku__adj"/></e>
     <e lm="brittaniku"><i>brittani</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="melodiku"><i>melodi</i><par n="teknoloġi/ku__adj"/></e>
 
     <e lm="reliġjuż"><i>reliġjuż</i><par n="reliġjuż__adj"/></e>
     <e lm="ambizzjuż"><i>ambizzjuż</i><par n="reliġjuż__adj"/></e>
@@ -1031,6 +1032,7 @@
 
   <section id="verbs" type="standard">
     <!-- Generated on: 2011-06-20 20:07 GMT -->
+
     <e><p><l>kitba</l>	<r>kiteb<s n="vblex"/><s n="ger"/></r></p></e>
     <e><p><l>kiteb</l>	<r>kiteb<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>kitbu</l>	<r>kiteb<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/></r></p></e>
