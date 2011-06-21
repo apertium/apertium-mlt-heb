@@ -458,21 +458,19 @@
     <pardef n="teknoloġi/ku__adj">
       <e><p><l>ku</l><r>ku<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
       <e><p><l>ka</l><r>ku<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
-      <e><p><l>ċi</l><r>ku<s n="adj"/><s n="m"/><s n="pl"/></r></p></e>
-      <e><p><l>ċi</l><r>ku<s n="adj"/><s n="f"/><s n="pl"/></r></p></e>
+      <e><p><l>ċi</l><r>ku<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
     </pardef>
 
     <pardef n="reliġjuż__adj"> <!-- TODO: check -->
       <e><p><l></l><r><s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
       <e><p><l>a</l><r><s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
-      <e><p><l>i</l><r><s n="adj"/><s n="m"/><s n="pl"/></r></p></e>
-      <e><p><l>i</l><r><s n="adj"/><s n="f"/><s n="pl"/></r></p></e>
+      <e><p><l>i</l><r><s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
     </pardef>
 
     <pardef n="ħ/ażin__adj">
-      <e><p><l>ażin</l><r><s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
-      <e><p><l>ażina</l><r><s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
-      <e><p><l>żiena</l><r><s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
+      <e><p><l>ażin</l><r>ażin<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>ażina</l><r>ażin<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>żiena</l><r>ażin<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
     </pardef>
 
     <pardef n="barran__adj">
