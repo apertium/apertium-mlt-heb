@@ -16,6 +16,7 @@
     <sdef n="cnjsub"      c="Sub-ordinating conjunction"/>
 
     <sdef n="dem"         c="Demonstrative"/>
+    <sdef n="ord"         c="Ordinal"/>
     <sdef n="neg"         c="Negative"/>
 
     <sdef n="an"          c="Animate / inanimate"/>
@@ -267,11 +268,9 @@
     </pardef>
  
     <!-- SECTION: Numerals -->
-    <pardef n="wieħed__num">
-      <e><p><l/><r><s n="num"/><s n="m"/><s n="sg"/></r></p></e>
-    </pardef>
-    <pardef n="waħda__num">
-      <e><p><l/><r><s n="num"/><s n="f"/><s n="sg"/></r></p></e>
+    <pardef n="w/ieħed__num">
+      <e><p><l>ieħed</l><r>ieħed<s n="num"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>aħda</l><r>ieħed<s n="num"/><s n="f"/><s n="sg"/></r></p></e>
     </pardef>
     <pardef n="tnejn__num">
       <e><p><l/><r><s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
@@ -328,6 +327,10 @@
     <pardef n="miljun__num">
       <e><p><l/><r><s n="num"/><s n="mf"/><s n="sg"/></r></p></e>
       <e><p><l>i</l><r><s n="num"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
+
+    <pardef n="tieni__num"> <!-- 2nd -->
+      <e><p><l/><r><s n="num"/><s n="ord"/><s n="mf"/><s n="sp"/></r></p></e>
     </pardef>
 
     <!-- SECTION: Nouns -->
@@ -578,8 +581,7 @@
     <!-- SECTION: Determiners -->
 
     <!-- SECTION: Numerals -->
-    <e lm="wieħed" c="one (m)"><i>wieħed</i><par n="wieħed__num"/></e>
-    <e lm="waħda" c="one (f)"><i>waħda</i><par n="waħda__num"/></e>
+    <e lm="wieħed" c="one"><i>w</i><par n="w/ieħed__num"/></e>
     <e lm="tnejn" c="two"><i>tnejn</i><par n="tnejn__num"/></e>
     <e lm="tliet" c="three"><i>tli</i><par n="tli/eta__num"/></e>
     <e lm="erbgħa" c="four"><i>erbgħa</i><par n="tnejn__num"/></e>
@@ -614,6 +616,18 @@
     <e lm="biljun" c="billion"><i>biljun</i><par n="miljun__num"/></e>
     <e lm="triljun" c="trillion"><i>triljun</i><par n="miljun__num"/></e>
     
+    <e lm="ewwel" c="first(?)"><i>ewwel</i><par n="tieni__num"/></e>
+    <e lm="tieni" c="second"><i>tieni</i><par n="tieni__num"/></e>
+    <e lm="tielet" c="third"><i>tielet</i><par n="tieni__num"/></e>
+    <e lm="raba" c="fourth"><i>raba</i><par n="tieni__num"/></e>
+    <e lm="hames" c="fifth"><i>hames</i><par n="tieni__num"/></e>
+    <e lm="sitt" c="sixth"><i>sitt</i><par n="tieni__num"/></e>
+    <e lm="seba" c="seventh"><i>seba</i><par n="tieni__num"/></e>
+    <e lm="tmien" c="eighth"><i>tmien</i><par n="tieni__num"/></e>
+    <e lm="disa" c="ninth"><i>disa</i><par n="tieni__num"/></e>
+    <e lm="għaxar" c="tenth"><i>għaxar</i><par n="tieni__num"/></e>
+
+    <e lm="mitt" c="hundredth"><i>mitt</i><par n="tieni__num"/></e>
 
     <!-- SECTION: Nouns -->
     <e lm="gramafown"><i>gram</i><par n="gram/afown__n"/></e>
