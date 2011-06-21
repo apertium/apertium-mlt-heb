@@ -443,7 +443,7 @@
     </pardef>
 
     <pardef n="Tibet__np">
-      <e><p><l></l><r><s n="np"/><s n="top"/><s n="GD"/><s n="sg"/></r></p></e>
+      <e><p><l></l><r><s n="np"/><s n="top"/><s n="m"/><s n="sg"/></r></p></e>
     </pardef>
 
     <pardef n="Cervantes__np">
