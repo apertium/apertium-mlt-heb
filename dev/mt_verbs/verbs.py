@@ -60,7 +60,8 @@ for line in file(sys.path[0] + '/stems.csv'):
 		speling = klass.main(stem, root, vowels)
 		
 		for feat in speling.keys():
-			print format_entry(FORMAT, stem, speling[feat], pos, feat);
+			if speling[feat]:
+				print format_entry(FORMAT, stem, speling[feat], pos, feat);
 			
 	except AttributeError:
 		print 'MISSING CLASS:', classname
