@@ -430,7 +430,7 @@
     <!-- SECTION: Proper nouns -->
 
     <pardef n="Malta__np">
-      <e><p><l></l><r><s n="np"/><s n="top"/><s n="GD"/><s n="sg"/></r></p></e>
+      <e><p><l></l><r><s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
     </pardef>
 
     <pardef n="Tibet__np">
@@ -814,6 +814,7 @@
     <e lm="John"><i>John</i><par n="Mikiel__np"/></e>
     <e lm="Joseph"><i>Joseph</i><par n="Mikiel__np"/></e>
     <e lm="Juan"><i>Juan</i><par n="Mikiel__np"/></e>
+    <e lm="Juda"><i>Juda</i><par n="Mikiel__np"/></e>
     <e lm="Karlu"><i>Karlu</i><par n="Mikiel__np"/></e>
     <e lm="Louis"><i>Louis</i><par n="Mikiel__np"/></e>
     <e lm="Luke"><i>Luke</i><par n="Mikiel__np"/></e>
