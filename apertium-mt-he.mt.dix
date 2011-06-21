@@ -65,9 +65,18 @@
     <pardef n="separa">
       <e><re>[.\?;:!]</re><p>          <l></l><r><s n="sent"/></r></p></e>
     </pardef>
+
     <pardef n="coma">
       <e><p>          <l>,</l><r>,<s n="cm"/></r></p></e>
     </pardef>
+
+    <pardef n="numeros">
+      <e><re>[0-9]+([.,][0-9]+)?</re><p><l></l><r><s n="num"/></r></p></e>
+      <e><re>[0-9]+([.,][0-9]+)? ?%</re><p><l></l><r><s n="num"/></r></p></e>
+      <e><re>[0-9]+([.,][0-9]+)?</re><i>-</i><re>[0-9]+([.,][0-9]+)?%?</re><p><l></l><r><s n="num"/></r></p></e>
+      <e><re>[0-9]+([.,][0-9]+)?[:.][0-9]+([.,][0-9]+)?</re><p><l></l><r><s n="num"/></r></p></e>
+    </pardef>
+
     
     <!-- SECTION: Conjunctions -->
     <pardef n="u__cnjcoo">
@@ -985,6 +994,7 @@
   <section id="final" type="inconditional">
     <e><par n="separa"/></e>
     <e><par n="coma"/></e>
+    <e><par n="numeros"/></e>
   </section>
 
   <section id="verbs" type="standard">
