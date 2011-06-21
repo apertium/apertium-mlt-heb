@@ -375,8 +375,14 @@
     <pardef n="molestja__n"> <!-- mass noun, f -->
       <e><p><l></l><r><s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     </pardef>
+
     <pardef n="tniġġis__n"> <!-- mass noun, m -->
       <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    </pardef>
+
+    <pardef n="logħ/ba__n">
+      <e><p><l>ba</l><r>ba<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>ob</l><r>ba<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
 
     <!-- TODO find gender for all of these.. marked GD for now -->
@@ -389,11 +395,6 @@
     <pardef n="wegħd/a__n">
       <e><p><l>a</l><r>a<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
       <e><p><l>iet</l><r>a<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
-    </pardef>
-
-    <pardef n="logħ/ba__n">
-      <e><p><l>ba</l><r>ba<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
-      <e><p><l>ob</l><r>ba<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
     </pardef>
 
     <pardef n="istampa__n">
