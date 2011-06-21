@@ -871,6 +871,8 @@
     <e lm="olimpiku"><i>olimpi</i><par n="teknoloġi/ku__adj"/></e>
     <e lm="brittaniku"><i>brittani</i><par n="teknoloġi/ku__adj"/></e>
     <e lm="brittaniku" r="LR"><p><l>brittanni</l><r>brittani</r></p><par n="teknoloġi/ku__adj"/></e>
+    <e lm="brittaniku" r="LR"><p><l>britanni</l><r>brittani</r></p><par n="teknoloġi/ku__adj"/></e>
+    <e lm="brittaniku" r="LR"><p><l>britani</l><r>brittani</r></p><par n="teknoloġi/ku__adj"/></e>
     <e lm="melodiku"><i>melodi</i><par n="teknoloġi/ku__adj"/></e>
 
     <e lm="analitiku"><i>analiti</i><par n="teknoloġi/ku__adj"/></e>
@@ -908,6 +910,43 @@
     <e lm="speċifiku"><i>speċifi</i><par n="teknoloġi/ku__adj"/></e>
     <e lm="storiku"><i>stori</i><par n="teknoloġi/ku__adj"/></e>
     <e lm="xjentifiku"><i>xjentifi</i><par n="teknoloġi/ku__adj"/></e>
+
+    <e lm="alfabetiku"><i>alfabeti</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="ċiviku"><i>ċivi</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="dinamiku"><i>dinami</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="dogmatiku"><i>dogmati</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="drammatiku"><i>drammati</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="drastiku"><i>drasti</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="ekkleżjastiku"><i>ekkleżjasti</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="eretiku"><i>ereti</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="estetiku"><i>esteti</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="etiku"><i>eti</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="evanġeliku"><i>evanġeli</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="fanatiku"><i>fanati</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="folkloristiku"><i>folkloristi</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="forensiku"><i>forensi</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="gurnalistiku"><i>gurnalisti</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="identiku"><i>identi</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="iżlamiku"><i>iżlami</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="kanoniku"><i>kanoni</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="karatteristiku"><i>karatteristi</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="katastrofiku"><i>katastrofi</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="kategoriku"><i>kategori</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="logiku"><i>logi</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="prattiku"><i>pratti</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="prolifiku"><i>prolifi</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="psikoloġiku"><i>psikoloġi</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="realistiku"><i>realisti</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="reċiproku"><i>reċipro</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="sistematiku"><i>sistemati</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="skolastiku"><i>skolasti</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="strateġiku"><i>strateġi</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="tattiku"><i>tatti</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="tekniku"><i>tekni</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="teokratiku"><i>teokrati</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="traġiku"><i>traġi</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="turistiku"><i>turisti</i><par n="teknoloġi/ku__adj"/></e>
+
 
     <e lm="reliġjuż"><i>reliġjuż</i><par n="reliġjuż__adj"/></e>
     <e lm="ambizzjuż"><i>ambizzjuż</i><par n="reliġjuż__adj"/></e>
