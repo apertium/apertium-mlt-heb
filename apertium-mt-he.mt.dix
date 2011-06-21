@@ -221,24 +221,20 @@
     <pardef n="d/an__det" c="this/these">
       <e>       <p><l>an</l> <r>an<s n="det"/><s n="dem"/><s n="m"/><s n="sg"/></r></p></e>
       <e>       <p><l>in</l> <r>an<s n="det"/><s n="dem"/><s n="f"/><s n="sg"/></r></p></e>
-      <e>       <p><l>awn</l> <r>an<s n="det"/><s n="dem"/><s n="m"/><s n="pl"/></r></p></e>
-      <e>       <p><l>awn</l> <r>an<s n="det"/><s n="dem"/><s n="f"/><s n="pl"/></r></p></e>
+      <e>       <p><l>awn</l> <r>an<s n="det"/><s n="dem"/><s n="mf"/><s n="pl"/></r></p></e>
       <!-- is dana (etc.) the same as dan? TODO -->
       <e r="LR"><p><l>ana</l><r>an<s n="det"/><s n="dem"/><s n="m"/><s n="sg"/></r></p></e>
       <e r="LR"><p><l>ina</l><r>an<s n="det"/><s n="dem"/><s n="f"/><s n="sg"/></r></p></e>
-      <e r="LR"><p><l>awna</l><r>an<s n="det"/><s n="dem"/><s n="m"/><s n="pl"/></r></p></e>
-      <e r="LR"><p><l>awna</l><r>an<s n="det"/><s n="dem"/><s n="f"/><s n="pl"/></r></p></e>
+      <e r="LR"><p><l>awna</l><r>an<s n="det"/><s n="dem"/><s n="mf"/><s n="pl"/></r></p></e>
     </pardef>
 
     <pardef n="d/ak__det" c="that/those">
       <e>       <p><l>ak</l> <r>ak<s n="det"/><s n="dem"/><s n="m"/><s n="sg"/></r></p></e>
       <e>       <p><l>ik</l> <r>ak<s n="det"/><s n="dem"/><s n="f"/><s n="sg"/></r></p></e>
-      <e>       <p><l>awk</l> <r>ak<s n="det"/><s n="dem"/><s n="m"/><s n="pl"/></r></p></e>
-      <e>       <p><l>awk</l> <r>ak<s n="det"/><s n="dem"/><s n="f"/><s n="pl"/></r></p></e>
+      <e>       <p><l>awk</l> <r>ak<s n="det"/><s n="dem"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="LR"><p><l>aka</l><r>ak<s n="det"/><s n="dem"/><s n="m"/><s n="sg"/></r></p></e>
       <e r="LR"><p><l>ika</l><r>ak<s n="det"/><s n="dem"/><s n="f"/><s n="sg"/></r></p></e>
-      <e r="LR"><p><l>awka</l><r>ak<s n="det"/><s n="dem"/><s n="m"/><s n="pl"/></r></p></e>
-      <e r="LR"><p><l>awka</l><r>ak<s n="det"/><s n="dem"/><s n="f"/><s n="pl"/></r></p></e>
+      <e r="LR"><p><l>awka</l><r>ak<s n="det"/><s n="dem"/><s n="mf"/><s n="pl"/></r></p></e>
     </pardef>
 
     <pardef n="l-__det">
