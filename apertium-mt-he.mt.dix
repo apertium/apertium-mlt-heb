@@ -122,19 +122,19 @@
 
     <!-- SECTION: Pronouns -->
     
-    <pardef n="prsubj__prn">
-      <e><p><l>jien</l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
-      <e><p><l>jiena</l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
-      <e><p><l>int</l><r>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
-      <e><p><l>inti</l><r>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
-      <e><p><l>hu</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
-      <e><p><l>huwa</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
-      <e><p><l>hi</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
-      <e><p><l>hija</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
-      <e><p><l>aħna</l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e><p><l>intom</l><r>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e><p><l>huma</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
-      <!-- TODO: missing "it"?? -->
+    <pardef n="free__prn">
+      <e><p><l>jien</l><r>free<s n="prn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e><p><l>jiena</l><r>free<s n="prn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e><p><l>int</l><r>free<s n="prn"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e><p><l>inti</l><r>free<s n="prn"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e><p><l>hu</l><r>free<s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>huwa</l><r>free<s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>hi</l><r>free<s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>hija</l><r>free<s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>aħna</l><r>free<s n="prn"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
+      <e><p><l>intom</l><r>free<s n="prn"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p></e>
+      <e><p><l>huma</l><r>free<s n="prn"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
+      <!-- TODO: missing "it"??, also missing LR  -->
     </pardef>
 
     <!-- TODO: check if these are valid pronoun objects. I have a feeling lilek=to you (dative??) -->
@@ -503,7 +503,7 @@
     <e lm="matul"><i>matul</i><par n="kontra__pr"/></e>
 
     <!-- SECTION: Pronouns -->
-    <e lm="personal subject pronouns"><i/><par n="prsubj__prn"/></e>
+    <e lm="independent pronouns"><i/><par n="free__prn"/></e>
 
     <e lm="li"><i>li</i><par n="li__rel"/></e>
 
