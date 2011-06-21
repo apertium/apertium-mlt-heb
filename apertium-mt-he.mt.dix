@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dictionary>
-<alphabet>ABĊDEFĠGGHĦIIJKLMNOPQRSTUVWXZŻabċdefġgħghieiejklmnopqrstuvwxzżycYCáéíóúàèìòù</alphabet>
+<alphabet>ABĊDEFĠGGHĦIIJKLMNOPQRSTUVWXZŻabċdefġgħghieiejklmnopqrstuvwxzżycYCáéíóúàèìòùñö</alphabet>
   <sdefs>
     <sdef n="n"           c="Noun"/>
     <sdef n="vblex"       c="Verb"/>
@@ -394,6 +394,11 @@
       <e><p><l>ob</l><r>ba<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
 
+    <pardef n="moviment__n">
+      <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>i</l><r><s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+    </pardef>
+
     <!-- TODO find gender for all of these.. marked GD for now -->
     <pardef n="entit/à__n">
       <e><p><l>à</l><r>à<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
@@ -628,6 +633,7 @@
     <e lm="persekuzzjoni"><i>persekuzzjoni</i><par n="espressjoni__n"/></e>
     <e lm="allegazzjoni"><i>allegazzjoni</i><par n="espressjoni__n"/></e>
     <e lm="projbizzjoni"><i>projbizzjoni</i><par n="espressjoni__n"/></e>
+    <e lm="osservazzjoni"><i>osservazzjoni</i><par n="espressjoni__n"/></e>
     <e lm="ordni"><i>ordni</i><par n="espressjoni__n"/></e>
 
     <e lm="applikazzjoni"><i>applikazzjoni</i><par n="espressjoni__n"/></e>
@@ -696,9 +702,11 @@
     <e lm="viżjoni"><i>viżjoni</i><par n="espressjoni__n"/></e>
     <e lm="votazzjoni"><i>votazzjoni</i><par n="espressjoni__n"/></e>
 
+    <e lm="trattament"><i>trattament</i><par n="moviment__n"/></e>
+    <e lm="moviment"><i>moviment</i><par n="moviment__n"/></e>
+
     <e lm="protestant"><i>protestant</i><par n="protestant__n"/></e>
     <e lm="ġurnal"><i>ġurnal</i><par n="protestant__n"/></e>
-    <e lm="trattament"><i>trattament</i><par n="protestant__n"/></e>
     <e lm="dissident"><i>dissident</i><par n="protestant__n"/></e>
     <e lm="biljett"><i>biljett</i><par n="protestant__n"/></e>
     <e lm="arrest"><i>arrest</i><par n="protestant__n"/></e>
@@ -829,7 +837,12 @@
     <e lm="Ryan"><i>Ryan</i><par n="Mikiel__np"/></e>
     <e lm="Thomas"><i>Thomas</i><par n="Mikiel__np"/></e>
     <e lm="William"><i>William</i><par n="Mikiel__np"/></e>
+
     <e lm="Federiku"><i>Federiku</i><par n="Mikiel__np"/></e>
+    <e lm="Adrien"><i>Adrien</i><par n="Mikiel__np"/></e>
+    <e lm="Maurice"><i>Maurice</i><par n="Mikiel__np"/></e>
+    <e lm="Zammit"><i>Zammit</i><par n="Mikiel__np"/></e>
+    <e lm="Stuart"><i>Stuart</i><par n="Mikiel__np"/></e>
 
 
     <e lm="Beethoven"><i>Beethoven</i><par n="Cervantes__np"/></e>
@@ -852,6 +865,117 @@
     <e lm="Rooney"><i>Rooney</i><par n="Cervantes__np"/></e>
     <e lm="Smith"><i>Smith</i><par n="Cervantes__np"/></e>
     <e lm="Taylor"><i>Taylor</i><par n="Cervantes__np"/></e>
+    <e lm="Gonzi"><i>Gonzi</i><par n="Cervantes__np"/></e>
+
+   <e lm="Artell"><i>Artell</i><par n="Cervantes__np"/></e>
+   <e lm="Ayer"><i>Ayer</i><par n="Cervantes__np"/></e>
+   <e lm="Azzopardi"><i>Azzopardi</i><par n="Cervantes__np"/></e>
+   <e lm="Babel"><i>Babel</i><par n="Cervantes__np"/></e>
+   <e lm="Bambina"><i>Bambina</i><par n="Cervantes__np"/></e>
+   <e lm="Barbarossa"><i>Barbarossa</i><par n="Cervantes__np"/></e>
+   <e lm="Beckham"><i>Beckham</i><par n="Cervantes__np"/></e>
+   <e lm="Bellini"><i>Bellini</i><par n="Cervantes__np"/></e>
+   <e lm="Berkeley"><i>Berkeley</i><par n="Cervantes__np"/></e>
+   <e lm="Berlioz"><i>Berlioz</i><par n="Cervantes__np"/></e>
+   <e lm="Blake"><i>Blake</i><par n="Cervantes__np"/></e>
+   <e lm="Boffa"><i>Boffa</i><par n="Cervantes__np"/></e>
+   <e lm="Boldini"><i>Boldini</i><par n="Cervantes__np"/></e>
+   <e lm="Bowie"><i>Bowie</i><par n="Cervantes__np"/></e>
+   <e lm="Branchel"><i>Branchel</i><par n="Cervantes__np"/></e>
+   <e lm="Brdaric"><i>Brdaric</i><par n="Cervantes__np"/></e>
+   <e lm="Bresciano"><i>Bresciano</i><par n="Cervantes__np"/></e>
+   <e lm="Buhagiar"><i>Buhagiar</i><par n="Cervantes__np"/></e>
+   <e lm="Cañedo"><i>Cañedo</i><par n="Cervantes__np"/></e>
+   <e lm="Cara"><i>Cara</i><par n="Cervantes__np"/></e>
+   <e lm="Carachi"><i>Carachi</i><par n="Cervantes__np"/></e>
+   <e lm="Carrick"><i>Carrick</i><par n="Cervantes__np"/></e>
+   <e lm="Cézanne"><i>Cézanne</i><par n="Cervantes__np"/></e>
+   <e lm="Chamberlain"><i>Chamberlain</i><par n="Cervantes__np"/></e>
+   <e lm="Cianciolo"><i>Cianciolo</i><par n="Cervantes__np"/></e>
+   <e lm="Codino"><i>Codino</i><par n="Cervantes__np"/></e>
+   <e lm="Constable"><i>Constable</i><par n="Cervantes__np"/></e>
+   <e lm="Cremona"><i>Cremona</i><par n="Cervantes__np"/></e>
+   <e lm="Cromwell"><i>Cromwell</i><par n="Cervantes__np"/></e>
+   <e lm="Dalaras"><i>Dalaras</i><par n="Cervantes__np"/></e>
+   <e lm="Dickens"><i>Dickens</i><par n="Cervantes__np"/></e>
+   <e lm="Dimech"><i>Dimech</i><par n="Cervantes__np"/></e>
+   <e lm="Dirac"><i>Dirac</i><par n="Cervantes__np"/></e>
+   <e lm="Drexler"><i>Drexler</i><par n="Cervantes__np"/></e>
+   <e lm="Dufresne"><i>Dufresne</i><par n="Cervantes__np"/></e>
+   <e lm="Edgar"><i>Edgar</i><par n="Cervantes__np"/></e>
+   <e lm="Edwards"><i>Edwards</i><par n="Cervantes__np"/></e>
+   <e lm="Eliot"><i>Eliot</i><par n="Cervantes__np"/></e>
+   <e lm="Endrich"><i>Endrich</i><par n="Cervantes__np"/></e>
+   <e lm="Farrugia"><i>Farrugia</i><par n="Cervantes__np"/></e>
+   <e lm="Frayn"><i>Frayn</i><par n="Cervantes__np"/></e>
+   <e lm="Frendo"><i>Frendo</i><par n="Cervantes__np"/></e>
+   <e lm="Gainsborough"><i>Gainsborough</i><par n="Cervantes__np"/></e>
+   <e lm="Galea"><i>Galea</i><par n="Cervantes__np"/></e>
+   <e lm="Galli"><i>Galli</i><par n="Cervantes__np"/></e>
+   <e lm="Goodall"><i>Goodall</i><par n="Cervantes__np"/></e>
+   <e lm="Gounod"><i>Gounod</i><par n="Cervantes__np"/></e>
+   <e lm="Grech"><i>Grech</i><par n="Cervantes__np"/></e>
+   <e lm="Guérin"><i>Guérin</i><par n="Cervantes__np"/></e>
+   <e lm="Guiscard"><i>Guiscard</i><par n="Cervantes__np"/></e>
+   <e lm="Hardy"><i>Hardy</i><par n="Cervantes__np"/></e>
+   <e lm="Hart"><i>Hart</i><par n="Cervantes__np"/></e>
+   <e lm="Hilsdon"><i>Hilsdon</i><par n="Cervantes__np"/></e>
+   <e lm="Hockney"><i>Hockney</i><par n="Cervantes__np"/></e>
+   <e lm="Hollins"><i>Hollins</i><par n="Cervantes__np"/></e>
+   <e lm="Hughes"><i>Hughes</i><par n="Cervantes__np"/></e>
+   <e lm="Hume"><i>Hume</i><par n="Cervantes__np"/></e>
+   <e lm="Jackson"><i>Jackson</i><par n="Cervantes__np"/></e>
+   <e lm="Koch"><i>Koch</i><par n="Cervantes__np"/></e>
+   <e lm="Lagrange"><i>Lagrange</i><par n="Cervantes__np"/></e>
+   <e lm="Laparelli"><i>Laparelli</i><par n="Cervantes__np"/></e>
+   <e lm="Leiva"><i>Leiva</i><par n="Cervantes__np"/></e>
+   <e lm="Levy"><i>Levy</i><par n="Cervantes__np"/></e>
+   <e lm="Lewis"><i>Lewis</i><par n="Cervantes__np"/></e>
+   <e lm="Locke"><i>Locke</i><par n="Cervantes__np"/></e>
+   <e lm="López"><i>López</i><par n="Cervantes__np"/></e>
+   <e lm="Malory"><i>Malory</i><par n="Cervantes__np"/></e>
+   <e lm="McBride"><i>McBride</i><par n="Cervantes__np"/></e>
+   <e lm="McGrath"><i>McGrath</i><par n="Cervantes__np"/></e>
+   <e lm="McShane"><i>McShane</i><par n="Cervantes__np"/></e>
+   <e lm="Mifsud"><i>Mifsud</i><par n="Cervantes__np"/></e>
+   <e lm="Mill"><i>Mill</i><par n="Cervantes__np"/></e>
+   <e lm="Morris"><i>Morris</i><par n="Cervantes__np"/></e>
+   <e lm="Neal"><i>Neal</i><par n="Cervantes__np"/></e>
+   <e lm="Nobel"><i>Nobel</i><par n="Cervantes__np"/></e>
+   <e lm="O'Leary"><i>O'Leary</i><par n="Cervantes__np"/></e>
+   <e lm="Orwell"><i>Orwell</i><par n="Cervantes__np"/></e>
+   <e lm="O'Shea"><i>O'Shea</i><par n="Cervantes__np"/></e>
+   <e lm="Owen"><i>Owen</i><par n="Cervantes__np"/></e>
+   <e lm="Pirès"><i>Pirès</i><par n="Cervantes__np"/></e>
+   <e lm="Poinsot"><i>Poinsot</i><par n="Cervantes__np"/></e>
+   <e lm="Preca"><i>Preca</i><par n="Cervantes__np"/></e>
+   <e lm="Priestley"><i>Priestley</i><par n="Cervantes__np"/></e>
+   <e lm="Ramsey"><i>Ramsey</i><par n="Cervantes__np"/></e>
+   <e lm="Robins"><i>Robins</i><par n="Cervantes__np"/></e>
+   <e lm="Rocastle"><i>Rocastle</i><par n="Cervantes__np"/></e>
+   <e lm="Rodríguez"><i>Rodríguez</i><par n="Cervantes__np"/></e>
+   <e lm="Rubinstein"><i>Rubinstein</i><par n="Cervantes__np"/></e>
+   <e lm="Saha"><i>Saha</i><par n="Cervantes__np"/></e>
+   <e lm="Salomè"><i>Salomè</i><par n="Cervantes__np"/></e>
+   <e lm="Sant"><i>Sant</i><par n="Cervantes__np"/></e>
+   <e lm="Savona"><i>Savona</i><par n="Cervantes__np"/></e>
+   <e lm="Saydon"><i>Saydon</i><par n="Cervantes__np"/></e>
+   <e lm="Scholes"><i>Scholes</i><par n="Cervantes__np"/></e>
+   <e lm="Schumann"><i>Schumann</i><par n="Cervantes__np"/></e>
+   <e lm="Schwarzer"><i>Schwarzer</i><par n="Cervantes__np"/></e>
+   <e lm="Shakespeare"><i>Shakespeare</i><par n="Cervantes__np"/></e>
+   <e lm="Snow"><i>Snow</i><par n="Cervantes__np"/></e>
+   <e lm="Speedie"><i>Speedie</i><par n="Cervantes__np"/></e>
+   <e lm="Steele"><i>Steele</i><par n="Cervantes__np"/></e>
+   <e lm="Suárez"><i>Suárez</i><par n="Cervantes__np"/></e>
+   <e lm="Veronesi"><i>Veronesi</i><par n="Cervantes__np"/></e>
+   <e lm="Wordsworth"><i>Wordsworth</i><par n="Cervantes__np"/></e>
+   <e lm="Xerri"><i>Xerri</i><par n="Cervantes__np"/></e>
+   <e lm="Zuckerberg"><i>Zuckerberg</i><par n="Cervantes__np"/></e>
+
+
+    <e lm="von Neumann"><i>von<b/>Neumann</i><par n="Cervantes__np"/></e>
+    <e lm="von Lobkowitz"><i>von<b/>Lobkowitz</i><par n="Cervantes__np"/></e>
 
 
 
