@@ -829,6 +829,7 @@
     <e lm="Ryan"><i>Ryan</i><par n="Mikiel__np"/></e>
     <e lm="Thomas"><i>Thomas</i><par n="Mikiel__np"/></e>
     <e lm="William"><i>William</i><par n="Mikiel__np"/></e>
+    <e lm="Federiku"><i>Federiku</i><par n="Mikiel__np"/></e>
 
 
     <e lm="Beethoven"><i>Beethoven</i><par n="Cervantes__np"/></e>
@@ -869,7 +870,44 @@
     <e lm="sovjetiku"><i>sovjeti</i><par n="teknoloġi/ku__adj"/></e>
     <e lm="olimpiku"><i>olimpi</i><par n="teknoloġi/ku__adj"/></e>
     <e lm="brittaniku"><i>brittani</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="brittaniku" r="LR"><p><l>brittanni</l><r>brittani</r></p><par n="teknoloġi/ku__adj"/></e>
     <e lm="melodiku"><i>melodi</i><par n="teknoloġi/ku__adj"/></e>
+
+    <e lm="analitiku"><i>analiti</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="artistiku"><i>artisti</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="astroloġiku"><i>astroloġi</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="astronomiku"><i>astronomi</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="atomiku"><i>atomi</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="awtomatiku"><i>awtomati</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="bażiku"><i>bażi</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="Bibbliku"><i>Bibbli</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="botaniku"><i>botani</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="demokratiku"><i>demokrati</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="diplomatiku"><i>diplomati</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="domestiku"><i>domesti</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="ekonomiku"><i>ekonomi</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="elastiku"><i>elasti</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="endemiku"><i>endemi</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="filosofiku"><i>filosofi</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="fiżiku"><i>fiżi</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="ġeneriku"><i>ġeneri</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="ġenetiku"><i>ġeneti</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="ġeografiku"><i>ġeografi</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="infraspeċifiku"><i>infraspeċifi</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="kattoliku"><i>kattoli</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="kimiku"><i>kimi</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="klassiku"><i>klassi</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="lastiku"><i>lasti</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="lingwistiku"><i>lingwisti</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="matematiku"><i>matemati</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="mediku"><i>medi</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="patrijottiku"><i>patrijotti</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="poetiku"><i>poeti</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="pubbliku"><i>pubbli</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="romantiku"><i>romanti</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="speċifiku"><i>speċifi</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="storiku"><i>stori</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="xjentifiku"><i>xjentifi</i><par n="teknoloġi/ku__adj"/></e>
 
     <e lm="reliġjuż"><i>reliġjuż</i><par n="reliġjuż__adj"/></e>
     <e lm="ambizzjuż"><i>ambizzjuż</i><par n="reliġjuż__adj"/></e>
