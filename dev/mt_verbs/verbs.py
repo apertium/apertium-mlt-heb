@@ -22,7 +22,7 @@ def format_entry(FORMAT, stem, form, pos, feat):
 		tags = ''.join(['<s n="%s"/>' % tag
 				for tag in [pos] + feat.split('.')])
 		tags = tags.replace('<s n="+neg"/>', '<j/>x<s n="neg"/>'); # TODO: what should the negative lemma be?
-		if tags.count('+probj') > 0: return "";
+		tags = tags.replace('<s n="+probj"/>', '<j/>probj<s n="prn"/><s n="pers"/>')
 		return "    <e><p><l>%s</l>\t<r>%s%s</r></p></e>" % (speling[feat],
 								     stem,
 								     tags);
@@ -58,10 +58,10 @@ for line in file(sys.path[0] + '/stems.csv'):
 	try:
 		klass = getattr(classes, classname)
 		speling = klass.main(stem, root, vowels)
-		
-		for feat in speling.keys():
-			if speling[feat]:
-				print format_entry(FORMAT, stem, speling[feat], pos, feat);
+		feats = [f for f in speling.keys() if speling[f]]
+		feats.sort()	# pretty
+		for feat in feats:
+			print format_entry(FORMAT, stem, speling[feat], pos, feat);
 			
 	except AttributeError:
 		print 'MISSING CLASS:', classname
