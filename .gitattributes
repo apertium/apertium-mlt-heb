@@ -27,6 +27,7 @@ dev/hspell-to-dix.sh -text
 dev/inconsistency-summary.sh -text
 dev/mt-he.inconsistency.sh -text
 dev/mt-he.interwiki.xml -text
+dev/mt_he_verbs/bidix.py -text
 dev/mt_he_verbs/generate.sh -text
 dev/mt_he_verbs/verbs-mt-he.csv -text
 dev/mt_verbs/classes/__init__.py -text
