@@ -5,6 +5,7 @@
     <sdef n="pr"          c="Preposition"/>
     <sdef n="prn"         c="Pronoun"/>
     <sdef n="det"         c="Determiner"/>
+    <sdef n="np"          c="Proper noun"/>
     <sdef n="p1"          c="First person"/>
     <sdef n="p2"          c="Second person"/>
     <sdef n="p3"          c="Third person"/>
@@ -12,6 +13,10 @@
     <sdef n="m"           c="Masculine"/>
     <sdef n="f"           c="Feminine"/>
     <sdef n="mf"          c="Masculine / feminine"/>
+ 
+    <sdef n="top"         c="Toponym"/>
+    <sdef n="ant"         c="Anthroponym"/>
+    <sdef n="cog"         c="Cognomen"/>
     
     <sdef n="sg"          c="Singular"/>
     <sdef n="pl"          c="Plural"/>
@@ -6202,6 +6207,11 @@
       <e><p>          <l>יות</l><r>ה<s n="n"/><s n="f"/><s n="pl"/></r></p><par n="שק__n_px"/></e>
       <e><p>          <l>יות</l><r>ה<s n="n"/><s n="f"/><s n="pl"/><s n="cons"/></r></p><par n="שק__n_px"/></e>
     </pardef>
+    
+    <pardef n="סין__np">
+      <e><p><l></l><r><s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
+    </pardef>
+    
   </pardefs>
   <section id="main" type="standard">
     <!-- SECTION: Conjunctions -->
@@ -6254,6 +6264,7 @@
     <e lm="שלא"><i>שלא</i><par n="ו__cnjcoo"/></e>
     <e lm="פן"><i>פן</i><par n="ו__cnjcoo"/></e>
     <e lm="שמא"><i>שמא</i><par n="ו__cnjcoo"/></e>
+    <e lm="או"><i>או</i><par n="ו__cnjcoo"/></e>
 
     <e lm="כאשר"><i>כאשר</i><par n="כאשר__cnjsub"/></e>
     <e lm="במשך"><i>במשך</i><par n="כאשר__cnjsub"/></e>
@@ -6337,13 +6348,12 @@
 
     <!-- SECTION: Prepositions -->
 
-    <e lm="־ה"><i>־ה</i><par n="ללא__pr"/></e>
+    <e lm="-ה"><i>-ה</i><par n="ללא__pr"/></e>
     <e lm="אחר"><i>אחר</i><par n="ללא__pr"/></e>
     <e lm="אחרי"><i>אחרי</i><par n="ללא__pr"/></e>
     <e lm="אל"><i>אל</i><par n="ללא__pr"/></e>
     <e lm="אצל"><i>אצל</i><par n="ללא__pr"/></e>
     <e lm="את"><i>את</i><par n="ללא__pr"/></e>
-    <e lm="ב־"><i>ב־</i><par n="ללא__pr"/></e>
     <e lm="באשר"><i>באשר</i><par n="ללא__pr"/></e>
     <e lm="בגלל"><i>בגלל</i><par n="ללא__pr"/></e>
     <e lm="בין"><i>בין</i><par n="ללא__pr"/></e>
@@ -6353,11 +6363,11 @@
     <e lm="בשל"><i>בשל</i><par n="ללא__pr"/></e>
     <e lm="בתוך"><i>בתוך</i><par n="ללא__pr"/></e>
     <e lm="דרך"><i>דרך</i><par n="ללא__pr"/></e>
-    <e lm="חוץ מ־"><i>חוץ<b/>מ־</i><par n="ללא__pr"/></e>
-    <e lm="כ־"><i>כ־</i><par n="ללא__pr"/></e>
+    <e lm="חוץ מ-"><i>חוץ<b/>מ-</i><par n="ללא__pr"/></e>
+    <e lm="כ-"><i>כ-</i><par n="ללא__pr"/></e>
     <e lm="כדי"><i>כדי</i><par n="ללא__pr"/></e>
     <e lm="כמו"><i>כמו</i><par n="ללא__pr"/></e>
-    <e lm="ל־"><i>ל־</i><par n="ללא__pr"/></e>
+    <e lm="ל-"><i>ל-</i><par n="ללא__pr"/></e>
     <e lm="לאחר"><i>לאחר</i><par n="ללא__pr"/></e>
     <e lm="ליד"><i>ליד</i><par n="ללא__pr"/></e>
     <e lm="לכבוד"><i>לכבוד</i><par n="ללא__pr"/></e>
@@ -6366,7 +6376,7 @@
     <e lm="למרות"><i>למרות</i><par n="ללא__pr"/></e>
     <e lm="לפי"><i>לפי</i><par n="ללא__pr"/></e>
     <e lm="לפני"><i>לפני</i><par n="ללא__pr"/></e>
-    <e lm="מ־"><i>מ־</i><par n="ללא__pr"/></e>
+    <e lm="מ-"><i>מ-</i><par n="ללא__pr"/></e>
     <e lm="מאז"><i>מאז</i><par n="ללא__pr"/></e>
     <e lm="מול"><i>מול</i><par n="ללא__pr"/></e>
     <e lm="מול עיני"><i>מול<b/>עיני</i><par n="ללא__pr"/></e>
@@ -6379,10 +6389,9 @@
     <e lm="על יד"><i>על<b/>יד</i><par n="ללא__pr"/></e>
     <e lm="ע״ש"><i>ע״ש</i><par n="ללא__pr"/></e>
     <e lm="של"><i>של</i><par n="ללא__pr"/></e>
-    <e lm="של־"><i>של־</i><par n="ללא__pr"/></e>
-
+    <e lm="של-"><i>של-</i><par n="ללא__pr"/></e>
     <e lm="ב-"><i>ב-</i><par n="ללא__pr"/></e>
-
+    <e lm="עם"><i>עם</i><par n="ללא__pr"/></e>
     
     <!-- SECTION: Numerals -->
     
@@ -17719,6 +17728,7 @@
     <e lm="הפצרה"><par n="ה"/><i>הפצר</i><par n="ריצ/ה__n_f"/></e>
     <e lm="גאולה"><par n="ה"/><i>גאול</i><par n="ריצ/ה__n_f"/></e>
     <e lm="הבהוב"><par n="ה"/><i>הבהוב</i><par n="פיוט__n_m"/></e>
+    <e lm="כרטיס"><par n="ה"/><i>כרטיס</i><par n="פיוט__n_m"/></e>
     <e lm="חרישה"><par n="ה"/><i>חריש</i><par n="ריצ/ה__n_f"/></e>
     <e lm="החשה"><par n="ה"/><i>החש</i><par n="ריצ/ה__n_f"/></e>
     <e lm="היסללות"><par n="ה"/><i>היסללו</i><par n="הזדכו/ת__n_f"/></e>
@@ -18813,6 +18823,64 @@
     <e lm="התרפאות"><par n="ה"/><i>התרפאו</i><par n="הזדכו/ת__n_f"/></e>
     <e lm="הצרחה"><par n="ה"/><i>הצרח</i><par n="ריצ/ה__n_f"/></e>
     <e lm="נשילה"><par n="ה"/><i>נשיל</i><par n="ריצ/ה__n_f"/></e>
+    
+    <!-- Proper nouns -->
+    <e lm="סין"><i>סין</i><par n="סין__np"/></e>
+    <e lm="וולטה"><i>וולטה</i><par n="סין__np"/></e>
+    <e lm="מלטה"><i>מלטה</i><par n="סין__np"/></e>
+    <e lm="אפריקה"><i>אפריקה</i><par n="סין__np"/></e>
+    <e lm="אמריקה"><i>אמריקה</i><par n="סין__np"/></e>
+    <e lm="ארגנטינה"><i>ארגנטינה</i><par n="סין__np"/></e>
+    <e lm="אסיה"><i>אסיה</i><par n="סין__np"/></e>
+    <e lm="אוסטרליה"><i>אוסטרליה</i><par n="סין__np"/></e>
+    <e lm="אוסטריה"><i>אוסטריה</i><par n="סין__np"/></e>
+    <e lm="ברצלונה"><i>ברצלונה</i><par n="סין__np"/></e>
+    <e lm="בוליביה"><i>בוליביה</i><par n="סין__np"/></e>
+    <e lm="בריטניה"><i>בריטניה</i><par n="סין__np"/></e>
+    <e lm="דנמרק"><i>דנמרק</i><par n="סין__np"/></e>
+    <e lm="אירופה"><i>אירופה</i><par n="סין__np"/></e>
+    <e lm="צרפת"><i>צרפת</i><par n="סין__np"/></e>
+    <e lm="גרמניה"><i>גרמניה</i><par n="סין__np"/></e>
+    <e lm="יוון"><i>יוון</i><par n="סין__np"/></e>
+    <e lm="אנגליה"><i>אנגליה</i><par n="סין__np"/></e>
+    <e lm="אירלנד"><i>אירלנד</i><par n="סין__np"/></e>
+    <e lm="איטליה"><i>איטליה</i><par n="סין__np"/></e>
+    <e lm="קנדה"><i>קנדה</i><par n="סין__np"/></e>
+    <e lm="קולומביה"><i>קולומביה</i><par n="סין__np"/></e>
+    <e lm="לונדון"><i>לונדון</i><par n="סין__np"/></e>
+    <e lm="נורבגיה"><i>נורביגה</i><par n="סין__np"/></e>
+    <e lm="פולין"><i>פולין</i><par n="סין__np"/></e>
+    <e lm="פרוסיה"><i>פרוסיה</i><par n="סין__np"/></e>
+    <e lm="רוסיה"><i>רוסיה</i><par n="סין__np"/></e>
+    <e lm="סרביה"><i>סרביה</i><par n="סין__np"/></e>
+    <e lm="ספרד"><i>ספרד</i><par n="סין__np"/></e>
+    <e lm="וולנסיה"><i>וולנסיה</i><par n="סין__np"/></e>
+    <e lm="בייג'ינג"><i>בייג'ינג'</i><par n="סין__np"/></e>
+    <e lm="טיבט"><i>טיבט</i><par n="סין__np"/></e>
+    <e lm="ברלין"><i>ברלין</i><par n="סין__np"/></e>
+    <e lm="בולטון"><i>בולטון</i><par n="סין__np"/></e>
+    <e lm="ברזיל"><i>ברזיל</i><par n="סין__np"/></e>
+    <e lm="ברומוויץ'"><i>ברומוויץ'</i><par n="סין__np"/></e>
+    <e lm="קובנטרי"><i>קובנטרי</i><par n="סין__np"/></e>
+    <e lm="פרנקפורט"><i>פרנקפורט</i><par n="סין__np"/></e>
+    <e lm="פולהאם"><i>פולהאם</i><par n="סין__np"/></e>
+    <e lm="יפן"><i>יפן</i><par n="סין__np"/></e>
+    <e lm="קוסובו"><i>קוסובו</i><par n="סין__np"/></e>
+    <e lm="לידס"><i>לידס</i><par n="סין__np"/></e>
+    <e lm="ליברפול"><i>ליברפול</i><par n="סין__np"/></e>
+    <e lm="מדריד"><i>מדריד</i><par n="סין__np"/></e>
+    <e lm="מנצ'סטר"><i>מנצ'סטר</i><par n="סין__np"/></e>
+    <e lm="מרסקסלוק"><i>מרסקסלוק</i><par n="סין__np"/></e>
+    <e lm="מקסיקו"><i>מקסיקו</i><par n="סין__np"/></e>
+    <e lm="מונטנגרו"><i>מונטנגרו</i><par n="סין__np"/></e>
+    <e lm="מינכן"><i>מינכן</i><par n="סין__np"/></e>
+    <e lm="שפילד"><i>שפילד</i><par n="סין__np"/></e>
+    <e lm="סטאמפורטד"><i>סטאמפורטד</i><par n="סין__np"/></e>
+    <e lm="טוטנהאם"><i>טוטנהאם</i><par n="סין__np"/></e>
+    <e lm="ותיקן"><i>ותיקן</i><par n="סין__np"/></e>
+    <e lm="יורק"><i>יורק</i><par n="סין__np"/></e>
+    
+    <e lm="אולימפיאדה"><i>אולימפיאדה</i><par n="סין__np"/></e>
 
     <!-- SECTION: Verbs, converted from n0nick's modified hspell, see dev/hspell-to-dix.sh -->
 

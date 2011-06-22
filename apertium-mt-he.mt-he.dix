@@ -224,12 +224,61 @@
 
      <!-- SECTION: Proper nouns -->
 
-     <e><p><l>Malta<s n="np"/><s n="top"/><s n="f"/></l><r>מלטה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Valletta<s n="np"/><s n="top"/><s n="f"/></l><r>ולטה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
      <e><p><l>Ċina<s n="np"/><s n="top"/><s n="f"/></l><r>סין<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Bejġing<s n="np"/><s n="top"/><s n="m"/></l><r>בייג'ינג'<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-      <e><p><l>Olimpjadi<s n="np"/><s n="top"/><s n="m"/></l><r>אולימיפיאדה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-      <e><p><l>Tibet<s n="np"/><s n="top"/><s n="m"/></l><r>טיבט<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Valletta<s n="np"/><s n="top"/><s n="f"/></l><r>וולטה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Malta<s n="np"/><s n="top"/><s n="f"/></l><r>מלטה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Afrika<s n="np"/><s n="top"/><s n="f"/></l><r>אפריקה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Amerika<s n="np"/><s n="top"/><s n="f"/></l><r>אמריקה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Arġentina<s n="np"/><s n="top"/><s n="f"/></l><r>ארגנטינה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Asja<s n="np"/><s n="top"/><s n="f"/></l><r>אסיה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Awstralja<s n="np"/><s n="top"/><s n="f"/></l><r>אוסטרליה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Awstrija<s n="np"/><s n="top"/><s n="f"/></l><r>אוסטריה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Barcelona<s n="np"/><s n="top"/><s n="f"/></l><r>ברצלונה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Bolivja<s n="np"/><s n="top"/><s n="f"/></l><r>בוליביה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Brittanja<s n="np"/><s n="top"/><s n="f"/></l><r>בריטניה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Danimarka<s n="np"/><s n="top"/><s n="f"/></l><r>דנמרק<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Ewropa<s n="np"/><s n="top"/><s n="f"/></l><r>אירופה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Franza<s n="np"/><s n="top"/><s n="f"/></l><r>צרפת<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Ġermanja<s n="np"/><s n="top"/><s n="f"/></l><r>גרמניה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Greċja<s n="np"/><s n="top"/><s n="f"/></l><r>יוון<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Ingilterra<s n="np"/><s n="top"/><s n="f"/></l><r>אנגליה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Irlanda<s n="np"/><s n="top"/><s n="f"/></l><r>אירלנד<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Italja<s n="np"/><s n="top"/><s n="f"/></l><r>איטליה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Kanada<s n="np"/><s n="top"/><s n="f"/></l><r>קנדה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Kolombja<s n="np"/><s n="top"/><s n="f"/></l><r>קולומביה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Londra<s n="np"/><s n="top"/><s n="f"/></l><r>לונדון<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Norveġja<s n="np"/><s n="top"/><s n="f"/></l><r>נורבגיה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Polonja<s n="np"/><s n="top"/><s n="f"/></l><r>פולין<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Prussja<s n="np"/><s n="top"/><s n="f"/></l><r>פרוסיה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Russja<s n="np"/><s n="top"/><s n="f"/></l><r>רוסיה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Serbja<s n="np"/><s n="top"/><s n="f"/></l><r>סרביה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Spanja<s n="np"/><s n="top"/><s n="f"/></l><r>ספרד<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Valencia<s n="np"/><s n="top"/><s n="f"/></l><r>וולנסיה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Bejġing<s n="np"/><s n="top"/><s n="f"/></l><r>בייג'ינג<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Tibet<s n="np"/><s n="top"/><s n="f"/></l><r>טיבט<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Berlin<s n="np"/><s n="top"/><s n="f"/></l><r>ברלין<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Bolton<s n="np"/><s n="top"/><s n="f"/></l><r>בולטון<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Brażil<s n="np"/><s n="top"/><s n="f"/></l><r>ברלין<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Bromwich<s n="np"/><s n="top"/><s n="f"/></l><r>ברומוויץ'<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Coventry<s n="np"/><s n="top"/><s n="f"/></l><r>קובנטרי<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Frankfurt<s n="np"/><s n="top"/><s n="f"/></l><r>פרנקפורט<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Fulham<s n="np"/><s n="top"/><s n="f"/></l><r>פולהאם<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Ġappun<s n="np"/><s n="top"/><s n="f"/></l><r>יפן<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Kosovo<s n="np"/><s n="top"/><s n="f"/></l><r>קוסובו<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Leeds<s n="np"/><s n="top"/><s n="f"/></l><r>לידס<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Liverpool<s n="np"/><s n="top"/><s n="f"/></l><r>ליברפול<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Madrid<s n="np"/><s n="top"/><s n="f"/></l><r>מדריד<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Manchester<s n="np"/><s n="top"/><s n="f"/></l><r>מנצ'סטר<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Marsaxlokk<s n="np"/><s n="top"/><s n="f"/></l><r>מרסקסלוק<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Messiku<s n="np"/><s n="top"/><s n="f"/></l><r>מקסיקו<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Montenegro<s n="np"/><s n="top"/><s n="f"/></l><r>מונטנגרו<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Munich<s n="np"/><s n="top"/><s n="f"/></l><r>מינכן<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Sheffield<s n="np"/><s n="top"/><s n="f"/></l><r>שפילד<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Stamford<s n="np"/><s n="top"/><s n="f"/></l><r>סטאמפורטד<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Tottenham<s n="np"/><s n="top"/><s n="f"/></l><r>טוטנהאם<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Vatikan<s n="np"/><s n="top"/><s n="f"/></l><r>ותיקן<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>York<s n="np"/><s n="top"/><s n="f"/></l><r>יורק<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+      <e><p><l>Olimpjadi<s n="np"/><s n="top"/><s n="m"/></l><r>אולימפיאדה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
 
      <!-- SECTION: Adjectives -->
      
@@ -243,7 +292,7 @@
      <e><p><l>elettroniku<s n="adj"/></l><r>אלקטרוני<s n="adj"/></r></p></e>
      <e><p><l>pposedut<s n="adj"/></l><r>שייך<s n="adj"/></r></p></e>
      <e><p><l>uman<s n="adj"/></l><r>אנושי<s n="adj"/></r></p></e>
-     <e><p><l>terroristiku<s n="adj"/></l><r>טררוריסטי<s n="adj"/></r></p></e>
+     <e><p><l>terroristiku<s n="adj"/></l><r>טרוריסטי<s n="adj"/></r></p></e>
      <e><p><l>vjolent<s n="adj"/></l><r>אלים<s n="adj"/></r></p></e>
      
      <e><p><l>Tibetan<s n="adj"/></l><r>טיבטי<s n="adj"/></r></p></e>
