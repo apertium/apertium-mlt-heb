@@ -54,17 +54,17 @@ while c: #{
 
 os.remove(TEMPDIR + mode + '.gentest.raw');
 
-#command = 'cat ' + TEMPDIR + mode + '.gentest.transfer | sort -f | uniq -c | sort -gr > ' + TEMPDIR + mode + '.gentest.stripped'; 
-#commands.getstatusoutput(command);
+command = 'cat ' + TEMPDIR + mode + '.gentest.transfer | sort -f | uniq -c | sort -gr > ' + TEMPDIR + mode + '.gentest.stripped'; 
+commands.getstatusoutput(command);
 
-#command = 'cat ' + TEMPDIR + mode + '.gentest.stripped | lt-proc -d ../' + mode + '.autogen.bin > ' + TEMPDIR + mode + '.gentest.surface';
-#commands.getstatusoutput(command);
+command = 'cat ' + TEMPDIR + mode + '.gentest.stripped | lt-proc -d ../' + mode + '.autogen.bin > ' + TEMPDIR + mode + '.gentest.surface';
+commands.getstatusoutput(command);
 
-#command = 'cat ' + TEMPDIR + mode + '.gentest.stripped | sed "s/^ *[0-9]* \^/^/g" > ' + TEMPDIR + mode + '.gentest.nofreq';
-#commands.getstatusoutput(command);
+command = 'cat ' + TEMPDIR + mode + '.gentest.stripped | sed "s/^ *[0-9]* \^/^/g" > ' + TEMPDIR + mode + '.gentest.nofreq';
+commands.getstatusoutput(command);
 
-#command = 'paste ' + TEMPDIR + mode + '.gentest.surface ' + TEMPDIR + mode + '.gentest.nofreq > ' + TEMPDIR + mode + '.generation.errors.txt';
-#commands.getstatusoutput(command);
+command = 'paste ' + TEMPDIR + mode + '.gentest.surface ' + TEMPDIR + mode + '.gentest.nofreq > ' + TEMPDIR + mode + '.generation.errors.txt';
+commands.getstatusoutput(command);
 
 command = 'cat ' + TEMPDIR + mode + '.generation.errors.txt | grep -v "#" | grep "\/" > ' + TEMPDIR + mode + '.multiform';
 commands.getstatusoutput(command);
