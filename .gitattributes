@@ -14,6 +14,7 @@
 dev/bidix-verbs-to-he.dix.sh -text
 dev/dout.nouns.shemp.dix -text
 dev/dout.nouns.wolig.dix -text
+dev/generation-summary.mt-he.txt -text
 dev/generation-test.py -text
 dev/he-cnjcoo -text
 dev/he-cnjcoo.out -text
