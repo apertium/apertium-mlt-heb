@@ -256,16 +256,60 @@
      <e><p><l>anki<s n="adv"/></l><r>אפילו<s n="adv"/></r></p></e>
 
      <!-- SECTION: Verbs -->
+       <!-- Generated on: 2011-06-22 15:13 IDT -->
+       <e><p><l>kiteb<s n="vblex"/></l><r>כתב<s n="vblex"/></r></p></e>
+       <e><p><l>rikeb<s n="vblex"/></l><r>רכב<s n="vblex"/></r></p></e>
+       <e><p><l>kiser<s n="vblex"/></l><r>שבר<s n="vblex"/></r></p></e>
+       <e><p><l>żifen<s n="vblex"/></l><r>רקד<s n="vblex"/></r></p></e>
+       <e><p><l>qasam<s n="vblex"/></l><r>חילק<s n="vblex"/></r></p></e>
+       <e><p><l>ħataf<s n="vblex"/></l><r>תפס<s n="vblex"/></r></p></e>
+       <e><p><l>ħaraq<s n="vblex"/></l><r>שרף<s n="vblex"/></r></p></e>
+       <e><p><l>kisser<s n="vblex"/></l><r>ניפץ<s n="vblex"/></r></p></e>
+       <e><p><l>talab<s n="vblex"/></l><r>שאל<s n="vblex"/></r></p></e>
+       <e><p><l>ħanaq<s n="vblex"/></l><r>חנק<s n="vblex"/></r></p></e>
+       <e><p><l>ħadem<s n="vblex"/></l><r>עבד<s n="vblex"/></r></p></e>
+       <e><p><l>għamel<s n="vblex"/></l><r>עשה<s n="vblex"/></r></p></e>
+       <e><p><l>fetaħ<s n="vblex"/></l><r>פתח<s n="vblex"/></r></p></e>
+       <e><p><l>qala'<s n="vblex"/></l><r>הרוויח<s n="vblex"/></r></p></e>
+       <e><p><l>qata'<s n="vblex"/></l><r>גזר<s n="vblex"/></r></p></e>
+       <e><p><l>qarmeċ<s n="vblex"/></l><r>מת<s n="vblex"/></r></p></e>
+       <e><p><l>kanta<s n="vblex"/></l><r>שר<s n="vblex"/></r></p></e>
+       <e><p><l>ammira<s n="vblex"/></l><r>העריץ<s n="vblex"/></r></p></e>
+       <e><p><l>stimula<s n="vblex"/></l><r>גירה<s n="vblex"/></r></p></e>
+       <e><p><l>ipparteċipa<s n="vblex"/></l><r>השתתף<s n="vblex"/></r></p></e>
+       <e><p><l>ippenetra<s n="vblex"/></l><r>חדר<s n="vblex"/></r></p></e>
+       <e><p><l>ivvjola<s n="vblex"/></l><r>חילל<s n="vblex"/></r></p></e>
+       <e><p><l>indika<s n="vblex"/></l><r>הצביע<s n="vblex"/></r></p></e>
+       <e><p><l>eżerċita<s n="vblex"/></l><r>תרגל<s n="vblex"/></r></p></e>
+       <e><p><l>ipprova<s n="vblex"/></l><r>ניסה<s n="vblex"/></r></p></e>
+       <e><p><l>esperjenza<s n="vblex"/></l><r>התנסה<s n="vblex"/></r></p></e>
+       <e><p><l>iddeċide<s n="vblex"/></l><r>החליט<s n="vblex"/></r></p></e>
+       <e><p><l>ordna<s n="vblex"/></l><r>סידר<s n="vblex"/></r></p></e>
+       <e><p><l>falla<s n="vblex"/></l><r>נפקד<s n="vblex"/></r></p></e>
+       <e><p><l>iddeskriva<s n="vblex"/></l><r>תיאר<s n="vblex"/></r></p></e>
+       <e><p><l>aggredixxa<s n="vblex"/></l><r>תקף<s n="vblex"/></r></p></e>
+       <e><p><l>irrisponda<s n="vblex"/></l><r>הגיב<s n="vblex"/></r></p></e>
+       <e><p><l>ittraduċa<s n="vblex"/></l><r>תרגם<s n="vblex"/></r></p></e>
+       <e><p><l>irreaġixxa<s n="vblex"/></l><r>הגיב<s n="vblex"/></r></p></e>
+       <e><p><l>ipprojbixxa<s n="vblex"/></l><r>אסר<s n="vblex"/></r></p></e>
+       <e><p><l>ippromwova<s n="vblex"/></l><r>קידם<s n="vblex"/></r></p></e>
+       <e><p><l>inkluda<s n="vblex"/></l><r>כלל<s n="vblex"/></r></p></e>
+       <e><p><l>espressa<s n="vblex"/></l><r>הביע<s n="vblex"/></r></p></e>
+       <e><p><l>aġġastja<s n="vblex"/></l><r>התאים<s n="vblex"/></r></p></e>
+       <e><p><l>iddawnlowdja<s n="vblex"/></l><r>הוריד<s n="vblex"/></r></p></e>
+       <e><p><l>infurza<s n="vblex"/></l><r>אכף<s n="vblex"/></r></p></e>
+       <e><p><l>vjola<s n="vblex"/></l><r>הפר<s n="vblex"/></r></p></e>
+       <e><p><l>vvjola<s n="vblex"/></l><r>הפר<s n="vblex"/></r></p></e>
+       <e><p><l>ikklassifika<s n="vblex"/></l><r><s n="vblex"/></r></p></e>
+       <e><p><l>ra<s n="vblex"/></l><r>ראה<s n="vblex"/></r></p></e>
+       <e><p><l>qal<s n="vblex"/></l><r>אמר<s n="vblex"/></r></p></e>
+       <e><p><l>gie<s n="vblex"/></l><r>בא<s n="vblex"/></r></p></e>
+       <e><p><l>ta<s n="vblex"/></l><r>נתן<s n="vblex"/></r></p></e>
+       <e><p><l>ħa<s n="vblex"/></l><r>לקח<s n="vblex"/></r></p></e>
+       <e><p><l>kien<s n="vblex"/></l><r>היה<s n="vblex"/></r></p></e>
+     <!-- END SECTION -->
 
-     <e><p><l>kien<s n="vaux"/></l><r>היה<s n="vblex"/></r></p></e>
-     <e><p><l>ara<s n="vblex"/></l><r>ראה<s n="vblex"/></r></p></e>
-     <e><p><l>kiteb<s n="vblex"/></l><r>כתב<s n="vblex"/></r></p></e>
-     <e><p><l>iddeċide<s n="vblex"/></l><r>החליט<s n="vblex"/></r></p></e>
-     <e><p><l>espressa<s n="vblex"/></l><r>הביע<s n="vblex"/></r></p></e>
-     <e><p><l>vvjola<s n="vblex"/></l><r>הפר<s n="vblex"/></r></p></e>
-     <e><p><l>infurza<s n="vblex"/></l><r>אכף<s n="vblex"/></r></p></e>
-     <e><p><l>ordna<s n="vblex"/></l><r>סידר<s n="vblex"/></r></p></e>
-     <e><p><l>ħadem<s n="vblex"/></l><r>עבד<s n="vblex"/></r></p></e>
+
 
    </section>
 </dictionary>
