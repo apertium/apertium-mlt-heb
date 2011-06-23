@@ -818,6 +818,7 @@
     <e lm="Tottenham"><i>Tottenham</i><par n="Tibet__np"/></e>
     <e lm="Vatikan"><i>Vatikan</i><par n="Tibet__np"/></e>
     <e lm="York"><i>York</i><par n="Tibet__np"/></e>
+    <e lm="Ekwador"><i>Ekwador</i><par n="Tibet__np"/></e>
 
     <e lm="Marie"><i>Marie</i><par n="Marija__np"/></e>
     <e lm="Marija"><i>Marija</i><par n="Marija__np"/></e>
@@ -1161,6 +1162,30 @@
     <e lm="internazzjonalment"><i>internazzjonalment</i><par n="immedjatament__adv"/></e>
     <e lm="tradizzjonalment"><i>tradizzjonalment</i><par n="immedjatament__adv"/></e>
     <e lm="totalment"><i>totalment</i><par n="immedjatament__adv"/></e>
+    <e lm="attwalment"><i>attwalment</i><par n="immedjatament__adv"/></e>
+    <e lm="esklużivament"><i>esklużivament</i><par n="immedjatament__adv"/></e>
+    <e lm="eventwalment"><i>eventwalment</i><par n="immedjatament__adv"/></e>
+    <e lm="faċilment"><i>faċilment</i><par n="immedjatament__adv"/></e>
+    <e lm="ġeneralment"><i>ġeneralment</i><par n="immedjatament__adv"/></e>
+    <e lm="indipendentement"><i>indipendentement</i><par n="immedjatament__adv"/></e>
+    <e lm="kompletament"><i>kompletament</i><par n="immedjatament__adv"/></e>
+    <e lm="lokalment"><i>lokalment</i><par n="immedjatament__adv"/></e>
+    <e lm="normalment"><i>normalment</i><par n="immedjatament__adv"/></e>
+    <e lm="parzjalment"><i>parzjalment</i><par n="immedjatament__adv"/></e>
+    <e lm="possibilment"><i>possibilment</i><par n="immedjatament__adv"/></e>
+    <e lm="prinċipalment"><i>prinċipalment</i><par n="immedjatament__adv"/></e>
+    <e lm="speċjalment"><i>speċjalment</i><par n="immedjatament__adv"/></e>
+    <e lm="storikament"><i>storikament</i><par n="immedjatament__adv"/></e>
+    <e lm="suċċessivament"><i>suċċessivament</i><par n="immedjatament__adv"/></e>
+    <e lm="uffiċjalment"><i>uffiċjalment</i><par n="immedjatament__adv"/></e>
+    <e lm="xjentifikament"><i>xjentifikament</i><par n="immedjatament__adv"/></e>
+
+
+    <e lm="probabbilment"><i>probabbilment</i><par n="immedjatament__adv"/></e>
+    <e lm="probabilment" r="LR"><p><l>probabilment</l><r>probabbilment</r></p><par n="immedjatament__adv"/></e> 
+    <e lm="probbabilment" r="LR"><p><l>probbabilment</l><r>probabbilment</r></p><par n="immedjatament__adv"/></e>
+
+
     <e lm="anki"><i>anki</i><par n="immedjatament__adv"/></e>
 
   </section>
