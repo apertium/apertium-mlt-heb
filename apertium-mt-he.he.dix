@@ -6131,6 +6131,8 @@
       <e><p>          <l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="cons"/></r></p><par n="שק__n_px"/></e>
       <e><p>          <l>ת</l><r><s n="n"/><s n="f"/><s n="sg"/></r></p><par n="שק__n_px"/></e>
       <e><p>          <l>ת</l><r><s n="n"/><s n="f"/><s n="sg"/><s n="cons"/></r></p><par n="שק__n_px"/></e>
+      <e><p>          <l>ים</l><r><s n="n"/><s n="m"/><s n="pl"/></r></p><par n="שק__n_px"/></e>
+      <e><p>          <l>י</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="cons"/></r></p><par n="שק__n_px"/></e>
       <e><p>          <l>ות</l><r><s n="n"/><s n="f"/><s n="pl"/></r></p><par n="שק__n_px"/></e>
       <e><p>          <l>ות</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="cons"/></r></p><par n="שק__n_px"/></e>
     </pardef>
