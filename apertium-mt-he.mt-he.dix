@@ -40,6 +40,13 @@
    </sdefs>
 
    <pardefs>
+     <pardef n="mf_m_f">
+       <e r="LR"><p><l><s n="mf"/></l><r><s n="GD"/></r></p></e>
+       <e r="RL"><p><l><s n="mf"/></l><r><s n="m"/></r></p></e>
+       <e r="RL"><p><l><s n="mf"/></l><r><s n="f"/></r></p></e>
+     </pardef>
+
+
      <pardef n="mf_pl_m_f_pl">
        <e><p><l><s n="m"/><s n="sg"/></l><r><s n="m"/><s n="sg"/></r></p></e>
        <e><p><l><s n="f"/><s n="sg"/></l><r><s n="f"/><s n="sg"/></r></p></e>
@@ -47,13 +54,7 @@
        <e r="RL"><p><l><s n="mf"/><s n="pl"/></l><r><s n="m"/><s n="pl"/></r></p></e>
        <e r="RL"><p><l><s n="mf"/><s n="pl"/></l><r><s n="f"/><s n="pl"/></r></p></e>
      </pardef>
-     <pardef n="mf_pl_m_f_sg"> <!-- for maltese barran_adj -->
-       <e><p><l><s n="m"/><s n="sg"/></l><r><s n="m"/><s n="sg"/></r></p></e>
-       <e><p><l><s n="f"/><s n="sg"/></l><r><s n="f"/><s n="sg"/></r></p></e>
-       <e r="LR"><p><l><s n="mf"/><s n="sg"/></l><r><s n="GD"/><s n="sg"/></r></p></e>
-       <e r="RL"><p><l><s n="mf"/><s n="sg"/></l><r><s n="m"/><s n="sg"/></r></p></e>
-       <e r="RL"><p><l><s n="mf"/><s n="sg"/></l><r><s n="f"/><s n="sg"/></r></p></e>
-     </pardef>
+
    </pardefs>  
    <section id="main" type="standard">
      
@@ -425,7 +426,7 @@
      <e><p><l>Tajlandiż<s n="adj"/></l><r>תאילנדי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>Tibetan<s n="adj"/></l><r>טיבטי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
 
-     <e><p><l>barran<s n="adj"/></l><r>זר<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/><par n="mf_pl_m_f_sg"/></e>
+     <e><p><l>barran<s n="adj"/></l><r>זר<s n="adj"/></r></p><par n="mf_m_f"/></e>
     
      <!-- SECTION: Adverbs -->
 
