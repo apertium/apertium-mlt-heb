@@ -1,3 +1,9 @@
+if [ $# -ne 2 ]; then
+    echo "Usage: $0 inconsistency direction"
+    echo "e.g. $0 inconsistency.txt mt-he"
+    echo "where inconsistency.txt is the output of dev/mt-he.inconsistency.sh"
+    exit 1
+fi
 INC=$1
 PAIR=$2
 OUT=testvoc-summary.$PAIR.txt
