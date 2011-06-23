@@ -11,6 +11,7 @@
      <sdef n="rel"/>
      <sdef n="cnjsub"/>
      <sdef n="det"/>
+     <sdef n="dem"/>
      <sdef n="cnjcoo"/>
      <sdef n="adv"/>
      <sdef n="adj"/>
@@ -20,6 +21,7 @@
 
      <sdef n="m"/>
      <sdef n="f"/>
+     <sdef n="mf"/>
      <sdef n="nt"/>
 
      <sdef n="p1"/>
@@ -124,8 +126,10 @@
      <!-- SECTION: Determiners -->
 
      <e><p><l>l<s n="det"/><s n="def"/></l><r>ה<s n="det"/><s n="def"/></r></p></e>
-     <e><p><l>dan<s n="det"/><s n="sg"/></l><r>זה<s n="det"/><s n="sg"/></r></p></e>
-     <e><p><l>dan<s n="det"/><s n="pl"/></l><r>אלה<s n="det"/><s n="pl"/></r></p></e>
+     <!-- TODO: check tags on the hebrew side -->
+     <e><p><l>dan<s n="det"/><s n="dem"/><s n="m"/><s n="sg"/></l><r>זה<s n="det"/><s n="sg"/></r></p></e>
+     <e><p><l>dan<s n="det"/><s n="dem"/><s n="f"/><s n="sg"/></l><r>זה<s n="det"/><s n="sg"/></r></p></e>
+     <e><p><l>dan<s n="det"/><s n="dem"/><s n="mf"/><s n="pl"/></l><r>אלה<s n="det"/><s n="pl"/></r></p></e>
 
      <!-- SECTION: Numerals -->
      
