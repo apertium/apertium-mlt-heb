@@ -35,6 +35,8 @@
      </def-attr>
     <def-attr n="pers">
        <attr-item tags="p1"/>
+       <attr-item tags="p2"/>
+       <attr-item tags="p3"/>
     </def-attr>
     <def-attr n="a_verb">
        <attr-item tags="vblex"/>
@@ -88,6 +90,14 @@
          <pattern-item n="vrb"/>
        </pattern>
        <action>
+         <choose><when c="Hebrew present tense verbs have no person distinction">
+           <test><equal>
+             <clip pos="1" side="tl" part="temps"/><lit-tag v="pres"/>
+           </equal></test>
+           <let>
+             <clip pos="1" side="tl" part="pers"/><lit v=""/>
+           </let>
+         </when></choose>
          <out>
            <lu>
              <clip pos="1" side="tl" part="lem"/>
