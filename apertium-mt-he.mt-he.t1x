@@ -8,6 +8,9 @@
     <def-cat n="nom">
       <cat-item tags="n.*"/>
     </def-cat>
+    <def-cat n="adj">
+      <cat-item tags="adj.*"/>
+    </def-cat>
     <def-cat n="vrb">
       <cat-item tags="vblex.*"/>
     </def-cat>
@@ -17,11 +20,16 @@
        <attr-item tags="m"/>
        <attr-item tags="f"/>
        <attr-item tags="mf"/>
+       <attr-item tags="GD"/>
     </def-attr>
     <def-attr n="nbr">
        <attr-item tags="sg"/>
        <attr-item tags="pl"/>
        <attr-item tags="sp"/>
+       <attr-item tags="ND"/>
+    </def-attr>
+    <def-attr n="a_adj">
+       <attr-item tags="adj"/>
     </def-attr>
     <def-attr n="a_nom">
        <attr-item tags="n"/>
@@ -43,9 +51,131 @@
     </def-attr>
   </section-def-attrs>
   <section-def-vars>
-    <def-var n="number"/>
+    <def-var n="numero"/>
+    <def-var n="genero"/>
   </section-def-vars>
+  <section-def-macros>
+    <def-macro n="f_concord1" npar="1">
+      
+      <choose><!--To determine value of variables of gender and
+		  number and propagate to other rules.  Variables are
+		  not used again in this rule -->
+	<when> 
+	  <test>
+	    <equal>
+	      <clip pos="1" side="tl" part="gen"/>
+	      <lit-tag v="m"/>
+	    </equal>
+	  </test>
+	  <let><var n="genero"/><lit-tag v="m"/></let>
+	</when>
+	<when>
+	  <test>
+	    <equal>
+	      <clip pos="1" side="tl" part="gen"/>
+	      <lit-tag v="f"/>
+	    </equal>
+	  </test>
+	  <let><var n="genero"/><lit-tag v="f"/></let>
+	</when>
+      </choose> 
+      <choose>
+	<when> 
+	  <test>
+	    <equal>
+	      <clip pos="1" side="tl" part="nbr"/>
+	      <lit-tag v="sg"/>
+	    </equal>
+	  </test>
+	  <let><var n="numero"/><lit-tag v="sg"/></let>
+	</when>
+	<when> 
+	  <test>
+	    <equal>
+	      <clip pos="1" side="tl" part="nbr"/>
+	      <lit-tag v="pl"/>
+	    </equal>
+	  </test>
+	  <let><var n="numero"/><lit-tag v="pl"/></let>
+	</when>
+      </choose>
+      <choose>
+	<when>
+	  <test> <!-- If word has GD or ND, we try to assign the
+		      gender or number of the previous rule. If there is no
+		      value for the gender or number variable from previous
+		      rules, gender will be masculine and number singular.-->
+	    <equal>
+	      <clip pos="1" side="tl" part="gen"/>
+	      <lit-tag v="GD"/>
+	    </equal>
+	  </test>
+	  <choose> 
+	    <when>
+	      <test>
+		<equal>
+		  <var n="genero"/>
+		  <lit-tag v="f"/>
+		</equal>
+	      </test>
+	      <let><clip pos="1" side="tl" part="gen"/><lit-tag v="f"/></let>
+	    </when>
+	    <otherwise>
+	      <let><clip pos="1" side="tl" part="gen"/><lit-tag v="m"/></let>
+	    </otherwise>
+	  </choose>
+	</when>
+      </choose>
+      <choose>
+	<when>
+	  <test> 
+	    <equal>
+	      <clip pos="1" side="tl" part="nbr"/>
+	      <lit-tag v="ND"/>
+	    </equal>
+	  </test>
+	  <choose> 
+	    <when>
+	      <test>
+		<equal>
+		  <var n="numero"/>
+		  <lit-tag v="pl"/>
+		</equal>
+	      </test>
+	      <let><clip pos="1" side="tl" part="nbr"/><lit-tag v="pl"/></let>                   
+	    </when>
+	    <otherwise>
+	      <let><clip pos="1" side="tl" part="nbr"/><lit-tag v="sg"/></let>
+	    </otherwise>
+	  </choose>
+	</when>
+      </choose>    
+    </def-macro>
+
+  </section-def-macros>
   <section-rules>
+    <rule comment="rule: adj">
+       <pattern>
+         <pattern-item n="adj"/>
+       </pattern>
+       <action>
+         <call-macro n="f_concord1">
+           <with-param pos="1"/>
+         </call-macro>
+         <out>
+           <lu>
+             <clip pos="1" side="tl" part="lemh"/>
+             <clip pos="1" side="tl" part="a_adj"/>
+             <clip pos="1" side="tl" part="grau"/>
+             <clip pos="1" side="tl" part="gen"/>
+             <clip pos="1" side="tl" part="nbr"/>
+             <clip pos="1" side="tl" part="lemq"/>
+           </lu>
+         </out>
+       </action>
+    </rule>
+
+
     <rule comment="rule: nom">
        <pattern>
          <pattern-item n="nom"/>

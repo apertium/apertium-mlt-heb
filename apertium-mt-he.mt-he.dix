@@ -33,10 +33,21 @@
      <sdef n="top"/>
      <sdef n="num"/>
 
+     <sdef n="GD"/>
+
      <sdef n="cm"          c="Comma"/>
      <sdef n="sent"        c="Sentence marker"/>
    </sdefs>
 
+   <pardefs>
+     <pardef n="mf_pl_m_f_pl">
+       <e><p><l><s n="m"/><s n="sg"/></l><r><s n="m"/><s n="sg"/></r></p></e>
+       <e><p><l><s n="f"/><s n="sg"/></l><r><s n="f"/><s n="sg"/></r></p></e>
+       <e r="LR"><p><l><s n="mf"/><s n="pl"/></l><r><s n="GD"/><s n="pl"/></r></p></e>
+       <e r="RL"><p><l><s n="mf"/><s n="pl"/></l><r><s n="m"/><s n="pl"/></r></p></e>
+       <e r="RL"><p><l><s n="mf"/><s n="pl"/></l><r><s n="f"/><s n="pl"/></r></p></e>
+     </pardef>
+   </pardefs>  
    <section id="main" type="standard">
      
      <!-- SECTION: Punctuation -->
@@ -290,7 +301,7 @@
      <e><p><l>elettroniku<s n="adj"/></l><r>אלקטרוני<s n="adj"/></r></p></e>
      <e><p><l>uniku<s n="adj"/></l><r>יחודי<s n="adj"/></r></p></e>
      <e><p><l>semitiku<s n="adj"/></l><r>שמי<s n="adj"/></r></p></e>
-     <e><p><l>terroristiku<s n="adj"/></l><r>טרוריסטי<s n="adj"/></r></p></e>
+     <e><p><l>terroristiku<s n="adj"/></l><r>טרוריסטי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>kritiku<s n="adj"/></l><r>קריטי<s n="adj"/></r></p></e>
      <e><p><l>sovjetiku<s n="adj"/></l><r>סובייטי<s n="adj"/></r></p></e>
      <e><p><l>olimpiku<s n="adj"/></l><r>אולימפי<s n="adj"/></r></p></e>
