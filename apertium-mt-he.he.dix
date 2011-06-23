@@ -47,6 +47,8 @@
     <sdef n="ind"         c="Indefinite"/>
     <sdef n="pos"         c="Possesive"/>
     <sdef n="num"         c="Numeral"/>
+    <sdef n="adv"         c="Adverb"/>
+    <sdef n="adj"         c="Adjective"/>
     <sdef n="cnjcoo"      c="Co-ordinating conjunction"/>
     <sdef n="cnjsub"      c="Sub-ordinating conjunction"/>
 
@@ -6208,8 +6210,60 @@
       <e><p>          <l>יות</l><r>ה<s n="n"/><s n="f"/><s n="pl"/><s n="cons"/></r></p><par n="שק__n_px"/></e>
     </pardef>
     
+    <!-- SECTION: Proper nouns -->
+    
     <pardef n="סין__np">
       <e><p><l></l><r><s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
+    </pardef>
+    
+    <!-- SECTION: Adjectives -->
+    
+    <pardef n="שמי__adj">
+      <e><p><l></l><r><s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>ת</l><r><s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>ים</l><r><s n="adj"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p><l>ות</l><r><s n="adj"/><s n="f"/><s n="pl"/></r></p></e>
+    </pardef>
+
+    <pardef n="זר__adj">
+      <e><p><l></l><r><s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>ה</l><r><s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>ים</l><r><s n="adj"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p><l>ות</l><r><s n="adj"/><s n="f"/><s n="pl"/></r></p></e>
+    </pardef>
+
+    <pardef n="שיי/ך__adj">
+      <e><p><l>ך</l><r>ך<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>כת</l><r>ך<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>כים</l><r>ך<s n="adj"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p><l>כות</l><r>ך<s n="adj"/><s n="f"/><s n="pl"/></r></p></e>
+    </pardef>
+
+    <pardef n="אלי/ם__adj">
+      <e><p><l>ם</l><r>ם<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>מה</l><r>ם<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>מים</l><r>ם<s n="adj"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p><l>מות</l><r>ם<s n="adj"/><s n="f"/><s n="pl"/></r></p></e>
+    </pardef>
+    
+    <pardef n="זהה__adj">
+      <e><p><l></l><r><s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e><p><l>ים</l><r><s n="adj"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p><l>ות</l><r><s n="adj"/><s n="f"/><s n="pl"/></r></p></e>
+    </pardef>
+    
+    <pardef n="מפורס/ם__adj">
+      <e><p><l>ם</l><r>ם<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>מת</l><r>ם<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>מים</l><r>ם<s n="adj"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p><l>מות</l><r>ם<s n="adj"/><s n="f"/><s n="pl"/></r></p></e>
+    </pardef>
+    
+    <pardef n="נטע/ן__adj">
+      <e><p><l>ן</l><r>ן<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>נת</l><r>ן<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>נים</l><r>ן<s n="adj"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p><l>נות</l><r>ן<s n="adj"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
     
   </pardefs>
@@ -18881,6 +18935,129 @@
     <e lm="יורק"><i>יורק</i><par n="סין__np"/></e>
     
     <e lm="אולימפיאדה"><i>אולימפיאדה</i><par n="סין__np"/></e>
+    
+    <!-- SECTION: Adjectives -->
+    <e lm="פוליטי"><i>פוליטי</i><par n="שמי__adj"/></e>
+    <e lm="אלקטרוני"><i>אלקטרוני</i><par n="שמי__adj"/></e>
+    <e lm="ייחודי"><i>ייחודי</i><par n="שמי__adj"/></e>
+    <e lm="שמי"><i>שמי</i><par n="שמי__adj"/></e>
+    <e lm="טרוריסטי"><i>טרוריסטי</i><par n="שמי__adj"/></e>
+    <e lm="קריטי"><i>קריטי</i><par n="שמי__adj"/></e>
+    <e lm="סובייטי"><i>סובייטי</i><par n="שמי__adj"/></e>
+    <e lm="אולימפי"><i>אולימפי</i><par n="שמי__adj"/></e>
+    <e lm="בריטי"><i>בריטי</i><par n="שמי__adj"/></e>
+    <e lm="מלודי"><i>מלודי</i><par n="שמי__adj"/></e>
+    <e lm="אנליטי"><i>אנליטי</i><par n="שמי__adj"/></e>
+    <e lm="ארטיסטי"><i>ארטיסטי</i><par n="שמי__adj"/></e>
+    <e lm="אסטרולוגי"><i>אסטרולוגי</i><par n="שמי__adj"/></e>
+    <e lm="אסטרונומי"><i>אסטרונומי</i><par n="שמי__adj"/></e>
+    <e lm="גרעיני"><i>גרעיני</i><par n="שמי__adj"/></e>
+    <e lm="אוטומטי"><i>אוטומטי</i><par n="שמי__adj"/></e>
+    <e lm="בסיסי"><i>בסיסי</i><par n="שמי__adj"/></e>
+    <e lm="מקראי"><i>מקראי</i><par n="שמי__adj"/></e>
+    <e lm="בוטני"><i>בוטני</i><par n="שמי__adj"/></e>
+    <e lm="דמוקרטי"><i>דמוקרטי</i><par n="שמי__adj"/></e>
+    <e lm="דיפלומטי"><i>דיפלומטי</i><par n="שמי__adj"/></e>
+    <e lm="ביתי"><i>ביתי</i><par n="שמי__adj"/></e>
+    <e lm="כלכלי"><i>כלכלי</i><par n="שמי__adj"/></e>
+    <e lm="אלסטי"><i>אלסטי</i><par n="שמי__adj"/></e>
+    <e lm="אנדמי"><i>אנדמי</i><par n="שמי__adj"/></e>
+    <e lm="פילוסופי"><i>פילוסופי</i><par n="שמי__adj"/></e>
+    <e lm="גופני"><i>גופני</i><par n="שמי__adj"/></e>
+    <e lm="כללי"><i>כללי</i><par n="שמי__adj"/></e>
+    <e lm="גנטי"><i>גנטי</i><par n="שמי__adj"/></e>
+    <e lm="גיאוגרפי"><i>גיאוגרפי</i><par n="שמי__adj"/></e>
+    <e lm="קתולי"><i>קתולי</i><par n="שמי__adj"/></e>
+    <e lm="כימי"><i>כימי</i><par n="שמי__adj"/></e>
+    <e lm="קלאסי"><i>קלאסי</i><par n="שמי__adj"/></e>
+    <e lm="אלסטי"><i>אלסטי</i><par n="שמי__adj"/></e>
+    <e lm="בלשני"><i>בלשני</i><par n="שמי__adj"/></e>
+    <e lm="מתמטי"><i>מתמטי</i><par n="שמי__adj"/></e>
+    <e lm="רפואי"><i>רפואי</i><par n="שמי__adj"/></e>
+    <e lm="פטריוטי"><i>פטריוטי</i><par n="שמי__adj"/></e>
+    <e lm="פואטי"><i>פואטי</i><par n="שמי__adj"/></e>
+    <e lm="ציבורי"><i>ציבורי</i><par n="שמי__adj"/></e>
+    <e lm="רומנטי"><i>רומנטי</i><par n="שמי__adj"/></e>
+    <e lm="ספציפי"><i>ספציפי</i><par n="שמי__adj"/></e>
+    <e lm="היסטורי"><i>היסטורי</i><par n="שמי__adj"/></e>
+    <e lm="מדעי"><i>מדעי</i><par n="שמי__adj"/></e>
+    <e lm="אלפביתי"><i>אלפביתי</i><par n="שמי__adj"/></e>
+    <e lm="אזרחי"><i>אזרחי</i><par n="שמי__adj"/></e>
+    <e lm="דינאמי"><i>דינאמי</i><par n="שמי__adj"/></e>
+    <e lm="דוגמטי"><i>דוגמטי</i><par n="שמי__adj"/></e>
+    <e lm="דרמטי"><i>דרמטי</i><par n="שמי__adj"/></e>
+    <e lm="דרסטי"><i>דרסטי</i><par n="שמי__adj"/></e>
+    <e lm="נוצרי"><i>נוצרי</i><par n="שמי__adj"/></e>
+    <e lm="אסתטי"><i>אסתטי</i><par n="שמי__adj"/></e>
+    <e lm="אתי"><i>אתי</i><par n="שמי__adj"/></e>
+    <e lm="אוונגליסטי"><i>אוונגליסטי</i><par n="שמי__adj"/></e>
+    <e lm="פנאטי"><i>פנאטי</i><par n="שמי__adj"/></e>
+    <e lm="עממי"><i>עממי</i><par n="שמי__adj"/></e>
+    <e lm="משפטי"><i>משפטי</i><par n="שמי__adj"/></e>
+    <e lm="עיתונאי"><i>עיתונאי</i><par n="שמי__adj"/></e>
+    <e lm="איסלמי"><i>איסלמי</i><par n="שמי__adj"/></e>
+    <e lm="קנוני"><i>קנוני</i><par n="שמי__adj"/></e>
+    <e lm="אופייני"><i>אופייני</i><par n="שמי__adj"/></e>
+    <e lm="קטסטרופי"><i>קטסטרופי</i><par n="שמי__adj"/></e>
+    <e lm="קטגורי"><i>קטגורי</i><par n="שמי__adj"/></e>
+    <e lm="לוגי"><i>לוגי</i><par n="שמי__adj"/></e>
+    <e lm="מעשי"><i>מעשי</i><par n="שמי__adj"/></e>
+    <e lm="פסיכולוגי"><i>פסיכולוגי</i><par n="שמי__adj"/></e>
+    <e lm="מציאותי"><i>מציאותי</i><par n="שמי__adj"/></e>
+    <e lm="הדדי"><i>הדדי</i><par n="שמי__adj"/></e>
+    <e lm="מערכתי"><i>מערכתי</i><par n="שמי__adj"/></e>
+    <e lm="אסטרטגי"><i>אסטרטגי</i><par n="שמי__adj"/></e>
+    <e lm="טקטי"><i>טקטי</i><par n="שמי__adj"/></e>
+    <e lm="טכני"><i>טכני</i><par n="שמי__adj"/></e>
+    <e lm="טראגי"><i>טראגי</i><par n="שמי__adj"/></e>
+    <e lm="תיירותי"><i>תיירותי</i><par n="שמי__adj"/></e>
+    <e lm="דתי"><i>דתי</i><par n="שמי__adj"/></e>
+    <e lm="שאפתני"><i>שאפתני</i><par n="שמי__adj"/></e>
+    <e lm="יוקרתי"><i>יוקרתי</i><par n="שמי__adj"/></e>
+    <e lm="תיאוקרטי"><i>תיאוקרטי</i><par n="שמי__adj"/></e>
+    <e lm="אנושי"><i>אנושי</i><par n="שמי__adj"/></e>
+    <e lm="מלומד"><i>מלומד</i><par n="שמי__adj"/></e>
+    <e lm="מפוקפק"><i>מפוקפק</i><par n="שמי__adj"/></e>
+    <e lm="כופר"><i>כופר</i><par n="שמי__adj"/></e>
+    <e lm="כולל"><i>כולל</i><par n="שמי__adj"/></e>
+    <e lm="לא כולל"><i>לא<b/>כולל</i><par n="שמי__adj"/></e>
+    
+    <e lm="רע"><i>רע</i><par n="זר__adj"/></e>
+    <e lm="אדיב"><i>אדיב</i><par n="זר__adj"/></e>
+    <e lm="זר"><i>זר</i><par n="זר__adj"/></e>
+    
+    <e lm="אלים"><i>אלי</i><par n="אלי/ם__adj"/></e>
+    
+    <e lm="זהה"><i>זהה</i><par n="זהה__adj"/></e>
+    <e lm="פורה"><i>פורה</i><par n="זהה__adj"/></e>
+    
+    <e lm="מפורסם"><i>מפורס</i><par n="מפורס/ם__adj"/></e>
+    
+    <e lm="נטען"><i>נטע</i><par n="נטע/ן__adj"/></e>
+    
+    <e lm="שייך"><i>שיי</i><par n="שיי/ך__adj"/></e>
+    <e lm="אתני"><i>אתני</i><par n="שמי__adj"/></e>
+    <e lm="אנגלי"><i>אנגלי</i><par n="שמי__adj"/></e>
+    <e lm="אלבני"><i>אלבני</i><par n="שמי__adj"/></e>
+    <e lm="בנגלי"><i>בנגלי</i><par n="שמי__adj"/></e>
+    <e lm="ברגמי"><i>ברגמי</i><par n="שמי__adj"/></e>
+    <e lm="בולוני"><i>בולוני</i><par n="שמי__adj"/></e>
+    <e lm="בולגרי"><i>בולגרי</i><par n="שמי__adj"/></e>
+    <e lm="סיני"><i>סיני</i><par n="שמי__adj"/></e>
+    <e lm="דני"><i>דני</i><par n="שמי__adj"/></e>
+    <e lm="פינלנדי"><i>פינלנדי</i><par n="שמי__adj"/></e>
+    <e lm="צרפתי"><i>צרפתי</i><par n="שמי__adj"/></e>
+    <e lm="פלוריאני"><i>פלוריאני</i><par n="שמי__adj"/></e>
+    <e lm="גאלי"><i>גאלי</i><par n="שמי__adj"/></e>
+    <e lm="יפני"><i>יפני</i><par n="שמי__adj"/></e>
+    <e lm="גרמני"><i>גרמני</i><par n="שמי__adj"/></e>
+    <e lm="אירלנדי"><i>אירלנדי</i><par n="שמי__adj"/></e>
+    <e lm="קלברי"><i>קלברי</i><par n="שמי__adj"/></e>
+    <e lm="קנדי"><i>קנדי</i><par n="שמי__adj"/></e>
+    <e lm="הולנדי"><i>הולנדי</i><par n="שמי__adj"/></e>
+    <e lm="פורטוגזי"><i>פורטוגזי</i><par n="שמי__adj"/></e>
+    <e lm="תאילנדי"><i>תאילנדי</i><par n="שמי__adj"/></e>
+    <e lm="טיבטי"><i>טיבטי</i><par n="שמי__adj"/></e>
 
     <!-- SECTION: Verbs, converted from n0nick's modified hspell, see dev/hspell-to-dix.sh -->
 
