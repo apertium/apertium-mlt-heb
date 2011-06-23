@@ -19060,6 +19060,247 @@
     <e lm="טיבטי"><i>טיבטי</i><par n="שמי__adj"/></e>
 
     <!-- SECTION: Verbs, converted from n0nick's modified hspell, see dev/hspell-to-dix.sh -->
+    <!-- SECTION: Verbs, converted from n0nick's modified hspell, see dev/hspell-to-dix.sh -->
+
+<e lm="אכף"><p><l>אכף</l><r>אכף<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="אכף"><p><l>אכפתי</l><r>אכף<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="אכף"><p><l>אכפת</l><r>אכף<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="אכף"><p><l>אכפת</l><r>אכף<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="אכף"><p><l>אכפה</l><r>אכף<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="אכף"><p><l>אכפנו</l><r>אכף<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="אכף"><p><l>אכפתם</l><r>אכף<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="אכף"><p><l>אכפתן</l><r>אכף<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="אכף"><p><l>אכפו</l><r>אכף<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="אכף"><p><l>אכפו</l><r>אכף<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="אכף"><p><l>לאכוף</l><r>אכף<s n="vblex"/><s n="inf"/></r></p></e>
+<e lm="אכף"><p><l>אכוף</l><r>אכף<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="אכף"><p><l>אכפי</l><r>אכף<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="אכף"><p><l>אכפו</l><r>אכף<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="אכף"><p><l>אכופנה</l><r>אכף<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="אכף"><p><l>אאכוף</l><r>אכף<s n="vblex"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="אכף"><p><l>תאכוף</l><r>אכף<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="אכף"><p><l>תאכפי</l><r>אכף<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="אכף"><p><l>יאכוף</l><r>אכף<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="אכף"><p><l>תאכוף</l><r>אכף<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="אכף"><p><l>נאכוף</l><r>אכף<s n="vblex"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="אכף"><p><l>תאכפו</l><r>אכף<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="אכף"><p><l>תאכופנה</l><r>אכף<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="אכף"><p><l>יאכפו</l><r>אכף<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="אכף"><p><l>תאכופנה</l><r>אכף<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="אכף"><p><l>אוכף</l><r>אכף<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="m"/></r></p></e>
+<e lm="אכף"><p><l>אוכפת</l><r>אכף<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="f"/></r></p></e>
+<e lm="אכף"><p><l>אוכפים</l><r>אכף<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="m"/></r></p></e>
+<e lm="אכף"><p><l>אוכפות</l><r>אכף<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="f"/></r></p></e>
+
+<e lm="אמר"><p><l>אמר</l><r>אמר<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="אמר"><p><l>אמרתי</l><r>אמר<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="אמר"><p><l>אמרת</l><r>אמר<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="אמר"><p><l>אמרת</l><r>אמר<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="אמר"><p><l>אמרה</l><r>אמר<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="אמר"><p><l>אמרנו</l><r>אמר<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="אמר"><p><l>אמרתם</l><r>אמר<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="אמר"><p><l>אמרתן</l><r>אמר<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="אמר"><p><l>אמרו</l><r>אמר<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="אמר"><p><l>אמרו</l><r>אמר<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="אמר"><p><l>לאמור</l><r>אמר<s n="vblex"/><s n="inf"/></r></p></e>
+<e lm="אמר"><p><l>אמור</l><r>אמר<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="אמר"><p><l>אמרי</l><r>אמר<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="אמר"><p><l>אמרו</l><r>אמר<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="אמר"><p><l>אמורנה</l><r>אמר<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="אמר"><p><l>אומר</l><r>אמר<s n="vblex"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="אמר"><p><l>תאמר</l><r>אמר<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="אמר"><p><l>תאמרי</l><r>אמר<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="אמר"><p><l>יאמר</l><r>אמר<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="אמר"><p><l>תאמר</l><r>אמר<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="אמר"><p><l>נאמר</l><r>אמר<s n="vblex"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="אמר"><p><l>תאמרו</l><r>אמר<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="אמר"><p><l>תאמרנה</l><r>אמר<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="אמר"><p><l>יאמרו</l><r>אמר<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="אמר"><p><l>תאמרנה</l><r>אמר<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="אמר"><p><l>אומר</l><r>אמר<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="m"/></r></p></e>
+<e lm="אמר"><p><l>אומרת</l><r>אמר<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="f"/></r></p></e>
+<e lm="אמר"><p><l>אומרים</l><r>אמר<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="m"/></r></p></e>
+<e lm="אמר"><p><l>אומרות</l><r>אמר<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="f"/></r></p></e>
+
+<e lm="אסר"><p><l>אסר</l><r>אסר<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="אסר"><p><l>אסרתי</l><r>אסר<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="אסר"><p><l>אסרת</l><r>אסר<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="אסר"><p><l>אסרת</l><r>אסר<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="אסר"><p><l>אסרה</l><r>אסר<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="אסר"><p><l>אסרנו</l><r>אסר<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="אסר"><p><l>אסרתם</l><r>אסר<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="אסר"><p><l>אסרתן</l><r>אסר<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="אסר"><p><l>אסרו</l><r>אסר<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="אסר"><p><l>אסרו</l><r>אסר<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="אסר"><p><l>לאסור</l><r>אסר<s n="vblex"/><s n="inf"/></r></p></e>
+<e lm="אסר"><p><l>אסור</l><r>אסר<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="אסר"><p><l>אסרי</l><r>אסר<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="אסר"><p><l>אסרו</l><r>אסר<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="אסר"><p><l>אסורנה</l><r>אסר<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="אסר"><p><l>אאסור</l><r>אסר<s n="vblex"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="אסר"><p><l>תאסור</l><r>אסר<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="אסר"><p><l>תאסרי</l><r>אסר<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="אסר"><p><l>יאסור</l><r>אסר<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="אסר"><p><l>תאסור</l><r>אסר<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="אסר"><p><l>נאסור</l><r>אסר<s n="vblex"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="אסר"><p><l>תאסרו</l><r>אסר<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="אסר"><p><l>תאסורנה</l><r>אסר<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="אסר"><p><l>יאסרו</l><r>אסר<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="אסר"><p><l>תאסורנה</l><r>אסר<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="אסר"><p><l>אוסר</l><r>אסר<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="m"/></r></p></e>
+<e lm="אסר"><p><l>אוסרת</l><r>אסר<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="f"/></r></p></e>
+<e lm="אסר"><p><l>אוסרים</l><r>אסר<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="m"/></r></p></e>
+<e lm="אסר"><p><l>אוסרות</l><r>אסר<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="f"/></r></p></e>
+
+<e lm="בא"><p><l>בא</l><r>בא<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="בא"><p><l>באתי</l><r>בא<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="בא"><p><l>באת</l><r>בא<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="בא"><p><l>באת</l><r>בא<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="בא"><p><l>באה</l><r>בא<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="בא"><p><l>באנו</l><r>בא<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="בא"><p><l>באתם</l><r>בא<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="בא"><p><l>באתן</l><r>בא<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="בא"><p><l>באו</l><r>בא<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="בא"><p><l>באו</l><r>בא<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="בא"><p><l>לבוא</l><r>בא<s n="vblex"/><s n="inf"/></r></p></e>
+<e lm="בא"><p><l>בוא</l><r>בא<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="בא"><p><l>בואי</l><r>בא<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="בא"><p><l>בואו</l><r>בא<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="בא"><p><l>בואנה</l><r>בא<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="בא"><p><l>אבוא</l><r>בא<s n="vblex"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="בא"><p><l>תבוא</l><r>בא<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="בא"><p><l>תבואי</l><r>בא<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="בא"><p><l>יבוא</l><r>בא<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="בא"><p><l>תבוא</l><r>בא<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="בא"><p><l>נבוא</l><r>בא<s n="vblex"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="בא"><p><l>תבואו</l><r>בא<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="בא"><p><l>תבואנה</l><r>בא<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="בא"><p><l>יבואו</l><r>בא<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="בא"><p><l>תבואנה</l><r>בא<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="בא"><p><l>בא</l><r>בא<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="m"/></r></p></e>
+<e lm="בא"><p><l>באה</l><r>בא<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="f"/></r></p></e>
+<e lm="בא"><p><l>באים</l><r>בא<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="m"/></r></p></e>
+<e lm="בא"><p><l>באות</l><r>בא<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="f"/></r></p></e>
+
+<e lm="הגיב"><p><l>הגיב</l><r>הגיב<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="הגיב"><p><l>הגבתי</l><r>הגיב<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="הגיב"><p><l>הגבת</l><r>הגיב<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="הגיב"><p><l>הגבת</l><r>הגיב<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="הגיב"><p><l>הגיבה</l><r>הגיב<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="הגיב"><p><l>הגבנו</l><r>הגיב<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="הגיב"><p><l>הגבתם</l><r>הגיב<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="הגיב"><p><l>הגבתן</l><r>הגיב<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="הגיב"><p><l>הגיבו</l><r>הגיב<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="הגיב"><p><l>הגיבו</l><r>הגיב<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="הגיב"><p><l>להגיב</l><r>הגיב<s n="vblex"/><s n="inf"/></r></p></e>
+<e lm="הגיב"><p><l>הגב</l><r>הגיב<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="הגיב"><p><l>הגיבי</l><r>הגיב<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="הגיב"><p><l>הגיבו</l><r>הגיב<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="הגיב"><p><l>הגבנה</l><r>הגיב<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="הגיב"><p><l>אגיב</l><r>הגיב<s n="vblex"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="הגיב"><p><l>תגיב</l><r>הגיב<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="הגיב"><p><l>תגיבי</l><r>הגיב<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="הגיב"><p><l>יגיב</l><r>הגיב<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="הגיב"><p><l>תגיב</l><r>הגיב<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="הגיב"><p><l>נגיב</l><r>הגיב<s n="vblex"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="הגיב"><p><l>תגיבו</l><r>הגיב<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="הגיב"><p><l>תגבנה</l><r>הגיב<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="הגיב"><p><l>יגיבו</l><r>הגיב<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="הגיב"><p><l>תגבנה</l><r>הגיב<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="הגיב"><p><l>מגיב</l><r>הגיב<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="m"/></r></p></e>
+<e lm="הגיב"><p><l>מגיבה</l><r>הגיב<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="f"/></r></p></e>
+<e lm="הגיב"><p><l>מגיבים</l><r>הגיב<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="m"/></r></p></e>
+<e lm="הגיב"><p><l>מגיבות</l><r>הגיב<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="f"/></r></p></e>
+
+<e lm="גזר"><p><l>גזר</l><r>גזר<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="גזר"><p><l>גזרתי</l><r>גזר<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="גזר"><p><l>גזרת</l><r>גזר<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="גזר"><p><l>גזרת</l><r>גזר<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="גזר"><p><l>גזרה</l><r>גזר<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="גזר"><p><l>גזרנו</l><r>גזר<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="גזר"><p><l>גזרתם</l><r>גזר<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="גזר"><p><l>גזרתן</l><r>גזר<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="גזר"><p><l>גזרו</l><r>גזר<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="גזר"><p><l>גזרו</l><r>גזר<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="גזר"><p><l>לגזור</l><r>גזר<s n="vblex"/><s n="inf"/></r></p></e>
+<e lm="גזר"><p><l>גזור</l><r>גזר<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="גזר"><p><l>גזרי</l><r>גזר<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="גזר"><p><l>גזרו</l><r>גזר<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="גזר"><p><l>גזורנה</l><r>גזר<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="גזר"><p><l>אגזור</l><r>גזר<s n="vblex"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="גזר"><p><l>תגזור</l><r>גזר<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="גזר"><p><l>תגזרי</l><r>גזר<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="גזר"><p><l>יגזור</l><r>גזר<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="גזר"><p><l>תגזור</l><r>גזר<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="גזר"><p><l>נגזור</l><r>גזר<s n="vblex"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="גזר"><p><l>תגזרו</l><r>גזר<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="גזר"><p><l>תגזורנה</l><r>גזר<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="גזר"><p><l>יגזרו</l><r>גזר<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="גזר"><p><l>תגזורנה</l><r>גזר<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="גזר"><p><l>גוזר</l><r>גזר<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="m"/></r></p></e>
+<e lm="גזר"><p><l>גוזרת</l><r>גזר<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="f"/></r></p></e>
+<e lm="גזר"><p><l>גוזרים</l><r>גזר<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="m"/></r></p></e>
+<e lm="גזר"><p><l>גוזרות</l><r>גזר<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="f"/></r></p></e>
+
+<e lm="גירה"><p><l>גירה</l><r>גירה<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="גירה"><p><l>גיריתי</l><r>גירה<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="גירה"><p><l>גירית</l><r>גירה<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="גירה"><p><l>גירית</l><r>גירה<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="גירה"><p><l>גירתה</l><r>גירה<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="גירה"><p><l>גירינו</l><r>גירה<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="גירה"><p><l>גיריתם</l><r>גירה<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="גירה"><p><l>גיריתן</l><r>גירה<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="גירה"><p><l>גירו</l><r>גירה<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="גירה"><p><l>גירו</l><r>גירה<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="גירה"><p><l>לגרות</l><r>גירה<s n="vblex"/><s n="inf"/></r></p></e>
+<e lm="גירה"><p><l>גרה</l><r>גירה<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="גירה"><p><l>גרי</l><r>גירה<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="גירה"><p><l>גרו</l><r>גירה<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="גירה"><p><l>גרינה</l><r>גירה<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="גירה"><p><l>אגרה</l><r>גירה<s n="vblex"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="גירה"><p><l>תגרה</l><r>גירה<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="גירה"><p><l>תגרי</l><r>גירה<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="גירה"><p><l>יגרה</l><r>גירה<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="גירה"><p><l>תגרה</l><r>גירה<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="גירה"><p><l>נגרה</l><r>גירה<s n="vblex"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="גירה"><p><l>תגרו</l><r>גירה<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="גירה"><p><l>תגרינה</l><r>גירה<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="גירה"><p><l>יגרו</l><r>גירה<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="גירה"><p><l>תגרינה</l><r>גירה<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="גירה"><p><l>מגרה</l><r>גירה<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="m"/></r></p></e>
+<e lm="גירה"><p><l>מגרה</l><r>גירה<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="f"/></r></p></e>
+<e lm="גירה"><p><l>מגרים</l><r>גירה<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="m"/></r></p></e>
+<e lm="גירה"><p><l>מגרות</l><r>גירה<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="f"/></r></p></e>
+
+<e lm="חדר"><p><l>חדר</l><r>חדר<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="חדר"><p><l>חדרתי</l><r>חדר<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="חדר"><p><l>חדרת</l><r>חדר<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="חדר"><p><l>חדרת</l><r>חדר<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="חדר"><p><l>חדרה</l><r>חדר<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="חדר"><p><l>חדרנו</l><r>חדר<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="חדר"><p><l>חדרתם</l><r>חדר<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="חדר"><p><l>חדרתן</l><r>חדר<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="חדר"><p><l>חדרו</l><r>חדר<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="חדר"><p><l>חדרו</l><r>חדר<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="חדר"><p><l>לחדור</l><r>חדר<s n="vblex"/><s n="inf"/></r></p></e>
+<e lm="חדר"><p><l>חדור</l><r>חדר<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="חדר"><p><l>חדרי</l><r>חדר<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="חדר"><p><l>חדרו</l><r>חדר<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="חדר"><p><l>חדורנה</l><r>חדר<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="חדר"><p><l>אחדור</l><r>חדר<s n="vblex"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="חדר"><p><l>תחדור</l><r>חדר<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="חדר"><p><l>תחדרי</l><r>חדר<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="חדר"><p><l>יחדור</l><r>חדר<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="חדר"><p><l>תחדור</l><r>חדר<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="חדר"><p><l>נחדור</l><r>חדר<s n="vblex"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="חדר"><p><l>תחדרו</l><r>חדר<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="חדר"><p><l>תחדורנה</l><r>חדר<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="חדר"><p><l>יחדרו</l><r>חדר<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="חדר"><p><l>תחדורנה</l><r>חדר<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="חדר"><p><l>חודר</l><r>חדר<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="m"/></r></p></e>
+<e lm="חדר"><p><l>חודרת</l><r>חדר<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="f"/></r></p></e>
+<e lm="חדר"><p><l>חודרים</l><r>חדר<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="m"/></r></p></e>
+<e lm="חדר"><p><l>חודרות</l><r>חדר<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="f"/></r></p></e>
 
 <e lm="החליט"><p><l>החליט</l><r>החליט<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
 <e lm="החליט"><p><l>החלטתי</l><r>החליט<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
@@ -19091,6 +19332,185 @@
 <e lm="החליט"><p><l>מחליטים</l><r>החליט<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="m"/></r></p></e>
 <e lm="החליט"><p><l>מחליטות</l><r>החליט<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="f"/></r></p></e>
 
+<e lm="חילל"><p><l>חילל</l><r>חילל<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="חילל"><p><l>חיללתי</l><r>חילל<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="חילל"><p><l>חיללת</l><r>חילל<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="חילל"><p><l>חיללת</l><r>חילל<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="חילל"><p><l>חיללה</l><r>חילל<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="חילל"><p><l>חיללנו</l><r>חילל<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="חילל"><p><l>חיללתם</l><r>חילל<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="חילל"><p><l>חיללתן</l><r>חילל<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="חילל"><p><l>חיללו</l><r>חילל<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="חילל"><p><l>חיללו</l><r>חילל<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="חילל"><p><l>לחלל</l><r>חילל<s n="vblex"/><s n="inf"/></r></p></e>
+<e lm="חילל"><p><l>חלל</l><r>חילל<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="חילל"><p><l>חללי</l><r>חילל<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="חילל"><p><l>חללו</l><r>חילל<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="חילל"><p><l>חללנה</l><r>חילל<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="חילל"><p><l>אחלל</l><r>חילל<s n="vblex"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="חילל"><p><l>תחלל</l><r>חילל<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="חילל"><p><l>תחללי</l><r>חילל<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="חילל"><p><l>יחלל</l><r>חילל<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="חילל"><p><l>תחלל</l><r>חילל<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="חילל"><p><l>נחלל</l><r>חילל<s n="vblex"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="חילל"><p><l>תחללו</l><r>חילל<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="חילל"><p><l>תחללנה</l><r>חילל<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="חילל"><p><l>יחללו</l><r>חילל<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="חילל"><p><l>תחללנה</l><r>חילל<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="חילל"><p><l>מחלל</l><r>חילל<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="m"/></r></p></e>
+<e lm="חילל"><p><l>מחללת</l><r>חילל<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="f"/></r></p></e>
+<e lm="חילל"><p><l>מחללים</l><r>חילל<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="m"/></r></p></e>
+<e lm="חילל"><p><l>מחללות</l><r>חילל<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="f"/></r></p></e>
+
+<e lm="חילק"><p><l>חילק</l><r>חילק<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="חילק"><p><l>חילקתי</l><r>חילק<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="חילק"><p><l>חילקת</l><r>חילק<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="חילק"><p><l>חילקת</l><r>חילק<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="חילק"><p><l>חילקה</l><r>חילק<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="חילק"><p><l>חילקנו</l><r>חילק<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="חילק"><p><l>חילקתם</l><r>חילק<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="חילק"><p><l>חילקתן</l><r>חילק<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="חילק"><p><l>חילקו</l><r>חילק<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="חילק"><p><l>חילקו</l><r>חילק<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="חילק"><p><l>לחלק</l><r>חילק<s n="vblex"/><s n="inf"/></r></p></e>
+<e lm="חילק"><p><l>חלק</l><r>חילק<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="חילק"><p><l>חלקי</l><r>חילק<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="חילק"><p><l>חלקו</l><r>חילק<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="חילק"><p><l>חלקנה</l><r>חילק<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="חילק"><p><l>אחלק</l><r>חילק<s n="vblex"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="חילק"><p><l>תחלק</l><r>חילק<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="חילק"><p><l>תחלקי</l><r>חילק<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="חילק"><p><l>יחלק</l><r>חילק<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="חילק"><p><l>תחלק</l><r>חילק<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="חילק"><p><l>נחלק</l><r>חילק<s n="vblex"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="חילק"><p><l>תחלקו</l><r>חילק<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="חילק"><p><l>תחלקנה</l><r>חילק<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="חילק"><p><l>יחלקו</l><r>חילק<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="חילק"><p><l>תחלקנה</l><r>חילק<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="חילק"><p><l>מחלק</l><r>חילק<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="m"/></r></p></e>
+<e lm="חילק"><p><l>מחלקת</l><r>חילק<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="f"/></r></p></e>
+<e lm="חילק"><p><l>מחלקים</l><r>חילק<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="m"/></r></p></e>
+<e lm="חילק"><p><l>מחלקות</l><r>חילק<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="f"/></r></p></e>
+<e lm="חילק"><p><l>חילק</l><r>חילק<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="חילק"><p><l>חילקתי</l><r>חילק<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="חילק"><p><l>חילקת</l><r>חילק<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="חילק"><p><l>חילקת</l><r>חילק<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="חילק"><p><l>חילקה</l><r>חילק<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="חילק"><p><l>חילקנו</l><r>חילק<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="חילק"><p><l>חילקתם</l><r>חילק<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="חילק"><p><l>חילקתן</l><r>חילק<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="חילק"><p><l>חילקו</l><r>חילק<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="חילק"><p><l>חילקו</l><r>חילק<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="חילק"><p><l>לחלק</l><r>חילק<s n="vblex"/><s n="inf"/></r></p></e>
+<e lm="חילק"><p><l>חלק</l><r>חילק<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="חילק"><p><l>חלקי</l><r>חילק<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="חילק"><p><l>חלקו</l><r>חילק<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="חילק"><p><l>חלקנה</l><r>חילק<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="חילק"><p><l>אחלק</l><r>חילק<s n="vblex"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="חילק"><p><l>תחלק</l><r>חילק<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="חילק"><p><l>תחלקי</l><r>חילק<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="חילק"><p><l>יחלק</l><r>חילק<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="חילק"><p><l>תחלק</l><r>חילק<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="חילק"><p><l>נחלק</l><r>חילק<s n="vblex"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="חילק"><p><l>תחלקו</l><r>חילק<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="חילק"><p><l>תחלקנה</l><r>חילק<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="חילק"><p><l>יחלקו</l><r>חילק<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="חילק"><p><l>תחלקנה</l><r>חילק<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="חילק"><p><l>מחלק</l><r>חילק<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="m"/></r></p></e>
+<e lm="חילק"><p><l>מחלקת</l><r>חילק<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="f"/></r></p></e>
+<e lm="חילק"><p><l>מחלקים</l><r>חילק<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="m"/></r></p></e>
+<e lm="חילק"><p><l>מחלקות</l><r>חילק<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="f"/></r></p></e>
+
+<e lm="חנק"><p><l>חנק</l><r>חנק<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="חנק"><p><l>חנקתי</l><r>חנק<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="חנק"><p><l>חנקת</l><r>חנק<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="חנק"><p><l>חנקת</l><r>חנק<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="חנק"><p><l>חנקה</l><r>חנק<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="חנק"><p><l>חנקנו</l><r>חנק<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="חנק"><p><l>חנקתם</l><r>חנק<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="חנק"><p><l>חנקתן</l><r>חנק<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="חנק"><p><l>חנקו</l><r>חנק<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="חנק"><p><l>חנקו</l><r>חנק<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="חנק"><p><l>לחנוק</l><r>חנק<s n="vblex"/><s n="inf"/></r></p></e>
+<e lm="חנק"><p><l>חנוק</l><r>חנק<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="חנק"><p><l>חנקי</l><r>חנק<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="חנק"><p><l>חנקו</l><r>חנק<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="חנק"><p><l>חנוקנה</l><r>חנק<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="חנק"><p><l>אחנוק</l><r>חנק<s n="vblex"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="חנק"><p><l>תחנוק</l><r>חנק<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="חנק"><p><l>תחנקי</l><r>חנק<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="חנק"><p><l>יחנוק</l><r>חנק<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="חנק"><p><l>תחנוק</l><r>חנק<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="חנק"><p><l>נחנוק</l><r>חנק<s n="vblex"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="חנק"><p><l>תחנקו</l><r>חנק<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="חנק"><p><l>תחנוקנה</l><r>חנק<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="חנק"><p><l>יחנקו</l><r>חנק<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="חנק"><p><l>תחנוקנה</l><r>חנק<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="חנק"><p><l>חונק</l><r>חנק<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="m"/></r></p></e>
+<e lm="חנק"><p><l>חונקת</l><r>חנק<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="f"/></r></p></e>
+<e lm="חנק"><p><l>חונקים</l><r>חנק<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="m"/></r></p></e>
+<e lm="חנק"><p><l>חונקות</l><r>חנק<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="f"/></r></p></e>
+
+<e lm="הוריד"><p><l>הוריד</l><r>הוריד<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="הוריד"><p><l>הורדתי</l><r>הוריד<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="הוריד"><p><l>הורדת</l><r>הוריד<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="הוריד"><p><l>הורדת</l><r>הוריד<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="הוריד"><p><l>הורידה</l><r>הוריד<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="הוריד"><p><l>הורדנו</l><r>הוריד<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="הוריד"><p><l>הורדתם</l><r>הוריד<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="הוריד"><p><l>הורדתן</l><r>הוריד<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="הוריד"><p><l>הורידו</l><r>הוריד<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="הוריד"><p><l>הורידו</l><r>הוריד<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="הוריד"><p><l>להוריד</l><r>הוריד<s n="vblex"/><s n="inf"/></r></p></e>
+<e lm="הוריד"><p><l>הורד</l><r>הוריד<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="הוריד"><p><l>הורידי</l><r>הוריד<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="הוריד"><p><l>הורידו</l><r>הוריד<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="הוריד"><p><l>הורדנה</l><r>הוריד<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="הוריד"><p><l>אוריד</l><r>הוריד<s n="vblex"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="הוריד"><p><l>תוריד</l><r>הוריד<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="הוריד"><p><l>תורידי</l><r>הוריד<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="הוריד"><p><l>יוריד</l><r>הוריד<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="הוריד"><p><l>תוריד</l><r>הוריד<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="הוריד"><p><l>נוריד</l><r>הוריד<s n="vblex"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="הוריד"><p><l>תורידו</l><r>הוריד<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="הוריד"><p><l>תורדנה</l><r>הוריד<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="הוריד"><p><l>יורידו</l><r>הוריד<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="הוריד"><p><l>תורדנה</l><r>הוריד<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="הוריד"><p><l>מוריד</l><r>הוריד<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="m"/></r></p></e>
+<e lm="הוריד"><p><l>מורידה</l><r>הוריד<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="f"/></r></p></e>
+<e lm="הוריד"><p><l>מורידים</l><r>הוריד<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="m"/></r></p></e>
+<e lm="הוריד"><p><l>מורידות</l><r>הוריד<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="f"/></r></p></e>
+
+<e lm="כלל"><p><l>כלל</l><r>כלל<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="כלל"><p><l>כללתי</l><r>כלל<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="כלל"><p><l>כללת</l><r>כלל<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="כלל"><p><l>כללת</l><r>כלל<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="כלל"><p><l>כללה</l><r>כלל<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="כלל"><p><l>כללנו</l><r>כלל<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="כלל"><p><l>כללתם</l><r>כלל<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="כלל"><p><l>כללתן</l><r>כלל<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="כלל"><p><l>כללו</l><r>כלל<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="כלל"><p><l>כללו</l><r>כלל<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="כלל"><p><l>לכלול</l><r>כלל<s n="vblex"/><s n="inf"/></r></p></e>
+<e lm="כלל"><p><l>כלול</l><r>כלל<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="כלל"><p><l>כללי</l><r>כלל<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="כלל"><p><l>כללו</l><r>כלל<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="כלל"><p><l>כלולנה</l><r>כלל<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="כלל"><p><l>אכלול</l><r>כלל<s n="vblex"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="כלל"><p><l>תכלול</l><r>כלל<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="כלל"><p><l>תכללי</l><r>כלל<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="כלל"><p><l>יכלול</l><r>כלל<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="כלל"><p><l>תכלול</l><r>כלל<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="כלל"><p><l>נכלול</l><r>כלל<s n="vblex"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="כלל"><p><l>תכללו</l><r>כלל<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="כלל"><p><l>תכלולנה</l><r>כלל<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="כלל"><p><l>יכללו</l><r>כלל<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="כלל"><p><l>תכלולנה</l><r>כלל<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="כלל"><p><l>כולל</l><r>כלל<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="m"/></r></p></e>
+<e lm="כלל"><p><l>כוללת</l><r>כלל<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="f"/></r></p></e>
+<e lm="כלל"><p><l>כוללים</l><r>כלל<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="m"/></r></p></e>
+<e lm="כלל"><p><l>כוללות</l><r>כלל<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="f"/></r></p></e>
+
 <e lm="כתב"><p><l>כתב</l><r>כתב<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
 <e lm="כתב"><p><l>כתבתי</l><r>כתב<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
 <e lm="כתב"><p><l>כתבת</l><r>כתב<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/></r></p></e>
@@ -19121,6 +19541,543 @@
 <e lm="כתב"><p><l>כותבים</l><r>כתב<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="m"/></r></p></e>
 <e lm="כתב"><p><l>כותבות</l><r>כתב<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="f"/></r></p></e>
 
+<e lm="לקח"><p><l>לקח</l><r>לקח<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="לקח"><p><l>לקחתי</l><r>לקח<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="לקח"><p><l>לקחת</l><r>לקח<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="לקח"><p><l>לקחת</l><r>לקח<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="לקח"><p><l>לקחה</l><r>לקח<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="לקח"><p><l>לקחנו</l><r>לקח<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="לקח"><p><l>לקחתם</l><r>לקח<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="לקח"><p><l>לקחתן</l><r>לקח<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="לקח"><p><l>לקחו</l><r>לקח<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="לקח"><p><l>לקחו</l><r>לקח<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="לקח"><p><l>לקחת</l><r>לקח<s n="vblex"/><s n="inf"/></r></p></e>
+<e lm="לקח"><p><l>קח</l><r>לקח<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="לקח"><p><l>קחי</l><r>לקח<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="לקח"><p><l>קחו</l><r>לקח<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="לקח"><p><l>קחנה</l><r>לקח<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="לקח"><p><l>אקח</l><r>לקח<s n="vblex"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="לקח"><p><l>תיקח</l><r>לקח<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="לקח"><p><l>תיקחי</l><r>לקח<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="לקח"><p><l>ייקח</l><r>לקח<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="לקח"><p><l>תיקח</l><r>לקח<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="לקח"><p><l>ניקח</l><r>לקח<s n="vblex"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="לקח"><p><l>תיקחו</l><r>לקח<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="לקח"><p><l>תיקחנה</l><r>לקח<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="לקח"><p><l>ייקחו</l><r>לקח<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="לקח"><p><l>תיקחנה</l><r>לקח<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="לקח"><p><l>לוקח</l><r>לקח<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="m"/></r></p></e>
+<e lm="לקח"><p><l>לוקחת</l><r>לקח<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="f"/></r></p></e>
+<e lm="לקח"><p><l>לוקחים</l><r>לקח<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="m"/></r></p></e>
+<e lm="לקח"><p><l>לוקחות</l><r>לקח<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="f"/></r></p></e>
+
+<e lm="מת"><p><l>מת</l><r>מת<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="מת"><p><l>מתי</l><r>מת<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="מת"><p><l>מת</l><r>מת<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="מת"><p><l>מת</l><r>מת<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="מת"><p><l>מתה</l><r>מת<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="מת"><p><l>מתנו</l><r>מת<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="מת"><p><l>מתם</l><r>מת<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="מת"><p><l>מתן</l><r>מת<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="מת"><p><l>מתו</l><r>מת<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="מת"><p><l>מתו</l><r>מת<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="מת"><p><l>למות</l><r>מת<s n="vblex"/><s n="inf"/></r></p></e>
+<e lm="מת"><p><l>מות</l><r>מת<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="מת"><p><l>מותי</l><r>מת<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="מת"><p><l>מותו</l><r>מת<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="מת"><p><l>מותנה</l><r>מת<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="מת"><p><l>אמות</l><r>מת<s n="vblex"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="מת"><p><l>תמות</l><r>מת<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="מת"><p><l>תמותי</l><r>מת<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="מת"><p><l>ימות</l><r>מת<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="מת"><p><l>תמות</l><r>מת<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="מת"><p><l>נמות</l><r>מת<s n="vblex"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="מת"><p><l>תמותו</l><r>מת<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="מת"><p><l>תמותנה</l><r>מת<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="מת"><p><l>ימותו</l><r>מת<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="מת"><p><l>תמותנה</l><r>מת<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="מת"><p><l>מת</l><r>מת<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="m"/></r></p></e>
+<e lm="מת"><p><l>מתה</l><r>מת<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="f"/></r></p></e>
+<e lm="מת"><p><l>מתים</l><r>מת<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="m"/></r></p></e>
+<e lm="מת"><p><l>מתות</l><r>מת<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="f"/></r></p></e>
+<e lm="מת"><p><l>מת</l><r>מת<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="מת"><p><l>מתתי</l><r>מת<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="מת"><p><l>מתת</l><r>מת<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="מת"><p><l>מתת</l><r>מת<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="מת"><p><l>מתה</l><r>מת<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="מת"><p><l>מתנו</l><r>מת<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="מת"><p><l>מתתם</l><r>מת<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="מת"><p><l>מתתן</l><r>מת<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="מת"><p><l>מתו</l><r>מת<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="מת"><p><l>מתו</l><r>מת<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="מת"><p><l>למות</l><r>מת<s n="vblex"/><s n="inf"/></r></p></e>
+<e lm="מת"><p><l>מות</l><r>מת<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="מת"><p><l>מותי</l><r>מת<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="מת"><p><l>מותו</l><r>מת<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="מת"><p><l>מותנה</l><r>מת<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="מת"><p><l>אמות</l><r>מת<s n="vblex"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="מת"><p><l>תמות</l><r>מת<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="מת"><p><l>תמותי</l><r>מת<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="מת"><p><l>ימות</l><r>מת<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="מת"><p><l>תמות</l><r>מת<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="מת"><p><l>נמות</l><r>מת<s n="vblex"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="מת"><p><l>תמותו</l><r>מת<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="מת"><p><l>תמותנה</l><r>מת<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="מת"><p><l>ימותו</l><r>מת<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="מת"><p><l>תמותנה</l><r>מת<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="מת"><p><l>מת</l><r>מת<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="m"/></r></p></e>
+<e lm="מת"><p><l>מתה</l><r>מת<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="f"/></r></p></e>
+<e lm="מת"><p><l>מתים</l><r>מת<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="m"/></r></p></e>
+<e lm="מת"><p><l>מתות</l><r>מת<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="f"/></r></p></e>
+
+<e lm="הביע"><p><l>הביע</l><r>הביע<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="הביע"><p><l>הבעתי</l><r>הביע<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="הביע"><p><l>הבעת</l><r>הביע<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="הביע"><p><l>הבעת</l><r>הביע<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="הביע"><p><l>הביעה</l><r>הביע<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="הביע"><p><l>הבענו</l><r>הביע<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="הביע"><p><l>הבעתם</l><r>הביע<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="הביע"><p><l>הבעתן</l><r>הביע<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="הביע"><p><l>הביעו</l><r>הביע<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="הביע"><p><l>הביעו</l><r>הביע<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="הביע"><p><l>להביע</l><r>הביע<s n="vblex"/><s n="inf"/></r></p></e>
+<e lm="הביע"><p><l>הבע</l><r>הביע<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="הביע"><p><l>הביעי</l><r>הביע<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="הביע"><p><l>הביעו</l><r>הביע<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="הביע"><p><l>הבענה</l><r>הביע<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="הביע"><p><l>אביע</l><r>הביע<s n="vblex"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="הביע"><p><l>תביע</l><r>הביע<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="הביע"><p><l>תביעי</l><r>הביע<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="הביע"><p><l>יביע</l><r>הביע<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="הביע"><p><l>תביע</l><r>הביע<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="הביע"><p><l>נביע</l><r>הביע<s n="vblex"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="הביע"><p><l>תביעו</l><r>הביע<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="הביע"><p><l>תבענה</l><r>הביע<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="הביע"><p><l>יביעו</l><r>הביע<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="הביע"><p><l>תבענה</l><r>הביע<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="הביע"><p><l>מביע</l><r>הביע<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="m"/></r></p></e>
+<e lm="הביע"><p><l>מביעה</l><r>הביע<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="f"/></r></p></e>
+<e lm="הביע"><p><l>מביעים</l><r>הביע<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="m"/></r></p></e>
+<e lm="הביע"><p><l>מביעות</l><r>הביע<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="f"/></r></p></e>
+
+<e lm="ניסה"><p><l>ניסה</l><r>ניסה<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="ניסה"><p><l>ניסיתי</l><r>ניסה<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="ניסה"><p><l>ניסית</l><r>ניסה<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="ניסה"><p><l>ניסית</l><r>ניסה<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="ניסה"><p><l>ניסתה</l><r>ניסה<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="ניסה"><p><l>ניסינו</l><r>ניסה<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="ניסה"><p><l>ניסיתם</l><r>ניסה<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="ניסה"><p><l>ניסיתן</l><r>ניסה<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="ניסה"><p><l>ניסו</l><r>ניסה<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="ניסה"><p><l>ניסו</l><r>ניסה<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="ניסה"><p><l>לנסות</l><r>ניסה<s n="vblex"/><s n="inf"/></r></p></e>
+<e lm="ניסה"><p><l>נסה</l><r>ניסה<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="ניסה"><p><l>נסי</l><r>ניסה<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="ניסה"><p><l>נסו</l><r>ניסה<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="ניסה"><p><l>נסינה</l><r>ניסה<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="ניסה"><p><l>אנסה</l><r>ניסה<s n="vblex"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="ניסה"><p><l>תנסה</l><r>ניסה<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="ניסה"><p><l>תנסי</l><r>ניסה<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="ניסה"><p><l>ינסה</l><r>ניסה<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="ניסה"><p><l>תנסה</l><r>ניסה<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="ניסה"><p><l>ננסה</l><r>ניסה<s n="vblex"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="ניסה"><p><l>תנסו</l><r>ניסה<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="ניסה"><p><l>תנסינה</l><r>ניסה<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="ניסה"><p><l>ינסו</l><r>ניסה<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="ניסה"><p><l>תנסינה</l><r>ניסה<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="ניסה"><p><l>מנסה</l><r>ניסה<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="m"/></r></p></e>
+<e lm="ניסה"><p><l>מנסה</l><r>ניסה<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="f"/></r></p></e>
+<e lm="ניסה"><p><l>מנסים</l><r>ניסה<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="m"/></r></p></e>
+<e lm="ניסה"><p><l>מנסות</l><r>ניסה<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="f"/></r></p></e>
+
+<e lm="התנסה"><p><l>התנסה</l><r>התנסה<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="התנסה"><p><l>התנסיתי</l><r>התנסה<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="התנסה"><p><l>התנסית</l><r>התנסה<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="התנסה"><p><l>התנסית</l><r>התנסה<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="התנסה"><p><l>התנסתה</l><r>התנסה<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="התנסה"><p><l>התנסינו</l><r>התנסה<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="התנסה"><p><l>התנסיתם</l><r>התנסה<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="התנסה"><p><l>התנסיתן</l><r>התנסה<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="התנסה"><p><l>התנסו</l><r>התנסה<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="התנסה"><p><l>התנסו</l><r>התנסה<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="התנסה"><p><l>להתנסות</l><r>התנסה<s n="vblex"/><s n="inf"/></r></p></e>
+<e lm="התנסה"><p><l>התנסה</l><r>התנסה<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="התנסה"><p><l>התנסי</l><r>התנסה<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="התנסה"><p><l>התנסו</l><r>התנסה<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="התנסה"><p><l>התנסינה</l><r>התנסה<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="התנסה"><p><l>אתנסה</l><r>התנסה<s n="vblex"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="התנסה"><p><l>תתנסה</l><r>התנסה<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="התנסה"><p><l>תתנסי</l><r>התנסה<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="התנסה"><p><l>יתנסה</l><r>התנסה<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="התנסה"><p><l>תתנסה</l><r>התנסה<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="התנסה"><p><l>נתנסה</l><r>התנסה<s n="vblex"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="התנסה"><p><l>תתנסו</l><r>התנסה<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="התנסה"><p><l>תתנסינה</l><r>התנסה<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="התנסה"><p><l>יתנסו</l><r>התנסה<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="התנסה"><p><l>תתנסינה</l><r>התנסה<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="התנסה"><p><l>מתנסה</l><r>התנסה<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="m"/></r></p></e>
+<e lm="התנסה"><p><l>מתנסה</l><r>התנסה<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="f"/></r></p></e>
+<e lm="התנסה"><p><l>מתנסים</l><r>התנסה<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="m"/></r></p></e>
+<e lm="התנסה"><p><l>מתנסות</l><r>התנסה<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="f"/></r></p></e>
+
+<e lm="ניפץ"><p><l>ניפץ</l><r>ניפץ<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="ניפץ"><p><l>ניפצתי</l><r>ניפץ<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="ניפץ"><p><l>ניפצת</l><r>ניפץ<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="ניפץ"><p><l>ניפצת</l><r>ניפץ<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="ניפץ"><p><l>ניפצה</l><r>ניפץ<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="ניפץ"><p><l>ניפצנו</l><r>ניפץ<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="ניפץ"><p><l>ניפצתם</l><r>ניפץ<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="ניפץ"><p><l>ניפצתן</l><r>ניפץ<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="ניפץ"><p><l>ניפצו</l><r>ניפץ<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="ניפץ"><p><l>ניפצו</l><r>ניפץ<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="ניפץ"><p><l>לנפץ</l><r>ניפץ<s n="vblex"/><s n="inf"/></r></p></e>
+<e lm="ניפץ"><p><l>נפץ</l><r>ניפץ<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="ניפץ"><p><l>נפצי</l><r>ניפץ<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="ניפץ"><p><l>נפצו</l><r>ניפץ<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="ניפץ"><p><l>נפצנה</l><r>ניפץ<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="ניפץ"><p><l>אנפץ</l><r>ניפץ<s n="vblex"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="ניפץ"><p><l>תנפץ</l><r>ניפץ<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="ניפץ"><p><l>תנפצי</l><r>ניפץ<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="ניפץ"><p><l>ינפץ</l><r>ניפץ<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="ניפץ"><p><l>תנפץ</l><r>ניפץ<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="ניפץ"><p><l>ננפץ</l><r>ניפץ<s n="vblex"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="ניפץ"><p><l>תנפצו</l><r>ניפץ<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="ניפץ"><p><l>תנפצנה</l><r>ניפץ<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="ניפץ"><p><l>ינפצו</l><r>ניפץ<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="ניפץ"><p><l>תנפצנה</l><r>ניפץ<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="ניפץ"><p><l>מנפץ</l><r>ניפץ<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="m"/></r></p></e>
+<e lm="ניפץ"><p><l>מנפצת</l><r>ניפץ<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="f"/></r></p></e>
+<e lm="ניפץ"><p><l>מנפצים</l><r>ניפץ<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="m"/></r></p></e>
+<e lm="ניפץ"><p><l>מנפצות</l><r>ניפץ<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="f"/></r></p></e>
+
+<e lm="נתן"><p><l>נתן</l><r>נתן<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="נתן"><p><l>נתתי</l><r>נתן<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="נתן"><p><l>נתת</l><r>נתן<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="נתן"><p><l>נתת</l><r>נתן<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="נתן"><p><l>נתנה</l><r>נתן<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="נתן"><p><l>נתנו</l><r>נתן<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="נתן"><p><l>נתתם</l><r>נתן<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="נתן"><p><l>נתתן</l><r>נתן<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="נתן"><p><l>נתנו</l><r>נתן<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="נתן"><p><l>נתנו</l><r>נתן<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="נתן"><p><l>לתת</l><r>נתן<s n="vblex"/><s n="inf"/></r></p></e>
+<e lm="נתן"><p><l>תן</l><r>נתן<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="נתן"><p><l>תני</l><r>נתן<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="נתן"><p><l>תנו</l><r>נתן<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="נתן"><p><l>תנה</l><r>נתן<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="נתן"><p><l>אתן</l><r>נתן<s n="vblex"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="נתן"><p><l>תיתן</l><r>נתן<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="נתן"><p><l>תיתני</l><r>נתן<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="נתן"><p><l>ייתן</l><r>נתן<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="נתן"><p><l>תיתן</l><r>נתן<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="נתן"><p><l>ניתן</l><r>נתן<s n="vblex"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="נתן"><p><l>תיתנו</l><r>נתן<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="נתן"><p><l>תיתנה</l><r>נתן<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="נתן"><p><l>ייתנו</l><r>נתן<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="נתן"><p><l>תיתנה</l><r>נתן<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="נתן"><p><l>נותן</l><r>נתן<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="m"/></r></p></e>
+<e lm="נתן"><p><l>נותנת</l><r>נתן<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="f"/></r></p></e>
+<e lm="נתן"><p><l>נותנים</l><r>נתן<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="m"/></r></p></e>
+<e lm="נתן"><p><l>נותנות</l><r>נתן<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="f"/></r></p></e>
+
+<e lm="סידר"><p><l>סידר</l><r>סידר<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="סידר"><p><l>סידרתי</l><r>סידר<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="סידר"><p><l>סידרת</l><r>סידר<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="סידר"><p><l>סידרת</l><r>סידר<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="סידר"><p><l>סידרה</l><r>סידר<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="סידר"><p><l>סידרנו</l><r>סידר<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="סידר"><p><l>סידרתם</l><r>סידר<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="סידר"><p><l>סידרתן</l><r>סידר<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="סידר"><p><l>סידרו</l><r>סידר<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="סידר"><p><l>סידרו</l><r>סידר<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="סידר"><p><l>לסדר</l><r>סידר<s n="vblex"/><s n="inf"/></r></p></e>
+<e lm="סידר"><p><l>סדר</l><r>סידר<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="סידר"><p><l>סדרי</l><r>סידר<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="סידר"><p><l>סדרו</l><r>סידר<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="סידר"><p><l>סדרנה</l><r>סידר<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="סידר"><p><l>אסדר</l><r>סידר<s n="vblex"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="סידר"><p><l>תסדר</l><r>סידר<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="סידר"><p><l>תסדרי</l><r>סידר<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="סידר"><p><l>יסדר</l><r>סידר<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="סידר"><p><l>תסדר</l><r>סידר<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="סידר"><p><l>נסדר</l><r>סידר<s n="vblex"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="סידר"><p><l>תסדרו</l><r>סידר<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="סידר"><p><l>תסדרנה</l><r>סידר<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="סידר"><p><l>יסדרו</l><r>סידר<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="סידר"><p><l>תסדרנה</l><r>סידר<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="סידר"><p><l>מסדר</l><r>סידר<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="m"/></r></p></e>
+<e lm="סידר"><p><l>מסדרת</l><r>סידר<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="f"/></r></p></e>
+<e lm="סידר"><p><l>מסדרים</l><r>סידר<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="m"/></r></p></e>
+<e lm="סידר"><p><l>מסדרות</l><r>סידר<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="f"/></r></p></e>
+
+<e lm="עבד"><p><l>עבד</l><r>עבד<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="עבד"><p><l>עבדתי</l><r>עבד<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="עבד"><p><l>עבדת</l><r>עבד<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="עבד"><p><l>עבדת</l><r>עבד<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="עבד"><p><l>עבדה</l><r>עבד<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="עבד"><p><l>עבדנו</l><r>עבד<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="עבד"><p><l>עבדתם</l><r>עבד<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="עבד"><p><l>עבדתן</l><r>עבד<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="עבד"><p><l>עבדו</l><r>עבד<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="עבד"><p><l>עבדו</l><r>עבד<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="עבד"><p><l>לעבוד</l><r>עבד<s n="vblex"/><s n="inf"/></r></p></e>
+<e lm="עבד"><p><l>עבוד</l><r>עבד<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="עבד"><p><l>עבדי</l><r>עבד<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="עבד"><p><l>עבדו</l><r>עבד<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="עבד"><p><l>עבודנה</l><r>עבד<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="עבד"><p><l>אעבוד</l><r>עבד<s n="vblex"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="עבד"><p><l>תעבוד</l><r>עבד<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="עבד"><p><l>תעבדי</l><r>עבד<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="עבד"><p><l>יעבוד</l><r>עבד<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="עבד"><p><l>תעבוד</l><r>עבד<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="עבד"><p><l>נעבוד</l><r>עבד<s n="vblex"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="עבד"><p><l>תעבדו</l><r>עבד<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="עבד"><p><l>תעבודנה</l><r>עבד<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="עבד"><p><l>יעבדו</l><r>עבד<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="עבד"><p><l>תעבודנה</l><r>עבד<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="עבד"><p><l>עובד</l><r>עבד<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="m"/></r></p></e>
+<e lm="עבד"><p><l>עובדת</l><r>עבד<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="f"/></r></p></e>
+<e lm="עבד"><p><l>עובדים</l><r>עבד<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="m"/></r></p></e>
+<e lm="עבד"><p><l>עובדות</l><r>עבד<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="f"/></r></p></e>
+
+<e lm="עשה"><p><l>עשה</l><r>עשה<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="עשה"><p><l>עשיתי</l><r>עשה<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="עשה"><p><l>עשית</l><r>עשה<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="עשה"><p><l>עשית</l><r>עשה<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="עשה"><p><l>עשתה</l><r>עשה<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="עשה"><p><l>עשינו</l><r>עשה<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="עשה"><p><l>עשיתם</l><r>עשה<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="עשה"><p><l>עשיתן</l><r>עשה<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="עשה"><p><l>עשו</l><r>עשה<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="עשה"><p><l>עשו</l><r>עשה<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="עשה"><p><l>לעשות</l><r>עשה<s n="vblex"/><s n="inf"/></r></p></e>
+<e lm="עשה"><p><l>עשה</l><r>עשה<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="עשה"><p><l>עשי</l><r>עשה<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="עשה"><p><l>עשו</l><r>עשה<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="עשה"><p><l>עשינה</l><r>עשה<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="עשה"><p><l>אעשה</l><r>עשה<s n="vblex"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="עשה"><p><l>תעשה</l><r>עשה<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="עשה"><p><l>תעשי</l><r>עשה<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="עשה"><p><l>יעשה</l><r>עשה<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="עשה"><p><l>תעשה</l><r>עשה<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="עשה"><p><l>נעשה</l><r>עשה<s n="vblex"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="עשה"><p><l>תעשו</l><r>עשה<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="עשה"><p><l>תעשינה</l><r>עשה<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="עשה"><p><l>יעשו</l><r>עשה<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="עשה"><p><l>תעשינה</l><r>עשה<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="עשה"><p><l>עושה</l><r>עשה<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="m"/></r></p></e>
+<e lm="עשה"><p><l>עושה</l><r>עשה<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="f"/></r></p></e>
+<e lm="עשה"><p><l>עושים</l><r>עשה<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="m"/></r></p></e>
+<e lm="עשה"><p><l>עושות</l><r>עשה<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="f"/></r></p></e>
+
+<e lm="נפקד"><p><l>נפקד</l><r>נפקד<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="נפקד"><p><l>נפקדתי</l><r>נפקד<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="נפקד"><p><l>נפקדת</l><r>נפקד<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="נפקד"><p><l>נפקדת</l><r>נפקד<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="נפקד"><p><l>נפקדה</l><r>נפקד<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="נפקד"><p><l>נפקדנו</l><r>נפקד<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="נפקד"><p><l>נפקדתם</l><r>נפקד<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="נפקד"><p><l>נפקדתן</l><r>נפקד<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="נפקד"><p><l>נפקדו</l><r>נפקד<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="נפקד"><p><l>נפקדו</l><r>נפקד<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="נפקד"><p><l>להיפקד</l><r>נפקד<s n="vblex"/><s n="inf"/></r></p></e>
+<e lm="נפקד"><p><l>היפקד</l><r>נפקד<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="נפקד"><p><l>היפקדי</l><r>נפקד<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="נפקד"><p><l>היפקדו</l><r>נפקד<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="נפקד"><p><l>היפקדנה</l><r>נפקד<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="נפקד"><p><l>אפקד</l><r>נפקד<s n="vblex"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="נפקד"><p><l>תיפקד</l><r>נפקד<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="נפקד"><p><l>תיפקדי</l><r>נפקד<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="נפקד"><p><l>ייפקד</l><r>נפקד<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="נפקד"><p><l>תיפקד</l><r>נפקד<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="נפקד"><p><l>ניפקד</l><r>נפקד<s n="vblex"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="נפקד"><p><l>תיפקדו</l><r>נפקד<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="נפקד"><p><l>תיפקדנה</l><r>נפקד<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="נפקד"><p><l>ייפקדו</l><r>נפקד<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="נפקד"><p><l>תיפקדנה</l><r>נפקד<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="נפקד"><p><l>נפקד</l><r>נפקד<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="m"/></r></p></e>
+<e lm="נפקד"><p><l>נפקדת</l><r>נפקד<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="f"/></r></p></e>
+<e lm="נפקד"><p><l>נפקדים</l><r>נפקד<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="m"/></r></p></e>
+<e lm="נפקד"><p><l>נפקדות</l><r>נפקד<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="f"/></r></p></e>
+
+<e lm="הפר"><p><l>הפר</l><r>הפר<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="הפר"><p><l>הפרתי</l><r>הפר<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="הפר"><p><l>הפרת</l><r>הפר<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="הפר"><p><l>הפרת</l><r>הפר<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="הפר"><p><l>הפרה</l><r>הפר<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="הפר"><p><l>הפרנו</l><r>הפר<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="הפר"><p><l>הפרתם</l><r>הפר<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="הפר"><p><l>הפרתן</l><r>הפר<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="הפר"><p><l>הפרו</l><r>הפר<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="הפר"><p><l>הפרו</l><r>הפר<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="הפר"><p><l>להפר</l><r>הפר<s n="vblex"/><s n="inf"/></r></p></e>
+<e lm="הפר"><p><l>הפר</l><r>הפר<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="הפר"><p><l>הפרי</l><r>הפר<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="הפר"><p><l>הפרו</l><r>הפר<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="הפר"><p><l>הפרנה</l><r>הפר<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="הפר"><p><l>אפר</l><r>הפר<s n="vblex"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="הפר"><p><l>תפר</l><r>הפר<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="הפר"><p><l>תפרי</l><r>הפר<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="הפר"><p><l>יפר</l><r>הפר<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="הפר"><p><l>תפר</l><r>הפר<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="הפר"><p><l>נפר</l><r>הפר<s n="vblex"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="הפר"><p><l>תפרו</l><r>הפר<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="הפר"><p><l>תפרנה</l><r>הפר<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="הפר"><p><l>יפרו</l><r>הפר<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="הפר"><p><l>תפרנה</l><r>הפר<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="הפר"><p><l>מפר</l><r>הפר<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="m"/></r></p></e>
+<e lm="הפר"><p><l>מפרה</l><r>הפר<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="f"/></r></p></e>
+<e lm="הפר"><p><l>מפרים</l><r>הפר<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="m"/></r></p></e>
+<e lm="הפר"><p><l>מפרות</l><r>הפר<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="f"/></r></p></e>
+<e lm="הפר"><p><l>הפר</l><r>הפר<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="הפר"><p><l>הפרתי</l><r>הפר<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="הפר"><p><l>הפרת</l><r>הפר<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="הפר"><p><l>הפרת</l><r>הפר<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="הפר"><p><l>הפרה</l><r>הפר<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="הפר"><p><l>הפרנו</l><r>הפר<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="הפר"><p><l>הפרתם</l><r>הפר<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="הפר"><p><l>הפרתן</l><r>הפר<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="הפר"><p><l>הפרו</l><r>הפר<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="הפר"><p><l>הפרו</l><r>הפר<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="הפר"><p><l>להפר</l><r>הפר<s n="vblex"/><s n="inf"/></r></p></e>
+<e lm="הפר"><p><l>הפר</l><r>הפר<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="הפר"><p><l>הפרי</l><r>הפר<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="הפר"><p><l>הפרו</l><r>הפר<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="הפר"><p><l>הפרנה</l><r>הפר<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="הפר"><p><l>אפר</l><r>הפר<s n="vblex"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="הפר"><p><l>תפר</l><r>הפר<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="הפר"><p><l>תפרי</l><r>הפר<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="הפר"><p><l>יפר</l><r>הפר<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="הפר"><p><l>תפר</l><r>הפר<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="הפר"><p><l>נפר</l><r>הפר<s n="vblex"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="הפר"><p><l>תפרו</l><r>הפר<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="הפר"><p><l>תפרנה</l><r>הפר<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="הפר"><p><l>יפרו</l><r>הפר<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="הפר"><p><l>תפרנה</l><r>הפר<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="הפר"><p><l>מפר</l><r>הפר<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="m"/></r></p></e>
+<e lm="הפר"><p><l>מפרה</l><r>הפר<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="f"/></r></p></e>
+<e lm="הפר"><p><l>מפרים</l><r>הפר<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="m"/></r></p></e>
+<e lm="הפר"><p><l>מפרות</l><r>הפר<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="f"/></r></p></e>
+
+<e lm="פתח"><p><l>פתח</l><r>פתח<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="פתח"><p><l>פתחתי</l><r>פתח<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="פתח"><p><l>פתחת</l><r>פתח<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="פתח"><p><l>פתחת</l><r>פתח<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="פתח"><p><l>פתחה</l><r>פתח<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="פתח"><p><l>פתחנו</l><r>פתח<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="פתח"><p><l>פתחתם</l><r>פתח<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="פתח"><p><l>פתחתן</l><r>פתח<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="פתח"><p><l>פתחו</l><r>פתח<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="פתח"><p><l>פתחו</l><r>פתח<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="פתח"><p><l>לפתוח</l><r>פתח<s n="vblex"/><s n="inf"/></r></p></e>
+<e lm="פתח"><p><l>פתח</l><r>פתח<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="פתח"><p><l>פתחי</l><r>פתח<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="פתח"><p><l>פתחו</l><r>פתח<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="פתח"><p><l>פתחנה</l><r>פתח<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="פתח"><p><l>אפתח</l><r>פתח<s n="vblex"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="פתח"><p><l>תפתח</l><r>פתח<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="פתח"><p><l>תפתחי</l><r>פתח<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="פתח"><p><l>יפתח</l><r>פתח<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="פתח"><p><l>תפתח</l><r>פתח<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="פתח"><p><l>נפתח</l><r>פתח<s n="vblex"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="פתח"><p><l>תפתחו</l><r>פתח<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="פתח"><p><l>תפתחנה</l><r>פתח<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="פתח"><p><l>יפתחו</l><r>פתח<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="פתח"><p><l>תפתחנה</l><r>פתח<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="פתח"><p><l>פותח</l><r>פתח<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="m"/></r></p></e>
+<e lm="פתח"><p><l>פותחת</l><r>פתח<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="f"/></r></p></e>
+<e lm="פתח"><p><l>פותחים</l><r>פתח<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="m"/></r></p></e>
+<e lm="פתח"><p><l>פותחות</l><r>פתח<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="f"/></r></p></e>
+
+<e lm="הצביע"><p><l>הצביע</l><r>הצביע<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="הצביע"><p><l>הצבעתי</l><r>הצביע<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="הצביע"><p><l>הצבעת</l><r>הצביע<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="הצביע"><p><l>הצבעת</l><r>הצביע<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="הצביע"><p><l>הצביעה</l><r>הצביע<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="הצביע"><p><l>הצבענו</l><r>הצביע<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="הצביע"><p><l>הצבעתם</l><r>הצביע<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="הצביע"><p><l>הצבעתן</l><r>הצביע<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="הצביע"><p><l>הצביעו</l><r>הצביע<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="הצביע"><p><l>הצביעו</l><r>הצביע<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="הצביע"><p><l>להצביע</l><r>הצביע<s n="vblex"/><s n="inf"/></r></p></e>
+<e lm="הצביע"><p><l>הצבע</l><r>הצביע<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="הצביע"><p><l>הצביעי</l><r>הצביע<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="הצביע"><p><l>הצביעו</l><r>הצביע<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="הצביע"><p><l>הצבענה</l><r>הצביע<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="הצביע"><p><l>אצביע</l><r>הצביע<s n="vblex"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="הצביע"><p><l>תצביע</l><r>הצביע<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="הצביע"><p><l>תצביעי</l><r>הצביע<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="הצביע"><p><l>יצביע</l><r>הצביע<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="הצביע"><p><l>תצביע</l><r>הצביע<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="הצביע"><p><l>נצביע</l><r>הצביע<s n="vblex"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="הצביע"><p><l>תצביעו</l><r>הצביע<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="הצביע"><p><l>תצבענה</l><r>הצביע<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="הצביע"><p><l>יצביעו</l><r>הצביע<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="הצביע"><p><l>תצבענה</l><r>הצביע<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="הצביע"><p><l>מצביע</l><r>הצביע<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="m"/></r></p></e>
+<e lm="הצביע"><p><l>מצביעה</l><r>הצביע<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="f"/></r></p></e>
+<e lm="הצביע"><p><l>מצביעים</l><r>הצביע<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="m"/></r></p></e>
+<e lm="הצביע"><p><l>מצביעות</l><r>הצביע<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="f"/></r></p></e>
+
+<e lm="קידם"><p><l>קידם</l><r>קידם<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="קידם"><p><l>קידמתי</l><r>קידם<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="קידם"><p><l>קידמת</l><r>קידם<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="קידם"><p><l>קידמת</l><r>קידם<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="קידם"><p><l>קידמה</l><r>קידם<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="קידם"><p><l>קידמנו</l><r>קידם<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="קידם"><p><l>קידמתם</l><r>קידם<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="קידם"><p><l>קידמתן</l><r>קידם<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="קידם"><p><l>קידמו</l><r>קידם<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="קידם"><p><l>קידמו</l><r>קידם<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="קידם"><p><l>לקדם</l><r>קידם<s n="vblex"/><s n="inf"/></r></p></e>
+<e lm="קידם"><p><l>קדם</l><r>קידם<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="קידם"><p><l>קדמי</l><r>קידם<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="קידם"><p><l>קדמו</l><r>קידם<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="קידם"><p><l>קדמנה</l><r>קידם<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="קידם"><p><l>אקדם</l><r>קידם<s n="vblex"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="קידם"><p><l>תקדם</l><r>קידם<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="קידם"><p><l>תקדמי</l><r>קידם<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="קידם"><p><l>יקדם</l><r>קידם<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="קידם"><p><l>תקדם</l><r>קידם<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="קידם"><p><l>נקדם</l><r>קידם<s n="vblex"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="קידם"><p><l>תקדמו</l><r>קידם<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="קידם"><p><l>תקדמנה</l><r>קידם<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="קידם"><p><l>יקדמו</l><r>קידם<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="קידם"><p><l>תקדמנה</l><r>קידם<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="קידם"><p><l>מקדם</l><r>קידם<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="m"/></r></p></e>
+<e lm="קידם"><p><l>מקדמת</l><r>קידם<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="f"/></r></p></e>
+<e lm="קידם"><p><l>מקדמים</l><r>קידם<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="m"/></r></p></e>
+<e lm="קידם"><p><l>מקדמות</l><r>קידם<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="f"/></r></p></e>
+<e lm="קידם"><p><l>קידם</l><r>קידם<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="קידם"><p><l>קידמתי</l><r>קידם<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="קידם"><p><l>קידמת</l><r>קידם<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="קידם"><p><l>קידמת</l><r>קידם<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="קידם"><p><l>קידמה</l><r>קידם<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="קידם"><p><l>קידמנו</l><r>קידם<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="קידם"><p><l>קידמתם</l><r>קידם<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="קידם"><p><l>קידמתן</l><r>קידם<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="קידם"><p><l>קידמו</l><r>קידם<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="קידם"><p><l>קידמו</l><r>קידם<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="קידם"><p><l>לקדם</l><r>קידם<s n="vblex"/><s n="inf"/></r></p></e>
+<e lm="קידם"><p><l>קדם</l><r>קידם<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="קידם"><p><l>קדמי</l><r>קידם<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="קידם"><p><l>קדמו</l><r>קידם<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="קידם"><p><l>קדמנה</l><r>קידם<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="קידם"><p><l>אקדם</l><r>קידם<s n="vblex"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="קידם"><p><l>תקדם</l><r>קידם<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="קידם"><p><l>תקדמי</l><r>קידם<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="קידם"><p><l>יקדם</l><r>קידם<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="קידם"><p><l>תקדם</l><r>קידם<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="קידם"><p><l>נקדם</l><r>קידם<s n="vblex"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="קידם"><p><l>תקדמו</l><r>קידם<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="קידם"><p><l>תקדמנה</l><r>קידם<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="קידם"><p><l>יקדמו</l><r>קידם<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="קידם"><p><l>תקדמנה</l><r>קידם<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="קידם"><p><l>מקדם</l><r>קידם<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="m"/></r></p></e>
+<e lm="קידם"><p><l>מקדמת</l><r>קידם<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="f"/></r></p></e>
+<e lm="קידם"><p><l>מקדמים</l><r>קידם<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="m"/></r></p></e>
+<e lm="קידם"><p><l>מקדמות</l><r>קידם<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="f"/></r></p></e>
+
 <e lm="ראה"><p><l>ראה</l><r>ראה<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
 <e lm="ראה"><p><l>ראיתי</l><r>ראה<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
 <e lm="ראה"><p><l>ראית</l><r>ראה<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/></r></p></e>
@@ -19150,6 +20107,456 @@
 <e lm="ראה"><p><l>רואה</l><r>ראה<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="f"/></r></p></e>
 <e lm="ראה"><p><l>רואים</l><r>ראה<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="m"/></r></p></e>
 <e lm="ראה"><p><l>רואות</l><r>ראה<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="f"/></r></p></e>
+
+<e lm="הרוויח"><p><l>הרוויח</l><r>הרוויח<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="הרוויח"><p><l>הרווחתי</l><r>הרוויח<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="הרוויח"><p><l>הרווחת</l><r>הרוויח<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="הרוויח"><p><l>הרווחת</l><r>הרוויח<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="הרוויח"><p><l>הרוויחה</l><r>הרוויח<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="הרוויח"><p><l>הרווחנו</l><r>הרוויח<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="הרוויח"><p><l>הרווחתם</l><r>הרוויח<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="הרוויח"><p><l>הרווחתן</l><r>הרוויח<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="הרוויח"><p><l>הרוויחו</l><r>הרוויח<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="הרוויח"><p><l>הרוויחו</l><r>הרוויח<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="הרוויח"><p><l>להרוויח</l><r>הרוויח<s n="vblex"/><s n="inf"/></r></p></e>
+<e lm="הרוויח"><p><l>הרווח</l><r>הרוויח<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="הרוויח"><p><l>הרוויחי</l><r>הרוויח<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="הרוויח"><p><l>הרוויחו</l><r>הרוויח<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="הרוויח"><p><l>הרווחנה</l><r>הרוויח<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="הרוויח"><p><l>ארוויח</l><r>הרוויח<s n="vblex"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="הרוויח"><p><l>תרוויח</l><r>הרוויח<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="הרוויח"><p><l>תרוויחי</l><r>הרוויח<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="הרוויח"><p><l>ירוויח</l><r>הרוויח<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="הרוויח"><p><l>תרוויח</l><r>הרוויח<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="הרוויח"><p><l>נרוויח</l><r>הרוויח<s n="vblex"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="הרוויח"><p><l>תרוויחו</l><r>הרוויח<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="הרוויח"><p><l>תרווחנה</l><r>הרוויח<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="הרוויח"><p><l>ירוויחו</l><r>הרוויח<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="הרוויח"><p><l>תרווחנה</l><r>הרוויח<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="הרוויח"><p><l>מרוויח</l><r>הרוויח<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="m"/></r></p></e>
+<e lm="הרוויח"><p><l>מרוויחה</l><r>הרוויח<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="f"/></r></p></e>
+<e lm="הרוויח"><p><l>מרוויחים</l><r>הרוויח<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="m"/></r></p></e>
+<e lm="הרוויח"><p><l>מרוויחות</l><r>הרוויח<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="f"/></r></p></e>
+
+<e lm="רכב"><p><l>רכב</l><r>רכב<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="רכב"><p><l>רכבתי</l><r>רכב<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="רכב"><p><l>רכבת</l><r>רכב<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="רכב"><p><l>רכבת</l><r>רכב<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="רכב"><p><l>רכבה</l><r>רכב<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="רכב"><p><l>רכבנו</l><r>רכב<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="רכב"><p><l>רכבתם</l><r>רכב<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="רכב"><p><l>רכבתן</l><r>רכב<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="רכב"><p><l>רכבו</l><r>רכב<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="רכב"><p><l>רכבו</l><r>רכב<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="רכב"><p><l>לרכב</l><r>רכב<s n="vblex"/><s n="inf"/></r></p></e>
+<e lm="רכב"><p><l>רכב</l><r>רכב<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="רכב"><p><l>רכבי</l><r>רכב<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="רכב"><p><l>רכבו</l><r>רכב<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="רכב"><p><l>רכבנה</l><r>רכב<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="רכב"><p><l>ארכב</l><r>רכב<s n="vblex"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="רכב"><p><l>תרכב</l><r>רכב<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="רכב"><p><l>תרכבי</l><r>רכב<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="רכב"><p><l>ירכב</l><r>רכב<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="רכב"><p><l>תרכב</l><r>רכב<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="רכב"><p><l>נרכב</l><r>רכב<s n="vblex"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="רכב"><p><l>תרכבו</l><r>רכב<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="רכב"><p><l>תרכבנה</l><r>רכב<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="רכב"><p><l>ירכבו</l><r>רכב<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="רכב"><p><l>תרכבנה</l><r>רכב<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="רכב"><p><l>רוכב</l><r>רכב<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="m"/></r></p></e>
+<e lm="רכב"><p><l>רוכבת</l><r>רכב<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="f"/></r></p></e>
+<e lm="רכב"><p><l>רוכבים</l><r>רכב<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="m"/></r></p></e>
+<e lm="רכב"><p><l>רוכבות</l><r>רכב<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="f"/></r></p></e>
+
+<e lm="רקד"><p><l>רקד</l><r>רקד<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="רקד"><p><l>רקדתי</l><r>רקד<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="רקד"><p><l>רקדת</l><r>רקד<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="רקד"><p><l>רקדת</l><r>רקד<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="רקד"><p><l>רקדה</l><r>רקד<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="רקד"><p><l>רקדנו</l><r>רקד<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="רקד"><p><l>רקדתם</l><r>רקד<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="רקד"><p><l>רקדתן</l><r>רקד<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="רקד"><p><l>רקדו</l><r>רקד<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="רקד"><p><l>רקדו</l><r>רקד<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="רקד"><p><l>לרקוד</l><r>רקד<s n="vblex"/><s n="inf"/></r></p></e>
+<e lm="רקד"><p><l>רקוד</l><r>רקד<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="רקד"><p><l>רקדי</l><r>רקד<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="רקד"><p><l>רקדו</l><r>רקד<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="רקד"><p><l>רקודנה</l><r>רקד<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="רקד"><p><l>ארקוד</l><r>רקד<s n="vblex"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="רקד"><p><l>תרקוד</l><r>רקד<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="רקד"><p><l>תרקדי</l><r>רקד<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="רקד"><p><l>ירקוד</l><r>רקד<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="רקד"><p><l>תרקוד</l><r>רקד<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="רקד"><p><l>נרקוד</l><r>רקד<s n="vblex"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="רקד"><p><l>תרקדו</l><r>רקד<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="רקד"><p><l>תרקודנה</l><r>רקד<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="רקד"><p><l>ירקדו</l><r>רקד<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="רקד"><p><l>תרקודנה</l><r>רקד<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="רקד"><p><l>רוקד</l><r>רקד<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="m"/></r></p></e>
+<e lm="רקד"><p><l>רוקדת</l><r>רקד<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="f"/></r></p></e>
+<e lm="רקד"><p><l>רוקדים</l><r>רקד<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="m"/></r></p></e>
+<e lm="רקד"><p><l>רוקדות</l><r>רקד<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="f"/></r></p></e>
+
+<e lm="שאל"><p><l>שאל</l><r>שאל<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="שאל"><p><l>שאלתי</l><r>שאל<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="שאל"><p><l>שאלת</l><r>שאל<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="שאל"><p><l>שאלת</l><r>שאל<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="שאל"><p><l>שאלה</l><r>שאל<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="שאל"><p><l>שאלנו</l><r>שאל<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="שאל"><p><l>שאלתם</l><r>שאל<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="שאל"><p><l>שאלתן</l><r>שאל<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="שאל"><p><l>שאלו</l><r>שאל<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="שאל"><p><l>שאלו</l><r>שאל<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="שאל"><p><l>לשאול</l><r>שאל<s n="vblex"/><s n="inf"/></r></p></e>
+<e lm="שאל"><p><l>שאל</l><r>שאל<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="שאל"><p><l>שאלי</l><r>שאל<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="שאל"><p><l>שאלו</l><r>שאל<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="שאל"><p><l>שאלנה</l><r>שאל<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="שאל"><p><l>אשאל</l><r>שאל<s n="vblex"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="שאל"><p><l>תשאל</l><r>שאל<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="שאל"><p><l>תשאלי</l><r>שאל<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="שאל"><p><l>ישאל</l><r>שאל<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="שאל"><p><l>תשאל</l><r>שאל<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="שאל"><p><l>נשאל</l><r>שאל<s n="vblex"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="שאל"><p><l>תשאלו</l><r>שאל<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="שאל"><p><l>תשאלנה</l><r>שאל<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="שאל"><p><l>ישאלו</l><r>שאל<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="שאל"><p><l>תשאלנה</l><r>שאל<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="שאל"><p><l>שואל</l><r>שאל<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="m"/></r></p></e>
+<e lm="שאל"><p><l>שואלת</l><r>שאל<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="f"/></r></p></e>
+<e lm="שאל"><p><l>שואלים</l><r>שאל<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="m"/></r></p></e>
+<e lm="שאל"><p><l>שואלות</l><r>שאל<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="f"/></r></p></e>
+
+<e lm="שבר"><p><l>שבר</l><r>שבר<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="שבר"><p><l>שברתי</l><r>שבר<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="שבר"><p><l>שברת</l><r>שבר<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="שבר"><p><l>שברת</l><r>שבר<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="שבר"><p><l>שברה</l><r>שבר<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="שבר"><p><l>שברנו</l><r>שבר<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="שבר"><p><l>שברתם</l><r>שבר<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="שבר"><p><l>שברתן</l><r>שבר<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="שבר"><p><l>שברו</l><r>שבר<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="שבר"><p><l>שברו</l><r>שבר<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="שבר"><p><l>לשבור</l><r>שבר<s n="vblex"/><s n="inf"/></r></p></e>
+<e lm="שבר"><p><l>שבור</l><r>שבר<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="שבר"><p><l>שברי</l><r>שבר<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="שבר"><p><l>שברו</l><r>שבר<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="שבר"><p><l>שבורנה</l><r>שבר<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="שבר"><p><l>אשבור</l><r>שבר<s n="vblex"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="שבר"><p><l>תשבור</l><r>שבר<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="שבר"><p><l>תשברי</l><r>שבר<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="שבר"><p><l>ישבור</l><r>שבר<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="שבר"><p><l>תשבור</l><r>שבר<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="שבר"><p><l>נשבור</l><r>שבר<s n="vblex"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="שבר"><p><l>תשברו</l><r>שבר<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="שבר"><p><l>תשבורנה</l><r>שבר<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="שבר"><p><l>ישברו</l><r>שבר<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="שבר"><p><l>תשבורנה</l><r>שבר<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="שבר"><p><l>שובר</l><r>שבר<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="m"/></r></p></e>
+<e lm="שבר"><p><l>שוברת</l><r>שבר<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="f"/></r></p></e>
+<e lm="שבר"><p><l>שוברים</l><r>שבר<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="m"/></r></p></e>
+<e lm="שבר"><p><l>שוברות</l><r>שבר<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="f"/></r></p></e>
+
+<e lm="שר"><p><l>שר</l><r>שר<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="שר"><p><l>שרתי</l><r>שר<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="שר"><p><l>שרת</l><r>שר<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="שר"><p><l>שרת</l><r>שר<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="שר"><p><l>שרה</l><r>שר<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="שר"><p><l>שרנו</l><r>שר<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="שר"><p><l>שרתם</l><r>שר<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="שר"><p><l>שרתן</l><r>שר<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="שר"><p><l>שרו</l><r>שר<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="שר"><p><l>שרו</l><r>שר<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="שר"><p><l>לשיר</l><r>שר<s n="vblex"/><s n="inf"/></r></p></e>
+<e lm="שר"><p><l>שיר</l><r>שר<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="שר"><p><l>שירי</l><r>שר<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="שר"><p><l>שירו</l><r>שר<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="שר"><p><l>שירנה</l><r>שר<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="שר"><p><l>אשיר</l><r>שר<s n="vblex"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="שר"><p><l>תשיר</l><r>שר<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="שר"><p><l>תשירי</l><r>שר<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="שר"><p><l>ישיר</l><r>שר<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="שר"><p><l>תשיר</l><r>שר<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="שר"><p><l>נשיר</l><r>שר<s n="vblex"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="שר"><p><l>תשירו</l><r>שר<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="שר"><p><l>תשרנה</l><r>שר<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="שר"><p><l>ישירו</l><r>שר<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="שר"><p><l>תשרנה</l><r>שר<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="שר"><p><l>שר</l><r>שר<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="m"/></r></p></e>
+<e lm="שר"><p><l>שרה</l><r>שר<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="f"/></r></p></e>
+<e lm="שר"><p><l>שרים</l><r>שר<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="m"/></r></p></e>
+<e lm="שר"><p><l>שרות</l><r>שר<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="f"/></r></p></e>
+
+<e lm="שרף"><p><l>שרף</l><r>שרף<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="שרף"><p><l>שרפתי</l><r>שרף<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="שרף"><p><l>שרפת</l><r>שרף<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="שרף"><p><l>שרפת</l><r>שרף<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="שרף"><p><l>שרפה</l><r>שרף<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="שרף"><p><l>שרפנו</l><r>שרף<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="שרף"><p><l>שרפתם</l><r>שרף<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="שרף"><p><l>שרפתן</l><r>שרף<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="שרף"><p><l>שרפו</l><r>שרף<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="שרף"><p><l>שרפו</l><r>שרף<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="שרף"><p><l>לשרוף</l><r>שרף<s n="vblex"/><s n="inf"/></r></p></e>
+<e lm="שרף"><p><l>שרוף</l><r>שרף<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="שרף"><p><l>שרפי</l><r>שרף<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="שרף"><p><l>שרפו</l><r>שרף<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="שרף"><p><l>שרופנה</l><r>שרף<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="שרף"><p><l>אשרוף</l><r>שרף<s n="vblex"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="שרף"><p><l>תשרוף</l><r>שרף<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="שרף"><p><l>תשרפי</l><r>שרף<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="שרף"><p><l>ישרוף</l><r>שרף<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="שרף"><p><l>תשרוף</l><r>שרף<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="שרף"><p><l>נשרוף</l><r>שרף<s n="vblex"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="שרף"><p><l>תשרפו</l><r>שרף<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="שרף"><p><l>תשרופנה</l><r>שרף<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="שרף"><p><l>ישרפו</l><r>שרף<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="שרף"><p><l>תשרופנה</l><r>שרף<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="שרף"><p><l>שורף</l><r>שרף<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="m"/></r></p></e>
+<e lm="שרף"><p><l>שורפת</l><r>שרף<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="f"/></r></p></e>
+<e lm="שרף"><p><l>שורפים</l><r>שרף<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="m"/></r></p></e>
+<e lm="שרף"><p><l>שורפות</l><r>שרף<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="f"/></r></p></e>
+
+<e lm="השתתף"><p><l>השתתף</l><r>השתתף<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="השתתף"><p><l>השתתפתי</l><r>השתתף<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="השתתף"><p><l>השתתפת</l><r>השתתף<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="השתתף"><p><l>השתתפת</l><r>השתתף<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="השתתף"><p><l>השתתפה</l><r>השתתף<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="השתתף"><p><l>השתתפנו</l><r>השתתף<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="השתתף"><p><l>השתתפתם</l><r>השתתף<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="השתתף"><p><l>השתתפתן</l><r>השתתף<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="השתתף"><p><l>השתתפו</l><r>השתתף<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="השתתף"><p><l>השתתפו</l><r>השתתף<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="השתתף"><p><l>להשתתף</l><r>השתתף<s n="vblex"/><s n="inf"/></r></p></e>
+<e lm="השתתף"><p><l>השתתף</l><r>השתתף<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="השתתף"><p><l>השתתפי</l><r>השתתף<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="השתתף"><p><l>השתתפו</l><r>השתתף<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="השתתף"><p><l>השתתפנה</l><r>השתתף<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="השתתף"><p><l>אשתתף</l><r>השתתף<s n="vblex"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="השתתף"><p><l>תשתתף</l><r>השתתף<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="השתתף"><p><l>תשתתפי</l><r>השתתף<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="השתתף"><p><l>ישתתף</l><r>השתתף<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="השתתף"><p><l>תשתתף</l><r>השתתף<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="השתתף"><p><l>נשתתף</l><r>השתתף<s n="vblex"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="השתתף"><p><l>תשתתפו</l><r>השתתף<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="השתתף"><p><l>תשתתפנה</l><r>השתתף<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="השתתף"><p><l>ישתתפו</l><r>השתתף<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="השתתף"><p><l>תשתתפנה</l><r>השתתף<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="השתתף"><p><l>משתתף</l><r>השתתף<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="m"/></r></p></e>
+<e lm="השתתף"><p><l>משתתפת</l><r>השתתף<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="f"/></r></p></e>
+<e lm="השתתף"><p><l>משתתפים</l><r>השתתף<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="m"/></r></p></e>
+<e lm="השתתף"><p><l>משתתפות</l><r>השתתף<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="f"/></r></p></e>
+
+<e lm="התאים"><p><l>התאים</l><r>התאים<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="התאים"><p><l>התאמתי</l><r>התאים<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="התאים"><p><l>התאמת</l><r>התאים<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="התאים"><p><l>התאמת</l><r>התאים<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="התאים"><p><l>התאימה</l><r>התאים<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="התאים"><p><l>התאמנו</l><r>התאים<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="התאים"><p><l>התאמתם</l><r>התאים<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="התאים"><p><l>התאמתן</l><r>התאים<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="התאים"><p><l>התאימו</l><r>התאים<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="התאים"><p><l>התאימו</l><r>התאים<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="התאים"><p><l>להתאים</l><r>התאים<s n="vblex"/><s n="inf"/></r></p></e>
+<e lm="התאים"><p><l>התאם</l><r>התאים<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="התאים"><p><l>התאימי</l><r>התאים<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="התאים"><p><l>התאימו</l><r>התאים<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="התאים"><p><l>התאמנה</l><r>התאים<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="התאים"><p><l>אתאים</l><r>התאים<s n="vblex"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="התאים"><p><l>תתאים</l><r>התאים<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="התאים"><p><l>תתאימי</l><r>התאים<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="התאים"><p><l>יתאים</l><r>התאים<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="התאים"><p><l>תתאים</l><r>התאים<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="התאים"><p><l>נתאים</l><r>התאים<s n="vblex"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="התאים"><p><l>תתאימו</l><r>התאים<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="התאים"><p><l>תתאמנה</l><r>התאים<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="התאים"><p><l>יתאימו</l><r>התאים<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="התאים"><p><l>תתאמנה</l><r>התאים<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="התאים"><p><l>מתאים</l><r>התאים<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="m"/></r></p></e>
+<e lm="התאים"><p><l>מתאימה</l><r>התאים<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="f"/></r></p></e>
+<e lm="התאים"><p><l>מתאימים</l><r>התאים<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="m"/></r></p></e>
+<e lm="התאים"><p><l>מתאימות</l><r>התאים<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="f"/></r></p></e>
+
+<e lm="תיאר"><p><l>תיאר</l><r>תיאר<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="תיאר"><p><l>תיארתי</l><r>תיאר<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="תיאר"><p><l>תיארת</l><r>תיאר<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="תיאר"><p><l>תיארת</l><r>תיאר<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="תיאר"><p><l>תיארה</l><r>תיאר<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="תיאר"><p><l>תיארנו</l><r>תיאר<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="תיאר"><p><l>תיארתם</l><r>תיאר<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="תיאר"><p><l>תיארתן</l><r>תיאר<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="תיאר"><p><l>תיארו</l><r>תיאר<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="תיאר"><p><l>תיארו</l><r>תיאר<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="תיאר"><p><l>לתאר</l><r>תיאר<s n="vblex"/><s n="inf"/></r></p></e>
+<e lm="תיאר"><p><l>תאר</l><r>תיאר<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="תיאר"><p><l>תארי</l><r>תיאר<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="תיאר"><p><l>תארו</l><r>תיאר<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="תיאר"><p><l>תארנה</l><r>תיאר<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="תיאר"><p><l>אתאר</l><r>תיאר<s n="vblex"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="תיאר"><p><l>תתאר</l><r>תיאר<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="תיאר"><p><l>תתארי</l><r>תיאר<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="תיאר"><p><l>יתאר</l><r>תיאר<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="תיאר"><p><l>תתאר</l><r>תיאר<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="תיאר"><p><l>נתאר</l><r>תיאר<s n="vblex"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="תיאר"><p><l>תתארו</l><r>תיאר<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="תיאר"><p><l>תתארנה</l><r>תיאר<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="תיאר"><p><l>יתארו</l><r>תיאר<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="תיאר"><p><l>תתארנה</l><r>תיאר<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="תיאר"><p><l>מתאר</l><r>תיאר<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="m"/></r></p></e>
+<e lm="תיאר"><p><l>מתארת</l><r>תיאר<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="f"/></r></p></e>
+<e lm="תיאר"><p><l>מתארים</l><r>תיאר<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="m"/></r></p></e>
+<e lm="תיאר"><p><l>מתארות</l><r>תיאר<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="f"/></r></p></e>
+
+<e lm="תפס"><p><l>תפס</l><r>תפס<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="תפס"><p><l>תפסתי</l><r>תפס<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="תפס"><p><l>תפסת</l><r>תפס<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="תפס"><p><l>תפסת</l><r>תפס<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="תפס"><p><l>תפסה</l><r>תפס<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="תפס"><p><l>תפסנו</l><r>תפס<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="תפס"><p><l>תפסתם</l><r>תפס<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="תפס"><p><l>תפסתן</l><r>תפס<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="תפס"><p><l>תפסו</l><r>תפס<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="תפס"><p><l>תפסו</l><r>תפס<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="תפס"><p><l>לתפוס</l><r>תפס<s n="vblex"/><s n="inf"/></r></p></e>
+<e lm="תפס"><p><l>תפוס</l><r>תפס<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="תפס"><p><l>תפסי</l><r>תפס<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="תפס"><p><l>תפסו</l><r>תפס<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="תפס"><p><l>תפוסנה</l><r>תפס<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="תפס"><p><l>אתפוס</l><r>תפס<s n="vblex"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="תפס"><p><l>תתפוס</l><r>תפס<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="תפס"><p><l>תתפסי</l><r>תפס<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="תפס"><p><l>יתפוס</l><r>תפס<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="תפס"><p><l>תתפוס</l><r>תפס<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="תפס"><p><l>נתפוס</l><r>תפס<s n="vblex"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="תפס"><p><l>תתפסו</l><r>תפס<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="תפס"><p><l>תתפוסנה</l><r>תפס<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="תפס"><p><l>יתפסו</l><r>תפס<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="תפס"><p><l>תתפוסנה</l><r>תפס<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="תפס"><p><l>תופס</l><r>תפס<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="m"/></r></p></e>
+<e lm="תפס"><p><l>תופסת</l><r>תפס<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="f"/></r></p></e>
+<e lm="תפס"><p><l>תופסים</l><r>תפס<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="m"/></r></p></e>
+<e lm="תפס"><p><l>תופסות</l><r>תפס<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="f"/></r></p></e>
+
+<e lm="תקף"><p><l>תקף</l><r>תקף<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="תקף"><p><l>תקפתי</l><r>תקף<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="תקף"><p><l>תקפת</l><r>תקף<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="תקף"><p><l>תקפת</l><r>תקף<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="תקף"><p><l>תקפה</l><r>תקף<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="תקף"><p><l>תקפנו</l><r>תקף<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="תקף"><p><l>תקפתם</l><r>תקף<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="תקף"><p><l>תקפתן</l><r>תקף<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="תקף"><p><l>תקפו</l><r>תקף<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="תקף"><p><l>תקפו</l><r>תקף<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="תקף"><p><l>לתקוף</l><r>תקף<s n="vblex"/><s n="inf"/></r></p></e>
+<e lm="תקף"><p><l>תקוף</l><r>תקף<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="תקף"><p><l>תקפי</l><r>תקף<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="תקף"><p><l>תקפו</l><r>תקף<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="תקף"><p><l>תקופנה</l><r>תקף<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="תקף"><p><l>אתקוף</l><r>תקף<s n="vblex"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="תקף"><p><l>תתקוף</l><r>תקף<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="תקף"><p><l>תתקפי</l><r>תקף<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="תקף"><p><l>יתקוף</l><r>תקף<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="תקף"><p><l>תתקוף</l><r>תקף<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="תקף"><p><l>נתקוף</l><r>תקף<s n="vblex"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="תקף"><p><l>תתקפו</l><r>תקף<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="תקף"><p><l>תתקופנה</l><r>תקף<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="תקף"><p><l>יתקפו</l><r>תקף<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="תקף"><p><l>תתקופנה</l><r>תקף<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="תקף"><p><l>תוקף</l><r>תקף<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="m"/></r></p></e>
+<e lm="תקף"><p><l>תוקפת</l><r>תקף<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="f"/></r></p></e>
+<e lm="תקף"><p><l>תוקפים</l><r>תקף<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="m"/></r></p></e>
+<e lm="תקף"><p><l>תוקפות</l><r>תקף<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="f"/></r></p></e>
+
+<e lm="תרגם"><p><l>תרגם</l><r>תרגם<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="תרגם"><p><l>תרגמתי</l><r>תרגם<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="תרגם"><p><l>תרגמת</l><r>תרגם<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="תרגם"><p><l>תרגמת</l><r>תרגם<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="תרגם"><p><l>תרגמה</l><r>תרגם<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="תרגם"><p><l>תרגמנו</l><r>תרגם<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="תרגם"><p><l>תרגמתם</l><r>תרגם<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="תרגם"><p><l>תרגמתן</l><r>תרגם<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="תרגם"><p><l>תרגמו</l><r>תרגם<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="תרגם"><p><l>תרגמו</l><r>תרגם<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="תרגם"><p><l>לתרגם</l><r>תרגם<s n="vblex"/><s n="inf"/></r></p></e>
+<e lm="תרגם"><p><l>תרגם</l><r>תרגם<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="תרגם"><p><l>תרגמי</l><r>תרגם<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="תרגם"><p><l>תרגמו</l><r>תרגם<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="תרגם"><p><l>תרגמנה</l><r>תרגם<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="תרגם"><p><l>אתרגם</l><r>תרגם<s n="vblex"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="תרגם"><p><l>תתרגם</l><r>תרגם<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="תרגם"><p><l>תתרגמי</l><r>תרגם<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="תרגם"><p><l>יתרגם</l><r>תרגם<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="תרגם"><p><l>תתרגם</l><r>תרגם<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="תרגם"><p><l>נתרגם</l><r>תרגם<s n="vblex"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="תרגם"><p><l>תתרגמו</l><r>תרגם<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="תרגם"><p><l>תתרגמנה</l><r>תרגם<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="תרגם"><p><l>יתרגמו</l><r>תרגם<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="תרגם"><p><l>תתרגמנה</l><r>תרגם<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="תרגם"><p><l>מתרגם</l><r>תרגם<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="m"/></r></p></e>
+<e lm="תרגם"><p><l>מתרגמת</l><r>תרגם<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="f"/></r></p></e>
+<e lm="תרגם"><p><l>מתרגמים</l><r>תרגם<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="m"/></r></p></e>
+<e lm="תרגם"><p><l>מתרגמות</l><r>תרגם<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="f"/></r></p></e>
+
+<e lm="העריץ"><p><l>העריץ</l><r>העריץ<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="העריץ"><p><l>הערצתי</l><r>העריץ<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="העריץ"><p><l>הערצת</l><r>העריץ<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="העריץ"><p><l>הערצת</l><r>העריץ<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="העריץ"><p><l>העריצה</l><r>העריץ<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="העריץ"><p><l>הערצנו</l><r>העריץ<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="העריץ"><p><l>הערצתם</l><r>העריץ<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="העריץ"><p><l>הערצתן</l><r>העריץ<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="העריץ"><p><l>העריצו</l><r>העריץ<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="העריץ"><p><l>העריצו</l><r>העריץ<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="העריץ"><p><l>להעריץ</l><r>העריץ<s n="vblex"/><s n="inf"/></r></p></e>
+<e lm="העריץ"><p><l>הערץ</l><r>העריץ<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="העריץ"><p><l>העריצי</l><r>העריץ<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="העריץ"><p><l>העריצו</l><r>העריץ<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="העריץ"><p><l>הערצנה</l><r>העריץ<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="העריץ"><p><l>אעריץ</l><r>העריץ<s n="vblex"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="העריץ"><p><l>תעריץ</l><r>העריץ<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="העריץ"><p><l>תעריצי</l><r>העריץ<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="העריץ"><p><l>יעריץ</l><r>העריץ<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="העריץ"><p><l>תעריץ</l><r>העריץ<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="העריץ"><p><l>נעריץ</l><r>העריץ<s n="vblex"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="העריץ"><p><l>תעריצו</l><r>העריץ<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="העריץ"><p><l>תערצנה</l><r>העריץ<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="העריץ"><p><l>יעריצו</l><r>העריץ<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="העריץ"><p><l>תערצנה</l><r>העריץ<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="העריץ"><p><l>מעריץ</l><r>העריץ<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="m"/></r></p></e>
+<e lm="העריץ"><p><l>מעריצה</l><r>העריץ<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="f"/></r></p></e>
+<e lm="העריץ"><p><l>מעריצים</l><r>העריץ<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="m"/></r></p></e>
+<e lm="העריץ"><p><l>מעריצות</l><r>העריץ<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="f"/></r></p></e>
+
+<e lm="תרגל"><p><l>תרגל</l><r>תרגל<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="תרגל"><p><l>תרגלתי</l><r>תרגל<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="תרגל"><p><l>תרגלת</l><r>תרגל<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="תרגל"><p><l>תרגלת</l><r>תרגל<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="תרגל"><p><l>תרגלה</l><r>תרגל<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="תרגל"><p><l>תרגלנו</l><r>תרגל<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="תרגל"><p><l>תרגלתם</l><r>תרגל<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="תרגל"><p><l>תרגלתן</l><r>תרגל<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="תרגל"><p><l>תרגלו</l><r>תרגל<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="תרגל"><p><l>תרגלו</l><r>תרגל<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="תרגל"><p><l>לתרגל</l><r>תרגל<s n="vblex"/><s n="inf"/></r></p></e>
+<e lm="תרגל"><p><l>תרגל</l><r>תרגל<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="תרגל"><p><l>תרגלי</l><r>תרגל<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="תרגל"><p><l>תרגלו</l><r>תרגל<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="תרגל"><p><l>תרגלנה</l><r>תרגל<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="תרגל"><p><l>אתרגל</l><r>תרגל<s n="vblex"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="תרגל"><p><l>תתרגל</l><r>תרגל<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/></r></p></e>
+<e lm="תרגל"><p><l>תתרגלי</l><r>תרגל<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/></r></p></e>
+<e lm="תרגל"><p><l>יתרגל</l><r>תרגל<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="תרגל"><p><l>תתרגל</l><r>תרגל<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="תרגל"><p><l>נתרגל</l><r>תרגל<s n="vblex"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="תרגל"><p><l>תתרגלו</l><r>תרגל<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="תרגל"><p><l>תתרגלנה</l><r>תרגל<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="תרגל"><p><l>יתרגלו</l><r>תרגל<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="תרגל"><p><l>תתרגלנה</l><r>תרגל<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="תרגל"><p><l>מתרגל</l><r>תרגל<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="m"/></r></p></e>
+<e lm="תרגל"><p><l>מתרגלת</l><r>תרגל<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="f"/></r></p></e>
+<e lm="תרגל"><p><l>מתרגלים</l><r>תרגל<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="m"/></r></p></e>
+<e lm="תרגל"><p><l>מתרגלות</l><r>תרגל<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="f"/></r></p></e>
     <!-- /verbs -->
   </section>
 
