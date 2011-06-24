@@ -46,6 +46,7 @@
     <sdef n="def"         c="Definite"/>
     <sdef n="ind"         c="Indefinite"/>
     <sdef n="pos"         c="Possesive"/>
+    <sdef n="itg"         c="Interrogative"/>
     <sdef n="num"         c="Numeral"/>
     <sdef n="adv"         c="Adverb"/>
     <sdef n="adj"         c="Adjective"/>
@@ -6217,6 +6218,12 @@
     <pardef n="סין__np">
       <e><p><l></l><r><s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
     </pardef>
+
+    <!-- SECTION: Adverbs -->
+    <pardef n="איך__adv">
+      <e><p><l/><r><s n="adv"/><s n="itg"/></r></p></e>
+    </pardef>
+
     
     <!-- SECTION: Adjectives -->
     
@@ -19060,6 +19067,18 @@
     <e lm="פורטוגזי"><i>פורטוגזי</i><par n="שמי__adj"/></e>
     <e lm="תאילנדי"><i>תאילנדי</i><par n="שמי__adj"/></e>
     <e lm="טיבטי"><i>טיבטי</i><par n="שמי__adj"/></e>
+
+    <!-- SECTION: Adverbs -->
+
+    <e lm="איך" c="how"><i>איך</i><par n="איך__adv"/></e>
+    <e lm="עם מה" c="with what"><i>עם<b/>מה</i><par n="איך__adv"/></e>
+    <e lm="למה" c="why"><i>למה</i><par n="איך__adv"/></e>
+    <e lm="מדוע" c="why"><i>מדוע</i><par n="איך__adv"/></e>
+    <e lm="האמנם" c="can it be"><i>האמנם</i><par n="איך__adv"/></e>
+    <e lm="במקרה" c="by any chance"><i>במקרה</i><par n="איך__adv"/></e>
+    <e lm="מאיפה" c="from where"><i>מאיפה</i><par n="איך__adv"/></e>
+    <e lm="עד לאן" c="till where"><i>עד<b/>לאן</i><par n="איך__adv"/></e>
+    <e lm="באיזו זכות" c="by what right"><i>באיזו<b/>זכות</i><par n="איך__adv"/></e>
 
     <!-- SECTION: Verbs, converted from n0nick's modified hspell, see dev/hspell-to-dix.sh -->
 

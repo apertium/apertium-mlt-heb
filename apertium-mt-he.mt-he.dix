@@ -29,6 +29,7 @@
      <sdef n="def"/>
      <sdef n="ind"/>
      <sdef n="pos"/>
+     <sdef n="itg"/>
 
      <sdef n="top"/>
      <sdef n="num"/>
@@ -433,6 +434,16 @@
      <e><p><l>biss<s n="adv"/></l><r>רק<s n="adv"/></r></p></e>
      <e><p><l>internazzjonalment<s n="adv"/></l><r>באופן<b/>בינלאומי<s n="adv"/></r></p></e>
      <e><p><l>anki<s n="adv"/></l><r>אפילו<s n="adv"/></r></p></e>
+     <e><p><l>kif<s n="adv"/><s n="itg"/></l><r>איך<s n="adv"/><s n="itg"/></r></p></e>
+     <e><p><l>biex<s n="adv"/><s n="itg"/></l><r>עם<b/>מה<s n="adv"/><s n="itg"/></r></p></e>
+     <e><p><l>għala<s n="adv"/><s n="itg"/></l><r>למה<s n="adv"/><s n="itg"/></r></p></e>
+     <e><p><l>jaqaw<s n="adv"/><s n="itg"/></l><r>האמנם<s n="adv"/><s n="itg"/></r></p></e>
+     <e><p><l>jewilla<s n="adv"/><s n="itg"/></l><r>במקרה<s n="adv"/><s n="itg"/></r></p></e>
+     <e><p><l>għalfejn<s n="adv"/><s n="itg"/></l><r>למה<s n="adv"/><s n="itg"/></r></p></e>
+     <e><p><l>mnejn<s n="adv"/><s n="itg"/></l><r>מאיפה<s n="adv"/><s n="itg"/></r></p></e>
+     <e><p><l>safejn<s n="adv"/><s n="itg"/></l><r>עד<b/>לאן<s n="adv"/><s n="itg"/></r></p></e>
+     <e><p><l>minn<b/>sa<b/>fejn<s n="adv"/><s n="itg"/></l><r>באיזו<b/>זכות<s n="adv"/><s n="itg"/></r></p></e>
+     <e><p><l>għaliex<s n="adv"/><s n="itg"/></l><r>למה<s n="adv"/><s n="itg"/></r></p></e>
 
      <!-- SECTION: Verbs -->
        <!-- Generated on: 2011-06-22 15:13 IDT -->
