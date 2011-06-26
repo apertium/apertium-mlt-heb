@@ -483,6 +483,11 @@
       <e><p><l>in</l><r><s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
     </pardef>
 
+    <pardef n="nativ__adj">
+      <e><p><l></l><r><s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>a</l><r><s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>i</l><r><s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
 
   </pardefs>
   <section id="main" type="standard">
@@ -1252,9 +1257,59 @@
 
     <e lm="Tibetan"><i>Tibetan</i><par n="reliġjuż__adj"/></e>
 
-
     <e lm="barran"><i>barran</i><par n="barran__adj"/></e>
 
+    <e lm="Taljan"><i>Taljan</i><par n="nativ__adj"/></e>
+    <e lm="estint"><i>estint</i><par n="nativ__adj"/></e>
+    <e lm="Amerikan"><i>Amerikan</i><par n="nativ__adj"/></e>
+    <e lm="Ruman"><i>Ruman</i><par n="nativ__adj"/></e>
+    <e lm="klassifikat"><i>klassifikat</i><par n="nativ__adj"/></e>
+    <e lm="antik"><i>antik</i><par n="nativ__adj"/></e>
+    <e lm="ċert"><i>ċert</i><par n="nativ__adj"/></e>
+    <e lm="użat"><i>użat</i><par n="nativ__adj"/></e>
+    <e lm="attakk"><i>attakk</i><par n="nativ__adj"/></e>
+    <e lm="relatat"><i>relatat</i><par n="nativ__adj"/></e>
+    <e lm="Latin"><i>Latin</i><par n="nativ__adj"/></e>
+    <e lm="baxx"><i>baxx</i><par n="nativ__adj"/></e>
+    <e lm="wżat"><i>wżat</i><par n="nativ__adj"/></e>
+    <e lm="modern"><i>modern</i><par n="nativ__adj"/></e>
+    <e lm="elett"><i>elett</i><par n="nativ__adj"/></e>
+    <e lm="lest"><i>lest</i><par n="nativ__adj"/></e>
+    <e lm="Spanjol"><i>Spanjol</i><par n="nativ__adj"/></e>
+    <e lm="Awstraljan"><i>Awstraljan</i><par n="nativ__adj"/></e>
+    <e lm="attiv"><i>attiv</i><par n="nativ__adj"/></e>
+    <e lm="dirett"><i>dirett</i><par n="nativ__adj"/></e>
+    <e lm="kantant"><i>kantant</i><par n="nativ__adj"/></e>
+    <e lm="Afrikan"><i>Afrikan</i><par n="nativ__adj"/></e>
+    <e lm="armat"><i>armat</i><par n="nativ__adj"/></e>
+    <e lm="eżatt"><i>eżatt</i><par n="nativ__adj"/></e>
+    <e lm="ibbażat"><i>ibbażat</i><par n="nativ__adj"/></e>
+    <e lm="bbażat"><i>bbażat</i><par n="nativ__adj"/></e>
+    <e lm="sportiv"><i>sportiv</i><par n="nativ__adj"/></e>
+    <e lm="nattiv"><i>nattiv</i><par n="nativ__adj"/></e>
+    <e lm="bhal"><i>bhal</i><par n="nativ__adj"/></e>
+    <e lm="organizzat"><i>organizzat</i><par n="nativ__adj"/></e>
+    <e lm="żgur"><i>żgur</i><par n="nativ__adj"/></e>
+    <e lm="separat"><i>separat</i><par n="nativ__adj"/></e>
+    <e lm="rumanz"><i>rumanz</i><par n="nativ__adj"/></e>
+    <e lm="privat"><i>privat</i><par n="nativ__adj"/></e>
+    <e lm="kkunsidrat"><i>kkunsidrat</i><par n="nativ__adj"/></e>
+    <e lm="kumment"><i>kumment</i><par n="nativ__adj"/></e>
+    <e lm="aċċettat"><i>aċċettat</i><par n="nativ__adj"/></e>
+    <e lm="żviluppat"><i>żviluppat</i><par n="nativ__adj"/></e>
+    <e lm="rappreżentat"><i>rappreżentat</i><par n="nativ__adj"/></e>
+    <e lm="kklassifikat"><i>kklassifikat</i><par n="nativ__adj"/></e>
+    <e lm="deskritt"><i>deskritt</i><par n="nativ__adj"/></e>
+    <e lm="suċċessiv"><i>suċċessiv</i><par n="nativ__adj"/></e>
+    <e lm="konsekuttiv"><i>konsekuttiv</i><par n="nativ__adj"/></e>
+    <e lm="indirizz"><i>indirizz</i><par n="nativ__adj"/></e>
+    <e lm="definit"><i>definit</i><par n="nativ__adj"/></e>
+    <e lm="nativ"><i>nativ</i><par n="nativ__adj"/></e>
+    <e lm="akkwist"><i>akkwist</i><par n="nativ__adj"/></e>
+    <e lm="ristrett"><i>ristrett</i><par n="nativ__adj"/></e>
+    <e lm="rikonoxxut"><i>rikonoxxut</i><par n="nativ__adj"/></e>
+    <e lm="Ottoman"><i>Ottoman</i><par n="nativ__adj"/></e>
+    <e lm="skopert"><i>skopert</i><par n="nativ__adj"/></e>
 
     <!-- SECTION: Adverbs -->
 
