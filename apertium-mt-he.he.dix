@@ -1022,9 +1022,21 @@
       <e><p>          <l>תכם</l><r>ה<s n="n"/><s n="f"/><s n="sg"/><s n="px2pl_m"/></r></p></e>
       <e><p>          <l>תכן</l><r>ה<s n="n"/><s n="f"/><s n="sg"/><s n="px2pl_f"/></r></p></e>
       <e><p>          <l>תן</l><r>ה<s n="n"/><s n="f"/><s n="sg"/><s n="px2pl_f"/></r></p></e>
-      <e><p>          <l>תו</l><r>ה<s n="n"/><s n="f"/><s n="sg"/><s n="px3sg_m"/></r></p></e>
+      <e><p>          <l>תם</l><r>ה<s n="n"/><s n="f"/><s n="sg"/><s n="px3sg_m"/></r></p></e>
       <e><p>          <l>תה</l><r>ה<s n="n"/><s n="f"/><s n="sg"/><s n="px3sg_f"/></r></p></e>
       <e><p>          <l>תם</l><r>ה<s n="n"/><s n="f"/><s n="sg"/><s n="px3pl_m"/></r></p></e>
+      <e><p>          <l>ות</l><r>ה<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ות</l><r>ה<s n="n"/><s n="f"/><s n="pl"/><s n="cons"/></r></p></e>
+      <e><p>          <l>ותיי</l><r>ה<s n="n"/><s n="f"/><s n="pl"/><s n="px1sg"/></r></p></e>
+      <e><p>          <l>ותינו</l><r>ה<s n="n"/><s n="f"/><s n="pl"/><s n="px1pl"/></r></p></e>
+      <e><p>          <l>ותיך</l><r>ה<s n="n"/><s n="f"/><s n="pl"/><s n="px2sg_m"/></r></p></e>
+      <e><p>          <l>ותייך</l><r>ה<s n="n"/><s n="f"/><s n="pl"/><s n="px2sg_f"/></r></p></e>
+      <e><p>          <l>ותיכם</l><r>ה<s n="n"/><s n="f"/><s n="pl"/><s n="px2pl_m"/></r></p></e>
+      <e><p>          <l>ותיכן</l><r>ה<s n="n"/><s n="f"/><s n="pl"/><s n="px2pl_f"/></r></p></e>
+      <e><p>          <l>ותן</l><r>ה<s n="n"/><s n="f"/><s n="pl"/><s n="px2pl_f"/></r></p></e>
+      <e><p>          <l>ותם</l><r>ה<s n="n"/><s n="f"/><s n="pl"/><s n="px3sg_m"/></r></p></e>
+      <e><p>          <l>תיהן</l><r>ה<s n="n"/><s n="f"/><s n="pl"/><s n="px3sg_f"/></r></p></e>
+      <e><p>          <l>תיהם</l><r>ה<s n="n"/><s n="f"/><s n="pl"/><s n="px3pl_m"/></r></p></e>
     </pardef>
     <pardef n="לחי__n_f">
       <e><p>          <l></l><r><s n="n"/><s n="f"/><s n="sg"/></r></p></e>
