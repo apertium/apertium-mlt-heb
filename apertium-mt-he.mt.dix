@@ -517,6 +517,8 @@
     <e lm="lil"><i>lil</i><par n="kontra__pr"/></e>
     <e lm="għal"><i>għal</i><par n="kontra__pr"/></e>
     <e lm="bħal"><i>bħal</i><par n="kontra__pr"/></e>
+    <!-- is bħala bhal+l<det> or just a variant of bħal or what? -->
+    <e lm="bħala" r="LR" c="as"><p><l>bħala</l><r>bħal</r></p><par n="kontra__pr"/></e>
     <e lm="favur"><i>favur</i><par n="kontra__pr"/></e>
     <e lm="matul"><i>matul</i><par n="kontra__pr"/></e>
 
@@ -1260,6 +1262,8 @@
     <e lm="mill" r="LR"><p><l>mi</l><r>minn<s n="pr"/><j/></r></p><par n="għall-__pr+det"/></e>
     <e lm="lill" r="LR"><p><l>li</l><r>lil<s n="pr"/><j/></r></p><par n="għall-__pr+det"/></e>
     <e lm="ħlief għall" r="LR"><p><l>ħlief<b/>għa</l><r>ħlief<b/>għal<s n="pr"/><j/></r></p><par n="għall-__pr+det"/></e>
+
+    <e lm="bħall" r="LR" c="as"><p><l>bħa</l><r>bħal<s n="pr"/><j/></r></p><par n="għall-__pr+det"/></e>
 
     <e lm="dal" r="LR"><p><l>da</l><r>dan<s n="prn"/><s n="dem"/><s n="m"/><s n="sg"/><j/></r></p><par n="l-__det"/></e>
     <e lm="dil" r="LR"><p><l>di</l><r>dan<s n="prn"/><s n="dem"/><s n="f"/><s n="sg"/><j/></r></p><par n="l-__det"/></e>
