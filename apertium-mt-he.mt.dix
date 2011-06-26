@@ -721,6 +721,7 @@
 
     <e lm="trattament"><i>trattament</i><par n="moviment__n"/></e>
     <e lm="moviment"><i>moviment</i><par n="moviment__n"/></e>
+    <e lm="mudell" c="model"><i>mudell</i><par n="moviment__n"/></e>
 
     <e lm="protestant"><i>protestant</i><par n="protestant__n"/></e>
     <e lm="ġurnal"><i>ġurnal</i><par n="protestant__n"/></e>
@@ -1269,6 +1270,8 @@
     <e lm="safejn" c="till where"><i>safejn</i><par n="kif__adv"/></e>
     <e lm="minn sa fejn" c="by what right"><i>minn<b/>sa<b/>fejn</i><par n="kif__adv"/></e>
     <e lm="għaliex" c="why"><i>għaliex</i><par n="kif__adv"/></e>
+
+    <e lm="hemm" c="there ('There are …')"><i>hemm</i><par n="immedjatament__adv"/></e>
 
     <e lm="astronomikament"><i>astronomikament</i><par n="immedjatament__adv"/></e>
     <e lm="direttament"><i>direttament</i><par n="immedjatament__adv"/></e>
