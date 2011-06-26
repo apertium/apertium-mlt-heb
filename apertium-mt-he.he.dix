@@ -57,6 +57,10 @@
     <sdef n="sent"        c="Sentence marker"/>
   </sdefs>
   <pardefs>
+
+    <pardef n="ה__det">
+      <e><p>          <l>ה</l><r>ה<s n="det"/><s n="def"/></r></p></e>
+    </pardef>
  
     <!-- SECTION: Punctuation -->
 
@@ -6277,6 +6281,7 @@
     
   </pardefs>
   <section id="main" type="standard">
+    <e lm="ה"><i></i><par n="ה__det"/></e>
     <!-- SECTION: Conjunctions -->
     <e lm="וכן"><i>וכן</i><par n="ו__cnjcoo"/></e>
     <e lm="גם"><i>גם</i><par n="ו__cnjcoo"/></e>

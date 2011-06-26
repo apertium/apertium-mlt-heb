@@ -18,6 +18,7 @@
 
      <sdef n="sg"/>
      <sdef n="pl"/>
+     <sdef n="sp"/>
 
      <sdef n="m"/>
      <sdef n="f"/>
@@ -146,6 +147,7 @@
      <!-- SECTION: Determiners -->
 
      <e><p><l>l<s n="det"/><s n="def"/></l><r>ה<s n="det"/><s n="def"/></r></p></e>
+     <e r="LR"><p><l>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></l><r>ה<s n="det"/><s n="def"/></r></p></e>
      <!-- TODO: check tags on the hebrew side -->
      <e><p><l>dan<s n="det"/><s n="dem"/><s n="m"/><s n="sg"/></l><r>זה<s n="det"/><s n="sg"/></r></p></e>
      <e><p><l>dan<s n="det"/><s n="dem"/><s n="f"/><s n="sg"/></l><r>זה<s n="det"/><s n="sg"/></r></p></e>
