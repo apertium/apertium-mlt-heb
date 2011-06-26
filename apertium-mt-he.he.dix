@@ -6122,22 +6122,9 @@
       <e><p>          <l>ך</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="px2sg_f"/></r></p></e>
       <e><p>          <l>כם</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="px2pl_m"/></r></p></e>
       <e><p>          <l>כן</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="px2pl_f"/></r></p></e>
-      <e><p>          <l>ן</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="px2pl_f"/></r></p></e>
       <e><p>          <l>ו</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="px3sg_m"/></r></p></e>
       <e><p>          <l>ה</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="px3sg_f"/></r></p></e>
       <e><p>          <l>ם</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="px3pl_m"/></r></p></e>
-      <e><p>          <l>ים</l><r><s n="n"/><s n="m"/><s n="pl"/></r></p></e>
-      <e><p>          <l>י</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="cons"/></r></p></e>
-      <e><p>          <l>יי</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="px1sg"/></r></p></e>
-      <e><p>          <l>ינו</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="px1pl"/></r></p></e>
-      <e><p>          <l>יך</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="px2sg_m"/></r></p></e>
-      <e><p>          <l>ייך</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="px2sg_f"/></r></p></e>
-      <e><p>          <l>יכם</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="px2pl_m"/></r></p></e>
-      <e><p>          <l>יכן</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="px2pl_f"/></r></p></e>
-      <e><p>          <l>יהן</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="px2pl_f"/></r></p></e>
-      <e><p>          <l>יו</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="px3sg_m"/></r></p></e>
-      <e><p>          <l>יה</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="px3sg_f"/></r></p></e>
-      <e><p>          <l>יהם</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="px3pl_m"/></r></p></e>
     </pardef>
     <pardef n="שק__n_m">
       <e><p>          <l></l><r><s n="n"/><s n="m"/><s n="sg"/></r></p><par n="שק__n_px"/></e>
