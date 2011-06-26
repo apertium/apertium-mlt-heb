@@ -11,7 +11,10 @@
 /apertium-mt-he.mt.dix -text
 /autogen.sh -text
 /configure.ac -text
+dev/adj_loops.sh -text
+dev/adj_suspected.txt -text
 dev/bidix-verbs-to-he.dix.sh -text
+dev/concordancer.py -text
 dev/dout.nouns.shemp.dix -text
 dev/dout.nouns.wolig.dix -text
 dev/generation-summary.mt-he.txt -text
