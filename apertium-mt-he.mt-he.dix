@@ -65,9 +65,9 @@
 
      <!-- SECTION: Conjunctions -->
 
-     <e><p><l>u<s n="cnjcoo"/></l><r>-ו<s n="cnjcoo"/></r></p></e>
+     <e><p><l>u<s n="cnjcoo"/></l><r>ו<s n="cnjcoo"/></r></p></e>
      <e><p><l>jew<s n="cnjcoo"/></l><r>או<s n="cnjcoo"/></r></p></e>
-     <e><p><l>meta<s n="cnjcoo"/></l><r>כש-<s n="cnjcoo"/></r></p></e>
+     <e><p><l>meta<s n="cnjcoo"/></l><r>כש<s n="cnjcoo"/></r></p></e>
      <e><p><l>jekk<s n="cnjcoo"/></l><r>אם<s n="cnjcoo"/></r></p></e>
      <e><p><l>mentri<s n="cnjcoo"/></l><r>תוך<s n="cnjcoo"/></r></p></e>
      <e><p><l>ġaladarba<s n="cnjcoo"/></l><r>מאז<s n="cnjcoo"/></r></p></e>
@@ -75,7 +75,7 @@
 
      <e><p><l>li<s n="cnjsub"/></l><r>ל<s n="cnjsub"/></r></p></e>
      <e><p><l>għax<s n="cnjsub"/></l><r>כי<s n="cnjsub"/></r></p></e>
-     <e><p><l>bħalma<s n="cnjsub"/></l><r>כ-<s n="cnjsub"/></r></p></e>
+     <e><p><l>bħalma<s n="cnjsub"/></l><r>כ<s n="cnjsub"/></r></p></e>
 
      <!-- SECTION: Prepositions -->
      <e><p><l>kontra<s n="pr"/></l><r>נגד<s n="pr"/></r></p></e>
@@ -84,14 +84,14 @@
      <e><p><l>fuq<s n="pr"/></l><r>על<s n="pr"/></r></p></e>
      <e><p><l>wara<s n="pr"/></l><r>לאחר<s n="pr"/></r></p></e>
      <e><p><l>lil<s n="pr"/></l><r>אל<s n="pr"/></r></p></e>
-     <e><p><l>għal<s n="pr"/></l><r>ל-<s n="pr"/></r></p></e>
-     <e><p><l>bħal<s n="pr"/></l><r>כ-<s n="pr"/></r></p></e>
+     <e><p><l>għal<s n="pr"/></l><r>ל<s n="pr"/></r></p></e>
+     <e><p><l>bħal<s n="pr"/></l><r>כ<s n="pr"/></r></p></e>
      <e><p><l>favur<s n="pr"/></l><r>למען<s n="pr"/></r></p></e>
-     <e><p><l>fi<s n="pr"/></l><r>ב-<s n="pr"/></r></p></e>
+     <e><p><l>fi<s n="pr"/></l><r>ב<s n="pr"/></r></p></e>
      <e><p><l>ma'<s n="pr"/></l><r>עם<s n="pr"/></r></p></e>
      <e><p><l>ta'<s n="pr"/></l><r>של<s n="pr"/></r></p></e>
-     <e><p><l>kif<s n="pr"/></l><r>כ-<s n="pr"/></r></p></e>
-     <e><p><l>matul<s n="pr"/></l><r>בזמן ש-<s n="pr"/></r></p></e>
+     <e><p><l>kif<s n="pr"/></l><r>כ<s n="pr"/></r></p></e>
+     <e><p><l>matul<s n="pr"/></l><r>בזמן ש<s n="pr"/></r></p></e>
 
      <!-- SECTION: Pronouns -->
 
