@@ -795,6 +795,58 @@
     <e lm="Spanja"><i>Spanja</i><par n="Malta__np"/></e>
     <e lm="Valencia"><i>Valencia</i><par n="Malta__np"/></e>
 
+    <e lm="Bidnija"><i>Bidnija</i><par n="Malta__np"/></e>
+    <e lm="Birkirkara"><i>Birkirkara</i><par n="Malta__np"/></e>
+    <e lm="Birżebbuġa"><i>Birżebbuġa</i><par n="Malta__np"/></e>
+    <e lm="Bormla"><i>Bormla</i><par n="Malta__np"/></e>
+    <e lm="Bubaqra"><i>Bubaqra</i><par n="Malta__np"/></e>
+    <e lm="Buġibba"><i>Buġibba</i><par n="Malta__np"/></e>
+    <e lm="Għajn Tuffieħa"><i>Għajn<b/>Tuffieħa</i><par n="Malta__np"/></e>
+    <e lm="Gwardamanġa"><i>Gwardamanġa</i><par n="Malta__np"/></e>
+    <e lm="Ħal Lija"><i>Ħal<b/>Lija</i><par n="Malta__np"/></e>
+    <e lm="Ħal Luqa"><i>Ħal<b/>Luqa</i><par n="Malta__np"/></e>
+    <e lm="Iċ-Ċirkewwa"><i>Iċ-Ċirkewwa</i><par n="Malta__np"/></e>
+    <e lm="Id-Dwejra"><i>Id-Dwejra</i><par n="Malta__np"/></e>
+    <e lm="Il-Baħrija"><i>Il-Baħrija</i><par n="Malta__np"/></e>
+    <e lm="Il-Belt Valletta"><i>Il-Belt<b/>Valletta</i><par n="Malta__np"/></e>
+    <e lm="Il-Birguma"><i>Il-Birguma</i><par n="Malta__np"/></e>
+    <e lm="Il-Fgura"><i>Il-Fgura</i><par n="Malta__np"/></e>
+    <e lm="Il-Furjana"><i>Il-Furjana</i><par n="Malta__np"/></e>
+    <e lm="Il-Ġnejna"><i>Il-Ġnejna</i><par n="Malta__np"/></e>
+    <e lm="Il-Gudja"><i>Il-Gudja</i><par n="Malta__np"/></e>
+    <e lm="Il-Gżira"><i>Il-Gżira</i><par n="Malta__np"/></e>
+    <e lm="Il-Kalafrana"><i>Il-Kalafrana</i><par n="Malta__np"/></e>
+    <e lm="Il-Kalkara"><i>Il-Kalkara</i><par n="Malta__np"/></e>
+    <e lm="Il-Kappara"><i>Il-Kappara</i><par n="Malta__np"/></e>
+    <e lm="Il-Madliena"><i>Il-Madliena</i><par n="Malta__np"/></e>
+    <e lm="Il-Manikata"><i>Il-Manikata</i><par n="Malta__np"/></e>
+    <e lm="Il-Marfa"><i>Il-Marfa</i><par n="Malta__np"/></e>
+    <e lm="Il-Marsa"><i>Il-Marsa</i><par n="Malta__np"/></e>
+    <e lm="Il-Mellieħa"><i>Il-Mellieħa</i><par n="Malta__np"/></e>
+    <e lm="Il-Mistra"><i>Il-Mistra</i><par n="Malta__np"/></e>
+    <e lm="Il-Mosta"><i>Il-Mosta</i><par n="Malta__np"/></e>
+    <e lm="Il-Qajjenza"><i>Il-Qajjenza</i><par n="Malta__np"/></e>
+    <e lm="Il-Qala"><i>Il-Qala</i><par n="Malta__np"/></e>
+    <e lm="Il-Qawra"><i>Il-Qawra</i><par n="Malta__np"/></e>
+    <e lm="Il-Wardija"><i>Il-Wardija</i><par n="Malta__np"/></e>
+    <e lm="Is-Salina"><i>Is-Salina</i><par n="Malta__np"/></e>
+    <e lm="Ix-Xagħra"><i>Ix-Xagħra</i><par n="Malta__np"/></e>
+    <e lm="Ix-Xemxija"><i>Ix-Xemxija</i><par n="Malta__np"/></e>
+    <e lm="Ix-Xewkija"><i>Ix-Xewkija</i><par n="Malta__np"/></e>
+    <e lm="Ix-Xgħajra"><i>Ix-Xgħajra</i><par n="Malta__np"/></e>
+    <e lm="Kemmuna"><i>Kemmuna</i><par n="Malta__np"/></e>
+    <e lm="L-Għadira"><i>L-Għadira</i><par n="Malta__np"/></e>
+    <e lm="L-Imdina"><i>L-Imdina</i><par n="Malta__np"/></e>
+    <e lm="L-Imqabba"><i>L-Imqabba</i><par n="Malta__np"/></e>
+    <e lm="L-Imsida"><i>L-Imsida</i><par n="Malta__np"/></e>
+    <e lm="L-Imtarfa"><i>L-Imtarfa</i><par n="Malta__np"/></e>
+    <e lm="L-Isla"><i>L-Isla</i><par n="Malta__np"/></e>
+    <e lm="San Pawl tat-Tarġa"><i>San<b/>Pawl<b/>tat-Tarġa</i><par n="Malta__np"/></e>
+    <e lm="Santa Luċija"><i>Santa<b/>Luċija</i><par n="Malta__np"/></e>
+    <e lm="Santa Venera"><i>Santa<b/>Venera</i><par n="Malta__np"/></e>
+    <e lm="Tal-Pietà"><i>Tal-Pietà</i><par n="Malta__np"/></e>
+    <e lm="Tas-Sliema"><i>Tas-Sliema</i><par n="Malta__np"/></e>
+    <e lm="Sliema"><i>Sliema</i><par n="Malta__np"/></e>
 
     <e lm="Bejġing"><i>Bejġing</i><par n="Tibet__np"/></e>
     <e lm="Tibet"><i>Tibet</i><par n="Tibet__np"/></e>
@@ -821,6 +873,72 @@
     <e lm="Vatikan"><i>Vatikan</i><par n="Tibet__np"/></e>
     <e lm="York"><i>York</i><par n="Tibet__np"/></e>
     <e lm="Ekwador"><i>Ekwador</i><par n="Tibet__np"/></e>
+
+    <e lm="Baħar iċ-Ċagħaq"><i>Baħar<b/>iċ-Ċagħaq</i><par n="Tibet__np"/></e>
+    <e lm="Burmarrad"><i>Burmarrad</i><par n="Tibet__np"/></e>
+    <e lm="Fleur de Lys"><i>Fleur<b/>de<b/>Lys</i><par n="Tibet__np"/></e>
+    <e lm="Għajnsielem"><i>Għajnsielem</i><par n="Tibet__np"/></e>
+    <e lm="Ħad-Dingli"><i>Ħad-Dingli</i><par n="Tibet__np"/></e>
+    <e lm="Ħal Balzan"><i>Ħal<b/>Balzan</i><par n="Tibet__np"/></e>
+    <e lm="Ħal Far"><i>Ħal<b/>Far</i><par n="Tibet__np"/></e>
+    <e lm="Ħal Għargħur"><i>Ħal<b/>Għargħur</i><par n="Tibet__np"/></e>
+    <e lm="Ħal Għaxaq"><i>Ħal<b/>Għaxaq</i><par n="Tibet__np"/></e>
+    <e lm="Ħal Qormi"><i>Ħal<b/>Qormi</i><par n="Tibet__np"/></e>
+    <e lm="Ħal Safi"><i>Ħal<b/>Safi</i><par n="Tibet__np"/></e>
+    <e lm="Ħal Tarxien"><i>Ħal<b/>Tarxien</i><par n="Tibet__np"/></e>
+    <e lm="Ħ'Attard"><i>Ħ'Attard</i><par n="Tibet__np"/></e>
+    <e lm="Ħaż-Żabbar"><i>Ħaż-Żabbar</i><par n="Tibet__np"/></e>
+    <e lm="Ħaż-Żebbuġ"><i>Ħaż-Żebbuġ</i><par n="Tibet__np"/></e>
+    <e lm="Il-Birgu"><i>Il-Birgu</i><par n="Tibet__np"/></e>
+    <e lm="Il-Blue Grotto"><i>Il-Blue<b/>Grotto</i><par n="Tibet__np"/></e>
+    <e lm="Il-Fontana"><i>Il-Fontana</i><par n="Tibet__np"/></e>
+    <e lm="Il-Ħamrun"><i>Il-Ħamrun</i><par n="Tibet__np"/></e>
+    <e lm="Il-Magħtab"><i>Il-Magħtab</i><par n="Tibet__np"/></e>
+    <e lm="Il-Munxar"><i>Il-Munxar</i><par n="Tibet__np"/></e>
+    <e lm="Il-Pwales"><i>Il-Pwales</i><par n="Tibet__np"/></e>
+    <e lm="Il-Qrendi"><i>Il-Qrendi</i><par n="Tibet__np"/></e>
+    <e lm="In-Nadur"><i>In-Nadur</i><par n="Tibet__np"/></e>
+    <e lm="In-Naxxar"><i>In-Naxxar</i><par n="Tibet__np"/></e>
+    <e lm="Ir-Rabat"><i>Ir-Rabat</i><par n="Tibet__np"/></e>
+    <e lm="Ir-Rabat"><i>Ir-Rabat</i><par n="Tibet__np"/></e>
+    <e lm="Ir-Rikażli"><i>Ir-Rikażli</i><par n="Tibet__np"/></e>
+    <e lm="Is-Siġġiewi"><i>Is-Siġġiewi</i><par n="Tibet__np"/></e>
+    <e lm="Is-Swieqi"><i>Is-Swieqi</i><par n="Tibet__np"/></e>
+    <e lm="Ix-Xlendi"><i>Ix-Xlendi</i><par n="Tibet__np"/></e>
+    <e lm="Iż-Żebbiegħ"><i>Iż-Żebbiegħ</i><par n="Tibet__np"/></e>
+    <e lm="Iż-Żebbuġ"><i>Iż-Żebbuġ</i><par n="Tibet__np"/></e>
+    <e lm="Iż-Żejtun"><i>Iż-Żejtun</i><par n="Tibet__np"/></e>
+    <e lm="Iż-Żurrieq"><i>Iż-Żurrieq</i><par n="Tibet__np"/></e>
+    <e lm="L-Armier"><i>L-Armier</i><par n="Tibet__np"/></e>
+    <e lm="L-Għarb"><i>L-Għarb</i><par n="Tibet__np"/></e>
+    <e lm="L-Għasri"><i>L-Għasri</i><par n="Tibet__np"/></e>
+    <e lm="L-Iklin"><i>L-Iklin</i><par n="Tibet__np"/></e>
+    <e lm="L-Imġarr"><i>L-Imġarr</i><par n="Tibet__np"/></e>
+    <e lm="L-Imġarr"><i>L-Imġarr</i><par n="Tibet__np"/></e>
+    <e lm="L-Imrieħel"><i>L-Imrieħel</i><par n="Tibet__np"/></e>
+    <e lm="L-Imtaħleb"><i>L-Imtaħleb</i><par n="Tibet__np"/></e>
+    <e lm="Manoel Island"><i>Manoel<b/>Island</i><par n="Tibet__np"/></e>
+    <e lm="Marsalforn"><i>Marsalforn</i><par n="Tibet__np"/></e>
+    <e lm="Marsaskala"><i>Marsaskala</i><par n="Tibet__np"/></e>
+    <e lm="Marsaxlokk"><i>Marsaxlokk</i><par n="Tibet__np"/></e>
+    <e lm="Paceville"><i>Paceville</i><par n="Tibet__np"/></e>
+    <e lm="Paola"><i>Paola</i><par n="Tibet__np"/></e>
+    <e lm="Pembroke"><i>Pembroke</i><par n="Tibet__np"/></e>
+    <e lm="San Blas"><i>San<b/>Blas</i><par n="Tibet__np"/></e>
+    <e lm="San Ġiljan"><i>San<b/>Ġiljan</i><par n="Tibet__np"/></e>
+    <e lm="San Ġwann"><i>San<b/>Ġwann</i><par n="Tibet__np"/></e>
+    <e lm="San Lawrenz"><i>San<b/>Lawrenz</i><par n="Tibet__np"/></e>
+    <e lm="San Martin"><i>San<b/>Martin</i><par n="Tibet__np"/></e>
+    <e lm="San Pawl il-Bahar"><i>San<b/>Pawl<b/>il-Bahar</i><par n="Tibet__np"/></e>
+    <e lm="Ta' Kerċem"><i>Ta'<b/>Kerċem</i><par n="Tibet__np"/></e>
+    <e lm="Tal-Ibraġ"><i>Tal-Ibraġ</i><par n="Tibet__np"/></e>
+    <e lm="Tal-Virtù"><i>Tal-Virtù</i><par n="Tibet__np"/></e>
+    <e lm="Ta' Pinu"><i>Ta'<b/>Pinu</i><par n="Tibet__np"/></e>
+    <e lm="Ta' Qali"><i>Ta'<b/>Qali</i><par n="Tibet__np"/></e>
+    <e lm="Ta' Sannat"><i>Ta'<b/>Sannat</i><par n="Tibet__np"/></e>
+    <e lm="Ta' Xbiex"><i>Ta'<b/>Xbiex</i><par n="Tibet__np"/></e>
+    <e lm="Wied iż-Żurrieq"><i>Wied<b/>iż-Żurrieq</i><par n="Tibet__np"/></e>
+
 
     <e lm="Marie"><i>Marie</i><par n="Marija__np"/></e>
     <e lm="Marija"><i>Marija</i><par n="Marija__np"/></e>
