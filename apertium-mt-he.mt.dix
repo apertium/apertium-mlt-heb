@@ -1334,7 +1334,6 @@
     <e lm="Dumnikan"><i>Dumnikan</i><par n="nativ__adj"/></e>
     <e lm="derivat"><i>derivat</i><par n="nativ__adj"/></e>
     <e lm="protett"><i>protett</i><par n="nativ__adj"/></e>
-    <e lm="kompless"><i>kompless</i><par n="nativ__adj"/></e>
     <e lm="distint"><i>distint</i><par n="nativ__adj"/></e>
     <e lm="assoċjat"><i>assoċjat</i><par n="nativ__adj"/></e>
     <e lm="vast"><i>vast</i><par n="nativ__adj"/></e>
@@ -1348,6 +1347,7 @@
     <e lm="assolut"><i>assolut</i><par n="nativ__adj"/></e>
     <e lm="difensiv"><i>difensiv</i><par n="nativ__adj"/></e>
     <e lm="kumpless"><i>kumpless</i><par n="nativ__adj"/></e>
+    <e lm="kompless" r="LR"><p><l>kompless</l><r>kumpless</r></p><par n="nativ__adj"/></e>
     <e lm="ippubblikat"><i>ippubblikat</i><par n="nativ__adj"/></e>
     <e lm="ippublikat" r="LR"><p><l>ippublikat</l><r>ippubblikat</r></p><par n="nativ__adj"/></e>
     <e lm="introdott"><i>introdott</i><par n="nativ__adj"/></e>
