@@ -1,4 +1,0 @@
-^tħalli/*tħalli$
-^madwar/*madwar$^,/,<cm>$
-^isti/*isti$
- ^ukoll/*ukoll$
