@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<analysis-chars>
+  <!-- Make apostrophe variants equal ' -->
+  <char value="'">
+    <equiv-char value="’"/>
+    <equiv-char value="ʼ"/>
+  </char>
+
+  <!-- Common orthographical errors -->
+  <char value="ħ">
+    <equiv-char value="h"/>
+  </char>
+  <char value="Ħ">
+    <equiv-char value="H"/>
+  </char>
+
+</analysis-chars>

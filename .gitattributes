@@ -8,6 +8,7 @@
 /apertium-mt-he.he.dix -text
 /apertium-mt-he.mt-he.dix -text
 /apertium-mt-he.mt-he.t1x -text
+/apertium-mt-he.mt.acx -text
 /apertium-mt-he.mt.dix -text
 /autogen.sh -text
 /configure.ac -text
