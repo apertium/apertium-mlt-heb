@@ -946,12 +946,25 @@
     <e lm="Paceville"><i>Paceville</i><par n="Tibet__np"/></e>
     <e lm="Paola"><i>Paola</i><par n="Tibet__np"/></e>
     <e lm="Pembroke"><i>Pembroke</i><par n="Tibet__np"/></e>
+    <e lm="Ruma" c="Rome"><i>Ruma</i><par n="Tibet__np"/></e>
+    <e lm="Chelsea"><i>Chelsea</i><par n="Tibet__np"/></e>
     <e lm="San Blas"><i>San<b/>Blas</i><par n="Tibet__np"/></e>
     <e lm="San Ġiljan"><i>San<b/>Ġiljan</i><par n="Tibet__np"/></e>
     <e lm="San Ġwann"><i>San<b/>Ġwann</i><par n="Tibet__np"/></e>
     <e lm="San Lawrenz"><i>San<b/>Lawrenz</i><par n="Tibet__np"/></e>
     <e lm="San Martin"><i>San<b/>Martin</i><par n="Tibet__np"/></e>
     <e lm="San Pawl il-Bahar"><i>San<b/>Pawl<b/>il-Bahar</i><par n="Tibet__np"/></e>
+    <e lm="San Marino"><i>San<b/>Marino</i><par n="Tibet__np"/></e>
+    <e lm="San Pawl il-Belt"><i>San<b/>Pawl<b/>il-Belt</i><par n="Tibet__np"/></e>
+    <e lm="San Tumas"><i>San<b/>Tumas</i><par n="Tibet__np"/></e>
+    <e lm="San Ġużepp"><i>San<b/>Ġużepp</i><par n="Tibet__np"/></e>
+    <e lm="San Ġakbu"><i>San<b/>Ġakbu</i><par n="Tibet__np"/></e>
+    <!-- churches: -->
+    <e lm="Santa Venera"><i>Santa<b/>Venera</i><par n="Tibet__np"/></e>
+    <e lm="Santa Liberata"><i>Santa<b/>Liberata</i><par n="Tibet__np"/></e>
+    <e lm="Santa Katerina"><i>Santa<b/>Katerina</i><par n="Tibet__np"/></e>
+    <e lm="Santa Margerita"><i>Santa<b/>Margerita</i><par n="Tibet__np"/></e>
+    <e lm="Santa Luċija"><i>Santa<b/>Luċija</i><par n="Tibet__np"/></e>
     <e lm="Ta' Kerċem"><i>Ta'<b/>Kerċem</i><par n="Tibet__np"/></e>
     <e lm="Tal-Ibraġ"><i>Tal-Ibraġ</i><par n="Tibet__np"/></e>
     <e lm="Tal-Virtù"><i>Tal-Virtù</i><par n="Tibet__np"/></e>
