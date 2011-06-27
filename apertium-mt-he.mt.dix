@@ -1750,7 +1750,7 @@
   </section>
   
   <section id="verbs" type="standard">
-    <!-- Generated on: 2011-06-26 15:40 CEST -->
+    <!-- Generated on: 2011-06-28 01:51 IDT -->
     <e><p><l>kitba</l>	<r>kiteb<s n="vblex"/><s n="ger"/></r></p></e>
     <e><p><l>iktbu</l>	<r>kiteb<s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
     <e><p><l>ikteb</l>	<r>kiteb<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
@@ -2878,6 +2878,24 @@
     <e><p><l>tipparteċipa</l>	<r>ipparteċipa<s n="vblex"/><s n="pres"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>jipparteċipa</l>	<r>ipparteċipa<s n="vblex"/><s n="pres"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>jipparteċipaw</l>	<r>ipparteċipa<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
+
+    <e><p><l>irrappreżentaw</l>	<r>irrappreżenta<s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
+    <e><p><l>irrappreżenta</l>	<r>irrappreżenta<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
+    <e><p><l>irrappreżenta</l>	<r>irrappreżenta<s n="vblex"/><s n="inf"/></r></p></e>
+    <e><p><l>irrappreżentajna</l>	<r>irrappreżenta<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+    <e><p><l>irrappreżentajt</l>	<r>irrappreżenta<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+    <e><p><l>irrappreżentajtu</l>	<r>irrappreżenta<s n="vblex"/><s n="past"/><s n="p2"/><s n="pl"/></r></p></e>
+    <e><p><l>irrappreżentajt</l>	<r>irrappreżenta<s n="vblex"/><s n="past"/><s n="p2"/><s n="sg"/></r></p></e>
+    <e><p><l>irrappreżentat</l>	<r>irrappreżenta<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>irrappreżenta</l>	<r>irrappreżenta<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>irrappreżentaw</l>	<r>irrappreżenta<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/></r></p></e>
+    <e><p><l>nirrappreżentaw</l>	<r>irrappreżenta<s n="vblex"/><s n="pres"/><s n="p1"/><s n="pl"/></r></p></e>
+    <e><p><l>nirrappreżenta</l>	<r>irrappreżenta<s n="vblex"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
+    <e><p><l>tirrappreżentaw</l>	<r>irrappreżenta<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/></r></p></e>
+    <e><p><l>tirrappreżenta</l>	<r>irrappreżenta<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
+    <e><p><l>tirrappreżenta</l>	<r>irrappreżenta<s n="vblex"/><s n="pres"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>jirrappreżenta</l>	<r>irrappreżenta<s n="vblex"/><s n="pres"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>jirrappreżentaw</l>	<r>irrappreżenta<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
 
     <e><p><l>ippenetraw</l>	<r>ippenetra<s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
     <e><p><l>ippenetra</l>	<r>ippenetra<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
