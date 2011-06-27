@@ -308,14 +308,12 @@ impost	imposti	imposta
 ikkawżat	ikkawżati	ikkawżata
 identifikat	identifikati	identifikata
 ġappuniż	ġappuniżi	ġappuniża
-frank	franki	franka
 ffurmat	ffurmati	ffurmata
 astratt	astratti	astratta
 appell	appelli	appella
 Ungeriż	Ungeriżi	Ungeriża
 trasferit	trasferiti	trasferita
 primittiv	primittivi	primittiva
-Assistent	Assistenti	Assistenta
 tradott	tradotti	tradotta
 strett	stretti	stretta
 stramb	strambi	stramba
@@ -326,8 +324,6 @@ ingliż	ingliżi	ingliża
 indirizzat	indirizzati	indirizzata
 attakkat	attakkati	attakkata
 akkumpanjat	akkumpanjati	akkumpanjata
-Superjur	Superjuri	Superjura
-soċjalist	soċjalisti	soċjalista
 sensittiv	sensittivi	sensittiva
 Rumanz	Rumanzi	Rumanza
 Normann	Normanni	Normanna
@@ -390,12 +386,10 @@ ippruvat	ippruvati	ippruvata
 integrat	integrati	integrata
 iddisinjat	iddisinjati	iddisinjata
 fdat	fdati	fdata
-Faxx	Faxxi	Faxxa
 akkużat	akkużati	akkużata
 Toskan	Toskani	Toskana
 Test	Testi	Testa
 speċjalist	speċjalisti	speċjalista
-Sinjur	Sinjuri	Sinjura
 riservat	riservati	riservata
 rifless	riflessi	riflessa
 provdut	provduti	provduta
@@ -413,7 +407,6 @@ burokrat	burokrati	burokrata
 spjegat	spjegati	spjegata
 sottomarin	sottomarini	sottomarina
 rispettat	rispettati	rispettata
-Repubblikan	Repubblikani	Repubblikana
 religjuz	religjuzi	religjuza
 prezzjuż	prezzjużi	prezzjuża
 preżentat	preżentati	preżentata
@@ -425,9 +418,9 @@ Kuban	Kubani	Kubana
 kopert	koperti	koperta
 konservattiv	konservattivi	konservattiva
 konkret	konkreti	konkreta
-komunist	komunisti	komunista
 karatterizzat	karatterizzati	karatterizzata
 Jugoslav	Jugoslavi	Jugoslava
+Jugożlav	Jugożlavi	Jugożlava
 ikkritikat	ikkritikati	ikkritikata
 espressiv	espressivi	espressiva
 aren	areni	arena
@@ -449,7 +442,6 @@ kast	kasti	kasta
 inkurunat	inkurunati	inkurunata
 inklinat	inklinati	inklinata
 hall	halli	halla
-Hall	Halli	Halla
 gwardjan	gwardjani	gwardjana
 folt	folti	folta
 Finlandiż	Finlandiżi	Finlandiża
@@ -532,7 +524,6 @@ grat	grati	grata
 formulat	formulati	formulata
 figurattiv	figurattivi	figurattiva
 ferrieħ	ferrieħi	ferrieħa
-Faxxist	Faxxisti	Faxxista
 edukat	edukati	edukata
 deċisiv	deċisivi	deċisiva
 Benedittin	Benedittini	Benedittina
@@ -600,7 +591,6 @@ Vjenniż	Vjenniżi	Vjenniża
 suġġettiv	suġġettivi	suġġettiva
 stipulat	stipulati	stipulata
 stampatur	stampaturi	stampatura
-skoċċiż	skoċċiżi	skoċċiża
 Sirjan	Sirjani	Sirjana
 semplifikat	semplifikati	semplifikata
 rrekordjat	rrekordjati	rrekordjata
@@ -640,7 +630,6 @@ makakk	makakki	makakka
 Kunċett	Kunċetti	Kunċetta
 kulurit	kuluriti	kulurita
 kavalleresk	kavallereski	kavallereska
-Jugożlav	Jugożlavi	Jugożlava
 ipprattikat	ipprattikati	ipprattikata
 intenzjonat	intenzjonati	intenzjonata
 Injazjan	Injazjani	Injazjana
@@ -681,5 +670,4 @@ iffortifikat	iffortifikati	iffortifikata
 distrutt	distrutti	distrutta
 botanist	botanisti	botanista
 ballerin	ballerini	ballerina
-addatat	addatati	addatata
 aċċessat	aċċessati	aċċessata
