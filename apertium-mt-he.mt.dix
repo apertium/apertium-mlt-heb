@@ -512,6 +512,8 @@
     <e lm="għax"><i>għax</i><par n="li__cnjsub"/></e>
     <e lm="bħalma"><i>bħalma</i><par n="li__cnjsub"/></e>
     <e lm="sabiex"><i>sabiex</i><par n="li__cnjsub"/></e>
+    <e lm="minkejja li" c="although"><i>minkeijja<b/>li</i><par n="li__cnjsub"/></e>
+    <e lm="minkejja" c="despite"><i>minkeijja</i><par n="li__cnjsub"/></e>
 
     <!-- SECTION: Prepositions -->
     <e lm="kontra"><i>kontra</i><par n="kontra__pr"/></e>
@@ -526,6 +528,7 @@
     <e lm="bħala" r="LR" c="as"><p><l>bħala</l><r>bħal</r></p><par n="kontra__pr"/></e>
     <e lm="favur"><i>favur</i><par n="kontra__pr"/></e>
     <e lm="matul"><i>matul</i><par n="kontra__pr"/></e>
+    <e lm="nhar" c="on (date)"><i>nhar</i><par n="kontra__pr"/></e>
 
     <!-- SECTION: Pronouns -->
     <e lm="independent pronouns"><i/><par n="free__prn"/></e>
