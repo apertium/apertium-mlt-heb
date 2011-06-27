@@ -13,6 +13,7 @@
 /autogen.sh -text
 /configure.ac -text
 dev/adj_loops.sh -text
+dev/adj_suspected-ku-ka-ci.txt -text
 dev/adj_suspected.txt -text
 dev/bidix-verbs-to-he.dix.sh -text
 dev/concordancer.py -text
