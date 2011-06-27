@@ -771,6 +771,19 @@
     <e lm="belt"><i></i><par n="belt__n"/></e>
     <e lm="għibien"><i>għ</i><par n="għ/ibien__n"/></e>
 
+    <!-- TODO: check gender for months, and are there plurals? -->
+    <e lm="jannar" c="january"><i>jannar</i><par n="tniġġis__n"/></e>
+    <e lm="frar" c="february"><i>frar</i><par n="tniġġis__n"/></e>
+    <e lm="marzu" c="march"><i>marzu</i><par n="tniġġis__n"/></e>
+    <e lm="april" c="april"><i>april</i><par n="tniġġis__n"/></e>
+    <e lm="mejju" c="may"><i>mejju</i><par n="tniġġis__n"/></e>
+    <e lm="ġunju" c="june"><i>ġunju</i><par n="tniġġis__n"/></e>
+    <e lm="lulju july" c="july"><i>lulju july</i><par n="tniġġis__n"/></e>
+    <e lm="awwissu" c="august"><i>awwissu</i><par n="tniġġis__n"/></e>
+    <e lm="settembru" c="september"><i>settembru</i><par n="tniġġis__n"/></e>
+    <e lm="ottobru" c="october"><i>ottobru</i><par n="tniġġis__n"/></e>
+    <e lm="novembru" c="november"><i>novembru</i><par n="tniġġis__n"/></e>
+    <e lm="diċembru" c="december"><i>diċembru</i><par n="tniġġis__n"/></e>
     <!-- SECTION: Proper nouns -->
 
     <e lm="Ċina"><i>Ċina</i><par n="Malta__np"/></e>
