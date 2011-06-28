@@ -1,5 +1,6 @@
 # -*- coding: cp1252 -*-
 import urllib2
+from urllib import unquote
 import time
 
 def extractInflections():
@@ -23,7 +24,7 @@ def extractInflections():
 
     for noun in nounList:
         if count%100 == 0:
-            print count, noun
+            print count, noun.encode('utf-8')
             f = open("noun.txt", "a")
             for item in outputNoun:
                 f.writelines(item+ "\n")
@@ -192,11 +193,11 @@ def getListNouns():
             if curSource.find("<li>") != -1:
                 #End not yet reached
                 #Add word to list
-                nounList.append(curSource[:curSource.find("\"")])
+                nounList.append(unquote(curSource[:curSource.find("\"")]))
             else:
                 #End reached
                 #Add last word
-                nounList.append(curSource[:curSource.find("\"")])
+                nounList.append(unquote(curSource[:curSource.find("\"")]))
                 #Find next startword
                 startword = curSource[curSource.find("pagefrom=")+9:curSource.find("\"",curSource.find("pagefrom="))]
                 break
