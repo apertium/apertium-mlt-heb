@@ -1812,6 +1812,14 @@
     <e lm="ipotetiku"><i>ipoteti</i><par n="epi/ku__adj"/></e>
     <e lm="sferiku"><i>sferi</i><par n="epi/ku__adj"/></e>
     <e lm="probabilistiku"><i>probabilisti</i><par n="epi/ku__adj"/></e>
+    <e lm="kariżmatiku"><i>kariżmati</i><par n="epi/ku__adj"/></e>
+    <e lm="deterministiku"><i>deterministi</i><par n="epi/ku__adj"/></e>
+    <e lm="Bożnijaku"><i>Bożnija</i><par n="epi/ku__adj"/></e>
+    <e lm="topiku"><i>topi</i><par n="epi/ku__adj"/></e>
+    <e lm="simbjotiku"><i>simbjoti</i><par n="epi/ku__adj"/></e>
+    <e lm="dijabetiku"><i>dijabeti</i><par n="epi/ku__adj"/></e>
+    <e lm="Erojku"><i>Eroj</i><par n="epi/ku__adj"/></e>
+    <e lm="anakronistiku"><i>anakronisti</i><par n="epi/ku__adj"/></e>
 
     <e lm="probabbilment"><i>probabbilment</i><par n="immedjatament__adv"/></e>
     <e lm="probabilment" r="LR"><p><l>probabilment</l><r>probabbilment</r></p><par n="immedjatament__adv"/></e> 
