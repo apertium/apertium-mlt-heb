@@ -1666,6 +1666,7 @@
     <e lm="elettriku"><i>elettri</i><par n="epi/ku__adj"/></e>
     <e lm="tipiku"><i>tipi</i><par n="epi/ku__adj"/></e>
     <e lm="akkademiku"><i>akkademi</i><par n="epi/ku__adj"/></e>
+    <e lm="akademiku" r="LR"><p><l>akademi</l><r>akkademi</r></p><par n="epi/ku__adj"/></e>
     <e lm="Ewkaristiku"><i>Ewkaristi</i><par n="epi/ku__adj"/></e>
     <e lm="satiriku"><i>satiri</i><par n="epi/ku__adj"/></e>
     <e lm="loġiku"><i>loġi</i><par n="epi/ku__adj"/></e>
@@ -1690,6 +1691,7 @@
     <e lm="bijoloġiku"><i>bijoloġi</i><par n="epi/ku__adj"/></e>
     <e lm="statiku"><i>stati</i><par n="epi/ku__adj"/></e>
     <e lm="bibliku"><i>bibli</i><par n="epi/ku__adj"/></e>
+    <e lm="bibbliku" r="LR"><p><l>bibbli</l><r>bibli</r></p><par n="epi/ku__adj"/></e>
     <e lm="simpatiku"><i>simpati</i><par n="epi/ku__adj"/></e>
     <e lm="profetiku"><i>profeti</i><par n="epi/ku__adj"/></e>
     <e lm="fantastiku"><i>fantasti</i><par n="epi/ku__adj"/></e>
@@ -1699,7 +1701,6 @@
     <e lm="arkeoloġiku"><i>arkeoloġi</i><par n="epi/ku__adj"/></e>
     <e lm="Apostoliku"><i>Apostoli</i><par n="epi/ku__adj"/></e>
     <e lm="umoristiku"><i>umoristi</i><par n="epi/ku__adj"/></e>
-    <e lm="Bibliku"><i>Bibli</i><par n="epi/ku__adj"/></e>
     <e lm="teoloġiku"><i>teoloġi</i><par n="epi/ku__adj"/></e>
     <e lm="paċifiku"><i>paċifi</i><par n="epi/ku__adj"/></e>
     <e lm="manjetiku"><i>manjeti</i><par n="epi/ku__adj"/></e>
@@ -1734,6 +1735,83 @@
     <e lm="numeriku"><i>numeri</i><par n="epi/ku__adj"/></e>
     <e lm="alkoħoliku"><i>alkoħoli</i><par n="epi/ku__adj"/></e>
     <e lm="teoretiku"><i>teoreti</i><par n="epi/ku__adj"/></e>
+    <e lm="demografiku"><i>demografi</i><par n="epi/ku__adj"/></e>
+    <e lm="publiku"><i>publi</i><par n="epi/ku__adj"/></e>
+    <e lm="preistoriku"><i>preistori</i><par n="epi/ku__adj"/></e>
+    <e lm="plastiku"><i>plasti</i><par n="epi/ku__adj"/></e>
+    <e lm="geografiku"><i>geografi</i><par n="epi/ku__adj"/></e>
+    <e lm="enerġetiku"><i>enerġeti</i><par n="epi/ku__adj"/></e>
+    <e lm="fonetiku"><i>foneti</i><par n="epi/ku__adj"/></e>
+    <e lm="stilistiku"><i>stilisti</i><par n="epi/ku__adj"/></e>
+    <e lm="pragmatiku"><i>pragmati</i><par n="epi/ku__adj"/></e>
+    <e lm="Joniku"><i>Joni</i><par n="epi/ku__adj"/></e>
+    <e lm="gotiku"><i>goti</i><par n="epi/ku__adj"/></e>
+    <e lm="eżotiku"><i>eżoti</i><par n="epi/ku__adj"/></e>
+    <e lm="didattiku"><i>didatti</i><par n="epi/ku__adj"/></e>
+    <e lm="Ekklesjastiku"><i>Ekklesjasti</i><par n="epi/ku__adj"/></e>
+    <e lm="bioloġiku"><i>bioloġi</i><par n="epi/ku__adj"/></e>
+    <e lm="Artiku"><i>Arti</i><par n="epi/ku__adj"/></e>
+    <e lm="materjalistiku"><i>materjalisti</i><par n="epi/ku__adj"/></e>
+    <e lm="ekklesjastiku"><i>ekklesjasti</i><par n="epi/ku__adj"/></e>
+    <e lm="dijalettiku"><i>dijaletti</i><par n="epi/ku__adj"/></e>
+    <e lm="ġuridiku"><i>ġuridi</i><par n="epi/ku__adj"/></e>
+    <e lm="enigmatiku"><i>enigmati</i><par n="epi/ku__adj"/></e>
+    <e lm="Asjatiku"><i>Asjati</i><par n="epi/ku__adj"/></e>
+    <e lm="vulkaniku"><i>vulkani</i><par n="epi/ku__adj"/></e>
+    <e lm="Nordiku"><i>Nordi</i><par n="epi/ku__adj"/></e>
+    <e lm="kronoloġiku"><i>kronoloġi</i><par n="epi/ku__adj"/></e>
+    <e lm="kirurġiku"><i>kirurġi</i><par n="epi/ku__adj"/></e>
+    <e lm="Gotiku"><i>Goti</i><par n="epi/ku__adj"/></e>
+    <e lm="ġeometriku"><i>ġeometri</i><par n="epi/ku__adj"/></e>
+    <e lm="ġometriku" r="LR"><p><l>ġometri</l><r>ġeometri</r></p><par n="epi/ku__adj"/></e>
+    <e lm="Baltiku"><i>Balti</i><par n="epi/ku__adj"/></e>
+    <e lm="mitoloġiku"><i>mitoloġi</i><par n="epi/ku__adj"/></e>
+    <e lm="kardijaku"><i>kardija</i><par n="epi/ku__adj"/></e>
+    <e lm="robotiku"><i>roboti</i><par n="epi/ku__adj"/></e>
+    <e lm="problematiku"><i>problemati</i><par n="epi/ku__adj"/></e>
+    <e lm="mikroskopiku"><i>mikroskopi</i><par n="epi/ku__adj"/></e>
+    <e lm="ellittiku"><i>ellitti</i><par n="epi/ku__adj"/></e>
+    <e lm="arkittetoniku"><i>arkittetoni</i><par n="epi/ku__adj"/></e>
+    <e lm="ritmiku"><i>ritmi</i><par n="epi/ku__adj"/></e>
+    <e lm="pornografiku"><i>pornografi</i><par n="epi/ku__adj"/></e>
+    <e lm="morfoloġiku"><i>morfoloġi</i><par n="epi/ku__adj"/></e>
+    <e lm="magiku"><i>magi</i><par n="epi/ku__adj"/></e>
+    <e lm="kaotiku"><i>kaoti</i><par n="epi/ku__adj"/></e>
+    <e lm="ħolistiku"><i>ħolisti</i><par n="epi/ku__adj"/></e>
+    <e lm="generiku"><i>generi</i><par n="epi/ku__adj"/></e>
+    <e lm="Ċeltiku"><i>Ċelti</i><par n="epi/ku__adj"/></e>
+    <e lm="Balkaniku"><i>Balkani</i><par n="epi/ku__adj"/></e>
+    <e lm="anatomiku"><i>anatomi</i><par n="epi/ku__adj"/></e>
+    <e lm="Napoleoniku"><i>Napoleoni</i><par n="epi/ku__adj"/></e>
+    <e lm="kożmiku"><i>kożmi</i><par n="epi/ku__adj"/></e>
+    <e lm="ġeoloġiku"><i>ġeoloġi</i><par n="epi/ku__adj"/></e>
+    <e lm="teoriku"><i>teori</i><par n="epi/ku__adj"/></e>
+    <e lm="programmatiku"><i>programmati</i><par n="epi/ku__adj"/></e>
+    <e lm="prammatiku"><i>prammati</i><par n="epi/ku__adj"/></e>
+    <e lm="pedagoġiku"><i>pedagoġi</i><par n="epi/ku__adj"/></e>
+    <e lm="paternalistiku"><i>paternalisti</i><par n="epi/ku__adj"/></e>
+    <e lm="farmaċewtiku"><i>farmaċewti</i><par n="epi/ku__adj"/></e>
+    <e lm="empiriku"><i>empiri</i><par n="epi/ku__adj"/></e>
+    <e lm="ċilindriku"><i>ċilindri</i><par n="epi/ku__adj"/></e>
+    <e lm="atmosferiku"><i>atmosferi</i><par n="epi/ku__adj"/></e>
+    <e lm="akwatiku"><i>akwati</i><par n="epi/ku__adj"/></e>
+    <e lm="akkwatiku" r="LR"><p><l>akkwati</l><r>akwati</r></p><par n="epi/ku__adj"/></e>
+    <e lm="Platoniku"><i>Platoni</i><par n="epi/ku__adj"/></e>
+    <e lm="ontoloġiku"><i>ontoloġi</i><par n="epi/ku__adj"/></e>
+    <e lm="nazzjonalistiku"><i>nazzjonalisti</i><par n="epi/ku__adj"/></e>
+    <e lm="Ġermaniku"><i>Ġermani</i><par n="epi/ku__adj"/></e>
+    <e lm="fisiku"><i>fisi</i><par n="epi/ku__adj"/></e>
+    <e lm="awtokratiku"><i>awtokrati</i><par n="epi/ku__adj"/></e>
+    <e lm="sinottiku"><i>sinotti</i><par n="epi/ku__adj"/></e>
+    <e lm="futuristiku"><i>futuristi</i><par n="epi/ku__adj"/></e>
+    <e lm="filarmoniku"><i>filarmoni</i><par n="epi/ku__adj"/></e>
+    <e lm="Arkeoloġiku"><i>Arkeoloġi</i><par n="epi/ku__adj"/></e>
+    <e lm="anarkiku"><i>anarki</i><par n="epi/ku__adj"/></e>
+    <e lm="allegoriku"><i>allegori</i><par n="epi/ku__adj"/></e>
+    <e lm="trigonometriku"><i>trigonometri</i><par n="epi/ku__adj"/></e>
+    <e lm="ipotetiku"><i>ipoteti</i><par n="epi/ku__adj"/></e>
+    <e lm="sferiku"><i>sferi</i><par n="epi/ku__adj"/></e>
+    <e lm="probabilistiku"><i>probabilisti</i><par n="epi/ku__adj"/></e>
 
     <e lm="probabbilment"><i>probabbilment</i><par n="immedjatament__adv"/></e>
     <e lm="probabilment" r="LR"><p><l>probabilment</l><r>probabbilment</r></p><par n="immedjatament__adv"/></e> 
