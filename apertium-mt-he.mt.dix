@@ -1279,6 +1279,7 @@
     <e lm="Daniż"><i>Daniż</i><par n="reliġjuż__adj"/></e>
     <e lm="Fillandiż"><i>Fillandiż</i><par n="reliġjuż__adj"/></e>
     <e lm="Franċiż"><i>Franċiż</i><par n="reliġjuż__adj"/></e>
+    <e lm="Franciz" r="LR"><p><l>Franciz</l><r>Franċiż</r></p><par n="nativ__adj"/></e>
     <e lm="Furjaniż"><i>Furjaniż</i><par n="reliġjuż__adj"/></e>
     <e lm="Galliż"><i>Galliż</i><par n="reliġjuż__adj"/></e>
     <e lm="Ġappuniż"><i>Ġappuniż</i><par n="reliġjuż__adj"/></e>
@@ -1564,7 +1565,8 @@
     <e lm="Kuban"><i>Kuban</i><par n="nativ__adj"/></e>
     <e lm="konservattiv"><i>konservattiv</i><par n="nativ__adj"/></e>
     <e lm="konkret"><i>konkret</i><par n="nativ__adj"/></e>
-    <e lm="karatterizzat"><i>karatterizzat</i><par n="nativ__adj"/></e>
+    <e lm="kkaratterizzat"><i>kkaratterizzat</i><par n="nativ__adj"/></e>
+    <e lm="karatterizzat" r="RL"><p><l>karatterizzat</l><r>kkaratterizzat</r></p><par n="nativ__adj"/></e>
     <e lm="Jugoslav"><i>Jugoslav</i><par n="nativ__adj"/></e>
     <e lm="ikkritikat"><i>ikkritikat</i><par n="nativ__adj"/></e>
     <e lm="espressiv"><i>espressiv</i><par n="nativ__adj"/></e>
@@ -1661,6 +1663,79 @@
     <e lm="unifikat"><i>unifikat</i><par n="nativ__adj"/></e>
     <e lm="Trojjan"><i>Trojjan</i><par n="nativ__adj"/></e>
     <e lm="sanzjonat"><i>sanzjonat</i><par n="nativ__adj"/></e>
+    <e lm="pulit"><i>pulit</i><par n="nativ__adj"/></e>
+    <e lm="proklamat"><i>proklamat</i><par n="nativ__adj"/></e>
+    <e lm="prattikat"><i>prattikat</i><par n="nativ__adj"/></e>
+    <e lm="Pariġin"><i>Pariġin</i><par n="nativ__adj"/></e>
+    <e lm="konċernat"><i>konċernat</i><par n="nativ__adj"/></e>
+    <e lm="komplikat"><i>komplikat</i><par n="nativ__adj"/></e>
+    <e lm="irrispettat"><i>irrispettat</i><par n="nativ__adj"/></e>
+    <e lm="immirat"><i>immirat</i><par n="nativ__adj"/></e>
+    <e lm="emendat"><i>emendat</i><par n="nativ__adj"/></e>
+    <e lm="dekorat"><i>dekorat</i><par n="nativ__adj"/></e>
+    <e lm="cert"><i>cert</i><par n="nativ__adj"/></e>
+    <e lm="Bask"><i>Bask</i><par n="nativ__adj"/></e>
+    <e lm="Arjan"><i>Arjan</i><par n="nativ__adj"/></e>
+    <e lm="appassjonat"><i>appassjonat</i><par n="nativ__adj"/></e>
+    <e lm="analizzat"><i>analizzat</i><par n="nativ__adj"/></e>
+    <e lm="akkanit"><i>akkanit</i><par n="nativ__adj"/></e>
+    <e lm="Vjenniż"><i>Vjenniż</i><par n="nativ__adj"/></e>
+    <e lm="suġġettiv"><i>suġġettiv</i><par n="nativ__adj"/></e>
+    <e lm="stipulat"><i>stipulat</i><par n="nativ__adj"/></e>
+    <e lm="Sirjan"><i>Sirjan</i><par n="nativ__adj"/></e>
+    <e lm="semplifikat"><i>semplifikat</i><par n="nativ__adj"/></e>
+    <e lm="rrekordjat"><i>rrekordjat</i><par n="nativ__adj"/></e>
+    <e lm="rilaxxat"><i>rilaxxat</i><par n="nativ__adj"/></e>
+    <e lm="rifjutat"><i>rifjutat</i><par n="nativ__adj"/></e>
+    <e lm="restawrat"><i>restawrat</i><par n="nativ__adj"/></e>
+    <e lm="ratifikat"><i>ratifikat</i><par n="nativ__adj"/></e>
+    <e lm="preparat"><i>preparat</i><par n="nativ__adj"/></e>
+    <e lm="pprovdut"><i>pprovdut</i><par n="nativ__adj"/></e>
+    <e lm="passiv"><i>passiv</i><par n="nativ__adj"/></e>
+    <e lm="novizz"><i>novizz</i><par n="nativ__adj"/></e>
+    <e lm="kuraġġuż"><i>kuraġġuż</i><par n="nativ__adj"/></e>
+    <e lm="innovattiv"><i>innovattiv</i><par n="nativ__adj"/></e>
+    <e lm="Inġliż"><i>Inġliż</i><par n="nativ__adj"/></e>
+    <e lm="indirett"><i>indirett</i><par n="nativ__adj"/></e>
+    <e lm="ikkupjat"><i>ikkupjat</i><par n="nativ__adj"/></e>
+    <e lm="fondat"><i>fondat</i><par n="nativ__adj"/></e>
+    <e lm="ffortifikat"><i>ffortifikat</i><par n="nativ__adj"/></e>
+    <e lm="eżaminat"><i>eżaminat</i><par n="nativ__adj"/></e>
+    <e lm="distribwit"><i>distribwit</i><par n="nativ__adj"/></e>
+    <e lm="diffuż"><i>diffuż</i><par n="nativ__adj"/></e>
+    <e lm="awtorizzat"><i>awtorizzat</i><par n="nativ__adj"/></e>
+    <e lm="affettwat"><i>affettwat</i><par n="nativ__adj"/></e>
+    <e lm="suspettat"><i>suspettat</i><par n="nativ__adj"/></e>
+    <e lm="kulurit"><i>kulurit</i><par n="nativ__adj"/></e>
+    <e lm="ipprattikat"><i>ipprattikat</i><par n="nativ__adj"/></e>
+    <e lm="intenzjonat"><i>intenzjonat</i><par n="nativ__adj"/></e>
+    <e lm="implikat"><i>implikat</i><par n="nativ__adj"/></e>
+    <e lm="ikkundanat"><i>ikkundanat</i><par n="nativ__adj"/></e>
+    <e lm="ikkonċentrat"><i>ikkonċentrat</i><par n="nativ__adj"/></e>
+    <e lm="enfasizzat"><i>enfasizzat</i><par n="nativ__adj"/></e>
+    <e lm="elaborat"><i>elaborat</i><par n="nativ__adj"/></e>
+    <e lm="effetwat"><i>effetwat</i><par n="nativ__adj"/></e>
+    <e lm="bilanċjat"><i>bilanċjat</i><par n="nativ__adj"/></e>
+    <e lm="bbilanċjat" r="LR"><p><l>bbilanċjat</l><r>bilanċjat</r></p><par n="nativ__adj"/></e>
+    <e lm="attivat"><i>attivat</i><par n="nativ__adj"/></e>
+    <e lm="armonjuż"><i>armonjuż</i><par n="nativ__adj"/></e>
+    <e lm="Armen"><i>Armen</i><par n="nativ__adj"/></e>
+    <e lm="stilizzat"><i>stilizzat</i><par n="nativ__adj"/></e>
+    <e lm="standardizzat"><i>standardizzat</i><par n="nativ__adj"/></e>
+    <e lm="simplifikat"><i>simplifikat</i><par n="nativ__adj"/></e>
+    <e lm="riprodott"><i>riprodott</i><par n="nativ__adj"/></e>
+    <e lm="presedut"><i>presedut</i><par n="nativ__adj"/></e>
+    <e lm="poġġut"><i>poġġut</i><par n="nativ__adj"/></e>
+    <e lm="Norvegiz"><i>Norvegiz</i><par n="nativ__adj"/></e>
+    <e lm="korett"><i>korett</i><par n="nativ__adj"/></e>
+    <e lm="Kastiljan"><i>Kastiljan</i><par n="nativ__adj"/></e>
+    <e lm="kapitalizzat"><i>kapitalizzat</i><par n="nativ__adj"/></e>
+    <e lm="inserit"><i>inserit</i><par n="nativ__adj"/></e>
+    <e lm="ikklasifikat"><i>ikklasifikat</i><par n="nativ__adj"/></e>
+    <e lm="iffortifikat"><i>iffortifikat</i><par n="nativ__adj"/></e>
+    <e lm="ġenerat"><i>ġenerat</i><par n="nativ__adj"/></e>
+    <e lm="distrutt"><i>distrutt</i><par n="nativ__adj"/></e>
+    <e lm="aċċessat"><i>aċċessat</i><par n="nativ__adj"/></e>
 
     <e lm="kroniku"><i>kroni</i><par n="epi/ku__adj"/></e>
     <e lm="elettriku"><i>elettri</i><par n="epi/ku__adj"/></e>
