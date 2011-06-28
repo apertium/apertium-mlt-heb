@@ -16,6 +16,7 @@ dev/adj_loops.sh -text
 dev/adj_suspected-ku-ka-ci.txt -text
 dev/adj_suspected-ku-ka-ci.verified.txt -text
 dev/adj_suspected.txt -text
+dev/adj_suspected.verified.txt -text
 dev/bidix-verbs-to-he.dix.sh -text
 dev/concordancer.py -text
 dev/dout.nouns.shemp.dix -text
