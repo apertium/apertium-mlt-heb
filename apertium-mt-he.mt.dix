@@ -1024,6 +1024,7 @@
     <e lm="qalb"><i>q</i><par n="q/alb__n_m"/></e>
     <e lm="liebru"><i>liebr</i><par n="buff/u__n_m"/></e>
     <e lm="filosfu"><i>filosf</i><par n="buff/u__n_m"/></e>
+    <e lm="kalendarju"><i>kalendarj</i><par n="buff/u__n_m"/></e>
     <e lm="kanzunetta"><i>kanzunett</i><par n="lingw/a__n_f"/></e>
     <e lm="popolazzjoni"><i>popolazzjoni</i><par n="unjoni__n_f"/></e>
     <e lm="ħsieb"><i>ħsi</i><par n="ħsi/eb__n_m"/></e>
@@ -1122,7 +1123,6 @@
     <e lm="bżonn"><i>bżonn</i><par n="Ċek__n_m"/></e>
     <e lm="ilsien"><i>ilsien</i><par n="Ċek__n_m"/></e>
     <e lm="għajnuna"><i>għajnuna</i><par n="oxx__n_f"/></e>
-    <e lm="kalendarju"><i>kalendarju</i><par n="Ċek__n_m"/></e>
     <e lm="ħġieġ"><i>ħġieġ</i><par n="Ċek__n_m"/></e>
     <e lm="Milied"><i>Milied</i><par n="Ċek__n_m"/></e>
     <e lm="wiċċ"><i>wiċċ</i><par n="Ċek__n_m"/></e>
@@ -1943,6 +1943,21 @@
     <e lm="hemm" c="there ('There are …')"><i>hemm</i><par n="immedjatament__adv"/></e>
 
     <e lm="hekk"><i>hekk</i><par n="immedjatament__adv"/></e>
+
+    <e lm="isfel"><i>isfel</i><par n="immedjatament__adv"/></e>
+    <e lm="mhux"><i>mhux</i><par n="immedjatament__adv"/></e>
+    <e lm="barra"><i>barra</i><par n="immedjatament__adv"/></e>
+    <e lm="illum"><i>illum</i><par n="immedjatament__adv"/></e>
+    <e lm="ilu"><i>ilu</i><par n="immedjatament__adv"/></e>
+    <e lm="lanqas"><i>lanqas</i><par n="immedjatament__adv"/></e>
+    <e lm="tassew"><i>tassew</i><par n="immedjatament__adv"/></e>
+    <e lm="sesswalment"><i>sesswalment</i><par n="immedjatament__adv"/></e>
+    <e lm="speċifikament"><i>speċifikament</i><par n="immedjatament__adv"/></e>
+    <e lm="iva"><i>iva</i><par n="immedjatament__adv"/></e>
+    <e lm="essenzjalment"><i>essenzjalment</i><par n="immedjatament__adv"/></e>
+    <e lm="litteralment"><i>litteralment</i><par n="immedjatament__adv"/></e>
+    <e lm="bażikament"><i>bażikament</i><par n="immedjatament__adv"/></e>
+
 
     <e lm="astronomikament"><i>astronomikament</i><par n="immedjatament__adv"/></e>
     <e lm="direttament"><i>direttament</i><par n="immedjatament__adv"/></e>
