@@ -57,7 +57,13 @@ dev/mt_verbs/classes/strong_double_mid_radical.py -text
 dev/mt_verbs/classes/vaux_kien.py -text
 dev/mt_verbs/stems.csv -text
 dev/mt_verbs/verbs.py -text
+dev/mt_wiktionary/noun.all.dix -text
+dev/mt_wiktionary/noun.all.fat.dix -text
+dev/mt_wiktionary/noun.dix -text
 dev/mt_wiktionary/noun.speling -text
+dev/mt_wiktionary/nounNoNumber.all.dix -text
+dev/mt_wiktionary/nounNoNumber.all.fat.dix -text
+dev/mt_wiktionary/nounNoNumber.dix -text
 dev/mt_wiktionary/nounNoNumber.speling -text
 dev/paragraph1.out -text
 dev/paragraph1.txt -text
