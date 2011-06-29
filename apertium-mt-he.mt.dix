@@ -51,6 +51,7 @@
     <sdef n="obj"         c="Object"/>
     <sdef n="def"         c="Definite"/>
     <sdef n="ind"         c="Indefinite"/>
+    <sdef n="qnt"         c="Quantifier"/>
     <sdef n="pos"         c="Possessive"/>
     <sdef n="itg"         c="Interrogative"/>
 
@@ -263,7 +264,24 @@
       <e r="LR"><p><l>ż-</l><r>l<s n="det"/><s n="def"/></r></p></e>
       <e r="RL"><p><l><a/>l-</l><r>l<s n="det"/><s n="def"/></r></p></e>
     </pardef>
-   
+    
+    <pardef n="oħra__det">
+      <e><p><l/><r><s n="det"/><s n="ind"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e><p><l>jn</l><r><s n="det"/><s n="ind"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
+
+    <pardef n="aħħar__det">
+      <e><p><l/><r><s n="det"/><s n="ord"/><s n="mf"/><s n="sp"/></r></p></e>
+    </pardef>
+
+    <pardef n="aktar__det">
+      <e><p><l/><r><s n="det"/><s n="qnt"/><s n="mf"/><s n="sp"/></r></p></e>
+    </pardef>
+
+    <pardef n="ħafna__det">
+      <e><p><l/><r><s n="det"/><s n="qnt"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
+
     <pardef n="diversi__det">
       <e><p><l/><r><s n="det"/><s n="ind"/><s n="mf"/><s n="pl"/></r></p></e>
     </pardef>
@@ -358,6 +376,11 @@
   <pardef n="espressjoni__n">
     <e><p><l></l><r><s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>jiet</l><r><s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+  </pardef>
+
+  <pardef n="s/ena__n">
+    <e><p><l>ena</l><r>ena<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>nin</l><r>ena<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
   </pardef>
 
   <pardef n="ar/ja__n">
@@ -626,6 +649,11 @@
   </pardef>
 
 
+  <pardef n="kollha__adj">
+    <e><p><l></l><r><s n="adj"/><s n="ind"/><s n="mf"/><s n="sp"/></r></p></e>
+  </pardef>
+
+
   <pardef n="nativ__adj">
     <e><p><l></l><r><s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>a</l><r><s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
@@ -667,6 +695,7 @@
     <!-- SECTION: Prepositions -->
     <e lm="kontra"><i>kontra</i><par n="kontra__pr"/></e>
     <e lm="dwar"><i>dwar</i><par n="kontra__pr"/></e>
+    <e lm="bejn" c="between"><i>bejn</i><par n="kontra__pr"/></e>
     <e lm="minn"><i>minn</i><par n="kontra__pr"/></e>
     <e lm="fuq"><i>fuq</i><par n="kontra__pr"/></e>
     <e lm="wara"><i>wara</i><par n="kontra__pr"/></e>
@@ -708,7 +737,7 @@
     
     <e lm="xi" c="some"><i>xi</i><par n="xi__prn"/></e>
     <e lm="kemm" c="both"><i>kemm</i><par n="xi__prn"/></e>
-    <e lm="hafna" c="many"><i>hafna</i><par n="xi__prn"/></e>
+    <e lm="ħafna" c="many"><i>ħafna</i><par n="xi__prn"/></e>
     <e lm="ftit" c="few"><i>ftit</i><par n="xi__prn"/></e>
     <e lm="oħrajn" c="others"><i>oħrajn</i><par n="xi__prn"/></e>
     <e lm="diversi" c="several"><i>diversi</i><par n="xi__prn"/></e>
@@ -721,6 +750,11 @@
     <e lm="kemm iequm" c="how much"><i>kemm<b/>iqum</i><par n="kemm_iequm__prn"/></e>
 
     <e lm="diversi" c="several"><i>diversi</i><par n="diversi__det"/></e>
+    <e lm="oħra" c="other"><i>oħra</i><par n="oħra__det"/></e>
+    <e lm="ħafna" c="many"><i>ħafna</i><par n="ħafna__det"/></e>
+    <e lm="aktar" c="more"><i>aktar</i><par n="aktar__det"/></e>
+
+    <e lm="aħħar" c="last"><i>aħħar</i><par n="aħħar__det"/></e>
     
     <e lm="dan" c="this/these"><i>d</i><par n="d/an__det"/></e>    
     <e lm="dak" c="that/those"><i>d</i><par n="d/ak__det"/></e>
@@ -741,7 +775,8 @@
 
     <!-- SECTION: Numerals -->
     <e lm="wieħed" c="one"><i>w</i><par n="w/ieħed__num"/></e>
-    <e lm="tnejn" c="two"><i>tnejn</i><par n="tnejn__num"/></e>
+    <e lm="tnejn" c="two"><i>tnejn</i><par n="tnejn__num"/></e> <!-- TODO: Check -->
+    <e lm="żewġ" c="two"><i>żewġ</i><par n="tnejn__num"/></e> <!-- TODO: Check -->
     <e lm="tliet" c="three"><i>tli</i><par n="tli/eta__num"/></e>
     <e lm="erbgħa" c="four"><i>erbgħa</i><par n="tnejn__num"/></e>
     <e lm="ħamsa" c="five"><i>ħam</i><par n="ħam/sa__num"/></e>
@@ -793,6 +828,7 @@
     <e lm="dar"><i>d</i><par n="d/ar__n"/></e>
     <e lm="ktieb"><i>k</i><par n="k/tieb__n"/></e>
     <e lm="reliġjon"><i>reliġjon</i><par n="reliġjon__n"/></e>
+    <e lm="tim"><i>tim</i><par n="reliġjon__n"/></e>
 
     <e lm="entità"><i>entit</i><par n="entit/à__n_f"/></e>
     <e lm="possibilità"><i>possibilit</i><par n="entit/à__n_f"/></e>
@@ -918,11 +954,15 @@
     <e lm="grupp"><i>grupp</i><par n="grupp__n"/></e>
 
     <e lm="arja"><i>ar</i><par n="ar/ja__n"/></e>
+    <e lm="sena"><i>s</i><par n="s/ena__n"/></e>
 
     <e lm="molestja"><i>molestja</i><par n="molestja__n"/></e> <!-- verify gender -->
     <e lm="tniġġis"><i>tniġġis</i><par n="tniġġis__n"/></e> <!-- verify gender -->
 
     <e lm="proposta"><i>propost</i><par n="propost/a__n"/></e>
+    <e lm="familja"><i>familj</i><par n="propost/a__n"/></e>
+    <e lm="sottofamilja"><i>sottofamilj</i><par n="propost/a__n"/></e>
+    <e lm="superfamilja"><i>superfamilj</i><par n="propost/a__n"/></e>
     <e lm="żona"><i>żon</i><par n="propost/a__n"/></e>
     <e lm="tortura"><i>tortur</i><par n="propost/a__n"/></e>
     <e lm="politika"><i>politik</i><par n="propost/a__n"/></e>
@@ -1551,6 +1591,8 @@
 
     <!-- SECTION: Adjectives -->
 
+    <e lm="kollha"><i>kollha</i><par n="kollha__adj"/></e>
+
     <e lm="politiku"><i>politi</i><par n="teknoloġi/ku__adj"/></e>
     <e lm="elettroniku"><i>elettroni</i><par n="teknoloġi/ku__adj"/></e>
     <e lm="uniku"><i>uni</i><par n="teknoloġi/ku__adj"/></e>
@@ -1882,18 +1924,23 @@
 
     <e lm="ma"><i>ma</i><par n="ma__adv"/></e>
 
-    <e lm="kif" c="how"><i>kif</i><par n="kif__adv"/></e>
     <e lm="biex" c="with what"><i>biex</i><par n="kif__adv"/></e>
+    <e lm="fejn" c="where"><i>fejn</i><par n="kif__adv"/></e>
     <e lm="għala" c="why"><i>għala</i><par n="kif__adv"/></e>
+    <e lm="għalfejn" c="for what reason"><i>għalfejn</i><par n="kif__adv"/></e>
+    <e lm="għaliex" c="why"><i>għaliex</i><par n="kif__adv"/></e>
     <e lm="jaqaw" c="can it be"><i>jaqaw</i><par n="kif__adv"/></e>
     <e lm="jewilla" c="by any chance"><i>jewilla</i><par n="kif__adv"/></e>
-    <e lm="għalfejn" c="for what reason"><i>għalfejn</i><par n="kif__adv"/></e>
+    <e lm="kif" c="how"><i>kif</i><par n="kif__adv"/></e>
+    <e lm="xiex" c="what"><i>xiex</i><par n="kif__adv"/></e>
+    <e lm="minn sa fejn" c="by what right"><i>minn<b/>sa<b/>fejn</i><par n="kif__adv"/></e>
     <e lm="mnejn" c="from where"><i>mnejn</i><par n="kif__adv"/></e>
     <e lm="safejn" c="till where"><i>safejn</i><par n="kif__adv"/></e>
-    <e lm="minn sa fejn" c="by what right"><i>minn<b/>sa<b/>fejn</i><par n="kif__adv"/></e>
-    <e lm="għaliex" c="why"><i>għaliex</i><par n="kif__adv"/></e>
+
 
     <e lm="hemm" c="there ('There are …')"><i>hemm</i><par n="immedjatament__adv"/></e>
+
+    <e lm="hekk"><i>hekk</i><par n="immedjatament__adv"/></e>
 
     <e lm="astronomikament"><i>astronomikament</i><par n="immedjatament__adv"/></e>
     <e lm="direttament"><i>direttament</i><par n="immedjatament__adv"/></e>
@@ -2347,6 +2394,14 @@
     <e lm="warajna" r="LR"><p><l>warajna</l><r>wara<s n="pr"/><j/>na<s n="prn"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
     <e lm="warajkom" r="LR"><p><l>warajkom</l><r>wara<s n="pr"/><j/>kom<s n="prn"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p></e>
     <e lm="warajhom" r="LR"><p><l>warajhom</l><r>wara<s n="pr"/><j/>hom<s n="prn"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
+
+    <e lm="bejni" r="LR"><p><l>bejni</l><r>bejn<s n="pr"/><j/>i<s n="prn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e lm="bejnek" r="LR"><p><l>bejnek</l><r>bejn<s n="pr"/><j/>ek<s n="prn"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e lm="bejnu" r="LR"><p><l>bejnu</l><r>bejn<s n="pr"/><j/>u<s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="bejnha" r="LR"><p><l>bejnha</l><r>bejn<s n="pr"/><j/>ha<s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="bejnna" r="LR"><p><l>bejnna</l><r>bejn<s n="pr"/><j/>na<s n="prn"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
+    <e lm="bejnkom" r="LR"><p><l>bejnkom</l><r>bejn<s n="pr"/><j/>kom<s n="prn"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p></e>
+    <e lm="bejnhom" r="LR"><p><l>bejnhom</l><r>bejn<s n="pr"/><j/>hom<s n="prn"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
 
 
 
