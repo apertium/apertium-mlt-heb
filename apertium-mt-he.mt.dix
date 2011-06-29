@@ -437,6 +437,16 @@
     <e r="LR"><p><l>s</l><r>t<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
   </pardef>
 
+  <pardef n="opponent__n_GD">
+    <e><p><l></l><r><s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
+    <e><p><l>i</l><r><s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
+  </pardef>
+
+  <pardef n="ġener/u__n__GD">
+    <e><p><l>u</l><r>u<r><s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
+    <e><p><l>i</l><r>u<r><s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
+  </pardef>
+
   <pardef n="unjoni__n_f">
     <e><p><l></l><r><s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>jiet</l><r><s n="n"/><s n="f"/><s n="pl"/></r></p></e>
@@ -911,6 +921,17 @@
     <e lm="novembru" c="november"><i>novembru</i><par n="tniġġis__n"/></e>
     <e lm="diċembru" c="december"><i>diċembru</i><par n="tniġġis__n"/></e>
 
+    <e lm="kontinent"><i>kontinent</i><par n="opponent__n_GD"/></e>
+    <e lm="komponent"><i>komponenti</i><par n="opponent__n_GD"/></e>
+    <e lm="opponent"><i>opponent</i><par n="opponent__n_GD"/></e>
+    <e lm="esponent"><i>esponent</i><par n="opponent__n_GD"/></e>
+
+    <e lm="ġeneru"><i>ġener</i><par n="ġener/u__n__GD"/></e>
+    <e lm="mammiferu"><i>mammifer</i><par n="ġener/u__n__GD"/></e>
+    <e lm="ministru"><i>ministr</i><par n="ġener/u__n__GD"/></e>
+    <e lm="ottubru"><i>ottubr</i><par n="ġener/u__n__GD"/></e>
+    <e lm="membru"><i>membr</i><par n="ġener/u__n__GD"/></e>
+
     <!-- Generated from Wiktionary scripts: -->
     <e lm="ġurnata"><i>ġ</i><par n="ġ/urnata__n_f"/></e>
     <e lm="annimal"><i>annimal</i><par n="vjal__n_m"/></e>
@@ -920,14 +941,12 @@
     <e lm="pjaneta"><i>pjanet</i><par n="pjanet/a__n_m"/></e>
     <e lm="lingwa"><i>lingw</i><par n="lingw/a__n_f"/></e>
     <e lm="pjaneta"><i>pjanet</i><par n="pjanet/a__n_m"/></e>
-    <e lm="lingwa"><i>lingw</i><par n="lingw/a__n_f"/></e>
     <e lm="qalb"><i>q</i><par n="q/alb__n_m"/></e>
     <e lm="liebru"><i>liebr</i><par n="buff/u__n_m"/></e>
     <e lm="kanzunetta"><i>kanzunett</i><par n="lingw/a__n_f"/></e>
     <e lm="popolazzjoni"><i>popolazzjoni</i><par n="unjoni__n_f"/></e>
     <e lm="ħsieb"><i>ħsi</i><par n="ħsi/eb__n_m"/></e>
     <e lm="liebru"><i>liebr</i><par n="buff/u__n_m"/></e>
-    <e lm="reliġjon"><i>reliġjon</i><par n="dixx__n_m"/></e>
     <e lm="poeżija"><i>poeżij</i><par n="lingw/a__n_f"/></e>
     <e lm="tifel"><i>t</i><par n="t/ifel__n_m"/></e>
     <e lm="proġett"><i>proġett</i><par n="vjal__n_m"/></e>
@@ -975,7 +994,6 @@
     <e lm="teknoloġija"><i>teknoloġij</i><par n="lingw/a__n_f"/></e>
     <e lm="sigurtà"><i>sigurt</i><par n="karit/à__n_f"/></e>
     <e lm="qattus"><i>q</i><par n="q/attus__n_m"/></e>
-    <e lm="qalb"><i>q</i><par n="q/alb__n_m"/></e>
     <e lm="qattus"><i>q</i><par n="q/attus__n_m"/></e>
     <e lm="pjaċir"><i>pjaċir</i><par n="vjal__n_m"/></e>
     <e lm="manifestazzjoni"><i>manifestazzjoni</i><par n="unjoni__n_f"/></e>
@@ -1012,45 +1030,25 @@
     <e lm="beżżula"><i>b</i><par n="b/eżżula__n_f"/></e>
     <e lm="beżżula"><i>b</i><par n="b/eżżula__n_f"/></e>
 
-
-
-    <e lm="żmien"><i>żmien</i><par n="Ċek__n_GD"/></e>
-    <e lm="żmien"><i>żmien</i><par n="Ċek__n_m"/></e>
-    <e lm="numru"><i>numru</i><par n="Ċek__n_GD"/></e>
-    <e lm="numru"><i>numru</i><par n="Ċek__n_m"/></e>
-    <e lm="seklu"><i>seklu</i><par n="Ċek__n_GD"/></e>
-    <e lm="seklu"><i>seklu</i><par n="Ċek__n_m"/></e>
+    <e lm="żmien"><i>żmien</i><par n="espressjoni__n"/></e>
+    <e lm="numru"><i>numru</i><par n="espressjoni__n"/></e>
+    <e lm="seklu"><i>seklu</i><par n="espressjoni__n"/></e>
     <e lm="ġurnata"><i>ġurnata</i><par n="Ċek__n_GD"/></e>
-    <e lm="Taljan"><i>Taljan</i><par n="Ċek__n_GD"/></e>
-    <e lm="Taljan"><i>Taljan</i><par n="Ċek__n_m"/></e>
-    <e lm="lingwa"><i>lingwa</i><par n="Ċek__n_GD"/></e>
     <e lm="ġurdien"><i>ġurdien</i><par n="Ċek__n_GD"/></e>
-    <e lm="ġurdien"><i>ġurdien</i><par n="Ċek__n_m"/></e>
     <e lm="frott"><i>frott</i><par n="Ċek__n_m"/></e>
     <e lm="pjaneta"><i>pjaneta</i><par n="Ċek__n_GD"/></e>
     <e lm="gvern"><i>gvern</i><par n="Ċek__n_m"/></e>
-    <e lm="Grieg"><i>Grieg</i><par n="Ċek__n_GD"/></e>
     <e lm="Grieg"><i>Grieg</i><par n="Ċek__n_m"/></e>
-    <e lm="qalb"><i>qalb</i><par n="Ċek__n_GD"/></e>
     <e lm="bżonn"><i>bżonn</i><par n="Ċek__n_m"/></e>
-    <e lm="ilsien"><i>ilsien</i><par n="Ċek__n_GD"/></e>
     <e lm="ilsien"><i>ilsien</i><par n="Ċek__n_m"/></e>
-    <e lm="Ġermaniż"><i>Ġermaniż</i><par n="Ċek__n_GD"/></e>
-    <e lm="Ġermaniż"><i>Ġermaniż</i><par n="Ċek__n_m"/></e>
     <e lm="għajnuna"><i>għajnuna</i><par n="oxx__n_f"/></e>
     <e lm="Taljana"><i>Taljana</i><par n="oxx__n_f"/></e>
-    <e lm="Taljana"><i>Taljana</i><par n="Ċek__n_GD"/></e>
-    <e lm="kalendarju"><i>kalendarju</i><par n="Ċek__n_GD"/></e>
     <e lm="kalendarju"><i>kalendarju</i><par n="Ċek__n_m"/></e>
-    <e lm="ħġieġ"><i>ħġieġ</i><par n="Ċek__n_GD"/></e>
     <e lm="ħġieġ"><i>ħġieġ</i><par n="Ċek__n_m"/></e>
     <e lm="Milied"><i>Milied</i><par n="Ċek__n_m"/></e>
     <e lm="wiċċ"><i>wiċċ</i><par n="Ċek__n_m"/></e>
     <e lm="reliġjon"><i>reliġjon</i><par n="Ċek__n_GD"/></e>
-    <e lm="raħal"><i>raħal</i><par n="Ċek__n_GD"/></e>
     <e lm="raħal"><i>raħal</i><par n="Ċek__n_m"/></e>
-    <e lm="arja"><i>arja</i><par n="oxx__n_f"/></e>
-    <e lm="arja"><i>arja</i><par n="Ċek__n_GD"/></e>
     <e lm="paġna"><i>paġna</i><par n="Ċek__n_GD"/></e>
     <e lm="paġna"><i>paġna</i><par n="oxx__n_f"/></e>
     <e lm="verżjoni"><i>verżjoni</i><par n="oxx__n_f"/></e>
@@ -1071,14 +1069,11 @@
     <e lm="sitwazzjoni"><i>sitwazzjoni</i><par n="Ċek__n_GD"/></e>
     <e lm="punent"><i>punent</i><par n="Ċek__n_GD"/></e>
     <e lm="punent"><i>punent</i><par n="Ċek__n_m"/></e>
-    <e lm="ħalib"><i>ħalib</i><par n="Ċek__n_GD"/></e>
     <e lm="ħalib"><i>ħalib</i><par n="Ċek__n_m"/></e>
     <e lm="griż"><i>griż</i><par n="Ċek__n_m"/></e>
     <e lm="ġenerazzjoni"><i>ġenerazzjoni</i><par n="Ċek__n_GD"/></e>
     <e lm="formazzjoni"><i>formazzjoni</i><par n="Ċek__n_GD"/></e>
     <e lm="rebbiegħa"><i>rebbiegħa</i><par n="oxx__n_f"/></e>
-    <e lm="rebbiegħa"><i>rebbiegħa</i><par n="Ċek__n_GD"/></e>
-    <e lm="missier"><i>missier</i><par n="Ċek__n_GD"/></e>
     <e lm="missier"><i>missier</i><par n="Ċek__n_m"/></e>
     <e lm="librerija"><i>librerija</i><par n="oxx__n_f"/></e>
     <e lm="ġranet"><i>ġranet</i><par n="Ċek__n_GD"/></e>
@@ -1089,72 +1084,51 @@
     <e lm="siegħa"><i>siegħa</i><par n="Ċek__n_GD"/></e>
     <e lm="pulizija"><i>pulizija</i><par n="oxx__n_f"/></e>
     <e lm="ħuta"><i>ħuta</i><par n="oxx__n_f"/></e>
-    <e lm="għerf"><i>għerf</i><par n="Ċek__n_GD"/></e>
     <e lm="għerf"><i>għerf</i><par n="Ċek__n_m"/></e>
     <e lm="Ġermaniża"><i>Ġermaniża</i><par n="oxx__n_f"/></e>
-    <e lm="Ġermaniża"><i>Ġermaniża</i><par n="Ċek__n_GD"/></e>
+    <e lm="Ġermaniż"><i>Ġermaniż</i><par n="Ċek__n_m"/></e>
     <e lm="fehma"><i>fehma</i><par n="oxx__n_f"/></e>
-    <e lm="disinn"><i>disinn</i><par n="Ċek__n_GD"/></e>
     <e lm="disinn"><i>disinn</i><par n="Ċek__n_m"/></e>
     <e lm="bieb"><i>bieb</i><par n="Ċek__n_m"/></e>
     <e lm="varjazzjoni"><i>varjazzjoni</i><par n="Ċek__n_GD"/></e>
-    <e lm="matematiku"><i>matematiku</i><par n="Ċek__n_GD"/></e>
     <e lm="matematiku"><i>matematiku</i><par n="Ċek__n_m"/></e>
-    <e lm="kimiku"><i>kimiku</i><par n="Ċek__n_GD"/></e>
     <e lm="kimiku"><i>kimiku</i><par n="Ċek__n_m"/></e>
-    <e lm="karbonju"><i>karbonju</i><par n="Ċek__n_GD"/></e>
     <e lm="karbonju"><i>karbonju</i><par n="Ċek__n_m"/></e>
-    <e lm="iben"><i>iben</i><par n="Ċek__n_GD"/></e>
     <e lm="iben"><i>iben</i><par n="Ċek__n_m"/></e>
     <e lm="żiemel"><i>żiemel</i><par n="Ċek__n_GD"/></e>
-    <e lm="sptar"><i>sptar</i><par n="Ċek__n_GD"/></e>
     <e lm="sptar"><i>sptar</i><par n="Ċek__n_m"/></e>
-    <e lm="oħt"><i>oħt</i><par n="Ċek__n_GD"/></e>
     <e lm="oħt"><i>oħt</i><par n="oxx__n_f"/></e>
-    <e lm="muntanja"><i>muntanja</i><par n="Ċek__n_GD"/></e>
     <e lm="muntanja"><i>muntanja</i><par n="oxx__n_f"/></e>
-    <e lm="idroġenu"><i>idroġenu</i><par n="Ċek__n_GD"/></e>
     <e lm="idroġenu"><i>idroġenu</i><par n="Ċek__n_m"/></e>
-    <e lm="Feniċju"><i>Feniċju</i><par n="Ċek__n_GD"/></e>
     <e lm="Feniċju"><i>Feniċju</i><par n="Ċek__n_m"/></e>
     <e lm="ċrieki"><i>ċrieki</i><par n="Ċek__n_GD"/></e>
-    <e lm="Sqalli"><i>Sqalli</i><par n="Ċek__n_GD"/></e>
     <e lm="Sqalli"><i>Sqalli</i><par n="Ċek__n_m"/></e>
     <e lm="sbuħija"><i>sbuħija</i><par n="oxx__n_f"/></e>
     <e lm="psikoloġija"><i>psikoloġija</i><par n="oxx__n_f"/></e>
     <e lm="Portugiża"><i>Portugiża</i><par n="oxx__n_f"/></e>
-    <e lm="Portugiża"><i>Portugiża</i><par n="Ċek__n_GD"/></e>
     <e lm="pjaċir"><i>pjaċir</i><par n="Ċek__n_GD"/></e>
     <e lm="oċean"><i>oċean</i><par n="Ċek__n_m"/></e>
     <e lm="manifestazzjoni"><i>manifestazzjoni</i><par n="Ċek__n_GD"/></e>
-    <e lm="lvant"><i>lvant</i><par n="Ċek__n_GD"/></e>
     <e lm="lvant"><i>lvant</i><par n="Ċek__n_m"/></e>
-    <e lm="lsien"><i>lsien</i><par n="Ċek__n_GD"/></e>
     <e lm="lsien"><i>lsien</i><par n="Ċek__n_m"/></e>
     <e lm="karità"><i>karità</i><par n="Ċek__n_GD"/></e>
-    <e lm="indiċi"><i>indiċi</i><par n="Ċek__n_GD"/></e>
     <e lm="indiċi"><i>indiċi</i><par n="Ċek__n_m"/></e>
     <e lm="iljunfant"><i>iljunfant</i><par n="Ċek__n_m"/></e>
     <e lm="għarusa"><i>għarusa</i><par n="oxx__n_f"/></e>
     <e lm="għadira"><i>għadira</i><par n="oxx__n_f"/></e>
     <e lm="ġeografija"><i>ġeografija</i><par n="oxx__n_f"/></e>
-    <e lm="driegħ"><i>driegħ</i><par n="Ċek__n_GD"/></e>
     <e lm="driegħ"><i>driegħ</i><par n="Ċek__n_m"/></e>
-    <e lm="difer"><i>difer</i><par n="Ċek__n_GD"/></e>
     <e lm="difer"><i>difer</i><par n="Ċek__n_m"/></e>
     <e lm="deżerti"><i>deżerti</i><par n="Ċek__n_GD"/></e>
     <e lm="ċriev"><i>ċriev</i><par n="Ċek__n_GD"/></e>
     <e lm="ċifra"><i>ċifra</i><par n="oxx__n_f"/></e>
-    <e lm="ċifra"><i>ċifra</i><par n="Ċek__n_GD"/></e>
     <e lm="borża"><i>borża</i><par n="oxx__n_f"/></e>
     <e lm="baħri"><i>baħri</i><par n="Ċek__n_m"/></e>
-    <e lm="aġġettiv"><i>aġġettiv</i><par n="Ċek__n_GD"/></e>
     <e lm="aġġettiv"><i>aġġettiv</i><par n="Ċek__n_m"/></e>
     <e lm="zokkor"><i>zokkor</i><par n="Ċek__n_m"/></e>
     <e lm="żebbuġ"><i>żebbuġ</i><par n="Ċek__n_m"/></e>
     <e lm="superstizzjoni"><i>superstizzjoni</i><par n="Ċek__n_GD"/></e>
     <e lm="ringiela"><i>ringiela</i><par n="oxx__n_f"/></e>
-    <e lm="ringiela"><i>ringiela</i><par n="Ċek__n_GD"/></e>
     <e lm="proprjetà"><i>proprjetà</i><par n="Ċek__n_GD"/></e>
     <e lm="papra"><i>papra</i><par n="oxx__n_f"/></e>
     <e lm="oranġjo"><i>oranġjo</i><par n="Ċek__n_GD"/></e>
@@ -1168,15 +1142,11 @@
     <e lm="ħarifa"><i>ħarifa</i><par n="Ċek__n_GD"/></e>
     <e lm="ġenitali"><i>ġenitali</i><par n="Ċek__n_m"/></e>
     <e lm="fidda"><i>fidda</i><par n="oxx__n_f"/></e>
-    <e lm="fidda"><i>fidda</i><par n="Ċek__n_GD"/></e>
     <e lm="dundjan"><i>dundjan</i><par n="Ċek__n_m"/></e>
-    <e lm="ċomb"><i>ċomb</i><par n="Ċek__n_GD"/></e>
     <e lm="ċomb"><i>ċomb</i><par n="Ċek__n_m"/></e>
     <e lm="Ċeka"><i>Ċeka</i><par n="oxx__n_f"/></e>
-    <e lm="Ċeka"><i>Ċeka</i><par n="Ċek__n_GD"/></e>
     <e lm="bijodiversità"><i>bijodiversità</i><par n="oxx__n_f"/></e>
     <e lm="balluta"><i>balluta</i><par n="oxx__n_f"/></e>
-    <e lm="astroloġija"><i>astroloġija</i><par n="Ċek__n_GD"/></e>
     <e lm="astroloġija"><i>astroloġija</i><par n="oxx__n_f"/></e>
     <e lm="anġlu"><i>anġlu</i><par n="Ċek__n_m"/></e>
 
