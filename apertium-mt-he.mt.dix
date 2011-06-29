@@ -406,9 +406,9 @@
 
   <!-- TODO find gender for all of these.. marked GD for now -->
   <pardef n="entit/à__n">
-    <e><p><l>à</l><r>à<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
-    <e r="LR"><p><l>a</l><r>à<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
-    <e><p><l>ajiet</l><r>à<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
+    <e><p><l>à</l><r>à<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    <e r="LR"><p><l>a</l><r>à<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>ajiet</l><r>à<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
   </pardef>
 
   <pardef n="wegħd/a__n">
@@ -426,8 +426,8 @@
   </pardef>
 
   <pardef n="propost/a__n">
-    <e><p><l>a</l><r>a<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
-    <e><p><l>i</l><r>a<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
+    <e><p><l>a</l><r>a<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>i</l><r>a<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
   </pardef>
 
   <pardef n="bojkot/t__n">
@@ -442,9 +442,15 @@
     <e><p><l>i</l><r><s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
   </pardef>
 
-  <pardef n="ġener/u__n__GD">
+  <pardef n="ġener/u__n_GD">
     <e><p><l>u</l><r>u<r><s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
     <e><p><l>i</l><r>u<r><s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
+  </pardef>
+
+  <pardef n="Taljan__n">
+    <e><p><l></l><r><s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>a</l><r><s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>i</l><r><s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
   </pardef>
 
   <pardef n="unjoni__n_f">
@@ -926,13 +932,16 @@
     <e lm="opponent"><i>opponent</i><par n="opponent__n_GD"/></e>
     <e lm="esponent"><i>esponent</i><par n="opponent__n_GD"/></e>
 
-    <e lm="ġeneru"><i>ġener</i><par n="ġener/u__n__GD"/></e>
-    <e lm="mammiferu"><i>mammifer</i><par n="ġener/u__n__GD"/></e>
-    <e lm="ministru"><i>ministr</i><par n="ġener/u__n__GD"/></e>
-    <e lm="ottubru"><i>ottubr</i><par n="ġener/u__n__GD"/></e>
-    <e lm="membru"><i>membr</i><par n="ġener/u__n__GD"/></e>
+    <e lm="ġeneru"><i>ġener</i><par n="ġener/u__n_GD"/></e>
+    <e lm="mammiferu"><i>mammifer</i><par n="ġener/u__n_GD"/></e>
+    <e lm="ministru"><i>ministr</i><par n="ġener/u__n_GD"/></e>
+    <e lm="ottubru"><i>ottubr</i><par n="ġener/u__n_GD"/></e>
+    <e lm="membru"><i>membr</i><par n="ġener/u__n_GD"/></e>
 
     <!-- Generated from Wiktionary scripts: -->
+    <e lm="Taljan"><i>Taljan</i><par n="Taljan__n"/></e>
+    <e lm="Ġermaniż"><i>Ġermaniż</i><par n="Taljan__n"/></e>
+
     <e lm="ġurnata"><i>ġ</i><par n="ġ/urnata__n_f"/></e>
     <e lm="annimal"><i>annimal</i><par n="vjal__n_m"/></e>
     <e lm="pajjiż"><i>pajjiż</i><par n="vjal__n_m"/></e>
@@ -987,7 +996,6 @@
     <e lm="unjoni"><i>unjoni</i><par n="unjoni__n_f"/></e>
     <e lm="teknoloġija"><i>teknoloġij</i><par n="lingw/a__n_f"/></e>
     <e lm="sħubija"><i>sħubij</i><par n="sħubij/a__n_f"/></e>
-    <e lm="reliġjon"><i>reliġjon</i><par n="dixx__n_m"/></e>
     <e lm="manifestazzjoni"><i>manifestazzjoni</i><par n="unjoni__n_f"/></e>
     <e lm="kwistjoni"><i>kwistjoni</i><par n="unjoni__n_f"/></e>
     <e lm="traġedja"><i>traġedj</i><par n="lingw/a__n_f"/></e>
@@ -1042,12 +1050,10 @@
     <e lm="bżonn"><i>bżonn</i><par n="Ċek__n_m"/></e>
     <e lm="ilsien"><i>ilsien</i><par n="Ċek__n_m"/></e>
     <e lm="għajnuna"><i>għajnuna</i><par n="oxx__n_f"/></e>
-    <e lm="Taljana"><i>Taljana</i><par n="oxx__n_f"/></e>
     <e lm="kalendarju"><i>kalendarju</i><par n="Ċek__n_m"/></e>
     <e lm="ħġieġ"><i>ħġieġ</i><par n="Ċek__n_m"/></e>
     <e lm="Milied"><i>Milied</i><par n="Ċek__n_m"/></e>
     <e lm="wiċċ"><i>wiċċ</i><par n="Ċek__n_m"/></e>
-    <e lm="reliġjon"><i>reliġjon</i><par n="Ċek__n_GD"/></e>
     <e lm="raħal"><i>raħal</i><par n="Ċek__n_m"/></e>
     <e lm="paġna"><i>paġna</i><par n="Ċek__n_GD"/></e>
     <e lm="paġna"><i>paġna</i><par n="oxx__n_f"/></e>
@@ -1061,18 +1067,15 @@
     <e lm="ġimgħa"><i>ġimgħa</i><par n="oxx__n_f"/></e>
     <e lm="ġebla"><i>ġebla</i><par n="oxx__n_f"/></e>
     <e lm="tifla"><i>tifla</i><par n="oxx__n_f"/></e>
-    <e lm="tifla"><i>tifla</i><par n="Ċek__n_GD"/></e>
     <e lm="abitat"><i>abitat</i><par n="Ċek__n_m"/></e>
     <e lm="żaqq"><i>żaqq</i><par n="oxx__n_f"/></e>
     <e lm="enerġija"><i>enerġija</i><par n="oxx__n_f"/></e>
-    <e lm="Taljani"><i>Taljani</i><par n="Ċek__n_GD"/></e>
-    <e lm="sitwazzjoni"><i>sitwazzjoni</i><par n="Ċek__n_GD"/></e>
-    <e lm="punent"><i>punent</i><par n="Ċek__n_GD"/></e>
+    <e lm="sitwazzjoni"><i>sitwazzjoni</i><par n="espressjoni__n"/></e>
     <e lm="punent"><i>punent</i><par n="Ċek__n_m"/></e>
     <e lm="ħalib"><i>ħalib</i><par n="Ċek__n_m"/></e>
     <e lm="griż"><i>griż</i><par n="Ċek__n_m"/></e>
-    <e lm="ġenerazzjoni"><i>ġenerazzjoni</i><par n="Ċek__n_GD"/></e>
-    <e lm="formazzjoni"><i>formazzjoni</i><par n="Ċek__n_GD"/></e>
+    <e lm="ġenerazzjoni"><i>ġenerazzjoni</i><par n="espressjoni__n"/></e>
+    <e lm="formazzjoni"><i>formazzjoni</i><par n="espressjoni__n"/></e>
     <e lm="rebbiegħa"><i>rebbiegħa</i><par n="oxx__n_f"/></e>
     <e lm="missier"><i>missier</i><par n="Ċek__n_m"/></e>
     <e lm="librerija"><i>librerija</i><par n="oxx__n_f"/></e>
@@ -1085,12 +1088,10 @@
     <e lm="pulizija"><i>pulizija</i><par n="oxx__n_f"/></e>
     <e lm="ħuta"><i>ħuta</i><par n="oxx__n_f"/></e>
     <e lm="għerf"><i>għerf</i><par n="Ċek__n_m"/></e>
-    <e lm="Ġermaniża"><i>Ġermaniża</i><par n="oxx__n_f"/></e>
-    <e lm="Ġermaniż"><i>Ġermaniż</i><par n="Ċek__n_m"/></e>
     <e lm="fehma"><i>fehma</i><par n="oxx__n_f"/></e>
     <e lm="disinn"><i>disinn</i><par n="Ċek__n_m"/></e>
     <e lm="bieb"><i>bieb</i><par n="Ċek__n_m"/></e>
-    <e lm="varjazzjoni"><i>varjazzjoni</i><par n="Ċek__n_GD"/></e>
+    <e lm="varjazzjoni"><i>varjazzjoni</i><par n="espressjoni__n"/></e>
     <e lm="matematiku"><i>matematiku</i><par n="Ċek__n_m"/></e>
     <e lm="kimiku"><i>kimiku</i><par n="Ċek__n_m"/></e>
     <e lm="karbonju"><i>karbonju</i><par n="Ċek__n_m"/></e>
@@ -1108,7 +1109,7 @@
     <e lm="Portugiża"><i>Portugiża</i><par n="oxx__n_f"/></e>
     <e lm="pjaċir"><i>pjaċir</i><par n="Ċek__n_GD"/></e>
     <e lm="oċean"><i>oċean</i><par n="Ċek__n_m"/></e>
-    <e lm="manifestazzjoni"><i>manifestazzjoni</i><par n="Ċek__n_GD"/></e>
+    <e lm="manifestazzjoni"><i>manifestazzjoni</i><par n="espressjoni__n"/></e>
     <e lm="lvant"><i>lvant</i><par n="Ċek__n_m"/></e>
     <e lm="lsien"><i>lsien</i><par n="Ċek__n_m"/></e>
     <e lm="karità"><i>karità</i><par n="Ċek__n_GD"/></e>
@@ -1127,19 +1128,16 @@
     <e lm="aġġettiv"><i>aġġettiv</i><par n="Ċek__n_m"/></e>
     <e lm="zokkor"><i>zokkor</i><par n="Ċek__n_m"/></e>
     <e lm="żebbuġ"><i>żebbuġ</i><par n="Ċek__n_m"/></e>
-    <e lm="superstizzjoni"><i>superstizzjoni</i><par n="Ċek__n_GD"/></e>
+    <e lm="superstizzjoni"><i>superstizzjoni</i><par n="espressjoni__n"/></e>
     <e lm="ringiela"><i>ringiela</i><par n="oxx__n_f"/></e>
     <e lm="proprjetà"><i>proprjetà</i><par n="Ċek__n_GD"/></e>
     <e lm="papra"><i>papra</i><par n="oxx__n_f"/></e>
-    <e lm="oranġjo"><i>oranġjo</i><par n="Ċek__n_GD"/></e>
     <e lm="oranġjo"><i>oranġjo</i><par n="Ċek__n_m"/></e>
     <e lm="lejla"><i>lejla</i><par n="oxx__n_f"/></e>
-    <e lm="lejla"><i>lejla</i><par n="Ċek__n_GD"/></e>
-    <e lm="kontribuzzjoni"><i>kontribuzzjoni</i><par n="Ċek__n_GD"/></e>
-    <e lm="konnotazzjoni"><i>konnotazzjoni</i><par n="Ċek__n_GD"/></e>
+    <e lm="kontribuzzjoni"><i>kontribuzzjoni</i><par n="espressjoni__n"/></e>
+    <e lm="konnotazzjoni"><i>konnotazzjoni</i><par n="espressjoni__n"/></e>
     <e lm="ilbies"><i>ilbies</i><par n="Ċek__n_GD"/></e>
     <e lm="ħarifa"><i>ħarifa</i><par n="oxx__n_f"/></e>
-    <e lm="ħarifa"><i>ħarifa</i><par n="Ċek__n_GD"/></e>
     <e lm="ġenitali"><i>ġenitali</i><par n="Ċek__n_m"/></e>
     <e lm="fidda"><i>fidda</i><par n="oxx__n_f"/></e>
     <e lm="dundjan"><i>dundjan</i><par n="Ċek__n_m"/></e>
@@ -1650,7 +1648,6 @@
     <e lm="Olandiż"><i>Olandiż</i><par n="reliġjuż__adj"/></e>
     <e lm="Portugiż"><i>Portugiż</i><par n="reliġjuż__adj"/></e>
     <e lm="Tajlandiż"><i>Tajlandiż</i><par n="reliġjuż__adj"/></e>
-
     <e lm="Tibetan"><i>Tibetan</i><par n="reliġjuż__adj"/></e>
 
     <e lm="barran"><i>barran</i><par n="barran__adj"/></e>
