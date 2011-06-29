@@ -405,7 +405,7 @@
   </pardef>
 
   <!-- TODO find gender for all of these.. marked GD for now -->
-  <pardef n="entit/à__n">
+  <pardef n="entit/à__n_f">
     <e><p><l>à</l><r>à<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e r="LR"><p><l>a</l><r>à<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>ajiet</l><r>à<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
@@ -443,8 +443,8 @@
   </pardef>
 
   <pardef n="ġener/u__n_GD">
-    <e><p><l>u</l><r>u<r><s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
-    <e><p><l>i</l><r>u<r><s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
+    <e><p><l>u</l><r>u<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
+    <e><p><l>i</l><r>u<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
   </pardef>
 
   <pardef n="Taljan__n">
@@ -489,7 +489,7 @@
     <e><p><l>eb</l><r>eb<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>bijiet</l><r>eb<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
   </pardef>
-  <pardef n="karit/à__n_f">
+  <pardef n="entit/à__n_f">
     <e><p><l>à</l><r>à<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>ajiet</l><r>à<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
   </pardef>
@@ -787,9 +787,9 @@
     <e lm="ktieb"><i>k</i><par n="k/tieb__n"/></e>
     <e lm="reliġjon"><i>reliġjon</i><par n="reliġjon__n"/></e>
 
-    <e lm="entità"><i>entit</i><par n="entit/à__n"/></e>
-    <e lm="possibilità"><i>possibilit</i><par n="entit/à__n"/></e>
-    <e lm="diffikultà"><i>diffikult</i><par n="entit/à__n"/></e>
+    <e lm="entità"><i>entit</i><par n="entit/à__n_f"/></e>
+    <e lm="possibilità"><i>possibilit</i><par n="entit/à__n_f"/></e>
+    <e lm="diffikultà"><i>diffikult</i><par n="entit/à__n_f"/></e>
 
     <e lm="espressjoni"><i>espressjoni</i><par n="espressjoni__n"/></e>
     <e lm="preokkupazzjoni"><i>preokkupazzjoni</i><par n="espressjoni__n"/></e>
@@ -968,12 +968,12 @@
     <e lm="deżert"><i>deżert</i><par n="vjal__n_m"/></e>
     <e lm="operazzjoni"><i>operazzjoni</i><par n="unjoni__n_f"/></e>
     <e lm="deċiżjoni"><i>deċiżjoni</i><par n="unjoni__n_f"/></e>
-    <e lm="soċjetà"><i>soċjet</i><par n="karit/à__n_f"/></e>
+    <e lm="soċjetà"><i>soċjet</i><par n="entit/à__n_f"/></e>
     <e lm="sitwazzjoni"><i>sitwazzjoni</i><par n="unjoni__n_f"/></e>
     <e lm="operazzjoni"><i>operazzjoni</i><par n="unjoni__n_f"/></e>
     <e lm="ġenerazzjoni"><i>ġenerazzjoni</i><par n="unjoni__n_f"/></e>
     <e lm="formazzjoni"><i>formazzjoni</i><par n="unjoni__n_f"/></e>
-    <e lm="varjetà"><i>varjet</i><par n="karit/à__n_f"/></e>
+    <e lm="varjetà"><i>varjet</i><par n="entit/à__n_f"/></e>
     <e lm="siġġu"><i>siġġ</i><par n="siġġ/u__n_m"/></e>
     <e lm="kwistjoni"><i>kwistjoni</i><par n="unjoni__n_f"/></e>
     <e lm="introduzzjoni"><i>introduzzjoni</i><par n="unjoni__n_f"/></e>
@@ -981,10 +981,10 @@
     <e lm="tabib"><i>t</i><par n="t/abib__n_m"/></e>
     <e lm="tarbija"><i>t</i><par n="t/arbija__n_f"/></e>
     <e lm="tabib"><i>t</i><par n="t/abib__n_m"/></e>
-    <e lm="kwalità"><i>kwalit</i><par n="karit/à__n_f"/></e>
+    <e lm="kwalità"><i>kwalit</i><par n="entit/à__n_f"/></e>
     <e lm="attriċi"><i>att</i><par n="att/riċi__n_f"/></e>
     <e lm="żiemel"><i>ż</i><par n="ż/iemel__n_m"/></e>
-    <e lm="varjetà"><i>varjet</i><par n="karit/à__n_f"/></e>
+    <e lm="varjetà"><i>varjet</i><par n="entit/à__n_f"/></e>
     <e lm="varjazzjoni"><i>varjazzjoni</i><par n="unjoni__n_f"/></e>
     <e lm="popolazzjoni"><i>popolazzjoni</i><par n="unjoni__n_f"/></e>
     <e lm="invenzjoni"><i>invenzjoni</i><par n="unjoni__n_f"/></e>
@@ -1000,16 +1000,16 @@
     <e lm="kwistjoni"><i>kwistjoni</i><par n="unjoni__n_f"/></e>
     <e lm="traġedja"><i>traġedj</i><par n="lingw/a__n_f"/></e>
     <e lm="teknoloġija"><i>teknoloġij</i><par n="lingw/a__n_f"/></e>
-    <e lm="sigurtà"><i>sigurt</i><par n="karit/à__n_f"/></e>
+    <e lm="sigurtà"><i>sigurt</i><par n="entit/à__n_f"/></e>
     <e lm="qattus"><i>q</i><par n="q/attus__n_m"/></e>
     <e lm="qattus"><i>q</i><par n="q/attus__n_m"/></e>
     <e lm="pjaċir"><i>pjaċir</i><par n="vjal__n_m"/></e>
     <e lm="manifestazzjoni"><i>manifestazzjoni</i><par n="unjoni__n_f"/></e>
-    <e lm="karità"><i>karit</i><par n="karit/à__n_f"/></e>
+    <e lm="karità"><i>karit</i><par n="entit/à__n_f"/></e>
     <e lm="ġenerazzjoni"><i>ġenerazzjoni</i><par n="unjoni__n_f"/></e>
     <e lm="dipartiment"><i>dipartiment</i><par n="vjal__n_m"/></e>
     <e lm="dipartiment"><i>dipartiment</i><par n="vjal__n_m"/></e>
-    <e lm="diffikultà"><i>diffikult</i><par n="karit/à__n_f"/></e>
+    <e lm="diffikultà"><i>diffikult</i><par n="entit/à__n_f"/></e>
     <e lm="deżert"><i>deżert</i><par n="vjal__n_m"/></e>
     <e lm="ċerv"><i>ċ</i><par n="ċ/erv__n_m"/></e>
     <e lm="attur"><i>attur</i><par n="vjal__n_m"/></e>
@@ -1019,9 +1019,9 @@
     <e lm="varjazzjoni"><i>varjazzjoni</i><par n="unjoni__n_f"/></e>
     <e lm="traġedja"><i>traġedj</i><par n="lingw/a__n_f"/></e>
     <e lm="superstizzjoni"><i>superstizzjoni</i><par n="unjoni__n_f"/></e>
-    <e lm="soċjetà"><i>soċjet</i><par n="karit/à__n_f"/></e>
-    <e lm="proprjetà"><i>proprjet</i><par n="karit/à__n_f"/></e>
-    <e lm="proprjetà"><i>proprjet</i><par n="karit/à__n_f"/></e>
+    <e lm="soċjetà"><i>soċjet</i><par n="entit/à__n_f"/></e>
+    <e lm="proprjetà"><i>proprjet</i><par n="entit/à__n_f"/></e>
+    <e lm="proprjetà"><i>proprjet</i><par n="entit/à__n_f"/></e>
     <e lm="proġett"><i>proġett</i><par n="vjal__n_m"/></e>
     <e lm="nominazzjoni"><i>nominazzjoni</i><par n="unjoni__n_f"/></e>
     <e lm="nagħġa"><i>nagħ</i><par n="nagħ/ġa__n_f"/></e>
@@ -1033,8 +1033,8 @@
     <e lm="konnotazzjoni"><i>konnotazzjoni</i><par n="unjoni__n_f"/></e>
     <e lm="kaptana"><i>kaptan</i><par n="lingw/a__n_f"/></e>
     <e lm="gzira"><i>gz</i><par n="gz/ira__n_f"/></e>
-    <e lm="fakultà"><i>fakult</i><par n="karit/à__n_f"/></e>
-    <e lm="fakultà"><i>fakult</i><par n="karit/à__n_f"/></e>
+    <e lm="fakultà"><i>fakult</i><par n="entit/à__n_f"/></e>
+    <e lm="fakultà"><i>fakult</i><par n="entit/à__n_f"/></e>
     <e lm="beżżula"><i>b</i><par n="b/eżżula__n_f"/></e>
     <e lm="beżżula"><i>b</i><par n="b/eżżula__n_f"/></e>
 
@@ -1112,7 +1112,6 @@
     <e lm="manifestazzjoni"><i>manifestazzjoni</i><par n="espressjoni__n"/></e>
     <e lm="lvant"><i>lvant</i><par n="Ċek__n_m"/></e>
     <e lm="lsien"><i>lsien</i><par n="Ċek__n_m"/></e>
-    <e lm="karità"><i>karità</i><par n="Ċek__n_GD"/></e>
     <e lm="indiċi"><i>indiċi</i><par n="Ċek__n_m"/></e>
     <e lm="iljunfant"><i>iljunfant</i><par n="Ċek__n_m"/></e>
     <e lm="għarusa"><i>għarusa</i><par n="oxx__n_f"/></e>
