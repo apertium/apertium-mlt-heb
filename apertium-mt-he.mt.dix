@@ -448,9 +448,9 @@
   </pardef>
 
   <pardef n="Taljan__n">
-    <e><p><l></l><r><s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
-    <e><p><l>a</l><r><s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
-    <e><p><l>i</l><r><s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
+    <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>a</l><r><s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>i</l><r><s n="n"/><s n="mf"/><s n="pl"/></r></p></e>
   </pardef>
 
   <pardef n="unjoni__n_f">
@@ -618,6 +618,13 @@
     <e><p><l></l><r><s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
     <e><p><l>in</l><r><s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
   </pardef>
+
+  <pardef n="Malti__adj">
+    <e><p><l></l><r><s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>ja</l><r><s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>n</l><r><s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
+  </pardef>
+
 
   <pardef n="nativ__adj">
     <e><p><l></l><r><s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
@@ -790,6 +797,30 @@
     <e lm="entità"><i>entit</i><par n="entit/à__n_f"/></e>
     <e lm="possibilità"><i>possibilit</i><par n="entit/à__n_f"/></e>
     <e lm="diffikultà"><i>diffikult</i><par n="entit/à__n_f"/></e>
+    <e lm="abilità"><i>abilit</i><par n="entit/à__n_f"/></e>
+    <e lm="attività"><i>attivit</i><par n="entit/à__n_f"/></e>
+    <e lm="awtorità"><i>awtorit</i><par n="entit/à__n_f"/></e>
+    <e lm="densità"><i>densit</i><par n="entit/à__n_f"/></e>
+    <e lm="dinjità"><i>dinjit</i><par n="entit/à__n_f"/></e>
+    <e lm="diversità"><i>diversit</i><par n="entit/à__n_f"/></e>
+    <e lm="divinità"><i>divinit</i><par n="entit/à__n_f"/></e>
+    <e lm="identità"><i>identit</i><par n="entit/à__n_f"/></e>
+    <e lm="kapaċità"><i>kapaċit</i><par n="entit/à__n_f"/></e>
+    <e lm="komunità"><i>komunit</i><par n="entit/à__n_f"/></e>
+    <e lm="lokalità"><i>lokalit</i><par n="entit/à__n_f"/></e>
+    <e lm="maturità"><i>maturit</i><par n="entit/à__n_f"/></e>
+    <e lm="moralità"><i>moralit</i><par n="entit/à__n_f"/></e>
+    <e lm="nazzjonalità"><i>nazzjonalit</i><par n="entit/à__n_f"/></e>
+    <e lm="omosesswalità"><i>omosesswalit</i><par n="entit/à__n_f"/></e>
+    <e lm="opportunità"><i>opportunit</i><par n="entit/à__n_f"/></e>
+    <e lm="popolarità"><i>popolarit</i><par n="entit/à__n_f"/></e>
+    <e lm="prijorità"><i>prijorit</i><par n="entit/à__n_f"/></e>
+    <e lm="rivalità"><i>rivalit</i><par n="entit/à__n_f"/></e>
+    <e lm="umanità"><i>umanit</i><par n="entit/à__n_f"/></e>
+    <e lm="università"><i>universit</i><par n="entit/à__n_f"/></e>
+    <e lm="veloċità"><i>veloċit</i><par n="entit/à__n_f"/></e>
+    <e lm="verità"><i>verit</i><par n="entit/à__n_f"/></e>
+
 
     <e lm="espressjoni"><i>espressjoni</i><par n="espressjoni__n"/></e>
     <e lm="preokkupazzjoni"><i>preokkupazzjoni</i><par n="espressjoni__n"/></e>
@@ -1648,6 +1679,8 @@
     <e lm="Portugiż"><i>Portugiż</i><par n="reliġjuż__adj"/></e>
     <e lm="Tajlandiż"><i>Tajlandiż</i><par n="reliġjuż__adj"/></e>
     <e lm="Tibetan"><i>Tibetan</i><par n="reliġjuż__adj"/></e>
+    <e lm="Malti"><i>Malti</i><par n="Malti__adj"/></e>
+    <e lm="għarbi"><i>għarbi</i><par n="Malti__adj"/></e>
 
     <e lm="barran"><i>barran</i><par n="barran__adj"/></e>
 
