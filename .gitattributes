@@ -12,11 +12,6 @@
 /apertium-mt-he.mt.dix -text
 /autogen.sh -text
 /configure.ac -text
-dev/adj_loops.sh -text
-dev/adj_suspected-ku-ka-ci.txt -text
-dev/adj_suspected-ku-ka-ci.verified.txt -text
-dev/adj_suspected.txt -text
-dev/adj_suspected.verified.txt -text
 dev/bidix-verbs-to-he.dix.sh -text
 dev/concordancer.py -text
 dev/dout.nouns.shemp.dix -text
@@ -36,6 +31,11 @@ dev/hspell-to-dix.sh -text
 dev/inconsistency-summary.sh -text
 dev/mt-he.inconsistency.sh -text
 dev/mt-he.interwiki.xml -text
+dev/mt_adj/adj_loops.sh -text
+dev/mt_adj/adj_suspected-ku-ka-ci.txt -text
+dev/mt_adj/adj_suspected-ku-ka-ci.verified.txt -text
+dev/mt_adj/adj_suspected.txt -text
+dev/mt_adj/adj_suspected.verified.txt -text
 dev/mt_he_verbs/bidix.py -text
 dev/mt_he_verbs/generate.sh -text
 dev/mt_he_verbs/verbs-mt-he.csv -text
