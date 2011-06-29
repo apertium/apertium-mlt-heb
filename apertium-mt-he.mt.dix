@@ -1023,6 +1023,7 @@
     <e lm="pjaneta"><i>pjanet</i><par n="pjanet/a__n_m"/></e>
     <e lm="qalb"><i>q</i><par n="q/alb__n_m"/></e>
     <e lm="liebru"><i>liebr</i><par n="buff/u__n_m"/></e>
+    <e lm="filosfu"><i>filosf</i><par n="buff/u__n_m"/></e>
     <e lm="kanzunetta"><i>kanzunett</i><par n="lingw/a__n_f"/></e>
     <e lm="popolazzjoni"><i>popolazzjoni</i><par n="unjoni__n_f"/></e>
     <e lm="ħsieb"><i>ħsi</i><par n="ħsi/eb__n_m"/></e>
@@ -1141,6 +1142,7 @@
     <e lm="abitat"><i>abitat</i><par n="Ċek__n_m"/></e>
     <e lm="żaqq"><i>żaqq</i><par n="oxx__n_f"/></e>
     <e lm="enerġija"><i>enerġija</i><par n="oxx__n_f"/></e>
+    <e lm="filosofija"><i>filosofija</i><par n="oxx__n_f"/></e>
     <e lm="sitwazzjoni"><i>sitwazzjoni</i><par n="espressjoni__n"/></e>
     <e lm="punent"><i>punent</i><par n="Ċek__n_m"/></e>
     <e lm="ħalib"><i>ħalib</i><par n="Ċek__n_m"/></e>
