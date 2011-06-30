@@ -517,10 +517,6 @@
     <e><p><l>eb</l><r>eb<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>bijiet</l><r>eb<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
   </pardef>
-  <pardef n="entit/à__n_f">
-    <e><p><l>à</l><r>à<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
-    <e><p><l>ajiet</l><r>à<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
-  </pardef>
   <pardef n="gz/ira__n_f">
     <e><p><l>ira</l><r>ira<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>ejjer</l><r>ira<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
@@ -1234,7 +1230,7 @@
     <e lm="dundjan"><i>dundjan</i><par n="Ċek__n_m"/></e>
     <e lm="ċomb"><i>ċomb</i><par n="Ċek__n_m"/></e>
     <e lm="Ċeka"><i>Ċeka</i><par n="oxx__n_f"/></e>
-    <e lm="bijodiversità"><i>bijodiversità</i><par n="oxx__n_f"/></e>
+    <e lm="bijodiversità"><i>bijodiversità</i><par n="entit/à__n"/></e>
     <e lm="balluta"><i>balluta</i><par n="oxx__n_f"/></e>
     <e lm="astroloġija"><i>astroloġija</i><par n="oxx__n_f"/></e>
     <e lm="anġlu"><i>anġlu</i><par n="Ċek__n_m"/></e>
