@@ -706,6 +706,7 @@
     <e lm="bħala" r="LR" c="as"><p><l>bħala</l><r>bħal</r></p><par n="kontra__pr"/></e>
     <e lm="favur"><i>favur</i><par n="kontra__pr"/></e>
     <e lm="matul"><i>matul</i><par n="kontra__pr"/></e>
+    <e lm="taħt" c="under"><i>taħt</i><par n="kontra__pr"/></e>
     <e lm="nhar" c="on (date)"><i>nhar</i><par n="kontra__pr"/></e>
 
     <!-- SECTION: Pronouns -->
@@ -753,6 +754,7 @@
     <e lm="oħra" c="other"><i>oħra</i><par n="oħra__det"/></e>
     <e lm="ħafna" c="many"><i>ħafna</i><par n="ħafna__det"/></e>
     <e lm="aktar" c="more"><i>aktar</i><par n="aktar__det"/></e>
+    <e lm="iktar" c="more"><i>iktar</i><par n="aktar__det"/></e>
 
     <e lm="aħħar" c="last"><i>aħħar</i><par n="aħħar__det"/></e>
     
@@ -859,6 +861,7 @@
 
 
     <e lm="espressjoni"><i>espressjoni</i><par n="espressjoni__n"/></e>
+    <e lm="fortifikazzjoni"><i>fortifikazzjoni</i><par n="espressjoni__n"/></e>
     <e lm="preokkupazzjoni"><i>preokkupazzjoni</i><par n="espressjoni__n"/></e>
     <e lm="ospitazzjoni"><i>ospitazzjoni</i><par n="espressjoni__n"/></e>
     <e lm="allegazzjoni"><i>allegazzjoni</i><par n="espressjoni__n"/></e>
@@ -869,6 +872,12 @@
     <e lm="projbizzjoni"><i>projbizzjoni</i><par n="espressjoni__n"/></e>
     <e lm="osservazzjoni"><i>osservazzjoni</i><par n="espressjoni__n"/></e>
     <e lm="ordni"><i>ordni</i><par n="espressjoni__n"/></e>
+    <e lm="superordni"><i>superordni</i><par n="espressjoni__n"/></e>
+
+    <e lm="klassi"><i>klassi</i><par n="espressjoni__n"/></e>
+    <e lm="infraklassi"><i>infraklassi</i><par n="espressjoni__n"/></e>
+    <e lm="sottoklassi"><i>sottoklassi</i><par n="espressjoni__n"/></e>
+    <e lm="superklassi"><i>superklassi</i><par n="espressjoni__n"/></e>
 
     <e lm="applikazzjoni"><i>applikazzjoni</i><par n="espressjoni__n"/></e>
     <e lm="assoċjazzjoni"><i>assoċjazzjoni</i><par n="espressjoni__n"/></e>
@@ -952,6 +961,7 @@
     <e lm="protest"><i>protest</i><par n="protestant__n"/></e>
 
     <e lm="grupp"><i>grupp</i><par n="grupp__n"/></e>
+    <e lm="istaġun"><i>istaġun</i><par n="grupp__n"/></e>
 
     <e lm="arja"><i>ar</i><par n="ar/ja__n"/></e>
     <e lm="sena"><i>s</i><par n="s/ena__n"/></e>
@@ -1007,7 +1017,6 @@
     <e lm="mammiferu"><i>mammifer</i><par n="ġener/u__n_GD"/></e>
     <e lm="ministru"><i>ministr</i><par n="ġener/u__n_GD"/></e>
     <e lm="ottubru"><i>ottubr</i><par n="ġener/u__n_GD"/></e>
-    <e lm="membru"><i>membr</i><par n="ġener/u__n_GD"/></e>
 
     <!-- Generated from Wiktionary scripts: -->
     <e lm="Taljan"><i>Taljan</i><par n="Taljan__n"/></e>
@@ -1024,6 +1033,8 @@
     <e lm="qalb"><i>q</i><par n="q/alb__n_m"/></e>
     <e lm="liebru"><i>liebr</i><par n="buff/u__n_m"/></e>
     <e lm="filosfu"><i>filosf</i><par n="buff/u__n_m"/></e>
+    <e lm="membru"><i>membr</i><par n="buff/u__n_m"/></e>
+    <e lm="poplu"><i>popl</i><par n="buff/u__n_m"/></e>
     <e lm="kalendarju"><i>kalendarj</i><par n="buff/u__n_m"/></e>
     <e lm="kanzunetta"><i>kanzunett</i><par n="lingw/a__n_f"/></e>
     <e lm="popolazzjoni"><i>popolazzjoni</i><par n="unjoni__n_f"/></e>
@@ -1943,8 +1954,10 @@
     <e lm="hemm" c="there ('There are …')"><i>hemm</i><par n="immedjatament__adv"/></e>
 
     <e lm="hekk"><i>hekk</i><par n="immedjatament__adv"/></e>
+    <e lm="biss" c="just"><i>biss</i><par n="immedjatament__adv"/></e>
 
     <e lm="isfel"><i>isfel</i><par n="immedjatament__adv"/></e>
+    <e lm="taħt"><i>taħt</i><par n="immedjatament__adv"/></e>
     <e lm="mhux"><i>mhux</i><par n="immedjatament__adv"/></e>
     <e lm="barra"><i>barra</i><par n="immedjatament__adv"/></e>
     <e lm="illum"><i>illum</i><par n="immedjatament__adv"/></e>
