@@ -244,8 +244,6 @@
 
     <pardef n="l-__det">
       <e r="LR"><p><l>l-</l><r>l<s n="det"/><s n="def"/></r></p></e>
-      <e r="LR"><p><l>l'</l><r>l<s n="det"/><s n="def"/></r></p></e>
-      <e r="LR"><p><l>'l</l><r>l<s n="det"/><s n="def"/></r></p></e>
       <e r="LR"><p><l>il-</l><r>l<s n="det"/><s n="def"/></r></p></e>
       <e r="LR"><p><l>iċ-</l><r>l<s n="det"/><s n="def"/></r></p></e>
       <e r="LR"><p><l>id-</l><r>l<s n="det"/><s n="def"/></r></p></e>
@@ -266,6 +264,12 @@
       <e r="LR"><p><l>z-</l><r>l<s n="det"/><s n="def"/></r></p></e>
       <e r="LR"><p><l>ż-</l><r>l<s n="det"/><s n="def"/></r></p></e>
       <e r="RL"><p><l><a/>l-</l><r>l<s n="det"/><s n="def"/></r></p></e>
+
+      <!-- Some of these forms are non-standard -->
+      <e r="LR"><p><l>l'</l><r>l<s n="det"/><s n="def"/></r></p></e>
+      <e r="LR"><p><l>'l</l><r>l<s n="det"/><s n="def"/></r></p></e>
+      <e r="LR"><p><l>il</l><r>l<s n="det"/><s n="def"/></r></p></e>
+
     </pardef>
     
     <pardef n="oħra__det">
@@ -739,6 +743,8 @@
     <e lm="taħt" c="under"><i>taħt</i><par n="kontra__pr"/></e>
     <e lm="waqt" c="toward, to"><i>waqt</i><par n="kontra__pr"/></e>
     <e lm="nhar" c="on (date)"><i>nhar</i><par n="kontra__pr"/></e>
+
+    <e lm="minħabba" c="because of"><i>minħabba</i><par n="kontra__pr"/></e> <!--CHECK: ?? -->
 
     <!-- SECTION: Pronouns -->
     <e lm="independent pronouns"><i/><par n="free__prn"/></e>
