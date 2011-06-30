@@ -1186,6 +1186,7 @@
     <e lm="matematiku"><i>matematiku</i><par n="Ċek__n_m"/></e>
     <e lm="kimiku"><i>kimiku</i><par n="Ċek__n_m"/></e>
     <e lm="karbonju"><i>karbonju</i><par n="Ċek__n_m"/></e>
+    <e lm="divorzju"><i>divorzju</i><par n="Ċek__n_m"/></e>
     <e lm="iben"><i>iben</i><par n="Ċek__n_m"/></e>
     <e lm="żiemel"><i>żiemel</i><par n="Ċek__n_GD"/></e>
     <e lm="sptar"><i>sptar</i><par n="Ċek__n_m"/></e>
@@ -1969,6 +1970,7 @@
     <e lm="barra"><i>barra</i><par n="immedjatament__adv"/></e>
     <e lm="illum"><i>illum</i><par n="immedjatament__adv"/></e>
     <e lm="madwar"><i>madwar</i><par n="immedjatament__adv"/></e>
+    <e lm="issa" c="now"><i>issa</i><par n="immedjatament__adv"/></e>
     <e lm="ilu"><i>ilu</i><par n="immedjatament__adv"/></e>
     <e lm="lanqas"><i>lanqas</i><par n="immedjatament__adv"/></e>
     <e lm="tassew"><i>tassew</i><par n="immedjatament__adv"/></e>
