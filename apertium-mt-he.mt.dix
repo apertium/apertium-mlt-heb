@@ -358,6 +358,11 @@
     <e><p><l>ofoni</l><r>afown<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
   </pardef>
 
+  <pardef n="is/em__n">
+    <e><p><l>em</l><r>em<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>mijiet</l><r>em<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+  </pardef>
+
   <pardef n="d/ar__n">
     <e><p><l>ar</l><r>ar<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>jar</l><r>ar<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
@@ -707,6 +712,7 @@
     <e lm="favur"><i>favur</i><par n="kontra__pr"/></e>
     <e lm="matul"><i>matul</i><par n="kontra__pr"/></e>
     <e lm="taħt" c="under"><i>taħt</i><par n="kontra__pr"/></e>
+    <e lm="waqt" c="toward, to"><i>waqt</i><par n="kontra__pr"/></e>
     <e lm="nhar" c="on (date)"><i>nhar</i><par n="kontra__pr"/></e>
 
     <!-- SECTION: Pronouns -->
@@ -828,6 +834,7 @@
     <!-- SECTION: Nouns -->
     <e lm="gramafown"><i>gram</i><par n="gram/afown__n"/></e>
     <e lm="dar"><i>d</i><par n="d/ar__n"/></e>
+    <e lm="isem"><i>is</i><par n="is/em__n"/></e>
     <e lm="ktieb"><i>k</i><par n="k/tieb__n"/></e>
     <e lm="reliġjon"><i>reliġjon</i><par n="reliġjon__n"/></e>
     <e lm="tim"><i>tim</i><par n="reliġjon__n"/></e>
@@ -1961,6 +1968,7 @@
     <e lm="mhux"><i>mhux</i><par n="immedjatament__adv"/></e>
     <e lm="barra"><i>barra</i><par n="immedjatament__adv"/></e>
     <e lm="illum"><i>illum</i><par n="immedjatament__adv"/></e>
+    <e lm="madwar"><i>madwar</i><par n="immedjatament__adv"/></e>
     <e lm="ilu"><i>ilu</i><par n="immedjatament__adv"/></e>
     <e lm="lanqas"><i>lanqas</i><par n="immedjatament__adv"/></e>
     <e lm="tassew"><i>tassew</i><par n="immedjatament__adv"/></e>
