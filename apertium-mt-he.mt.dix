@@ -2457,6 +2457,7 @@
     <e lm="sal" r="LR"><p><l>sa</l><r>sa<s n="pr"/><j/></r></p><par n="tal-__pr+det"/></e>
     <e lm="għall" r="LR"><p><l>għa</l><r>għal<s n="pr"/><j/></r></p><par n="għall-__pr+det"/></e>
     <e lm="mill" r="LR"><p><l>mi</l><r>minn<s n="pr"/><j/></r></p><par n="għall-__pr+det"/></e>
+    <e lm="mil" r="LR"><p><l>mi</l><r>minn<s n="pr"/><j/></r></p><par n="tal-__pr+det"/></e>
     <e lm="lill" r="LR"><p><l>li</l><r>lil<s n="pr"/><j/></r></p><par n="għall-__pr+det"/></e>
     <e lm="ħlief għall" r="LR"><p><l>ħlief<b/>għa</l><r>ħlief<b/>għal<s n="pr"/><j/></r></p><par n="għall-__pr+det"/></e>
 
