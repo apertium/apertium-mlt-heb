@@ -401,6 +401,7 @@
   <pardef n="belt__n">
     <e><p><l>belt</l><r>belt<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>ibliet</l><r>belt<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    <e r="LR"><p><l>bliet</l><r>belt<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
   </pardef>
 
   <pardef n="għ/ibien__n">
@@ -839,6 +840,7 @@
     <e lm="ktieb"><i>k</i><par n="k/tieb__n"/></e>
     <e lm="reliġjon"><i>reliġjon</i><par n="reliġjon__n"/></e>
     <e lm="tim"><i>tim</i><par n="reliġjon__n"/></e>
+    <e lm="nazzjon"><i>nazzjon</i><par n="reliġjon__n"/></e>
 
     <e lm="entità"><i>entit</i><par n="entit/à__n_f"/></e>
     <e lm="possibilità"><i>possibilit</i><par n="entit/à__n_f"/></e>
@@ -1000,6 +1002,7 @@
 
     <e lm="ilsien"><i></i><par n="/ilsien__n"/></e>
     <e lm="belt"><i></i><par n="belt__n"/></e>
+    <e lm="belt kapitali"><i></i><par n="belt__n"/><p><l><b/>kapitali</l><r><g><b/>kapitali</g></r></p></e>
     <e lm="għibien"><i>għ</i><par n="għ/ibien__n"/></e>
 
     <!-- TODO: check gender for months, and are there plurals? -->
@@ -1272,6 +1275,10 @@
     <e lm="Serbja"><i>Serbja</i><par n="Malta__np"/></e>
     <e lm="Spanja"><i>Spanja</i><par n="Malta__np"/></e>
     <e lm="Valencia"><i>Valencia</i><par n="Malta__np"/></e>
+    <e lm="Pariġi"><i>Pariġi</i><par n="Malta__np"/></e>
+    <e lm="Brussell"><i>Brussell</i><par n="Malta__np"/></e>
+    <e lm="Milan"><i>Milan</i><par n="Malta__np"/></e>
+    <e lm="Ġinevra"><i>Ġinevra</i><par n="Malta__np"/></e>
 
     <e lm="Bidnija"><i>Bidnija</i><par n="Malta__np"/></e>
     <e lm="Birkirkara"><i>Birkirkara</i><par n="Malta__np"/></e>
@@ -1749,6 +1756,7 @@
     <e lm="Portugiż"><i>Portugiż</i><par n="reliġjuż__adj"/></e>
     <e lm="Tajlandiż"><i>Tajlandiż</i><par n="reliġjuż__adj"/></e>
     <e lm="Tibetan"><i>Tibetan</i><par n="reliġjuż__adj"/></e>
+    <e lm="Pariġin"><i>Pariġin</i><par n="reliġjuż__adj"/></e>
     <e lm="Malti"><i>Malti</i><par n="Malti__adj"/></e>
     <e lm="għarbi"><i>għarbi</i><par n="Malti__adj"/></e>
 

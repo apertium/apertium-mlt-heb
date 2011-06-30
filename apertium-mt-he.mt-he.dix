@@ -237,6 +237,7 @@
      <e><p><l>twissija<s n="n"/></l><r>אזהרה<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>possibilità<s n="n"/></l><r>אפשרות<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>proposta<s n="n"/></l><r>הצעה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>belt<g><b/>kapitali</g><s n="n"/></l><r>עיר<g><b/>בירה</g><s n="n"/><s n="f"/></r></p></e>
      <e><p><l>belt<s n="n"/></l><r>עיר<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>tniġġis<s n="n"/></l><r>זיהום<s n="n"/><s n="m"/></r></p></e>
      <e><p><l>politika<s n="n"/></l><r>מדיניות<s n="n"/><s n="f"/></r></p></e>
@@ -247,6 +248,7 @@
      <e><p><l>vjolazzjoni<s n="n"/></l><r>הפרה<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>istampa<s n="n"/></l><r>עיתונאות<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>wegħda<s n="n"/></l><r>הבטחה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>nazzjon<s n="n"/></l><r>מדינה<s n="n"/><s n="f"/></r></p></e>
 
      <!-- SECTION: Proper nouns -->
 
@@ -273,6 +275,10 @@
      <e><p><l>Kanada<s n="np"/><s n="top"/><s n="f"/></l><r>קנדה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
      <e><p><l>Kolombja<s n="np"/><s n="top"/><s n="f"/></l><r>קולומביה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
      <e><p><l>Londra<s n="np"/><s n="top"/><s n="f"/></l><r>לונדון<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Pariġi<s n="np"/><s n="top"/><s n="f"/></l><r>פריז<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Brussell<s n="np"/><s n="top"/><s n="f"/></l><r>בריסל<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Milan<s n="np"/><s n="top"/><s n="f"/></l><r>מילאן<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Ġinevra<s n="np"/><s n="top"/><s n="f"/></l><r>ג'נבה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
      <e><p><l>Norveġja<s n="np"/><s n="top"/><s n="f"/></l><r>נורבגיה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
      <e><p><l>Polonja<s n="np"/><s n="top"/><s n="f"/></l><r>פולין<s n="np"/><s n="top"/><s n="f"/></r></p></e>
      <e><p><l>Prussja<s n="np"/><s n="top"/><s n="f"/></l><r>פרוסיה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
