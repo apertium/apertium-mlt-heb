@@ -667,6 +667,11 @@
     <e><p><l>ċi</l><r>ku<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
   </pardef>
 
+  <pardef n="eminent__adj">
+    <e><p><l></l><r><s n="adj"/><s n="GD"/><s n="sg"/></r></p></e>
+    <e><p><l>i</l><r><s n="adj"/><s n="GD"/><s n="pl"/></r></p></e>
+  </pardef>
+
 </pardefs>
   <section id="main" type="standard">
 
@@ -1230,7 +1235,7 @@
     <e lm="dundjan"><i>dundjan</i><par n="Ċek__n_m"/></e>
     <e lm="ċomb"><i>ċomb</i><par n="Ċek__n_m"/></e>
     <e lm="Ċeka"><i>Ċeka</i><par n="oxx__n_f"/></e>
-    <e lm="bijodiversità"><i>bijodiversità</i><par n="entit/à__n"/></e>
+    <e lm="bijodiversità"><i>bijodiversità</i><par n="entit/à__n_f"/></e>
     <e lm="balluta"><i>balluta</i><par n="oxx__n_f"/></e>
     <e lm="astroloġija"><i>astroloġija</i><par n="oxx__n_f"/></e>
     <e lm="anġlu"><i>anġlu</i><par n="Ċek__n_m"/></e>
@@ -1711,6 +1716,12 @@
     <e lm="dubbjuż"><i>dubbjuż</i><par n="reliġjuż__adj"/></e>
 
     <e lm="ħażin"><i>ħ</i><par n="ħ/ażin__adj"/></e>
+
+    <e lm="eminent"><i>eminent</i><par n="eminent__adj"/></e>
+    <e lm="prominent"><i>prominent</i><par n="eminent__adj"/></e>
+    <e lm="permanent"><i>permanent</i><par n="eminent__adj"/></e>
+    <e lm="imponent"><i>imponent</i><par n="eminent__adj"/></e>
+    <e lm="imminent"><i>imminent</i><par n="eminent__adj"/></e>
 
     <!-- the -a form of these 2 is unverified: -->
     <e lm="etniċ"><i>etniċ</i><par n="reliġjuż__adj"/></e>
