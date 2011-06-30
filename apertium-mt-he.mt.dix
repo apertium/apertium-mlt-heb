@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dictionary>
-<alphabet>ABĊDEFĠGGHĦIIJKLMNOPQRSTUVWXZŻabċdefġgħghieiejklmnopqrstuvwxzżycYCáéíóúàèìòùñö</alphabet>
+<alphabet>ABĊDEFĠGGHĦIIJKLMNOPQRSTUVWXZŻabċdefġgħghieiejklmnopqrstuvwxzżycYCáéíóúàèìòùñöëäïü</alphabet>
   <sdefs>
     <sdef n="n"           c="Noun"/>
     <sdef n="vblex"       c="Verb"/>
@@ -27,6 +27,7 @@
     <sdef n="mf"          c="Masculine / feminine"/>
  
     <sdef n="top"         c="Toponym"/>
+    <sdef n="al"          c="Other"/>
     <sdef n="ant"         c="Anthroponym"/>
     <sdef n="cog"         c="Cognomen"/>
 
@@ -243,6 +244,8 @@
 
     <pardef n="l-__det">
       <e r="LR"><p><l>l-</l><r>l<s n="det"/><s n="def"/></r></p></e>
+      <e r="LR"><p><l>l'</l><r>l<s n="det"/><s n="def"/></r></p></e>
+      <e r="LR"><p><l>'l</l><r>l<s n="det"/><s n="def"/></r></p></e>
       <e r="LR"><p><l>il-</l><r>l<s n="det"/><s n="def"/></r></p></e>
       <e r="LR"><p><l>iċ-</l><r>l<s n="det"/><s n="def"/></r></p></e>
       <e r="LR"><p><l>id-</l><r>l<s n="det"/><s n="def"/></r></p></e>
@@ -428,6 +431,12 @@
     <e><p><l>ob</l><r>ba<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
   </pardef>
 
+  <pardef n="gowl__n">
+    <e><p><l></l><r><s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
+    <e><p><l>s</l><r><s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
+  </pardef>
+
+
   <pardef n="moviment__n">
     <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>i</l><r><s n="n"/><s n="m"/><s n="pl"/></r></p></e>
@@ -439,6 +448,12 @@
     <e r="LR"><p><l>a</l><r>à<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>ajiet</l><r>à<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
   </pardef>
+
+  <pardef n="trib/ù__n">
+    <e><p><l>ù</l><r>ù<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
+    <e><p><l>ujiet</l><r>ù<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
+  </pardef>
+
 
   <pardef n="wegħd/a__n">
     <e><p><l>a</l><r>a<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
@@ -611,6 +626,10 @@
     <e><p><l></l><r><s n="np"/><s n="cog"/><s n="mf"/><s n="sg"/></r></p></e>
   </pardef>
 
+  <pardef n="San__np">
+    <e><p><l></l><r><s n="np"/><s n="al"/><s n="m"/><s n="sg"/></r></p></e>
+  </pardef>
+
   <pardef n="Mikiel__np">
     <e><p><l></l><r><s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
   </pardef>
@@ -707,6 +726,10 @@
     <e lm="fuq"><i>fuq</i><par n="kontra__pr"/></e>
     <e lm="wara"><i>wara</i><par n="kontra__pr"/></e>
     <e lm="lil"><i>lil</i><par n="kontra__pr"/></e>
+    <e lm="sa"><i>sa</i><par n="kontra__pr"/></e>
+    <e lm="fi"><i>fi</i><par n="kontra__pr"/></e>
+    <e lm="ġo"><i>ġo</i><par n="kontra__pr"/></e>
+    <e lm="bi"><i>bi</i><par n="kontra__pr"/></e>
     <e lm="għal"><i>għal</i><par n="kontra__pr"/></e>
     <e lm="bħal"><i>bħal</i><par n="kontra__pr"/></e>
     <!-- is bħala bhal+l<det> or just a variant of bħal or what? -->
@@ -955,6 +978,8 @@
     <e lm="viżjoni"><i>viżjoni</i><par n="espressjoni__n"/></e>
     <e lm="votazzjoni"><i>votazzjoni</i><par n="espressjoni__n"/></e>
 
+    <e lm="gowl"><i>gowl</i><par n="gowl__n"/></e>
+
     <e lm="trattament"><i>trattament</i><par n="moviment__n"/></e>
     <e lm="moviment"><i>moviment</i><par n="moviment__n"/></e>
     <e lm="mudell" c="model"><i>mudell</i><par n="moviment__n"/></e>
@@ -993,6 +1018,8 @@
     <e lm="sorveljanza"><i>sorveljanz</i><par n="propost/a__n"/></e>
 
     <e lm="wegħda"><i>wegħd</i><par n="wegħd/a__n"/></e>
+
+    <e lm="tribù"><i>trib</i><par n="trib/ù__n"/></e>
 
     <e lm="bojkott"><i>bojkot</i><par n="bojkot/t__n"/></e>
 
@@ -1334,6 +1361,7 @@
     <e lm="Sliema"><i>Sliema</i><par n="Malta__np"/></e>
 
     <e lm="Bejġing"><i>Bejġing</i><par n="Tibet__np"/></e>
+    <e lm="San Pietruburgu"><i>San<b/>Pietruburgu</i><par n="Tibet__np"/></e>
     <e lm="Tibet"><i>Tibet</i><par n="Tibet__np"/></e>
     <e lm="Berlin"><i>Berlin</i><par n="Tibet__np"/></e>
     <e lm="Bolton"><i>Bolton</i><par n="Tibet__np"/></e>
@@ -1479,6 +1507,72 @@
     <e lm="Zammit"><i>Zammit</i><par n="Mikiel__np"/></e>
     <e lm="Stuart"><i>Stuart</i><par n="Mikiel__np"/></e>
 
+    <!-- Saints -->
+    <e lm="Alfons"><i>Alfons</i><par n="Mikiel__np"/></e>
+    <e lm="Alwigi"><i>Alwigi</i><par n="Mikiel__np"/></e>
+    <e lm="Anton"><i>Anton</i><par n="Mikiel__np"/></e>
+    <e lm="Antonio"><i>Antonio</i><par n="Mikiel__np"/></e>
+    <e lm="Anton"><i>Anton</i><par n="Mikiel__np"/></e>
+    <e lm="Bastjan"><i>Bastjan</i><par n="Mikiel__np"/></e>
+    <e lm="Bernard"><i>Bernard</i><par n="Mikiel__np"/></e>
+    <e lm="Bernard"><i>Bernard</i><par n="Mikiel__np"/></e>
+    <e lm="Ċelestinu"><i>Ċelestinu</i><par n="Mikiel__np"/></e>
+    <e lm="Ċiprijanu"><i>Ċiprijanu</i><par n="Mikiel__np"/></e>
+    <e lm="Clemente"><i>Clemente</i><par n="Mikiel__np"/></e>
+    <e lm="Cristóbal"><i>Cristóbal</i><par n="Mikiel__np"/></e>
+    <e lm="Damasu"><i>Damasu</i><par n="Mikiel__np"/></e>
+    <e lm="Duminku"><i>Duminku</i><par n="Mikiel__np"/></e>
+    <e lm="Eliġju"><i>Eliġju</i><par n="Mikiel__np"/></e>
+    <e lm="Fernando"><i>Fernando</i><par n="Mikiel__np"/></e>
+    <e lm="Franġisk"><i>Franġisk</i><par n="Mikiel__np"/></e>
+    <e lm="Gabrijel"><i>Gabrijel</i><par n="Mikiel__np"/></e>
+    <e lm="Ġakbu"><i>Ġakbu</i><par n="Mikiel__np"/></e>
+    <e lm="Gawdenzju"><i>Gawdenzju</i><par n="Mikiel__np"/></e>
+    <e lm="Gejtanu"><i>Gejtanu</i><par n="Mikiel__np"/></e>
+    <e lm="Geraldu"><i>Geraldu</i><par n="Mikiel__np"/></e>
+    <e lm="Ġiljan"><i>Ġiljan</i><par n="Mikiel__np"/></e>
+    <e lm="Ġilormu"><i>Ġilormu</i><par n="Mikiel__np"/></e>
+    <e lm="Giovanni"><i>Giovanni</i><par n="Mikiel__np"/></e>
+    <e lm="Girgor"><i>Girgor</i><par n="Mikiel__np"/></e>
+    <e lm="Giuliano"><i>Giuliano</i><par n="Mikiel__np"/></e>
+    <e lm="Ġjaċintu"><i>Ġjaċintu</i><par n="Mikiel__np"/></e>
+    <e lm="Ġorġ"><i>Ġorġ</i><par n="Mikiel__np"/></e>
+    <e lm="Ġużepp"><i>Ġużepp</i><par n="Mikiel__np"/></e>
+    <e lm="Ġwann"><i>Ġwann</i><par n="Mikiel__np"/></e>
+    <e lm="Juan"><i>Juan</i><par n="Mikiel__np"/></e>
+    <e lm="Kallistu"><i>Kallistu</i><par n="Mikiel__np"/></e>
+    <e lm="Klement"><i>Klement</i><par n="Mikiel__np"/></e>
+    <e lm="Kornelju"><i>Kornelju</i><par n="Mikiel__np"/></e>
+    <e lm="Kristoforu"><i>Kristoforu</i><par n="Mikiel__np"/></e>
+    <e lm="Ljun"><i>Ljun</i><par n="Mikiel__np"/></e>
+    <e lm="Lorenzo"><i>Lorenzo</i><par n="Mikiel__np"/></e>
+    <e lm="Luqa"><i>Luqa</i><par n="Mikiel__np"/></e>
+    <e lm="Marċellu"><i>Marċellu</i><par n="Mikiel__np"/></e>
+    <e lm="Marino"><i>Marino</i><par n="Mikiel__np"/></e>
+    <e lm="Mark"><i>Mark</i><par n="Mikiel__np"/></e>
+    <e lm="Martin"><i>Martin</i><par n="Mikiel__np"/></e>
+    <e lm="Mattew"><i>Mattew</i><par n="Mikiel__np"/></e>
+    <e lm="Miguel"><i>Miguel</i><par n="Mikiel__np"/></e>
+    <e lm="Mikiel"><i>Mikiel</i><par n="Mikiel__np"/></e>
+    <e lm="Nikodemu"><i>Nikodemu</i><par n="Mikiel__np"/></e>
+    <e lm="Pawl"><i>Pawl</i><par n="Mikiel__np"/></e>
+    <e lm="Pietru"><i>Pietru</i><par n="Mikiel__np"/></e>
+    <e lm="Piju"><i>Piju</i><par n="Mikiel__np"/></e>
+    <e lm="Rafel"><i>Rafel</i><par n="Mikiel__np"/></e>
+    <e lm="Robertu"><i>Robertu</i><par n="Mikiel__np"/></e>
+    <e lm="Salvador"><i>Salvador</i><par n="Mikiel__np"/></e>
+    <e lm="Sebastjan"><i>Sebastjan</i><par n="Mikiel__np"/></e>
+    <e lm="Serpaju"><i>Serpaju</i><par n="Mikiel__np"/></e>
+    <e lm="Silvestru"><i>Silvestru</i><par n="Mikiel__np"/></e>
+    <e lm="Siro"><i>Siro</i><par n="Mikiel__np"/></e>
+    <e lm="Sistu"><i>Sistu</i><par n="Mikiel__np"/></e>
+    <e lm="Stefano"><i>Stefano</i><par n="Mikiel__np"/></e>
+    <e lm="Timotju"><i>Timotju</i><par n="Mikiel__np"/></e>
+    <e lm="Titu"><i>Titu</i><par n="Mikiel__np"/></e>
+    <e lm="Tumas"><i>Tumas</i><par n="Mikiel__np"/></e>
+    <e lm="Żakkarija"><i>Żakkarija</i><par n="Mikiel__np"/></e>
+    <e lm="Żefirinu"><i>Żefirinu</i><par n="Mikiel__np"/></e>
+
 
     <e lm="Beethoven"><i>Beethoven</i><par n="Cervantes__np"/></e>
     <e lm="Best"><i>Best</i><par n="Cervantes__np"/></e>
@@ -1616,11 +1710,18 @@
 
 
 
-    <e lm="Olimpjadi"><i>Olimpjadi</i><par n="Tibet__np"/></e>
+    <e lm="Olimpjadi"><i>Olimpjadi</i><par n="San__np"/></e> <!-- CHECK: pl? -->
+    <e lm="San"><i>San</i><par n="San__np"/></e>
+    <e lm="Manchester United"><i>Manchester<b/>United</i><par n="San__np"/></e>
+    <e lm="Champions League"><i>Champions<b/>League</i><par n="San__np"/></e>
+    <e lm="Premier League"><i>Premier<b/>League</i><par n="San__np"/></e>
+    <e lm="UEFA Europa League"><i>UEFA<b/>Europa<b/>League</i><par n="San__np"/></e>
+    <e lm="UEFA Champions League"><i>UEFA<b/>Champions<b/>League</i><par n="San__np"/></e>
 
     <!-- SECTION: Adjectives -->
 
     <e lm="kollha"><i>kollha</i><par n="kollha__adj"/></e>
+    <e lm="istess"><i>istess</i><par n="kollha__adj"/></e>
 
     <e lm="politiku"><i>politi</i><par n="teknoloġi/ku__adj"/></e>
     <e lm="elettroniku"><i>elettroni</i><par n="teknoloġi/ku__adj"/></e>
@@ -1978,6 +2079,7 @@
 
     <e lm="hekk"><i>hekk</i><par n="immedjatament__adv"/></e>
     <e lm="biss" c="just"><i>biss</i><par n="immedjatament__adv"/></e>
+    <e lm="flimkien" c="together"><i>flimkien</i><par n="immedjatament__adv"/></e>
 
     <e lm="isfel"><i>isfel</i><par n="immedjatament__adv"/></e>
     <e lm="taħt"><i>taħt</i><par n="immedjatament__adv"/></e>
