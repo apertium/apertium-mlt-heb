@@ -2081,8 +2081,9 @@
     <e lm="mnejn" c="from where"><i>mnejn</i><par n="kif__adv"/></e>
     <e lm="safejn" c="till where"><i>safejn</i><par n="kif__adv"/></e>
 
-
     <e lm="hemm" c="there ('There are …')"><i>hemm</i><par n="immedjatament__adv"/></e>
+
+    <e lm="ukoll" c="also"><i>ukoll</i><par n="immedjatament__adv"/></e>
 
     <e lm="hekk"><i>hekk</i><par n="immedjatament__adv"/></e>
     <e lm="biss" c="just"><i>biss</i><par n="immedjatament__adv"/></e>
@@ -2135,6 +2136,8 @@
     <e lm="suċċessivament"><i>suċċessivament</i><par n="immedjatament__adv"/></e>
     <e lm="uffiċjalment"><i>uffiċjalment</i><par n="immedjatament__adv"/></e>
     <e lm="xjentifikament"><i>xjentifikament</i><par n="immedjatament__adv"/></e>
+
+
     <e lm="ppreżentat"><i>ppreżentat</i><par n="nativ__adj"/></e>
     <e lm="perikoluż"><i>perikoluż</i><par n="nativ__adj"/></e>
     <e lm="onorat"><i>onorat</i><par n="nativ__adj"/></e>
