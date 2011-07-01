@@ -440,6 +440,9 @@
     <e><p><l>s</l><r><s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
   </pardef>
 
+  <pardef n="nies__n">
+    <e><p><l></l><r><s n="n"/><s n="mf"/><s n="pl"/></r></p></e>
+  </pardef>
 
   <pardef n="moviment__n">
     <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/></r></p></e>
@@ -986,6 +989,8 @@
     <e lm="votazzjoni"><i>votazzjoni</i><par n="espressjoni__n"/></e>
 
     <e lm="gowl"><i>gowl</i><par n="gowl__n"/></e>
+
+    <e lm="nies"><i>nies</i><par n="nies__n"/></e>
 
     <e lm="trattament"><i>trattament</i><par n="moviment__n"/></e>
     <e lm="moviment"><i>moviment</i><par n="moviment__n"/></e>
@@ -2084,6 +2089,7 @@
     <e lm="hemm" c="there ('There are …')"><i>hemm</i><par n="immedjatament__adv"/></e>
 
     <e lm="ukoll" c="also"><i>ukoll</i><par n="immedjatament__adv"/></e>
+    <e lm="wkoll" r="LR"><p><l>wkoll</l><r>ukoll</r></p><par n="immedjatament__adv"/></e>
 
     <e lm="hekk"><i>hekk</i><par n="immedjatament__adv"/></e>
     <e lm="biss" c="just"><i>biss</i><par n="immedjatament__adv"/></e>
