@@ -912,6 +912,7 @@
     <e lm="osservazzjoni"><i>osservazzjoni</i><par n="espressjoni__n"/></e>
     <e lm="ordni"><i>ordni</i><par n="espressjoni__n"/></e>
     <e lm="superordni"><i>superordni</i><par n="espressjoni__n"/></e>
+    <e lm="speċi"><i>speċi</i><par n="espressjoni__n"/></e>
 
     <e lm="klassi"><i>klassi</i><par n="espressjoni__n"/></e>
     <e lm="infraklassi"><i>infraklassi</i><par n="espressjoni__n"/></e>
