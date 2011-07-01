@@ -422,6 +422,11 @@
     <e><p><l>i</l><r><s n="n"/><s n="m"/><s n="pl"/></r></p></e>
   </pardef>
 
+  <pardef n="kn/isja__n">
+    <e><p><l>isja</l><r>isja<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>ejjes</l><r>isja<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+  </pardef>
+
   <pardef n="molestja__n"> <!-- mass noun, f -->
     <e><p><l></l><r><s n="n"/><s n="f"/><s n="sg"/></r></p></e>
   </pardef>
@@ -454,6 +459,11 @@
     <e><p><l>à</l><r>à<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e r="LR"><p><l>a</l><r>à<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>ajiet</l><r>à<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+  </pardef>
+
+  <pardef n="kelm/a__n_f">
+    <e><p><l>a</l><r>a<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>iet</l><r>a<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
   </pardef>
 
   <pardef n="trib/ù__n">
@@ -731,7 +741,8 @@
     <e lm="bejn" c="between"><i>bejn</i><par n="kontra__pr"/></e>
     <e lm="minn"><i>minn</i><par n="kontra__pr"/></e>
     <e lm="fuq"><i>fuq</i><par n="kontra__pr"/></e>
-    <e lm="wara"><i>wara</i><par n="kontra__pr"/></e>
+    <e lm="wara" c="after"><i>wara</i><par n="kontra__pr"/></e>
+    <e lm="qabel" c="before"><i>qabel</i><par n="kontra__pr"/></e>
     <e lm="lil"><i>lil</i><par n="kontra__pr"/></e>
     <e lm="sa"><i>sa</i><par n="kontra__pr"/></e>
     <e lm="fi"><i>fi</i><par n="kontra__pr"/></e>
@@ -745,6 +756,7 @@
     <e lm="matul"><i>matul</i><par n="kontra__pr"/></e>
     <e lm="taħt" c="under"><i>taħt</i><par n="kontra__pr"/></e>
     <e lm="waqt" c="toward, to"><i>waqt</i><par n="kontra__pr"/></e>
+    <e lm="lejn" c="toward, to"><i>lejn</i><par n="kontra__pr"/></e>
     <e lm="nhar" c="on (date)"><i>nhar</i><par n="kontra__pr"/></e>
 
     <e lm="minħabba" c="because of"><i>minħabba</i><par n="kontra__pr"/></e> <!--CHECK: ?? -->
@@ -760,7 +772,8 @@
     <e lm="kollu" c="all"><i>kollu</i><par n="kollu_prn"/></e>
     <e lm="jew" c="either"><i>jew</i><par n="kollu_prn"/></e>
     
-    <e lm="iehor" c="another"><i>iehor</i><par n="iehor__prn"/></e>
+    <e lm="ieħor" c="another"><i>ieħor</i><par n="iehor__prn"/></e>
+    <e lm="iehor" r="LR"><p><l>iehor</l><r>ieħor</r></p><par n="iehor__prn"/></e>
     <e lm="kwalunkwe haga" c="anything"><i>kwalunkwe<b/>haga</i><par n="iehor__prn"/></e>
     <e lm="xi ħadd" c="anybody"><i>xi ħadd</i><par n="iehor__prn"/></e>
     <e lm="kulhadd" c="everyone"><i>kulhadd</i><par n="iehor__prn"/></e>
@@ -819,6 +832,7 @@
     <e lm="wieħed" c="one"><i>w</i><par n="w/ieħed__num"/></e>
     <e lm="tnejn" c="two"><i>tnejn</i><par n="tnejn__num"/></e> <!-- TODO: Check -->
     <e lm="żewġ" c="two"><i>żewġ</i><par n="tnejn__num"/></e> <!-- TODO: Check -->
+    <e lm="zewg" r="LR"><p><l>zewg</l><r>żewġ</r></p><par n="tnejn__num"/></e>
     <e lm="tliet" c="three"><i>tli</i><par n="tli/eta__num"/></e>
     <e lm="erbgħa" c="four"><i>erbgħa</i><par n="tnejn__num"/></e>
     <e lm="ħamsa" c="five"><i>ħam</i><par n="ħam/sa__num"/></e>
@@ -901,6 +915,7 @@
     <e lm="veloċità"><i>veloċit</i><par n="entit/à__n_f"/></e>
     <e lm="verità"><i>verit</i><par n="entit/à__n_f"/></e>
 
+    <e lm="kelma"><i>kelm</i><par n="kelm/a__n_f"/></e>
 
     <e lm="espressjoni"><i>espressjoni</i><par n="espressjoni__n"/></e>
     <e lm="fortifikazzjoni"><i>fortifikazzjoni</i><par n="espressjoni__n"/></e>
@@ -916,6 +931,7 @@
     <e lm="ordni"><i>ordni</i><par n="espressjoni__n"/></e>
     <e lm="superordni"><i>superordni</i><par n="espressjoni__n"/></e>
     <e lm="speċi"><i>speċi</i><par n="espressjoni__n"/></e>
+    <e lm="affari"><i>affari</i><par n="espressjoni__n"/></e>
 
     <e lm="klassi"><i>klassi</i><par n="espressjoni__n"/></e>
     <e lm="infraklassi"><i>infraklassi</i><par n="espressjoni__n"/></e>
@@ -1007,11 +1023,15 @@
     <e lm="aċċess"><i>aċċess</i><par n="protestant__n"/></e>
     <e lm="protest"><i>protest</i><par n="protestant__n"/></e>
 
-    <e lm="grupp"><i>grupp</i><par n="grupp__n"/></e>
+    <e lm="grupp" c="group"><i>grupp</i><par n="grupp__n"/></e>
     <e lm="istaġun"><i>istaġun</i><par n="grupp__n"/></e>
+    <e lm="mod" c="way"><i>mod</i><par n="grupp__n"/></e>
+    <e lm="fatt" c="fact"><i>fatt</i><par n="grupp__n"/></e>
 
     <e lm="arja"><i>ar</i><par n="ar/ja__n"/></e>
     <e lm="sena"><i>s</i><par n="s/ena__n"/></e>
+
+    <e lm="knisja" c="church"><i>kn</i><par n="kn/isja__n"/></e>
 
     <e lm="molestja"><i>molestja</i><par n="molestja__n"/></e> <!-- verify gender -->
     <e lm="tniġġis"><i>tniġġis</i><par n="tniġġis__n"/></e> <!-- verify gender -->
@@ -1126,6 +1146,8 @@
     <e lm="attur"><i>attur</i><par n="vjal__n_m"/></e>
     <e lm="ajruplan"><i>ajruplan</i><par n="vjal__n_m"/></e>
     <e lm="żrinġ"><i>żrinġ</i><par n="dixx__n_m"/></e>
+    <e lm="xogħol" c="work"><i>xogħol</i><par n="dixx__n_m"/></e>
+    <e lm="nofs" c="half"><i>nofs</i><par n="dixx__n_m"/></e>
     <e lm="żiemel"><i>ż</i><par n="ż/iemel__n_m"/></e>
     <e lm="unjoni"><i>unjoni</i><par n="unjoni__n_f"/></e>
     <e lm="teknoloġija"><i>teknoloġij</i><par n="lingw/a__n_f"/></e>
@@ -1382,6 +1404,7 @@
     <e lm="Coventry"><i>Coventry</i><par n="Tibet__np"/></e>
     <e lm="Frankfurt"><i>Frankfurt</i><par n="Tibet__np"/></e>
     <e lm="Fulham"><i>Fulham</i><par n="Tibet__np"/></e>
+    <e lm="Iżrael"><i>Iżrael</i><par n="Tibet__np"/></e>
     <e lm="Ġappun"><i>Ġappun</i><par n="Tibet__np"/></e>
     <e lm="Kosovo"><i>Kosovo</i><par n="Tibet__np"/></e>
     <e lm="Leeds"><i>Leeds</i><par n="Tibet__np"/></e>
@@ -1878,6 +1901,7 @@
     <!-- generated from Unhammer's list of suspected adjectives -->
     <!-- TODO look for common mispellings repeated in this list -->
     <e lm="Taljan"><i>Taljan</i><par n="nativ__adj"/></e>
+    <e lm="Iżraeljan"><i>Iżraeljan</i><par n="nativ__adj"/></e>
     <e lm="estint"><i>estint</i><par n="nativ__adj"/></e>
     <e lm="Amerikan"><i>Amerikan</i><par n="nativ__adj"/></e>
     <e lm="Ruman"><i>Ruman</i><par n="nativ__adj"/></e>
@@ -2094,6 +2118,11 @@
     <e lm="hekk"><i>hekk</i><par n="immedjatament__adv"/></e>
     <e lm="biss" c="just"><i>biss</i><par n="immedjatament__adv"/></e>
     <e lm="flimkien" c="together"><i>flimkien</i><par n="immedjatament__adv"/></e>
+
+    <e lm="hawn" c="here"><i>hawn</i><par n="immedjatament__adv"/></e>
+    <e lm="qatt" c="never"><i>qatt</i><par n="immedjatament__adv"/></e>
+    <e lm="darba" c="once"><i>darba</i><par n="immedjatament__adv"/></e>
+    <e lm="quddiem" c="forward"><i>quddiem</i><par n="immedjatament__adv"/></e>
 
     <e lm="isfel"><i>isfel</i><par n="immedjatament__adv"/></e>
     <e lm="taħt"><i>taħt</i><par n="immedjatament__adv"/></e>
