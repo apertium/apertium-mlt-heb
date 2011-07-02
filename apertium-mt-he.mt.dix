@@ -719,14 +719,14 @@
     <e lm="ġaladarba"><i>ġaladarba</i><par n="u__cnjcoo"/></e>
     <e lm="sija"><i>sija</i><par n="u__cnjcoo"/></e>
     <e lm="imma"><i>imma</i><par n="u__cnjcoo"/></e>
-    <e lm="kif ukoll"><i>kif<b/>ukoll</i><par n="u__cnjcoo"/></e> <!-- as well as -->
-
-    <!-- TODO more conjunctions! check subcategorisation, see p.107 "(b) Conjunctions" -->
+    <e lm="kif ukoll" c="as well as"><i>kif<b/>ukoll</i><par n="u__cnjcoo"/></e>
+    <e lm="izda" c="but"><i>izda</i><par n="u__cnjcoo"/></e>
 
     <e lm="li"><i>li</i><par n="li__cnjsub"/></e>
     <e lm="illi"><i>illi</i><par n="li__cnjsub"/></e>
     <e lm="għax"><i>għax</i><par n="li__cnjsub"/></e>
     <e lm="bħalma"><i>bħalma</i><par n="li__cnjsub"/></e>
+    <e lm="biex"><i>biex</i><par n="li__cnjsub"/></e>
     <e lm="sabiex"><i>sabiex</i><par n="li__cnjsub"/></e>
     <e lm="minkejja li" c="although"><i>minkeijja<b/>li</i><par n="li__cnjsub"/></e>
     <e lm="minkejja" c="despite"><i>minkeijja</i><par n="li__cnjsub"/></e>
@@ -912,7 +912,8 @@
     <e lm="veloċità"><i>veloċit</i><par n="entit/à__n_f"/></e>
     <e lm="verità"><i>verit</i><par n="entit/à__n_f"/></e>
 
-    <e lm="kelma"><i>kelm</i><par n="kelm/a__n_f"/></e>
+    <e lm="kelma" c="word"><i>kelm</i><par n="kelm/a__n_f"/></e>
+    <e lm="dinja" c="world"><i>dinj</i><par n="kelm/a__n_f"/></e>
 
     <e lm="espressjoni"><i>espressjoni</i><par n="espressjoni__n"/></e>
     <e lm="fortifikazzjoni"><i>fortifikazzjoni</i><par n="espressjoni__n"/></e>
@@ -2121,6 +2122,9 @@
     <e lm="darba" c="once"><i>darba</i><par n="immedjatament__adv"/></e>
     <e lm="quddiem" c="forward"><i>quddiem</i><par n="immedjatament__adv"/></e>
     <e lm="dejjem" c="always"><i>dejjem</i><par n="immedjatament__adv"/></e>
+    <e lm="lura" c="back"><i>lura</i><par n="immedjatament__adv"/></e>
+    <e lm="anke" c="even"><i>anke</i><par n="immedjatament__adv"/></e>
+    <e lm="tajjeb" c="well"><i>tajjeb</i><par n="immedjatament__adv"/></e>
 
     <e lm="isfel"><i>isfel</i><par n="immedjatament__adv"/></e>
     <e lm="taħt"><i>taħt</i><par n="immedjatament__adv"/></e>
