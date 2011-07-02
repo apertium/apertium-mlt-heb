@@ -408,9 +408,10 @@
     <e><p><l>mijiet</l><r>em<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
   </pardef>
 
-  <pardef n="m/ara__n">
-    <e><p><l>ara</l><r>ara<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
-    <e><p><l>art</l><r>ara<s n="n"/><s n="f"/><s n="sg"/></r></p><par n="S__dar"/></e>
+  <pardef n="/mara__n">
+    <e><p><l>mara</l><r>mara<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>mart</l><r>mara<s n="n"/><s n="f"/><s n="sg"/></r></p><par n="S__dar"/></e>
+    <e><p><l>nisa</l><r>mara<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <!-- TODO: pl forms -->
   </pardef>
 
@@ -704,6 +705,12 @@
     <e><p><l>ċi</l><r>ku<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
   </pardef>
 
+  <pardef n="x/iħ__adj">
+    <e><p><l>iħ</l><r>iħ<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>iħa</l><r>iħ<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>juħ</l><r>iħ<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
+  </pardef>
+
   <pardef n="reliġjuż__adj"> <!-- TODO: check -->
     <e><p><l></l><r><s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>a</l><r><s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
@@ -925,7 +932,7 @@
     <!-- SECTION: Nouns -->
     <e lm="gramafown"><i>gram</i><par n="gram/afown__n"/></e>
     <e lm="dar"><i>d</i><par n="d/ar__n"/></e>
-    <e lm="mara"><i>m</i><par n="m/ara__n"/></e>
+    <e lm="mara"><i></i><par n="/mara__n"/></e>
     <e lm="isem"><i>is</i><par n="is/em__n"/></e>
     <e lm="ktieb"><i>k</i><par n="k/tieb__n"/></e>
     <e lm="reliġjon"><i>reliġjon</i><par n="dixx__n_m"/></e>
@@ -1803,6 +1810,8 @@
 
     <e lm="kollha"><i>kollha</i><par n="kollha__adj"/></e>
     <e lm="istess"><i>istess</i><par n="kollha__adj"/></e>
+
+    <e lm="xiħ"><i>x</i><par n="x/iħ__adj"/></e>
 
     <e lm="politiku"><i>politi</i><par n="teknoloġi/ku__adj"/></e>
     <e lm="elettroniku"><i>elettroni</i><par n="teknoloġi/ku__adj"/></e>
