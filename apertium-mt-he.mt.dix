@@ -1226,6 +1226,7 @@
     <e lm="protest"><i>protest</i><par n="protestant__n"/></e>
 
     <e lm="grupp" c="group"><i>grupp</i><par n="grupp__n"/></e>
+    <e lm="programm" c="programm"><i>programm</i><par n="grupp__n"/></e>
     <e lm="partit" c="party"><i>partit</i><par n="grupp__n"/></e>
     <e lm="istaġun"><i>istaġun</i><par n="grupp__n"/></e>
     <e lm="mod" c="way"><i>mod</i><par n="grupp__n"/></e>
