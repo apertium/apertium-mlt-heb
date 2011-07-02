@@ -381,11 +381,6 @@
     <e><p><l>otba</l><r>tieb<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
   </pardef>
 
-  <pardef n="reliġjon__n">
-    <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/></r></p></e>
-    <e><p><l>ijiet</l><r><s n="n"/><s n="m"/><s n="pl"/></r></p></e>
-  </pardef>
-
   <pardef n="espressjoni__n">
     <e><p><l></l><r><s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>jiet</l><r><s n="n"/><s n="f"/><s n="pl"/></r></p></e>
@@ -885,9 +880,10 @@
     <e lm="dar"><i>d</i><par n="d/ar__n"/></e>
     <e lm="isem"><i>is</i><par n="is/em__n"/></e>
     <e lm="ktieb"><i>k</i><par n="k/tieb__n"/></e>
-    <e lm="reliġjon"><i>reliġjon</i><par n="reliġjon__n"/></e>
-    <e lm="tim"><i>tim</i><par n="reliġjon__n"/></e>
-    <e lm="nazzjon"><i>nazzjon</i><par n="reliġjon__n"/></e>
+    <e lm="reliġjon"><i>reliġjon</i><par n="dixx__n_m"/></e>
+    <e lm="tim"><i>tim</i><par n="dixx__n_m"/></e>
+    <e lm="nazzjon"><i>nazzjon</i><par n="dixx__n_m"/></e>
+    <e lm="post" c="place"><i>post</i><par n="dixx__n_m"/></e>
 
     <e lm="entità"><i>entit</i><par n="entit/à__n_f"/></e>
     <e lm="possibilità"><i>possibilit</i><par n="entit/à__n_f"/></e>
@@ -2124,6 +2120,7 @@
     <e lm="qatt" c="never"><i>qatt</i><par n="immedjatament__adv"/></e>
     <e lm="darba" c="once"><i>darba</i><par n="immedjatament__adv"/></e>
     <e lm="quddiem" c="forward"><i>quddiem</i><par n="immedjatament__adv"/></e>
+    <e lm="dejjem" c="always"><i>dejjem</i><par n="immedjatament__adv"/></e>
 
     <e lm="isfel"><i>isfel</i><par n="immedjatament__adv"/></e>
     <e lm="taħt"><i>taħt</i><par n="immedjatament__adv"/></e>
