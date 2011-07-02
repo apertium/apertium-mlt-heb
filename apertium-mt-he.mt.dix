@@ -481,23 +481,31 @@
     <e><p><l>mijiet</l><r>em<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
   </pardef>
 
+  <pardef n="s/ena__n">
+    <e><p><l>ena</l><r>ena<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>nin</l><r>ena<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    <e><p><l>nin</l><r>ena<s n="n"/><s n="f"/><s n="pl"/></r></p><par n="S__dar"/></e>
+  </pardef>
+
   <pardef n="/mara__n">
     <e><p><l>mara</l><r>mara<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>mart</l><r>mara<s n="n"/><s n="f"/><s n="sg"/></r></p><par n="S__dar"/></e>
     <e><p><l>nisa</l><r>mara<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
-    <!-- TODO: pl forms -->
+    <!-- TODO: pl poss forms -->
   </pardef>
 
   <pardef n="k/tieb__n">
     <e><p><l>tieb</l><r>tieb<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>tieb</l><r>tieb<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="S__dar"/></e>
     <e><p><l>otba</l><r>tieb<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+    <!-- TODO: pl poss forms -->
   </pardef>
 
   <pardef n="gż/ira__n_f">
     <e><p><l>ira</l><r>ira<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>irit</l><r>ira<s n="n"/><s n="f"/><s n="sg"/></r></p><par n="S__dar"/></e>
     <e><p><l>ejjer</l><r>ira<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    <!-- TODO: pl poss forms -->
   </pardef>
 
   <pardef n="/ilsien__n"> <!-- TODO: fixparadigm-->
@@ -515,11 +523,6 @@
   <pardef n="espressjoni__n">
     <e><p><l></l><r><s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>jiet</l><r><s n="n"/><s n="f"/><s n="pl"/></r></p></e>
-  </pardef>
-
-  <pardef n="s/ena__n">
-    <e><p><l>ena</l><r>ena<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
-    <e><p><l>nin</l><r>ena<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
   </pardef>
 
   <pardef n="ar/ja__n">
