@@ -860,6 +860,10 @@
     <e><p><l>ċi</l><r>ku<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
   </pardef>
 
+  <pardef n="nazzjonalista__adj">
+    <e><p><l></l><r><s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
+  </pardef>
+
   <pardef n="eminent__adj">
     <e><p><l></l><r><s n="adj"/><s n="GD"/><s n="sg"/></r></p></e>
     <e><p><l>i</l><r><s n="adj"/><s n="GD"/><s n="pl"/></r></p></e>
@@ -1185,6 +1189,8 @@
     <e lm="mudell" c="model"><i>mudell</i><par n="moviment__n"/></e>
 
     <e lm="protestant"><i>protestant</i><par n="protestant__n"/></e>
+    <e lm="nazzjonalist"><i>nazzjonalist</i><par n="protestant__n"/></e>
+    <e lm="soċjalist"><i>soċjalist</i><par n="protestant__n"/></e>
     <e lm="ġurnal"><i>ġurnal</i><par n="protestant__n"/></e>
     <e lm="dissident"><i>dissident</i><par n="protestant__n"/></e>
     <e lm="biljett"><i>biljett</i><par n="protestant__n"/></e>
@@ -1196,6 +1202,7 @@
     <e lm="protest"><i>protest</i><par n="protestant__n"/></e>
 
     <e lm="grupp" c="group"><i>grupp</i><par n="grupp__n"/></e>
+    <e lm="partit" c="party"><i>partit</i><par n="grupp__n"/></e>
     <e lm="istaġun"><i>istaġun</i><par n="grupp__n"/></e>
     <e lm="mod" c="way"><i>mod</i><par n="grupp__n"/></e>
     <e lm="fatt" c="fact"><i>fatt</i><par n="grupp__n"/></e>
@@ -1209,6 +1216,7 @@
     <e lm="tniġġis"><i>tniġġis</i><par n="tniġġis__n"/></e> <!-- verify gender -->
 
     <e lm="proposta"><i>propost</i><par n="propost/a__n"/></e>
+    <e lm="partita"><i>partit</i><par n="propost/a__n"/></e>
     <e lm="provinċja"><i>provinċj</i><par n="propost/a__n"/></e>
     <e lm="familja"><i>familj</i><par n="propost/a__n"/></e>
     <e lm="sottofamilja"><i>sottofamilj</i><par n="propost/a__n"/></e>
@@ -2200,10 +2208,8 @@
     <e lm="sovran"><i>sovran</i><par n="nativ__adj"/></e>
     <e lm="relattiv"><i>relattiv</i><par n="nativ__adj"/></e>
     <e lm="osservat"><i>osservat</i><par n="nativ__adj"/></e>
-    <e lm="Komunist"><i>Komunist</i><par n="nativ__adj"/></e>
     <e lm="Persjan"><i>Persjan</i><par n="nativ__adj"/></e>
     <e lm="superjur"><i>superjur</i><par n="nativ__adj"/></e>
-    <e lm="Soċjalist"><i>Soċjalist</i><par n="nativ__adj"/></e>
     <e lm="fidil"><i>fidil</i><par n="nativ__adj"/></e>
     <e lm="professjonist"><i>professjonist</i><par n="nativ__adj"/></e>
     <e lm="negattiv"><i>negattiv</i><par n="nativ__adj"/></e>
@@ -2245,7 +2251,12 @@
     <e lm="tradott"><i>tradott</i><par n="nativ__adj"/></e>
     <e lm="strett"><i>strett</i><par n="nativ__adj"/></e>
     <e lm="stramb"><i>stramb</i><par n="nativ__adj"/></e>
-    <e lm="nazzjonalist"><i>nazzjonalist</i><par n="nativ__adj"/></e>
+
+    <e lm="Komunista"><i>Komunista</i><par n="nazzjonalista__adj"/></e>
+    <e lm="Soċjalista"><i>Soċjalista</i><par n="nazzjonalista__adj"/></e>
+    <e lm="Laburista"><i>Laburista</i><par n="nazzjonalista__adj"/></e>
+    <e lm="nazzjonalista"><i>nazzjonalista</i><par n="nazzjonalista__adj"/></e>
+
     <e lm="kollettiv"><i>kollettiv</i><par n="nativ__adj"/></e>
     <e lm="intiż"><i>intiż</i><par n="nativ__adj"/></e>
     <e lm="indirizzat"><i>indirizzat</i><par n="nativ__adj"/></e>
