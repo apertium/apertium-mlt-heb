@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dictionary>
-<alphabet>ABĊDEFĠGGHĦIIJKLMNOPQRSTUVWXZŻabċdefġgħghieiejklmnopqrstuvwxzżycYCáéíóúàèìòùñöëäïü</alphabet>
+<alphabet>ABĊDEFĠGGHĦIIJKLMNOPQRSTUVWXZŻabċdefġgħghieiejklmnopqrstuvwxzżycYCáéíóúàèìòùñöëäïüç</alphabet>
   <sdefs>
     <sdef n="n"           c="Noun"/>
     <sdef n="vblex"       c="Verb"/>
@@ -40,6 +40,12 @@
     <sdef n="p3"          c="Third person"/>
 
     <sdef n="px1sg"       c="First person singular possessive"/>
+    <sdef n="px2sg"       c="Second person singular possessive"/>
+    <sdef n="px3sg_m"     c="Third person singular masculine possessive"/>
+    <sdef n="px3sg_f"     c="Third person singular feminine possessive"/>
+    <sdef n="px1pl"       c="First person plural possessive"/>
+    <sdef n="px2pl"       c="Second person plural possessive"/>
+    <sdef n="px3pl"       c="Third person plural possessive"/>
  
     <sdef n="pres"        c="Present tense"/>
     <sdef n="past"        c="Past tense"/>
@@ -94,6 +100,10 @@
     </pardef>
 
     <!-- SECTION: Adverbs -->
+
+    <pardef n="se__adv"> <!-- Future marker -->
+      <e><p><l/><r><s n="adv"/></r></p></e>
+    </pardef>
 
     <pardef n="ma__adv"> <!-- Negative marker -->
       <e><p><l/><r><s n="adv"/></r></p></e>
@@ -361,6 +371,17 @@
   </pardef>
 
   <!-- SECTION: Nouns -->
+
+  <pardef n="S__dar">
+    <e><p><l>i</l><r><s n="px1sg"/></r></p></e>
+    <e><p><l>ek</l><r><s n="px2sg"/></r></p></e>
+    <e><p><l>u</l><r><s n="px3sg_m"/></r></p></e>
+    <e><p><l>ha</l><r><s n="px3sg_f"/></r></p></e>
+    <e><p><l>na</l><r><s n="px1pl"/></r></p></e>
+    <e><p><l>kom</l><r><s n="px2pl"/></r></p></e>
+    <e><p><l>hom</l><r><s n="px3pl"/></r></p></e>
+  </pardef>
+
   <pardef n="gram/afown__n">
     <e><p><l>afown</l><r>afown<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>ofoni</l><r>afown<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
@@ -373,7 +394,9 @@
 
   <pardef n="d/ar__n">
     <e><p><l>ar</l><r>ar<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>ar</l><r>ar<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="S__dar"/></e>
     <e><p><l>jar</l><r>ar<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+    <e><p><l>jar</l><r>ar<s n="n"/><s n="m"/><s n="pl"/></r></p><par n="S__dar"/></e>
   </pardef>
 
   <pardef n="k/tieb__n">
@@ -2092,6 +2115,11 @@
     <e lm="dettaljat"><i>dettaljat</i><par n="nativ__adj"/></e>
 
     <!-- SECTION: Adverbs -->
+
+    <e lm="se"><i>se</i><par n="se__adv"/></e>
+    <e lm="ħa"><i>ħa</i><par n="se__adv"/></e>
+    <e lm="għad"><i>għad</i><par n="se__adv"/></e>
+    <e lm="ser"><i>ser</i><par n="se__adv"/></e>
 
     <e lm="ma"><i>ma</i><par n="ma__adv"/></e>
 
