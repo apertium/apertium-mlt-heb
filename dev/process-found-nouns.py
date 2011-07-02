@@ -35,7 +35,7 @@ for line in file(sys.argv[1]).read().split('\n'): #{
 	row = line.split('$ ^');
 	#print row;
 	
-	unknown = row[1].split('/')[0];
+	unknown = row[1].split('/')[0].lower();
 	context_gender = row[2].split('><')[1];
 	context_surface = row[2].split('/')[0]
 

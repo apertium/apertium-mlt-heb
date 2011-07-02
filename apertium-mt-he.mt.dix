@@ -309,8 +309,18 @@
       <e><p><l>jn</l><r><s n="det"/><s n="ind"/><s n="mf"/><s n="pl"/></r></p></e>
     </pardef>
 
+    <pardef n="ebda__det">
+      <e><p><l/><r><s n="det"/><s n="ind"/><s n="mf"/><s n="sp"/></r></p></e>
+    </pardef>
+
     <pardef n="aħħar__det">
       <e><p><l/><r><s n="det"/><s n="ord"/><s n="mf"/><s n="sp"/></r></p></e>
+    </pardef>
+
+    <pardef n="koll/u__det">
+      <e><p><l>u</l><r>u<s n="det"/><s n="qnt"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>ha</l><r>u<s n="det"/><s n="qnt"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>ha</l><r>u<s n="det"/><s n="qnt"/><s n="mf"/><s n="pl"/></r></p></e>
     </pardef>
 
     <pardef n="aktar__det">
@@ -437,11 +447,25 @@
     <e><p><l>jar</l><r>ar<s n="n"/><s n="m"/><s n="pl"/></r></p><par n="S__dar"/></e>
   </pardef>
 
+  <pardef n="ħajj/a__n_f">
+    <e><p><l>a</l><r>a<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>it</l><r>a<s n="n"/><s n="f"/><s n="sg"/></r></p><par n="S__dar"/></e>
+    <e><p><l>iet</l><r>a<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    <e><p><l>iet</l><r>a<s n="n"/><s n="f"/><s n="pl"/></r></p><par n="S__dar"/></e>
+  </pardef>
+
   <pardef n="omm__n_f">
     <e><p><l></l><r><s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l></l><r><s n="n"/><s n="f"/><s n="sg"/></r></p><par n="S__omm"/></e>
     <e><p><l>ijiet</l><r><s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e><p><l>ijiet</l><r><s n="n"/><s n="f"/><s n="pl"/></r></p><par n="S__dar"/></e>
+  </pardef>
+
+  <pardef n="missier__n_m">
+    <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/></r></p><par n="S__dar"/></e>
+    <e><p><l>ijiet</l><r><s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+    <e><p><l>ijiet</l><r><s n="n"/><s n="m"/><s n="pl"/></r></p><par n="S__dar"/></e>
   </pardef>
 
   <pardef n="q/alb__n_m">
@@ -529,6 +553,21 @@
   <pardef n="parti__n_m">
     <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>jiet</l><r><s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+  </pardef>
+
+  <pardef n="v/ers__n_m">
+    <e><p><l>ers</l><r>ers<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>rus</l><r>ers<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+  </pardef>
+
+  <pardef n="s/erp__n_m">
+    <e><p><l>erp</l><r>erp<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>riep</l><r>erp<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+  </pardef>
+
+  <pardef n="ban/da__n_f">
+    <e><p><l>da</l><r>da<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>ed</l><r>da<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
   </pardef>
 
   <pardef n="espressjoni__n">
@@ -745,9 +784,9 @@
     <e><p><l>iet</l><r>a<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
   </pardef>
 
-  <pardef n="pjanet/a__n_m">
-    <e><p><l>a</l><r>a<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
-    <e><p><l>i</l><r>a<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+  <pardef n="pjanet/a__n_m"> <!-- pjaneta massiv, pjaneta giganteska -->
+    <e><p><l>a</l><r>a<s n="n"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e><p><l>i</l><r>a<s n="n"/><s n="mf"/><s n="pl"/></r></p></e>
   </pardef>
 
   <pardef n="b/eżżula__n_f">
@@ -805,17 +844,20 @@
 
   <!-- SECTION: Adjectives -->
 
+  <pardef n="akbar__adj">
+    <e><p><l></l><r><s n="adj"/><s n="comp"/></r></p></e>
+  </pardef>
+
   <pardef n="teknoloġi/ku__adj">
     <e><p><l>ku</l><r>ku<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>ka</l><r>ku<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>ċi</l><r>ku<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
   </pardef>
 
-  <pardef n="/fqir__adj">
-    <e><p><l>fqir</l><r>fqir<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
-    <e><p><l>fqira</l><r>fqir<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
-    <!-- TODO: plural form -->
-    <e><p><l>ifqar</l><r>fqir<s n="adj"/><s n="comp"/></r></p></e>
+  <pardef n="taj/jeb__adj">
+    <e><p><l>jeb</l><r>jeb<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>ba</l><r>jeb<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>bin</l><r>jeb<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
   </pardef>
 
   <pardef n="kb/ir__adj">
@@ -840,6 +882,11 @@
     <e><p><l>ażin</l><r>ażin<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>ażina</l><r>ażin<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>żiena</l><r>ażin<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
+  </pardef>
+
+  <pardef n="wiesgħ/a__adj">
+    <e><p><l>a</l><r>a<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e><p><l>in</l><r>a<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
   </pardef>
 
   <pardef n="barran__adj">
@@ -878,6 +925,11 @@
     <e><p><l>ċi</l><r>ku<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
   </pardef>
 
+  <pardef n="differenti__adj">
+    <e><p><l></l><r><s n="adj"/><s n="mf"/><s n="sp"/></r></p></e>
+  </pardef>
+
+
   <pardef n="nazzjonalista__adj">
     <e><p><l></l><r><s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
   </pardef>
@@ -886,8 +938,165 @@
     <e><p><l></l><r><s n="adj"/><s n="GD"/><s n="sg"/></r></p></e>
     <e><p><l>i</l><r><s n="adj"/><s n="GD"/><s n="pl"/></r></p></e>
   </pardef>
+
+    <pardef n="għol/i__adj">
+      <e><p>          <l>i</l><r>i<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ja</l><r>i<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>jin</l><r>i<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
+    <pardef n="barrani__adj">
+      <e><p>          <l></l><r><s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ja</l><r><s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>n</l><r><s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
+    <pardef n="maħmuġ__adj">
+      <e><p>          <l></l><r><s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>a</l><r><s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>in</l><r><s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
+    <pardef n="miel/aħ__adj">
+      <e><p>          <l>aħ</l><r>aħ<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ħa</l><r>aħ<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ħa</l><r>aħ<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
+    <pardef n="/iswed__adj">
+      <e><p>          <l>iswed</l><r>iswed<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>sewda</l><r>iswed<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>suwed</l><r>iswed<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
+    <pardef n="tq/il__adj">
+      <e><p>          <l>il</l><r>il<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ila</l><r>il<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>al</l><r>il<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
+    <pardef n="n/adif__adj">
+      <e><p>          <l>adif</l><r>adif<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>adifa</l><r>adif<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>odfa</l><r>adif<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
+    <pardef n="vojt__adj">
+      <e><p>          <l></l><r><s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>a</l><r><s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>a</l><r><s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
+    <pardef n="ħ/afif__adj">
+      <e><p>          <l>afif</l><r>afif<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>afifa</l><r>afif<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>fief</l><r>afif<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
+    <pardef n="kwadr/u__adj">
+      <e><p>          <l>u</l><r>u<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>a</l><r>u<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>i</l><r>u<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
+    <pardef n="griż__adj">
+      <e><p>          <l></l><r><s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>a</l><r><s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>i</l><r><s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
+    <pardef n="/aħdar__adj">
+      <e><p>          <l>aħdar</l><r>aħdar<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ħadra</l><r>aħdar<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ħodor</l><r>aħdar<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
+    <pardef n="ġ/did__adj">
+      <e><p>          <l>did</l><r>did<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>dida</l><r>did<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>odda</l><r>did<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
+    <pardef n="imxarr/ab__adj">
+      <e><p>          <l>ab</l><r>ab<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ba</l><r>ab<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>bin</l><r>ab<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
+    <pardef n="/isfar__adj">
+      <e><p>          <l>isfar</l><r>isfar<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>safra</l><r>isfar<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>sofor</l><r>isfar<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
+    <pardef n="rq/iq__adj">
+      <e><p>          <l>iq</l><r>iq<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>iqa</l><r>iq<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>aq</l><r>iq<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
+    <pardef n="q/adim__adj">
+      <e><p>          <l>adim</l><r>adim<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>adima</l><r>adim<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>odma</l><r>adim<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
+    <pardef n="/artab__adj">
+      <e><p>          <l>artab</l><r>artab<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ratba</l><r>artab<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>rotob</l><r>artab<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
+    <pardef n="i/ebes__adj">
+      <e><p>          <l>ebes</l><r>ebes<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ebsa</l><r>ebes<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ebsn</l><r>ebes<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
+    <pardef n="o/ħxon__adj">
+      <e><p>          <l>ħxon</l><r>ħxon<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ħxna</l><r>ħxon<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ħxnin</l><r>ħxon<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
+    <pardef n="qar/es__adj">
+      <e><p>          <l>es</l><r>es<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>sa</l><r>es<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>sa</l><r>es<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
+    <pardef n="d/ejjaq__adj">
+      <e><p>          <l>ejjaq</l><r>ejjaq<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ejqa</l><r>ejjaq<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ojoq</l><r>ejjaq<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
+    <pardef n="dgħaj/jef__adj">
+      <e><p>          <l>jef</l><r>jef<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>fa</l><r>jef<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>fa</l><r>jef<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
+    <pardef n="mgħaġġ/el__adj">
+      <e><p>          <l>el</l><r>el<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>la</l><r>el<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>lin</l><r>el<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
+    <pardef n="rħ/is__adj">
+      <e><p>          <l>is</l><r>is<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>isa</l><r>is<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>as</l><r>is<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
+    <pardef n="sħ/iħ__adj">
+      <e><p>          <l>iħ</l><r>iħ<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>iħa</l><r>iħ<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>aħ</l><r>iħ<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
+    <pardef n="/aħmar__adj">
+      <e><p>          <l>aħmar</l><r>aħmar<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ħamra</l><r>aħmar<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ħomor</l><r>aħmar<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
+    <pardef n="/abjad__adj">
+      <e><p>          <l>abjad</l><r>abjad<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>bajda</l><r>abjad<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>bojod</l><r>abjad<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
+    <pardef n="qawwi__adj">
+      <e><p>          <l></l><r><s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ja</l><r><s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ja</l><r><s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
+    <pardef n="q/asir__adj">
+      <e><p>          <l>asir</l><r>asir<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>asira</l><r>asir<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>osra</l><r>asir<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
+    <pardef n="ħel/u__adj">
+      <e><p>          <l>u</l><r>u<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>wa</l><r>u<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>win</l><r>u<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
+
  
-  <!-- Interjections -->
+  <!-- SECTION: Interjections -->
     <pardef n="le__ij">
       <e><p><l/><r><s n="ij"/></r></p></e>
     </pardef>
@@ -920,6 +1129,8 @@
 
     <!-- SECTION: Prepositions -->
     <e lm="kontra"><i>kontra</i><par n="kontra__pr"/></e>
+    <e lm="bla" c="without"><i>bla</i><par n="kontra__pr"/></e>
+    <e lm="fost" c="between, among"><i>fost</i><par n="kontra__pr"/></e>
     <e lm="dwar"><i>dwar</i><par n="kontra__pr"/></e>
     <e lm="bejn" c="between"><i>bejn</i><par n="kontra__pr"/></e>
     <e lm="minn"><i>minn</i><par n="kontra__pr"/></e>
@@ -991,8 +1202,10 @@
 
     <e lm="diversi" c="several"><i>diversi</i><par n="diversi__det"/></e>
     <e lm="oħra" c="other"><i>oħra</i><par n="oħra__det"/></e>
+    <e lm="ebda" c="no"><i>ebda</i><par n="ebda__det"/></e>
     <e lm="ħafna" c="many"><i>ħafna</i><par n="ħafna__det"/></e>
     <e lm="aktar" c="more"><i>aktar</i><par n="aktar__det"/></e>
+    <e lm="kollu" c="whole"><i>koll</i><par n="koll/u__det"/></e>
     <e lm="iktar" c="more"><i>iktar</i><par n="aktar__det"/></e>
     <e lm="izjed" c="more"><i>izjed</i><par n="aktar__det"/></e>
     <e lm="anqas" c="less"><i>anqas</i><par n="aktar__det"/></e>
@@ -1080,6 +1293,7 @@
     <e lm="post" c="place"><i>post</i><par n="dixx__n_m"/></e>
 
     <e lm="omm" c="mother"><i>omm</i><par n="omm__n_f"/></e>
+    <e lm="ħajja" c="life"><i>ħajj</i><par n="ħajj/a__n_f"/></e>
     <e lm="gżira" c="island"><i>gż</i><par n="gż/ira__n_f"/></e>
     <e lm="flixkun" c="bottle"><i>fl</i><par n="fl/ixkun__n_GD"/></e>
     <e lm="bandiera" c="flag"><i>b</i><par n="b/andiera__n_f"/></e>
@@ -1115,6 +1329,9 @@
     <e lm="dinja" c="world"><i>dinj</i><par n="dinj/a__n_f"/></e>
 
     <e lm="parti"><i>parti</i><par n="parti__n_m"/></e>
+    <e lm="banda"><i>ban</i><par n="ban/da__n_f"/></e>
+    <e lm="vers"><i>v</i><par n="v/ers__n_m"/></e>
+    <e lm="serp"><i>s</i><par n="s/erp__n_m"/></e>
 
     <e lm="espressjoni"><i>espressjoni</i><par n="espressjoni__n"/></e>
     <e lm="fortifikazzjoni"><i>fortifikazzjoni</i><par n="espressjoni__n"/></e>
@@ -1207,6 +1424,7 @@
     <e lm="kompjuter"><i>kompjuter</i><par n="gowl__n"/></e>
 
     <e lm="nies"><i>nies</i><par n="nies__n_mf"/></e>
+    <e lm="flus" c="money"><i>flus</i><par n="nies__n_mf"/></e>
 
     <e lm="trattament"><i>trattament</i><par n="moviment__n"/></e>
     <e lm="moviment"><i>moviment</i><par n="moviment__n"/></e>
@@ -1243,6 +1461,7 @@
     <e lm="futbol"><i>futbol</i><par n="tniġġis__n"/></e> <!-- no pl?-->
 
     <e lm="proposta"><i>propost</i><par n="propost/a__n"/></e>
+    <e lm="ittra"><i>ittr</i><par n="propost/a__n"/></e>
     <e lm="persuna"><i>persun</i><par n="propost/a__n"/></e>
     <e lm="partita"><i>partit</i><par n="propost/a__n"/></e>
     <e lm="provinċja"><i>provinċj</i><par n="propost/a__n"/></e>
@@ -1309,11 +1528,11 @@
     <e lm="pajjiż"><i>pajjiż</i><par n="vjal__n_m"/></e>
     <e lm="pjaneta"><i>pjanet</i><par n="pjanet/a__n_m"/></e>
     <e lm="lingwa"><i>lingw</i><par n="lingw/a__n_f"/></e>
-    <e lm="pjaneta"><i>pjanet</i><par n="pjanet/a__n_m"/></e>
     <e lm="qalb"><i>q</i><par n="q/alb__n_m"/></e>
     <e lm="liebru"><i>liebr</i><par n="buff/u__n_m"/></e>
     <e lm="terminu"><i>termin</i><par n="buff/u__n_m"/></e>
     <e lm="buffu"><i>buff</i><par n="buff/u__n_m"/></e>
+    <e lm="arkivju"><i>arkivj</i><par n="buff/u__n_m"/></e>
     <e lm="arċipelagu"><i>arċipelag</i><par n="buff/u__n_m"/></e>
     <e lm="filosfu"><i>filosf</i><par n="buff/u__n_m"/></e>
     <e lm="membru"><i>membr</i><par n="buff/u__n_m"/></e>
@@ -1363,6 +1582,7 @@
     <e lm="unjoni"><i>unjoni</i><par n="unjoni__n_f"/></e>
     <e lm="teknoloġija"><i>teknoloġij</i><par n="lingw/a__n_f"/></e>
     <e lm="sħubija"><i>sħubij</i><par n="sħubij/a__n_f"/></e>
+    <e lm="siġra"><i>siġr</i><par n="sħubij/a__n_f"/></e>
     <e lm="manifestazzjoni"><i>manifestazzjoni</i><par n="unjoni__n_f"/></e>
     <e lm="kwistjoni"><i>kwistjoni</i><par n="unjoni__n_f"/></e>
     <e lm="traġedja"><i>traġedj</i><par n="lingw/a__n_f"/></e>
@@ -1410,7 +1630,6 @@
     <e lm="ġurnata"><i>ġurnata</i><par n="Ċek__n_GD"/></e>
     <e lm="ġurdien"><i>ġurdien</i><par n="Ċek__n_GD"/></e>
     <e lm="frott"><i>frott</i><par n="Ċek__n_m"/></e>
-    <e lm="pjaneta"><i>pjaneta</i><par n="Ċek__n_GD"/></e>
     <e lm="gvern"><i>gvern</i><par n="Ċek__n_m"/></e>
     <e lm="Grieg"><i>Grieg</i><par n="Ċek__n_m"/></e>
     <e lm="bżonn"><i>bżonn</i><par n="Ċek__n_m"/></e>
@@ -1442,7 +1661,6 @@
     <e lm="ġenerazzjoni"><i>ġenerazzjoni</i><par n="espressjoni__n"/></e>
     <e lm="formazzjoni"><i>formazzjoni</i><par n="espressjoni__n"/></e>
     <e lm="rebbiegħa"><i>rebbiegħa</i><par n="oxx__n_f"/></e>
-    <e lm="missier"><i>missier</i><par n="Ċek__n_m"/></e>
     <e lm="librerija"><i>librerija</i><par n="oxx__n_f"/></e>
     <e lm="ġranet"><i>ġranet</i><par n="Ċek__n_GD"/></e>
     <e lm="għadma"><i>għadma</i><par n="oxx__n_f"/></e>
@@ -1511,6 +1729,8 @@
     <e lm="balluta"><i>balluta</i><par n="oxx__n_f"/></e>
     <e lm="astroloġija"><i>astroloġija</i><par n="oxx__n_f"/></e>
     <e lm="anġlu"><i>anġlu</i><par n="Ċek__n_m"/></e>
+
+    <e lm="missier"><i>missier</i><par n="missier__n_m"/></e>
 
     <!-- SECTION: Proper nouns -->
 
@@ -1975,9 +2195,18 @@
     <e lm="istess"><i>istess</i><par n="kollha__adj"/></e>
 
     <e lm="xiħ"><i>x</i><par n="x/iħ__adj"/></e>
+
     <e lm="kbir"><i>kb</i><par n="kb/ir__adj"/></e>
+    <e lm="kbir"><p><l>akbar</l><r>kbir</r></p><par n="akbar__adj"/></e>
+
     <e lm="żgħir"><i>żgħ</i><par n="kb/ir__adj"/></e>
-    <e lm="fqir"><i></i><par n="/fqir__adj"/></e>
+
+    <e lm="fqir"><i>fq</i><par n="kb/ir__adj"/></e>
+    <e lm="fqir"><p><l>ifqar</l><r>fqir</r></p><par n="akbar__adj"/></e>
+
+    <e lm="tajjeb"><i>taj</i><par n="taj/jeb__adj"/></e>
+    <e lm="tajjeb"><p><l>aħjar</l><r>tajjeb</r></p><par n="akbar__adj"/></e>
+    <e lm="tajjeb" r="LR"><p><l>itjeb</l><r>tajjeb</r></p><par n="akbar__adj"/></e>
 
     <e lm="politiku"><i>politi</i><par n="teknoloġi/ku__adj"/></e>
     <e lm="elettroniku"><i>elettroni</i><par n="teknoloġi/ku__adj"/></e>
@@ -2079,7 +2308,6 @@
     <e lm="vjolent"><i>vjolent</i><par n="reliġjuż__adj"/></e>
     <e lm="dubbjuż"><i>dubbjuż</i><par n="reliġjuż__adj"/></e>
 
-    <e lm="ħażin"><i>ħ</i><par n="ħ/ażin__adj"/></e>
 
     <e lm="eminent"><i>eminent</i><par n="eminent__adj"/></e>
     <e lm="prominent"><i>prominent</i><par n="eminent__adj"/></e>
@@ -2118,8 +2346,65 @@
     <e lm="għarbi"><i>għarbi</i><par n="Malti__adj"/></e>
 
     <e lm="barran"><i>barran</i><par n="barran__adj"/></e>
+    <e lm="wiesgħa"><i>wiesgħ</i><par n="wiesgħ/a__adj"/></e>
+    <e lm="ħajj"><i>ħajj</i><par n="barran__adj"/></e>
 
     <e lm="kontemporanju"><i>kontemporanj</i><par n="kontemporanj/u__adj"/></e>
+
+    <e lm="abjad"><i></i><par n="/abjad__adj"/></e>
+    <e lm="artab"><i></i><par n="/artab__adj"/></e>
+    <e lm="aħdar"><i></i><par n="/aħdar__adj"/></e>
+    <e lm="aħmar"><i></i><par n="/aħmar__adj"/></e>
+    <e lm="barrani"><i>barrani</i><par n="barrani__adj"/></e>
+
+    <e lm="dejjaq"><i>d</i><par n="d/ejjaq__adj"/></e>
+    <e lm="dejjaq"><p><l>idjaq</l><r>dejjaq</r></p><par n="akbar__adj"/></e>
+
+    <e lm="dgħajjef"><i>dgħaj</i><par n="dgħaj/jef__adj"/></e>
+    <e lm="fond"><i>fond</i><par n="griż__adj"/></e>
+    <e lm="griż"><i>griż</i><par n="griż__adj"/></e>
+
+    <e lm="għoli"><i>għol</i><par n="għol/i__adj"/></e>
+    <e lm="għoli"><p><l>ogħla</l><r>għoli</r></p><par n="akbar__adj"/></e>
+
+    <e lm="ħażin"><i>ħ</i><par n="ħ/ażin__adj"/></e>
+    <e lm="ħażin"><p><l>aħżen</l><r>ħażin</r></p><par n="akbar__adj"/></e>
+    <e lm="ħażin" r="LR"><p><l>eħżen</l><r>ħażin</r></p><par n="akbar__adj"/></e>
+
+    <e lm="iebes"><i>i</i><par n="i/ebes__adj"/></e>
+    <e lm="imxarrab"><i>imxarr</i><par n="imxarr/ab__adj"/></e>
+    <e lm="isfar"><i></i><par n="/isfar__adj"/></e>
+    <e lm="iswed"><i></i><par n="/iswed__adj"/></e>
+    <e lm="kwadru"><i>kwadr</i><par n="kwadr/u__adj"/></e>
+    <e lm="kwiet"><i>kwiet</i><par n="griż__adj"/></e>
+    <e lm="maħmuġ"><i>maħmuġ</i><par n="maħmuġ__adj"/></e>
+    <e lm="mgħaġġel"><i>mgħaġġ</i><par n="mgħaġġ/el__adj"/></e>
+    <e lm="mielaħ"><i>miel</i><par n="miel/aħ__adj"/></e>
+    <e lm="morr"><i>morr</i><par n="griż__adj"/></e>
+    <e lm="mudlam"><i>mudlam</i><par n="vojt__adj"/></e>
+    <e lm="nadif"><i>n</i><par n="n/adif__adj"/></e>
+    <e lm="oħxon"><i>o</i><par n="o/ħxon__adj"/></e>
+    <e lm="qadim"><i>q</i><par n="q/adim__adj"/></e>
+    <e lm="qares"><i>qar</i><par n="qar/es__adj"/></e>
+
+    <e lm="qasir"><i>q</i><par n="q/asir__adj"/></e>
+    <e lm="qasir"><p><l>iqsar</l><r>qasir</r></p><par n="akbar__adj"/></e>
+
+    <e lm="qawwi"><i>qawwi</i><par n="qawwi__adj"/></e>
+    <e lm="qawwi"><p><l>aqwa</l><r>qawwi</r></p><par n="akbar__adj"/></e>
+
+    <e lm="rqiq"><i>rq</i><par n="rq/iq__adj"/></e>
+    <e lm="rħis"><i>rħ</i><par n="rħ/is__adj"/></e>
+    <e lm="storbjuż"><i>storbjuż</i><par n="griż__adj"/></e>
+    <e lm="sħiħ"><i>sħ</i><par n="sħ/iħ__adj"/></e>
+    <e lm="tqil"><i>tq</i><par n="tq/il__adj"/></e>
+    <e lm="twil"><i>tw</i><par n="tq/il__adj"/></e>
+    <e lm="vojt"><i>vojt</i><par n="vojt__adj"/></e>
+    <e lm="ġdid"><i>ġ</i><par n="ġ/did__adj"/></e>
+    <e lm="ħafif"><i>ħ</i><par n="ħ/afif__adj"/></e>
+    <e lm="ħelu"><i>ħel</i><par n="ħel/u__adj"/></e>
+
+
 
     <!-- generated from Unhammer's list of suspected adjectives -->
     <!-- TODO look for common mispellings repeated in this list -->
@@ -2289,6 +2574,19 @@
     <e lm="tradott"><i>tradott</i><par n="nativ__adj"/></e>
     <e lm="strett"><i>strett</i><par n="nativ__adj"/></e>
     <e lm="stramb"><i>stramb</i><par n="nativ__adj"/></e>
+
+    <e lm="differenti"><i>differenti</i><par n="differenti__adj"/></e>
+    <e lm="blu"><i>blu</i><par n="differenti__adj"/></e>
+    <e lm="kannella"><i>kannella</i><par n="differenti__adj"/></e>
+    <e lm="oranġjo"><i>oranġjo</i><par n="differenti__adj"/></e>
+    <e lm="vjola"><i>vjola</i><par n="differenti__adj"/></e>
+    <e lm="trijangulari"><i>trijangulari</i><par n="differenti__adj"/></e>
+    <e lm="pikkanti"><i>pikkanti</i><par n="differenti__adj"/></e>
+    <e lm="diffiċli"><i>diffiċli</i><par n="differenti__adj"/></e>
+    <e lm="faċli"><i>faċli</i><par n="differenti__adj"/></e>
+    <e lm="lokali"><i>lokali</i><par n="differenti__adj"/></e>
+    <e lm="bilmod"><i>bilmod</i><par n="differenti__adj"/></e>
+
 
     <e lm="Komunista"><i>Komunista</i><par n="nazzjonalista__adj"/></e>
     <e lm="Soċjalista"><i>Soċjalista</i><par n="nazzjonalista__adj"/></e>
@@ -2858,6 +3156,15 @@
     <e lm="minna" r="LR"><p><l>minna</l><r>minn<s n="pr"/><j/>na<s n="prn"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
     <e lm="minnkom" r="LR"><p><l>minnkom</l><r>minn<s n="pr"/><j/>kom<s n="prn"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p></e>
     <e lm="minnhom" r="LR"><p><l>minnhom</l><r>minn<s n="pr"/><j/>hom<s n="prn"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
+
+
+    <e lm="fosti" r="LR"><p><l>fosti</l><r>fost<s n="pr"/><j/>i<s n="prn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e lm="fostok" r="LR"><p><l>fostok</l><r>fost<s n="pr"/><j/>ek<s n="prn"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e lm="fostu" r="LR"><p><l>fostu</l><r>fost<s n="pr"/><j/>u<s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="fostha" r="LR"><p><l>fostha</l><r>fost<s n="pr"/><j/>ha<s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="fostna" r="LR"><p><l>fostna</l><r>fost<s n="pr"/><j/>na<s n="prn"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
+    <e lm="fostkom" r="LR"><p><l>fostkom</l><r>fost<s n="pr"/><j/>kom<s n="prn"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p></e>
+    <e lm="fosthom" r="LR"><p><l>fosthom</l><r>fost<s n="pr"/><j/>hom<s n="prn"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
 
 
 
