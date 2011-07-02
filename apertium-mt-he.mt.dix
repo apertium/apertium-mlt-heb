@@ -540,6 +540,13 @@
     <!-- TODO: pl poss forms -->
   </pardef>
 
+  <pardef n="isk/ola__n_f">
+    <e><p><l>ola</l><r>ola<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>ejjel</l><r>ola<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    <!-- TODO: poss forms -->
+  </pardef>
+
+
   <pardef n="gż/ira__n_f">
     <e><p><l>ira</l><r>ira<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>irit</l><r>ira<s n="n"/><s n="f"/><s n="sg"/></r></p><par n="S__dar"/></e>
@@ -1308,6 +1315,8 @@
     <e lm="gżira" c="island"><i>gż</i><par n="gż/ira__n_f"/></e>
     <e lm="flixkun" c="bottle"><i>fl</i><par n="fl/ixkun__n_GD"/></e>
     <e lm="bandiera" c="flag"><i>b</i><par n="b/andiera__n_f"/></e>
+    <e lm="iskola" c="school"><i>isk</i><par n="isk/ola__n_f"/></e>
+    <e lm="iskola" c="school" r="LR"><p><l>sk</l><r>isk</r></p><par n="isk/ola__n_f"/></e>
 
     <e lm="entità"><i>entit</i><par n="entit/à__n_f"/></e>
     <e lm="possibilità"><i>possibilit</i><par n="entit/à__n_f"/></e>
