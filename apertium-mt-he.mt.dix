@@ -429,10 +429,21 @@
     <e><p><l>otba</l><r>tieb<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
   </pardef>
 
+  <pardef n="parti__n_m">
+    <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>jiet</l><r><s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+  </pardef>
+
   <pardef n="espressjoni__n">
     <e><p><l></l><r><s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>jiet</l><r><s n="n"/><s n="f"/><s n="pl"/></r></p></e>
   </pardef>
+
+  <pardef n="gż/ira__n_f">
+    <e><p><l>ira</l><r>ira<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>ejjer</l><r>ira<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+  </pardef>
+
 
   <pardef n="s/ena__n">
     <e><p><l>ena</l><r>ena<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
@@ -972,8 +983,9 @@
     <e lm="post" c="place"><i>post</i><par n="dixx__n_m"/></e>
 
     <e lm="omm" c="mother"><i>omm</i><par n="omm__n_f"/></e>
+    <e lm="gżira" c="island"><i>gż</i><par n="gż/ira__n_f"/></e>
     <e lm="flixkun" c="bottle"><i>fl</i><par n="fl/ixkun__n_GD"/></e>
-    <e lm="b/andiera" c="flag"><i>b</i><par n="b/andiera__n_f"/></e>
+    <e lm="bandiera" c="flag"><i>b</i><par n="b/andiera__n_f"/></e>
 
     <e lm="entità"><i>entit</i><par n="entit/à__n_f"/></e>
     <e lm="possibilità"><i>possibilit</i><par n="entit/à__n_f"/></e>
@@ -1004,6 +1016,8 @@
 
     <e lm="kelma" c="word"><i>kelm</i><par n="kelm/a__n_f"/></e>
     <e lm="dinja" c="world"><i>dinj</i><par n="kelm/a__n_f"/></e>
+
+    <e lm="parti"><i>parti</i><par n="parti__n_m"/></e>
 
     <e lm="espressjoni"><i>espressjoni</i><par n="espressjoni__n"/></e>
     <e lm="fortifikazzjoni"><i>fortifikazzjoni</i><par n="espressjoni__n"/></e>
@@ -1125,6 +1139,7 @@
     <e lm="tniġġis"><i>tniġġis</i><par n="tniġġis__n"/></e> <!-- verify gender -->
 
     <e lm="proposta"><i>propost</i><par n="propost/a__n"/></e>
+    <e lm="provinċja"><i>provinċj</i><par n="propost/a__n"/></e>
     <e lm="familja"><i>familj</i><par n="propost/a__n"/></e>
     <e lm="sottofamilja"><i>sottofamilj</i><par n="propost/a__n"/></e>
     <e lm="superfamilja"><i>superfamilj</i><par n="propost/a__n"/></e>
@@ -1190,6 +1205,7 @@
     <e lm="pjaneta"><i>pjanet</i><par n="pjanet/a__n_m"/></e>
     <e lm="qalb"><i>q</i><par n="q/alb__n_m"/></e>
     <e lm="liebru"><i>liebr</i><par n="buff/u__n_m"/></e>
+    <e lm="arċipelagu"><i>arċipelag</i><par n="buff/u__n_m"/></e>
     <e lm="filosfu"><i>filosf</i><par n="buff/u__n_m"/></e>
     <e lm="membru"><i>membr</i><par n="buff/u__n_m"/></e>
     <e lm="poplu"><i>popl</i><par n="buff/u__n_m"/></e>
@@ -1393,6 +1409,7 @@
 
     <!-- SECTION: Proper nouns -->
 
+    <e lm="Għawdex"><i>Għawdex</i><par n="Malta__np"/></e> <!-- TODO: check gender -->
     <e lm="Ċina"><i>Ċina</i><par n="Malta__np"/></e>
     <e lm="Valletta"><i>Valletta</i><par n="Malta__np"/></e>
     <e lm="Malta"><i>Malta</i><par n="Malta__np"/></e>
