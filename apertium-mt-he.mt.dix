@@ -31,6 +31,8 @@
     <sdef n="ant"         c="Anthroponym"/>
     <sdef n="cog"         c="Cognomen"/>
 
+    <sdef n="comp"        c="Comparative"/>
+
     <sdef n="sg"          c="Singular"/>
     <sdef n="pl"          c="Plural"/>
     <sdef n="sp"          c="Singular / plural"/>
@@ -725,6 +727,13 @@
     <e><p><l>ċi</l><r>ku<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
   </pardef>
 
+  <pardef n="/fqir__adj">
+    <e><p><l>fqir</l><r>fqir<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>fqira</l><r>fqir<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+    <!-- TODO: plural form -->
+    <e><p><l>ifqar</l><r>fqir<s n="adj"/><s n="comp"/></r></p></e>
+  </pardef>
+
   <pardef n="x/iħ__adj">
     <e><p><l>iħ</l><r>iħ<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>iħa</l><r>iħ<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
@@ -878,6 +887,8 @@
     <e lm="ħafna" c="many"><i>ħafna</i><par n="ħafna__det"/></e>
     <e lm="aktar" c="more"><i>aktar</i><par n="aktar__det"/></e>
     <e lm="iktar" c="more"><i>iktar</i><par n="aktar__det"/></e>
+    <e lm="izjed" c="more"><i>izjed</i><par n="aktar__det"/></e>
+    <e lm="anqas" c="less"><i>anqas</i><par n="aktar__det"/></e>
 
     <e lm="aħħar" c="last"><i>aħħar</i><par n="aħħar__det"/></e>
     
@@ -1835,6 +1846,7 @@
     <e lm="istess"><i>istess</i><par n="kollha__adj"/></e>
 
     <e lm="xiħ"><i>x</i><par n="x/iħ__adj"/></e>
+    <e lm="fqir"><i></i><par n="/fqir__adj"/></e>
 
     <e lm="politiku"><i>politi</i><par n="teknoloġi/ku__adj"/></e>
     <e lm="elettroniku"><i>elettroni</i><par n="teknoloġi/ku__adj"/></e>
