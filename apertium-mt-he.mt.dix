@@ -540,6 +540,11 @@
     <e r="LR"><p><l>s</l><r>t<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
   </pardef>
 
+  <pardef n="b/andiera__n_f">
+    <e><p><l>andiera</l><r>andiera<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>nadar</l><r>andiera<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+  </pardef>
+
   <pardef n="opponent__n_GD">
     <e><p><l></l><r><s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
     <e><p><l>i</l><r><s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
@@ -571,6 +576,7 @@
     <e><p><l>ijiet</l><r><s n="n"/><s n="m"/><s n="pl"/></r></p></e>
   </pardef>
   <pardef n="/tifel__n_m">
+
     <e><p><l>tifel</l><r>tifel<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>tfal</l><r>tifel<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e r="LR"><p><l>subien</l><r>tifel<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
@@ -579,6 +585,11 @@
     <e><p><l></l><r><s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>t</l><r><s n="n"/><s n="f"/><s n="pl"/></r></p></e>
   </pardef>
+  <pardef n="fl/ixkun__n_GD">
+    <e><p><l>ixkun</l><r>ixkun<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
+    <e><p><l>iexken</l><r>ixkun<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
+  </pardef>
+
   <pardef n="q/attus__n_m">
     <e><p><l>attus</l><r>attus<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>tates</l><r>attus<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
@@ -950,6 +961,8 @@
     <e lm="post" c="place"><i>post</i><par n="dixx__n_m"/></e>
 
     <e lm="omm" c="mother"><i>omm</i><par n="omm__n_f"/></e>
+    <e lm="flixkun" c="bottle"><i>fl</i><par n="fl/ixkun__n_GD"/></e>
+    <e lm="b/andiera" c="flag"><i>b</i><par n="b/andiera__n_f"/></e>
 
     <e lm="entità"><i>entit</i><par n="entit/à__n_f"/></e>
     <e lm="possibilità"><i>possibilit</i><par n="entit/à__n_f"/></e>
