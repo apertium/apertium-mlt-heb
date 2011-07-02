@@ -745,6 +745,12 @@
     <e><p><l>ifqar</l><r>fqir<s n="adj"/><s n="comp"/></r></p></e>
   </pardef>
 
+  <pardef n="kb/ir__adj">
+    <e><p><l>ir</l><r>ir<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>ira</l><r>ir<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>ar</l><r>ir<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
+  </pardef>
+
   <pardef n="x/iħ__adj">
     <e><p><l>iħ</l><r>iħ<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>iħa</l><r>iħ<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
@@ -1863,6 +1869,7 @@
     <e lm="istess"><i>istess</i><par n="kollha__adj"/></e>
 
     <e lm="xiħ"><i>x</i><par n="x/iħ__adj"/></e>
+    <e lm="kbir"><i>kb</i><par n="kb/ir__adj"/></e>
     <e lm="fqir"><i></i><par n="/fqir__adj"/></e>
 
     <e lm="politiku"><i>politi</i><par n="teknoloġi/ku__adj"/></e>
