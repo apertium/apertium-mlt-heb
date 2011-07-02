@@ -8,6 +8,9 @@
   </char>
 
   <!-- Common orthographical errors -->
+  <char value="ċ">
+    <equiv-char value="c"/>
+  </char>
   <char value="ż">
     <equiv-char value="z"/>
   </char>
