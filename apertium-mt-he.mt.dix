@@ -1245,7 +1245,7 @@
 
     <!-- SECTION: Determiners -->
 
-    <!-- SECTION: Numerals --> <!-- TODO: The whole 'numeral'  second needs to be revised -->
+    <!-- SECTION: Numerals --> <!-- TODO: The whole 'numeral'  second needs to be revised, see p.117 -->
     <e lm="wieħed" c="one"><i>w</i><par n="w/ieħed__num"/></e>
     <e lm="tnejn" c="two"><i>tnejn</i><par n="tnejn__num"/></e> <!-- TODO: Check -->
     <e lm="żewġ" c="two"><i>żewġ</i><par n="tnejn__num"/></e> <!-- TODO: Check -->
