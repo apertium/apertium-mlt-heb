@@ -8,6 +8,12 @@
   </char>
 
   <!-- Common orthographical errors -->
+  <char value="ż">
+    <equiv-char value="z"/>
+  </char>
+  <char value="ġ">
+    <equiv-char value="g"/>
+  </char>
   <char value="ħ">
     <equiv-char value="h"/>
   </char>
