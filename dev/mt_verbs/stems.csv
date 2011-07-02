@@ -17,6 +17,10 @@ tkellem, strong, speak, tk-l-l-m, e-i, double_mid_radical_initial_cluster , unch
 fetaħ, defective, open, f-t-ħ, e-a, , checked
 qala', defective, earn, q-l-j, a-a, a_a, checked
 qata', defective, cut, q-t-j, a-a, a_a, unchecked
+seta, defective, can, s-t-, e-a, , unchecked
+#ried, defective, want, r-d-, e-i, , unchecked
+#għin, defective, help, għ-n-, e-a, p3_only, unchecked
+#kell, defective, must, k-l-l, e-a, , unchecked
 
 qarmeċ, quadriliteral, die, q-r-m-ċ, a-e, , unchecked
 
@@ -58,5 +62,6 @@ qal, irregular, say, g-ħ-d, a, qal, checked
 gie, irregular, come, g-i-e, e, gie, checked
 ta, irregular, give, t-a, a, ta, checked
 ħa, irregular, take, ħ-a, a, ha, checked
+sar, irregular, become, s-a-r, a, sar, unchecked
 
 kien, vaux, be, k-n, i-e, kien, checked
