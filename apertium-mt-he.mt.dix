@@ -560,13 +560,20 @@
     <e><p><l></l><r><s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>jiet</l><r><s n="n"/><s n="f"/><s n="pl"/></r></p></e>
   </pardef>
+
+  <pardef n="omm__n_f">
+    <e><p><l></l><r><s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>ijiet</l><r><s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+  </pardef>
+
   <pardef n="dixx__n_m">
     <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>ijiet</l><r><s n="n"/><s n="m"/><s n="pl"/></r></p></e>
   </pardef>
-  <pardef n="t/ifel__n_m">
-    <e><p><l>ifel</l><r>ifel<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
-    <e><p><l>fal</l><r>ifel<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+  <pardef n="/tifel__n_m">
+    <e><p><l>tifel</l><r>tifel<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>tfal</l><r>tifel<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+    <e r="LR"><p><l>subien</l><r>tifel<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
   </pardef>
   <pardef n="xemgħa__n_f">
     <e><p><l></l><r><s n="n"/><s n="f"/><s n="sg"/></r></p></e>
@@ -622,7 +629,9 @@
   </pardef>
   <pardef n="q/alb__n_m">
     <e><p><l>alb</l><r>alb<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>alb</l><r>alb<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="S__dar"/></e>
     <e><p><l>lub</l><r>alb<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+    <e><p><l>lub</l><r>alb<s n="n"/><s n="m"/><s n="pl"/></r></p><par n="S__dar"/></e>
   </pardef>
   <pardef n="nagħ/ġa__n_f">
     <e><p><l>ġa</l><r>ġa<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
@@ -940,6 +949,8 @@
     <e lm="nazzjon"><i>nazzjon</i><par n="dixx__n_m"/></e>
     <e lm="post" c="place"><i>post</i><par n="dixx__n_m"/></e>
 
+    <e lm="omm" c="mother"><i>omm</i><par n="omm__n_f"/></e>
+
     <e lm="entità"><i>entit</i><par n="entit/à__n_f"/></e>
     <e lm="possibilità"><i>possibilit</i><par n="entit/à__n_f"/></e>
     <e lm="diffikultà"><i>diffikult</i><par n="entit/à__n_f"/></e>
@@ -1164,10 +1175,9 @@
     <e lm="ħsieb"><i>ħsi</i><par n="ħsi/eb__n_m"/></e>
     <e lm="liebru"><i>liebr</i><par n="buff/u__n_m"/></e>
     <e lm="poeżija"><i>poeżij</i><par n="lingw/a__n_f"/></e>
-    <e lm="tifel"><i>t</i><par n="t/ifel__n_m"/></e>
+    <e lm="tifel"><i>t</i><par n="/tifel__n_m"/></e>
     <e lm="proġett"><i>proġett</i><par n="vjal__n_m"/></e>
     <e lm="annimal"><i>annimal</i><par n="vjal__n_m"/></e>
-    <e lm="tifel"><i>t</i><par n="t/ifel__n_m"/></e>
     <e lm="poeżija"><i>poeżij</i><par n="lingw/a__n_f"/></e>
     <e lm="siġġu"><i>siġġ</i><par n="siġġ/u__n_m"/></e>
     <e lm="rwol"><i>rwol</i><par n="vjal__n_m"/></e>
