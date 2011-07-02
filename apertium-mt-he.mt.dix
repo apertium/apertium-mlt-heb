@@ -206,6 +206,22 @@
       <e><p><l/><r><s n="prn"/><s n="ind"/><s n="mf"/><s n="pl"/></r></p></e>
     </pardef>
 
+    <pardef n="/wieħed__prn"> <!-- p.102 -->
+      <e><p><l>wieħed</l><r>wieħed<s n="prn"/><s n="ind"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e><p><l>waħdi</l><r>wieħed<s n="prn"/><s n="ind"/><s n="mf"/><s n="sg"/><s n="px1sg"/></r></p></e>
+      <e><p><l>waħdek</l><r>wieħed<s n="prn"/><s n="ind"/><s n="mf"/><s n="sg"/><s n="px2sg"/></r></p></e>
+      <e><p><l>waħdu</l><r>wieħed<s n="prn"/><s n="ind"/><s n="mf"/><s n="sg"/><s n="px3sg_m"/></r></p></e>
+      <e><p><l>weħidha</l><r>wieħed<s n="prn"/><s n="ind"/><s n="mf"/><s n="sg"/><s n="px3sg_f"/></r></p></e>
+      <e><p><l>weħidna</l><r>wieħed<s n="prn"/><s n="ind"/><s n="mf"/><s n="sg"/><s n="px1pl"/></r></p></e>
+      <e><p><l>weħidkom</l><r>wieħed<s n="prn"/><s n="ind"/><s n="mf"/><s n="sg"/><s n="px2pl"/></r></p></e>
+      <e><p><l>weħidhom</l><r>wieħed<s n="prn"/><s n="ind"/><s n="mf"/><s n="sg"/><s n="px3pl"/></r></p></e>
+
+      <e r="LR"><p><l>uħidha</l><r>wieħed<s n="prn"/><s n="ind"/><s n="mf"/><s n="sg"/><s n="px3sg_f"/></r></p></e>
+      <e r="LR"><p><l>uħidna</l><r>wieħed<s n="prn"/><s n="ind"/><s n="mf"/><s n="sg"/><s n="px1pl"/></r></p></e>
+      <e r="LR"><p><l>uħidkom</l><r>wieħed<s n="prn"/><s n="ind"/><s n="mf"/><s n="sg"/><s n="px2pl"/></r></p></e>
+      <e r="LR"><p><l>uħidhom</l><r>wieħed<s n="prn"/><s n="ind"/><s n="mf"/><s n="sg"/><s n="px3pl"/></r></p></e>
+    </pardef>
+
 <!--
     <pardef n="min__prn">
       <e><p><l/><r><s n="prn"/><s n="def"/><s n="m"/><s n="sp"/></r></p></e>
@@ -390,6 +406,12 @@
   <pardef n="is/em__n">
     <e><p><l>em</l><r>em<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>mijiet</l><r>em<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+  </pardef>
+
+  <pardef n="m/ara__n">
+    <e><p><l>ara</l><r>ara<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>art</l><r>ara<s n="n"/><s n="f"/><s n="sg"/></r></p><par n="S__dar"/></e>
+    <!-- TODO: pl forms -->
   </pardef>
 
   <pardef n="d/ar__n">
@@ -822,6 +844,8 @@
     <e lm="kemm huma" c="how many"><i>kemm<b/>huma</i><par n="kemm_huma__prn"/></e>
     <e lm="kemm iequm" c="how much"><i>kemm<b/>iqum</i><par n="kemm_iequm__prn"/></e>
 
+    <e lm="wieħed" c="one/alone"><i></i><par n="/wieħed__prn"/></e>
+
     <e lm="diversi" c="several"><i>diversi</i><par n="diversi__det"/></e>
     <e lm="oħra" c="other"><i>oħra</i><par n="oħra__det"/></e>
     <e lm="ħafna" c="many"><i>ħafna</i><par n="ħafna__det"/></e>
@@ -901,6 +925,7 @@
     <!-- SECTION: Nouns -->
     <e lm="gramafown"><i>gram</i><par n="gram/afown__n"/></e>
     <e lm="dar"><i>d</i><par n="d/ar__n"/></e>
+    <e lm="mara"><i>m</i><par n="m/ara__n"/></e>
     <e lm="isem"><i>is</i><par n="is/em__n"/></e>
     <e lm="ktieb"><i>k</i><par n="k/tieb__n"/></e>
     <e lm="reliġjon"><i>reliġjon</i><par n="dixx__n_m"/></e>
