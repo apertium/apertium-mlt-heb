@@ -16,6 +16,7 @@ dev/bidix-verbs-to-he.dix.sh -text
 dev/concordancer.py -text
 dev/dout.nouns.shemp.dix -text
 dev/dout.nouns.wolig.dix -text
+dev/find-nouns.sh -text
 dev/generation-summary.mt-he.txt -text
 dev/generation-test.py -text
 dev/he-cnjcoo -text
@@ -67,6 +68,7 @@ dev/mt_wiktionary/nounNoNumber.dix -text
 dev/mt_wiktionary/nounNoNumber.speling -text
 dev/paragraph1.out -text
 dev/paragraph1.txt -text
+dev/process-found-nouns.py -text
 dev/testvoc-summary.mt-he.txt -text
 dev/testvoc.sh -text
 dev/verb_lists/allmalteseverbs17apr-strong.csv -text
