@@ -181,6 +181,23 @@ for line in file(sys.argv[4]).read().split('\n'): #{
 	unk_gen_pl_context[unknown][context_gender].append(context_surface);
 #}
 
+def stem_from_par_sg(pardef, sing): #{
+	suffix = '';
+	if paradigm.count('/') > 0: #{
+		suffix = paradigm.split('/')[1].split('_')[0];
+	else: #{
+		return sing;
+	#}
+
+	suffixlen = len(suffix.decode('utf-8'));
+	unk_len = len(unknown.decode('utf-8'));
+
+	fra = unk_len - suffixlen;
+	stem = unknown.decode('utf-8')[0:fra].encode('utf-8');
+	
+	return stem ; 
+#}
+
 # Read through the singular candidates, 
 for unknown in unk_gen_sg_count: #{
 	# For each of our paradigms, first check if it has more than two entries, 
@@ -249,6 +266,8 @@ for unknown in unk_gen_sg_count: #{
 						
 					# Print out everything.
 					print sg_count + pl_count , '\t' , paradigm , '\t' , unk_gen_sg_count[unknown][gender] , '\t' , paradigm_guessed_singular , paradigm_guessed_plural , '\t' , context
+
+					#print '    <e lm="' + unknown + '"><i>' + stem_from_par_sg(paradigm, unknown) + '</i><par n="' + paradigm + '"/></e>'; 
 				#}
 				#if unknown in hitparade: #{
 				#	print paradigm , suffix ,  hitparade[unknown] , '\t' , unk_gen_sg_count[unknown][gender] , '\t' ,  gender , '\t' , unknown , set(unk_gen_sg_context[unknown][gender]);
