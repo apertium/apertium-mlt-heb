@@ -1450,6 +1450,7 @@
     <e lm="president"><i>president</i><par n="moviment__n"/></e>
     <e lm="moviment"><i>moviment</i><par n="moviment__n"/></e>
     <e lm="mudell" c="model"><i>mudell</i><par n="moviment__n"/></e>
+    <e lm="ristorant" c="restaurant"><i>ristorant</i><par n="moviment__n"/></e>
 
     <e lm="protestant"><i>protestant</i><par n="protestant__n"/></e>
     <e lm="nazzjonalist"><i>nazzjonalist</i><par n="protestant__n"/></e>
