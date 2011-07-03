@@ -185,7 +185,15 @@ for unknown in unk_gen_sg_count: #{
 
 			for gender in unk_gen_sg_count[unknown]: #{
 				if paradigms[paradigm][0][1].count('.' + gender + '.'): #{
-					print sg_count + pl_count , '\t' , paradigm , '\t' , paradigm_guessed_singular , paradigm_guessed_plural ;
+					context = '(';
+					for item in list(set(unk_gen_sg_context[unknown][gender])): #{
+						context = context + ' ' + item ;
+					#}
+					for item in list(set(unk_gen_pl_context[paradigm_guessed_plural]['mf'])): #{
+						context = context + ' ' + item ;
+					#}
+					context = context + ' )';
+					print sg_count + pl_count , '\t' , paradigm , '\t' , unk_gen_sg_count[unknown][gender] , '\t' , paradigm_guessed_singular , paradigm_guessed_plural , '\t' , context
 				#}
 				#if unknown in hitparade: #{
 				#	print paradigm , suffix ,  hitparade[unknown] , '\t' , unk_gen_sg_count[unknown][gender] , '\t' ,  gender , '\t' , unknown , set(unk_gen_sg_context[unknown][gender]);
