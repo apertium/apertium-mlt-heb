@@ -680,11 +680,6 @@
     <e><p><l>i</l><r><s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
   </pardef>
 
-  <pardef n="ġener/u__n_GD">
-    <e><p><l>u</l><r>u<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
-    <e><p><l>i</l><r>u<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
-  </pardef>
-
   <pardef n="Taljan__n">
     <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>a</l><r><s n="n"/><s n="f"/><s n="sg"/></r></p></e>
@@ -1127,6 +1122,7 @@
     <!-- SECTION: Prepositions -->
     <e lm="kontra"><i>kontra</i><par n="kontra__pr"/></e>
     <e lm="bla" c="without"><i>bla</i><par n="kontra__pr"/></e>
+    <e lm="minkejja" c="despite"><i>minkejja</i><par n="kontra__pr"/></e>
     <e lm="fost" c="between, among"><i>fost</i><par n="kontra__pr"/></e>
     <e lm="dwar"><i>dwar</i><par n="kontra__pr"/></e>
     <e lm="bejn" c="between"><i>bejn</i><par n="kontra__pr"/></e>
@@ -1336,6 +1332,8 @@
     <e lm="serp"><i>s</i><par n="s/erp__n_m"/></e>
 
     <e lm="espressjoni"><i>espressjoni</i><par n="unjoni__n_f"/></e>
+    <e lm="ċivilizzazzjoni"><i>ċivilizzazzjoni</i><par n="unjoni__n_f"/></e>
+    <e lm="ċivilizzazzjoni" r="LR"><p><l>civilizzazjoni</l><r>ċivilizzazzjoni</r></p><par n="unjoni__n_f"/></e>
     <e lm="fortifikazzjoni"><i>fortifikazzjoni</i><par n="unjoni__n_f"/></e>
     <e lm="preokkupazzjoni"><i>preokkupazzjoni</i><par n="unjoni__n_f"/></e>
     <e lm="ospitazzjoni"><i>ospitazzjoni</i><par n="unjoni__n_f"/></e>
@@ -1433,6 +1431,7 @@
     <e lm="moviment"><i>moviment</i><par n="moviment__n_m"/></e>
     <e lm="mudell" c="model"><i>mudell</i><par n="moviment__n_m"/></e>
     <e lm="ristorant" c="restaurant"><i>ristorant</i><par n="moviment__n_m"/></e>
+    <e lm="unur" c="honour"><i>unur</i><par n="moviment__n_m"/></e>
 
     <e lm="protestant"><i>protestant</i><par n="protestant__n"/></e>
     <e lm="nazzjonalist"><i>nazzjonalist</i><par n="protestant__n"/></e>
@@ -1518,10 +1517,11 @@
     <e lm="opponent"><i>opponent</i><par n="opponent__n_GD"/></e>
     <e lm="esponent"><i>esponent</i><par n="opponent__n_GD"/></e>
 
-    <e lm="ġeneru"><i>ġener</i><par n="ġener/u__n_GD"/></e>
-    <e lm="mammiferu"><i>mammifer</i><par n="ġener/u__n_GD"/></e>
-    <e lm="ministru"><i>ministr</i><par n="ġener/u__n_GD"/></e>
-    <e lm="ottubru"><i>ottubr</i><par n="ġener/u__n_GD"/></e>
+    <e lm="ġeneru"><i>ġener</i><par n="buff/u__n_m"/></e>
+    <e lm="arkanġlu"><i>arkanġl</i><par n="buff/u__n_m"/></e>
+    <e lm="mammiferu"><i>mammifer</i><par n="buff/u__n_m"/></e>
+    <e lm="ministru"><i>ministr</i><par n="buff/u__n_m"/></e>
+    <e lm="ottubru"><i>ottubr</i><par n="buff/u__n_m"/></e>
 
     <!-- Generated from Wiktionary scripts: -->
     <e lm="Taljan"><i>Taljan</i><par n="Taljan__n"/></e>
@@ -1571,7 +1571,6 @@
     <e lm="siġġu"><i>siġġ</i><par n="siġġ/u__n_m"/></e>
     <e lm="kwistjoni"><i>kwistjoni</i><par n="unjoni__n_f"/></e>
     <e lm="introduzzjoni"><i>introduzzjoni</i><par n="unjoni__n_f"/></e>
-    <e lm="ġurnata"><i>ġ</i><par n="ġ/urnata__n_f"/></e>
     <e lm="tabib"><i>t</i><par n="t/abib__n_m"/></e>
     <e lm="tarbija"><i>t</i><par n="t/arbija__n_f"/></e>
     <e lm="tabib"><i>t</i><par n="t/abib__n_m"/></e>
@@ -1635,7 +1634,6 @@
     <e lm="żmien"><i>żmien</i><par n="unjoni__n_f"/></e>
     <e lm="numru"><i>numru</i><par n="unjoni__n_f"/></e>
     <e lm="seklu"><i>seklu</i><par n="unjoni__n_f"/></e>
-    <e lm="ġurnata"><i>ġurnata</i><par n="Ċek__n_GD"/></e>
     <e lm="ġurdien"><i>ġurdien</i><par n="Ċek__n_GD"/></e>
     <e lm="frott"><i>frott</i><par n="Ċek__n_m"/></e>
     <e lm="gvern"><i>gvern</i><par n="Ċek__n_m"/></e>
@@ -2840,6 +2838,8 @@
     <e lm="issa" c="now"><i>issa</i><par n="immedjatament__adv"/></e>
     <e lm="għada" c="tomorrow"><i>għada</i><par n="immedjatament__adv"/></e>
     <e lm="il-bieraħ" c="yesterday"><i>il-bieraħ</i><par n="immedjatament__adv"/></e>
+    <e lm="minkejja" c="despite"><i>minkejja</i><par n="immedjatament__adv"/></e>
+
     <e lm="ilu"><i>ilu</i><par n="immedjatament__adv"/></e>
     <e lm="lanqas"><i>lanqas</i><par n="immedjatament__adv"/></e>
     <e lm="tassew"><i>tassew</i><par n="immedjatament__adv"/></e>
