@@ -554,12 +554,19 @@
     <!-- TODO: pl poss forms -->
   </pardef>
 
-  <pardef n="/ilsien__n"> <!-- TODO: fixparadigm-->
+  <pardef n="/ilsien__n_m"> <!-- TODO: fixparadigm-->
     <e><p><l>ilsien</l><r>ilsien<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e r="LR"><p><l>lsien</l><r>ilsien<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>ilsien</l><r>ilsien<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="S__dar"/></e>
     <e r="LR"><p><l>lsien</l><r>ilsien<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="S__dar"/></e>
   </pardef>
+
+  <pardef n="/jum__n_m"> <!-- TODO: fixparadigm-->
+    <e><p><l>jum</l><r>jum<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>jiem</l><r>jum<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+    <e r="LR"><p><l>ijiem</l><r>jum<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+  </pardef>
+
 
   <pardef n="parti__n_m">
     <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/></r></p></e>
@@ -1486,7 +1493,8 @@
 
     <e lm="istampa"><i>istampa</i><par n="istampa__n"/></e>
 
-    <e lm="ilsien"><i></i><par n="/ilsien__n"/></e>
+    <e lm="ilsien"><i></i><par n="/ilsien__n_m"/></e>
+    <e lm="jum"><i></i><par n="/jum__n_m"/></e>
     <e lm="belt"><i></i><par n="/belt__n_f"/></e>
     <e lm="belt kapitali"><i></i><par n="/belt__n_f"/><p><l><b/>kapitali</l><r><g><b/>kapitali</g></r></p></e>
     <e lm="għibien"><i>għ</i><par n="għ/ibien__n"/></e>
@@ -1731,6 +1739,7 @@
     <e lm="anġlu"><i>anġlu</i><par n="Ċek__n_m"/></e>
 
     <e lm="missier"><i>missier</i><par n="missier__n_m"/></e>
+    <e lm="intervista"><i>intervist</i><par n="propost/a__n_f"/></e>
 
     <!-- autodiscovered with process-nouns-with-paradigms.py -->
     <e lm="ammont"><i>ammont</i><par n="moviment__n_m"/></e>
@@ -2337,6 +2346,8 @@
 
     <e lm="Olimpjadi"><i>Olimpjadi</i><par n="San__np"/></e> <!-- CHECK: pl? -->
     <e lm="San"><i>San</i><par n="San__np"/></e>
+    <e lm="Mulej"><i>Mulej</i><par n="San__np"/></e>
+    <e lm="Kronaka f'Malta"><i>Kronaka<b/>f'Malta</i><par n="San__np"/></e>
     <e lm="Manchester United"><i>Manchester<b/>United</i><par n="San__np"/></e>
     <e lm="Champions League"><i>Champions<b/>League</i><par n="San__np"/></e>
     <e lm="Premier League"><i>Premier<b/>League</i><par n="San__np"/></e>
