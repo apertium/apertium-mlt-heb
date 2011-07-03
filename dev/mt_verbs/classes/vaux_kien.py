@@ -7,11 +7,11 @@ def main(stem, root, vowels):
 
 	sp['inf'] = stem
 	sp['past.p1.sg'] = 'inkun'
-	sp['past.p2.sg'] = 'thun'
+	sp['past.p2.sg'] = 'tkun' # thun
 	sp['past.p3.m.sg'] = 'ikun'
-	sp['past.p3.f.sg'] = 'thun'
+	sp['past.p3.f.sg'] = 'tkun' #thun
 	sp['past.p1.pl'] = 'nkunu'
-	sp['past.p2.pl'] = 'tirunu'
+	sp['past.p2.pl'] = 'tkunu' # tirunu
 	sp['past.p3.pl'] = 'ikunu'
 	sp['pres.p1.sg'] = 'kont'
 	sp['pres.p2.sg'] = 'kont'
