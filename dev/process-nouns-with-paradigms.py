@@ -267,7 +267,7 @@ for unknown in unk_gen_sg_count: #{
 					# Print out everything.
 					print sg_count + pl_count , '\t' , paradigm , '\t' , unk_gen_sg_count[unknown][gender] , '\t' , paradigm_guessed_singular , paradigm_guessed_plural , '\t' , context
 
-					#print '    <e lm="' + unknown + '"><i>' + stem_from_par_sg(paradigm, unknown) + '</i><par n="' + paradigm + '"/></e>'; 
+					print '    <e lm="' + unknown + '"><i>' + stem_from_par_sg(paradigm, unknown) + '</i><par n="' + paradigm + '"/></e>'; 
 				#}
 				#if unknown in hitparade: #{
 				#	print paradigm , suffix ,  hitparade[unknown] , '\t' , unk_gen_sg_count[unknown][gender] , '\t' ,  gender , '\t' , unknown , set(unk_gen_sg_context[unknown][gender]);
