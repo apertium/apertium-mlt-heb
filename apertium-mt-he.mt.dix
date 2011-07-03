@@ -1596,7 +1596,6 @@
     <e lm="karità"><i>karit</i><par n="entit/à__n_f"/></e>
     <e lm="ġenerazzjoni"><i>ġenerazzjoni</i><par n="unjoni__n_f"/></e>
     <e lm="dipartiment"><i>dipartiment</i><par n="moviment__n_m"/></e>
-    <e lm="dipartiment"><i>dipartiment</i><par n="moviment__n_m"/></e>
     <e lm="diffikultà"><i>diffikult</i><par n="entit/à__n_f"/></e>
     <e lm="deżert"><i>deżert</i><par n="moviment__n_m"/></e>
     <e lm="ċerv"><i>ċ</i><par n="ċ/erv__n_m"/></e>
@@ -1859,6 +1858,27 @@
     <e lm="xjenzat"><i>xjenzat</i><par n="moviment__n_m"/></e>
     <e lm="xutt"><i>xutt</i><par n="dixx__n_m"/></e>
     <!-- end autodiscovered -->
+
+    <e lm="ċelebrazzjoni"><i>ċelebrazzjoni</i><par n="unjoni__n_f"/></e>
+    <e lm="dedikazzjoni"><i>dedikazzjoni</i><par n="unjoni__n_f"/></e>
+    <e lm="deskrizzjoni"><i>deskrizzjoni</i><par n="unjoni__n_f"/></e>
+    <e lm="dimensjoni"><i>dimensjoni</i><par n="unjoni__n_f"/></e>
+    <e lm="konfederazzjoni"><i>konfederazzjoni</i><par n="unjoni__n_f"/></e>
+    <e lm="indikazzjoni"><i>indikazzjoni</i><par n="unjoni__n_f"/></e>
+    <e lm="istituzzjoni"><i>istituzzjoni</i><par n="unjoni__n_f"/></e>
+    <e lm="komunikazzjoni"><i>komunikazzjoni</i><par n="unjoni__n_f"/></e>
+    <e lm="korporazzjoni"><i>korporazzjoni</i><par n="unjoni__n_f"/></e>
+    <e lm="lezzjoni"><i>lezzjoni</i><par n="unjoni__n_f"/></e>
+    <e lm="emozzjoni"><i>emozzjoni</i><par n="unjoni__n_f"/></e>
+    <e lm="okkażjoni"><i>okkażjoni</i><par n="unjoni__n_f"/></e>
+    <e lm="sospensjoni"><i>sospensjoni</i><par n="unjoni__n_f"/></e>
+    <e lm="preparazzjoni"><i>preparazzjoni</i><par n="unjoni__n_f"/></e>
+    <e lm="reazzjoni"><i>reazzjoni</i><par n="unjoni__n_f"/></e>
+    <e lm="riflessjoni"><i>riflessjoni</i><par n="unjoni__n_f"/></e>
+    <e lm="sezzjoni"><i>sezzjoni</i><par n="unjoni__n_f"/></e>
+    <e lm="tensjoni"><i>tensjoni</i><par n="unjoni__n_f"/></e>
+    <e lm="traduzzjoni"><i>traduzzjoni</i><par n="unjoni__n_f"/></e>
+
 
     <!-- SECTION: Proper nouns -->
 
@@ -2818,6 +2838,19 @@
     <e lm="essenzjalment"><i>essenzjalment</i><par n="immedjatament__adv"/></e>
     <e lm="litteralment"><i>litteralment</i><par n="immedjatament__adv"/></e>
     <e lm="bażikament"><i>bażikament</i><par n="immedjatament__adv"/></e>
+
+    <e lm="allegatament"><i>allegatament</i><par n="immedjatament__adv"/></e>
+    <e lm="kontinwament"><i>kontinwament</i><par n="immedjatament__adv"/></e>
+    <e lm="naturalment"><i>naturalment</i><par n="immedjatament__adv"/></e>
+    <e lm="ovvjament"><i>ovvjament</i><par n="immedjatament__adv"/></e>
+    <e lm="partikolarment"><i>partikolarment</i><par n="immedjatament__adv"/></e>
+    <e lm="personalment"><i>personalment</i><par n="immedjatament__adv"/></e>
+    <e lm="regolarment"><i>regolarment</i><par n="immedjatament__adv"/></e>
+    <e lm="ringrazzjament"><i>ringrazzjament</i><par n="immedjatament__adv"/></e>
+    <e lm="sempliċiment"><i>sempliċiment</i><par n="immedjatament__adv"/></e>
+    <e lm="sfortunatament"><i>sfortunatament</i><par n="immedjatament__adv"/></e>
+    <e lm="verament"><i>verament</i><par n="immedjatament__adv"/></e>
+
 
 
     <e lm="astronomikament"><i>astronomikament</i><par n="immedjatament__adv"/></e>
