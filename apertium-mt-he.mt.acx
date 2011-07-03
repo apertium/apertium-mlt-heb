@@ -8,6 +8,19 @@
   </char>
 
   <!-- Common orthographical errors -->
+  <char value="Ċ">
+    <equiv-char value="C"/>
+  </char>
+  <char value="Ż">
+    <equiv-char value="Z"/>
+  </char>
+  <char value="Ġ">
+    <equiv-char value="G"/>
+  </char>
+  <char value="Ħ">
+    <equiv-char value="H"/>
+  </char>
+
   <char value="ċ">
     <equiv-char value="c"/>
   </char>
@@ -20,8 +33,4 @@
   <char value="ħ">
     <equiv-char value="h"/>
   </char>
-  <char value="Ħ">
-    <equiv-char value="H"/>
-  </char>
-
 </analysis-chars>
