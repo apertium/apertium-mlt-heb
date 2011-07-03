@@ -1427,6 +1427,7 @@
     <e lm="flus" c="money"><i>flus</i><par n="nies__n_mf"/></e>
 
     <e lm="trattament"><i>trattament</i><par n="moviment__n_m"/></e>
+    <e lm="parlament"><i>parlament</i><par n="moviment__n_m"/></e>
     <e lm="president"><i>president</i><par n="moviment__n_m"/></e>
     <e lm="moviment"><i>moviment</i><par n="moviment__n_m"/></e>
     <e lm="mudell" c="model"><i>mudell</i><par n="moviment__n_m"/></e>
@@ -5392,6 +5393,8 @@
     <e><p><l>kienx</l>	<r>kien<s n="vaux"/><s n="inf"/><j/>x<s n="neg"/></r></p></e>
     <e><p><l>nkunu</l>	<r>kien<s n="vaux"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
     <e><p><l>nkunux</l>	<r>kien<s n="vaux"/><s n="past"/><s n="p1"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>jnkun</l>	<r>kien<s n="vaux"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+    <e><p><l>jnkunx</l>	<r>kien<s n="vaux"/><s n="past"/><s n="p1"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
     <e><p><l>inkun</l>	<r>kien<s n="vaux"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
     <e><p><l>inkunx</l>	<r>kien<s n="vaux"/><s n="past"/><s n="p1"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
     <e><p><l>tkunu</l>	<r>kien<s n="vaux"/><s n="past"/><s n="p2"/><s n="pl"/></r></p></e>
@@ -5400,6 +5403,10 @@
     <e><p><l>tkunx</l>	<r>kien<s n="vaux"/><s n="past"/><s n="p2"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
     <e><p><l>tkun</l>	<r>kien<s n="vaux"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>tkunx</l>	<r>kien<s n="vaux"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>jkun</l>	<r>kien<s n="vaux"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>jkunx</l>	<r>kien<s n="vaux"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>jkunu</l>	<r>kien<s n="vaux"/><s n="past"/><s n="p3"/><s n="pl"/></r></p></e>
+    <e><p><l>jkunux</l>	<r>kien<s n="vaux"/><s n="past"/><s n="p3"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
     <e><p><l>ikun</l>	<r>kien<s n="vaux"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>ikunx</l>	<r>kien<s n="vaux"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
     <e><p><l>ikunu</l>	<r>kien<s n="vaux"/><s n="past"/><s n="p3"/><s n="pl"/></r></p></e>
