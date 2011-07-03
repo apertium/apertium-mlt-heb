@@ -276,32 +276,32 @@
     </pardef>
 
     <pardef n="l-__det">
-      <e r="LR"><p><l>l-</l><r>l<s n="det"/><s n="def"/></r></p></e>
-      <e r="LR"><p><l>il-</l><r>l<s n="det"/><s n="def"/></r></p></e>
-      <e r="LR"><p><l>iċ-</l><r>l<s n="det"/><s n="def"/></r></p></e>
-      <e r="LR"><p><l>id-</l><r>l<s n="det"/><s n="def"/></r></p></e>
-      <e r="LR"><p><l>in-</l><r>l<s n="det"/><s n="def"/></r></p></e>
-      <e r="LR"><p><l>ir-</l><r>l<s n="det"/><s n="def"/></r></p></e>
-      <e r="LR"><p><l>is-</l><r>l<s n="det"/><s n="def"/></r></p></e>
-      <e r="LR"><p><l>it-</l><r>l<s n="det"/><s n="def"/></r></p></e>
-      <e r="LR"><p><l>ix-</l><r>l<s n="det"/><s n="def"/></r></p></e>
-      <e r="LR"><p><l>iz-</l><r>l<s n="det"/><s n="def"/></r></p></e>
-      <e r="LR"><p><l>iż-</l><r>l<s n="det"/><s n="def"/></r></p></e>
-      <e r="LR"><p><l>ċ-</l><r>l<s n="det"/><s n="def"/></r></p></e>
-      <e r="LR"><p><l>d-</l><r>l<s n="det"/><s n="def"/></r></p></e>
-      <e r="LR"><p><l>n-</l><r>l<s n="det"/><s n="def"/></r></p></e>
-      <e r="LR"><p><l>r-</l><r>l<s n="det"/><s n="def"/></r></p></e>
-      <e r="LR"><p><l>s-</l><r>l<s n="det"/><s n="def"/></r></p></e>
-      <e r="LR"><p><l>t-</l><r>l<s n="det"/><s n="def"/></r></p></e>
-      <e r="LR"><p><l>x-</l><r>l<s n="det"/><s n="def"/></r></p></e>
-      <e r="LR"><p><l>z-</l><r>l<s n="det"/><s n="def"/></r></p></e>
-      <e r="LR"><p><l>ż-</l><r>l<s n="det"/><s n="def"/></r></p></e>
-      <e r="RL"><p><l><a/>l-</l><r>l<s n="det"/><s n="def"/></r></p></e>
+      <e r="LR"><p><l>l-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e r="LR"><p><l>il-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e r="LR"><p><l>iċ-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e r="LR"><p><l>id-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e r="LR"><p><l>in-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e r="LR"><p><l>ir-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e r="LR"><p><l>is-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e r="LR"><p><l>it-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e r="LR"><p><l>ix-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e r="LR"><p><l>iz-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e r="LR"><p><l>iż-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e r="LR"><p><l>ċ-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e r="LR"><p><l>d-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e r="LR"><p><l>n-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e r="LR"><p><l>r-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e r="LR"><p><l>s-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e r="LR"><p><l>t-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e r="LR"><p><l>x-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e r="LR"><p><l>z-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e r="LR"><p><l>ż-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e r="RL"><p><l><a/>l-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
 
       <!-- Some of these forms are non-standard -->
-      <e r="LR"><p><l>l'</l><r>l<s n="det"/><s n="def"/></r></p></e>
-      <e r="LR"><p><l>'l</l><r>l<s n="det"/><s n="def"/></r></p></e>
-      <e r="LR"><p><l>il</l><r>l<s n="det"/><s n="def"/></r></p></e>
+      <e r="LR"><p><l>l'</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e r="LR"><p><l>'l</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e r="LR"><p><l>il</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
 
     </pardef>
     
