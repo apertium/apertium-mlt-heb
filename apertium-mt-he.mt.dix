@@ -1529,6 +1529,7 @@
     <e lm="lingwa"><i>lingw</i><par n="propost/a__n_f"/></e>
     <e lm="qalb"><i>q</i><par n="q/alb__n_m"/></e>
     <e lm="liebru"><i>liebr</i><par n="buff/u__n_m"/></e>
+    <e lm="angolu"><i>angol</i><par n="buff/u__n_m"/></e>
     <e lm="terminu"><i>termin</i><par n="buff/u__n_m"/></e>
     <e lm="buffu"><i>buff</i><par n="buff/u__n_m"/></e>
     <e lm="ministeru"><i>minister</i><par n="buff/u__n_m"/></e>
@@ -1863,6 +1864,7 @@
 
     <e lm="Għawdex"><i>Għawdex</i><par n="Malta__np"/></e> <!-- TODO: check gender -->
     <e lm="Ċina"><i>Ċina</i><par n="Malta__np"/></e>
+    <e lm="Angola"><i>Angola</i><par n="Malta__np"/></e>
     <e lm="Valletta"><i>Valletta</i><par n="Malta__np"/></e>
     <e lm="Malta"><i>Malta</i><par n="Malta__np"/></e>
     <e lm="Afrika"><i>Afrika</i><par n="Malta__np"/></e>
