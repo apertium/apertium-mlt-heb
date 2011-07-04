@@ -1580,6 +1580,7 @@
 
     <e lm="ġurnata"><i>ġ</i><par n="ġ/urnata__n_f"/></e>
     <e lm="annimal"><i>annimal</i><par n="moviment__n_m"/></e>
+    <e lm="ġurnalist"><i>ġurnalist</i><par n="moviment__n_m"/></e>
     <e lm="vjal"><i>vjal</i><par n="moviment__n_m"/></e>
     <e lm="pajjiż"><i>pajjiż</i><par n="moviment__n_m"/></e>
     <e lm="kanzunetta"><i>kanzunett</i><par n="propost/a__n_f"/></e>
@@ -2812,7 +2813,7 @@
     <e lm="fanatiku"><i>fanati</i><par n="teknoloġi/ku__adj"/></e>
     <e lm="folkloristiku"><i>folkloristi</i><par n="teknoloġi/ku__adj"/></e>
     <e lm="forensiku"><i>forensi</i><par n="teknoloġi/ku__adj"/></e>
-    <e lm="gurnalistiku"><i>gurnalisti</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="ġurnalistiku"><i>gurnalisti</i><par n="teknoloġi/ku__adj"/></e>
     <e lm="identiku"><i>identi</i><par n="teknoloġi/ku__adj"/></e>
     <e lm="iżlamiku"><i>iżlami</i><par n="teknoloġi/ku__adj"/></e>
     <e lm="kanoniku"><i>kanoni</i><par n="teknoloġi/ku__adj"/></e>
