@@ -2275,6 +2275,8 @@
     <e lm="Vatikan"><i>Vatikan</i><par n="Tibet__np"/></e>
     <e lm="York"><i>York</i><par n="Tibet__np"/></e>
     <e lm="Ekwador"><i>Ekwador</i><par n="Tibet__np"/></e>
+    <e lm="Austin"><i>Austin</i><par n="Tibet__np"/></e>
+    <e lm="Rabat"><i>Rabat</i><par n="Tibet__np"/></e>
 
     <e lm="Baħar iċ-Ċagħaq"><i>Baħar<b/>iċ-Ċagħaq</i><par n="Tibet__np"/></e>
     <e lm="Burmarrad"><i>Burmarrad</i><par n="Tibet__np"/></e>
@@ -2302,7 +2304,7 @@
     <e lm="In-Nadur"><i>In-Nadur</i><par n="Tibet__np"/></e>
     <e lm="In-Naxxar"><i>In-Naxxar</i><par n="Tibet__np"/></e>
     <e lm="Ir-Rabat"><i>Ir-Rabat</i><par n="Tibet__np"/></e>
-    <e lm="Ir-Rabat"><i>Ir-Rabat</i><par n="Tibet__np"/></e>
+    <e lm="Ir-Rabat" r="LR"><p><l>Ir<b/>Rabat</l><r>Ir-Rabat</r></p><par n="Tibet__np"/></e>
     <e lm="Ir-Rikażli"><i>Ir-Rikażli</i><par n="Tibet__np"/></e>
     <e lm="Is-Siġġiewi"><i>Is-Siġġiewi</i><par n="Tibet__np"/></e>
     <e lm="Is-Swieqi"><i>Is-Swieqi</i><par n="Tibet__np"/></e>
@@ -2375,14 +2377,33 @@
     <e lm="Tess"><i>Tess</i><par n="Marija__np"/></e>
     <e lm="Therese"><i>Therese</i><par n="Marija__np"/></e>
     <e lm="Victoria"><i>Victoria</i><par n="Marija__np"/></e>
+    <e lm="Peppi"><i>Peppi</i><par n="Marija__np"/></e>
+    <e lm="Jan"><i>Jan</i><par n="Marija__np"/></e>
+    <e lm="Floriana"><i>Floriana</i><par n="Marija__np"/></e>
+    <e lm="Barbara"><i>Barbara</i><par n="Marija__np"/></e>
+    <e lm="Karol"><i>Karol</i><par n="Marija__np"/></e>
+    <e lm="Claudette"><i>Claudette</i><par n="Marija__np"/></e>
+    <e lm="Odette"><i>Odette</i><par n="Marija__np"/></e>
+    <e lm="Josie"><i>Josie</i><par n="Marija__np"/></e>
 
 
     <e lm="Kristu"><i>Kristu</i><par n="Mikiel__np"/></e>
     <e lm="Ġesù"><i>Ġesù</i><par n="Mikiel__np"/></e>
     <e lm="Alla"><i>Alla</i><par n="Mikiel__np"/></e>
 
+    <e lm="Karol"><i>Karol</i><par n="Mikiel__np"/></e>
+    <e lm="Manuel"><i>Manuel</i><par n="Mikiel__np"/></e>
+    <e lm="Ray"><i>Ray</i><par n="Mikiel__np"/></e>
+    <e lm="Kurt"><i>Kurt</i><par n="Mikiel__np"/></e>
+    <e lm="Vincenzo"><i>Vincenzo</i><par n="Mikiel__np"/></e>
+    <e lm="Benjamin"><i>Benjamin</i><par n="Mikiel__np"/></e>
+    <e lm="Austin"><i>Austin</i><par n="Mikiel__np"/></e>
+    <e lm="Aron"><i>Aron</i><par n="Mikiel__np"/></e>
     <e lm="Alfred"><i>Alfred</i><par n="Mikiel__np"/></e>
     <e lm="Nicholas"><i>Nicholas</i><par n="Mikiel__np"/></e>
+    <e lm="René"><i>René</i><par n="Mikiel__np"/></e>
+    <e lm="Kevin"><i>Kevin</i><par n="Mikiel__np"/></e>
+    <e lm="Jan"><i>Jan</i><par n="Mikiel__np"/></e>
     <e lm="Joe"><i>Joe</i><par n="Mikiel__np"/></e>
     <e lm="Ellis"><i>Ellis</i><par n="Mikiel__np"/></e>
     <e lm="Anton"><i>Anton</i><par n="Mikiel__np"/></e>
@@ -2414,6 +2435,9 @@
     <e lm="Thomas"><i>Thomas</i><par n="Mikiel__np"/></e>
     <e lm="William"><i>William</i><par n="Mikiel__np"/></e>
     <e lm="Owen"><i>Owen</i><par n="Mikiel__np"/></e>
+    <e lm="Said"><i>Said</i><par n="Mikiel__np"/></e>
+    <e lm="Tonio"><i>Tonio</i><par n="Mikiel__np"/></e>
+    <e lm="Noel"><i>Noel</i><par n="Mikiel__np"/></e>
 
     <e lm="Federiku"><i>Federiku</i><par n="Mikiel__np"/></e>
     <e lm="Adrien"><i>Adrien</i><par n="Mikiel__np"/></e>
@@ -2695,6 +2719,8 @@
     <e lm="United"><i>United</i><par n="San__np"/></e>
     <e lm="St"><i>St</i><par n="San__np"/></e>
     <e lm="Mulej"><i>Mulej</i><par n="San__np"/></e>
+    <e lm="Linux"><i>Linux</i><par n="San__np"/></e>
+    <e lm="Facebook"><i>Facebook</i><par n="San__np"/></e>
     <e lm="Google"><i>Google</i><par n="San__np"/></e>
     <e lm="Kronaka f'Malta"><i>Kronaka<b/>f'Malta</i><par n="San__np"/></e>
     <e lm="Manchester United"><i>Manchester<b/>United</i><par n="San__np"/></e>
