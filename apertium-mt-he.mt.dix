@@ -673,8 +673,8 @@
   </pardef>
 
   <pardef n="gowl__n">
-    <e><p><l></l><r><s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
-    <e><p><l>s</l><r><s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
+    <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>s</l><r><s n="n"/><s n="m"/><s n="pl"/></r></p></e>
   </pardef>
 
   <pardef n="għ/ibien__n">
@@ -717,11 +717,6 @@
   <pardef n="b/andiera__n_f">
     <e><p><l>andiera</l><r>andiera<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>nadar</l><r>andiera<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
-  </pardef>
-
-  <pardef n="opponent__n_GD">
-    <e><p><l></l><r><s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
-    <e><p><l>i</l><r><s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
   </pardef>
 
   <pardef n="Taljan__n">
@@ -1472,6 +1467,7 @@
 
     <e lm="gowl"><i>gowl</i><par n="gowl__n"/></e>
     <e lm="kompjuter"><i>kompjuter</i><par n="gowl__n"/></e>
+    <e lm="klabb"><i>klabb</i><par n="gowl__n"/></e>
 
     <e lm="nies"><i>nies</i><par n="nies__n_mf"/></e>
     <e lm="flus" c="money"><i>flus</i><par n="nies__n_mf"/></e>
@@ -1565,10 +1561,10 @@
     <e lm="novembru" c="november"><i>novembru</i><par n="tniġġis__n"/></e>
     <e lm="diċembru" c="december"><i>diċembru</i><par n="tniġġis__n"/></e>
 
-    <e lm="kontinent"><i>kontinent</i><par n="opponent__n_GD"/></e>
-    <e lm="komponent"><i>komponenti</i><par n="opponent__n_GD"/></e>
-    <e lm="opponent"><i>opponent</i><par n="opponent__n_GD"/></e>
-    <e lm="esponent"><i>esponent</i><par n="opponent__n_GD"/></e>
+    <e lm="kontinent"><i>kontinent</i><par n="moviment__n_m"/></e>
+    <e lm="komponent"><i>komponenti</i><par n="moviment__n_m"/></e>
+    <e lm="opponent"><i>opponent</i><par n="moviment__n_m"/></e>
+    <e lm="esponent"><i>esponent</i><par n="moviment__n_m"/></e>
 
     <e lm="ġeneru"><i>ġener</i><par n="buff/u__n_m"/></e>
     <e lm="arkanġlu"><i>arkanġl</i><par n="buff/u__n_m"/></e>
@@ -2693,6 +2689,7 @@
 
     <e lm="Olimpjadi"><i>Olimpjadi</i><par n="San__np"/></e> <!-- CHECK: pl? -->
     <e lm="San"><i>San</i><par n="San__np"/></e>
+    <e lm="United"><i>United</i><par n="San__np"/></e>
     <e lm="St"><i>St</i><par n="San__np"/></e>
     <e lm="Mulej"><i>Mulej</i><par n="San__np"/></e>
     <e lm="Google"><i>Google</i><par n="San__np"/></e>
