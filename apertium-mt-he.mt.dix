@@ -672,7 +672,7 @@
     <e><p><l>iet</l><r>a<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
   </pardef>
 
-  <pardef n="gowl__n">
+  <pardef n="gowl__n_m">
     <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>s</l><r><s n="n"/><s n="m"/><s n="pl"/></r></p></e>
   </pardef>
@@ -1465,9 +1465,10 @@
     <e lm="viżjoni"><i>viżjoni</i><par n="unjoni__n_f"/></e>
     <e lm="votazzjoni"><i>votazzjoni</i><par n="unjoni__n_f"/></e>
 
-    <e lm="gowl"><i>gowl</i><par n="gowl__n"/></e>
-    <e lm="kompjuter"><i>kompjuter</i><par n="gowl__n"/></e>
-    <e lm="klabb"><i>klabb</i><par n="gowl__n"/></e>
+    <e lm="gowl"><i>gowl</i><par n="gowl__n_m"/></e>
+    <e lm="kompjuter"><i>kompjuter</i><par n="gowl__n_m"/></e>
+    <e lm="klabb"><i>klabb</i><par n="gowl__n_m"/></e>
+    <e lm="plejer"><i>plejer</i><par n="gowl__n_m"/></e>
 
     <e lm="nies"><i>nies</i><par n="nies__n_mf"/></e>
     <e lm="flus" c="money"><i>flus</i><par n="nies__n_mf"/></e>
@@ -3753,6 +3754,13 @@
     <e lm="qribkom" r="LR"><p><l>qribkom</l><r>qrib<s n="pr"/><j/>kom<s n="prn"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p></e>
     <e lm="qribhom" r="LR"><p><l>qribhom</l><r>qrib<s n="pr"/><j/>hom<s n="prn"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
 
+    <e lm="lejni" r="LR"><p><l>lejja</l><r>lejn<s n="pr"/><j/>i<s n="prn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e lm="lejnok" r="LR"><p><l>lejk</l><r>lejn<s n="pr"/><j/>ek<s n="prn"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e lm="lejnu" r="LR"><p><l>lejh</l><r>lejn<s n="pr"/><j/>u<s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="lejnha" r="LR"><p><l>lejha</l><r>lejn<s n="pr"/><j/>ha<s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="lejnna" r="LR"><p><l>lejna</l><r>lejn<s n="pr"/><j/>na<s n="prn"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
+    <e lm="lejnkom" r="LR"><p><l>lejkom</l><r>lejn<s n="pr"/><j/>kom<s n="prn"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p></e>
+    <e lm="lejnhom" r="LR"><p><l>lejhom</l><r>lejn<s n="pr"/><j/>hom<s n="prn"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
 
     <e lm="fosti" r="LR"><p><l>fosti</l><r>fost<s n="pr"/><j/>i<s n="prn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
     <e lm="fostok" r="LR"><p><l>fostok</l><r>fost<s n="pr"/><j/>ek<s n="prn"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
