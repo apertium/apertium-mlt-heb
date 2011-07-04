@@ -1486,6 +1486,7 @@
 
     <e lm="protestant"><i>protestant</i><par n="protestant__n"/></e>
     <e lm="nazzjonalist"><i>nazzjonalist</i><par n="protestant__n"/></e>
+    <e lm="attivist"><i>attivist</i><par n="protestant__n"/></e>
     <e lm="soċjalist"><i>soċjalist</i><par n="protestant__n"/></e>
     <e lm="ġurnal"><i>ġurnal</i><par n="protestant__n"/></e>
     <e lm="dissident"><i>dissident</i><par n="protestant__n"/></e>
@@ -2418,7 +2419,6 @@
     <e lm="Federiku"><i>Federiku</i><par n="Mikiel__np"/></e>
     <e lm="Adrien"><i>Adrien</i><par n="Mikiel__np"/></e>
     <e lm="Maurice"><i>Maurice</i><par n="Mikiel__np"/></e>
-    <e lm="Zammit"><i>Zammit</i><par n="Cervantes__np"/></e>
     <e lm="Stuart"><i>Stuart</i><par n="Mikiel__np"/></e>
 
     <!-- Saints -->
@@ -2549,6 +2549,8 @@
 
 
 
+    <e lm="Foucault"><i>Foucault</i><par n="Cervantes__np"/></e>
+    <e lm="Zammit"><i>Zammit</i><par n="Cervantes__np"/></e>
     <e lm="Ellis"><i>Ellis</i><par n="Cervantes__np"/></e>
     <e lm="Beethoven"><i>Beethoven</i><par n="Cervantes__np"/></e>
     <e lm="Best"><i>Best</i><par n="Cervantes__np"/></e>
