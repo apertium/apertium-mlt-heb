@@ -1571,6 +1571,7 @@
     <e lm="mammiferu"><i>mammifer</i><par n="buff/u__n_m"/></e>
     <e lm="ministru"><i>ministr</i><par n="buff/u__n_m"/></e>
     <e lm="ottubru"><i>ottubr</i><par n="buff/u__n_m"/></e>
+    <e lm="diżastru"><i>diżastr</i><par n="buff/u__n_m"/></e>
 
     <!-- Generated from Wiktionary scripts: -->
     <e lm="Taljan"><i>Taljan</i><par n="Taljan__n"/></e>
@@ -2056,6 +2057,7 @@
     <e lm="parir"><i>parir</i><par n="moviment__n_m"/></e>
     <e lm="partitarju"><i>partitarj</i><par n="buff/u__n_m"/></e>
     <e lm="passaport"><i>passaport</i><par n="moviment__n_m"/></e>
+    <e lm="ajruport"><i>ajruport</i><par n="moviment__n_m"/></e>
     <e lm="pass"><i>pass</i><par n="moviment__n_m"/></e>
     <e lm="patrijott"><i>patrijott</i><par n="moviment__n_m"/></e>
     <e lm="pensjoni"><i>pensjoni</i><par n="unjoni__n_f"/></e>
