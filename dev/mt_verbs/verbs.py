@@ -10,10 +10,40 @@ sys.stdout = codecs.getwriter('utf-8')(sys.stdout)
 sys.stderr = codecs.getwriter('utf-8')(sys.stderr)
 reload(sys); sys.setdefaultencoding("utf-8")
 
+STEMSFILE=sys.path[0] + '/stems.csv';
 FORMAT="speling"
-if len(sys.argv)>0 and '--dix' in sys.argv:
-	FORMAT="dix"
 
+if len(sys.argv)>0:
+    if '--help' in sys.argv:
+        print "Usage: verbs.py [-F file] [-s \"stem line\"] [--dix]"
+        sys.exit(1)
+
+    if '--dix' in sys.argv:
+        FORMAT="dix"
+    
+    if '-F' in sys.argv:
+        fi = sys.argv.index('-F')
+        if len(sys.argv)>fi+1:
+            STEMSFILE=sys.argv[fi+1]
+        else:
+            sys.stderr.write("Error: no file specified\n")
+            sys.exit(1)
+
+    if '-s' in sys.argv:
+        si = sys.argv.index('-s')
+        if len(sys.argv)>si+1:
+            STEMSFILE = False
+            lines = [sys.argv[si+1]]
+        else:
+            sys.stderr.write("Error: no stem line specified\n")
+            sys.exit(1)
+
+if STEMSFILE:
+    try:
+        lines = file(STEMSFILE)
+    except IOError as e:
+        sys.stderr.write("Error reading file: {0}\n".format(STEMSFILE))
+        sys.exit(1)
 
 def format_entry(FORMAT, stem, form, pos, feat):
 	if FORMAT=="speling":
@@ -29,14 +59,12 @@ def format_entry(FORMAT, stem, form, pos, feat):
 	else:
 		raise(Exception);
 
-
-
 if FORMAT=="dix": 
 	print '  <section id="verbs" type="standard">';
 	print '    <!-- Generated on: ' + time.strftime('%Y-%m-%d %H:%M %Z') + ' -->'; 
 
 
-for line in file(sys.path[0] + '/stems.csv'):
+for line in lines:
 	if len(line) < 2 or line[0] == '#':
 		continue
 	
