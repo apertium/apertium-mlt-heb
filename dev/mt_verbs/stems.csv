@@ -29,6 +29,7 @@ fetaħ, defective, open, f-t-ħ, e-a, , checked
 qala', defective, earn, q-l-j, a-a, a_a, checked
 qata', defective, cut, q-t-j, a-a, a_a, unchecked
 seta, defective, can, s-t-, e-a, , unchecked
+beda, defective, begin, b-d-, e-a, , unchecked
 #ried, defective, want, r-d-, e-i, , unchecked
 #għin, defective, help, għ-n-, e-a, p3_only, unchecked
 #kell, defective, must, k-l-l, e-a, , unchecked
@@ -72,7 +73,7 @@ ikkonsidra, loan, consider, k-k-n-s-d-r, a-i, english, unchecked
 
 ra, irregular, see, r-a, a, ra, checked
 qal, irregular, say, g-ħ-d, a, qal, checked
-gie, irregular, come, g-i-e, e, gie, checked
+ġie, irregular, come, ġ-i-e, e, gie, checked
 ta, irregular, give, t-a, a, ta, checked
 ħa, irregular, take, ħ-a, a, ha, checked
 sar, irregular, become, s-a-r, a, sar, unchecked
