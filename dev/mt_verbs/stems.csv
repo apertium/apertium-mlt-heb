@@ -24,6 +24,7 @@ gideb, strong, lie, g-d-b, i-e, , unchecked
 nizel, strong, go down, n-z-l, i-e, , unchecked
 naqas, strong, wane, n-q-s, a-a, , unchecked
 qatel, strong, kill, q-t-l, a-e, , unchecked
+#qagħad, strong, sit, q-għ-d, a-a, a_o, unchecked
 
 fetaħ, defective, open, f-t-ħ, e-a, , checked
 qala', defective, earn, q-l-j, a-a, a_a, checked
@@ -77,6 +78,7 @@ qal, irregular, say, g-ħ-d, a, qal, checked
 ta, irregular, give, t-a, a, ta, checked
 ħa, irregular, take, ħ-a, a, ha, checked
 sar, irregular, become, s-a-r, a, sar, unchecked
+jaf, irregular, know, j-a-f, a, jaf, unchecked
 
 kien, vaux, be, k-n, i-e, kien, checked
 kellu, vaux, have, k-l, e-u, kellu, checked

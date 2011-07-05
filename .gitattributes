@@ -47,6 +47,7 @@ dev/mt_verbs/classes/defective_a_a.py -text
 dev/mt_verbs/classes/defective_p3_only.py -text
 dev/mt_verbs/classes/irregular_gie.py -text
 dev/mt_verbs/classes/irregular_ha.py -text
+dev/mt_verbs/classes/irregular_jaf.py -text
 dev/mt_verbs/classes/irregular_qal.py -text
 dev/mt_verbs/classes/irregular_ra.py -text
 dev/mt_verbs/classes/irregular_sar.py -text
@@ -59,6 +60,7 @@ dev/mt_verbs/classes/strong_a_o.py -text
 dev/mt_verbs/classes/strong_a_o_overloaded.py -text
 dev/mt_verbs/classes/strong_double_mid_radical.py -text
 dev/mt_verbs/classes/strong_double_mid_radical_initial_cluster.py -text
+dev/mt_verbs/classes/vaux_kellu.py -text
 dev/mt_verbs/classes/vaux_kien.py -text
 dev/mt_verbs/stems.csv -text
 dev/mt_verbs/verbs.py -text

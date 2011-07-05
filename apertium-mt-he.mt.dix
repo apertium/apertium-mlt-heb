@@ -3244,6 +3244,7 @@
     <e lm="forsi" c="maybe"><i>forsi</i><par n="immedjatament__adv"/></e>
     <e lm="diġà" c="already"><i>diġà</i><par n="immedjatament__adv"/></e>
     <e lm="dalwaqt" c="soon"><i>dalwaqt</i><par n="immedjatament__adv"/></e>
+    <e lm="aktarx" c="probably"><i>aktarx</i><par n="immedjatament__adv"/></e>
 
     <e lm="isfel"><i>isfel</i><par n="immedjatament__adv"/></e>
     <e lm="taħt"><i>taħt</i><par n="immedjatament__adv"/></e>
@@ -7441,6 +7442,23 @@
     <e><p><l>tiġi</l>	<r>ġie<s n="vblex"/><s n="pres"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>jiġi</l>	<r>ġie<s n="vblex"/><s n="pres"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>jiġu</l>	<r>ġie<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
+
+    <e><p><l>jaf</l>	<r>jaf<s n="vblex"/><s n="inf"/></r></p></e>
+    <e><p><l>jafx</l>	<r>jaf<s n="vblex"/><s n="inf"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>nafu</l>	<r>jaf<s n="vblex"/><s n="pres"/><s n="p1"/><s n="pl"/></r></p></e>
+    <e><p><l>nafux</l>	<r>jaf<s n="vblex"/><s n="pres"/><s n="p1"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>naf</l>	<r>jaf<s n="vblex"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
+    <e><p><l>nafx</l>	<r>jaf<s n="vblex"/><s n="pres"/><s n="p1"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>tafu</l>	<r>jaf<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/></r></p></e>
+    <e><p><l>tafux</l>	<r>jaf<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>taf</l>	<r>jaf<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
+    <e><p><l>tafx</l>	<r>jaf<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>taf</l>	<r>jaf<s n="vblex"/><s n="pres"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>tafx</l>	<r>jaf<s n="vblex"/><s n="pres"/><s n="p3"/><s n="f"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>jaf</l>	<r>jaf<s n="vblex"/><s n="pres"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>jafx</l>	<r>jaf<s n="vblex"/><s n="pres"/><s n="p3"/><s n="m"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>jafu</l>	<r>jaf<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
+    <e><p><l>jafux</l>	<r>jaf<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
 
 
 
