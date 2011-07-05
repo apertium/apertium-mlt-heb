@@ -7338,6 +7338,8 @@
     <e><p><l>kienx</l>	<r>kien<s n="vaux"/><s n="inf"/><j/>x<s n="neg"/></r></p></e>
     <e><p><l>nkunu</l>	<r>kien<s n="vaux"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
     <e><p><l>nkunux</l>	<r>kien<s n="vaux"/><s n="past"/><s n="p1"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>inkun</l>	<r>kien<s n="vaux"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+    <e><p><l>inkunx</l>	<r>kien<s n="vaux"/><s n="past"/><s n="p1"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
     <e><p><l>jnkun</l>	<r>kien<s n="vaux"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
     <e><p><l>jnkunx</l>	<r>kien<s n="vaux"/><s n="past"/><s n="p1"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
     <e><p><l>tkunu</l>	<r>kien<s n="vaux"/><s n="past"/><s n="p2"/><s n="pl"/></r></p></e>
@@ -7346,6 +7348,10 @@
     <e><p><l>tkunx</l>	<r>kien<s n="vaux"/><s n="past"/><s n="p2"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
     <e><p><l>tkun</l>	<r>kien<s n="vaux"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>tkunx</l>	<r>kien<s n="vaux"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>ikun</l>	<r>kien<s n="vaux"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>ikunx</l>	<r>kien<s n="vaux"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>ikunu</l>	<r>kien<s n="vaux"/><s n="past"/><s n="p3"/><s n="pl"/></r></p></e>
+    <e><p><l>ikunux</l>	<r>kien<s n="vaux"/><s n="past"/><s n="p3"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
     <e><p><l>jkun</l>	<r>kien<s n="vaux"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>jkunx</l>	<r>kien<s n="vaux"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
     <e><p><l>jkunu</l>	<r>kien<s n="vaux"/><s n="past"/><s n="p3"/><s n="pl"/></r></p></e>
@@ -7364,6 +7370,37 @@
     <e><p><l>kienx</l>	<r>kien<s n="vaux"/><s n="pres"/><s n="p3"/><s n="m"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
     <e><p><l>kienu</l>	<r>kien<s n="vaux"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
     <e><p><l>kienux</l>	<r>kien<s n="vaux"/><s n="pres"/><s n="p3"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+
+    <e><p><l>kellu</l>	<r>kellu<s n="vaux"/><s n="inf"/></r></p></e>
+    <e><p><l>kellux</l>	<r>kellu<s n="vaux"/><s n="inf"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>ikollna</l>	<r>kellu<s n="vaux"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+    <e><p><l>ikollnax</l>	<r>kellu<s n="vaux"/><s n="past"/><s n="p1"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>ikolli</l>	<r>kellu<s n="vaux"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+    <e><p><l>ikollix</l>	<r>kellu<s n="vaux"/><s n="past"/><s n="p1"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>ikollkom</l>	<r>kellu<s n="vaux"/><s n="past"/><s n="p2"/><s n="pl"/></r></p></e>
+    <e><p><l>ikollkomx</l>	<r>kellu<s n="vaux"/><s n="past"/><s n="p2"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>ikollok</l>	<r>kellu<s n="vaux"/><s n="past"/><s n="p2"/><s n="sg"/></r></p></e>
+    <e><p><l>ikollokx</l>	<r>kellu<s n="vaux"/><s n="past"/><s n="p2"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>ikollha</l>	<r>kellu<s n="vaux"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>ikollhax</l>	<r>kellu<s n="vaux"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>ikollu</l>	<r>kellu<s n="vaux"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>ikollux</l>	<r>kellu<s n="vaux"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>ikollhom</l>	<r>kellu<s n="vaux"/><s n="past"/><s n="p3"/><s n="pl"/></r></p></e>
+    <e><p><l>ikollhomx</l>	<r>kellu<s n="vaux"/><s n="past"/><s n="p3"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>kellna</l>	<r>kellu<s n="vaux"/><s n="pres"/><s n="p1"/><s n="pl"/></r></p></e>
+    <e><p><l>kellnax</l>	<r>kellu<s n="vaux"/><s n="pres"/><s n="p1"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>kelli</l>	<r>kellu<s n="vaux"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
+    <e><p><l>kellix</l>	<r>kellu<s n="vaux"/><s n="pres"/><s n="p1"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>kellkom</l>	<r>kellu<s n="vaux"/><s n="pres"/><s n="p2"/><s n="pl"/></r></p></e>
+    <e><p><l>kellkomx</l>	<r>kellu<s n="vaux"/><s n="pres"/><s n="p2"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>kellek</l>	<r>kellu<s n="vaux"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
+    <e><p><l>kellekx</l>	<r>kellu<s n="vaux"/><s n="pres"/><s n="p2"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>kellha</l>	<r>kellu<s n="vaux"/><s n="pres"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>kellhax</l>	<r>kellu<s n="vaux"/><s n="pres"/><s n="p3"/><s n="f"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>kellu</l>	<r>kellu<s n="vaux"/><s n="pres"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>kellux</l>	<r>kellu<s n="vaux"/><s n="pres"/><s n="p3"/><s n="m"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>kellhom</l>	<r>kellu<s n="vaux"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
+    <e><p><l>kellhomx</l>	<r>kellu<s n="vaux"/><s n="pres"/><s n="p3"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
 
   </section>
 
