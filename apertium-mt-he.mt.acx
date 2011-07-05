@@ -21,6 +21,12 @@
     <equiv-char value="H"/>
   </char>
 
+  <char value="ù">
+    <equiv-char value="u"/>
+  </char>
+  <char value="à">
+    <equiv-char value="a"/>
+  </char>
   <char value="ċ">
     <equiv-char value="c"/>
   </char>
