@@ -58,7 +58,7 @@ def main(stem, root, vowels):
 	sp['past.p2.sg'] = 'ridt'
 	sp['past.p3.m.sg'] = 'ried'
 	sp['past.p3.f.sg'] = 'riedet'
-	#sp['past.p1.pl'] = 
+	sp['past.p1.pl'] = 'riedna'
 	sp['past.p2.pl'] = 'ridtu'
 	sp['past.p3.pl'] = 'riedu'
 
