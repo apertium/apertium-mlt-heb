@@ -1532,7 +1532,6 @@
     <e lm="futbol"><i>futbol</i><par n="tniġġis__n"/></e> <!-- no pl?-->
     <e lm="mużika"><i>mużika</i><par n="tniġġis__n"/></e> <!-- no pl?-->
     <e lm="istorja"><i>istorja</i><par n="tniġġis__n"/></e> <!-- no pl?-->
-    <e lm="bniedem"><i>bniedem</i><par n="tniġġis__n"/></e> <!-- no pl -->
 
     <e lm="proposta"><i>propost</i><par n="propost/a__n_f"/></e>
     <e lm="ittra"><i>ittr</i><par n="propost/a__n_f"/></e>
@@ -2596,6 +2595,7 @@
 
 
     <e lm="Foucault"><i>Foucault</i><par n="Cervantes__np"/></e>
+    <e lm="Bonnici"><i>Bonnici</i><par n="Cervantes__np"/></e>
     <e lm="Zammit"><i>Zammit</i><par n="Cervantes__np"/></e>
     <e lm="Ellis"><i>Ellis</i><par n="Cervantes__np"/></e>
     <e lm="Beethoven"><i>Beethoven</i><par n="Cervantes__np"/></e>
