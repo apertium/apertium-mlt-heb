@@ -3893,7 +3893,7 @@
   </section>
 
   <section id="verbs" type="standard">
-    <!-- Generated on: 2011-07-06 19:07 IDT -->
+    <!-- Generated on: 2011-07-06 19:52 IDT -->
     <e><p><l>kitba</l>	<r>kiteb<s n="vblex"/><s n="ger"/></r></p></e>
     <e><p><l>kitbax</l>	<r>kiteb<s n="vblex"/><s n="ger"/><j/>x<s n="neg"/></r></p></e>
     <e><p><l>iktbu</l>	<r>kiteb<s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
@@ -8312,6 +8312,209 @@
     <e><p><l>jidhruhx</l>	<r>deher<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
     <e><p><l>jidhruhom</l>	<r>deher<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/></r></p></e>
     <e><p><l>jidhruhomx</l>	<r>deher<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+
+    <e><p><l>telqa</l>	<r>telaq<s n="vblex"/><s n="ger"/></r></p></e>
+    <e><p><l>telqax</l>	<r>telaq<s n="vblex"/><s n="ger"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>itlqu</l>	<r>telaq<s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
+    <e><p><l>itlqux</l>	<r>telaq<s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>itlaq</l>	<r>telaq<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
+    <e><p><l>itlaqx</l>	<r>telaq<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>telaq</l>	<r>telaq<s n="vblex"/><s n="inf"/></r></p></e>
+    <e><p><l>telaqx</l>	<r>telaq<s n="vblex"/><s n="inf"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>tlaqna</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+    <e><p><l>tlaqnax</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>tlaqniekom</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="pl"/></r></p></e>
+    <e><p><l>tlaqniekomx</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>tlaqniek</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="sg"/></r></p></e>
+    <e><p><l>tlaqniekx</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>tlaqnieha</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>tlaqniehax</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>tlaqnieh</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>tlaqniehx</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>tlaqniehom</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/></r></p></e>
+    <e><p><l>tlaqniehomx</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>tlaqt</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+    <e><p><l>tlaqtx</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>tlaqtkom</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="pl"/></r></p></e>
+    <e><p><l>tlaqtkomx</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>tlaqtek</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="sg"/></r></p></e>
+    <e><p><l>tlaqtekx</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>tlaqtha</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>tlaqthax</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>tlaqtu</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>tlaqtux</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>tlaqthom</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/></r></p></e>
+    <e><p><l>tlaqthomx</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>tlaqtu</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p2"/><s n="pl"/></r></p></e>
+    <e><p><l>tlaqtux</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p2"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>tlaqtuna</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p2"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="pl"/></r></p></e>
+    <e><p><l>tlaqtunax</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p2"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>tlaqtuni</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p2"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="sg"/></r></p></e>
+    <e><p><l>tlaqtunix</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p2"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>tlaqtuha</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p2"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>tlaqtuhax</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p2"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>tlaqtuh</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p2"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>tlaqtuhx</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p2"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>tlaqtuhom</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p2"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/></r></p></e>
+    <e><p><l>tlaqtuhomx</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p2"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>tlaqt</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p2"/><s n="sg"/></r></p></e>
+    <e><p><l>tlaqtx</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p2"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>tlaqtna</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p2"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="pl"/></r></p></e>
+    <e><p><l>tlaqtnax</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p2"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>tlaqtni</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p2"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="sg"/></r></p></e>
+    <e><p><l>tlaqtnix</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p2"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>tlaqtha</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p2"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>tlaqthax</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p2"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>tlaqtu</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p2"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>tlaqtux</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p2"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>tlaqthom</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p2"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/></r></p></e>
+    <e><p><l>tlaqthomx</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p2"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>talqet</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>talqetx</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>talqitna</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="pl"/></r></p></e>
+    <e><p><l>talqitnax</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>talqitni</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="sg"/></r></p></e>
+    <e><p><l>talqitnix</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>talqitkom</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="pl"/></r></p></e>
+    <e><p><l>talqitkomx</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>talqitek</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="sg"/></r></p></e>
+    <e><p><l>talqitekx</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>talqitha</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>talqithax</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>talqitu</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>talqitux</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>talqithom</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/></r></p></e>
+    <e><p><l>talqithomx</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>telaq</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>telaqx</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>teliqna</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="pl"/></r></p></e>
+    <e><p><l>teliqnax</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>teliqni</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="sg"/></r></p></e>
+    <e><p><l>teliqnix</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>teliqkom</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="pl"/></r></p></e>
+    <e><p><l>teliqkomx</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>telqek</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="sg"/></r></p></e>
+    <e><p><l>telqekx</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>teliqha</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>teliqhax</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>telqu</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>telqux</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>teliqhom</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/></r></p></e>
+    <e><p><l>teliqhomx</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>telqu</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/></r></p></e>
+    <e><p><l>telqux</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>telquna</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="pl"/></r></p></e>
+    <e><p><l>telqunax</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>telquni</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="sg"/></r></p></e>
+    <e><p><l>telqunix</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>telqukom</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="pl"/></r></p></e>
+    <e><p><l>telqukomx</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>telquk</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="sg"/></r></p></e>
+    <e><p><l>telqukx</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>telquha</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>telquhax</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>telquh</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>telquhx</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>telquhom</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/></r></p></e>
+    <e><p><l>telquhomx</l>	<r>telaq<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>metluq</l>	<r>telaq<s n="vblex"/><s n="pp"/><s n="sg"/></r></p></e>
+    <e><p><l>metluqx</l>	<r>telaq<s n="vblex"/><s n="pp"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>nitlqu</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p1"/><s n="pl"/></r></p></e>
+    <e><p><l>nitlqux</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p1"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>nitlqukom</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p1"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="pl"/></r></p></e>
+    <e><p><l>nitlqukomx</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p1"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>nitlquk</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p1"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="sg"/></r></p></e>
+    <e><p><l>nitlqukx</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p1"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>nitlquha</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p1"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>nitlquhax</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p1"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>nitlquh</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p1"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>nitlquhx</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p1"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>nitlquhom</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p1"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/></r></p></e>
+    <e><p><l>nitlquhomx</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p1"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>nitlaq</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
+    <e><p><l>nitlaqx</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p1"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>nitliqkom</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p1"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="pl"/></r></p></e>
+    <e><p><l>nitliqkomx</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p1"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>nitlqek</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p1"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="sg"/></r></p></e>
+    <e><p><l>nitlqekx</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p1"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>nitliqha</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p1"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>nitliqhax</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p1"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>nitlqu</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p1"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>nitlqux</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p1"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>nitliqhom</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p1"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/></r></p></e>
+    <e><p><l>nitliqhomx</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p1"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>titlqu</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/></r></p></e>
+    <e><p><l>titlqux</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>titlquna</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="pl"/></r></p></e>
+    <e><p><l>titlqunax</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>titlquni</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="sg"/></r></p></e>
+    <e><p><l>titlqunix</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>titlquha</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>titlquhax</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>titlquh</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>titlquhx</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>titlquhom</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/></r></p></e>
+    <e><p><l>titlquhomx</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>titlaq</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
+    <e><p><l>titlaqx</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>titliqna</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="pl"/></r></p></e>
+    <e><p><l>titliqnax</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>titliqni</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="sg"/></r></p></e>
+    <e><p><l>titliqnix</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>titliqha</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>titliqhax</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>titlqu</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>titlqux</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>titliqhom</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/></r></p></e>
+    <e><p><l>titliqhomx</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>titlaq</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>titlaqx</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p3"/><s n="f"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>titliqna</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="pl"/></r></p></e>
+    <e><p><l>titliqnax</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>titliqni</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="sg"/></r></p></e>
+    <e><p><l>titliqnix</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>titliqkom</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="pl"/></r></p></e>
+    <e><p><l>titliqkomx</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>titlqek</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="sg"/></r></p></e>
+    <e><p><l>titlqekx</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>titliqha</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>titliqhax</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>titlqu</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>titlqux</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>titliqhom</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/></r></p></e>
+    <e><p><l>titliqhomx</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>jitlaq</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>jitlaqx</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p3"/><s n="m"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>jitliqna</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="pl"/></r></p></e>
+    <e><p><l>jitliqnax</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>jitliqni</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="sg"/></r></p></e>
+    <e><p><l>jitliqnix</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>jitliqkom</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="pl"/></r></p></e>
+    <e><p><l>jitliqkomx</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>jitlqek</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="sg"/></r></p></e>
+    <e><p><l>jitlqekx</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>jitliqha</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>jitliqhax</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>jitlqu</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>jitlqux</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>jitliqhom</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/></r></p></e>
+    <e><p><l>jitliqhomx</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>jitlqu</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
+    <e><p><l>jitlqux</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>jitlquna</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="pl"/></r></p></e>
+    <e><p><l>jitlqunax</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>jitlquni</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="sg"/></r></p></e>
+    <e><p><l>jitlqunix</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>jitlqukom</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="pl"/></r></p></e>
+    <e><p><l>jitlqukomx</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>jitlquk</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="sg"/></r></p></e>
+    <e><p><l>jitlqukx</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>jitlquha</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>jitlquhax</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>jitlquh</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>jitlquhx</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>jitlquhom</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/></r></p></e>
+    <e><p><l>jitlquhomx</l>	<r>telaq<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
 
     <e><p><l>fitħa</l>	<r>fetaħ<s n="vblex"/><s n="ger"/></r></p></e>
     <e><p><l>fitħax</l>	<r>fetaħ<s n="vblex"/><s n="ger"/><j/>x<s n="neg"/></r></p></e>

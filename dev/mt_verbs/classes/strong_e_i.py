@@ -30,17 +30,17 @@ def add_probjs(feats, form, short_form=None):
 		}
 		
 def past_p1_sg(stem, root, vowels):
-	form = root[0] + root[1] + vowels[0] + root[2] + 't'
+	form = root[0] + root[1] + vowels[1] + root[2] + 't'
 	sp = add_probjs('past.p1.sg', form)
-    # deher; dhirt; past.p1.sg; vblex
+    # deher; dhert; past.p1.sg; vblex
     # TODO unverified
 	sp['past.p1.sg'] = form
 	return sp
 
 def past_p2_sg(stem, root, vowels):
-	form = root[0] + root[1] + vowels[0] + root[2] + 't'
+	form = root[0] + root[1] + vowels[1] + root[2] + 't'
 	sp = add_probjs('past.p2.sg', form)
-    # deher; dhirt; past.p2.sg; vblex
+    # deher; dhert; past.p2.sg; vblex
     # TODO unverified
 	sp['past.p2.sg'] = form
 	return sp
@@ -54,24 +54,24 @@ def past_p3_m_sg(stem, root, vowels):
 	return sp
 	
 def past_p3_f_sg(stem, root, vowels):
-	form = root[0] + vowels[0] + root[1] + root[2]
+	form = root[0] + vowels[1] + root[1] + root[2]
 	sp = add_probjs('past.p3.f.sg', form + 'it')
     # deher; dehret; past.p3.f.sg; vblex
 	sp['past.p3.f.sg'] = form + 'et' # not vowels[1]+'t' ?
 	return sp
 
 def past_p1_pl(stem, root, vowels):
-	form = root[0] + root[1] + vowels[0] + root[2] + 'n'
+	form = root[0] + root[1] + vowels[1] + root[2] + 'n'
 	sp = add_probjs('past.p1.pl', form + 'ie')
-    # deher; dhirna; past.p1.pl; vblex
+    # deher; dherna; past.p1.pl; vblex
     # TODO unverified
 	sp['past.p1.pl'] = form + 'a'
 	return sp
 
 def past_p2_pl(stem, root, vowels):
-	form = root[0] + root[1] + vowels[0] + root[2] + 'tu'
+	form = root[0] + root[1] + vowels[1] + root[2] + 'tu'
 	sp = add_probjs('past.p2.pl', form)
-    # deher; dhirtu; past.p2.pl; vblex
+    # deher; dhertu; past.p2.pl; vblex
     # TODO unverified
 	sp['past.p2.pl'] = form
 	return sp
