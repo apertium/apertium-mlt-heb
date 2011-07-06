@@ -9,6 +9,7 @@ kiseb, strong, obtain, k-s-b, i-e, , unchecked
 tilef, strong, lose, t-l-f, i-e, , unchecked
 gideb, strong, lie, g-d-b, i-e, , unchecked
 nizel, strong, go down, n-z-l, i-e, , unchecked
+kiber, strong, grow, k-b-r, i-e, , unchecked
 
 qasam, strong, divide, q-s-m, a-a, , checked
 ħataf, strong, seize, ħ-t-f, a-a, , checked
@@ -20,18 +21,25 @@ waqaf, strong, stop, w-q-f, a-a, , unchecked
 wasal, strong, arrive, w-s-l, a-a, , unchecked
 dahal, strong, enter, d-h-l, a-a, , unchecked
 qabad, strong, catch, q-b-d, a-a, , unchecked
+habat, strong, collide, h-b-t, a-a, , unchecked
+laqat, strong, hit, l-q-t, a-a, , unchecked
 #qagħad, strong, sit, q-għ-d, a-a, a_o, unchecked
 
 resaq, strong, approach, r-s-q, e-a, , unchecked
+rebah, strong, win, r-b-h, e-a, , unchecked
 
 ħadem, strong, work, ħ-d-m, a-e, , unchecked
 għamel, strong, do, għ-m-l, a-e, , unchecked
 naqas, strong, wane, n-q-s, a-a, , unchecked
 qatel, strong, kill, q-t-l, a-e, , unchecked
+haseb, strong, think, h-s-b, a-e, , unchecked
+qabez, strong, jump, q-b-z, a-e, , unchecked
 
 tkellem, strong, speak, tk-l-l-m, e-i, double_mid_radical_initial_cluster , unchecked
 
 talab, strong, ask, t-l-b, a-a, a_o, checked
+lahaq, strong, reach, l-h-q, a-a, a_o, unchecked
+
 ħanaq, strong, smother, ħ-n-q, a-a, a_o_overloaded, checked
 
 deher, strong, seem, d-h-r, e-e, e_i, unchecked
