@@ -637,6 +637,12 @@
     <e><p><l>riep</l><r>erp<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
   </pardef>
 
+  <pardef n="gwer/ra__n_f">
+    <e><p><l>ra</l><r>ra<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>er</l><r>ra<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+  </pardef>
+
+
   <pardef n="ban/da__n_f">
     <e><p><l>da</l><r>da<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>ed</l><r>da<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
@@ -894,6 +900,12 @@
 
   <pardef n="akbar__adj">
     <e><p><l></l><r><s n="adj"/><s n="comp"/></r></p></e>
+  </pardef>
+
+  <pardef n="Ewrope/w__adj">
+    <e><p><l>w</l><r>w<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>a</l><r>w<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>j</l><r>w<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
   </pardef>
 
   <pardef n="teknoloġi/ku__adj">
@@ -1401,8 +1413,33 @@
 
     <e lm="parti"><i>parti</i><par n="parti__n_m"/></e>
     <e lm="banda"><i>ban</i><par n="ban/da__n_f"/></e>
+    <e lm="gwerra"><i>gwer</i><par n="gwer/ra__n_f"/></e>
     <e lm="vers"><i>v</i><par n="v/ers__n_m"/></e>
     <e lm="serp"><i>s</i><par n="s/erp__n_m"/></e>
+
+
+    <e lm="aggressjoni"><i>aggressjoni</i><par n="unjoni__n_f"/></e>
+    <e lm="aljenazzjoni"><i>aljenazzjoni</i><par n="unjoni__n_f"/></e>
+    <e lm="amministrazzjoni"><i>amministrazzjoni</i><par n="unjoni__n_f"/></e>
+    <e lm="detenzjoni"><i>detenzjoni</i><par n="unjoni__n_f"/></e>
+    <e lm="diskriminazzjoni"><i>diskriminazzjoni</i><par n="unjoni__n_f"/></e>
+    <e lm="distinzjoni"><i>distinzjoni</i><par n="unjoni__n_f"/></e>
+    <e lm="estensjoni"><i>estensjoni</i><par n="unjoni__n_f"/></e>
+    <e lm="estradizzjoni"><i>estradizzjoni</i><par n="unjoni__n_f"/></e>
+    <e lm="immigrazzjoni"><i>immigrazzjoni</i><par n="unjoni__n_f"/></e>
+    <e lm="investigazzjoni"><i>investigazzjoni</i><par n="unjoni__n_f"/></e>
+    <e lm="ispluzjoni"><i>ispluzjoni</i><par n="unjoni__n_f"/></e>
+    <e lm="konnessjoni"><i>konnessjoni</i><par n="unjoni__n_f"/></e>
+    <e lm="korruzzjoni"><i>korruzzjoni</i><par n="unjoni__n_f"/></e>
+    <e lm="kumbinazzjoni"><i>kumbinazzjoni</i><par n="unjoni__n_f"/></e>
+    <e lm="manutenzjoni"><i>manutenzjoni</i><par n="unjoni__n_f"/></e>
+    <e lm="mozzjoni"><i>mozzjoni</i><par n="unjoni__n_f"/></e>
+    <e lm="oppożizzjoni"><i>oppożizzjoni</i><par n="unjoni__n_f"/></e>
+    <e lm="passjoni"><i>passjoni</i><par n="unjoni__n_f"/></e>
+    <e lm="salvazzjoni"><i>salvazzjoni</i><par n="unjoni__n_f"/></e>
+    <e lm="spluzjoni"><i>spluzjoni</i><par n="unjoni__n_f"/></e>
+    <e lm="televiżjoni"><i>televiżjoni</i><par n="unjoni__n_f"/></e>
+
 
     <e lm="espressjoni"><i>espressjoni</i><par n="unjoni__n_f"/></e>
     <e lm="ċivilizzazzjoni"><i>ċivilizzazzjoni</i><par n="unjoni__n_f"/></e>
@@ -2782,6 +2819,8 @@
     <e lm="tajjeb"><i>taj</i><par n="taj/jeb__adj"/></e>
     <e lm="tajjeb"><p><l>aħjar</l><r>tajjeb</r></p><par n="akbar__adj"/></e>
     <e lm="tajjeb" r="LR"><p><l>itjeb</l><r>tajjeb</r></p><par n="akbar__adj"/></e>
+
+    <e lm="Ewropew"><i>Ewrope</i><par n="Ewrope/w__adj"/></e>
 
     <e lm="politiku"><i>politi</i><par n="teknoloġi/ku__adj"/></e>
     <e lm="elettroniku"><i>elettroni</i><par n="teknoloġi/ku__adj"/></e>
@@ -12055,6 +12094,61 @@
     <e><p><l>kellux</l>	<r>kellu<s n="vaux"/><s n="pres"/><s n="p3"/><s n="m"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
     <e><p><l>kellhom</l>	<r>kellu<s n="vaux"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
     <e><p><l>kellhomx</l>	<r>kellu<s n="vaux"/><s n="pres"/><s n="p3"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+
+    <e><p><l>ried</l>	<r>ried<s n="vblex"/><s n="inf"/></r></p></e>
+    <e><p><l>riedx</l>	<r>ried<s n="vblex"/><s n="inf"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>irridu</l>	<r>ried<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+    <e><p><l>irridux</l>	<r>ried<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e r="LR"><p><l>irridu</l>	<r>ried<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+    <e r="LR"><p><l>irridux</l>	<r>ried<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e r="LR"><p><l>rridu</l>	<r>ried<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+    <e r="LR"><p><l>rridux</l>	<r>ried<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e r="RL"><p><l><a/>irridu</l>	<r>ried<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l><a/>irridux</l>	<r>ried<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>irrid</l>	<r>ried<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+    <e><p><l>irridx</l>	<r>ried<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e r="LR"><p><l>irrid</l>	<r>ried<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+    <e r="LR"><p><l>irridx</l>	<r>ried<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e r="LR"><p><l>rrid</l>	<r>ried<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+    <e r="LR"><p><l>rridx</l>	<r>ried<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e r="RL"><p><l><a/>irrid</l>	<r>ried<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l><a/>irridx</l>	<r>ried<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>tridu</l>	<r>ried<s n="vblex"/><s n="past"/><s n="p2"/><s n="pl"/></r></p></e>
+    <e><p><l>tridux</l>	<r>ried<s n="vblex"/><s n="past"/><s n="p2"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>trid</l>	<r>ried<s n="vblex"/><s n="past"/><s n="p2"/><s n="sg"/></r></p></e>
+    <e><p><l>tridx</l>	<r>ried<s n="vblex"/><s n="past"/><s n="p2"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>trid</l>	<r>ried<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>tridx</l>	<r>ried<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>irid</l>	<r>ried<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>iridx</l>	<r>ried<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e r="LR"><p><l>irid</l>	<r>ried<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="LR"><p><l>iridx</l>	<r>ried<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e r="LR"><p><l>jrid</l>	<r>ried<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="LR"><p><l>jridx</l>	<r>ried<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e r="RL"><p><l><a/>irid</l>	<r>ried<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l><a/>iridx</l>	<r>ried<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>iridu</l>	<r>ried<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/></r></p></e>
+    <e><p><l>iridux</l>	<r>ried<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e r="LR"><p><l>iridu</l>	<r>ried<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/></r></p></e>
+    <e r="LR"><p><l>iridux</l>	<r>ried<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e r="LR"><p><l>jridu</l>	<r>ried<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/></r></p></e>
+    <e r="LR"><p><l>jridux</l>	<r>ried<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e r="RL"><p><l><a/>iridu</l>	<r>ried<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l><a/>iridux</l>	<r>ried<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>ridt</l>	<r>ried<s n="vblex"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
+    <e><p><l>ridtx</l>	<r>ried<s n="vblex"/><s n="pres"/><s n="p1"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>ridtu</l>	<r>ried<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/></r></p></e>
+    <e><p><l>ridtux</l>	<r>ried<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>ridt</l>	<r>ried<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
+    <e><p><l>ridtx</l>	<r>ried<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>riedet</l>	<r>ried<s n="vblex"/><s n="pres"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>riedetx</l>	<r>ried<s n="vblex"/><s n="pres"/><s n="p3"/><s n="f"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>ried</l>	<r>ried<s n="vblex"/><s n="pres"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>riedx</l>	<r>ried<s n="vblex"/><s n="pres"/><s n="p3"/><s n="m"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>riedu</l>	<r>ried<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
+    <e><p><l>riedux</l>	<r>ried<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+
+
 
 
   </section>
