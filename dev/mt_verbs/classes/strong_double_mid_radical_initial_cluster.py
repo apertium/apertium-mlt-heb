@@ -111,11 +111,4 @@ def main(stem, root, vowels):
 	sp['pp.f.sg'] = pp_f_sg(stem, root, vowels);
 	sp['pp.pl'] = pp_pl(stem, root, vowels);
 
-	nsp = {}
-	for f in sp: 
-		nsp[f + '.+neg'] = sp[f] + 'x';
-
-	for n in nsp:
-		sp[n] = nsp[n];
-
 	return sp

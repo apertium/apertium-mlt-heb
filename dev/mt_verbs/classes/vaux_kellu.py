@@ -21,12 +21,5 @@ def main(stem, root, vowels):
 	sp['pres.p2.pl'] = 'kellkom'
 	sp['pres.p3.pl'] = 'kellhom'
 
-	nsp = {}
-	for f in sp: 
-		nsp[f + '.+neg'] = sp[f] + 'x';
-
-	for n in nsp:
-		sp[n] = nsp[n];
-
 	return sp
 

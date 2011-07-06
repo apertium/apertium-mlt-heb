@@ -66,12 +66,5 @@ def main(stem, root, vowels):
 	sp['pres.p2.pl'] = 'tafu'
 	sp['pres.p3.pl'] = 'jafu'
 
-	nsp = {}
-	for f in sp: 
-		nsp[f + '.+neg'] = sp[f] + 'x';
-
-	for n in nsp:
-		sp[n] = nsp[n];
-
 	return sp
 

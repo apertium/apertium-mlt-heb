@@ -26,12 +26,5 @@ def main(stem, root, vowels):
 	sp['imp.p2.sg'] = 'sir'
 	sp['imp.p2.sg'] = 'siru'
 
-	nsp = {}
-	for f in sp: 
-		nsp[f + '.+neg'] = sp[f] + 'x';
-
-	for n in nsp:
-		sp[n] = nsp[n];
-
 	return sp
 

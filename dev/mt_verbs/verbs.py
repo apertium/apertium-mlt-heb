@@ -45,23 +45,39 @@ if STEMSFILE:
         sys.stderr.write("Error reading file: {0}\n".format(STEMSFILE))
         sys.exit(1)
 
-def format_entry(FORMAT, stem, form, pos, feat):
+def format_entry(FORMAT, stem, form, pos, feat, restriction = None):
     if FORMAT=="speling":
-        return stem + '; ' + speling[feat] + '; ' + feat + '; ' + pos;
+        res = stem + '; ' + form + '; ' + feat + '; ' + pos
+        if restriction:
+            res+= '; ' + restriction
+
     elif FORMAT=="dix":
         tags = ''.join(['<s n="%s"/>' % tag
                 for tag in [pos] + feat.split('.')])
         tags = tags.replace('<s n="+neg"/>', '<j/>x<s n="neg"/>'); # TODO: what should the negative lemma be?
         tags = tags.replace('<s n="+probj"/>', '<j/>prpers<s n="prn"/><s n="obj"/>')
-        return "    <e><p><l>%s</l>\t<r>%s%s</r></p></e>" % (speling[feat],
-                                     stem,
-                                     tags);
+
+        res = "    <e" + (' r="%s"' % restriction if restriction else '') + ">"
+        res+= "<p><l>" + ("<a/>" if restriction == 'RL' else '')
+        res+= "%s</l>\t<r>%s%s</r></p></e>" % (form, stem, tags)
     else:
-        raise(Exception);
+        raise(Exception)
+
+    return res
+
+def negative_form(feat, form):
+    "Returns negative form for a given one"
+    return (feat + '.+neg', form + 'x')
+
+def print_entry(stem, form, pos, feat, restriction = None):
+    neg = negative_form(feat, form)
+
+    print format_entry(FORMAT, stem, form, pos, feat, restriction)
+    print format_entry(FORMAT, stem, neg[1], pos, neg[0], restriction)
 
 if FORMAT=="dix": 
-    print '  <section id="verbs" type="standard">';
-    print '    <!-- Generated on: ' + time.strftime('%Y-%m-%d %H:%M %Z') + ' -->'; 
+    print '  <section id="verbs" type="standard">'
+    print '    <!-- Generated on: ' + time.strftime('%Y-%m-%d %H:%M %Z') + ' -->'
 
 
 for line in lines:
@@ -85,15 +101,25 @@ for line in lines:
 
     try:
         klass = getattr(classes, classname)
-        speling = klass.main(stem, root, vowels)
-        feats = [f for f in speling.keys() if speling[f]]
-        feats.sort()    # pretty
-        for feat in feats:
-            print format_entry(FORMAT, stem, speling[feat], pos, feat);
-            
     except AttributeError:
-        sys.stderr.write("Error: Missing class '{0}'".format(classname))
-        
+        sys.stderr.write("Error: Missing class '{0}'\n".format(classname))
+        sys.exit(1)
+
+    speling = klass.main(stem, root, vowels)
+    feats = [f for f in speling.keys() if speling[f]]
+
+    feats.sort()    # pretty
+    for feat in feats:
+        if isinstance(speling[feat], list):
+            for ff in speling[feat]:
+                restriction = None
+                if isinstance(ff, tuple):
+                    restriction = ff[1]
+                    ff = ff[0]
+                print_entry(stem, ff, pos, feat, restriction)
+        else:
+            print_entry(stem, speling[feat], pos, feat)
+
     print '' # newline between words
 
 

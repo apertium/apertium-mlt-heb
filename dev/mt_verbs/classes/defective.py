@@ -96,14 +96,5 @@ def main(stem, root, vowels):
 	sp['imp.p2.pl'] = imp_p2_pl(stem, root, vowels)
 	sp['pp.sg'] = pp_sg(stem, root, vowels)
 	sp['ger'] = ger(stem, root, vowels)
-
-	nsp = {}
-	for f in sp: 
-		nsp[f + '.+neg'] = sp[f] + 'x';
-
-	for n in nsp:
-		sp[n] = nsp[n];
-
-
 	
 	return sp
