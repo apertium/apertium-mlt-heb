@@ -1427,6 +1427,7 @@
 
     <e lm="parti"><i>parti</i><par n="parti__n_m"/></e>
     <e lm="isqof" c="bishop"><i>isq</i><par n="isq/of__n_m"/></e>
+    <e lm="arċisqof" c="archbishop"><i>arċisq</i><par n="isq/of__n_m"/></e>
     <e lm="banda"><i>ban</i><par n="ban/da__n_f"/></e>
     <e lm="gwerra" c="war"><i>gwer</i><par n="gwer/ra__n_f"/></e>
     <e lm="qorti" c="court"><i>q</i><par n="q/orti__n_f"/></e>
@@ -2335,6 +2336,7 @@
     <e lm="Tas-Sliema"><i>Tas-Sliema</i><par n="Malta__np"/></e>
     <e lm="Sliema"><i>Sliema</i><par n="Malta__np"/></e>
 
+    <e lm="Cape Town"><i>Cape<b/>Town</i><par n="Tibet__np"/></e>
     <e lm="Ġerusalemm"><i>Ġerusalemm</i><par n="Tibet__np"/></e>
     <e lm="Bejġing"><i>Bejġing</i><par n="Tibet__np"/></e>
     <e lm="San Pietruburgu"><i>San<b/>Pietruburgu</i><par n="Tibet__np"/></e>
