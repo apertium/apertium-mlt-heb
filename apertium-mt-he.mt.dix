@@ -836,6 +836,17 @@
     <e><p><l>wiemel</l><r>iemel<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
   </pardef>
 
+  <pardef n="s/ultan__n">
+    <e><p><l>ultan</l><r>ultan<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>ultana</l><r>ultan<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>laten</l><r>ultan<s n="n"/><s n="mf"/><s n="pl"/></r></p></e> <!-- mf? -->
+  </pardef>
+
+  <pardef n="sid__n_m">
+    <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>ien</l><r><s n="n"/><s n="mf"/><s n="pl"/></r></p></e>
+  </pardef>
+
   <pardef n="Ċek__n_GD">
     <e><p><l></l><r><s n="n"/><s n="GD"/><s n="ND"/></r></p></e>
   </pardef>
@@ -1521,6 +1532,7 @@
     <e lm="futbol"><i>futbol</i><par n="tniġġis__n"/></e> <!-- no pl?-->
     <e lm="mużika"><i>mużika</i><par n="tniġġis__n"/></e> <!-- no pl?-->
     <e lm="istorja"><i>istorja</i><par n="tniġġis__n"/></e> <!-- no pl?-->
+    <e lm="bniedem"><i>bniedem</i><par n="tniġġis__n"/></e> <!-- no pl -->
 
     <e lm="proposta"><i>propost</i><par n="propost/a__n_f"/></e>
     <e lm="ittra"><i>ittr</i><par n="propost/a__n_f"/></e>
@@ -1796,6 +1808,9 @@
 
     <e lm="missier"><i>missier</i><par n="missier__n_m"/></e>
     <e lm="intervista"><i>intervist</i><par n="propost/a__n_f"/></e>
+
+    <e lm="sultan"><i>s</i><par n="s/ultan__n"/></e>
+    <e lm="sid"><i>sid</i><par n="sid__n_m"/></e>
 
     <!-- autodiscovered with process-nouns-with-paradigms.py -->
     <e lm="ammont"><i>ammont</i><par n="moviment__n_m"/></e>
