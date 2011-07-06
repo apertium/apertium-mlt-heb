@@ -553,6 +553,11 @@
     <e><p><l></l><r><s n="n"/><s n="mf"/><s n="pl"/></r></p><par n="S__dar"/></e>
   </pardef>
 
+  <pardef n="d/awl__n_m">
+    <e><p><l>awl</l><r>awl<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>wal</l><r>awl<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+  </pardef>
+
   <!-- ****************** Completed paradigms above this line ****************** -->
 
   <pardef n="gram/afown__n">
@@ -1207,6 +1212,8 @@
     <e lm="milli" c="than"><i>milli</i><par n="kontra__pr"/></e>
     <e lm="qrib" c="near"><i>qrib</i><par n="kontra__pr"/></e>
     <e lm="skond" c="by"><i>skond</i><par n="kontra__pr"/></e>
+    <e lm="permezz" c="through"><i>permezz</i><par n="kontra__pr"/></e>
+    <e lm="fil" c="in"><i>fil</i><par n="kontra__pr"/></e>
 
     <e lm="minħabba" c="because of"><i>minħabba</i><par n="kontra__pr"/></e> <!--CHECK: ?? -->
 
@@ -1493,6 +1500,9 @@
 
     <e lm="nies"><i>nies</i><par n="nies__n_mf"/></e>
     <e lm="flus" c="money"><i>flus</i><par n="nies__n_mf"/></e>
+    <e lm="mewt" c="death"><i>mewt</i><par n="nies__n_mf"/></e>
+
+    <e lm="dawl"><i>d</i><par n="d/awl__n_m"/></e>
 
     <e lm="trattament"><i>trattament</i><par n="moviment__n_m"/></e>
     <e lm="parlament"><i>parlament</i><par n="moviment__n_m"/></e>
@@ -3270,6 +3280,7 @@
     <e lm="dalwaqt" c="soon"><i>dalwaqt</i><par n="immedjatament__adv"/></e>
     <e lm="aktarx" c="probably"><i>aktarx</i><par n="immedjatament__adv"/></e>
     <e lm="xorta" c="still, same"><i>xorta</i><par n="immedjatament__adv"/></e>
+    <e lm="sew" c="well"><i>sew</i><par n="immedjatament__adv"/></e>
 
     <e lm="'l isfel" c="downwards"><i>'l<b/>isfel</i><par n="immedjatament__adv"/></e>
     <e lm="il fuq" c="upwards"><i>il<b/>fuq</i><par n="immedjatament__adv"/></e>
