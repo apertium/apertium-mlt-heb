@@ -932,6 +932,7 @@
   <pardef n="Ewrope/w__adj">
     <e><p><l>w</l><r>w<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>a</l><r>w<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+    <e r="LR"><p><l>ja</l><r>w<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>j</l><r>w<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
   </pardef>
 
