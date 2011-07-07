@@ -39,6 +39,9 @@ dev/mt_adj/adj_suspected-ku-ka-ci.verified.txt -text
 dev/mt_adj/adj_suspected.txt -text
 dev/mt_adj/adj_suspected.verified.txt -text
 dev/mt_brokenplurals/appendix1.csv -text
+dev/mt_brokenplurals/appendix1.dix -text
+dev/mt_brokenplurals/appendix1.fat.dix -text
+dev/mt_brokenplurals/appendix1.speling -text
 dev/mt_brokenplurals/nouns.py -text
 dev/mt_he_verbs/bidix.py -text
 dev/mt_he_verbs/generate.sh -text

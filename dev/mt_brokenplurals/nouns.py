@@ -34,6 +34,6 @@ for line in lines:
     if not part:
         continue
 
-    print '<e lm="{0}" c="{2}"><p><l>{0}</l><r>{0}<s n="sg"/></r></p><par n="broken__{3}"/></e>'.format(singular, plural, gloss, part)
-    print '<e lm="{0}" c="{2} (pl)"><p><l>{1}</l><r>{0}<s n="pl"/></r></p><par n="broken__{3}"/></e>'.format(singular, plural, gloss, part)
+    print '{0}; {0}; sg; {3}.GD\n{0}; {1}; pl; {3}.GD'.format(singular, plural, gloss, part)
+
 
