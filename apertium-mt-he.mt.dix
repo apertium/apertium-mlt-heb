@@ -349,6 +349,7 @@
     <pardef n="w/ieħed__num">
       <e><p><l>ieħed</l><r>ieħed<s n="num"/><s n="m"/><s n="sg"/></r></p></e>
       <e><p><l>aħda</l><r>ieħed<s n="num"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>uħud</l><r>wieħed<s n="num"/><s n="mf"/><s n="pl"/></r></p></e>
     </pardef>
     <pardef n="tnejn__num">
       <e><p><l/><r><s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
@@ -408,6 +409,10 @@
   </pardef>
   <pardef n="XVI__num">
     <e><p><l/><r><s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+  </pardef>
+  <pardef n="el/f__num">
+    <e><p><l>f</l><r>f<s n="num"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e><p><l>uf</l><r>f<s n="num"/><s n="mf"/><s n="pl"/></r></p></e>
   </pardef>
 
   <pardef n="tieni__num"> <!-- 2nd -->
@@ -788,11 +793,6 @@
     <e><p><l>t</l><r><s n="n"/><s n="f"/><s n="pl"/></r></p></e>
   </pardef>
 
-  <pardef n="fl/ixkun__n_GD">
-    <e><p><l>ixkun</l><r>ixkun<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
-    <e><p><l>iexken</l><r>ixkun<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
-  </pardef>
-
   <pardef n="q/attus__n_m">
     <e><p><l>attus</l><r>attus<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>tates</l><r>attus<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
@@ -959,10 +959,6 @@
     <e><p><l>ieħeb</l><r>ieħeb<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
     <e><p><l>ħab</l><r>ieħeb<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
   </pardef>
-  <pardef n="s/ena__n_GD">
-    <e><p><l>ena</l><r>ena<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
-    <e><p><l>nin</l><r>ena<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
-  </pardef>
   <pardef n="m/ansab__n_GD">
     <e><p><l>ansab</l><r>ansab<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
     <e><p><l>nasab</l><r>ansab<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
@@ -1011,10 +1007,6 @@
   <pardef n="m/usmar__n_GD">
     <e><p><l>usmar</l><r>usmar<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
     <e><p><l>siemer</l><r>usmar<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
-  </pardef>
-  <pardef n="d/awl__n_GD">
-    <e><p><l>awl</l><r>awl<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
-    <e><p><l>wal</l><r>awl<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
   </pardef>
   <pardef n="bor/ma__n_GD">
     <e><p><l>ma</l><r>ma<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
@@ -1103,10 +1095,6 @@
     <e><p><l>axix</l><r>axix<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
     <e><p><l>xejjex</l><r>axix<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
   </pardef>
-  <pardef n="k/tieb__n_GD">
-    <e><p><l>tieb</l><r>tieb<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
-    <e><p><l>otba</l><r>tieb<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
-  </pardef>
   <pardef n="m/aqrut__n_GD">
     <e><p><l>aqrut</l><r>aqrut<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
     <e><p><l>qaret</l><r>aqrut<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
@@ -1115,9 +1103,9 @@
     <e><p><l>elb</l><r>elb<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
     <e><p><l>lieb</l><r>elb<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
   </pardef>
-  <pardef n="ft/ira__n_GD">
-    <e><p><l>ira</l><r>ira<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
-    <e><p><l>ajjar</l><r>ira<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
+  <pardef n="ft/ira__n_f">
+    <e><p><l>ira</l><r>ira<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>ajjar</l><r>ira<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
   </pardef>
   <pardef n="d/arsa__n_GD">
     <e><p><l>arsa</l><r>arsa<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
@@ -1243,10 +1231,6 @@
   <pardef n="n/iżla__n_GD">
     <e><p><l>iżla</l><r>iżla<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
     <e><p><l>żul</l><r>iżla<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
-  </pardef>
-  <pardef n="għar/bi__n_GD">
-    <e><p><l>bi</l><r>bi<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
-    <e><p><l>ab</l><r>bi<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
   </pardef>
   <pardef n="/iżraq__n_GD">
     <e><p><l>iżraq</l><r>iżraq<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
@@ -1620,10 +1604,6 @@
     <e><p><l>natan</l><r>antun<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
     <e><p><l>naten</l><r>antun<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
   </pardef>
-  <pardef n="x/iħ__n_GD">
-    <e><p><l>iħ</l><r>iħ<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
-    <e><p><l>juħ</l><r>iħ<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
-  </pardef>
   <pardef n="q/aws__n_GD">
     <e><p><l>aws</l><r>aws<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
     <e><p><l>wies</l><r>aws<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
@@ -1632,10 +1612,6 @@
     <e><p><l>eċpuċa</l><r>eċpuċa<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
     <e><p><l>ċapaċ</l><r>eċpuċa<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
     <e><p><l>ċiepeċ</l><r>eċpuċa<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
-  </pardef>
-  <pardef n="t/abib__n_GD">
-    <e><p><l>abib</l><r>abib<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
-    <e><p><l>obba</l><r>abib<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
   </pardef>
   <pardef n="m/isluta__n_GD">
     <e><p><l>isluta</l><r>isluta<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
@@ -1782,10 +1758,6 @@
     <e><p><l>ellus</l><r>ellus<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
     <e><p><l>lieles</l><r>ellus<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
   </pardef>
-  <pardef n="gż/ira__n_GD">
-    <e><p><l>ira</l><r>ira<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
-    <e><p><l>ejjer</l><r>ira<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
-  </pardef>
   <pardef n="b/eritta__n_GD">
     <e><p><l>eritta</l><r>eritta<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
     <e><p><l>rieret</l><r>eritta<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
@@ -1840,17 +1812,9 @@
     <e><p><l>itħa</l><r>itħa<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
     <e><p><l>tieħi</l><r>itħa<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
   </pardef>
-  <pardef n="q/attus__n_GD">
-    <e><p><l>attus</l><r>attus<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
-    <e><p><l>tates</l><r>attus<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
-  </pardef>
   <pardef n="ċ/avetta__n_GD">
     <e><p><l>avetta</l><r>avetta<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
     <e><p><l>wievet</l><r>avetta<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
-  </pardef>
-  <pardef n="s/erp__n_GD">
-    <e><p><l>erp</l><r>erp<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
-    <e><p><l>riep</l><r>erp<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
   </pardef>
   <pardef n="m/untun__n_GD">
     <e><p><l>untun</l><r>untun<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
@@ -2000,13 +1964,9 @@
     <e><p><l>okk</l><r>okk<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
     <e><p><l>kuk</l><r>okk<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
   </pardef>
-  <pardef n="st/orja__n_GD">
-    <e><p><l>orja</l><r>orja<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
-    <e><p><l>ejjer</l><r>orja<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
-  </pardef>
-  <pardef n="t/riq__n_GD">
-    <e><p><l>riq</l><r>riq<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
-    <e><p><l>oroq</l><r>riq<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
+  <pardef n="st/orja__n_f">
+    <e><p><l>orja</l><r>orja<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>ejjer</l><r>orja<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
   </pardef>
   <pardef n="x/abla__n_GD">
     <e><p><l>abla</l><r>abla<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
@@ -2116,10 +2076,6 @@
     <e><p><l>abel</l><r>abel<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
     <e><p><l>bula</l><r>abel<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
   </pardef>
-  <pardef n="k/elma__n_GD">
-    <e><p><l>elma</l><r>elma<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
-    <e><p><l>liem</l><r>elma<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
-  </pardef>
   <pardef n="ħ/anżir__n_GD">
     <e><p><l>anżir</l><r>anżir<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
     <e><p><l>nieżer</l><r>anżir<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
@@ -2135,10 +2091,6 @@
   <pardef n="g/endus__n_GD">
     <e><p><l>endus</l><r>endus<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
     <e><p><l>niedes</l><r>endus<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
-  </pardef>
-  <pardef n="t/arbija__n_GD">
-    <e><p><l>arbija</l><r>arbija<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
-    <e><p><l>rabi</l><r>arbija<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
   </pardef>
   <pardef n="ħ/afif__n_GD">
     <e><p><l>afif</l><r>afif<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
@@ -2169,10 +2121,6 @@
     <e><p><l>orn</l><r>orn<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
     <e><p><l>ran</l><r>orn<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
   </pardef>
-  <pardef n="għ/axra__n_GD">
-    <e><p><l>axra</l><r>axra<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
-    <e><p><l>exieren</l><r>axra<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
-  </pardef>
   <pardef n="s/uffara__n_GD">
     <e><p><l>uffara</l><r>uffara<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
     <e><p><l>fafar</l><r>uffara<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
@@ -2181,18 +2129,10 @@
     <e><p><l>ukkell</l><r>ukkell<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
     <e><p><l>kiekel</l><r>ukkell<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
   </pardef>
-  <pardef n="ls/ien__n_GD">
-    <e><p><l>ien</l><r>ien<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
-    <e><p><l>ina</l><r>ien<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
-  </pardef>
   <pardef n="sk/arpan__n_GD">
     <e><p><l>arpan</l><r>arpan<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
     <e><p><l>rapan</l><r>arpan<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
     <e><p><l>rapen</l><r>arpan<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
-  </pardef>
-  <pardef n="d/ar__n_GD">
-    <e><p><l>ar</l><r>ar<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
-    <e><p><l>jar</l><r>ar<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
   </pardef>
   <pardef n="s/idrija__n_GD">
     <e><p><l>idrija</l><r>idrija<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
@@ -2206,25 +2146,9 @@
     <e><p><l>ġa</l><r>ġa<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
     <e><p><l>ag</l><r>ġa<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
   </pardef>
-  <pardef n="/wieħed__n_GD">
-    <e><p><l>wieħed</l><r>wieħed<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
-    <e><p><l>uħud</l><r>wieħed<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
-  </pardef>
-  <pardef n="l/eħen__n_GD">
-    <e><p><l>eħen</l><r>eħen<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
-    <e><p><l>iħna</l><r>eħen<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
-  </pardef>
   <pardef n="ċ/int__n_GD">
     <e><p><l>int</l><r>int<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
     <e><p><l>nut</l><r>int<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
-  </pardef>
-  <pardef n="t/ifel__n_GD">
-    <e><p><l>ifel</l><r>ifel<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
-    <e><p><l>fal</l><r>ifel<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
-  </pardef>
-  <pardef n="q/alb__n_GD">
-    <e><p><l>alb</l><r>alb<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
-    <e><p><l>lub</l><r>alb<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
   </pardef>
   <pardef n="t/aġen__n_GD">
     <e><p><l>aġen</l><r>aġen<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
@@ -2249,10 +2173,6 @@
   <pardef n="d/ifer__n_GD">
     <e><p><l>ifer</l><r>ifer<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
     <e><p><l>wiefer</l><r>ifer<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
-  </pardef>
-  <pardef n="għas/fur__n_GD">
-    <e><p><l>fur</l><r>fur<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
-    <e><p><l>afar</l><r>fur<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
   </pardef>
   <pardef n="r/ussett__n_GD">
     <e><p><l>ussett</l><r>ussett<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
@@ -2307,15 +2227,6 @@
     <e><p><l>aruf</l><r>aruf<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
     <e><p><l>rief</l><r>aruf<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
   </pardef>
-  <pardef n="b/anda__n_GD">
-    <e><p><l>anda</l><r>anda<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
-    <e><p><l>aned</l><r>anda<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
-    <e><p><l>nadi</l><r>anda<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
-  </pardef>
-  <pardef n="v/ers__n_GD">
-    <e><p><l>ers</l><r>ers<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
-    <e><p><l>rus</l><r>ers<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
-  </pardef>
   <pardef n="b/aħar__n_GD">
     <e><p><l>aħar</l><r>aħar<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
     <e><p><l>iħra</l><r>aħar<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
@@ -2344,10 +2255,6 @@
     <e><p><l>iġnun</l><r>iġnun<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
     <e><p><l>ġienen</l><r>iġnun<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
   </pardef>
-  <pardef n="b/andiera__n_GD">
-    <e><p><l>andiera</l><r>andiera<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
-    <e><p><l>nadar</l><r>andiera<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
-  </pardef>
   <pardef n="x/ahar__n_GD">
     <e><p><l>ahar</l><r>ahar<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
     <e><p><l>hur</l><r>ahar<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
@@ -2360,10 +2267,6 @@
     <e><p><l>arvetta</l><r>arvetta<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
     <e><p><l>rievet</l><r>arvetta<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
   </pardef>
-  <pardef n="s/ultan__n_GD">
-    <e><p><l>ultan</l><r>ultan<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
-    <e><p><l>laten</l><r>ultan<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
-  </pardef>
   <pardef n="sk/ola__n_GD">
     <e><p><l>ola</l><r>ola<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
     <e><p><l>ejjel</l><r>ola<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
@@ -2375,10 +2278,6 @@
   <pardef n="t/ajn__n_GD">
     <e><p><l>ajn</l><r>ajn<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
     <e><p><l>jun</l><r>ajn<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
-  </pardef>
-  <pardef n="d/arba__n_GD">
-    <e><p><l>arba</l><r>arba<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
-    <e><p><l>rabi</l><r>arba<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
   </pardef>
   <pardef n="b/orġ__n_GD">
     <e><p><l>orġ</l><r>orġ<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
@@ -2442,10 +2341,6 @@
     <e><p><l>era</l><r>era<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
     <e><p><l>irja</l><r>era<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
   </pardef>
-  <pardef n="q/orti__n_GD">
-    <e><p><l>orti</l><r>orti<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
-    <e><p><l>rati</l><r>orti<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
-  </pardef>
   <pardef n="f/arfett__n_GD">
     <e><p><l>arfett</l><r>arfett<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
     <e><p><l>riefet</l><r>arfett<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
@@ -2485,17 +2380,13 @@
     <e><p><l>rieqax</l><r>urqax<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
     <e><p><l>rieqex</l><r>urqax<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
   </pardef>
-  <pardef n="el/f__n_GD">
-    <e><p><l>f</l><r>f<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
-    <e><p><l>uf</l><r>f<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
-  </pardef>
   <pardef n="t/anbur__n_GD">
     <e><p><l>anbur</l><r>anbur<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
     <e><p><l>nabar</l><r>anbur<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
   </pardef>
-  <pardef n="fl/us__n_GD">
-    <e><p><l>us</l><r>us<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
-    <e><p><l>ejjes</l><r>us<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
+  <pardef n="fl/us__n_mf">
+    <e><p><l>us</l><r>us<s n="n"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e><p><l>ejjes</l><r>us<s n="n"/><s n="mf"/><s n="pl"/></r></p></e>
   </pardef>
   <pardef n="fli/xkun__n_GD">
     <e><p><l>xkun</l><r>xkun<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
@@ -2553,10 +2444,6 @@
     <e><p><l>aqq</l><r>aqq<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
     <e><p><l>quq</l><r>aqq<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
   </pardef>
-  <pardef n="kn/isja__n_GD">
-    <e><p><l>isja</l><r>isja<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
-    <e><p><l>ejjes</l><r>isja<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
-  </pardef>
   <pardef n="ħol/qa__n_GD">
     <e><p><l>qa</l><r>qa<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
     <e><p><l>oq</l><r>qa<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
@@ -2610,10 +2497,6 @@
   <pardef n="m/artell__n_GD">
     <e><p><l>artell</l><r>artell<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
     <e><p><l>rietel</l><r>artell<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
-  </pardef>
-  <pardef n="b/elt__n_GD">
-    <e><p><l>elt</l><r>elt<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
-    <e><p><l>liet</l><r>elt<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
   </pardef>
   <pardef n="t/ajra__n_GD">
     <e><p><l>ajra</l><r>ajra<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
@@ -2819,6 +2702,7 @@
       <e><p>          <l>adif</l><r>adif<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
       <e><p>          <l>adifa</l><r>adif<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
       <e><p>          <l>odfa</l><r>adif<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
+      <e><p>          <l>daf</l><r>adif<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
     </pardef>
     <pardef n="vojt__adj">
       <e><p>          <l></l><r><s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
@@ -2942,26 +2826,15 @@
     </pardef>
 
   <!-- Broken plural adjectives -->
-  <pardef n="f/qir__adj_GD">
-    <e><p><l>qir</l><r>qir<s n="adj"/><s n="GD"/><s n="sg"/></r></p></e>
-    <e><p><l>qar</l><r>qir<s n="adj"/><s n="GD"/><s n="pl"/></r></p></e>
-    <e><p><l>oqra</l><r>qir<s n="adj"/><s n="GD"/><s n="pl"/></r></p></e>
-  </pardef>
-  <pardef n="tw/il__adj_GD">
-    <e><p><l>il</l><r>il<s n="adj"/><s n="GD"/><s n="sg"/></r></p></e>
-    <e><p><l>al</l><r>il<s n="adj"/><s n="GD"/><s n="pl"/></r></p></e>
+  <pardef n="f/qir__adj">
+    <e><p><l>qir</l><r>qir<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>qira</l><r>qir<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>qar</l><r>qir<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
+    <e><p><l>oqra</l><r>qir<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
   </pardef>
   <pardef n="s/erkin__adj_GD">
     <e><p><l>erkin</l><r>erkin<s n="adj"/><s n="GD"/><s n="sg"/></r></p></e>
     <e><p><l>rieken</l><r>erkin<s n="adj"/><s n="GD"/><s n="pl"/></r></p></e>
-  </pardef>
-  <pardef n="kb/ir__adj_GD">
-    <e><p><l>ir</l><r>ir<s n="adj"/><s n="GD"/><s n="sg"/></r></p></e>
-    <e><p><l>ar</l><r>ir<s n="adj"/><s n="GD"/><s n="pl"/></r></p></e>
-  </pardef>
-  <pardef n="/abjad__adj_GD">
-    <e><p><l>abjad</l><r>abjad<s n="adj"/><s n="GD"/><s n="sg"/></r></p></e>
-    <e><p><l>bojod</l><r>abjad<s n="adj"/><s n="GD"/><s n="pl"/></r></p></e>
   </pardef>
   <pardef n="d/arsa__adj_GD">
     <e><p><l>arsa</l><r>arsa<s n="adj"/><s n="GD"/><s n="sg"/></r></p></e>
@@ -2974,10 +2847,6 @@
   <pardef n="n/israni__adj_GD">
     <e><p><l>israni</l><r>israni<s n="adj"/><s n="GD"/><s n="sg"/></r></p></e>
     <e><p><l>sara</l><r>israni<s n="adj"/><s n="GD"/><s n="pl"/></r></p></e>
-  </pardef>
-  <pardef n="/aħdar__adj_GD">
-    <e><p><l>aħdar</l><r>aħdar<s n="adj"/><s n="GD"/><s n="sg"/></r></p></e>
-    <e><p><l>ħodor</l><r>aħdar<s n="adj"/><s n="GD"/><s n="pl"/></r></p></e>
   </pardef>
   <pardef n="blok/ka__adj_GD">
     <e><p><l>ka</l><r>ka<s n="adj"/><s n="GD"/><s n="sg"/></r></p></e>
@@ -3003,31 +2872,6 @@
     <e><p><l>ażin</l><r>ażin<s n="adj"/><s n="GD"/><s n="sg"/></r></p></e>
     <e><p><l>żiena</l><r>ażin<s n="adj"/><s n="GD"/><s n="pl"/></r></p></e>
   </pardef>
-  <pardef n="rq/iq__adj_GD">
-    <e><p><l>iq</l><r>iq<s n="adj"/><s n="GD"/><s n="sg"/></r></p></e>
-    <e><p><l>aq</l><r>iq<s n="adj"/><s n="GD"/><s n="pl"/></r></p></e>
-  </pardef>
-  <pardef n="q/adim__adj_GD">
-    <e><p><l>adim</l><r>adim<s n="adj"/><s n="GD"/><s n="sg"/></r></p></e>
-    <e><p><l>odma</l><r>adim<s n="adj"/><s n="GD"/><s n="pl"/></r></p></e>
-  </pardef>
-  <pardef n="xħ/iħ__adj_GD">
-    <e><p><l>iħ</l><r>iħ<s n="adj"/><s n="GD"/><s n="sg"/></r></p></e>
-    <e><p><l>aħ</l><r>iħ<s n="adj"/><s n="GD"/><s n="pl"/></r></p></e>
-  </pardef>
-  <pardef n="n/adif__adj_GD">
-    <e><p><l>adif</l><r>adif<s n="adj"/><s n="GD"/><s n="sg"/></r></p></e>
-    <e><p><l>daf</l><r>adif<s n="adj"/><s n="GD"/><s n="pl"/></r></p></e>
-    <e><p><l>odfa</l><r>adif<s n="adj"/><s n="GD"/><s n="pl"/></r></p></e>
-  </pardef>
-  <pardef n="/aħmar__adj_GD">
-    <e><p><l>aħmar</l><r>aħmar<s n="adj"/><s n="GD"/><s n="sg"/></r></p></e>
-    <e><p><l>ħomor</l><r>aħmar<s n="adj"/><s n="GD"/><s n="pl"/></r></p></e>
-  </pardef>
-  <pardef n="/isfar__adj_GD">
-    <e><p><l>isfar</l><r>isfar<s n="adj"/><s n="GD"/><s n="sg"/></r></p></e>
-    <e><p><l>sofor</l><r>isfar<s n="adj"/><s n="GD"/><s n="pl"/></r></p></e>
-  </pardef>
   <pardef n="ġ/akketta__n_GD">
     <e><p><l>akketta</l><r>akketta<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
     <e><p><l>kieket</l><r>akketta<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
@@ -3036,23 +2880,11 @@
     <e><p><l>uċ</l><r>uċ<s n="adj"/><s n="GD"/><s n="sg"/></r></p></e>
     <e><p><l>wieċ</l><r>uċ<s n="adj"/><s n="GD"/><s n="pl"/></r></p></e>
   </pardef>
-  <pardef n="d/ejjaq__adj_GD">
-    <e><p><l>ejjaq</l><r>ejjaq<s n="adj"/><s n="GD"/><s n="sg"/></r></p></e>
-    <e><p><l>ojoq</l><r>ejjaq<s n="adj"/><s n="GD"/><s n="pl"/></r></p></e>
-  </pardef>
   <pardef n="ħ/obla__adj_GD">
     <e><p><l>obla</l><r>obla<s n="adj"/><s n="GD"/><s n="sg"/></r></p></e>
     <e><p><l>biel</l><r>obla<s n="adj"/><s n="GD"/><s n="pl"/></r></p></e>
     <e><p><l>biela</l><r>obla<s n="adj"/><s n="GD"/><s n="pl"/></r></p></e>
     <e><p><l>bieli</l><r>obla<s n="adj"/><s n="GD"/><s n="pl"/></r></p></e>
-  </pardef>
-  <pardef n="q/asir__adj_GD">
-    <e><p><l>asir</l><r>asir<s n="adj"/><s n="GD"/><s n="sg"/></r></p></e>
-    <e><p><l>osra</l><r>asir<s n="adj"/><s n="GD"/><s n="pl"/></r></p></e>
-  </pardef>
-  <pardef n="/artab__adj_GD">
-    <e><p><l>artab</l><r>artab<s n="adj"/><s n="GD"/><s n="sg"/></r></p></e>
-    <e><p><l>rotob</l><r>artab<s n="adj"/><s n="GD"/><s n="pl"/></r></p></e>
   </pardef>
   <pardef n="s/abiħ__adj_GD">
     <e><p><l>abiħ</l><r>abiħ<s n="adj"/><s n="GD"/><s n="sg"/></r></p></e>
@@ -3062,10 +2894,6 @@
     <e><p><l>ani</l><r>ani<s n="adj"/><s n="GD"/><s n="sg"/></r></p></e>
     <e><p><l>onja</l><r>ani<s n="adj"/><s n="GD"/><s n="pl"/></r></p></e>
   </pardef>
-  <pardef n="rħ/is__adj_GD">
-    <e><p><l>is</l><r>is<s n="adj"/><s n="GD"/><s n="sg"/></r></p></e>
-    <e><p><l>as</l><r>is<s n="adj"/><s n="GD"/><s n="pl"/></r></p></e>
-  </pardef>
   <pardef n="b/aħnan__adj_GD">
     <e><p><l>aħnan</l><r>aħnan<s n="adj"/><s n="GD"/><s n="sg"/></r></p></e>
     <e><p><l>ħaħan</l><r>aħnan<s n="adj"/><s n="GD"/><s n="pl"/></r></p></e>
@@ -3074,10 +2902,6 @@
   <pardef n="q/alil__adj_GD">
     <e><p><l>alil</l><r>alil<s n="adj"/><s n="GD"/><s n="sg"/></r></p></e>
     <e><p><l>liel</l><r>alil<s n="adj"/><s n="GD"/><s n="pl"/></r></p></e>
-  </pardef>
-  <pardef n="/iswed__adj_GD">
-    <e><p><l>iswed</l><r>iswed<s n="adj"/><s n="GD"/><s n="sg"/></r></p></e>
-    <e><p><l>suwed</l><r>iswed<s n="adj"/><s n="GD"/><s n="pl"/></r></p></e>
   </pardef>
 
 
@@ -3261,7 +3085,7 @@
     <e lm="disgħin" c="ninety"><i>disgħin</i><par n="għoxrin__num"/></e>
     <e lm="mija" c="hundred"><i>mija</i><par n="mija__num"/></e>
     <e lm="mitejn" c="two hundreds"><i>mitejn</i><par n="mitejn__num"/></e>
-    <e lm="elf" c="thousand"><i>elf</i><par n="mija__num"/></e>
+    <e lm="elf" c="thousand" ><i>el</i><par n="el/f__num"/></e>
     <e lm="elfejn" c="two thousands"><i>elfejn</i><par n="mitejn__num"/></e>
     <e lm="miljun" c="million"><i>miljun</i><par n="miljun__num"/></e>
     <e lm="biljun" c="billion"><i>biljun</i><par n="miljun__num"/></e>
@@ -3290,11 +3114,11 @@
 
     <!-- SECTION: Nouns -->
     <e lm="gramafown"><i>gram</i><par n="gram/afown__n"/></e>
-    <e lm="dar"><i>d</i><par n="d/ar__n_m"/></e>
+    <e lm="dar" c="house"><i>d</i><par n="d/ar__n_m"/></e>
     <e lm="mara"><i></i><par n="/mara__n"/></e>
     <e lm="isem"><i>is</i><par n="is/em__n_m"/></e>
-    <e lm="triq"><i>t</i><par n="t/riq__n_f"/></e>
-    <e lm="ktieb"><i>k</i><par n="k/tieb__n"/></e>
+    <e lm="triq" c="street"><i>t</i><par n="t/riq__n_f"/></e>
+    <e lm="ktieb" c="book"><i>k</i><par n="k/tieb__n"/></e>
     <e lm="reliġjon"><i>reliġjon</i><par n="dixx__n_m"/></e>
     <e lm="dixx"><i>dixx</i><par n="dixx__n_m"/></e>
     <e lm="tim"><i>tim</i><par n="dixx__n_m"/></e>
@@ -3303,8 +3127,7 @@
 
     <e lm="omm" c="mother"><i>omm</i><par n="omm__n_f"/></e>
     <e lm="ħajja" c="life"><i>ħajj</i><par n="ħajj/a__n_f"/></e>
-    <e lm="gżira" c="island"><i>gż</i><par n="gż/ira__n_f"/></e>
-    <e lm="flixkun" c="bottle"><i>fl</i><par n="fl/ixkun__n_GD"/></e>
+    <e lm="gżira" c="island"><i>gż</i><par n="ft/ira__n_f"/></e>
     <e lm="raġel" c="man"><i></i><par n="/raġel__n_m"/></e>
     <e lm="bniedem" c="man"><i>b</i><par n="b/niedem__n_m"/></e>
     <e lm="sieq" c="foot"><i>s</i><par n="s/ieq__n_m"/></e>
@@ -3355,8 +3178,8 @@
     <e lm="banda"><i>ban</i><par n="ban/da__n_f"/></e>
     <e lm="gwerra" c="war"><i>gwer</i><par n="gwer/ra__n_f"/></e>
     <e lm="qorti" c="court"><i>q</i><par n="q/orti__n_f"/></e>
-    <e lm="vers"><i>v</i><par n="v/ers__n_m"/></e>
-    <e lm="serp"><i>s</i><par n="s/erp__n_m"/></e>
+    <e lm="vers" c="verse"><i>v</i><par n="v/ers__n_m"/></e>
+    <e lm="serp" c="snake"><i>s</i><par n="s/erp__n_m"/></e>
 
 
     <e lm="aggressjoni"><i>aggressjoni</i><par n="unjoni__n_f"/></e>
@@ -3478,9 +3301,8 @@
     <e lm="plejer"><i>plejer</i><par n="gowl__n_m"/></e>
 
     <e lm="nies"><i>nies</i><par n="nies__n_mf"/></e>
-    <e lm="flus" c="money"><i>flus</i><par n="nies__n_mf"/></e>
 
-    <e lm="dawl"><i>d</i><par n="d/awl__n_m"/></e>
+    <e lm="dawl" c="light"><i>d</i><par n="d/awl__n_m"/></e>
 
     <e lm="trattament"><i>trattament</i><par n="moviment__n_m"/></e>
     <e lm="delegat"><i>delegat</i><par n="moviment__n_m"/></e>
@@ -3562,8 +3384,8 @@
 
     <e lm="ilsien"><i></i><par n="/ilsien__n_m"/></e>
     <e lm="jum"><i></i><par n="/jum__n_m"/></e>
-    <e lm="belt"><i></i><par n="/belt__n_f"/></e>
-    <e lm="belt kapitali"><i></i><par n="/belt__n_f"/><p><l><b/>kapitali</l><r><g><b/>kapitali</g></r></p></e>
+    <e lm="belt" c="city"><i></i><par n="/belt__n_f"/></e>
+    <e lm="belt kapitali" c="capital city"><i></i><par n="/belt__n_f"/><p><l><b/>kapitali</l><r><g><b/>kapitali</g></r></p></e>
     <e lm="għibien"><i>għ</i><par n="għ/ibien__n"/></e>
 
     <!-- TODO: check gender for months, and are there plurals? -->
@@ -3606,7 +3428,7 @@
     <e lm="kanzunetta"><i>kanzunett</i><par n="propost/a__n_f"/></e>
     <e lm="pjaneta"><i>pjanet</i><par n="pjanet/a__n_m"/></e>
     <e lm="lingwa"><i>lingw</i><par n="propost/a__n_f"/></e>
-    <e lm="qalb"><i>q</i><par n="q/alb__n_m"/></e>
+    <e lm="qalb" c="heart"><i>q</i><par n="q/alb__n_m"/></e>
     <e lm="liebru"><i>liebr</i><par n="buff/u__n_m"/></e>
     <e lm="angolu"><i>angol</i><par n="buff/u__n_m"/></e>
     <e lm="terminu"><i>termin</i><par n="buff/u__n_m"/></e>
@@ -3623,14 +3445,13 @@
     <e lm="ħsieb"><i>ħsi</i><par n="ħsi/eb__n_m"/></e>
     <e lm="liebru"><i>liebr</i><par n="buff/u__n_m"/></e>
     <e lm="poeżija"><i>poeżij</i><par n="propost/a__n_f"/></e>
-    <e lm="tifel"><i></i><par n="/tifel__n_m"/></e>
+    <e lm="tifel" c="boy"><i></i><par n="/tifel__n_m"/></e>
     <e lm="proġett"><i>proġett</i><par n="moviment__n_m"/></e>
     <e lm="annimal"><i>annimal</i><par n="moviment__n_m"/></e>
     <e lm="poeżija"><i>poeżij</i><par n="propost/a__n_f"/></e>
     <e lm="siġġu"><i>siġġ</i><par n="siġġ/u__n_m"/></e>
     <e lm="premju"><i>premj</i><par n="siġġ/u__n_m"/></e>
     <e lm="rwol"><i>rwol</i><par n="moviment__n_m"/></e>
-    <e lm="għasfur"><i>għas</i><par n="għas/fur__n_m"/></e>
     <e lm="deżert"><i>deżert</i><par n="moviment__n_m"/></e>
     <e lm="operazzjoni"><i>operazzjoni</i><par n="unjoni__n_f"/></e>
     <e lm="deċiżjoni"><i>deċiżjoni</i><par n="unjoni__n_f"/></e>
@@ -3644,8 +3465,7 @@
     <e lm="kwistjoni"><i>kwistjoni</i><par n="unjoni__n_f"/></e>
     <e lm="introduzzjoni"><i>introduzzjoni</i><par n="unjoni__n_f"/></e>
     <e lm="tabib"><i>t</i><par n="t/abib__n_m"/></e>
-    <e lm="tarbija"><i>t</i><par n="t/arbija__n_f"/></e>
-    <e lm="tabib"><i>t</i><par n="t/abib__n_m"/></e>
+    <e lm="tarbija" c="baby"><i>t</i><par n="t/arbija__n_f"/></e>
     <e lm="kwalità"><i>kwalit</i><par n="entit/à__n_f"/></e>
     <e lm="attriċi"><i>att</i><par n="att/riċi__n_f"/></e>
     <e lm="żiemel"><i>ż</i><par n="ż/iemel__n_m"/></e>
@@ -3669,7 +3489,6 @@
     <e lm="teknoloġija"><i>teknoloġij</i><par n="propost/a__n_f"/></e>
     <e lm="sigurtà"><i>sigurt</i><par n="entit/à__n_f"/></e>
     <e lm="qattus"><i>q</i><par n="q/attus__n_m"/></e>
-    <e lm="qattus"><i>q</i><par n="q/attus__n_m"/></e>
     <e lm="pjaċir"><i>pjaċir</i><par n="moviment__n_m"/></e>
     <e lm="manifestazzjoni"><i>manifestazzjoni</i><par n="unjoni__n_f"/></e>
     <e lm="karità"><i>karit</i><par n="entit/à__n_f"/></e>
@@ -3680,20 +3499,19 @@
     <e lm="ċerv"><i>ċ</i><par n="ċ/erv__n_m"/></e>
     <e lm="attur"><i>attur</i><par n="moviment__n_m"/></e>
     <e lm="ajruplan"><i>ajruplan</i><par n="moviment__n_m"/></e>
-    <e lm="xoffa"><i>x</i><par n="x/offa__n_f"/></e>
+    <e lm="xoffa" c="lip"><i>x</i><par n="x/offa__n_f"/></e>
     <e lm="xemgħa"><i>xemgħa</i><par n="xemgħa__n_f"/></e>
     <e lm="varjazzjoni"><i>varjazzjoni</i><par n="unjoni__n_f"/></e>
     <e lm="traġedja"><i>traġedj</i><par n="propost/a__n_f"/></e>
     <e lm="superstizzjoni"><i>superstizzjoni</i><par n="unjoni__n_f"/></e>
     <e lm="soċjetà"><i>soċjet</i><par n="entit/à__n_f"/></e>
     <e lm="proprjetà"><i>proprjet</i><par n="entit/à__n_f"/></e>
-    <e lm="proprjetà"><i>proprjet</i><par n="entit/à__n_f"/></e>
     <e lm="proġett"><i>proġett</i><par n="moviment__n_m"/></e>
     <e lm="nominazzjoni"><i>nominazzjoni</i><par n="unjoni__n_f"/></e>
     <e lm="nagħġa"><i>nagħ</i><par n="nagħ/ġa__n_f"/></e>
     <e lm="mogħża"><i>mogħ</i><par n="mogħ/ża__n_f"/></e>
     <e lm="mistoqsija"><i>mistoqsij</i><par n="sħubij/a__n_f"/></e>
-    <e lm="leħen"><i>l</i><par n="l/eħen__n_m"/></e>
+    <e lm="leħen" c="voice"><i>l</i><par n="l/eħen__n_m"/></e>
     <e lm="kontribuzzjoni"><i>kontribuzzjoni</i><par n="unjoni__n_f"/></e>
     <e lm="kontribuzzjoni"><i>kontribuzzjoni</i><par n="unjoni__n_f"/></e>
     <e lm="konnotazzjoni"><i>konnotazzjoni</i><par n="unjoni__n_f"/></e>
@@ -3708,7 +3526,6 @@
     <e lm="seklu"><i>seklu</i><par n="unjoni__n_f"/></e>
     <e lm="ġurdien"><i>ġurdien</i><par n="Ċek__n_GD"/></e>
     <e lm="frott"><i>frott</i><par n="Ċek__n_m"/></e>
-    <e lm="sultan"><i>sultan</i><par n="Ċek__n_m"/></e>
     <e lm="gvern"><i>gvern</i><par n="Ċek__n_m"/></e>
     <e lm="Grieg"><i>Grieg</i><par n="Ċek__n_m"/></e>
     <e lm="bżonn"><i>bżonn</i><par n="Ċek__n_m"/></e>
@@ -3716,14 +3533,12 @@
     <e lm="ħġieġ"><i>ħġieġ</i><par n="Ċek__n_m"/></e>
     <e lm="Milied"><i>Milied</i><par n="Ċek__n_m"/></e>
     <e lm="wiċċ"><i>wiċċ</i><par n="Ċek__n_m"/></e>
-    <e lm="raħal"><i>raħal</i><par n="Ċek__n_m"/></e>
+    <e lm="raħal" c="village"><i>raħal</i><par n="Ċek__n_m"/></e>
     <e lm="paġna"><i>paġna</i><par n="oxx__n_f"/></e>
     <e lm="verżjoni"><i>verżjoni</i><par n="oxx__n_f"/></e>
-    <e lm="ħadid"><i>ħadid</i><par n="Ċek__n_GD"/></e>
     <e lm="ħadid"><i>ħadid</i><par n="Ċek__n_m"/></e>
-    <e lm="xmara"><i>xmara</i><par n="oxx__n_f"/></e>
-    <e lm="storja"><i>storja</i><par n="oxx__n_f"/></e>
-    <e lm="rwol"><i>rwol</i><par n="Ċek__n_GD"/></e>
+    <e lm="xmara" c="river"><i>xmara</i><par n="oxx__n_f"/></e>
+    <e lm="storja" c="story"><i>storja</i><par n="st/orja__n_f"/></e>
     <e lm="ġimgħa"><i>ġimgħa</i><par n="oxx__n_f"/></e>
     <e lm="ġebla"><i>ġebla</i><par n="oxx__n_f"/></e>
     <e lm="tifla"><i>tifla</i><par n="oxx__n_f"/></e>
@@ -3767,17 +3582,15 @@
     <e lm="sbuħija"><i>sbuħija</i><par n="oxx__n_f"/></e>
     <e lm="psikoloġija"><i>psikoloġija</i><par n="oxx__n_f"/></e>
     <e lm="Portugiża"><i>Portugiża</i><par n="oxx__n_f"/></e>
-    <e lm="pjaċir"><i>pjaċir</i><par n="Ċek__n_GD"/></e>
     <e lm="oċean"><i>oċean</i><par n="Ċek__n_m"/></e>
     <e lm="manifestazzjoni"><i>manifestazzjoni</i><par n="unjoni__n_f"/></e>
     <e lm="lvant"><i>lvant</i><par n="Ċek__n_m"/></e>
-    <e lm="lsien"><i>lsien</i><par n="Ċek__n_m"/></e>
+    <e lm="lsien" c="tongue"><i>lsien</i><par n="Ċek__n_m"/></e>
     <e lm="indiċi"><i>indiċi</i><par n="Ċek__n_m"/></e>
     <e lm="iljunfant"><i>iljunfant</i><par n="Ċek__n_m"/></e>
     <e lm="għarusa"><i>għarusa</i><par n="oxx__n_f"/></e>
-    <e lm="għadira"><i>għadira</i><par n="oxx__n_f"/></e>
     <e lm="ġeografija"><i>ġeografija</i><par n="oxx__n_f"/></e>
-    <e lm="difer"><i>difer</i><par n="Ċek__n_m"/></e>
+    <e lm="difer" c="nail"><i>difer</i><par n="Ċek__n_m"/></e>
     <e lm="deżerti"><i>deżerti</i><par n="Ċek__n_GD"/></e>
     <e lm="ċriev"><i>ċriev</i><par n="Ċek__n_GD"/></e>
     <e lm="ċifra"><i>ċifra</i><par n="oxx__n_f"/></e>
@@ -3788,7 +3601,6 @@
     <e lm="żebbuġ"><i>żebbuġ</i><par n="Ċek__n_m"/></e>
     <e lm="superstizzjoni"><i>superstizzjoni</i><par n="unjoni__n_f"/></e>
     <e lm="ringiela"><i>ringiela</i><par n="oxx__n_f"/></e>
-    <e lm="proprjetà"><i>proprjetà</i><par n="Ċek__n_GD"/></e>
     <e lm="papra"><i>papra</i><par n="oxx__n_f"/></e>
     <e lm="oranġjo"><i>oranġjo</i><par n="Ċek__n_m"/></e>
     <e lm="lejla"><i>lejla</i><par n="oxx__n_f"/></e>
@@ -3809,8 +3621,8 @@
     <e lm="missier"><i>missi</i><par n="missi/er__n_m"/></e>
     <e lm="intervista"><i>intervist</i><par n="propost/a__n_f"/></e>
 
-    <e lm="sultan"><i>s</i><par n="s/ultan__n"/></e>
-    <e lm="sid"><i>sid</i><par n="sid__n_m"/></e>
+    <e lm="sultan" c="king"><i>s</i><par n="s/ultan__n"/></e>
+    <e lm="sid" c="king"><i>sid</i><par n="sid__n_m"/></e>
 
     <!-- autodiscovered with process-nouns-with-paradigms.py -->
     <e lm="ammont"><i>ammont</i><par n="moviment__n_m"/></e>
@@ -4131,7 +3943,7 @@
     <e lm="tifkira"><i>tifkir</i><par n="sħubij/a__n_f"/></e>
     <e lm="tila"><i>til</i><par n="propost/a__n_f"/></e>
     <e lm="timbru"><i>timbr</i><par n="buff/u__n_m"/></e>
-    <e lm="tinda"><i>tin</i><par n="ban/da__n_f"/></e>
+    <e lm="tinda" c="ten"><i>tin</i><par n="ban/da__n_f"/></e>
     <e lm="titlu"><i>titl</i><par n="buff/u__n_m"/></e>
     <e lm="trakk"><i>trakk</i><par n="dixx__n_m"/></e>
     <e lm="trasformazzjoni"><i>trasformazzjoni</i><par n="unjoni__n_f"/></e>
@@ -4179,17 +3991,14 @@
     <e lm="moħriet" c="plough" ><i>m</i><par n="m/oħriet__n_GD"/></e>
     <e lm="miskin" c="pitiable person" ><i>m</i><par n="m/iskin__n_GD"/></e>
     <e lm="pjazza" c="square" ><i>pjaz</i><par n="maz/za__n_GD"/></e>
-    <e lm="għarbi" c="Arab" ><i>għar</i><par n="għar/bi__n_GD"/></e>
     <e lm="perpura" c="scarecrow" ><i>p</i><par n="p/erpura__n_GD"/></e>
     <e lm="sorra" c="flank" ><i>sor</i><par n="ħof/ra__n_GD"/></e>
     <e lm="ruħ" c="soul" ><i>r</i><par n="r/uħ__n_GD"/></e>
     <e lm="gverta" c="blanket" ><i>gv</i><par n="gv/erta__n_GD"/></e>
-    <e lm="sena" c="year" ><i>s</i><par n="s/ena__n_GD"/></e>
     <e lm="zuntier" c="churchyard" ><i>z</i><par n="z/untier__n_GD"/></e>
     <e lm="liżar" c="sheet" ><i>l</i><par n="l/iżar__n_GD"/></e>
     <e lm="ċorma" c="large number" ><i>ċ</i><par n="ċ/orma__n_GD"/></e>
     <e lm="debbus" c="mace" ><i>d</i><par n="d/ebbus__n_GD"/></e>
-    <e lm="vers" c="verse" ><i>v</i><par n="v/ers__n_GD"/></e>
     <e lm="għalqa" c="field" ><i>għ</i><par n="għ/alqa__n_GD"/></e>
     <e lm="ġidra" c="turnip" ><i>ġ</i><par n="ġ/idra__n_GD"/></e>
     <e lm="demla" c="abscess" ><i>dem</i><par n="xal/la__n_GD"/></e>
@@ -4230,7 +4039,6 @@
     <e lm="dabra" c="ulcer" ><i>d</i><par n="d/abra__n_GD"/></e>
     <e lm="spiża" c="expense" ><i>sp</i><par n="sp/iża__n_GD"/></e>
     <e lm="bastun" c="walking stick" ><i>b</i><par n="b/astun__n_GD"/></e>
-    <e lm="tabib" c="doctor" ><i>t</i><par n="t/abib__n_GD"/></e>
     <e lm="kanna" c="pipe" ><i>kan</i><par n="tib/na__n_GD"/></e>
     <e lm="xifajk" c="troublemaker" ><i>x</i><par n="x/ifajk__n_GD"/></e>
     <e lm="tibna" c="straw" ><i>tib</i><par n="tib/na__n_GD"/></e>
@@ -4244,7 +4052,6 @@
     <e lm="qantar" c="heavy load" ><i>q</i><par n="q/antar__n_GD"/></e>
     <e lm="armel" c="widower" ><i></i><par n="/armel__n_GD"/></e>
     <e lm="suffara" c="whistle" ><i>s</i><par n="s/uffara__n_GD"/></e>
-    <e lm="taxxa" c="tax" ><i>tax</i><par n="kax/xa__n_GD"/></e>
     <e lm="geddum" c="lower jaw" ><i>g</i><par n="g/eddum__n_GD"/></e>
     <e lm="għaġeb" c="fussy person" ><i>għ</i><par n="għ/aġeb__n_GD"/></e>
     <e lm="żenbil" c="large basket made of broom" ><i>ż</i><par n="ż/enbil__n_GD"/></e>
@@ -4261,7 +4068,7 @@
     <e lm="lsir" c="slave" ><i>lsi</i><par n="lsi/r__n_GD"/></e>
     <e lm="tentufa" c="a trifle" ><i>te</i><par n="te/ntufa__n_GD"/></e>
     <e lm="sorm" c="buttocks" ><i>s</i><par n="s/orm__n_GD"/></e>
-    <e lm="għasfur" c="bird" ><i>għas</i><par n="għas/fur__n_GD"/></e>
+    <e lm="għasfur" c="bird" ><i>għas</i><par n="għas/fur__n_m"/></e>
     <e lm="tertuqa" c="membrane" ><i>t</i><par n="t/ertuqa__n_GD"/></e>
     <e lm="sined" c="stretch of barren land" ><i>s</i><par n="s/ined__n_GD"/></e>
     <e lm="ġebla" c="stone" ><i>ġeb</i><par n="xal/la__n_GD"/></e>
@@ -4282,7 +4089,6 @@
     <e lm="reġina" c="queen" ><i>r</i><par n="r/eġina__n_GD"/></e>
     <e lm="kaxxa" c="box" ><i>kax</i><par n="kax/xa__n_GD"/></e>
     <e lm="barbun" c="flounder" ><i>b</i><par n="b/arbun__n_GD"/></e>
-    <e lm="bandiera" c="flag" ><i>b</i><par n="b/andiera__n_GD"/></e>
     <e lm="stilla" c="straw" ><i>stil</i><par n="xal/la__n_GD"/></e>
     <e lm="klikka" c="clique" ><i>klik</i><par n="tik/ka__n_GD"/></e>
     <e lm="sfinġa" c="fritter" ><i>sfin</i><par n="ber/ġa__n_GD"/></e>
@@ -4311,19 +4117,16 @@
     <e lm="masġar" c="wood" ><i>m</i><par n="m/asġar__n_GD"/></e>
     <e lm="żarmug" c="small rabbit" ><i>ż</i><par n="ż/armug__n_GD"/></e>
     <e lm="tork" c="Turk" ><i>tor</i><par n="tor/k__n_GD"/></e>
-    <e lm="ktieb" c="book" ><i>k</i><par n="k/tieb__n_GD"/></e>
     <e lm="ċinga" c="leash" ><i>ċin</i><par n="vir/ga__n_GD"/></e>
     <e lm="ġisem" c="body" ><i>ġ</i><par n="ġ/isem__n_GD"/></e>
     <e lm="serra" c="hothouse" ><i>ser</i><par n="bir/ra__n_GD"/></e>
     <e lm="ferfux" c="rash person" ><i>fe</i><par n="fe/rfux__n_GD"/></e>
     <e lm="plakka" c="plaque" ><i>plak</i><par n="tik/ka__n_GD"/></e>
-    <e lm="dar" c="house" ><i>d</i><par n="d/ar__n_GD"/></e>
     <e lm="għassa" c="police station" ><i>għas</i><par n="far/sa__n_GD"/></e>
     <e lm="bank" c="bank" ><i>ban</i><par n="ban/k__n_GD"/></e>
     <e lm="sunnara" c="fishing hook" ><i>s</i><par n="s/unnara__n_GD"/></e>
     <e lm="pexpux" c="naughty child" ><i>pex</i><par n="pex/pux__n_GD"/></e>
     <e lm="ġifen" c="vessel" ><i>ġ</i><par n="ġ/ifen__n_GD"/></e>
-    <e lm="fidda" c="silver" ><i>fid</i><par n="fid/da__n_GD"/></e>
     <e lm="komma" c="sleeve" ><i>k</i><par n="k/omma__n_GD"/></e>
     <e lm="fartas" c="bald man" ><i>f</i><par n="f/artas__n_GD"/></e>
     <e lm="libsa" c="dress" ><i>l</i><par n="l/ibsa__n_GD"/></e>
@@ -4337,11 +4140,9 @@
     <e lm="għafrid" c="devil" ><i>għ</i><par n="għ/afrid__n_GD"/></e>
     <e lm="xilpa" c="salp" ><i>xil</i><par n="xil/pa__n_GD"/></e>
     <e lm="ġolġol" c="small tinkling bell" ><i>ġ</i><par n="ġ/olġol__n_GD"/></e>
-    <e lm="dawl" c="light" ><i>d</i><par n="d/awl__n_GD"/></e>
     <e lm="pexxun" c="calf" ><i>p</i><par n="k/exxun__n_GD"/></e>
     <e lm="ingassa" c="noose" ><i>ingas</i><par n="far/sa__n_GD"/></e>
     <e lm="għama" c="blind person" ><i>għ</i><par n="għ/ama__n_GD"/></e>
-    <e lm="difer" c="nail" ><i>d</i><par n="d/ifer__n_GD"/></e>
     <e lm="għoqda" c="knot" ><i>għoq</i><par n="sod/da__n_GD"/></e>
     <e lm="rassa" c="crowd" ><i>ras</i><par n="far/sa__n_GD"/></e>
     <e lm="żerriegħa" c="seed" ><i>ż</i><par n="ż/erriegħa__n_GD"/></e>
@@ -4358,22 +4159,17 @@
     <e lm="gaffa" c="fork for catching sea urchins" ><i>gaf</i><par n="lin/fa__n_GD"/></e>
     <e lm="ħarbux" c="very small fish" ><i>ħ</i><par n="ħ/arbux__n_GD"/></e>
     <e lm="ħanut" c="shop" ><i>ħ</i><par n="ħ/anut__n_GD"/></e>
-    <e lm="xiħ" c="old person" ><i>x</i><par n="x/iħ__n_GD"/></e>
     <e lm="dejn" c="debt" ><i>d</i><par n="d/ejn__n_GD"/></e>
     <e lm="ġamra" c="live coal" ><i>ġam</i><par n="lab/ra__n_GD"/></e>
-    <e lm="għaxra" c="ten" ><i>għ</i><par n="għ/axra__n_GD"/></e>
     <e lm="gaġġa" c="cage" ><i>gaġ</i><par n="ber/ġa__n_GD"/></e>
-    <e lm="tinda" c="tent" ><i>tin</i><par n="fid/da__n_GD"/></e>
     <e lm="pantor" c="flounce" ><i>p</i><par n="p/antor__n_GD"/></e>
     <e lm="mħadda" c="pillow" ><i>mħad</i><par n="fid/da__n_GD"/></e>
-    <e lm="xmara" c="river" ><i>xma</i><par n="xma/ra__n_GD"/></e>
     <e lm="xall" c="shawl" ><i>xal</i><par n="xal/l__n_GD"/></e>
     <e lm="katina" c="chain" ><i>k</i><par n="k/atina__n_GD"/></e>
     <e lm="burdell" c="brothel" ><i>b</i><par n="b/urdell__n_GD"/></e>
     <e lm="villa" c="villa" ><i>vil</i><par n="xal/la__n_GD"/></e>
     <e lm="praspura" c="oddity" ><i>prasp</i><par n="prasp/ura__n_GD"/></e>
     <e lm="kantun" c="building stone" ><i>k</i><par n="k/antun__n_GD"/></e>
-    <e lm="raħal" c="village" ><i>r</i><par n="r/aħal__n_GD"/></e>
     <e lm="ħadd" c="Sunday" ><i>ħ</i><par n="ħ/add__n_GD"/></e>
     <e lm="skartoċċ" c="cartridge" ><i>sk</i><par n="k/artoċċ__n_GD"/></e>
     <e lm="ħobż" c="bread" ><i>ħ</i><par n="ħ/obż__n_GD"/></e>
@@ -4386,9 +4182,7 @@
     <e lm="sarvetta" c="napkin" ><i>s</i><par n="s/arvetta__n_GD"/></e>
     <e lm="qaws" c="bow" ><i>q</i><par n="q/aws__n_GD"/></e>
     <e lm="tieqa" c="window" ><i>t</i><par n="t/ieqa__n_GD"/></e>
-    <e lm="qorti" c="lawcourt" ><i>q</i><par n="q/orti__n_GD"/></e>
     <e lm="sellum" c="ladder" ><i>s</i><par n="s/ellum__n_GD"/></e>
-    <e lm="serp" c="snake" ><i>s</i><par n="s/erp__n_GD"/></e>
     <e lm="gardell" c="goldfinch" ><i>g</i><par n="g/ardell__n_GD"/></e>
     <e lm="ħotba" c="matchmaker" ><i>ħot</i><par n="toq/ba__n_GD"/></e>
     <e lm="werc" c="cross-eyed person" ><i>wer</i><par n="wer/c__n_GD"/></e>
@@ -4397,17 +4191,14 @@
     <e lm="spalla" c="shoulder" ><i>spal</i><par n="xal/la__n_GD"/></e>
     <e lm="xenxul" c="newly formed bunch of grapes" ><i>xe</i><par n="xe/nxul__n_GD"/></e>
     <e lm="grotta" c="grotto" ><i>grot</i><par n="rot/ta__n_GD"/></e>
-    <e lm="triq" c="street" ><i>t</i><par n="t/riq__n_GD"/></e>
     <e lm="zokk" c="trunk" ><i>z</i><par n="z/okk__n_GD"/></e>
     <e lm="xedaq" c="jaw" ><i>x</i><par n="x/edaq__n_GD"/></e>
-    <e lm="gwerra" c="war" ><i>gwer</i><par n="bir/ra__n_GD"/></e>
     <e lm="moffa" c="mould" ><i>mof</i><par n="xof/fa__n_GD"/></e>
     <e lm="ħafif" c="light" ><i>ħ</i><par n="ħ/afif__n_GD"/></e>
     <e lm="sponża" c="sponge" ><i>spon</i><par n="bor/ża__n_GD"/></e>
     <e lm="ras" c="head" ><i>r</i><par n="r/as__n_GD"/></e>
     <e lm="bejt" c="roof" ><i>b</i><par n="b/ejt__n_GD"/></e>
     <e lm="gendus" c="bull" ><i>g</i><par n="g/endus__n_GD"/></e>
-    <e lm="xoffa" c="lip" ><i>xof</i><par n="xof/fa__n_GD"/></e>
     <e lm="tellieqa" c="race" ><i>t</i><par n="t/ellieqa__n_GD"/></e>
     <e lm="buzzell" c="block with one or more pulleys" ><i>b</i><par n="b/uzzell__n_GD"/></e>
     <e lm="birra" c="beer" ><i>bir</i><par n="bir/ra__n_GD"/></e>
@@ -4419,7 +4210,6 @@
     <e lm="sawt" c="lash" ><i>s</i><par n="s/awt__n_GD"/></e>
     <e lm="inċirata" c="raincoat" ><i>inċira</i><par n="ingrava/ta__n_GD"/></e>
     <e lm="tapit" c="carpet" ><i>t</i><par n="t/apit__n_GD"/></e>
-    <e lm="qalb" c="heart" ><i>q</i><par n="q/alb__n_GD"/></e>
     <e lm="ġewlaq" c="wicker basket" ><i>ġ</i><par n="ġ/ewlaq__n_GD"/></e>
     <e lm="vleġġa" c="arrow" ><i>vleġ</i><par n="ber/ġa__n_GD"/></e>
     <e lm="qormi" c="person from Qormi" ><i>q</i><par n="q/ormi__n_GD"/></e>
@@ -4443,11 +4233,8 @@
     <e lm="senduq" c="chest" ><i>s</i><par n="s/enduq__n_GD"/></e>
     <e lm="xriek" c="stone slab" ><i>x</i><par n="x/riek__n_GD"/></e>
     <e lm="bużżieqa" c="balloon" ><i>b</i><par n="b/użżieqa__n_GD"/></e>
-    <e lm="lsien" c="tongue" ><i>ls</i><par n="ls/ien__n_GD"/></e>
-    <e lm="ftira" c="type of bread" ><i>ft</i><par n="ft/ira__n_GD"/></e>
+    <e lm="ftira" c="type of bread" ><i>ft</i><par n="ft/ira__n_f"/></e>
     <e lm="gelgul" c="large spring of water" ><i>gel</i><par n="gel/gul__n_GD"/></e>
-    <e lm="darba" c="one time" ><i>d</i><par n="d/arba__n_GD"/></e>
-    <e lm="wieħed" c="one" ><i></i><par n="/wieħed__n_GD"/></e>
     <e lm="virga" c="can" ><i>vir</i><par n="vir/ga__n_GD"/></e>
     <e lm="muftieħ" c="key" ><i>m</i><par n="m/uftieħ__n_GD"/></e>
     <e lm="żejtuni" c="person from Żejtun" ><i>ż</i><par n="ż/ejtuni__n_GD"/></e>
@@ -4473,7 +4260,6 @@
     <e lm="grossa" c="twelve dozen" ><i>gros</i><par n="fos/sa__n_GD"/></e>
     <e lm="ismar" c="suntanned" ><i></i><par n="/ismar__n_GD"/></e>
     <e lm="ċinta" c="sharp edge of a roof" ><i>ċin</i><par n="qat/ta__n_GD"/></e>
-    <e lm="tifel" c="boy" ><i>t</i><par n="t/ifel__n_GD"/></e>
     <e lm="ħliqa" c="creature" ><i>ħl</i><par n="ħl/iqa__n_GD"/></e>
     <e lm="forġa" c="forge" ><i>for</i><par n="for/ġa__n_GD"/></e>
     <e lm="ħaxix" c="vegetables/grass" ><i>ħ</i><par n="ħ/axix__n_GD"/></e>
@@ -4492,14 +4278,12 @@
     <e lm="lupu" c="wolf" ><i>l</i><par n="l/upu__n_GD"/></e>
     <e lm="manka" c="hose" ><i>man</i><par n="tik/ka__n_GD"/></e>
     <e lm="belbul" c="little bird" ><i>bel</i><par n="bel/bul__n_GD"/></e>
-    <e lm="sultan" c="king" ><i>s</i><par n="s/ultan__n_GD"/></e>
     <e lm="ġewnaħ" c="wing" ><i>ġ</i><par n="ġ/ewnaħ__n_GD"/></e>
     <e lm="pastaż" c="rude person" ><i>p</i><par n="p/astaż__n_GD"/></e>
     <e lm="tokka" c="pen holder" ><i>tok</i><par n="tok/ka__n_GD"/></e>
     <e lm="miċċa" c="fuse" ><i>miċ</i><par n="lan/ċa__n_GD"/></e>
     <e lm="takkuna" c="heel" ><i>t</i><par n="t/akkuna__n_GD"/></e>
     <e lm="ħofra" c="hole" ><i>ħof</i><par n="ħof/ra__n_GD"/></e>
-    <e lm="elf" c="thousand" ><i>el</i><par n="el/f__n_GD"/></e>
     <e lm="pinzell" c="brush" ><i>p</i><par n="p/inzell__n_GD"/></e>
     <e lm="ikħal" c="blue" ><i></i><par n="/ikħal__n_GD"/></e>
     <e lm="bixrun" c="place where grapes are squeezed" ><i>b</i><par n="b/ixrun__n_GD"/></e>
@@ -4518,7 +4302,6 @@
     <e lm="xalla" c="shawl" ><i>xal</i><par n="xal/la__n_GD"/></e>
     <e lm="ġenb" c="side" ><i>ġ</i><par n="d/enb__n_GD"/></e>
     <e lm="ingravata" c="tie" ><i>ingrava</i><par n="ingrava/ta__n_GD"/></e>
-    <e lm="tarbija" c="baby" ><i>t</i><par n="t/arbija__n_GD"/></e>
     <e lm="barmil" c="bucket" ><i>b</i><par n="b/armil__n_GD"/></e>
     <e lm="gorboġ" c="sty" ><i>g</i><par n="g/orboġ__n_GD"/></e>
     <e lm="xemx" c="sun" ><i>x</i><par n="x/emx__n_GD"/></e>
@@ -4539,7 +4322,6 @@
     <e lm="xaqq" c="crack" ><i>x</i><par n="x/aqq__n_GD"/></e>
     <e lm="serrieq" c="saw" ><i>s</i><par n="s/errieq__n_GD"/></e>
     <e lm="ċerva" c="deer" ><i>ċ</i><par n="ċ/erva__n_GD"/></e>
-    <e lm="leħen" c="voice" ><i>l</i><par n="l/eħen__n_GD"/></e>
     <e lm="farsa" c="farce" ><i>far</i><par n="far/sa__n_GD"/></e>
     <e lm="flixkun" c="bottle" ><i>fli</i><par n="fli/xkun__n_GD"/></e>
     <e lm="melħ" c="salt" ><i>m</i><par n="m/elħ__n_GD"/></e>
@@ -4567,7 +4349,6 @@
     <e lm="toqba" c="hole" ><i>toq</i><par n="toq/ba__n_GD"/></e>
     <e lm="martell" c="hammer" ><i>m</i><par n="m/artell__n_GD"/></e>
     <e lm="ħanek" c="gum" ><i>ħ</i><par n="ħ/anek__n_GD"/></e>
-    <e lm="knisja" c="church" ><i>kn</i><par n="kn/isja__n_GD"/></e>
     <e lm="ġakketta" c="jacket" ><i>ġ</i><par n="ġ/akketta__n_GD"/></e>
     <e lm="tajra" c="fowl" ><i>t</i><par n="t/ajra__n_GD"/></e>
     <e lm="ġummiena" c="tassell" ><i>ġ</i><par n="ġ/ummiena__n_GD"/></e>
@@ -4590,7 +4371,6 @@
     <e lm="għaġina" c="dough" ><i>għaġ</i><par n="għaġ/ina__n_GD"/></e>
     <e lm="qartalla" c="large wicker basket" ><i>q</i><par n="q/artalla__n_GD"/></e>
     <e lm="ħmar" c="donkey" ><i>ħm</i><par n="ħm/ar__n_GD"/></e>
-    <e lm="banda" c="side" ><i>b</i><par n="b/anda__n_GD"/></e>
     <e lm="bir" c="well" ><i>b</i><par n="b/ir__n_GD"/></e>
     <e lm="trinka" c="trench" ><i>trin</i><par n="tik/ka__n_GD"/></e>
     <e lm="ħalq" c="mouth" ><i>ħ</i><par n="ħ/alq__n_GD"/></e>
@@ -4600,9 +4380,8 @@
     <e lm="tazza" c="glass" ><i>taz</i><par n="maz/za__n_GD"/></e>
     <e lm="flotta" c="fleet" ><i>flot</i><par n="rot/ta__n_GD"/></e>
     <e lm="dgħajsa" c="boat" ><i>dgħaj</i><par n="dgħaj/sa__n_GD"/></e>
-    <e lm="flus" c="money" ><i>fl</i><par n="fl/us__n_GD"/></e>
+    <e lm="flus" c="money" ><i>fl</i><par n="fl/us__n_mf"/></e>
     <e lm="razzett" c="farm" ><i>r</i><par n="r/azzett__n_GD"/></e>
-    <e lm="qattus" c="cat" ><i>q</i><par n="q/attus__n_GD"/></e>
     <e lm="tajn" c="mud" ><i>t</i><par n="t/ajn__n_GD"/></e>
     <e lm="ċurkett" c="ring" ><i>ċ</i><par n="k/urkett__n_GD"/></e>
     <e lm="musrana" c="bowel" ><i>m</i><par n="m/usrana__n_GD"/></e>
@@ -4623,7 +4402,6 @@
     <e lm="doċċa" c="shower" ><i>doċ</i><par n="boċ/ċa__n_GD"/></e>
     <e lm="soppa" c="soup" ><i>sop</i><par n="sop/pa__n_GD"/></e>
     <e lm="setta" c="sect" ><i>set</i><par n="qat/ta__n_GD"/></e>
-    <e lm="belt" c="city" ><i>b</i><par n="b/elt__n_GD"/></e>
     <e lm="wiċċ" c="face" ><i></i><par n="/wiċċ__n_GD"/></e>
     <e lm="mappa" c="map" ><i>map</i><par n="xil/pa__n_GD"/></e>
     <e lm="ġilda" c="leather" ><i>ġ</i><par n="ġ/ilda__n_GD"/></e>
@@ -4638,7 +4416,6 @@
     <e lm="sengħa" c="craft" ><i>s</i><par n="s/engħa__n_GD"/></e>
     <e lm="serduq" c="cock" ><i>s</i><par n="s/erduq__n_GD"/></e>
     <e lm="lejl" c="night" ><i>l</i><par n="l/ejl__n_GD"/></e>
-    <e lm="storja" c="story" ><i>st</i><par n="st/orja__n_GD"/></e>
     <e lm="baqra" c="cow" ><i>baq</i><par n="lab/ra__n_GD"/></e>
     <e lm="qolla" c="type of jar" ><i>qol</i><par n="qol/la__n_GD"/></e>
     <e lm="ċoff" c="bow" ><i>ċ</i><par n="ċ/off__n_GD"/></e>
@@ -4670,7 +4447,7 @@
     <e lm="berġa" c="auberge" ><i>ber</i><par n="ber/ġa__n_GD"/></e>
     <e lm="sajf" c="summer" ><i>s</i><par n="s/ajf__n_GD"/></e>
     <e lm="ċint" c="parapet wall" ><i>ċ</i><par n="ċ/int__n_GD"/></e>
-    <e lm="gżira" c="island" ><i>gż</i><par n="gż/ira__n_GD"/></e>
+    <e lm="gżira" c="island" ><i>gż</i><par n="ft/ira__n_f"/></e>
     <e lm="xibka" c="fishing net" ><i>x</i><par n="x/ibka__n_GD"/></e>
     <e lm="fixxa" c="imitation coin" ><i>fix</i><par n="kax/xa__n_GD"/></e>
     <e lm="sidrija" c="waistcoat" ><i>s</i><par n="s/idrija__n_GD"/></e>
@@ -4684,11 +4461,10 @@
     <e lm="qanpiena" c="bell" ><i>q</i><par n="q/anpiena__n_GD"/></e>
     <e lm="ġiżirana" c="necklace" ><i>ġiżira</i><par n="ġiżira/na__n_GD"/></e>
     <e lm="kappell" c="hat" ><i>k</i><par n="k/appell__n_GD"/></e>
-    <e lm="kelma" c="word" ><i>k</i><par n="k/elma__n_GD"/></e>
     <e lm="gerżuma" c="throat" ><i>g</i><par n="g/erżuma__n_GD"/></e>
     <e lm="qarib" c="kindred" ><i>q</i><par n="q/arib__n_GD"/></e>
     <e lm="tarf" c="edge" ><i>t</i><par n="t/arf__n_GD"/></e>
-    <e lm="għadira" c="pool" ><i>għad</i><par n="ft/ira__n_GD"/></e>
+    <e lm="għadira" c="pool" ><i>għad</i><par n="ft/ira__n_f"/></e>
     <e lm="xewka" c="thorn" ><i>x</i><par n="x/ewka__n_GD"/></e>
     <e lm="saħħar" c="wizard" ><i>s</i><par n="s/aħħar__n_GD"/></e>
     <e lm="tentuxa" c="frayed thread" ><i>te</i><par n="te/ntuxa__n_GD"/></e>
@@ -5292,7 +5068,7 @@
     <e lm="Abela"><i>Abela</i><par n="Cervantes__np"/></e>
     <e lm="Caruana"><i>Caruana</i><par n="Cervantes__np"/></e>
     <e lm="Cassar"><i>Cassar</i><par n="Cervantes__np"/></e>
- 
+    <e lm="Mejlak"><i>Mejlak</i><par n="Cervantes__np"/></e>
 
     <e lm="von Neumann"><i>von<b/>Neumann</i><par n="Cervantes__np"/></e>
     <e lm="von Lobkowitz"><i>von<b/>Lobkowitz</i><par n="Cervantes__np"/></e>
@@ -5349,14 +5125,14 @@
     <e lm="kollha"><i>kollha</i><par n="kollha__adj"/></e>
     <e lm="istess"><i>istess</i><par n="kollha__adj"/></e>
 
-    <e lm="xiħ"><i>x</i><par n="x/iħ__adj"/></e>
+    <e lm="xiħ" c="old person"><i>x</i><par n="x/iħ__adj"/></e>
 
-    <e lm="kbir"><i>kb</i><par n="kb/ir__adj"/></e>
+    <e lm="kbir" c="big"><i>kb</i><par n="kb/ir__adj"/></e>
     <e lm="kbir"><p><l>akbar</l><r>kbir</r></p><par n="akbar__adj"/></e>
 
     <e lm="żgħir"><i>żgħ</i><par n="kb/ir__adj"/></e>
 
-    <e lm="fqir"><i>fq</i><par n="kb/ir__adj"/></e>
+    <e lm="fqir" c="poor" ><i>f</i><par n="f/qir__adj"/></e>
     <e lm="fqir"><p><l>ifqar</l><r>fqir</r></p><par n="akbar__adj"/></e>
 
     <e lm="tajjeb"><i>taj</i><par n="taj/jeb__adj"/></e>
@@ -5500,7 +5276,7 @@
     <e lm="Tibetan"><i>Tibetan</i><par n="reliġjuż__adj"/></e>
     <e lm="Pariġin"><i>Pariġin</i><par n="reliġjuż__adj"/></e>
     <e lm="Malti"><i>Malti</i><par n="Malti__adj"/></e>
-    <e lm="għarbi"><i>għarbi</i><par n="Malti__adj"/></e>
+    <e lm="għarbi" c="Arab"><i>għarbi</i><par n="Malti__adj"/></e>
 
     <e lm="barran"><i>barran</i><par n="barran__adj"/></e>
     <e lm="wiesgħa"><i>wiesgħ</i><par n="wiesgħ/a__adj"/></e>
@@ -5508,13 +5284,13 @@
 
     <e lm="kontemporanju"><i>kontemporanj</i><par n="kontemporanj/u__adj"/></e>
 
-    <e lm="abjad"><i></i><par n="/abjad__adj"/></e>
-    <e lm="artab"><i></i><par n="/artab__adj"/></e>
+    <e lm="abjad" c="white"><i></i><par n="/abjad__adj"/></e>
+    <e lm="artab" c="soft"><i></i><par n="/artab__adj"/></e>
     <e lm="aħdar"><i></i><par n="/aħdar__adj"/></e>
-    <e lm="aħmar"><i></i><par n="/aħmar__adj"/></e>
+    <e lm="aħmar" c="red"><i></i><par n="/aħmar__adj"/></e>
     <e lm="barrani"><i>barrani</i><par n="barrani__adj"/></e>
 
-    <e lm="dejjaq"><i>d</i><par n="d/ejjaq__adj"/></e>
+    <e lm="dejjaq" c="narrow"><i>d</i><par n="d/ejjaq__adj"/></e>
     <e lm="dejjaq"><p><l>idjaq</l><r>dejjaq</r></p><par n="akbar__adj"/></e>
 
     <e lm="dgħajjef"><i>dgħaj</i><par n="dgħaj/jef__adj"/></e>
@@ -5530,8 +5306,8 @@
 
     <e lm="iebes"><i>i</i><par n="i/ebes__adj"/></e>
     <e lm="imxarrab"><i>imxarr</i><par n="imxarr/ab__adj"/></e>
-    <e lm="isfar"><i></i><par n="/isfar__adj"/></e>
-    <e lm="iswed"><i></i><par n="/iswed__adj"/></e>
+    <e lm="isfar" c="yellow"><i></i><par n="/isfar__adj"/></e>
+    <e lm="iswed" c="black"><i></i><par n="/iswed__adj"/></e>
     <e lm="kwadru"><i>kwadr</i><par n="kwadr/u__adj"/></e>
     <e lm="kwiet"><i>kwiet</i><par n="griż__adj"/></e>
     <e lm="maħmuġ"><i>maħmuġ</i><par n="maħmuġ__adj"/></e>
@@ -5539,22 +5315,22 @@
     <e lm="mielaħ"><i>miel</i><par n="miel/aħ__adj"/></e>
     <e lm="morr"><i>morr</i><par n="griż__adj"/></e>
     <e lm="mudlam"><i>mudlam</i><par n="vojt__adj"/></e>
-    <e lm="nadif"><i>n</i><par n="n/adif__adj"/></e>
+    <e lm="nadif" c="clean"><i>n</i><par n="n/adif__adj"/></e>
     <e lm="oħxon"><i>o</i><par n="o/ħxon__adj"/></e>
-    <e lm="qadim"><i>q</i><par n="q/adim__adj"/></e>
+    <e lm="qadim" c="old"><i>q</i><par n="q/adim__adj"/></e>
     <e lm="qares"><i>qar</i><par n="qar/es__adj"/></e>
 
-    <e lm="qasir"><i>q</i><par n="q/asir__adj"/></e>
+    <e lm="qasir" c="short"><i>q</i><par n="q/asir__adj"/></e>
     <e lm="qasir"><p><l>iqsar</l><r>qasir</r></p><par n="akbar__adj"/></e>
 
     <e lm="qawwi"><i>qawwi</i><par n="qawwi__adj"/></e>
     <e lm="qawwi"><p><l>aqwa</l><r>qawwi</r></p><par n="akbar__adj"/></e>
 
     <e lm="rqiq"><i>rq</i><par n="rq/iq__adj"/></e>
-    <e lm="rħis"><i>rħ</i><par n="rħ/is__adj"/></e>
+    <e lm="rħis" c="cheap"><i>rħ</i><par n="rħ/is__adj"/></e>
     <e lm="storbjuż"><i>storbjuż</i><par n="griż__adj"/></e>
-    <e lm="sħiħ"><i>sħ</i><par n="sħ/iħ__adj"/></e>
-    <e lm="tqil"><i>tq</i><par n="tq/il__adj"/></e>
+    <e lm="sħiħ" c="whole"><i>sħ</i><par n="sħ/iħ__adj"/></e>
+    <e lm="tqil" c="heavy"><i>tq</i><par n="tq/il__adj"/></e>
     <e lm="twil"><i>tw</i><par n="tq/il__adj"/></e>
     <e lm="vojt"><i>vojt</i><par n="vojt__adj"/></e>
     <e lm="ġdid"><i>ġ</i><par n="ġ/did__adj"/></e>
@@ -5824,37 +5600,21 @@
     <!-- Broken plural adjectives -->
     <e lm="falz" c="FALSE" ><i>f</i><par n="f/alz__adj_GD"/></e>
     <e lm="baħnan" c="fool" ><i>b</i><par n="b/aħnan__adj_GD"/></e>
-    <e lm="aħdar" c="green" ><i></i><par n="/aħdar__adj_GD"/></e>
-    <e lm="tqil" c="heavy" ><i>tq</i><par n="tw/il__adj_GD"/></e>
     <e lm="għani" c="rich" ><i>għ</i><par n="għ/ani__adj_GD"/></e>
     <e lm="ċuċ" c="idiot" ><i>ċ</i><par n="ċ/uċ__adj_GD"/></e>
-    <e lm="rqiq" c="thin" ><i>rq</i><par n="rq/iq__adj_GD"/></e>
-    <e lm="isfar" c="yellow" ><i></i><par n="/isfar__adj_GD"/></e>
     <e lm="blokka" c="lump" ><i>blok</i><par n="blok/ka__adj_GD"/></e>
-    <e lm="dejjaq" c="narrow" ><i>d</i><par n="d/ejjaq__adj_GD"/></e>
-    <e lm="xħiħ" c="greedy" ><i>xħ</i><par n="xħ/iħ__adj_GD"/></e>
-    <e lm="rħis" c="cheap" ><i>rħ</i><par n="rħ/is__adj_GD"/></e>
-    <e lm="iswed" c="black" ><i></i><par n="/iswed__adj_GD"/></e>
+    <e lm="xħiħ" c="greedy" ><i>sħ</i><par n="sħ/iħ__adj"/></e>
     <e lm="ħobla" c="pregnant" ><i>ħ</i><par n="ħ/obla__adj_GD"/></e>
     <e lm="qalil" c="fierce" ><i>q</i><par n="q/alil__adj_GD"/></e>
     <e lm="stalla" c="stable" ><i>stal</i><par n="stal/la__adj_GD"/></e>
     <e lm="ġdid" c="new" ><i>ġ</i><par n="ġ/did__adj_GD"/></e>
-    <e lm="qadim" c="old" ><i>q</i><par n="q/adim__adj_GD"/></e>
-    <e lm="nadif" c="clean" ><i>n</i><par n="n/adif__adj_GD"/></e>
     <e lm="sabiħ" c="beautiful" ><i>s</i><par n="s/abiħ__adj_GD"/></e>
     <e lm="sħun" c="hot" ><i>sħ</i><par n="sħ/un__adj_GD"/></e>
     <e lm="serkin" c="sulky" ><i>s</i><par n="s/erkin__adj_GD"/></e>
-    <e lm="qasir" c="short" ><i>q</i><par n="q/asir__adj_GD"/></e>
-    <e lm="artab" c="soft" ><i></i><par n="/artab__adj_GD"/></e>
-    <e lm="żgħir" c="small" ><i>żgħ</i><par n="kb/ir__adj_GD"/></e>
-    <e lm="twil" c="tall" ><i>tw</i><par n="tw/il__adj_GD"/></e>
-    <e lm="fqir" c="poor" ><i>f</i><par n="f/qir__adj_GD"/></e>
+    <e lm="żgħir" c="small" ><i>żgħ</i><par n="kb/ir__adj"/></e>
+    <e lm="twil" c="tall" ><i>tw</i><par n="tq/il__adj"/></e>
     <e lm="darsa" c="molar" ><i>d</i><par n="d/arsa__adj_GD"/></e>
     <e lm="ħażin" c="bad" ><i>ħ</i><par n="ħ/ażin__adj_GD"/></e>
-    <e lm="abjad" c="white" ><i></i><par n="/abjad__adj_GD"/></e>
-    <e lm="aħmar" c="red" ><i></i><par n="/aħmar__adj_GD"/></e>
-    <e lm="sħiħ" c="whole" ><i>sħ</i><par n="xħ/iħ__adj_GD"/></e>
-    <e lm="kbir" c="big" ><i>kb</i><par n="kb/ir__adj_GD"/></e>
     <e lm="ferq" c="parting" ><i>f</i><par n="f/erq__adj_GD"/></e>
     <e lm="nisrani" c="christian" ><i>n</i><par n="n/israni__adj_GD"/></e>
 
