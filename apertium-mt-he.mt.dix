@@ -456,6 +456,7 @@
   <pardef n="is/em__n_m">
     <e><p><l>em</l><r>em<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>emm</l><r>em<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="S__isem"/></e>
+    <e r="LR"><p><l>m</l><r>em<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="S__dar"/></e>
     <e><p><l>mijiet</l><r>em<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e><p><l>mijiet</l><r>em<s n="n"/><s n="m"/><s n="pl"/></r></p><par n="S__dar"/></e>
   </pardef>
@@ -489,11 +490,11 @@
     <e><p><l>ijiet</l><r><s n="n"/><s n="f"/><s n="pl"/></r></p><par n="S__dar"/></e>
   </pardef>
 
-  <pardef n="missier__n_m">
-    <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/></r></p></e>
-    <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/></r></p><par n="S__dar"/></e>
-    <e><p><l>ijiet</l><r><s n="n"/><s n="m"/><s n="pl"/></r></p></e>
-    <e><p><l>ijiet</l><r><s n="n"/><s n="m"/><s n="pl"/></r></p><par n="S__dar"/></e>
+  <pardef n="missi/er__n_m">
+    <e><p><l>er</l><r>er<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>er</l><r>er<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="S__dar"/></e>
+    <e><p><l>rijiet</l><r>er<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+    <e><p><l>rijiet</l><r>er<s n="n"/><s n="m"/><s n="pl"/></r></p><par n="S__dar"/></e>
   </pardef>
 
   <pardef n="q/alb__n_m">
@@ -561,12 +562,12 @@
     <e><p><l></l><r><s n="n"/><s n="mf"/><s n="pl"/></r></p><par n="S__dar"/></e>
   </pardef>
 
+  <!-- ****************** Completed paradigms above this line ****************** -->
+
   <pardef n="d/awl__n_m">
     <e><p><l>awl</l><r>awl<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>wal</l><r>awl<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
   </pardef>
-
-  <!-- ****************** Completed paradigms above this line ****************** -->
 
   <pardef n="gram/afown__n">
     <e><p><l>afown</l><r>afown<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
@@ -577,6 +578,12 @@
     <e><p><l>ena</l><r>ena<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>nin</l><r>ena<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e><p><l>nin</l><r>ena<s n="n"/><s n="f"/><s n="pl"/></r></p><par n="S__dar"/></e>
+  </pardef>
+
+  <pardef n="pajjiż__n_m">
+    <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/></r></p><par n="S__dar"/></e>
+    <e><p><l>i</l><r><s n="n"/><s n="m"/><s n="pl"/></r></p></e>
   </pardef>
 
   <pardef n="/mara__n">
@@ -1402,6 +1409,7 @@
     <e lm="iskola" c="school" r="LR"><p><l>sk</l><r>isk</r></p><par n="isk/ola__n_f"/></e>
 
 
+    <e lm="solidarjetà"><i>solidarjet</i><par n="entit/à__n_f"/></e>
     <e lm="entità"><i>entit</i><par n="entit/à__n_f"/></e>
     <e lm="possibilità"><i>possibilit</i><par n="entit/à__n_f"/></e>
     <e lm="diffikultà"><i>diffikult</i><par n="entit/à__n_f"/></e>
@@ -1567,6 +1575,9 @@
     <e lm="dawl"><i>d</i><par n="d/awl__n_m"/></e>
 
     <e lm="trattament"><i>trattament</i><par n="moviment__n_m"/></e>
+    <e lm="appartament"><i>appartament</i><par n="moviment__n_m"/></e>
+    <e lm="aġġornament"><i>aġġornament</i><par n="moviment__n_m"/></e>
+    <e lm="bastiment" c="building?"><i>bastiment</i><par n="moviment__n_m"/></e>
     <e lm="korp"><i>korp</i><par n="moviment__n_m"/></e>
     <e lm="parlament"><i>parlament</i><par n="moviment__n_m"/></e>
     <e lm="president"><i>president</i><par n="moviment__n_m"/></e>
@@ -1602,14 +1613,16 @@
     <e lm="knisja" c="church"><i>kn</i><par n="kn/isja__n"/></e>
 
     <e lm="imħabba"><i>imħabba</i><par n="molestja__n"/></e> <!-- no pl? -->
+    <e lm="internet"><i>internet</i><par n="molestja__n"/></e> <!-- verify gender; 'internet użata' -->
     <e lm="molestja"><i>molestja</i><par n="molestja__n"/></e> <!-- verify gender -->
     <e lm="tniġġis"><i>tniġġis</i><par n="tniġġis__n"/></e> <!-- verify gender -->
     <e lm="futbol"><i>futbol</i><par n="tniġġis__n"/></e> <!-- no pl?-->
-    <e lm="mużika"><i>mużika</i><par n="tniġġis__n"/></e> <!-- no pl?-->
-    <e lm="istorja"><i>istorja</i><par n="tniġġis__n"/></e> <!-- no pl?-->
-    <e lm="ilma" c="water"><i>ilma</i><par n="tniġġis__n"/></e> <!-- no pl?-->
+    <e lm="mużika"><i>mużika</i><par n="molestja__n"/></e> <!-- no pl?-->
+    <e lm="istorja"><i>istorja</i><par n="molestja__n"/></e> <!-- no pl?-->
+    <e lm="ilma" c="water"><i>ilma</i><par n="molestja__n"/></e> <!-- no pl?-->
 
     <e lm="proposta"><i>propost</i><par n="propost/a__n_f"/></e>
+    <e lm="maratona"><i>maraton</i><par n="propost/a__n_f"/></e>
     <e lm="ittra"><i>ittr</i><par n="propost/a__n_f"/></e>
     <e lm="persuna"><i>persun</i><par n="propost/a__n_f"/></e>
     <e lm="partita"><i>partit</i><par n="propost/a__n_f"/></e>
@@ -1677,9 +1690,8 @@
     <e lm="annimal"><i>annimal</i><par n="moviment__n_m"/></e>
     <e lm="ġurnalist"><i>ġurnalist</i><par n="moviment__n_m"/></e>
     <e lm="vjal"><i>vjal</i><par n="moviment__n_m"/></e>
-    <e lm="pajjiż"><i>pajjiż</i><par n="moviment__n_m"/></e>
+    <e lm="pajjiż"><i>pajjiż</i><par n="pajjiż__n_m"/></e>
     <e lm="kanzunetta"><i>kanzunett</i><par n="propost/a__n_f"/></e>
-    <e lm="pajjiż"><i>pajjiż</i><par n="moviment__n_m"/></e>
     <e lm="pjaneta"><i>pjanet</i><par n="pjanet/a__n_m"/></e>
     <e lm="lingwa"><i>lingw</i><par n="propost/a__n_f"/></e>
     <e lm="qalb"><i>q</i><par n="q/alb__n_m"/></e>
@@ -1881,7 +1893,7 @@
     <e lm="astroloġija"><i>astroloġija</i><par n="oxx__n_f"/></e>
     <e lm="anġlu"><i>anġlu</i><par n="Ċek__n_m"/></e>
 
-    <e lm="missier"><i>missier</i><par n="missier__n_m"/></e>
+    <e lm="missier"><i>missi</i><par n="missi/er__n_m"/></e>
     <e lm="intervista"><i>intervist</i><par n="propost/a__n_f"/></e>
 
     <e lm="sultan"><i>s</i><par n="s/ultan__n"/></e>
@@ -2253,6 +2265,7 @@
 
     <e lm="Għawdex"><i>Għawdex</i><par n="Malta__np"/></e> <!-- TODO: check gender -->
     <e lm="Ċina"><i>Ċina</i><par n="Malta__np"/></e>
+    <e lm="Varsavja"><i>Varsavja</i><par n="Malta__np"/></e>
     <e lm="Angola"><i>Angola</i><par n="Malta__np"/></e>
     <e lm="Valletta"><i>Valletta</i><par n="Malta__np"/></e>
     <e lm="Malta"><i>Malta</i><par n="Malta__np"/></e>
@@ -2461,6 +2474,7 @@
     <e lm="Marija"><i>Marija</i><par n="Marija__np"/></e>
     <e lm="Tereża"><i>Tereża</i><par n="Marija__np"/></e>
 
+    <e lm="Eva"><i>Eva</i><par n="Marija__np"/></e>
     <e lm="Anna"><i>Anna</i><par n="Marija__np"/></e>
     <e lm="Antoine"><i>Antoine</i><par n="Marija__np"/></e>
     <e lm="Giovanna"><i>Giovanna</i><par n="Marija__np"/></e>
@@ -3287,6 +3301,10 @@
     <e lm="speċjali"><i>speċjali</i><par n="differenti__adj"/></e>
     <e lm="spiritwali"><i>spiritwali</i><par n="differenti__adj"/></e>
     <e lm="tradizzjonali"><i>tradizzjonali</i><par n="differenti__adj"/></e>
+    <e lm="uffiċjali"><i>uffiċjali</i><par n="differenti__adj"/></e>
+    <e lm="illegali"><i>illegali</i><par n="differenti__adj"/></e>
+    <e lm="kontroversjali"><i>kontroversjali</i><par n="differenti__adj"/></e>
+    <e lm="interessanti"><i>interessanti</i><par n="differenti__adj"/></e>
 
 
 
@@ -3412,6 +3430,8 @@
 
     <e lm="astronomikament"><i>astronomikament</i><par n="immedjatament__adv"/></e>
     <e lm="direttament"><i>direttament</i><par n="immedjatament__adv"/></e>
+    <e lm="assolutament"><i>assolutament</i><par n="immedjatament__adv"/></e>
+    <e lm="prattikament"><i>prattikament</i><par n="immedjatament__adv"/></e>
     <e lm="eżattament"><i>eżattament</i><par n="immedjatament__adv"/></e>
     <e lm="immedjatament"><i>immedjatament</i><par n="immedjatament__adv"/></e>
     <e lm="oriġinarjament"><i>oriġinarjament</i><par n="immedjatament__adv"/></e>
@@ -3894,6 +3914,15 @@
     <e lm="minna" r="LR"><p><l>minna</l><r>minn<s n="pr"/><j/>na<s n="prn"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
     <e lm="minnkom" r="LR"><p><l>minnkom</l><r>minn<s n="pr"/><j/>kom<s n="prn"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p></e>
     <e lm="minnhom" r="LR"><p><l>minnhom</l><r>minn<s n="pr"/><j/>hom<s n="prn"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
+
+    <e lm="fuqi" r="LR"><p><l>fuqi</l><r>fuq<s n="pr"/><j/>i<s n="prn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e lm="fuqek" r="LR"><p><l>fuqek</l><r>fuq<s n="pr"/><j/>ek<s n="prn"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e lm="fuqu" r="LR"><p><l>fuqu</l><r>fuq<s n="pr"/><j/>u<s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="fuqha" r="LR"><p><l>fuqha</l><r>fuq<s n="pr"/><j/>ha<s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="fuqa" r="LR"><p><l>fuqa</l><r>fuq<s n="pr"/><j/>na<s n="prn"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
+    <e lm="fuqkom" r="LR"><p><l>fuqkom</l><r>fuq<s n="pr"/><j/>kom<s n="prn"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p></e>
+    <e lm="fuqhom" r="LR"><p><l>fuqhom</l><r>fuq<s n="pr"/><j/>hom<s n="prn"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
+
 
     <!-- TODO: We need to keep a close eye on these forms -->
     <e lm="lili" r="LR"><p><l>ili</l><r>lil<s n="pr"/><j/>i<s n="prn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
