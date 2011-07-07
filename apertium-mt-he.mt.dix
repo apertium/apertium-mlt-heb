@@ -1919,7 +1919,8 @@
     <e lm="ghaqda"><i>ghaqd</i><par n="sħubij/a__n_f"/></e>
     <e lm="gost"><i>gost</i><par n="moviment__n_m"/></e>
     <e lm="gwardjan"><i>gwardjan</i><par n="moviment__n_m"/></e>
-    <e lm="immigranta"><i>immigrant</i><par n="propost/a__n_f"/></e>
+    <e lm="immigranta"><i>immigrant</i><par n="propost/a__n_f"/></e> <!-- TODO: check, adj form ?-->
+    <e lm="immigrant"><i>immigrant</i><par n="moviment__n_m"/></e>
     <e lm="impatt"><i>impatt</i><par n="moviment__n_m"/></e>
     <e lm="imperatur"><i>imperatur</i><par n="moviment__n_m"/></e>
     <e lm="intervent"><i>intervent</i><par n="moviment__n_m"/></e>
@@ -1973,11 +1974,11 @@
     <e lm="prodott"><i>prodott</i><par n="moviment__n_m"/></e>
     <e lm="pubblikazzjoni"><i>pubblikazzjoni</i><par n="unjoni__n_f"/></e>
     <e lm="qawwa"><i>qaww</i><par n="sħubij/a__n_f"/></e>
-    <e lm="raguni"><i>raguni</i><par n="unjoni__n_f"/></e>
+    <e lm="raġuni"><i>raġuni</i><par n="unjoni__n_f"/></e>
     <e lm="rapport"><i>rapport</i><par n="moviment__n_m"/></e>
     <e lm="regola"><i>regol</i><par n="propost/a__n_f"/></e>
     <e lm="repubblika"><i>repubblik</i><par n="propost/a__n_f"/></e>
-    <e lm="ricerka"><i>ricerk</i><par n="propost/a__n_f"/></e>
+    <e lm="riċerka"><i>riċerk</i><par n="propost/a__n_f"/></e>
     <e lm="riforma"><i>riform</i><par n="propost/a__n_f"/></e>
     <e lm="riskju"><i>riskj</i><par n="buff/u__n_m"/></e>
     <e lm="ritratt"><i>ritratt</i><par n="moviment__n_m"/></e>
