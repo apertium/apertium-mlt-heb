@@ -50,9 +50,9 @@ def past_p3_m_sg(stem, root, vowels):
 	return sp
 	
 def past_p3_f_sg(stem, root, vowels):
-	form = root[0] + vowels[0] + root[1] + root[2]
+	form = root[0] + root[1] + vowels[0] + root[2]
 	sp = add_probjs('past.p3.f.sg', form + 'et')
-	# kiteb; kitbet; past.p3.f.sg; vblex
+	# xtaq; xtaqet; past.p3.f.sg; vblex
 	sp['past.p3.f.sg'] = form + 'et' # not vowels[1]+'t' ?
 	return sp
 
