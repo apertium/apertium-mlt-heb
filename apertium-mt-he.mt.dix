@@ -3115,6 +3115,7 @@
     <e lm="biex"><i>biex</i><par n="li__cnjsub"/></e>
     <e lm="kieku"><i>kieku</i><par n="li__cnjsub"/></e>
     <e lm="sabiex"><i>sabiex</i><par n="li__cnjsub"/></e>
+    <e lm="però"><i>però</i><par n="li__cnjsub"/></e> <!-- TODO: check -->
     <e lm="minkejja li" c="although"><i>minkeijja<b/>li</i><par n="li__cnjsub"/></e>
     <e lm="minkejja" c="despite"><i>minkeijja</i><par n="li__cnjsub"/></e>
 
@@ -3318,6 +3319,8 @@
     <e lm="solidarjetà"><i>solidarjet</i><par n="entit/à__n_f"/></e>
     <e lm="entità"><i>entit</i><par n="entit/à__n_f"/></e>
     <e lm="possibilità"><i>possibilit</i><par n="entit/à__n_f"/></e>
+    <e lm="possibilità" r="LR"><p><l>possibbilt</l><r>possibilit</r></p><par n="entit/à__n_f"/></e>
+    <e lm="possibilità" r="LR"><p><l>possibilt</l><r>possibilit</r></p><par n="entit/à__n_f"/></e>
     <e lm="diffikultà"><i>diffikult</i><par n="entit/à__n_f"/></e>
     <e lm="abilità"><i>abilit</i><par n="entit/à__n_f"/></e>
     <e lm="attività"><i>attivit</i><par n="entit/à__n_f"/></e>
@@ -3480,6 +3483,8 @@
     <e lm="dawl"><i>d</i><par n="d/awl__n_m"/></e>
 
     <e lm="trattament"><i>trattament</i><par n="moviment__n_m"/></e>
+    <e lm="delegat"><i>delegat</i><par n="moviment__n_m"/></e>
+    <e lm="strument" c="instrument"><i>strument</i><par n="moviment__n_m"/></e>
     <e lm="appartament"><i>appartament</i><par n="moviment__n_m"/></e>
     <e lm="aġġornament"><i>aġġornament</i><par n="moviment__n_m"/></e>
     <e lm="bastiment" c="building?"><i>bastiment</i><par n="moviment__n_m"/></e>
@@ -3525,6 +3530,7 @@
     <e lm="mużika"><i>mużika</i><par n="molestja__n"/></e> <!-- no pl?-->
     <e lm="istorja"><i>istorja</i><par n="molestja__n"/></e> <!-- no pl?-->
     <e lm="ilma" c="water"><i>ilma</i><par n="molestja__n"/></e> <!-- no pl?-->
+    <e lm="ġustizzja" c="justice"><i>ġustizzja</i><par n="molestja__n"/></e> <!-- no pl?-->
 
     <e lm="proposta"><i>propost</i><par n="propost/a__n_f"/></e>
     <e lm="maratona"><i>maraton</i><par n="propost/a__n_f"/></e>
@@ -4810,6 +4816,7 @@
 
     <e lm="Cape Town"><i>Cape<b/>Town</i><par n="Tibet__np"/></e>
     <e lm="Ġerusalemm"><i>Ġerusalemm</i><par n="Tibet__np"/></e>
+    <e lm="Zurrieq"><i>Zurrieq</i><par n="Tibet__np"/></e>
     <e lm="Bejġing"><i>Bejġing</i><par n="Tibet__np"/></e>
     <e lm="San Pietruburgu"><i>San<b/>Pietruburgu</i><par n="Tibet__np"/></e>
     <e lm="Tibet"><i>Tibet</i><par n="Tibet__np"/></e>
@@ -5146,6 +5153,7 @@
     <e lm="Fenech"><i>Fenech</i><par n="Cervantes__np"/></e>
     <e lm="Bonnici"><i>Bonnici</i><par n="Cervantes__np"/></e>
     <e lm="Zammit"><i>Zammit</i><par n="Cervantes__np"/></e>
+    <e lm="Sammut"><i>Sammut</i><par n="Cervantes__np"/></e>
     <e lm="Ellis"><i>Ellis</i><par n="Cervantes__np"/></e>
     <e lm="Beethoven"><i>Beethoven</i><par n="Cervantes__np"/></e>
     <e lm="Best"><i>Best</i><par n="Cervantes__np"/></e>
@@ -5307,8 +5315,9 @@
     <e lm="Facebook"><i>Facebook</i><par n="San__np"/></e>
     <e lm="Google"><i>Google</i><par n="San__np"/></e>
     <e lm="PN"><i>PN</i><par n="San__np"/></e>
+    <e lm="PL"><i>PL</i><par n="San__np"/></e> <!-- Partit Laburista -->
     <e lm="MLP"><i>MLP</i><par n="San__np"/></e>
-    <e lm="FAM"><i>MLP</i><par n="San__np"/></e> <!-- Forzi Armati ta' Malta -->
+    <e lm="FAM"><i>FAM</i><par n="San__np"/></e> <!-- Forzi Armati ta' Malta -->
     <e lm="MFA"><i>MFA</i><par n="San__np"/></e> <!-- Malta Football Association  -->
     <e lm="MEPA"><i>MEPA</i><par n="San__np"/></e> <!-- Malta Environment and Planning Authority -->
     <e lm="GWU"><i>GWU</i><par n="San__np"/></e> <!-- General Workers Union -->
@@ -5319,6 +5328,10 @@
     <e lm="GRTU"><i>GRTU</i><par n="San__np"/></e> <!-- General Retailers and Traders Union -->
     <e lm="ALE"><i>ALE</i><par n="San__np"/></e> <!-- Administrative Law Enforcement -->
     <e lm="UEFA"><i>UEFA</i><par n="San__np"/></e>
+    <e lm="UE"><i>UE</i><par n="San__np"/></e> <!-- Unjoni Ewropea -->
+    <e lm="AD"><i>AD</i><par n="San__np"/></e> <!-- Alternattiva Demokratika -->
+    <e lm="Alternattiva Demokratika"><i>Alternattiva<b/>Demokratika</i><par n="San__np"/></e>
+    <e lm="The Green Party"><i>The<b/>Green<b/>Party</i><par n="San__np"/></e>
     <e lm="FIFA"><i>FIFA</i><par n="San__np"/></e>
     <e lm="Il-Ġens"><i>Il-Ġens</i><par n="San__np"/></e>
     <e lm="Partit Nazzjonalista"><i>Partit<b/>Nazzjonalista</i><par n="San__np"/></e>
@@ -5721,6 +5734,7 @@
 
     <e lm="differenti"><i>differenti</i><par n="differenti__adj"/></e>
     <e lm="nazzjonali"><i>nazzjonali</i><par n="differenti__adj"/></e>
+    <e lm="trijonfali"><i>trijonfali</i><par n="differenti__adj"/></e>
     <e lm="ġenerali"><i>ġenerali</i><par n="differenti__adj"/></e>
     <e lm="oriġinali"><i>oriġinali</i><par n="differenti__adj"/></e>
     <e lm="internazzjonali"><i>internazzjonali</i><par n="differenti__adj"/></e>
@@ -14735,6 +14749,47 @@
     <e r="LR"><p><l>jridux</l>	<r>ried<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
     <e r="RL"><p><l><a/>iridu</l>	<r>ried<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
     <e r="RL"><p><l><a/>iridux</l>	<r>ried<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+
+    <e><p><l>fissru</l>	<r>fisser<s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
+    <e><p><l>fissrux</l>	<r>fisser<s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>fisser</l>	<r>fisser<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
+    <e><p><l>fisserx</l>	<r>fisser<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>fisser</l>	<r>fisser<s n="vblex"/><s n="inf"/></r></p></e>
+    <e><p><l>fisserx</l>	<r>fisser<s n="vblex"/><s n="inf"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>fissirna</l>	<r>fisser<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+    <e><p><l>fissirnax</l>	<r>fisser<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>fissirt</l>	<r>fisser<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+    <e><p><l>fissirtx</l>	<r>fisser<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>fissurtu</l>	<r>fisser<s n="vblex"/><s n="past"/><s n="p2"/><s n="pl"/></r></p></e>
+    <e><p><l>fissurtux</l>	<r>fisser<s n="vblex"/><s n="past"/><s n="p2"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>fissirt</l>	<r>fisser<s n="vblex"/><s n="past"/><s n="p2"/><s n="sg"/></r></p></e>
+    <e><p><l>fissirtx</l>	<r>fisser<s n="vblex"/><s n="past"/><s n="p2"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>fissret</l>	<r>fisser<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>fissretx</l>	<r>fisser<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>fisser</l>	<r>fisser<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>fisserx</l>	<r>fisser<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>fissru</l>	<r>fisser<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/></r></p></e>
+    <e><p><l>fissrux</l>	<r>fisser<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>imfissra</l>	<r>fisser<s n="vblex"/><s n="pp"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>imfissrax</l>	<r>fisser<s n="vblex"/><s n="pp"/><s n="f"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>imfisser</l>	<r>fisser<s n="vblex"/><s n="pp"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>imfisserx</l>	<r>fisser<s n="vblex"/><s n="pp"/><s n="m"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>imfissrin</l>	<r>fisser<s n="vblex"/><s n="pp"/><s n="pl"/></r></p></e>
+    <e><p><l>imfissrinx</l>	<r>fisser<s n="vblex"/><s n="pp"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>nfissru</l>	<r>fisser<s n="vblex"/><s n="pres"/><s n="p1"/><s n="pl"/></r></p></e>
+    <e><p><l>nfissrux</l>	<r>fisser<s n="vblex"/><s n="pres"/><s n="p1"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>nfisser</l>	<r>fisser<s n="vblex"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
+    <e><p><l>nfisserx</l>	<r>fisser<s n="vblex"/><s n="pres"/><s n="p1"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>tfissru</l>	<r>fisser<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/></r></p></e>
+    <e><p><l>tfissrux</l>	<r>fisser<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>tfisser</l>	<r>fisser<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
+    <e><p><l>tfisserx</l>	<r>fisser<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>tfisser</l>	<r>fisser<s n="vblex"/><s n="pres"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>tfisserx</l>	<r>fisser<s n="vblex"/><s n="pres"/><s n="p3"/><s n="f"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>jfisser</l>	<r>fisser<s n="vblex"/><s n="pres"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>jfisserx</l>	<r>fisser<s n="vblex"/><s n="pres"/><s n="p3"/><s n="m"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>jfissru</l>	<r>fisser<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
+    <e><p><l>jfissrux</l>	<r>fisser<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
 
 
 
