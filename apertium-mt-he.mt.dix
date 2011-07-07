@@ -699,11 +699,11 @@
     <e><p><l>ejjes</l><r>isja<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
   </pardef>
 
-  <pardef n="molestja__n"> <!-- mass noun, f -->
+  <pardef n="molestja__n_f"> <!-- mass noun, f -->
     <e><p><l></l><r><s n="n"/><s n="f"/><s n="sg"/></r></p></e>
   </pardef>
 
-  <pardef n="tniġġis__n"> <!-- mass noun, m -->
+  <pardef n="tniġġis__n_m"> <!-- mass noun, m -->
     <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/></r></p></e>
   </pardef>
 
@@ -3339,6 +3339,7 @@
     <e lm="resident"><i>resident</i><par n="protestant__n"/></e>
     <e lm="aċċess"><i>aċċess</i><par n="protestant__n"/></e>
     <e lm="protest"><i>protest</i><par n="protestant__n"/></e>
+    <e lm="accident"><i>accident</i><par n="protestant__n"/></e>
 
     <e lm="grupp" c="group"><i>grupp</i><par n="moviment__n_m"/></e>
     <e lm="programm" c="programm"><i>programm</i><par n="moviment__n_m"/></e>
@@ -3352,15 +3353,17 @@
 
     <e lm="knisja" c="church"><i>kn</i><par n="kn/isja__n"/></e>
 
-    <e lm="imħabba"><i>imħabba</i><par n="molestja__n"/></e> <!-- no pl? -->
-    <e lm="internet"><i>internet</i><par n="molestja__n"/></e> <!-- verify gender; 'internet użata' -->
-    <e lm="molestja"><i>molestja</i><par n="molestja__n"/></e> <!-- verify gender -->
-    <e lm="tniġġis"><i>tniġġis</i><par n="tniġġis__n"/></e> <!-- verify gender -->
-    <e lm="futbol"><i>futbol</i><par n="tniġġis__n"/></e> <!-- no pl?-->
-    <e lm="mużika"><i>mużika</i><par n="molestja__n"/></e> <!-- no pl?-->
-    <e lm="istorja"><i>istorja</i><par n="molestja__n"/></e> <!-- no pl?-->
-    <e lm="ilma" c="water"><i>ilma</i><par n="molestja__n"/></e> <!-- no pl?-->
-    <e lm="ġustizzja" c="justice"><i>ġustizzja</i><par n="molestja__n"/></e> <!-- no pl?-->
+    <e lm="imħabba"><i>imħabba</i><par n="molestja__n_f"/></e> <!-- no pl? -->
+    <e lm="internet"><i>internet</i><par n="molestja__n_f"/></e> <!-- verify gender; 'internet użata' -->
+    <e lm="molestja"><i>molestja</i><par n="molestja__n_f"/></e> <!-- verify gender -->
+    <e lm="tniġġis"><i>tniġġis</i><par n="tniġġis__n_m"/></e> <!-- verify gender -->
+    <e lm="futbol"><i>futbol</i><par n="tniġġis__n_m"/></e> <!-- no pl?-->
+    <e lm="mużika"><i>mużika</i><par n="molestja__n_f"/></e> <!-- no pl?-->
+    <e lm="istorja"><i>istorja</i><par n="molestja__n_f"/></e> <!-- no pl?-->
+    <e lm="ilma" c="water"><i>ilma</i><par n="molestja__n_f"/></e> <!-- no pl?-->
+    <e lm="ġustizzja" c="justice"><i>ġustizzja</i><par n="molestja__n_f"/></e> <!-- no pl?-->
+    <e lm="letteratura" c="literature"><i>letteratura</i><par n="molestja__n_f"/></e> <!-- no pl?-->
+    <e lm="ekonomija" c="economy"><i>ekonomija</i><par n="molestja__n_f"/></e> <!-- no pl?-->
 
     <e lm="proposta"><i>propost</i><par n="propost/a__n_f"/></e>
     <e lm="maratona"><i>maraton</i><par n="propost/a__n_f"/></e>
@@ -3397,19 +3400,19 @@
     <e lm="għibien"><i>għ</i><par n="għ/ibien__n"/></e>
 
     <!-- TODO: check gender for months, and are there plurals? -->
-    <e lm="jannar" c="january"><i>jannar</i><par n="tniġġis__n"/></e>
-    <e lm="frar" c="february"><i>frar</i><par n="tniġġis__n"/></e>
-    <e lm="marzu" c="march"><i>marzu</i><par n="tniġġis__n"/></e>
-    <e lm="april" c="april"><i>april</i><par n="tniġġis__n"/></e>
-    <e lm="mejju" c="may"><i>mejju</i><par n="tniġġis__n"/></e>
-    <e lm="ġunju" c="june"><i>ġunju</i><par n="tniġġis__n"/></e>
-    <e lm="july" c="july"><i>july</i><par n="tniġġis__n"/></e>
-    <e lm="lulju" c="july"><i>lulju</i><par n="tniġġis__n"/></e>
-    <e lm="awwissu" c="august"><i>awwissu</i><par n="tniġġis__n"/></e>
-    <e lm="settembru" c="september"><i>settembru</i><par n="tniġġis__n"/></e>
-    <e lm="ottobru" c="october"><i>ottobru</i><par n="tniġġis__n"/></e>
-    <e lm="novembru" c="november"><i>novembru</i><par n="tniġġis__n"/></e>
-    <e lm="diċembru" c="december"><i>diċembru</i><par n="tniġġis__n"/></e>
+    <e lm="jannar" c="january"><i>jannar</i><par n="tniġġis__n_m"/></e>
+    <e lm="frar" c="february"><i>frar</i><par n="tniġġis__n_m"/></e>
+    <e lm="marzu" c="march"><i>marzu</i><par n="tniġġis__n_m"/></e>
+    <e lm="april" c="april"><i>april</i><par n="tniġġis__n_m"/></e>
+    <e lm="mejju" c="may"><i>mejju</i><par n="tniġġis__n_m"/></e>
+    <e lm="ġunju" c="june"><i>ġunju</i><par n="tniġġis__n_m"/></e>
+    <e lm="july" c="july"><i>july</i><par n="tniġġis__n_m"/></e>
+    <e lm="lulju" c="july"><i>lulju</i><par n="tniġġis__n_m"/></e>
+    <e lm="awwissu" c="august"><i>awwissu</i><par n="tniġġis__n_m"/></e>
+    <e lm="settembru" c="september"><i>settembru</i><par n="tniġġis__n_m"/></e>
+    <e lm="ottobru" c="october"><i>ottobru</i><par n="tniġġis__n_m"/></e>
+    <e lm="novembru" c="november"><i>novembru</i><par n="tniġġis__n_m"/></e>
+    <e lm="diċembru" c="december"><i>diċembru</i><par n="tniġġis__n_m"/></e>
 
     <e lm="kontinent"><i>kontinent</i><par n="moviment__n_m"/></e>
     <e lm="komponent"><i>komponenti</i><par n="moviment__n_m"/></e>
@@ -3464,6 +3467,7 @@
     <e lm="operazzjoni"><i>operazzjoni</i><par n="unjoni__n_f"/></e>
     <e lm="deċiżjoni"><i>deċiżjoni</i><par n="unjoni__n_f"/></e>
     <e lm="soċjetà"><i>soċjet</i><par n="entit/à__n_f"/></e>
+    <e lm="realtà" c="reality"><i>realtà</i><par n="entit/à__n_f"/></e>
     <e lm="sitwazzjoni"><i>sitwazzjoni</i><par n="unjoni__n_f"/></e>
     <e lm="operazzjoni"><i>operazzjoni</i><par n="unjoni__n_f"/></e>
     <e lm="ġenerazzjoni"><i>ġenerazzjoni</i><par n="unjoni__n_f"/></e>
@@ -5574,8 +5578,8 @@
     <e lm="illegali"><i>illegali</i><par n="differenti__adj"/></e>
     <e lm="kontroversjali"><i>kontroversjali</i><par n="differenti__adj"/></e>
     <e lm="interessanti"><i>interessanti</i><par n="differenti__adj"/></e>
-
-
+    <e lm="possibbli"><i>possibbli</i><par n="differenti__adj"/></e>
+    <e lm="possibli" r="LR"><p><l>possibli</l><r>possibbli</r></p><par n="differenti__adj"/></e>
 
     <e lm="Komunista"><i>Komunista</i><par n="nazzjonalista__adj"/></e>
     <e lm="Soċjalista"><i>Soċjalista</i><par n="nazzjonalista__adj"/></e>
