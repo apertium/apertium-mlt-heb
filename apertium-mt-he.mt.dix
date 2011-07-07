@@ -20,6 +20,7 @@
     <sdef n="dem"         c="Demonstrative"/>
     <sdef n="ord"         c="Ordinal"/>
     <sdef n="neg"         c="Negative"/>
+    <sdef n="acr"         c="Acronym"/>
 
     <sdef n="an"          c="Animate / inanimate"/>
  
@@ -404,6 +405,9 @@
   <pardef n="miljun__num">
     <e><p><l/><r><s n="num"/><s n="mf"/><s n="sg"/></r></p></e>
     <e><p><l>i</l><r><s n="num"/><s n="mf"/><s n="pl"/></r></p></e>
+  </pardef>
+  <pardef n="XVI__num">
+    <e><p><l/><r><s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
   </pardef>
 
   <pardef n="tieni__num"> <!-- 2nd -->
@@ -2645,6 +2649,11 @@
     <e><p><l>rieba</l><r>arib<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
   </pardef>
 
+  <pardef n="VAT__n_f">
+    <e><p><l></l><r><s n="n"/><s n="acr"/><s n="f"/><s n="sg"/></r></p></e>
+  </pardef>
+
+
 
   <!-- SECTION: Proper nouns -->
 
@@ -3269,6 +3278,14 @@
     <e lm="għaxar" c="tenth"><i>għaxar</i><par n="tieni__num"/></e>
 
     <e lm="mitt" c="hundredth"><i>mitt</i><par n="tieni__num"/></e>
+
+    <e lm="XVI" c=""><i>XVI</i><par n="XVI__num"/></e>
+    <e lm="II" c=""><i>II</i><par n="XVI__num"/></e>
+    <e lm="III" c=""><i>III</i><par n="XVI__num"/></e>
+    <e lm="IV" c=""><i>IV</i><par n="XVI__num"/></e>
+    <e lm="VI" c=""><i>VI</i><par n="XVI__num"/></e>
+    <e lm="XXIII" c=""><i>XXIII</i><par n="XVI__num"/></e>
+    <e lm="XII" c=""><i>XII</i><par n="XVI__num"/></e>
 
     <!-- SECTION: Nouns -->
     <e lm="gramafown"><i>gram</i><par n="gram/afown__n"/></e>
@@ -5273,10 +5290,15 @@
     <e lm="von Lobkowitz"><i>von<b/>Lobkowitz</i><par n="Cervantes__np"/></e>
 
 
+    <e lm="VAT"><i>VAT</i><par n="VAT__n_f"/></e> 
+
+    <!-- TODO: Some of these may need to be categorised for gender -->
     <e lm="Olimpjadi"><i>Olimpjadi</i><par n="San__np"/></e> <!-- CHECK: pl? -->
     <e lm="San"><i>San</i><par n="San__np"/></e>
     <e lm="Papa"><i>Papa</i><par n="San__np"/></e>
     <e lm="Sir"><i>Sir</i><par n="San__np"/></e>
+    <e lm="Onor."><i>Onor.</i><par n="San__np"/></e>
+    <e lm="Onor"><i>Onor</i><par n="San__np"/></e>
     <e lm="Dun"><i>Dun</i><par n="San__np"/></e> <!-- like 'Don' ? -->
     <e lm="United"><i>United</i><par n="San__np"/></e>
     <e lm="St"><i>St</i><par n="San__np"/></e>
@@ -5285,10 +5307,24 @@
     <e lm="Facebook"><i>Facebook</i><par n="San__np"/></e>
     <e lm="Google"><i>Google</i><par n="San__np"/></e>
     <e lm="PN"><i>PN</i><par n="San__np"/></e>
+    <e lm="MLP"><i>MLP</i><par n="San__np"/></e>
+    <e lm="FAM"><i>MLP</i><par n="San__np"/></e> <!-- Forzi Armati ta' Malta -->
+    <e lm="MFA"><i>MFA</i><par n="San__np"/></e> <!-- Malta Football Association  -->
+    <e lm="MEPA"><i>MEPA</i><par n="San__np"/></e> <!-- Malta Environment and Planning Authority -->
+    <e lm="GWU"><i>GWU</i><par n="San__np"/></e> <!-- General Workers Union -->
     <e lm="TVM"><i>TVM</i><par n="San__np"/></e>
+    <e lm="ERT"><i>ERT</i><par n="San__np"/></e> <!-- Emergency Response Team -->
+    <e lm="PBS"><i>PBS</i><par n="San__np"/></e> <!-- Public Broadcasting Service -->
+    <e lm="RTK"><i>RTK</i><par n="San__np"/></e>
+    <e lm="GRTU"><i>GRTU</i><par n="San__np"/></e> <!-- General Retailers and Traders Union -->
+    <e lm="ALE"><i>ALE</i><par n="San__np"/></e> <!-- Administrative Law Enforcement -->
+    <e lm="UEFA"><i>UEFA</i><par n="San__np"/></e>
+    <e lm="FIFA"><i>FIFA</i><par n="San__np"/></e>
+    <e lm="Il-Ġens"><i>Il-Ġens</i><par n="San__np"/></e>
     <e lm="Partit Nazzjonalista"><i>Partit<b/>Nazzjonalista</i><par n="San__np"/></e>
     <e lm="Partit Laburista"><i>Partit<b/>Laburista</i><par n="San__np"/></e>
     <e lm="Kronaka f'Malta"><i>Kronaka<b/>f'Malta</i><par n="San__np"/></e>
+    <e lm="Forzi Armati ta' Malta"><i>Forzi<b/>Armati<b/>ta'<b/>Malta</i><par n="San__np"/></e>
     <e lm="Manchester United"><i>Manchester<b/>United</i><par n="San__np"/></e>
     <e lm="Champions League"><i>Champions<b/>League</i><par n="San__np"/></e>
     <e lm="Premier League"><i>Premier<b/>League</i><par n="San__np"/></e>
