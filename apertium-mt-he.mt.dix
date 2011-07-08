@@ -3148,7 +3148,9 @@
     <e lm="tim"><i>tim</i><par n="dixx__n_m"/></e>
     <e lm="nazzjon"><i>nazzjon</i><par n="dixx__n_m"/></e>
     <e lm="post" c="place"><i>post</i><par n="dixx__n_m"/></e>
-    <e lm="skont" c="discount"><i>skont></i><par n="dixx__n_m"/></e>
+    <e lm="skont" c="discount"><i>skont</i><par n="dixx__n_m"/></e>
+    <e lm="kont" c="account"><i>kont</i><par n="dixx__n_m"/></e>
+    <e lm="plott" c="plot"><i>plott</i><par n="dixx__n_m"/></e>
 
     <e lm="omm" c="mother"><i>omm</i><par n="omm__n_f"/></e>
     <e lm="ħajja" c="life"><i>ħajj</i><par n="ħajj/a__n_f"/></e>
@@ -3196,6 +3198,8 @@
 
     <e lm="kelma" c="word"><i>k</i><par n="k/elma__n_f"/></e>
     <e lm="dinja" c="world"><i>dinj</i><par n="sħubij/a__n_f"/></e>
+    <e lm="biċċa" c="piece"><i>biċċ</i><par n="sħubij/a__n_f"/></e>
+    <e lm="bicca" r="LR"><p><l>bicc</l><r>biċċ</r></p><par n="sħubij/a__n_f"/></e>
 
     <e lm="parti"><i>parti</i><par n="parti__n_m"/></e>
     <e lm="isqof" c="bishop"><i>isq</i><par n="isq/of__n_m"/></e>
@@ -3366,7 +3370,9 @@
     <e lm="fatt" c="fact"><i>fatt</i><par n="moviment__n_m"/></e>
 
     <e lm="arja"><i>ar</i><par n="ar/ja__n"/></e>
-    <e lm="sena"><i>s</i><par n="s/ena__n"/></e>
+    <e lm="sena" c="year"><i>s</i><par n="s/ena__n"/></e>
+    <e lm="minuta" c="minute"><i>minut</i><par n="propost/a__n_f"/></e>
+    <e lm="karriera" c="career"><i>karriera</i><par n="propost/a__n_f"/></e>
 
     <e lm="knisja" c="church"><i>kn</i><par n="kn/isja__n"/></e>
 
@@ -4566,6 +4572,7 @@
     <e lm="Brussell"><i>Brussell</i><par n="Malta__np"/></e>
     <e lm="Milan"><i>Milan</i><par n="Malta__np"/></e>
     <e lm="Ġinevra"><i>Ġinevra</i><par n="Malta__np"/></e>
+    <e lm="Simshar"><i>Simshar</i><par n="Malta__np"/></e>
 
     <e lm="Bidnija"><i>Bidnija</i><par n="Malta__np"/></e>
     <e lm="Birkirkara"><i>Birkirkara</i><par n="Malta__np"/></e>
