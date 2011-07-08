@@ -2965,6 +2965,7 @@
     <e lm="lil"><i>lil</i><par n="kontra__pr"/></e>
     <e lm="il" r="LR"><p><l>il</l><r>lil</r></p><par n="kontra__pr"/></e>
     <e lm="l" r="LR"><p><l>l</l><r>lil</r></p><par n="kontra__pr"/></e>
+    <e lm="bil"><i>bil</i><par n="kontra__pr"/></e>
     <e lm="sa"><i>sa</i><par n="kontra__pr"/></e>
     <e lm="fi"><i>fi</i><par n="kontra__pr"/></e>
     <e lm="ġo"><i>ġo</i><par n="kontra__pr"/></e>
@@ -3002,6 +3003,10 @@
     <e lm="iehor" r="LR"><p><l>iehor</l><r>ieħor</r></p><par n="iehor__prn"/></e>
     <e lm="kwalunkwe haga" c="anything"><i>kwalunkwe<b/>haga</i><par n="iehor__prn"/></e>
     <e lm="xi ħadd" c="anybody"><i>xi ħadd</i><par n="iehor__prn"/></e>
+    <e lm="kulħadd" c="everyone"><i>kulħadd</i><par n="iehor__prn"/></e>
+    <e lm="kulhadd" r="LR"><p><l>kulhadd</l><r>kulħadd</r></p><par n="iehor__prn"/></e>
+    <e lm="kullhadd" r="LR"><p><l>kullhadd</l><r>kulħadd</r></p><par n="iehor__prn"/></e>
+
     <e lm="kulhadd" c="everyone"><i>kulhadd</i><par n="iehor__prn"/></e>
     <e lm="kollox" c="everything"><i>kollox</i><par n="iehor__prn"/></e>
     <e lm="ħadd" c="nobody"><i>ħadd</i><par n="iehor__prn"/></e>
