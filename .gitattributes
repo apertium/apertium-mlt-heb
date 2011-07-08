@@ -18,6 +18,7 @@ dev/dout.nouns.shemp.dix -text
 dev/dout.nouns.wolig.dix -text
 dev/find-nouns.sh -text
 dev/find-specific-noun.sh -text
+dev/freq_cat.txt -text
 dev/generation-summary.mt-he.txt -text
 dev/generation-test.py -text
 dev/he-cnjcoo -text
