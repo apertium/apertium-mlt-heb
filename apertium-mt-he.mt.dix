@@ -2963,6 +2963,7 @@
     <!-- SECTION: Prepositions -->
     <e lm="kontra"><i>kontra</i><par n="kontra__pr"/></e>
     <e lm="bla" c="without"><i>bla</i><par n="kontra__pr"/></e>
+    <e lm="mingħajr" c="without"><i>mingħajr</i><par n="kontra__pr"/></e>
     <e lm="minkejja" c="despite"><i>minkejja</i><par n="kontra__pr"/></e>
     <e lm="fost" c="between, among"><i>fost</i><par n="kontra__pr"/></e>
     <e lm="dwar"><i>dwar</i><par n="kontra__pr"/></e>
@@ -3387,6 +3388,7 @@
     <e lm="ġustizzja" c="justice"><i>ġustizzja</i><par n="molestja__n_f"/></e> <!-- no pl?-->
     <e lm="letteratura" c="literature"><i>letteratura</i><par n="molestja__n_f"/></e> <!-- no pl?-->
     <e lm="ekonomija" c="economy"><i>ekonomija</i><par n="molestja__n_f"/></e> <!-- no pl?-->
+    <e lm="poezija" c="poetry"><i>poezija</i><par n="molestja__n_f"/></e> <!-- no pl?-->
 
     <e lm="proposta"><i>propost</i><par n="propost/a__n_f"/></e>
     <e lm="maratona"><i>maraton</i><par n="propost/a__n_f"/></e>
@@ -5340,6 +5342,7 @@
     <e lm="dgħajjef"><i>dgħaj</i><par n="dgħaj/jef__adj"/></e>
     <e lm="fond"><i>fond</i><par n="griż__adj"/></e>
     <e lm="griż"><i>griż</i><par n="griż__adj"/></e>
+    <e lm="poet" c="poet"><i>poet</i><par n="griż__adj"/></e>
 
     <e lm="għoli"><i>għol</i><par n="għol/i__adj"/></e>
     <e lm="għoli"><p><l>ogħla</l><r>għoli</r></p><par n="akbar__adj"/></e>
@@ -5690,6 +5693,7 @@
     <e lm="wisq" c="too much"><i>wisq</i><par n="immedjatament__adv"/></e>
     <e lm="ukoll" c="also"><i>ukoll</i><par n="immedjatament__adv"/></e>
     <e lm="wkoll" r="LR"><p><l>wkoll</l><r>ukoll</r></p><par n="immedjatament__adv"/></e>
+    <e lm="llum" c="today"><i>llum</i><par n="immedjatament__adv"/></e>
 
     <e lm="hekk"><i>hekk</i><par n="immedjatament__adv"/></e>
     <e lm="biss" c="just"><i>biss</i><par n="immedjatament__adv"/></e>
