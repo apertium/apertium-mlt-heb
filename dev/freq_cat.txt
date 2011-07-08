@@ -200,29 +200,29 @@ n    ^968/968<num>$ ^tirrapporta/*tirrapporta$
 ?    ^967/967<num>$ ^it/*it$
     ^965/965<num>$ ^jiġifieri/*jiġifieri$
     ^962/962<num>$ ^Man/*Man$
-    ^962/962<num>$ ^imkien/*imkien$	;	SPOT (m)
+n    ^962/962<num>$ ^imkien/*imkien$	;	SPOT (m)
     ^961/961<num>$ ^ghalih/*ghalih$	;	ALOOF 
-    ^960/960<num>$ ^qassis/*qassis$	;	PRIEST (m)
+n    ^960/960<num>$ ^qassis/*qassis$	;	PRIEST (m)
     ^960/960<num>$ ^G/*G$
-    ^957/957<num>$ ^gara/*gara$	;	TOURNAMENT (f)
-    ^955/955<num>$ ^rebħa/*rebħa$	;	VICTORY (f)
+n    ^957/957<num>$ ^gara/*gara$	;	TOURNAMENT (f)
+n    ^955/955<num>$ ^rebħa/*rebħa$	;	VICTORY (f)
     ^955/955<num>$ ^Close/*Close$
     ^954/954<num>$ ^or/*or$
     ^953/953<num>$ ^PULIS/*PULIS$
     ^953/953<num>$ ^FRANICA/*FRANICA$
     ^953/953<num>$ ^E/*E$
-    ^952/952<num>$ ^ħwejjeġ/*ħwejjeġ$	;	WARE 
+n    ^952/952<num>$ ^ħwejjeġ/*ħwejjeġ$	;	WARE 
     ^951/951<num>$ ^Move/*Move$
     ^947/947<num>$ ^w/*w$
     ^946/946<num>$ ^ħabbet/*ħabbet$
     ^944/944<num>$ ^mhumiex/*mhumiex$
-    ^939/939<num>$ ^sab/*sab$	;	DISCOVER 
-    ^938/938<num>$ ^hlief/*hlief$	;	UNLESS 
+v    ^939/939<num>$ ^sab/*sab$	;	DISCOVER 
+adv    ^938/938<num>$ ^hlief/*hlief$	;	UNLESS 
     ^937/937<num>$ ^Mallia/*Mallia$
     ^936/936<num>$ ^per/*per$
     ^935/935<num>$ ^haddiema/*haddiema$
     ^934/934<num>$ ^peress/*peress$
-    ^931/931<num>$ ^talba/*talba$	;	REQUEST (f)
+n    ^931/931<num>$ ^talba/*talba$	;	REQUEST (f)
     ^931/931<num>$ ^jmorru/*jmorru$
     ^931/931<num>$ ^ghadda/*ghadda$	;	TRAVERSE 
     ^925/925<num>$ ^Video/*Video$
@@ -233,9 +233,9 @@ n    ^968/968<num>$ ^tirrapporta/*tirrapporta$
     ^915/915<num>$ ^rispett/*rispett$
     ^914/914<num>$ ^għadha/*għadha$
     ^912/912<num>$ ^talli/*talli$
-    ^912/912<num>$ ^komuni/*komuni$	;	COMMON 
+adj    ^912/912<num>$ ^komuni/*komuni$	;	COMMON 
     ^912/912<num>$ ^għalija/*għalija$
-    ^912/912<num>$ ^gewwa/*gewwa$	;	WITHIN 
+adv    ^912/912<num>$ ^gewwa/*gewwa$	;	WITHIN 
     ^912/912<num>$ ^flok/*flok$
     ^910/910<num>$ ^żgħażagħ/*żgħażagħ$
     ^909/909<num>$ ^qalulna/*qalulna$
@@ -252,11 +252,11 @@ n    ^968/968<num>$ ^tirrapporta/*tirrapporta$
     ^888/888<num>$ ^ifisser/*ifisser$
     ^885/885<num>$ ^għand/*għand$
     ^880/880<num>$ ^turi/*turi$
-    ^878/878<num>$ ^Madankollu/*Madankollu$	;	HOWEVER 
+adv    ^878/878<num>$ ^Madankollu/*Madankollu$	;	HOWEVER 
     ^878/878<num>$ ^inkella/*inkella$
     ^878/878<num>$ ^hawnhekk/*hawnhekk$
     ^877/877<num>$ ^qieghdin/*qieghdin$
-    ^877/877<num>$ ^kompla/*kompla$	;	CONTINUE 
+v    ^877/877<num>$ ^kompla/*kompla$	;	CONTINUE 
     ^875/875<num>$ ^ghadhom/*ghadhom$
     ^873/873<num>$ ^inkunu/*inkunu$
     ^871/871<num>$ ^bdejt/*bdejt$
@@ -267,34 +267,34 @@ n    ^968/968<num>$ ^tirrapporta/*tirrapporta$
     ^867/867<num>$ ^as/*as$
     ^864/864<num>$ ^police/*police$
     ^863/863<num>$ ^minuti/*minuti$
-    ^861/861<num>$ ^ġara/*ġara$	;	TOURNAMENT (f)
+n    ^861/861<num>$ ^ġara/*ġara$	;	TOURNAMENT (f)
     ^861/861<num>$ ^an/*an$
     ^860/860<num>$ ^rigward/*rigward$
     ^859/859<num>$ ^tmexxija/*tmexxija$
     ^859/859<num>$ ^imur/*imur$
     ^858/858<num>$ ^Gw/*Gw$
     ^858/858<num>$ ^Gatt/*Gatt$
-    ^857/857<num>$ ^Liġi/*Liġi$	;	STATUTE (f)
+n    ^857/857<num>$ ^Liġi/*Liġi$	;	STATUTE (f)
     ^857/857<num>$ ^Awissu/*Awissu$
     ^856/856<num>$ ^vera/*vera$
     ^852/852<num>$ ^anzi/*anzi$
     ^851/851<num>$ ^ħareġ/*ħareġ$
     ^849/849<num>$ ^nsibu/*nsibu$
-    ^848/848<num>$ ^bicca/*bicca$	;	TITBIT (f)
+n    ^848/848<num>$ ^bicca/*bicca$	;	TITBIT (f)
     ^844/844<num>$ ^humiex/*humiex$
-    ^844/844<num>$ ^ftehim/*ftehim$	;	TREATY (m)
+n    ^844/844<num>$ ^ftehim/*ftehim$	;	TREATY (m)
     ^843/843<num>$ ^Avvi/*Avvi$
     ^842/842<num>$ ^brutal/*brutal$
     ^842/842<num>$ ^beating/*beating$
-    ^841/841<num>$ ^responsabbli/*responsabbli$	;	RESPONSIBLE 
+adj    ^841/841<num>$ ^responsabbli/*responsabbli$	;	RESPONSIBLE 
     ^841/841<num>$ ^dying/*dying$
     ^841/841<num>$ ^alleges/*alleges$
-    ^840/840<num>$ ^karriera/*karriera$	;	CAREER (f)
+n    ^840/840<num>$ ^karriera/*karriera$	;	CAREER (f)
     ^836/836<num>$ ^magħrufa/*magħrufa$
-    ^835/835<num>$ ^maghruf/*maghruf$	;	FAMOUS 
-    ^832/832<num>$ ^għaqda/*għaqda$	;	UNION (f)
-    ^830/830<num>$ ^sahha/*sahha$	;	VIGOR (f)
-    ^830/830<num>$ ^mejjet/*mejjet$	;	DECEASED 
+adj    ^835/835<num>$ ^maghruf/*maghruf$	;	FAMOUS 
+n    ^832/832<num>$ ^għaqda/*għaqda$	;	UNION (f)
+n    ^830/830<num>$ ^sahha/*sahha$	;	VIGOR (f)
+adj    ^830/830<num>$ ^mejjet/*mejjet$	;	DECEASED 
     ^823/823<num>$ ^kontijiet/*kontijiet$
     ^822/822<num>$ ^mort/*mort$
     ^819/819<num>$ ^importanza/*importanza$
@@ -304,50 +304,50 @@ n    ^968/968<num>$ ^tirrapporta/*tirrapporta$
     ^811/811<num>$ ^għalihom/*għalihom$
     ^810/810<num>$ ^tkompli/*tkompli$
     ^810/810<num>$ ^lkoll/*lkoll$
-    ^808/808<num>$ ^xita/*xita$	;	RAIN (f)
+ n   ^808/808<num>$ ^xita/*xita$	;	RAIN (f)
     ^808/808<num>$ ^simili/*simili$
     ^806/806<num>$ ^ċar/*ċar$
     ^801/801<num>$ ^insibu/*insibu$
     ^800/800<num>$ ^August/*August$
     ^798/798<num>$ ^ħidma/*ħidma$
     ^796/796<num>$ ^juru/*juru$
-    ^794/794<num>$ ^kwazi/*kwazi$	;	NEARLY 
+ adv   ^794/794<num>$ ^kwazi/*kwazi$	;	NEARLY 
     ^793/793<num>$ ^O/*O$
     ^793/793<num>$ ^kinitx/*kinitx$
     ^793/793<num>$ ^January/*January$
-    ^790/790<num>$ ^Kap/*Kap$	;	LEADER (m)
-    ^787/787<num>$ ^storja/*storja$	;	TALE (f)
+ n   ^790/790<num>$ ^Kap/*Kap$	;	LEADER (m)
+ n   ^787/787<num>$ ^storja/*storja$	;	TALE (f)
     ^784/784<num>$ ^Vassallo/*Vassallo$
     ^783/783<num>$ ^istudenti/*istudenti$
     ^781/781<num>$ ^Home/*Home$
     ^781/781<num>$ ^bloggata/*bloggata$
-    ^781/781<num>$ ^alla/*alla$	;	GOD (m)
+ n   ^781/781<num>$ ^alla/*alla$	;	GOD (m)
     ^780/780<num>$ ^Posts/*Posts$
-    ^778/778<num>$ ^qaddis/*qaddis$	;	HOLY 
-    ^778/778<num>$ ^bizzejjed/*bizzejjed$	;	SUFFICIENT 
+ adj   ^778/778<num>$ ^qaddis/*qaddis$	;	HOLY 
+ adj   ^778/778<num>$ ^bizzejjed/*bizzejjed$	;	SUFFICIENT 
     ^776/776<num>$ ^jerġa/*jerġa$
     ^774/774<num>$ ^proċess/*proċess$
     ^774/774<num>$ ^gej/*gej$
-    ^774/774<num>$ ^biża/*biża$	;	FEAR (m)
+n    ^774/774<num>$ ^biża/*biża$	;	FEAR (m)
     ^771/771<num>$ ^jibqgħu/*jibqgħu$
     ^770/770<num>$ ^Ispettur/*Ispettur$
     ^769/769<num>$ ^da/*da$
     ^769/769<num>$ ^ċertu/*ċertu$
     ^766/766<num>$ ^età/*età$
-    ^764/764<num>$ ^boghod/*boghod$	;	REMOTE 
+adj    ^764/764<num>$ ^boghod/*boghod$	;	REMOTE 
     ^763/763<num>$ ^poeti/*poeti$
     ^763/763<num>$ ^blog/*blog$
     ^761/761<num>$ ^Rum/*Rum$
     ^759/759<num>$ ^tlett/*tlett$
     ^758/758<num>$ ^che/*che$
-    ^757/757<num>$ ^ħlief/*ħlief$	;	UNLESS 
-    ^756/756<num>$ ^imbaghad/*imbaghad$	;	THEN 
+adv    ^757/757<num>$ ^ħlief/*ħlief$	;	UNLESS 
+adv    ^756/756<num>$ ^imbaghad/*imbaghad$	;	THEN 
     ^755/755<num>$ ^suċċess/*suċċess$
     ^755/755<num>$ ^joħroġ/*joħroġ$
     ^750/750<num>$ ^W/*W$
     ^750/750<num>$ ^Attard/*Attard$
-    ^749/749<num>$ ^għażla/*għażla$	;	OPTION (f)
-    ^748/748<num>$ ^kmieni/*kmieni$	;	EARLY 
+n    ^749/749<num>$ ^għażla/*għażla$	;	OPTION (f)
+adj    ^748/748<num>$ ^kmieni/*kmieni$	;	EARLY 
     ^744/744<num>$ ^Categories/*Categories$
     ^743/743<num>$ ^Pace/*Pace$
     ^743/743<num>$ ^nzi/*nzi$
@@ -357,7 +357,7 @@ n    ^968/968<num>$ ^tirrapporta/*tirrapporta$
     ^737/737<num>$ ^xogħlijiet/*xogħlijiet$
     ^736/736<num>$ ^jgħix/*jgħix$
     ^736/736<num>$ ^glorja/*glorja$
-    ^735/735<num>$ ^tagħlim/*tagħlim$	;	TUITION (m)
+n    ^735/735<num>$ ^tagħlim/*tagħlim$	;	TUITION (m)
     ^735/735<num>$ ^October/*October$
     ^734/734<num>$ ^Simshar/*Simshar$
     ^734/734<num>$ ^nifs/*nifs$	;	BREATH (m)
@@ -368,25 +368,25 @@ n    ^968/968<num>$ ^tirrapporta/*tirrapporta$
     ^727/727<num>$ ^twieled/*twieled$
     ^725/725<num>$ ^artal/*artal$
     ^719/719<num>$ ^gravi/*gravi$
-    ^718/718<num>$ ^użu/*użu$	;	USE (m)
+v    ^718/718<num>$ ^użu/*użu$	;	USE (m)
     ^718/718<num>$ ^not/*not$
     ^717/717<num>$ ^jidħol/*jidħol$
-    ^716/716<num>$ ^messaġġ/*messaġġ$	;	MESSAGE (m)
-    ^715/715<num>$ ^xhieda/*xhieda$	;	TESTIMONY (f)
+n    ^716/716<num>$ ^messaġġ/*messaġġ$	;	MESSAGE (m)
+n    ^715/715<num>$ ^xhieda/*xhieda$	;	TESTIMONY (f)
     ^713/713<num>$ ^bħalissa/*bħalissa$
-    ^712/712<num>$ ^taqsima/*taqsima$	;	CLASS (f)
+n    ^712/712<num>$ ^taqsima/*taqsima$	;	CLASS (f)
     ^712/712<num>$ ^Imżebbel/*Imżebbel$
-    ^712/712<num>$ ^hdejn/*hdejn$	;	NEXT TO 
+adj    ^712/712<num>$ ^hdejn/*hdejn$	;	NEXT TO 
     ^709/709<num>$ ^Mizzi/*Mizzi$
-    ^705/705<num>$ ^gid/*gid$	;	WEALTH (m)
+n    ^705/705<num>$ ^gid/*gid$	;	WEALTH (m)
     ^705/705<num>$ ^għamilt/*għamilt$
-    ^704/704<num>$ ^hemmhekk/*hemmhekk$	;	YONDER 
+v    ^704/704<num>$ ^hemmhekk/*hemmhekk$	;	YONDER 
     ^703/703<num>$ ^qassisin/*qassisin$
     ^699/699<num>$ ^De/*De$
     ^698/698<num>$ ^jistenna/*jistenna$
     ^696/696<num>$ ^qaddejja/*qaddejja$
     ^695/695<num>$ ^jemmnu/*jemmnu$
-    ^694/694<num>$ ^Għaqda/*Għaqda$	;	UNION (f)
+n    ^694/694<num>$ ^Għaqda/*Għaqda$	;	UNION (f)
     ^692/692<num>$ ^talb/*talb$
     ^692/692<num>$ ^kinux/*kinux$
     ^691/691<num>$ ^bilfors/*bilfors$
