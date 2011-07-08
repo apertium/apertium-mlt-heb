@@ -4,4 +4,4 @@ import quadriliteral
 import loan_romance, loan_english
 import irregular_ra, irregular_qal, irregular_gie, irregular_ta, irregular_ha, irregular_sar, irregular_jaf, irregular_ried
 import vaux_kien, vaux_kellu
-import eighth_form_ie
+import weak
