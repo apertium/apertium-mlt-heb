@@ -3913,7 +3913,47 @@
     <e lm="marsupjal"><i>marsupjal</i><par n="moviment__n_m"/></e>
     <e lm="maskra"><i>maskr</i><par n="propost/a__n_f"/></e>
     <e lm="mat"><i>mat</i><par n="moviment__n_m"/></e>
-    <e lm="mekkanizmu"><i>mekkanizm</i><par n="buff/u__n_m"/></e>
+    <e lm="mekkaniżmu"><i>mekkaniżm</i><par n="buff/u__n_m"/></e>
+
+    <e lm="anakroniżmu"><i>anakroniżmu</i><par n="tniġġis__n_m"/></e>
+    <e lm="ateiżmu"><i>ateiżmu</i><par n="tniġġis__n_m"/></e>
+    <e lm="attiviżmu"><i>attiviżmu</i><par n="tniġġis__n_m"/></e>
+    <e lm="bipolariżmu"><i>bipolariżmu</i><par n="tniġġis__n_m"/></e>
+    <e lm="dinamiżmu"><i>dinamiżmu</i><par n="tniġġis__n_m"/></e>
+    <e lm="edoniżmu"><i>edoniżmu</i><par n="tniġġis__n_m"/></e>
+    <e lm="egoiżmu"><i>egoiżmu</i><par n="tniġġis__n_m"/></e>
+    <e lm="estremiżmu"><i>estremiżmu</i><par n="tniġġis__n_m"/></e>
+    <e lm="fanatiżmu"><i>fanatiżmu</i><par n="tniġġis__n_m"/></e>
+    <e lm="federaliżmu"><i>federaliżmu</i><par n="tniġġis__n_m"/></e>
+    <e lm="fundamentaliżmu"><i>fundamentaliżmu</i><par n="tniġġis__n_m"/></e>
+    <e lm="ġurnaliżmu"><i>ġurnaliżmu</i><par n="tniġġis__n_m"/></e>
+    <e lm="individwaliżmu"><i>individwaliżmu</i><par n="tniġġis__n_m"/></e>
+    <e lm="kattoliċiżmu"><i>kattoliċiżmu</i><par n="tniġġis__n_m"/></e>
+    <e lm="kolonjaliżmu"><i>kolonjaliżmu</i><par n="tniġġis__n_m"/></e>
+    <e lm="kubiżmu"><i>kubiżmu</i><par n="tniġġis__n_m"/></e>
+    <e lm="materjaliżmu"><i>materjaliżmu</i><par n="tniġġis__n_m"/></e>
+    <e lm="mistiċiżmu"><i>mistiċiżmu</i><par n="tniġġis__n_m"/></e>
+    <e lm="nazzjonaliżmu"><i>nazzjonaliżmu</i><par n="tniġġis__n_m"/></e>
+    <e lm="nepotiżmu"><i>nepotiżmu</i><par n="tniġġis__n_m"/></e>
+    <e lm="opportuniżmu"><i>opportuniżmu</i><par n="tniġġis__n_m"/></e>
+    <e lm="ottimiżmu"><i>ottimiżmu</i><par n="tniġġis__n_m"/></e>
+    <e lm="partiġġaniżmu"><i>partiġġaniżmu</i><par n="tniġġis__n_m"/></e>
+    <e lm="patrijottiżmu"><i>patrijottiżmu</i><par n="tniġġis__n_m"/></e>
+    <e lm="personaliżmu"><i>personaliżmu</i><par n="tniġġis__n_m"/></e>
+    <e lm="pessimiżmu"><i>pessimiżmu</i><par n="tniġġis__n_m"/></e>
+    <e lm="pluraliżmu"><i>pluraliżmu</i><par n="tniġġis__n_m"/></e>
+    <e lm="pragmatiżmu"><i>pragmatiżmu</i><par n="tniġġis__n_m"/></e>
+    <e lm="radikaliżmu"><i>radikaliżmu</i><par n="tniġġis__n_m"/></e>
+    <e lm="razzjonaliżmu"><i>razzjonaliżmu</i><par n="tniġġis__n_m"/></e>
+    <e lm="relattiviżmu"><i>relattiviżmu</i><par n="tniġġis__n_m"/></e>
+    <e lm="romantiċiżmu"><i>romantiċiżmu</i><par n="tniġġis__n_m"/></e>
+    <e lm="sensazzjonaliżmu"><i>sensazzjonaliżmu</i><par n="tniġġis__n_m"/></e>
+    <e lm="soċjaliżmu"><i>soċjaliżmu</i><par n="tniġġis__n_m"/></e>
+    <e lm="trejdunjoniżmu"><i>trejdunjoniżmu</i><par n="tniġġis__n_m"/></e>
+    <e lm="trijonfaliżmu"><i>trijonfaliżmu</i><par n="tniġġis__n_m"/></e>
+    <e lm="turiżmu"><i>turiżmu</i><par n="tniġġis__n_m"/></e>
+
+
     <e lm="memorja"><i>memorj</i><par n="propost/a__n_f"/></e>
     <e lm="ment"><i>ment</i><par n="moviment__n_m"/></e>
     <e lm="mezz"><i>mezz</i><par n="moviment__n_m"/></e>
