@@ -31,13 +31,14 @@ for line in glines:
         maltese = match.group(2).strip().split(';')
         for x in maltese:
             mal = g.match(x)
-            glosses[mal.group(1).strip().upper()] = "{0} {1}".format(english, mal.group(2) if mal.group(2) else '')
+            glosses[mal.group(1).strip().lower()] = "{0} {1}".format(english, mal.group(2) if mal.group(2) else '')
 
 # go over freqlist and attach gloss
 p = re.compile('\^.*\/\*(.*)\$$')
 for line in flines:
     match = p.match(line.strip())
-    key = match.group(1).upper() if match else None
+    key = match.group(1).lower().replace('ħ','h').replace('ġ','g').replace('ż','z') if match else None
+    print key
 
     if key and key in glosses:
         print "    {0}\t;\t{1}".format(line.strip(), glosses[key])
