@@ -3145,6 +3145,7 @@
     <e lm="triq" c="street"><i>t</i><par n="t/riq__n_f"/></e>
     <e lm="ktieb" c="book"><i>k</i><par n="k/tieb__n"/></e>
     <e lm="reliġjon"><i>reliġjon</i><par n="dixx__n_m"/></e>
+    <e lm="maltemp" c="storm"><i>maltemp</i><par n="dixx__n_m"/></e>
     <e lm="dixx"><i>dixx</i><par n="dixx__n_m"/></e>
     <e lm="tim"><i>tim</i><par n="dixx__n_m"/></e>
     <e lm="nazzjon"><i>nazzjon</i><par n="dixx__n_m"/></e>
@@ -3325,6 +3326,7 @@
     <e lm="votazzjoni"><i>votazzjoni</i><par n="unjoni__n_f"/></e>
 
     <e lm="gowl"><i>gowl</i><par n="gowl__n_m"/></e>
+    <e lm="gowlkiper"><i>gowlkiper</i><par n="gowl__n_m"/></e>
     <e lm="kondom"><i>kondom</i><par n="gowl__n_m"/></e>
     <e lm="kompjuter"><i>kompjuter</i><par n="gowl__n_m"/></e>
     <e lm="klabb"><i>klabb</i><par n="gowl__n_m"/></e>
@@ -3336,6 +3338,8 @@
 
     <e lm="trattament"><i>trattament</i><par n="moviment__n_m"/></e>
     <e lm="delegat"><i>delegat</i><par n="moviment__n_m"/></e>
+    <e lm="fundatur" c="founder"><i>fundatur</i><par n="moviment__n_m"/></e>
+    <e lm="lingwaġġ" c="language"><i>lingwaġġ</i><par n="moviment__n_m"/></e>
     <e lm="strument" c="instrument"><i>strument</i><par n="moviment__n_m"/></e>
     <e lm="appartament"><i>appartament</i><par n="moviment__n_m"/></e>
     <e lm="aġġornament"><i>aġġornament</i><par n="moviment__n_m"/></e>
@@ -3478,6 +3482,7 @@
     <e lm="kalendarju"><i>kalendarj</i><par n="buff/u__n_m"/></e>
     <e lm="kanzunetta"><i>kanzunett</i><par n="propost/a__n_f"/></e>
     <e lm="popolazzjoni"><i>popolazzjoni</i><par n="unjoni__n_f"/></e>
+    <e lm="reġistrazzjoni"><i>reġistrazzjoni</i><par n="unjoni__n_f"/></e>
     <e lm="ħsieb"><i>ħsi</i><par n="ħsi/eb__n_m"/></e>
     <e lm="liebru"><i>liebr</i><par n="buff/u__n_m"/></e>
     <e lm="poeżija"><i>poeżij</i><par n="propost/a__n_f"/></e>
@@ -3485,6 +3490,7 @@
     <e lm="proġett"><i>proġett</i><par n="moviment__n_m"/></e>
     <e lm="annimal"><i>annimal</i><par n="moviment__n_m"/></e>
     <e lm="poeżija"><i>poeżij</i><par n="propost/a__n_f"/></e>
+    <e lm="kategorija"><i>kategorij</i><par n="propost/a__n_f"/></e>
     <e lm="siġġu"><i>siġġ</i><par n="siġġ/u__n_m"/></e>
     <e lm="premju"><i>premj</i><par n="siġġ/u__n_m"/></e>
     <e lm="rwol"><i>rwol</i><par n="moviment__n_m"/></e>
@@ -5786,6 +5792,8 @@
     <e lm="litteralment"><i>litteralment</i><par n="immedjatament__adv"/></e>
     <e lm="bażikament"><i>bażikament</i><par n="immedjatament__adv"/></e>
 
+    <e lm="politikament"><i>politikament</i><par n="immedjatament__adv"/></e>
+    <e lm="pubblikament"><i>pubblikament</i><par n="immedjatament__adv"/></e>
     <e lm="allegatament"><i>allegatament</i><par n="immedjatament__adv"/></e>
     <e lm="kontinwament"><i>kontinwament</i><par n="immedjatament__adv"/></e>
     <e lm="naturalment"><i>naturalment</i><par n="immedjatament__adv"/></e>
