@@ -2833,6 +2833,10 @@
       <e><p>          <l>win</l><r>u<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
     </pardef>
 
+    <pardef n="ohxon__adj"> <!-- pl form? -->
+      <e><p>          <l></l><r><s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+    </pardef>
+
   <!-- Broken plural adjectives -->
   <pardef n="f/qir__adj">
     <e><p><l>qir</l><r>qir<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
@@ -5152,6 +5156,9 @@
 
     <e lm="fqir" c="poor" ><i>f</i><par n="f/qir__adj"/></e>
     <e lm="fqir"><p><l>ifqar</l><r>fqir</r></p><par n="akbar__adj"/></e>
+
+    <e lm="ohxon" c="fat"><i>ohxon</i><par n="ohxon__adj"/></e>
+    <e lm="oxhon"><p><l>ehxen</l><r>oxhon</r></p><par n="ohxon__adj"/></e>
 
     <e lm="tajjeb"><i>taj</i><par n="taj/jeb__adj"/></e>
     <e lm="tajjeb"><p><l>aħjar</l><r>tajjeb</r></p><par n="akbar__adj"/></e>
