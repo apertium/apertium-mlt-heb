@@ -12,6 +12,7 @@
 /apertium-mt-he.mt.dix -text
 /autogen.sh -text
 /configure.ac -text
+dev/attach_gloss.py -text
 dev/bidix-verbs-to-he.dix.sh -text
 dev/concordancer.py -text
 dev/dout.nouns.shemp.dix -text
