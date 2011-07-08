@@ -5694,6 +5694,7 @@
     <e lm="ukoll" c="also"><i>ukoll</i><par n="immedjatament__adv"/></e>
     <e lm="wkoll" r="LR"><p><l>wkoll</l><r>ukoll</r></p><par n="immedjatament__adv"/></e>
     <e lm="llum" c="today"><i>llum</i><par n="immedjatament__adv"/></e>
+    <e lm="lum" r="LR"><p><l>lum</l><r>llum</r></p><par n="immedjatament__adv"/></e>
 
     <e lm="hekk"><i>hekk</i><par n="immedjatament__adv"/></e>
     <e lm="biss" c="just"><i>biss</i><par n="immedjatament__adv"/></e>
