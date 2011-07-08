@@ -1534,9 +1534,14 @@
     <e><p><l>elħ</l><r>elħ<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
     <e><p><l>luħ</l><r>elħ<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
   </pardef>
-  <pardef n="ħ/abib__n_GD">
-    <e><p><l>abib</l><r>abib<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
-    <e><p><l>bieb</l><r>abib<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
+  <pardef n="ħ/abib__n">
+    <e><p><l>abib</l><r>abib<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>abiba</l><r>abib<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>bieb</l><r>abib<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+  </pardef>
+  <pardef n="haddiem__n">
+    <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>a</l><r><s n="n"/><s n="m"/><s n="pl"/></r></p></e>
   </pardef>
   <pardef n="b/użżieqa__n_GD">
     <e><p><l>użżieqa</l><r>użżieqa<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
@@ -2981,6 +2986,7 @@
     <e lm="favur"><i>favur</i><par n="kontra__pr"/></e>
     <e lm="matul"><i>matul</i><par n="kontra__pr"/></e>
     <e lm="taħt" c="under"><i>taħt</i><par n="kontra__pr"/></e>
+    <e lm="skont" c="under/according to"><i>skont</i><par n="kontra__pr"/></e>
     <e lm="waqt" c="toward, to"><i>waqt</i><par n="kontra__pr"/></e>
     <e lm="lejn" c="toward, to"><i>lejn</i><par n="kontra__pr"/></e>
     <e lm="nhar" c="on (date)"><i>nhar</i><par n="kontra__pr"/></e>
@@ -3031,6 +3037,7 @@
     <e lm="oħrajn" c="others"><i>oħrajn</i><par n="xi__prn"/></e>
     <e lm="diversi" c="several"><i>diversi</i><par n="xi__prn"/></e>
     <e lm="l-iktar" c="most"><i>l-iktar</i><par n="xi__prn"/></e>
+    <e lm="bosta" c="many/various"><i>bosta</i><par n="xi__prn"/></e>
     
     <e lm="xi" c="what"><i>xi</i><par n="min__prn"/></e>
     <e lm="min" c="who"><i>min</i><par n="min__prn"/></e>
@@ -3141,6 +3148,7 @@
     <e lm="tim"><i>tim</i><par n="dixx__n_m"/></e>
     <e lm="nazzjon"><i>nazzjon</i><par n="dixx__n_m"/></e>
     <e lm="post" c="place"><i>post</i><par n="dixx__n_m"/></e>
+    <e lm="skont" c="discount"><i>skont></i><par n="dixx__n_m"/></e>
 
     <e lm="omm" c="mother"><i>omm</i><par n="omm__n_f"/></e>
     <e lm="ħajja" c="life"><i>ħajj</i><par n="ħajj/a__n_f"/></e>
@@ -4127,7 +4135,8 @@
     <e lm="banka" c="stall" ><i>ban</i><par n="tik/ka__n_f"/></e>
     <e lm="bxara" c="announcement of an event" ><i>bxa</i><par n="xma/ra__n_f"/></e>
     <e lm="nikta" c="dot" ><i>nik</i><par n="qat/ta__n_f"/></e>
-    <e lm="ħabib" c="friend" ><i>ħ</i><par n="ħ/abib__n_GD"/></e>
+    <e lm="ħabib" c="friend" ><i>ħ</i><par n="ħ/abib__n"/></e>
+    <e lm="haddiem" c="worker" ><i>haddiem</i><par n="haddiem__n"/></e>
     <e lm="bint" c="daughter" ><i>b</i><par n="b/int__n_f"/></e>
     <e lm="għajn" c="fountain" ><i>għ</i><par n="għ/ajn__n_f"/></e>
     <e lm="sodda" c="bed" ><i>sod</i><par n="sod/da__n_f"/></e>
@@ -5153,6 +5162,7 @@
 
     <e lm="kbir" c="big"><i>kb</i><par n="kb/ir__adj"/></e>
     <e lm="kbir"><p><l>akbar</l><r>kbir</r></p><par n="akbar__adj"/></e>
+    <e lm="kbir"><p><l>ikbar</l><r>kbir</r></p><par n="akbar__adj"/></e>
 
     <e lm="żgħir"><i>żgħ</i><par n="kb/ir__adj"/></e>
 
@@ -5694,6 +5704,7 @@
     <e lm="aktarx" c="probably"><i>aktarx</i><par n="immedjatament__adv"/></e>
     <e lm="xorta" c="still, same"><i>xorta</i><par n="immedjatament__adv"/></e>
     <e lm="sew" c="well"><i>sew</i><par n="immedjatament__adv"/></e>
+    <e lm="minflok" c="instead"><i>minflok</i><par n="immedjatament__adv"/></e>
 
     <e lm="'l isfel" c="downwards"><i>'l<b/>isfel</i><par n="immedjatament__adv"/></e>
     <e lm="il fuq" c="upwards"><i>il<b/>fuq</i><par n="immedjatament__adv"/></e>
