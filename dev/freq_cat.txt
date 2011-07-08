@@ -100,104 +100,104 @@ n   ^1376/1376<num>$ ^Ġer/*Ġer$
 o   ^1374/1374<num>$ ^għalkemm/*għalkemm$
 ?   ^1357/1357<num>$ ^Num/*Num$
 adv   ^1352/1352<num>$ ^minflok/*minflok$
-   ^1334/1334<num>$ ^ghalhekk/*ghalhekk$
-   ^1329/1329<num>$ ^juri/*juri$
-   ^1327/1327<num>$ ^mbagħad/*mbagħad$
-    ^1326/1326<num>$ ^skont/*skont$	;	REDUCTION (m)
-   ^1308/1308<num>$ ^ikbar/*ikbar$
-   ^1282/1282<num>$ ^qallu/*qallu$
-   ^1278/1278<num>$ ^Eżek/*Eżek$
-   ^1268/1268<num>$ ^ħaddiema/*ħaddiema$
-    ^1251/1251<num>$ ^minuta/*minuta$	;	MINUTE (f)
-   ^1247/1247<num>$ ^mhix/*mhix$
-   ^1237/1237<num>$ ^tmur/*tmur$
-   ^1228/1228<num>$ ^jistghu/*jistghu$
-    ^1223/1223<num>$ ^għalih/*għalih$	;	ALOOF 
-   ^1223/1223<num>$ ^for/*for$
-   ^1211/1211<num>$ ^Exod/*Exod$
-   ^1209/1209<num>$ ^tantx/*tantx$
-    ^1206/1206<num>$ ^sehh/*sehh$	;	SUCCESS (m)
-    ^1204/1204<num>$ ^haga/*haga$	;	THING (f)
-    ^1196/1196<num>$ ^għadda/*għadda$	;	TRAVERSE 
-   ^1192/1192<num>$ ^qalli/*qalli$
-   ^1183/1183<num>$ ^nnifsu/*nnifsu$
-   ^1182/1182<num>$ ^b/*b$
-    ^1180/1180<num>$ ^imbagħad/*imbagħad$	;	THEN 
-    ^1177/1177<num>$ ^periklu/*periklu$	;	DANGER (m)
-   ^1176/1176<num>$ ^Ġw/*Ġw$
-   ^1175/1175<num>$ ^nistgħu/*nistgħu$
-    ^1167/1167<num>$ ^saħħa/*saħħa$	;	VIGOR (f)
-   ^1162/1162<num>$ ^Ġob/*Ġob$
-   ^1157/1157<num>$ ^f/*f$
-   ^1156/1156<num>$ ^soltu/*soltu$
-   ^1156/1156<num>$ ^Santa/*Santa$
-   ^1156/1156<num>$ ^kittieba/*kittieba$
-   ^1154/1154<num>$ ^daqshekk/*daqshekk$
-   ^1152/1152<num>$ ^p/*p$
-   ^1151/1151<num>$ ^P/*P$
-   ^1150/1150<num>$ ^għadhom/*għadhom$
-    ^1148/1148<num>$ ^fidi/*fidi$	;	FAITH (f)
-   ^1145/1145<num>$ ^naqra/*naqra$
-    ^1141/1141<num>$ ^natura/*natura$	;	NATURE (f)
-    ^1126/1126<num>$ ^Imbagħad/*Imbagħad$	;	THEN 
-   ^1124/1124<num>$ ^Lhud/*Lhud$
-   ^1124/1124<num>$ ^Blog/*Blog$
-   ^1115/1115<num>$ ^Dei/*Dei$
-    ^1114/1114<num>$ ^liġi/*liġi$	;	STATUTE (f)
-   ^1114/1114<num>$ ^is/*is$
-   ^1112/1112<num>$ ^Blobb/*Blobb$
-   ^1111/1111<num>$ ^Nikol/*Nikol$
-   ^1109/1109<num>$ ^Mater/*Mater$
-   ^1107/1107<num>$ ^F/*F$
-    ^1104/1104<num>$ ^kważi/*kważi$	;	NEARLY 
-   ^1098/1098<num>$ ^nkun/*nkun$
-    ^1098/1098<num>$ ^ghalkemm/*ghalkemm$	;	THOUGH 
-   ^1095/1095<num>$ ^tinsab/*tinsab$
-    ^1094/1094<num>$ ^magħruf/*magħruf$	;	FAMOUS 
-   ^1094/1094<num>$ ^inkun/*inkun$
-    ^1094/1094<num>$ ^futur/*futur$	;	FUTURE 
-   ^1090/1090<num>$ ^J/*J$
-   ^1089/1089<num>$ ^ħalli/*ħalli$
-   ^1089/1089<num>$ ^biċċa/*biċċa$
-   ^1087/1087<num>$ ^ġej/*ġej$
-    ^1080/1080<num>$ ^Kor/*Kor$	;	CHOIR (m)
-   ^1071/1071<num>$ ^tintervista/*tintervista$
-   ^1064/1064<num>$ ^idejh/*idejh$
-   ^1063/1063<num>$ ^sabu/*sabu$
-    ^1061/1061<num>$ ^biżżejjed/*biżżejjed$	;	SUFFICIENT 
-   ^1058/1058<num>$ ^jiġri/*jiġri$
-    ^1051/1051<num>$ ^tislima/*tislima$	;	BOW (f)
-   ^1045/1045<num>$ ^Segretarju/*Segretarju$
-   ^1039/1039<num>$ ^hold/*hold$
-   ^1037/1037<num>$ ^hareg/*hareg$
-   ^1035/1035<num>$ ^nemmen/*nemmen$
-    ^1032/1032<num>$ ^deheb/*deheb$	;	GOLD (m)
-   ^1030/1030<num>$ ^sentejn/*sentejn$
-    ^1029/1029<num>$ ^bqija/*bqija$	;	SURPLUS (f)
-    ^1028/1028<num>$ ^ġid/*ġid$	;	WEALTH (m)
-    ^1027/1027<num>$ ^ħabiba/*ħabiba$	;	GIRLFRIEND (f)
-   ^1025/1025<num>$ ^Mk/*Mk$
-   ^1020/1020<num>$ ^rasu/*rasu$
-    ^1019/1019<num>$ ^Aħbarijiet/*Aħbarijiet$	;	TIDINGS 
-   ^1008/1008<num>$ ^dakinhar/*dakinhar$
-   ^1003/1003<num>$ ^Mosta/*Mosta$
-   ^1003/1003<num>$ ^jsiru/*jsiru$
-    ^997/997<num>$ ^malajr/*malajr$	;	SWIFTLY 
-    ^991/991<num>$ ^partikolari/*partikolari$
-    ^991/991<num>$ ^bogħod/*bogħod$	;	REMOTE 
-    ^986/986<num>$ ^kultant/*kultant$	;	SOMETIMES 
-    ^986/986<num>$ ^inhu/*inhu$
-    ^982/982<num>$ ^Deut/*Deut$
-    ^981/981<num>$ ^Filgħaxija/*Filgħaxija$
-    ^977/977<num>$ ^qiegħda/*qiegħda$
-    ^976/976<num>$ ^Spiteri/*Spiteri$
-    ^976/976<num>$ ^inhi/*inhi$
-    ^975/975<num>$ ^jagħtuha/*jagħtuha$
-    ^973/973<num>$ ^jibdew/*jibdew$
-    ^972/972<num>$ ^sejjer/*sejjer$
-    ^968/968<num>$ ^tirrapporta/*tirrapporta$
-    ^968/968<num>$ ^Lev/*Lev$
-    ^967/967<num>$ ^it/*it$
+adv   ^1334/1334<num>$ ^ghalhekk/*ghalhekk$
+v   ^1329/1329<num>$ ^juri/*juri$
+adv   ^1327/1327<num>$ ^mbagħad/*mbagħad$
+n    ^1326/1326<num>$ ^skont/*skont$	;	REDUCTION (m)
+adj   ^1308/1308<num>$ ^ikbar/*ikbar$
+v   ^1282/1282<num>$ ^qallu/*qallu$
+?   ^1278/1278<num>$ ^Eżek/*Eżek$
+n   ^1268/1268<num>$ ^ħaddiema/*ħaddiema$
+n    ^1251/1251<num>$ ^minuta/*minuta$	;	MINUTE (f)
+adj   ^1247/1247<num>$ ^mhix/*mhix$
+v   ^1237/1237<num>$ ^tmur/*tmur$
+v   ^1228/1228<num>$ ^jistghu/*jistghu$
+o    ^1223/1223<num>$ ^għalih/*għalih$	;	ALOOF 
+?   ^1223/1223<num>$ ^for/*for$
+?   ^1211/1211<num>$ ^Exod/*Exod$
+adv   ^1209/1209<num>$ ^tantx/*tantx$
+n    ^1206/1206<num>$ ^sehh/*sehh$	;	SUCCESS (m)
+n    ^1204/1204<num>$ ^haga/*haga$	;	THING (f)
+v    ^1196/1196<num>$ ^għadda/*għadda$	;	TRAVERSE 
+v   ^1192/1192<num>$ ^qalli/*qalli$
+o   ^1183/1183<num>$ ^nnifsu/*nnifsu$
+?   ^1182/1182<num>$ ^b/*b$
+adv    ^1180/1180<num>$ ^imbagħad/*imbagħad$	;	THEN 
+n    ^1177/1177<num>$ ^periklu/*periklu$	;	DANGER (m)
+?   ^1176/1176<num>$ ^Ġw/*Ġw$
+v   ^1175/1175<num>$ ^nistgħu/*nistgħu$
+n    ^1167/1167<num>$ ^saħħa/*saħħa$	;	VIGOR (f)
+?   ^1162/1162<num>$ ^Ġob/*Ġob$
+?   ^1157/1157<num>$ ^f/*f$
+adv   ^1156/1156<num>$ ^soltu/*soltu$
+n   ^1156/1156<num>$ ^Santa/*Santa$
+n   ^1156/1156<num>$ ^kittieba/*kittieba$
+o   ^1154/1154<num>$ ^daqshekk/*daqshekk$
+?   ^1152/1152<num>$ ^p/*p$
+?   ^1151/1151<num>$ ^P/*P$
+adj   ^1150/1150<num>$ ^għadhom/*għadhom$
+n    ^1148/1148<num>$ ^fidi/*fidi$	;	FAITH (f)
+o   ^1145/1145<num>$ ^naqra/*naqra$
+n    ^1141/1141<num>$ ^natura/*natura$	;	NATURE (f)
+adv    ^1126/1126<num>$ ^Imbagħad/*Imbagħad$	;	THEN 
+n   ^1124/1124<num>$ ^Lhud/*Lhud$
+?   ^1124/1124<num>$ ^Blog/*Blog$
+?   ^1115/1115<num>$ ^Dei/*Dei$
+n    ^1114/1114<num>$ ^liġi/*liġi$	;	STATUTE (f)
+?   ^1114/1114<num>$ ^is/*is$
+?   ^1112/1112<num>$ ^Blobb/*Blobb$
+?   ^1111/1111<num>$ ^Nikol/*Nikol$
+?   ^1109/1109<num>$ ^Mater/*Mater$
+?   ^1107/1107<num>$ ^F/*F$
+adv    ^1104/1104<num>$ ^kważi/*kważi$	;	NEARLY 
+v   ^1098/1098<num>$ ^nkun/*nkun$
+adv    ^1098/1098<num>$ ^ghalkemm/*ghalkemm$	;	THOUGH 
+v   ^1095/1095<num>$ ^tinsab/*tinsab$
+adj    ^1094/1094<num>$ ^magħruf/*magħruf$	;	FAMOUS 
+v   ^1094/1094<num>$ ^inkun/*inkun$
+n    ^1094/1094<num>$ ^futur/*futur$	;	FUTURE 
+?   ^1090/1090<num>$ ^J/*J$
+v   ^1089/1089<num>$ ^ħalli/*ħalli$
+n   ^1089/1089<num>$ ^biċċa/*biċċa$
+v   ^1087/1087<num>$ ^ġej/*ġej$
+n    ^1080/1080<num>$ ^Kor/*Kor$	;	CHOIR (m)
+n   ^1071/1071<num>$ ^tintervista/*tintervista$
+n   ^1064/1064<num>$ ^idejh/*idejh$
+adj   ^1063/1063<num>$ ^sabu/*sabu$
+adj    ^1061/1061<num>$ ^biżżejjed/*biżżejjed$	;	SUFFICIENT 
+v   ^1058/1058<num>$ ^jiġri/*jiġri$
+n    ^1051/1051<num>$ ^tislima/*tislima$	;	BOW (f)
+n   ^1045/1045<num>$ ^Segretarju/*Segretarju$
+?   ^1039/1039<num>$ ^hold/*hold$
+v   ^1037/1037<num>$ ^hareg/*hareg$
+v   ^1035/1035<num>$ ^nemmen/*nemmen$
+n    ^1032/1032<num>$ ^deheb/*deheb$	;	GOLD (m)
+n   ^1030/1030<num>$ ^sentejn/*sentejn$
+n    ^1029/1029<num>$ ^bqija/*bqija$	;	SURPLUS (f)
+n    ^1028/1028<num>$ ^ġid/*ġid$	;	WEALTH (m)
+n    ^1027/1027<num>$ ^ħabiba/*ħabiba$	;	GIRLFRIEND (f)
+?   ^1025/1025<num>$ ^Mk/*Mk$
+n   ^1020/1020<num>$ ^rasu/*rasu$
+n    ^1019/1019<num>$ ^Aħbarijiet/*Aħbarijiet$	;	TIDINGS 
+?   ^1008/1008<num>$ ^dakinhar/*dakinhar$
+?   ^1003/1003<num>$ ^Mosta/*Mosta$
+v   ^1003/1003<num>$ ^jsiru/*jsiru$
+adv    ^997/997<num>$ ^malajr/*malajr$	;	SWIFTLY 
+adj    ^991/991<num>$ ^partikolari/*partikolari$
+adv    ^991/991<num>$ ^bogħod/*bogħod$	;	REMOTE 
+adv    ^986/986<num>$ ^kultant/*kultant$	;	SOMETIMES 
+v    ^986/986<num>$ ^inhu/*inhu$
+?    ^982/982<num>$ ^Deut/*Deut$
+?    ^981/981<num>$ ^Filgħaxija/*Filgħaxija$
+adj    ^977/977<num>$ ^qiegħda/*qiegħda$
+?    ^976/976<num>$ ^Spiteri/*Spiteri$
+v    ^976/976<num>$ ^inhi/*inhi$
+v    ^975/975<num>$ ^jagħtuha/*jagħtuha$
+v    ^973/973<num>$ ^jibdew/*jibdew$
+o    ^972/972<num>$ ^sejjer/*sejjer$
+n    ^968/968<num>$ ^tirrapporta/*tirrapporta$
+?    ^968/968<num>$ ^Lev/*Lev$
+?    ^967/967<num>$ ^it/*it$
     ^965/965<num>$ ^jiġifieri/*jiġifieri$
     ^962/962<num>$ ^Man/*Man$
     ^962/962<num>$ ^imkien/*imkien$	;	SPOT (m)
