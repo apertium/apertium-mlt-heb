@@ -103,30 +103,30 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
    ^1334/1334<num>$ ^ghalhekk/*ghalhekk$
    ^1329/1329<num>$ ^juri/*juri$
    ^1327/1327<num>$ ^mbagħad/*mbagħad$
-   ^1326/1326<num>$ ^skont/*skont$
+    ^1326/1326<num>$ ^skont/*skont$	;	REDUCTION (m)
    ^1308/1308<num>$ ^ikbar/*ikbar$
    ^1282/1282<num>$ ^qallu/*qallu$
    ^1278/1278<num>$ ^Eżek/*Eżek$
    ^1268/1268<num>$ ^ħaddiema/*ħaddiema$
-   ^1251/1251<num>$ ^minuta/*minuta$
+    ^1251/1251<num>$ ^minuta/*minuta$	;	MINUTE (f)
    ^1247/1247<num>$ ^mhix/*mhix$
    ^1237/1237<num>$ ^tmur/*tmur$
    ^1228/1228<num>$ ^jistghu/*jistghu$
-   ^1223/1223<num>$ ^għalih/*għalih$
+    ^1223/1223<num>$ ^għalih/*għalih$	;	ALOOF 
    ^1223/1223<num>$ ^for/*for$
    ^1211/1211<num>$ ^Exod/*Exod$
    ^1209/1209<num>$ ^tantx/*tantx$
-   ^1206/1206<num>$ ^sehh/*sehh$
-   ^1204/1204<num>$ ^haga/*haga$
-   ^1196/1196<num>$ ^għadda/*għadda$
+    ^1206/1206<num>$ ^sehh/*sehh$	;	SUCCESS (m)
+    ^1204/1204<num>$ ^haga/*haga$	;	THING (f)
+    ^1196/1196<num>$ ^għadda/*għadda$	;	TRAVERSE 
    ^1192/1192<num>$ ^qalli/*qalli$
    ^1183/1183<num>$ ^nnifsu/*nnifsu$
    ^1182/1182<num>$ ^b/*b$
-   ^1180/1180<num>$ ^imbagħad/*imbagħad$
-   ^1177/1177<num>$ ^periklu/*periklu$
+    ^1180/1180<num>$ ^imbagħad/*imbagħad$	;	THEN 
+    ^1177/1177<num>$ ^periklu/*periklu$	;	DANGER (m)
    ^1176/1176<num>$ ^Ġw/*Ġw$
    ^1175/1175<num>$ ^nistgħu/*nistgħu$
-   ^1167/1167<num>$ ^saħħa/*saħħa$
+    ^1167/1167<num>$ ^saħħa/*saħħa$	;	VIGOR (f)
    ^1162/1162<num>$ ^Ġob/*Ġob$
    ^1157/1157<num>$ ^f/*f$
    ^1156/1156<num>$ ^soltu/*soltu$
@@ -136,56 +136,56 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
    ^1152/1152<num>$ ^p/*p$
    ^1151/1151<num>$ ^P/*P$
    ^1150/1150<num>$ ^għadhom/*għadhom$
-   ^1148/1148<num>$ ^fidi/*fidi$
+    ^1148/1148<num>$ ^fidi/*fidi$	;	FAITH (f)
    ^1145/1145<num>$ ^naqra/*naqra$
-   ^1141/1141<num>$ ^natura/*natura$
-   ^1126/1126<num>$ ^Imbagħad/*Imbagħad$
+    ^1141/1141<num>$ ^natura/*natura$	;	NATURE (f)
+    ^1126/1126<num>$ ^Imbagħad/*Imbagħad$	;	THEN 
    ^1124/1124<num>$ ^Lhud/*Lhud$
    ^1124/1124<num>$ ^Blog/*Blog$
    ^1115/1115<num>$ ^Dei/*Dei$
-   ^1114/1114<num>$ ^liġi/*liġi$
+    ^1114/1114<num>$ ^liġi/*liġi$	;	STATUTE (f)
    ^1114/1114<num>$ ^is/*is$
    ^1112/1112<num>$ ^Blobb/*Blobb$
    ^1111/1111<num>$ ^Nikol/*Nikol$
    ^1109/1109<num>$ ^Mater/*Mater$
    ^1107/1107<num>$ ^F/*F$
-   ^1104/1104<num>$ ^kważi/*kważi$
+    ^1104/1104<num>$ ^kważi/*kważi$	;	NEARLY 
    ^1098/1098<num>$ ^nkun/*nkun$
-   ^1098/1098<num>$ ^ghalkemm/*ghalkemm$
+    ^1098/1098<num>$ ^ghalkemm/*ghalkemm$	;	THOUGH 
    ^1095/1095<num>$ ^tinsab/*tinsab$
-   ^1094/1094<num>$ ^magħruf/*magħruf$
+    ^1094/1094<num>$ ^magħruf/*magħruf$	;	FAMOUS 
    ^1094/1094<num>$ ^inkun/*inkun$
-   ^1094/1094<num>$ ^futur/*futur$
+    ^1094/1094<num>$ ^futur/*futur$	;	FUTURE 
    ^1090/1090<num>$ ^J/*J$
    ^1089/1089<num>$ ^ħalli/*ħalli$
    ^1089/1089<num>$ ^biċċa/*biċċa$
    ^1087/1087<num>$ ^ġej/*ġej$
-   ^1080/1080<num>$ ^Kor/*Kor$
+    ^1080/1080<num>$ ^Kor/*Kor$	;	CHOIR (m)
    ^1071/1071<num>$ ^tintervista/*tintervista$
    ^1064/1064<num>$ ^idejh/*idejh$
    ^1063/1063<num>$ ^sabu/*sabu$
-   ^1061/1061<num>$ ^biżżejjed/*biżżejjed$
+    ^1061/1061<num>$ ^biżżejjed/*biżżejjed$	;	SUFFICIENT 
    ^1058/1058<num>$ ^jiġri/*jiġri$
-   ^1051/1051<num>$ ^tislima/*tislima$
+    ^1051/1051<num>$ ^tislima/*tislima$	;	BOW (f)
    ^1045/1045<num>$ ^Segretarju/*Segretarju$
    ^1039/1039<num>$ ^hold/*hold$
    ^1037/1037<num>$ ^hareg/*hareg$
    ^1035/1035<num>$ ^nemmen/*nemmen$
-   ^1032/1032<num>$ ^deheb/*deheb$
+    ^1032/1032<num>$ ^deheb/*deheb$	;	GOLD (m)
    ^1030/1030<num>$ ^sentejn/*sentejn$
-   ^1029/1029<num>$ ^bqija/*bqija$
-   ^1028/1028<num>$ ^ġid/*ġid$
-   ^1027/1027<num>$ ^ħabiba/*ħabiba$
+    ^1029/1029<num>$ ^bqija/*bqija$	;	SURPLUS (f)
+    ^1028/1028<num>$ ^ġid/*ġid$	;	WEALTH (m)
+    ^1027/1027<num>$ ^ħabiba/*ħabiba$	;	GIRLFRIEND (f)
    ^1025/1025<num>$ ^Mk/*Mk$
    ^1020/1020<num>$ ^rasu/*rasu$
-   ^1019/1019<num>$ ^Aħbarijiet/*Aħbarijiet$
+    ^1019/1019<num>$ ^Aħbarijiet/*Aħbarijiet$	;	TIDINGS 
    ^1008/1008<num>$ ^dakinhar/*dakinhar$
    ^1003/1003<num>$ ^Mosta/*Mosta$
    ^1003/1003<num>$ ^jsiru/*jsiru$
-    ^997/997<num>$ ^malajr/*malajr$
+    ^997/997<num>$ ^malajr/*malajr$	;	SWIFTLY 
     ^991/991<num>$ ^partikolari/*partikolari$
-    ^991/991<num>$ ^bogħod/*bogħod$
-    ^986/986<num>$ ^kultant/*kultant$
+    ^991/991<num>$ ^bogħod/*bogħod$	;	REMOTE 
+    ^986/986<num>$ ^kultant/*kultant$	;	SOMETIMES 
     ^986/986<num>$ ^inhu/*inhu$
     ^982/982<num>$ ^Deut/*Deut$
     ^981/981<num>$ ^Filgħaxija/*Filgħaxija$
@@ -200,31 +200,31 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^967/967<num>$ ^it/*it$
     ^965/965<num>$ ^jiġifieri/*jiġifieri$
     ^962/962<num>$ ^Man/*Man$
-    ^962/962<num>$ ^imkien/*imkien$
-    ^961/961<num>$ ^ghalih/*ghalih$
-    ^960/960<num>$ ^qassis/*qassis$
+    ^962/962<num>$ ^imkien/*imkien$	;	SPOT (m)
+    ^961/961<num>$ ^ghalih/*ghalih$	;	ALOOF 
+    ^960/960<num>$ ^qassis/*qassis$	;	PRIEST (m)
     ^960/960<num>$ ^G/*G$
-    ^957/957<num>$ ^gara/*gara$
-    ^955/955<num>$ ^rebħa/*rebħa$
+    ^957/957<num>$ ^gara/*gara$	;	TOURNAMENT (f)
+    ^955/955<num>$ ^rebħa/*rebħa$	;	VICTORY (f)
     ^955/955<num>$ ^Close/*Close$
     ^954/954<num>$ ^or/*or$
     ^953/953<num>$ ^PULIS/*PULIS$
     ^953/953<num>$ ^FRANICA/*FRANICA$
     ^953/953<num>$ ^E/*E$
-    ^952/952<num>$ ^ħwejjeġ/*ħwejjeġ$
+    ^952/952<num>$ ^ħwejjeġ/*ħwejjeġ$	;	WARE 
     ^951/951<num>$ ^Move/*Move$
     ^947/947<num>$ ^w/*w$
     ^946/946<num>$ ^ħabbet/*ħabbet$
     ^944/944<num>$ ^mhumiex/*mhumiex$
-    ^939/939<num>$ ^sab/*sab$
-    ^938/938<num>$ ^hlief/*hlief$
+    ^939/939<num>$ ^sab/*sab$	;	DISCOVER 
+    ^938/938<num>$ ^hlief/*hlief$	;	UNLESS 
     ^937/937<num>$ ^Mallia/*Mallia$
     ^936/936<num>$ ^per/*per$
     ^935/935<num>$ ^haddiema/*haddiema$
     ^934/934<num>$ ^peress/*peress$
-    ^931/931<num>$ ^talba/*talba$
+    ^931/931<num>$ ^talba/*talba$	;	REQUEST (f)
     ^931/931<num>$ ^jmorru/*jmorru$
-    ^931/931<num>$ ^ghadda/*ghadda$
+    ^931/931<num>$ ^ghadda/*ghadda$	;	TRAVERSE 
     ^925/925<num>$ ^Video/*Video$
     ^922/922<num>$ ^spiss/*spiss$
     ^916/916<num>$ ^Uncategorized/*Uncategorized$
@@ -233,9 +233,9 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^915/915<num>$ ^rispett/*rispett$
     ^914/914<num>$ ^għadha/*għadha$
     ^912/912<num>$ ^talli/*talli$
-    ^912/912<num>$ ^komuni/*komuni$
+    ^912/912<num>$ ^komuni/*komuni$	;	COMMON 
     ^912/912<num>$ ^għalija/*għalija$
-    ^912/912<num>$ ^gewwa/*gewwa$
+    ^912/912<num>$ ^gewwa/*gewwa$	;	WITHIN 
     ^912/912<num>$ ^flok/*flok$
     ^910/910<num>$ ^żgħażagħ/*żgħażagħ$
     ^909/909<num>$ ^qalulna/*qalulna$
@@ -252,11 +252,11 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^888/888<num>$ ^ifisser/*ifisser$
     ^885/885<num>$ ^għand/*għand$
     ^880/880<num>$ ^turi/*turi$
-    ^878/878<num>$ ^Madankollu/*Madankollu$
+    ^878/878<num>$ ^Madankollu/*Madankollu$	;	HOWEVER 
     ^878/878<num>$ ^inkella/*inkella$
     ^878/878<num>$ ^hawnhekk/*hawnhekk$
     ^877/877<num>$ ^qieghdin/*qieghdin$
-    ^877/877<num>$ ^kompla/*kompla$
+    ^877/877<num>$ ^kompla/*kompla$	;	CONTINUE 
     ^875/875<num>$ ^ghadhom/*ghadhom$
     ^873/873<num>$ ^inkunu/*inkunu$
     ^871/871<num>$ ^bdejt/*bdejt$
@@ -267,34 +267,34 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^867/867<num>$ ^as/*as$
     ^864/864<num>$ ^police/*police$
     ^863/863<num>$ ^minuti/*minuti$
-    ^861/861<num>$ ^ġara/*ġara$
+    ^861/861<num>$ ^ġara/*ġara$	;	TOURNAMENT (f)
     ^861/861<num>$ ^an/*an$
     ^860/860<num>$ ^rigward/*rigward$
     ^859/859<num>$ ^tmexxija/*tmexxija$
     ^859/859<num>$ ^imur/*imur$
     ^858/858<num>$ ^Gw/*Gw$
     ^858/858<num>$ ^Gatt/*Gatt$
-    ^857/857<num>$ ^Liġi/*Liġi$
+    ^857/857<num>$ ^Liġi/*Liġi$	;	STATUTE (f)
     ^857/857<num>$ ^Awissu/*Awissu$
     ^856/856<num>$ ^vera/*vera$
     ^852/852<num>$ ^anzi/*anzi$
     ^851/851<num>$ ^ħareġ/*ħareġ$
     ^849/849<num>$ ^nsibu/*nsibu$
-    ^848/848<num>$ ^bicca/*bicca$
+    ^848/848<num>$ ^bicca/*bicca$	;	TITBIT (f)
     ^844/844<num>$ ^humiex/*humiex$
-    ^844/844<num>$ ^ftehim/*ftehim$
+    ^844/844<num>$ ^ftehim/*ftehim$	;	TREATY (m)
     ^843/843<num>$ ^Avvi/*Avvi$
     ^842/842<num>$ ^brutal/*brutal$
     ^842/842<num>$ ^beating/*beating$
-    ^841/841<num>$ ^responsabbli/*responsabbli$
+    ^841/841<num>$ ^responsabbli/*responsabbli$	;	RESPONSIBLE 
     ^841/841<num>$ ^dying/*dying$
     ^841/841<num>$ ^alleges/*alleges$
-    ^840/840<num>$ ^karriera/*karriera$
+    ^840/840<num>$ ^karriera/*karriera$	;	CAREER (f)
     ^836/836<num>$ ^magħrufa/*magħrufa$
-    ^835/835<num>$ ^maghruf/*maghruf$
-    ^832/832<num>$ ^għaqda/*għaqda$
-    ^830/830<num>$ ^sahha/*sahha$
-    ^830/830<num>$ ^mejjet/*mejjet$
+    ^835/835<num>$ ^maghruf/*maghruf$	;	FAMOUS 
+    ^832/832<num>$ ^għaqda/*għaqda$	;	UNION (f)
+    ^830/830<num>$ ^sahha/*sahha$	;	VIGOR (f)
+    ^830/830<num>$ ^mejjet/*mejjet$	;	DECEASED 
     ^823/823<num>$ ^kontijiet/*kontijiet$
     ^822/822<num>$ ^mort/*mort$
     ^819/819<num>$ ^importanza/*importanza$
@@ -304,50 +304,50 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^811/811<num>$ ^għalihom/*għalihom$
     ^810/810<num>$ ^tkompli/*tkompli$
     ^810/810<num>$ ^lkoll/*lkoll$
-    ^808/808<num>$ ^xita/*xita$
+    ^808/808<num>$ ^xita/*xita$	;	RAIN (f)
     ^808/808<num>$ ^simili/*simili$
     ^806/806<num>$ ^ċar/*ċar$
     ^801/801<num>$ ^insibu/*insibu$
     ^800/800<num>$ ^August/*August$
     ^798/798<num>$ ^ħidma/*ħidma$
     ^796/796<num>$ ^juru/*juru$
-    ^794/794<num>$ ^kwazi/*kwazi$
+    ^794/794<num>$ ^kwazi/*kwazi$	;	NEARLY 
     ^793/793<num>$ ^O/*O$
     ^793/793<num>$ ^kinitx/*kinitx$
     ^793/793<num>$ ^January/*January$
-    ^790/790<num>$ ^Kap/*Kap$
-    ^787/787<num>$ ^storja/*storja$
+    ^790/790<num>$ ^Kap/*Kap$	;	LEADER (m)
+    ^787/787<num>$ ^storja/*storja$	;	TALE (f)
     ^784/784<num>$ ^Vassallo/*Vassallo$
     ^783/783<num>$ ^istudenti/*istudenti$
     ^781/781<num>$ ^Home/*Home$
     ^781/781<num>$ ^bloggata/*bloggata$
-    ^781/781<num>$ ^alla/*alla$
+    ^781/781<num>$ ^alla/*alla$	;	GOD (m)
     ^780/780<num>$ ^Posts/*Posts$
-    ^778/778<num>$ ^qaddis/*qaddis$
-    ^778/778<num>$ ^bizzejjed/*bizzejjed$
+    ^778/778<num>$ ^qaddis/*qaddis$	;	HOLY 
+    ^778/778<num>$ ^bizzejjed/*bizzejjed$	;	SUFFICIENT 
     ^776/776<num>$ ^jerġa/*jerġa$
     ^774/774<num>$ ^proċess/*proċess$
     ^774/774<num>$ ^gej/*gej$
-    ^774/774<num>$ ^biża/*biża$
+    ^774/774<num>$ ^biża/*biża$	;	FEAR (m)
     ^771/771<num>$ ^jibqgħu/*jibqgħu$
     ^770/770<num>$ ^Ispettur/*Ispettur$
     ^769/769<num>$ ^da/*da$
     ^769/769<num>$ ^ċertu/*ċertu$
     ^766/766<num>$ ^età/*età$
-    ^764/764<num>$ ^boghod/*boghod$
+    ^764/764<num>$ ^boghod/*boghod$	;	REMOTE 
     ^763/763<num>$ ^poeti/*poeti$
     ^763/763<num>$ ^blog/*blog$
     ^761/761<num>$ ^Rum/*Rum$
     ^759/759<num>$ ^tlett/*tlett$
     ^758/758<num>$ ^che/*che$
-    ^757/757<num>$ ^ħlief/*ħlief$
-    ^756/756<num>$ ^imbaghad/*imbaghad$
+    ^757/757<num>$ ^ħlief/*ħlief$	;	UNLESS 
+    ^756/756<num>$ ^imbaghad/*imbaghad$	;	THEN 
     ^755/755<num>$ ^suċċess/*suċċess$
     ^755/755<num>$ ^joħroġ/*joħroġ$
     ^750/750<num>$ ^W/*W$
     ^750/750<num>$ ^Attard/*Attard$
-    ^749/749<num>$ ^għażla/*għażla$
-    ^748/748<num>$ ^kmieni/*kmieni$
+    ^749/749<num>$ ^għażla/*għażla$	;	OPTION (f)
+    ^748/748<num>$ ^kmieni/*kmieni$	;	EARLY 
     ^744/744<num>$ ^Categories/*Categories$
     ^743/743<num>$ ^Pace/*Pace$
     ^743/743<num>$ ^nzi/*nzi$
@@ -357,10 +357,10 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^737/737<num>$ ^xogħlijiet/*xogħlijiet$
     ^736/736<num>$ ^jgħix/*jgħix$
     ^736/736<num>$ ^glorja/*glorja$
-    ^735/735<num>$ ^tagħlim/*tagħlim$
+    ^735/735<num>$ ^tagħlim/*tagħlim$	;	TUITION (m)
     ^735/735<num>$ ^October/*October$
     ^734/734<num>$ ^Simshar/*Simshar$
-    ^734/734<num>$ ^nifs/*nifs$
+    ^734/734<num>$ ^nifs/*nifs$	;	BREATH (m)
     ^732/732<num>$ ^realtà/*realtà$
     ^731/731<num>$ ^Links/*Links$
     ^730/730<num>$ ^festival/*festival$
@@ -368,25 +368,25 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^727/727<num>$ ^twieled/*twieled$
     ^725/725<num>$ ^artal/*artal$
     ^719/719<num>$ ^gravi/*gravi$
-    ^718/718<num>$ ^użu/*użu$
+    ^718/718<num>$ ^użu/*użu$	;	USE (m)
     ^718/718<num>$ ^not/*not$
     ^717/717<num>$ ^jidħol/*jidħol$
-    ^716/716<num>$ ^messaġġ/*messaġġ$
-    ^715/715<num>$ ^xhieda/*xhieda$
+    ^716/716<num>$ ^messaġġ/*messaġġ$	;	MESSAGE (m)
+    ^715/715<num>$ ^xhieda/*xhieda$	;	TESTIMONY (f)
     ^713/713<num>$ ^bħalissa/*bħalissa$
-    ^712/712<num>$ ^taqsima/*taqsima$
+    ^712/712<num>$ ^taqsima/*taqsima$	;	CLASS (f)
     ^712/712<num>$ ^Imżebbel/*Imżebbel$
-    ^712/712<num>$ ^hdejn/*hdejn$
+    ^712/712<num>$ ^hdejn/*hdejn$	;	NEXT TO 
     ^709/709<num>$ ^Mizzi/*Mizzi$
-    ^705/705<num>$ ^gid/*gid$
+    ^705/705<num>$ ^gid/*gid$	;	WEALTH (m)
     ^705/705<num>$ ^għamilt/*għamilt$
-    ^704/704<num>$ ^hemmhekk/*hemmhekk$
+    ^704/704<num>$ ^hemmhekk/*hemmhekk$	;	YONDER 
     ^703/703<num>$ ^qassisin/*qassisin$
     ^699/699<num>$ ^De/*De$
     ^698/698<num>$ ^jistenna/*jistenna$
     ^696/696<num>$ ^qaddejja/*qaddejja$
     ^695/695<num>$ ^jemmnu/*jemmnu$
-    ^694/694<num>$ ^Għaqda/*Għaqda$
+    ^694/694<num>$ ^Għaqda/*Għaqda$	;	UNION (f)
     ^692/692<num>$ ^talb/*talb$
     ^692/692<num>$ ^kinux/*kinux$
     ^691/691<num>$ ^bilfors/*bilfors$
@@ -397,20 +397,20 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^689/689<num>$ ^innifsu/*innifsu$
     ^686/686<num>$ ^preżenti/*preżenti$
     ^684/684<num>$ ^halli/*halli$
-    ^684/684<num>$ ^Allura/*Allura$
+    ^684/684<num>$ ^Allura/*Allura$	;	THEN 
     ^682/682<num>$ ^Saliba/*Saliba$
     ^682/682<num>$ ^minghand/*minghand$
     ^682/682<num>$ ^mimlija/*mimlija$
     ^681/681<num>$ ^jgħixu/*jgħixu$
     ^681/681<num>$ ^jemmen/*jemmen$
-    ^680/680<num>$ ^kura/*kura$
+    ^680/680<num>$ ^kura/*kura$	;	TREATMENT (f)
     ^676/676<num>$ ^reġa/*reġa$
     ^676/676<num>$ ^Bugeja/*Bugeja$
     ^675/675<num>$ ^nofsinhar/*nofsinhar$
     ^674/674<num>$ ^that/*that$
     ^674/674<num>$ ^ghalija/*ghalija$
     ^674/674<num>$ ^ewro/*ewro$
-    ^673/673<num>$ ^Wied/*Wied$
+    ^673/673<num>$ ^Wied/*Wied$	;	VALLEY (m)
     ^673/673<num>$ ^magħha/*magħha$
     ^673/673<num>$ ^jifhem/*jifhem$
     ^673/673<num>$ ^isbaħ/*isbaħ$
@@ -426,7 +426,7 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^663/663<num>$ ^għadni/*għadni$
     ^662/662<num>$ ^marret/*marret$
     ^661/661<num>$ ^Mobile/*Mobile$
-    ^659/659<num>$ ^qtil/*qtil$
+    ^659/659<num>$ ^qtil/*qtil$	;	MURDER (m)
     ^659/659<num>$ ^Naħseb/*Naħseb$
     ^658/658<num>$ ^media/*media$
     ^658/658<num>$ ^d/*d$
@@ -434,37 +434,37 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^657/657<num>$ ^Pages/*Pages$
     ^657/657<num>$ ^Blogroll/*Blogroll$
     ^656/656<num>$ ^għadd/*għadd$
-    ^656/656<num>$ ^dħul/*dħul$
+    ^656/656<num>$ ^dħul/*dħul$	;	REVENUE (m)
     ^654/654<num>$ ^ibnu/*ibnu$
     ^652/652<num>$ ^kitbiet/*kitbiet$
     ^652/652<num>$ ^imorru/*imorru$
-    ^651/651<num>$ ^temp/*temp$
+    ^651/651<num>$ ^temp/*temp$	;	WEATHER (m)
     ^650/650<num>$ ^Like/*Like$
-    ^650/650<num>$ ^daħal/*daħal$
+    ^650/650<num>$ ^daħal/*daħal$	;	ENCROACH 
     ^649/649<num>$ ^kapaċi/*kapaċi$
     ^649/649<num>$ ^darb/*darb$
     ^649/649<num>$ ^Archive/*Archive$
     ^648/648<num>$ ^smajt/*smajt$
     ^647/647<num>$ ^account/*account$
-    ^646/646<num>$ ^pjuttost/*pjuttost$
+    ^646/646<num>$ ^pjuttost/*pjuttost$	;	RATHER 
     ^646/646<num>$ ^filghodu/*filghodu$
     ^646/646<num>$ ^della/*della$
-    ^645/645<num>$ ^kuxjenza/*kuxjenza$
+    ^645/645<num>$ ^kuxjenza/*kuxjenza$	;	CONSCIENCE (f)
     ^644/644<num>$ ^jgħaddi/*jgħaddi$
     ^642/642<num>$ ^Times/*Times$
-    ^641/641<num>$ ^hwejjeg/*hwejjeg$
+    ^641/641<num>$ ^hwejjeg/*hwejjeg$	;	WARE 
     ^641/641<num>$ ^għ/*għ$
     ^640/640<num>$ ^joqgħod/*joqgħod$
     ^639/639<num>$ ^ethom/*ethom$
-    ^637/637<num>$ ^mimli/*mimli$
+    ^637/637<num>$ ^mimli/*mimli$	;	STUFFED 
     ^635/635<num>$ ^ghaddej/*ghaddej$
-    ^635/635<num>$ ^car/*car$
+    ^635/635<num>$ ^car/*car$	;	TRANSPARENT 
     ^634/634<num>$ ^Create/*Create$
-    ^632/632<num>$ ^qaddej/*qaddej$
+    ^632/632<num>$ ^qaddej/*qaddej$	;	SERVANT (m)
     ^631/631<num>$ ^Mbagħad/*Mbagħad$
-    ^630/630<num>$ ^xorti/*xorti$
+    ^630/630<num>$ ^xorti/*xorti$	;	LUCK (f)
     ^628/628<num>$ ^proprju/*proprju$
-    ^627/627<num>$ ^Grazzi/*Grazzi$
+    ^627/627<num>$ ^Grazzi/*Grazzi$	;	THANK YOU 
     ^626/626<num>$ ^għaliha/*għaliha$
     ^625/625<num>$ ^tarah/*tarah$
     ^625/625<num>$ ^kamp/*kamp$
@@ -488,19 +488,19 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^617/617<num>$ ^Judg/*Judg$
     ^616/616<num>$ ^jilgħab/*jilgħab$
     ^616/616<num>$ ^donnu/*donnu$
-    ^615/615<num>$ ^vicin/*vicin$
+    ^615/615<num>$ ^vicin/*vicin$	;	NEAR 
     ^614/614<num>$ ^Guda/*Guda$
-    ^614/614<num>$ ^film/*film$
-    ^613/613<num>$ ^mexxej/*mexxej$
+    ^614/614<num>$ ^film/*film$	;	MOVIE (m)
+    ^613/613<num>$ ^mexxej/*mexxej$	;	LEADER (m)
     ^613/613<num>$ ^from/*from$
     ^611/611<num>$ ^Web/*Web$
-    ^611/611<num>$ ^inhawi/*inhawi$
-    ^611/611<num>$ ^għan/*għan$
-    ^610/610<num>$ ^grazzi/*grazzi$
+    ^611/611<num>$ ^inhawi/*inhawi$	;	WHEREABOUTS 
+    ^611/611<num>$ ^għan/*għan$	;	END (m)
+    ^610/610<num>$ ^grazzi/*grazzi$	;	THANK YOU 
     ^608/608<num>$ ^versi/*versi$
     ^608/608<num>$ ^jmiss/*jmiss$
     ^607/607<num>$ ^Gauci/*Gauci$
-    ^606/606<num>$ ^offerta/*offerta$
+    ^606/606<num>$ ^offerta/*offerta$	;	TRIBUTE (f)
     ^605/605<num>$ ^tisma/*tisma$
     ^605/605<num>$ ^qari/*qari$
     ^605/605<num>$ ^ghaddiet/*ghaddiet$
@@ -511,84 +511,84 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^602/602<num>$ ^ġejjin/*ġejjin$
     ^599/599<num>$ ^maghha/*maghha$
     ^599/599<num>$ ^hallelin/*hallelin$
-    ^595/595<num>$ ^traffiku/*traffiku$
+    ^595/595<num>$ ^traffiku/*traffiku$	;	TRAFFIC (m)
     ^595/595<num>$ ^ħajtu/*ħajtu$
     ^595/595<num>$ ^ghamilt/*ghamilt$
-    ^595/595<num>$ ^darbtejn/*darbtejn$
+    ^595/595<num>$ ^darbtejn/*darbtejn$	;	TWICE 
     ^594/594<num>$ ^mbaghad/*mbaghad$
-    ^594/594<num>$ ^faqar/*faqar$
+    ^594/594<num>$ ^faqar/*faqar$	;	POVERTY (m)
     ^593/593<num>$ ^ghadd/*ghadd$
     ^592/592<num>$ ^nisma/*nisma$
-    ^592/592<num>$ ^inkjesta/*inkjesta$
+    ^592/592<num>$ ^inkjesta/*inkjesta$	;	INQUEST (f)
     ^592/592<num>$ ^Chetcuti/*Chetcuti$
-    ^591/591<num>$ ^wera/*wera$
+    ^591/591<num>$ ^wera/*wera$	;	UNFOLD 
     ^591/591<num>$ ^Poeti/*Poeti$
     ^591/591<num>$ ^niftakar/*niftakar$
     ^590/590<num>$ ^Saturday/*Saturday$
     ^590/590<num>$ ^Mak/*Mak$
     ^590/590<num>$ ^għalina/*għalina$
-    ^590/590<num>$ ^ferħ/*ferħ$
-    ^588/588<num>$ ^zaghzugh/*zaghzugh$
+    ^590/590<num>$ ^ferħ/*ferħ$	;	YEARLING (m)
+    ^588/588<num>$ ^zaghzugh/*zaghzugh$	;	YOUNG 
     ^587/587<num>$ ^oqsma/*oqsma$
-    ^587/587<num>$ ^ħsara/*ħsara$
+    ^587/587<num>$ ^ħsara/*ħsara$	;	MISCHIEF (f)
     ^587/587<num>$ ^għaddej/*għaddej$
     ^586/586<num>$ ^sejrin/*sejrin$
     ^586/586<num>$ ^certu/*certu$
     ^584/584<num>$ ^malli/*malli$
-    ^584/584<num>$ ^laqgħa/*laqgħa$
+    ^584/584<num>$ ^laqgħa/*laqgħa$	;	RECEPTION (f)
     ^583/583<num>$ ^smewwiet/*smewwiet$
     ^583/583<num>$ ^No/*No$
     ^581/581<num>$ ^Uniti/*Uniti$
     ^581/581<num>$ ^sabiħa/*sabiħa$
-    ^580/580<num>$ ^habs/*habs$
+    ^580/580<num>$ ^habs/*habs$	;	PRISON (m)
     ^580/580<num>$ ^Debono/*Debono$
-    ^579/579<num>$ ^telfa/*telfa$
+    ^579/579<num>$ ^telfa/*telfa$	;	SURRENDER (f)
     ^579/579<num>$ ^iżvilupp/*iżvilupp$
     ^579/579<num>$ ^griehi/*griehi$
-    ^579/579<num>$ ^bażi/*bażi$
-    ^578/578<num>$ ^rieda/*rieda$
+    ^579/579<num>$ ^bażi/*bażi$	;	GROUND (f)
+    ^578/578<num>$ ^rieda/*rieda$	;	WILL (f)
     ^576/576<num>$ ^miktuba/*miktuba$
     ^576/576<num>$ ^Marsa/*Marsa$
-    ^575/575<num>$ ^twelid/*twelid$
-    ^575/575<num>$ ^Taqsima/*Taqsima$
-    ^574/574<num>$ ^tali/*tali$
+    ^575/575<num>$ ^twelid/*twelid$	;	BIRTH (m)
+    ^575/575<num>$ ^Taqsima/*Taqsima$	;	CLASS (f)
+    ^574/574<num>$ ^tali/*tali$	;	SUCH 
     ^574/574<num>$ ^Jun/*Jun$
     ^574/574<num>$ ^jghaddi/*jghaddi$
     ^573/573<num>$ ^tag/*tag$
     ^573/573<num>$ ^jidhol/*jidhol$
-    ^573/573<num>$ ^Distrett/*Distrett$
-    ^572/572<num>$ ^ħdejn/*ħdejn$
-    ^571/571<num>$ ^skorja/*skorja$
-    ^571/571<num>$ ^saħansitra/*saħansitra$
+    ^573/573<num>$ ^Distrett/*Distrett$	;	DISTRICT (m)
+    ^572/572<num>$ ^ħdejn/*ħdejn$	;	NEXT TO 
+    ^571/571<num>$ ^skorja/*skorja$	;	SCORE 
+    ^571/571<num>$ ^saħansitra/*saħansitra$	;	EVEN 
     ^571/571<num>$ ^Aqra/*Aqra$
     ^570/570<num>$ ^ġnus/*ġnus$
     ^568/568<num>$ ^Twitter/*Twitter$
     ^568/568<num>$ ^libertà/*libertà$
     ^568/568<num>$ ^huwiex/*huwiex$
     ^567/567<num>$ ^del/*del$
-    ^566/566<num>$ ^Sahha/*Sahha$
+    ^566/566<num>$ ^Sahha/*Sahha$	;	VIGOR (f)
     ^566/566<num>$ ^jsehh/*jsehh$
-    ^565/565<num>$ ^saltna/*saltna$
+    ^565/565<num>$ ^saltna/*saltna$	;	REIGN (f)
     ^565/565<num>$ ^Mangion/*Mangion$
-    ^565/565<num>$ ^Habs/*Habs$
-    ^565/565<num>$ ^Għalkemm/*Għalkemm$
+    ^565/565<num>$ ^Habs/*Habs$	;	PRISON (m)
+    ^565/565<num>$ ^Għalkemm/*Għalkemm$	;	THOUGH 
     ^564/564<num>$ ^jidħlu/*jidħlu$
     ^564/564<num>$ ^haddiehor/*haddiehor$
-    ^563/563<num>$ ^kors/*kors$
-    ^563/563<num>$ ^ġisem/*ġisem$
-    ^563/563<num>$ ^gisem/*gisem$
+    ^563/563<num>$ ^kors/*kors$	;	COURSE (m)
+    ^563/563<num>$ ^ġisem/*ġisem$	;	BODY (m)
+    ^563/563<num>$ ^gisem/*gisem$	;	BODY (m)
     ^563/563<num>$ ^Franica/*Franica$
     ^563/563<num>$ ^darbiet/*darbiet$
     ^563/563<num>$ ^daqsxejn/*daqsxejn$
-    ^562/562<num>$ ^tfittxija/*tfittxija$
-    ^562/562<num>$ ^patt/*patt$
+    ^562/562<num>$ ^tfittxija/*tfittxija$	;	SEARCH (f)
+    ^562/562<num>$ ^patt/*patt$	;	PACT (m)
     ^562/562<num>$ ^hargu/*hargu$
     ^562/562<num>$ ^filgħodu/*filgħodu$
-    ^561/561<num>$ ^kap/*kap$
+    ^561/561<num>$ ^kap/*kap$	;	LEADER (m)
     ^559/559<num>$ ^ċentru/*ċentru$
-    ^558/558<num>$ ^spazju/*spazju$
+    ^558/558<num>$ ^spazju/*spazju$	;	SPACE (m)
     ^557/557<num>$ ^photo/*photo$
-    ^554/554<num>$ ^spicca/*spicca$
+    ^554/554<num>$ ^spicca/*spicca$	;	TERMINATE 
     ^554/554<num>$ ^sempliċi/*sempliċi$
     ^554/554<num>$ ^jkompli/*jkompli$
     ^553/553<num>$ ^jisma/*jisma$
@@ -604,17 +604,17 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^549/549<num>$ ^toħroġ/*toħroġ$
     ^548/548<num>$ ^qalilna/*qalilna$
     ^548/548<num>$ ^m/*m$
-    ^547/547<num>$ ^xellug/*xellug$
+    ^547/547<num>$ ^xellug/*xellug$	;	LEFT 
     ^547/547<num>$ ^rega/*rega$
-    ^546/546<num>$ ^inħawi/*inħawi$
+    ^546/546<num>$ ^inħawi/*inħawi$	;	WHEREABOUTS 
     ^545/545<num>$ ^għaddiet/*għaddiet$
     ^545/545<num>$ ^Droga/*Droga$
     ^544/544<num>$ ^na/*na$
     ^544/544<num>$ ^ghaddew/*ghaddew$
     ^542/542<num>$ ^picture/*picture$
-    ^542/542<num>$ ^ġenituri/*ġenituri$
+    ^542/542<num>$ ^ġenituri/*ġenituri$	;	PARENTS 
     ^541/541<num>$ ^issib/*issib$
-    ^540/540<num>$ ^vjolenza/*vjolenza$
+    ^540/540<num>$ ^vjolenza/*vjolenza$	;	VIOLENCE (f)
     ^539/539<num>$ ^tibdil/*tibdil$
     ^539/539<num>$ ^mingħand/*mingħand$
     ^539/539<num>$ ^jistennew/*jistennew$
@@ -626,32 +626,32 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^536/536<num>$ ^Connecting/*Connecting$
     ^535/535<num>$ ^Unit/*Unit$
     ^535/535<num>$ ^jaqra/*jaqra$
-    ^535/535<num>$ ^Bibbja/*Bibbja$
-    ^534/534<num>$ ^lilna/*lilna$
+    ^535/535<num>$ ^Bibbja/*Bibbja$	;	BIBLE (f)
+    ^534/534<num>$ ^lilna/*lilna$	;	US 
     ^533/533<num>$ ^żminijiet/*żminijiet$
     ^533/533<num>$ ^lemin/*lemin$
     ^533/533<num>$ ^jaqa/*jaqa$
-    ^532/532<num>$ ^kriżi/*kriżi$
+    ^532/532<num>$ ^kriżi/*kriżi$	;	CRISIS (f)
     ^531/531<num>$ ^liġijiet/*liġijiet$
-    ^530/530<num>$ ^żejt/*żejt$
-    ^530/530<num>$ ^inbid/*inbid$
+    ^530/530<num>$ ^żejt/*żejt$	;	OIL (m)
+    ^530/530<num>$ ^inbid/*inbid$	;	WINE (m)
     ^529/529<num>$ ^joqghod/*joqghod$
     ^528/528<num>$ ^nifhem/*nifhem$
-    ^527/527<num>$ ^prova/*prova$
+    ^527/527<num>$ ^prova/*prova$	;	TRY (f)
     ^527/527<num>$ ^c/*c$
     ^526/526<num>$ ^Katidral/*Katidral$
     ^526/526<num>$ ^jibqghu/*jibqghu$
     ^526/526<num>$ ^aħbar/*aħbar$
     ^526/526<num>$ ^Adami/*Adami$
     ^525/525<num>$ ^the/*the$
-    ^525/525<num>$ ^genituri/*genituri$
+    ^525/525<num>$ ^genituri/*genituri$	;	PARENTS 
     ^524/524<num>$ ^nibqa/*nibqa$
     ^524/524<num>$ ^New/*New$
     ^523/523<num>$ ^marbuta/*marbuta$
     ^522/522<num>$ ^marbut/*marbut$
     ^522/522<num>$ ^kowċ/*kowċ$
     ^522/522<num>$ ^http/*http$^:/:<sent>$
-    ^522/522<num>$ ^arma/*arma$
+    ^522/522<num>$ ^arma/*arma$	;	WEAPON (f)
     ^521/521<num>$ ^qaddisa/*qaddisa$
     ^521/521<num>$ ^nerġa/*nerġa$
     ^521/521<num>$ ^hinn/*hinn$
@@ -661,40 +661,40 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^519/519<num>$ ^fażi/*fażi$
     ^517/517<num>$ ^nistghu/*nistghu$
     ^517/517<num>$ ^idejhom/*idejhom$
-    ^516/516<num>$ ^twemmin/*twemmin$
+    ^516/516<num>$ ^twemmin/*twemmin$	;	FAITH (m)
     ^515/515<num>$ ^Kastilja/*Kastilja$
     ^513/513<num>$ ^tidħol/*tidħol$
     ^513/513<num>$ ^jingħad/*jingħad$
     ^512/512<num>$ ^ka/*ka$
     ^512/512<num>$ ^jaslu/*jaslu$
     ^512/512<num>$ ^ġebel/*ġebel$
-    ^512/512<num>$ ^cans/*cans$
+    ^512/512<num>$ ^cans/*cans$	;	CHANCE (m)
     ^510/510<num>$ ^jghixu/*jghixu$
     ^509/509<num>$ ^url/*url$
     ^509/509<num>$ ^mmexxi/*mmexxi$
     ^509/509<num>$ ^hajtu/*hajtu$
     ^508/508<num>$ ^twassal/*twassal$
     ^508/508<num>$ ^mhu/*mhu$
-    ^507/507<num>$ ^żwieġ/*żwieġ$
+    ^507/507<num>$ ^żwieġ/*żwieġ$	;	WEDDING (m)
     ^507/507<num>$ ^with/*with$
-    ^507/507<num>$ ^sostna/*sostna$
-    ^507/507<num>$ ^haj/*haj$
+    ^507/507<num>$ ^sostna/*sostna$	;	SUPPORT 
+    ^507/507<num>$ ^haj/*haj$	;	VIVID 
     ^507/507<num>$ ^ajru/*ajru$
     ^506/506<num>$ ^THE/*THE$
-    ^505/505<num>$ ^Ghalkemm/*Ghalkemm$
+    ^505/505<num>$ ^Ghalkemm/*Ghalkemm$	;	THOUGH 
     ^505/505<num>$ ^cool/*cool$
     ^505/505<num>$ ^apparat/*apparat$
     ^505/505<num>$ ^Apk/*Apk$
     ^503/503<num>$ ^th/*th$
-    ^502/502<num>$ ^kontroll/*kontroll$
-    ^502/502<num>$ ^inkwiet/*inkwiet$
+    ^502/502<num>$ ^kontroll/*kontroll$	;	CONTROL (m)
+    ^502/502<num>$ ^inkwiet/*inkwiet$	;	WORRY (m)
     ^502/502<num>$ ^ghadha/*ghadha$
     ^501/501<num>$ ^email/*email$
-    ^500/500<num>$ ^kotra/*kotra$
+    ^500/500<num>$ ^kotra/*kotra$	;	CROWD (f)
     ^500/500<num>$ ^Ġuda/*Ġuda$
     ^499/499<num>$ ^strike/*strike$
-    ^499/499<num>$ ^seħħ/*seħħ$
-    ^498/498<num>$ ^wirt/*wirt$
+    ^499/499<num>$ ^seħħ/*seħħ$	;	SUCCESS (m)
+    ^498/498<num>$ ^wirt/*wirt$	;	HERITAGE (m)
     ^498/498<num>$ ^minbarra/*minbarra$
     ^497/497<num>$ ^rebħu/*rebħu$
     ^497/497<num>$ ^Pisani/*Pisani$
@@ -702,20 +702,20 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^497/497<num>$ ^joffri/*joffri$
     ^497/497<num>$ ^Dalli/*Dalli$
     ^496/496<num>$ ^Mon/*Mon$
-    ^496/496<num>$ ^ilkoll/*ilkoll$
-    ^496/496<num>$ ^ħażen/*ħażen$
+    ^496/496<num>$ ^ilkoll/*ilkoll$	;	ALL 
+    ^496/496<num>$ ^ħażen/*ħażen$	;	MISCHIEF (m)
     ^495/495<num>$ ^Set/*Set$
     ^495/495<num>$ ^allat/*allat$
     ^494/494<num>$ ^għajnejn/*għajnejn$
-    ^493/493<num>$ ^stil/*stil$
+    ^493/493<num>$ ^stil/*stil$	;	STYLE (m)
     ^493/493<num>$ ^Hawnhekk/*Hawnhekk$
     ^493/493<num>$ ^grin/*grin$
     ^493/493<num>$ ^bqajt/*bqajt$
-    ^492/492<num>$ ^Renju/*Renju$
-    ^491/491<num>$ ^sagrificcju/*sagrificcju$
+    ^492/492<num>$ ^Renju/*Renju$	;	REIGN (m)
+    ^491/491<num>$ ^sagrificcju/*sagrificcju$	;	SACRIFICE (m)
     ^491/491<num>$ ^johorgu/*johorgu$
-    ^490/490<num>$ ^messagg/*messagg$
-    ^489/489<num>$ ^tahrig/*tahrig$
+    ^490/490<num>$ ^messagg/*messagg$	;	MESSAGE (m)
+    ^489/489<num>$ ^tahrig/*tahrig$	;	PRACTICE (m)
     ^489/489<num>$ ^joħorġu/*joħorġu$
     ^488/488<num>$ ^infushom/*infushom$
     ^488/488<num>$   *
@@ -724,13 +724,13 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^487/487<num>$ ^cry/*cry$
     ^487/487<num>$ ^busy/*busy$
     ^486/486<num>$ ^tongue/*tongue$
-    ^486/486<num>$ ^suġġett/*suġġett$
-    ^486/486<num>$ ^piż/*piż$
+    ^486/486<num>$ ^suġġett/*suġġett$	;	TOPIC (m)
+    ^486/486<num>$ ^piż/*piż$	;	WEIGHT (m)
     ^486/486<num>$ ^jingħata/*jingħata$
-    ^484/484<num>$ ^stqarr/*stqarr$
+    ^484/484<num>$ ^stqarr/*stqarr$	;	STATE 
     ^484/484<num>$ ^jaħseb/*jaħseb$
-    ^484/484<num>$ ^ħabs/*ħabs$
-    ^483/483<num>$ ^tort/*tort$
+    ^484/484<num>$ ^ħabs/*ħabs$	;	PRISON (m)
+    ^483/483<num>$ ^tort/*tort$	;	BLAME (m)
     ^483/483<num>$ ^laugh/*laugh$
     ^482/482<num>$ ^responsabbiltà/*responsabbiltà$
     ^482/482<num>$ ^kiss/*kiss$
@@ -764,19 +764,19 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^477/477<num>$ ^Kordin/*Kordin$
     ^476/476<num>$ ^Filwaqt/*Filwaqt$
     ^475/475<num>$ ^Wed/*Wed$
-    ^475/475<num>$ ^teatru/*teatru$
+    ^475/475<num>$ ^teatru/*teatru$	;	THEATER (m)
     ^475/475<num>$ ^Share/*Share$
     ^475/475<num>$ ^Portelli/*Portelli$
     ^475/475<num>$ ^anzjani/*anzjani$
     ^474/474<num>$ ^Aquilina/*Aquilina$
-    ^473/473<num>$ ^ħlas/*ħlas$
-    ^473/473<num>$ ^dell/*dell$
+    ^473/473<num>$ ^ħlas/*ħlas$	;	TOLL (m)
+    ^473/473<num>$ ^dell/*dell$	;	SHADE (m)
     ^472/472<num>$ ^Scerri/*Scerri$
     ^472/472<num>$ ^qam/*qam$
     ^472/472<num>$ ^isib/*isib$
-    ^472/472<num>$ ^hsara/*hsara$
+    ^472/472<num>$ ^hsara/*hsara$	;	MISCHIEF (f)
     ^470/470<num>$ ^bibien/*bibien$
-    ^470/470<num>$ ^Art/*Art$
+    ^470/470<num>$ ^Art/*Art$	;	SOIL (f)
     ^469/469<num>$ ^uħud/*uħud$
     ^469/469<num>$ ^studenti/*studenti$
     ^469/469<num>$ ^May/*May$
@@ -785,56 +785,56 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^469/469<num>$ ^baqgħet/*baqgħet$
     ^467/467<num>$ ^nirien/*nirien$
     ^467/467<num>$ ^mijiet/*mijiet$
-    ^467/467<num>$ ^agħar/*agħar$
-    ^466/466<num>$ ^Skont/*Skont$
+    ^467/467<num>$ ^agħar/*agħar$	;	WORSE 
+    ^466/466<num>$ ^Skont/*Skont$	;	REDUCTION (m)
     ^466/466<num>$ ^nett/*nett$
-    ^466/466<num>$ ^grawnd/*grawnd$
+    ^466/466<num>$ ^grawnd/*grawnd$	;	PLAYGROUND (m)
     ^466/466<num>$ ^għaddew/*għaddew$
-    ^465/465<num>$ ^kullimkien/*kullimkien$
+    ^465/465<num>$ ^kullimkien/*kullimkien$	;	EVERYWHERE 
     ^464/464<num>$ ^jgħaddu/*jgħaddu$
     ^462/462<num>$ ^ex/*ex$
     ^462/462<num>$ ^be/*be$
     ^461/461<num>$ ^muntanji/*muntanji$
     ^461/461<num>$ ^jismu/*jismu$
-    ^460/460<num>$ ^rebaħ/*rebaħ$
+    ^460/460<num>$ ^rebaħ/*rebaħ$	;	VANQUISH 
     ^460/460<num>$ ^maġġoranza/*maġġoranza$
     ^460/460<num>$ ^Libja/*Libja$
-    ^460/460<num>$ ^deni/*deni$
+    ^460/460<num>$ ^deni/*deni$	;	HARM (m)
     ^460/460<num>$ ^Dakinhar/*Dakinhar$
     ^459/459<num>$ ^hsarat/*hsarat$
     ^459/459<num>$ ^Fatalita/*Fatalita$
-    ^458/458<num>$ ^self/*self$
+    ^458/458<num>$ ^self/*self$	;	LOAN (m)
     ^457/457<num>$ ^ssib/*ssib$
-    ^457/457<num>$ ^nisel/*nisel$
+    ^457/457<num>$ ^nisel/*nisel$	;	ROOT (m)
     ^457/457<num>$ ^Maltese/*Maltese$
     ^457/457<num>$ ^ewlenin/*ewlenin$
     ^457/457<num>$ ^demokrazija/*demokrazija$
     ^457/457<num>$ ^apparti/*apparti$
-    ^456/456<num>$ ^sentenza/*sentenza$
+    ^456/456<num>$ ^sentenza/*sentenza$	;	SENTENCE (f)
     ^456/456<num>$ ^nibdew/*nibdew$
-    ^456/456<num>$ ^marda/*marda$
+    ^456/456<num>$ ^marda/*marda$	;	SICKNESS (f)
     ^456/456<num>$ ^instab/*instab$
     ^455/455<num>$ ^whud/*whud$
     ^455/455<num>$ ^isport/*isport$
     ^455/455<num>$ ^December/*December$
-    ^454/454<num>$ ^wassal/*wassal$
+    ^454/454<num>$ ^wassal/*wassal$	;	REACH 
     ^454/454<num>$ ^setghu/*setghu$
     ^453/453<num>$ ^qarrej/*qarrej$
     ^453/453<num>$ ^non/*non$
-    ^453/453<num>$ ^mil/*mil$
+    ^453/453<num>$ ^mil/*mil$	;	MILE (m)
     ^452/452<num>$ ^mhuwiex/*mhuwiex$
     ^452/452<num>$ ^Ewkaristija/*Ewkaristija$
     ^452/452<num>$ ^dettalji/*dettalji$
     ^451/451<num>$ ^website/*website$
-    ^451/451<num>$ ^Pont/*Pont$
+    ^451/451<num>$ ^Pont/*Pont$	;	DOT (m)
     ^451/451<num>$ ^mexxejja/*mexxejja$
     ^451/451<num>$ ^kompliet/*kompliet$
     ^451/451<num>$ ^Enemalta/*Enemalta$
     ^450/450<num>$ ^qarrejja/*qarrejja$
-    ^450/450<num>$ ^ghazla/*ghazla$
+    ^450/450<num>$ ^ghazla/*ghazla$	;	OPTION (f)
     ^450/450<num>$ ^dnubiet/*dnubiet$
     ^449/449<num>$ ^Frontex/*Frontex$
-    ^449/449<num>$ ^Centru/*Centru$
+    ^449/449<num>$ ^Centru/*Centru$	;	DOWNTOWN (m)
     ^448/448<num>$ ^Portugall/*Portugall$
     ^447/447<num>$ ^skip/*skip$
     ^447/447<num>$ ^Falzon/*Falzon$
@@ -842,7 +842,7 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^446/446<num>$ ^jsib/*jsib$
     ^445/445<num>$ ^baqgħu/*baqgħu$
     ^443/443<num>$ ^mhi/*mhi$
-    ^442/442<num>$ ^sahansitra/*sahansitra$
+    ^442/442<num>$ ^sahansitra/*sahansitra$	;	EVEN 
     ^442/442<num>$ ^Quddiesa/*Quddiesa$
     ^441/441<num>$ ^Sawl/*Sawl$
     ^441/441<num>$ ^mejtin/*mejtin$
@@ -850,14 +850,14 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^441/441<num>$ ^jghix/*jghix$
     ^440/440<num>$ ^Pullicino/*Pullicino$
     ^439/439<num>$ ^tidhol/*tidhol$
-    ^439/439<num>$ ^ħniena/*ħniena$
+    ^439/439<num>$ ^ħniena/*ħniena$	;	MERCY (f)
     ^438/438<num>$ ^staqsa/*staqsa$
     ^438/438<num>$ ^ħajti/*ħajti$
     ^438/438<num>$ ^għalik/*għalik$
     ^438/438<num>$ ^and/*and$
-    ^437/437<num>$ ^ambulanza/*ambulanza$
+    ^437/437<num>$ ^ambulanza/*ambulanza$	;	AMBULANCE (f)
     ^437/437<num>$ ^album/*album$
-    ^435/435<num>$ ^injam/*injam$
+    ^435/435<num>$ ^injam/*injam$	;	TIMBER (m)
     ^434/434<num>$ ^X/*X$
     ^434/434<num>$ ^Surgent/*Surgent$
     ^434/434<num>$ ^jiekol/*jiekol$
@@ -865,45 +865,45 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^434/434<num>$ ^għadna/*għadna$
     ^434/434<num>$ ^ġejja/*ġejja$
     ^433/433<num>$ ^tħares/*tħares$
-    ^433/433<num>$ ^Mexxej/*Mexxej$
-    ^431/431<num>$ ^kawża/*kawża$
+    ^433/433<num>$ ^Mexxej/*Mexxej$	;	LEADER (m)
+    ^431/431<num>$ ^kawża/*kawża$	;	REASON (f)
     ^430/430<num>$ ^ghajnejn/*ghajnejn$
-    ^428/428<num>$ ^uzu/*uzu$
+    ^428/428<num>$ ^uzu/*uzu$	;	USE (m)
     ^427/427<num>$ ^spiċċaw/*spiċċaw$
-    ^427/427<num>$ ^hela/*hela$
+    ^427/427<num>$ ^hela/*hela$	;	CONSUME 
     ^426/426<num>$ ^stejjer/*stejjer$
     ^426/426<num>$ ^moħħi/*moħħi$
     ^425/425<num>$ ^profeta/*profeta$
-    ^425/425<num>$ ^ħaj/*ħaj$
+    ^425/425<num>$ ^ħaj/*ħaj$	;	VIVID 
     ^424/424<num>$ ^tifhem/*tifhem$
     ^424/424<num>$ ^preżenza/*preżenza$
     ^424/424<num>$ ^jintervista/*jintervista$
     ^424/424<num>$ ^jieklu/*jieklu$
-    ^423/423<num>$ ^riħ/*riħ$
+    ^423/423<num>$ ^riħ/*riħ$	;	WIND (m)
     ^423/423<num>$ ^propju/*propju$
     ^423/423<num>$ ^ngħidlek/*ngħidlek$
     ^423/423<num>$ ^jinghataw/*jinghataw$
     ^423/423<num>$ ^filgħaxija/*filgħaxija$
-    ^422/422<num>$ ^kawza/*kawza$
-    ^422/422<num>$ ^dam/*dam$
+    ^422/422<num>$ ^kawza/*kawza$	;	REASON (f)
+    ^422/422<num>$ ^dam/*dam$	;	LINGER 
     ^421/421<num>$ ^tagħrif/*tagħrif$
     ^421/421<num>$ ^Air/*Air$
-    ^420/420<num>$ ^kapaci/*kapaci$
+    ^420/420<num>$ ^kapaci/*kapaci$	;	VERSATILE 
     ^420/420<num>$ ^impjegati/*impjegati$
-    ^420/420<num>$ ^ewlieni/*ewlieni$
+    ^420/420<num>$ ^ewlieni/*ewlieni$	;	PRIME 
     ^419/419<num>$ ^nzjarji/*nzjarji$
     ^419/419<num>$ ^jimxu/*jimxu$
-    ^418/418<num>$ ^vjaġġ/*vjaġġ$
+    ^418/418<num>$ ^vjaġġ/*vjaġġ$	;	VOYAGE (m)
     ^418/418<num>$ ^paċi/*paċi$
     ^418/418<num>$ ^nifhmu/*nifhmu$
     ^418/418<num>$ ^gimghat/*gimghat$
-    ^417/417<num>$ ^xbieha/*xbieha$
+    ^417/417<num>$ ^xbieha/*xbieha$	;	SHAPE (f)
     ^417/417<num>$ ^terġa/*terġa$
     ^417/417<num>$ ^gżejjer/*gżejjer$
     ^416/416<num>$ ^process/*process$
     ^416/416<num>$ ^Hamrun/*Hamrun$
     ^416/416<num>$ ^Buttigieg/*Buttigieg$
-    ^415/415<num>$ ^trab/*trab$
+    ^415/415<num>$ ^trab/*trab$	;	POWDER (m)
     ^415/415<num>$ ^taqra/*taqra$
     ^415/415<num>$ ^Sidi/*Sidi$
     ^415/415<num>$ ^Monday/*Monday$
@@ -911,63 +911,63 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^414/414<num>$ ^jonqos/*jonqos$
     ^414/414<num>$ ^iniex/*iniex$
     ^414/414<num>$ ^bhalissa/*bhalissa$
-    ^413/413<num>$ ^ħobż/*ħobż$
+    ^413/413<num>$ ^ħobż/*ħobż$	;	BREAD (m)
     ^413/413<num>$ ^esperjenzi/*esperjenzi$
     ^412/412<num>$ ^Eġittu/*Eġittu$
     ^411/411<num>$ ^You/*You$
     ^411/411<num>$ ^inhuma/*inhuma$
-    ^411/411<num>$ ^appoġġ/*appoġġ$
+    ^411/411<num>$ ^appoġġ/*appoġġ$	;	SUPPORT (m)
     ^410/410<num>$ ^residenza/*residenza$
     ^410/410<num>$ ^meqjusa/*meqjusa$
     ^409/409<num>$ ^tal/*tal$
-    ^409/409<num>$ ^sofra/*sofra$
-    ^409/409<num>$ ^Randan/*Randan$
-    ^408/408<num>$ ^żieda/*żieda$
+    ^409/409<num>$ ^sofra/*sofra$	;	UNDERGO 
+    ^409/409<num>$ ^Randan/*Randan$	;	LENT (m)
+    ^408/408<num>$ ^żieda/*żieda$	;	SUPPLEMENT (f)
     ^408/408<num>$ ^Mammalia/*Mammalia$
     ^408/408<num>$ ^apposta/*apposta$
     ^407/407<num>$ ^nstab/*nstab$
     ^407/407<num>$ ^Neħ/*Neħ$
     ^407/407<num>$ ^kapijiet/*kapijiet$
-    ^407/407<num>$ ^enormi/*enormi$
-    ^407/407<num>$ ^Emergenza/*Emergenza$
-    ^406/406<num>$ ^wied/*wied$
+    ^407/407<num>$ ^enormi/*enormi$	;	ENORMOUS 
+    ^407/407<num>$ ^Emergenza/*Emergenza$	;	EMERGENCY (f)
+    ^406/406<num>$ ^wied/*wied$	;	VALLEY (m)
     ^406/406<num>$ ^UnKnoWn/*UnKnoWn$
     ^406/406<num>$ ^partikulari/*partikulari$
     ^406/406<num>$ ^filghaxija/*filghaxija$
     ^406/406<num>$ ^è/*è$
     ^405/405<num>$ ^wiccu/*wiccu$
-    ^405/405<num>$ ^tifsira/*tifsira$
-    ^405/405<num>$ ^mindu/*mindu$
+    ^405/405<num>$ ^tifsira/*tifsira$	;	SIGNIFICANCE (f)
+    ^405/405<num>$ ^mindu/*mindu$	;	SINCE 
     ^405/405<num>$ ^imexxi/*imexxi$
     ^405/405<num>$ ^cocktails/*cocktails$
     ^405/405<num>$ ^Bertu/*Bertu$
-    ^404/404<num>$ ^serju/*serju$
+    ^404/404<num>$ ^serju/*serju$	;	SERIOUS 
     ^404/404<num>$ ^sajjieda/*sajjieda$
     ^404/404<num>$ ^maħfra/*maħfra$
     ^404/404<num>$ ^jifhmu/*jifhmu$
     ^403/403<num>$ ^zminijiet/*zminijiet$
-    ^403/403<num>$ ^Re/*Re$
+    ^403/403<num>$ ^Re/*Re$	;	KING (m)
     ^403/403<num>$ ^ja/*ja$
     ^401/401<num>$ ^tgħaddi/*tgħaddi$
     ^401/401<num>$ ^Older/*Older$
-    ^401/401<num>$ ^mistenni/*mistenni$
+    ^401/401<num>$ ^mistenni/*mistenni$	;	DUE 
     ^401/401<num>$ ^ċivili/*ċivili$
     ^400/400<num>$ ^Nemmen/*Nemmen$
-    ^400/400<num>$ ^Imbaghad/*Imbaghad$
+    ^400/400<num>$ ^Imbaghad/*Imbaghad$	;	THEN 
     ^400/400<num>$ ^Diocese/*Diocese$
     ^400/400<num>$ ^Bonello/*Bonello$
     ^400/400<num>$ ^armi/*armi$
     ^398/398<num>$ ^hruq/*hruq$
     ^397/397<num>$ ^siġar/*siġar$
     ^397/397<num>$ ^għandniex/*għandniex$
-    ^396/396<num>$ ^xorb/*xorb$
+    ^396/396<num>$ ^xorb/*xorb$	;	BEVERAGE (m)
     ^396/396<num>$ ^Name/*Name$
     ^395/395<num>$ ^rashom/*rashom$
     ^395/395<num>$ ^ħajr/*ħajr$
     ^394/394<num>$ ^TV/*TV$
     ^394/394<num>$ ^tingħata/*tingħata$
     ^394/394<num>$ ^rasi/*rasi$
-    ^394/394<num>$ ^gass/*gass$
+    ^394/394<num>$ ^gass/*gass$	;	GAS (m)
     ^393/393<num>$ ^wiegeb/*wiegeb$
     ^393/393<num>$ ^tela/*tela$
     ^393/393<num>$ ^ragun/*ragun$
@@ -976,11 +976,11 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^392/392<num>$ ^Festival/*Festival$
     ^391/391<num>$ ^sejra/*sejra$
     ^391/391<num>$ ^militari/*militari$
-    ^391/391<num>$ ^ġieħ/*ġieħ$
+    ^391/391<num>$ ^ġieħ/*ġieħ$	;	REPUTATION (m)
     ^390/390<num>$ ^vettura/*vettura$
     ^390/390<num>$ ^Libertas/*Libertas$
     ^390/390<num>$ ^jeħtieġ/*jeħtieġ$
-    ^390/390<num>$ ^ħtieġa/*ħtieġa$
+    ^390/390<num>$ ^ħtieġa/*ħtieġa$	;	WANT (f)
     ^389/389<num>$ ^Theria/*Theria$
     ^389/389<num>$ ^Popolari/*Popolari$
     ^389/389<num>$ ^jiswa/*jiswa$
@@ -991,18 +991,18 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^387/387<num>$ ^said/*said$
     ^387/387<num>$ ^ngħixu/*ngħixu$
     ^387/387<num>$ ^mifhum/*mifhum$
-    ^386/386<num>$ ^rakkont/*rakkont$
+    ^386/386<num>$ ^rakkont/*rakkont$	;	STORY (m)
     ^386/386<num>$ ^parroċċa/*parroċċa$
     ^386/386<num>$ ^faċċata/*faċċata$
     ^386/386<num>$ ^About/*About$
-    ^385/385<num>$ ^qima/*qima$
+    ^385/385<num>$ ^qima/*qima$	;	WORSHIP (f)
     ^385/385<num>$ ^English/*English$
     ^385/385<num>$ ^blat/*blat$
     ^384/384<num>$ ^Ikkuntattjana/*Ikkuntattjana$
     ^384/384<num>$ ^ġejjieni/*ġejjieni$
     ^384/384<num>$ ^BTM/*BTM$
     ^383/383<num>$ ^sighat/*sighat$
-    ^383/383<num>$ ^ferh/*ferh$
+    ^383/383<num>$ ^ferh/*ferh$	;	YEARLING (m)
     ^382/382<num>$ ^jippruvaw/*jippruvaw$
     ^382/382<num>$ ^are/*are$
     ^381/381<num>$ ^twistees/*twistees$
@@ -1010,51 +1010,51 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^381/381<num>$ ^serji/*serji$
     ^381/381<num>$ ^quddiemi/*quddiemi$
     ^381/381<num>$ ^Me/*Me$
-    ^380/380<num>$ ^qaghda/*qaghda$
+    ^380/380<num>$ ^qaghda/*qaghda$	;	POSTURE (f)
     ^380/380<num>$ ^free/*free$
     ^379/379<num>$ ^time/*time$
-    ^379/379<num>$ ^palk/*palk$
+    ^379/379<num>$ ^palk/*palk$	;	THEATER (m)
     ^379/379<num>$ ^numri/*numri$
     ^379/379<num>$ ^kopja/*kopja$
     ^379/379<num>$ ^kinnie/*kinnie$
     ^379/379<num>$ ^ġieli/*ġieli$
     ^379/379<num>$ ^dwaru/*dwaru$
     ^378/378<num>$ ^Torċa/*Torċa$
-    ^378/378<num>$ ^Sakemm/*Sakemm$
+    ^378/378<num>$ ^Sakemm/*Sakemm$	;	UNTIL 
     ^378/378<num>$ ^me/*me$
     ^378/378<num>$ ^ġabra/*ġabra$
     ^377/377<num>$ ^nzjarja/*nzjarja$
     ^377/377<num>$ ^Lussemburgu/*Lussemburgu$
     ^376/376<num>$ ^timxi/*timxi$
     ^376/376<num>$ ^Birgu/*Birgu$
-    ^375/375<num>$ ^Temp/*Temp$
+    ^375/375<num>$ ^Temp/*Temp$	;	WEATHER (m)
     ^375/375<num>$ ^sewwieq/*sewwieq$
     ^375/375<num>$ ^marbutin/*marbutin$
-    ^374/374<num>$ ^Veru/*Veru$
+    ^374/374<num>$ ^Veru/*Veru$	;	TRUE 
     ^374/374<num>$ ^Nadur/*Nadur$
     ^374/374<num>$ ^maggoranza/*maggoranza$
     ^373/373<num>$ ^studju/*studju$
     ^373/373<num>$ ^jingħataw/*jingħataw$
     ^373/373<num>$ ^ghadni/*ghadni$
-    ^373/373<num>$ ^garaxx/*garaxx$
+    ^373/373<num>$ ^garaxx/*garaxx$	;	GARAGE (m)
     ^372/372<num>$ ^vetturi/*vetturi$
     ^372/372<num>$ ^postu/*postu$
     ^372/372<num>$ ^no/*no$
     ^372/372<num>$ ^Naxxar/*Naxxar$
-    ^372/372<num>$ ^metru/*metru$
-    ^371/371<num>$ ^re/*re$
+    ^372/372<num>$ ^metru/*metru$	;	METER (m)
+    ^371/371<num>$ ^re/*re$	;	KING (m)
     ^371/371<num>$ ^noqgħod/*noqgħod$
     ^371/371<num>$ ^Manwel/*Manwel$
     ^371/371<num>$ ^gejja/*gejja$
     ^370/370<num>$ ^of/*of$
-    ^370/370<num>$ ^mixja/*mixja$
+    ^370/370<num>$ ^mixja/*mixja$	;	WALK (f)
     ^370/370<num>$ ^mibnija/*mibnija$
     ^370/370<num>$ ^meħtieġa/*meħtieġa$
     ^370/370<num>$ ^impjiegi/*impjiegi$
-    ^368/368<num>$ ^zieda/*zieda$
+    ^368/368<num>$ ^zieda/*zieda$	;	SUPPLEMENT (f)
     ^368/368<num>$ ^tohrog/*tohrog$
     ^368/368<num>$ ^stajtx/*stajtx$
-    ^368/368<num>$ ^skiet/*skiet$
+    ^368/368<num>$ ^skiet/*skiet$	;	SILENCE (m)
     ^368/368<num>$ ^saċerdot/*saċerdot$
     ^368/368<num>$ ^Newer/*Newer$
     ^368/368<num>$ ^naslu/*naslu$
@@ -1064,14 +1064,14 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^367/367<num>$ ^madwaru/*madwaru$
     ^367/367<num>$ ^Insara/*Insara$
     ^367/367<num>$ ^ifittex/*ifittex$
-    ^367/367<num>$ ^Avvent/*Avvent$
+    ^367/367<num>$ ^Avvent/*Avvent$	;	ADVENT (m)
     ^366/366<num>$ ^seems/*seems$
-    ^366/366<num>$ ^ramel/*ramel$
+    ^366/366<num>$ ^ramel/*ramel$	;	SAND (m)
     ^366/366<num>$ ^online/*online$
     ^366/366<num>$ ^November/*November$
     ^366/366<num>$ ^Gran/*Gran$
-    ^366/366<num>$ ^fadal/*fadal$
-    ^365/365<num>$ ^rari/*rari$
+    ^366/366<num>$ ^fadal/*fadal$	;	REMAIN 
+    ^365/365<num>$ ^rari/*rari$	;	UNCOMMON 
     ^365/365<num>$ ^nemmnu/*nemmnu$
     ^365/365<num>$ ^n/*n$
     ^365/365<num>$ ^mietet/*mietet$
@@ -1080,20 +1080,20 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^364/364<num>$ ^taħseb/*taħseb$
     ^364/364<num>$ ^nnifsi/*nnifsi$
     ^363/363<num>$ ^sodisfazzjon/*sodisfazzjon$
-    ^363/363<num>$ ^klima/*klima$
+    ^363/363<num>$ ^klima/*klima$	;	CLIMATE (f)
     ^363/363<num>$ ^jumejn/*jumejn$
-    ^362/362<num>$ ^tweġiba/*tweġiba$
-    ^362/362<num>$ ^tnaqqis/*tnaqqis$
-    ^362/362<num>$ ^meqjus/*meqjus$
+    ^362/362<num>$ ^tweġiba/*tweġiba$	;	RESPONSE (f)
+    ^362/362<num>$ ^tnaqqis/*tnaqqis$	;	DECREASE (m)
+    ^362/362<num>$ ^meqjus/*meqjus$	;	SOBER 
     ^361/361<num>$ ^referendum/*referendum$
     ^361/361<num>$ ^Babilonja/*Babilonja$
-    ^360/360<num>$ ^taghlim/*taghlim$
+    ^360/360<num>$ ^taghlim/*taghlim$	;	TUITION (m)
     ^360/360<num>$ ^Munxar/*Munxar$
     ^360/360<num>$ ^miftuħa/*miftuħa$
     ^360/360<num>$ ^laqgħat/*laqgħat$
     ^360/360<num>$ ^jsibu/*jsibu$
     ^360/360<num>$ ^impenn/*impenn$
-    ^360/360<num>$ ^Dwana/*Dwana$
+    ^360/360<num>$ ^Dwana/*Dwana$	;	CUSTOMS (f)
     ^359/359<num>$ ^Ricenti/*Ricenti$
     ^359/359<num>$ ^Billi/*Billi$
     ^359/359<num>$ ^AN/*AN$
@@ -1102,20 +1102,20 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^358/358<num>$ ^fiduċja/*fiduċja$
     ^358/358<num>$ ^Box/*Box$
     ^358/358<num>$ ^Bongu/*Bongu$
-    ^357/357<num>$ ^Saħħa/*Saħħa$
+    ^357/357<num>$ ^Saħħa/*Saħħa$	;	VIGOR (f)
     ^357/357<num>$ ^ruħha/*ruħha$
     ^357/357<num>$ ^każi/*każi$
     ^357/357<num>$ ^Karmenu/*Karmenu$
-    ^357/357<num>$ ^ghan/*ghan$
-    ^356/356<num>$ ^Karikatura/*Karikatura$
+    ^357/357<num>$ ^ghan/*ghan$	;	END (m)
+    ^356/356<num>$ ^Karikatura/*Karikatura$	;	CARICATURE (f)
     ^356/356<num>$ ^kant/*kant$
     ^356/356<num>$ ^ghami/*ghami$
     ^356/356<num>$ ^Fr/*Fr$
     ^355/355<num>$ ^nistenna/*nistenna$
     ^355/355<num>$ ^Minbarra/*Minbarra$
     ^355/355<num>$ ^erbat/*erbat$
-    ^354/354<num>$ ^tbissima/*tbissima$
-    ^354/354<num>$ ^semma/*semma$
+    ^354/354<num>$ ^tbissima/*tbissima$	;	SMILE (f)
+    ^354/354<num>$ ^semma/*semma$	;	CHRISTEN 
     ^354/354<num>$ ^jiġbor/*jiġbor$
     ^354/354<num>$ ^era/*era$
     ^354/354<num>$ ^Cup/*Cup$
@@ -1123,7 +1123,7 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^353/353<num>$ ^Salvatagg/*Salvatagg$
     ^353/353<num>$ ^mistennija/*mistennija$
     ^353/353<num>$ ^jieqaf/*jieqaf$
-    ^352/352<num>$ ^żagħżugħ/*żagħżugħ$
+    ^352/352<num>$ ^żagħżugħ/*żagħżugħ$	;	YOUNG 
     ^352/352<num>$ ^Turkija/*Turkija$
     ^352/352<num>$ ^qrajt/*qrajt$
     ^352/352<num>$ ^qalulu/*qalulu$
@@ -1141,28 +1141,28 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^349/349<num>$ ^sabiha/*sabiha$
     ^349/349<num>$ ^għajnejja/*għajnejja$
     ^348/348<num>$ ^setgħa/*setgħa$
-    ^348/348<num>$ ^rigal/*rigal$
+    ^348/348<num>$ ^rigal/*rigal$	;	TRIBUTE (m)
     ^348/348<num>$ ^Ħamis/*Ħamis$
     ^347/347<num>$ ^TM/*TM$
-    ^347/347<num>$ ^Spiza/*Spiza$
+    ^347/347<num>$ ^Spiza/*Spiza$	;	EXPENSE (f)
     ^347/347<num>$ ^liberta/*liberta$
     ^347/347<num>$ ^jeżistu/*jeżistu$
     ^347/347<num>$ ^Design/*Design$
     ^347/347<num>$ ^ċittadini/*ċittadini$
     ^346/346<num>$ ^tinbidel/*tinbidel$
     ^346/346<num>$ ^tgħix/*tgħix$
-    ^346/346<num>$ ^nieqes/*nieqes$
+    ^346/346<num>$ ^nieqes/*nieqes$	;	SCANT 
     ^346/346<num>$ ^my/*my$
     ^346/346<num>$ ^kontribut/*kontribut$
-    ^345/345<num>$ ^Salamun/*Salamun$
+    ^345/345<num>$ ^Salamun/*Salamun$	;	SALMON (m)
     ^345/345<num>$ ^mietu/*mietu$
     ^345/345<num>$ ^isfond/*isfond$
-    ^344/344<num>$ ^kapitlu/*kapitlu$
+    ^344/344<num>$ ^kapitlu/*kapitlu$	;	CHAPTER 
     ^344/344<num>$ ^either/*either$
-    ^343/343<num>$ ^tron/*tron$
+    ^343/343<num>$ ^tron/*tron$	;	THRONE (m)
     ^343/343<num>$ ^Opossum/*Opossum$
     ^343/343<num>$ ^jerġgħu/*jerġgħu$
-    ^343/343<num>$ ^delitt/*delitt$
+    ^343/343<num>$ ^delitt/*delitt$	;	CRIME (m)
     ^342/342<num>$ ^xiħadd/*xiħadd$
     ^342/342<num>$ ^sigħat/*sigħat$
     ^342/342<num>$ ^għedewwa/*għedewwa$
@@ -1170,7 +1170,7 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^341/341<num>$ ^iżgħar/*iżgħar$
     ^341/341<num>$ ^istejjer/*istejjer$
     ^341/341<num>$ ^Calleja/*Calleja$
-    ^341/341<num>$ ^biza/*biza$
+    ^341/341<num>$ ^biza/*biza$	;	FEAR (m)
     ^341/341<num>$ ^Archives/*Archives$
     ^341/341<num>$ ^Anonymous/*Anonymous$
     ^340/340<num>$ ^qaddisin/*qaddisin$
@@ -1178,7 +1178,7 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^340/340<num>$ ^kollegi/*kollegi$
     ^340/340<num>$ ^Avvizi/*Avvizi$
     ^339/339<num>$ ^Ġdt/*Ġdt$
-    ^338/338<num>$ ^Mar/*Mar$
+    ^338/338<num>$ ^Mar/*Mar$	;	DEPART 
     ^337/337<num>$ ^Webee/*Webee$
     ^337/337<num>$ ^supported/*supported$
     ^337/337<num>$ ^spiċċat/*spiċċat$
@@ -1200,38 +1200,38 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^335/335<num>$ ^jintuża/*jintuża$
     ^335/335<num>$ ^Iskwadra/*Iskwadra$
     ^335/335<num>$ ^Għaldaqstant/*Għaldaqstant$
-    ^334/334<num>$ ^xieraq/*xieraq$
+    ^334/334<num>$ ^xieraq/*xieraq$	;	WORTHY 
     ^334/334<num>$ ^Schembri/*Schembri$
-    ^334/334<num>$ ^santwarju/*santwarju$
+    ^334/334<num>$ ^santwarju/*santwarju$	;	SHRINE (m)
     ^334/334<num>$ ^naqbel/*naqbel$
     ^334/334<num>$ ^jkomplu/*jkomplu$
     ^334/334<num>$ ^ahwa/*ahwa$
     ^333/333<num>$ ^varji/*varji$
     ^333/333<num>$ ^site/*site$
-    ^333/333<num>$ ^sforz/*sforz$
+    ^333/333<num>$ ^sforz/*sforz$	;	STRAIN (m)
     ^333/333<num>$ ^jispiċċa/*jispiċċa$
     ^333/333<num>$ ^isbah/*isbah$
     ^333/333<num>$ ^gowler/*gowler$
-    ^332/332<num>$ ^żjara/*żjara$
+    ^332/332<num>$ ^żjara/*żjara$	;	VISIT (f)
     ^332/332<num>$ ^insib/*insib$
     ^331/331<num>$ ^ruħhom/*ruħhom$
     ^331/331<num>$ ^qisha/*qisha$
     ^331/331<num>$ ^profeti/*profeti$
     ^331/331<num>$ ^Nru/*Nru$
     ^331/331<num>$ ^anniversarju/*anniversarju$
-    ^330/330<num>$ ^żball/*żball$
+    ^330/330<num>$ ^żball/*żball$	;	MISTAKE (m)
     ^330/330<num>$ ^toffri/*toffri$
     ^330/330<num>$ ^spiccaw/*spiccaw$
     ^330/330<num>$ ^ruhi/*ruhi$
-    ^330/330<num>$ ^Qiegħed/*Qiegħed$
+    ^330/330<num>$ ^Qiegħed/*Qiegħed$	;	UNEMPLOYED 
     ^330/330<num>$ ^qbil/*qbil$
     ^330/330<num>$ ^barka/*barka$
-    ^329/329<num>$ ^ħila/*ħila$
-    ^329/329<num>$ ^dhul/*dhul$
+    ^329/329<num>$ ^ħila/*ħila$	;	SKILL (f)
+    ^329/329<num>$ ^dhul/*dhul$	;	REVENUE (m)
     ^328/328<num>$ ^Sunday/*Sunday$
     ^328/328<num>$ ^jiltaqa/*jiltaqa$
     ^328/328<num>$ ^jgib/*jgib$
-    ^327/327<num>$ ^palazz/*palazz$
+    ^327/327<num>$ ^palazz/*palazz$	;	PALACE (m)
     ^327/327<num>$ ^nieqsa/*nieqsa$
     ^327/327<num>$ ^mejta/*mejta$
     ^327/327<num>$ ^jaħsbu/*jaħsbu$
@@ -1246,29 +1246,29 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^325/325<num>$ ^miexi/*miexi$
     ^325/325<num>$ ^kulma/*kulma$
     ^325/325<num>$ ^jgħin/*jgħin$
-    ^325/325<num>$ ^jaqbel/*jaqbel$
+    ^325/325<num>$ ^jaqbel/*jaqbel$	;	COMPATIBLE 
     ^325/325<num>$ ^idur/*idur$
     ^325/325<num>$ ^idejk/*idejk$
     ^324/324<num>$ ^qawmien/*qawmien$
     ^324/324<num>$ ^Peress/*Peress$
     ^324/324<num>$ ^kobor/*kobor$
-    ^324/324<num>$ ^haddiem/*haddiem$
-    ^324/324<num>$ ^avolja/*avolja$
+    ^324/324<num>$ ^haddiem/*haddiem$	;	WORKMAN (m)
+    ^324/324<num>$ ^avolja/*avolja$	;	EVEN 
     ^323/323<num>$ ^raġun/*raġun$
     ^323/323<num>$ ^Patrol/*Patrol$
     ^323/323<num>$ ^Malli/*Malli$
     ^323/323<num>$ ^jirbaħ/*jirbaħ$
-    ^323/323<num>$ ^impjieg/*impjieg$
-    ^322/322<num>$ ^sikwit/*sikwit$
+    ^323/323<num>$ ^impjieg/*impjieg$	;	SITUATION (m)
+    ^322/322<num>$ ^sikwit/*sikwit$	;	OFTEN 
     ^322/322<num>$ ^pazjenti/*pazjenti$
-    ^322/322<num>$ ^lok/*lok$
+    ^322/322<num>$ ^lok/*lok$	;	VENUE (m)
     ^322/322<num>$ ^jibni/*jibni$
     ^322/322<num>$ ^hijiex/*hijiex$
     ^321/321<num>$ ^żejjed/*żejjed$
     ^321/321<num>$ ^tani/*tani$
     ^321/321<num>$ ^Sidna/*Sidna$
     ^321/321<num>$ ^Pasqua/*Pasqua$
-    ^321/321<num>$ ^kenn/*kenn$
+    ^321/321<num>$ ^kenn/*kenn$	;	SHELTER (m)
     ^321/321<num>$ ^jghidli/*jghidli$
     ^321/321<num>$ ^Insomma/*Insomma$
     ^321/321<num>$ ^Hold/*Hold$
@@ -1276,13 +1276,13 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^320/320<num>$ ^tistenna/*tistenna$
     ^320/320<num>$ ^qaltli/*qaltli$
     ^320/320<num>$ ^Karmnu/*Karmnu$
-    ^320/320<num>$ ^ħaqq/*ħaqq$
+    ^320/320<num>$ ^ħaqq/*ħaqq$	;	MERIT (m)
     ^320/320<num>$ ^ghalik/*ghalik$
     ^319/319<num>$ ^stqarrija/*stqarrija$
     ^319/319<num>$ ^Lampedusa/*Lampedusa$
     ^319/319<num>$ ^indipendenti/*indipendenti$
     ^319/319<num>$ ^għaddejja/*għaddejja$
-    ^318/318<num>$ ^Salm/*Salm$
+    ^318/318<num>$ ^Salm/*Salm$	;	PSALM (m)
     ^318/318<num>$ ^reġgħet/*reġgħet$
     ^318/318<num>$ ^Mass/*Mass$
     ^318/318<num>$ ^ghalina/*ghalina$
@@ -1290,12 +1290,12 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^318/318<num>$ ^attentat/*attentat$
     ^317/317<num>$ ^irnexxielu/*irnexxielu$
     ^316/316<num>$ ^tispiċċa/*tispiċċa$
-    ^316/316<num>$ ^simbolu/*simbolu$
+    ^316/316<num>$ ^simbolu/*simbolu$	;	SYMBOL (m)
     ^315/315<num>$ ^zewgt/*zewgt$
     ^315/315<num>$ ^vv/*vv$
     ^315/315<num>$ ^sett/*sett$
     ^315/315<num>$ ^Pt/*Pt$
-    ^315/315<num>$ ^kontenut/*kontenut$
+    ^315/315<num>$ ^kontenut/*kontenut$	;	CONTENT (m)
     ^315/315<num>$ ^his/*his$
     ^315/315<num>$ ^helikopter/*helikopter$
     ^315/315<num>$ ^għandhiex/*għandhiex$
@@ -1310,23 +1310,23 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^313/313<num>$ ^nnifisha/*nnifisha$
     ^313/313<num>$ ^Karm/*Karm$
     ^313/313<num>$ ^Frans/*Frans$
-    ^312/312<num>$ ^stampa/*stampa$
+    ^312/312<num>$ ^stampa/*stampa$	;	IMPRESS 
     ^312/312<num>$ ^imgħoddi/*imgħoddi$
     ^312/312<num>$ ^ibni/*ibni$
     ^312/312<num>$ ^fomm/*fomm$
-    ^312/312<num>$ ^bazi/*bazi$
+    ^312/312<num>$ ^bazi/*bazi$	;	GROUND (f)
     ^312/312<num>$ ^Avviżi/*Avviżi$
     ^311/311<num>$ ^bdejna/*bdejna$
     ^311/311<num>$ ^Bartolo/*Bartolo$
     ^310/310<num>$ ^mibni/*mibni$
-    ^310/310<num>$ ^kuragg/*kuragg$
+    ^310/310<num>$ ^kuragg/*kuragg$	;	VALOR (m)
     ^310/310<num>$ ^jinbidel/*jinbidel$
     ^310/310<num>$ ^iwassal/*iwassal$
     ^310/310<num>$ ^itfal/*itfal$
     ^310/310<num>$ ^għalliema/*għalliema$
     ^310/310<num>$ ^Bin/*Bin$
     ^310/310<num>$ ^baġit/*baġit$
-    ^309/309<num>$ ^semplici/*semplici$
+    ^309/309<num>$ ^semplici/*semplici$	;	SIMPLE 
     ^309/309<num>$ ^rebbieħa/*rebbieħa$
     ^309/309<num>$ ^quddiemek/*quddiemek$
     ^309/309<num>$ ^protesta/*protesta$
@@ -1335,38 +1335,38 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^309/309<num>$ ^iħares/*iħares$
     ^309/309<num>$ ^ewlenija/*ewlenija$
     ^309/309<num>$ ^Appell/*Appell$
-    ^308/308<num>$ ^vann/*vann$
+    ^308/308<num>$ ^vann/*vann$	;	VAN (m)
     ^308/308<num>$ ^Sqallija/*Sqallija$
     ^308/308<num>$ ^ahbar/*ahbar$
     ^307/307<num>$ ^sabet/*sabet$
     ^307/307<num>$ ^jispiccaw/*jispiccaw$
     ^306/306<num>$ ^Premier/*Premier$
-    ^306/306<num>$ ^Minflok/*Minflok$
+    ^306/306<num>$ ^Minflok/*Minflok$	;	INSTEAD 
     ^306/306<num>$ ^jużaw/*jużaw$
     ^306/306<num>$ ^jinstab/*jinstab$
     ^306/306<num>$ ^huh/*huh$
-    ^306/306<num>$ ^ħolqien/*ħolqien$
-    ^306/306<num>$ ^aghar/*aghar$
+    ^306/306<num>$ ^ħolqien/*ħolqien$	;	UNIVERSE (m)
+    ^306/306<num>$ ^aghar/*aghar$	;	WORSE 
     ^305/305<num>$ ^rekord/*rekord$
     ^305/305<num>$ ^Psaila/*Psaila$
     ^305/305<num>$ ^morna/*morna$
     ^305/305<num>$ ^mehtiega/*mehtiega$
-    ^305/305<num>$ ^laħaq/*laħaq$
-    ^305/305<num>$ ^demonju/*demonju$
+    ^305/305<num>$ ^laħaq/*laħaq$	;	COST 
+    ^305/305<num>$ ^demonju/*demonju$	;	DEMON (m)
     ^304/304<num>$ ^Xagħra/*Xagħra$
-    ^304/304<num>$ ^waqqaf/*waqqaf$
+    ^304/304<num>$ ^waqqaf/*waqqaf$	;	INTERRUPT 
     ^304/304<num>$ ^serja/*serja$
     ^304/304<num>$ ^Lhudi/*Lhudi$
     ^304/304<num>$ ^Ghawdxi/*Ghawdxi$
-    ^304/304<num>$ ^attent/*attent$
+    ^304/304<num>$ ^attent/*attent$	;	WARY 
     ^303/303<num>$ ^jiffurmaw/*jiffurmaw$
-    ^303/303<num>$ ^ħaddiem/*ħaddiem$
+    ^303/303<num>$ ^ħaddiem/*ħaddiem$	;	WORKMAN (m)
     ^303/303<num>$ ^con/*con$
-    ^302/302<num>$ ^temm/*temm$
-    ^302/302<num>$ ^medja/*medja$
+    ^302/302<num>$ ^temm/*temm$	;	EXECUTE 
+    ^302/302<num>$ ^medja/*medja$	;	AVERAGE (f)
     ^302/302<num>$ ^K/*K$
     ^302/302<num>$ ^Dinjija/*Dinjija$
-    ^301/301<num>$ ^televixin/*televixin$
+    ^301/301<num>$ ^televixin/*televixin$	;	TELEVISION (m)
     ^301/301<num>$ ^ruhhom/*ruhhom$
     ^301/301<num>$ ^mortwarja/*mortwarja$
     ^301/301<num>$ ^ħitan/*ħitan$
@@ -1377,45 +1377,45 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^300/300<num>$ ^Għawdxin/*Għawdxin$
     ^300/300<num>$ ^ġab/*ġab$
     ^300/300<num>$ ^daqskemm/*daqskemm$
-    ^299/299<num>$ ^staġun/*staġun$
+    ^299/299<num>$ ^staġun/*staġun$	;	SEASON (m)
     ^299/299<num>$ ^ri/*ri$
     ^299/299<num>$ ^kuntrarju/*kuntrarju$
-    ^299/299<num>$ ^distrett/*distrett$
+    ^299/299<num>$ ^distrett/*distrett$	;	DISTRICT (m)
     ^299/299<num>$ ^Brincat/*Brincat$
     ^298/298<num>$ ^sibna/*sibna$
     ^298/298<num>$ ^nibqgħu/*nibqgħu$
     ^298/298<num>$ ^Mur/*Mur$
-    ^298/298<num>$ ^Haddiem/*Haddiem$
+    ^298/298<num>$ ^Haddiem/*Haddiem$	;	WORKMAN (m)
     ^298/298<num>$ ^għajnejh/*għajnejh$
     ^297/297<num>$ ^uliedu/*uliedu$
-    ^297/297<num>$ ^success/*success$
+    ^297/297<num>$ ^success/*success$	;	SUCCESS (m)
     ^297/297<num>$ ^kunċett/*kunċett$
-    ^297/297<num>$ ^inizjattiva/*inizjattiva$
+    ^297/297<num>$ ^inizjattiva/*inizjattiva$	;	INITIATIVE (f)
     ^297/297<num>$ ^films/*films$
-    ^297/297<num>$ ^aħbarijiet/*aħbarijiet$
+    ^297/297<num>$ ^aħbarijiet/*aħbarijiet$	;	TIDINGS 
     ^296/296<num>$ ^una/*una$
     ^296/296<num>$ ^tah/*tah$
     ^296/296<num>$ ^inghata/*inghata$
     ^296/296<num>$ ^Ħal/*Ħal$
     ^295/295<num>$ ^regghu/*regghu$
-    ^295/295<num>$ ^pont/*pont$
+    ^295/295<num>$ ^pont/*pont$	;	DOT (m)
     ^295/295<num>$ ^metri/*metri$
     ^295/295<num>$ ^jivvutaw/*jivvutaw$
     ^295/295<num>$ ^informat/*informat$
-    ^295/295<num>$ ^ħolma/*ħolma$
+    ^295/295<num>$ ^ħolma/*ħolma$	;	DREAM (f)
     ^295/295<num>$ ^daqq/*daqq$
-    ^295/295<num>$ ^centru/*centru$
+    ^295/295<num>$ ^centru/*centru$	;	DOWNTOWN (m)
     ^295/295<num>$ ^Arsenal/*Arsenal$
     ^294/294<num>$ ^twaqqaf/*twaqqaf$
     ^294/294<num>$ ^teżisti/*teżisti$
     ^294/294<num>$ ^jżomm/*jżomm$
     ^294/294<num>$ ^jisimgħu/*jisimgħu$
-    ^294/294<num>$ ^htiega/*htiega$
+    ^294/294<num>$ ^htiega/*htiega$	;	WANT (f)
     ^294/294<num>$ ^et/*et$
     ^292/292<num>$ ^mhijiex/*mhijiex$
     ^292/292<num>$ ^j/*j$
-    ^292/292<num>$ ^hlas/*hlas$
-    ^292/292<num>$ ^ġuħ/*ġuħ$
+    ^292/292<num>$ ^hlas/*hlas$	;	TOLL (m)
+    ^292/292<num>$ ^ġuħ/*ġuħ$	;	HUNGER (m)
     ^291/291<num>$ ^istqarrija/*istqarrija$
     ^291/291<num>$ ^ħarsa/*ħarsa$
     ^290/290<num>$ ^uliedhom/*uliedhom$
@@ -1435,7 +1435,7 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^288/288<num>$ ^malti/*malti$
     ^288/288<num>$ ^Isla/*Isla$
     ^288/288<num>$ ^Iskrittura/*Iskrittura$
-    ^288/288<num>$ ^djalogu/*djalogu$
+    ^288/288<num>$ ^djalogu/*djalogu$	;	DIALOG (m)
     ^287/287<num>$ ^spiccat/*spiccat$
     ^287/287<num>$ ^sparati/*sparati$
     ^287/287<num>$ ^safa/*safa$
@@ -1443,7 +1443,7 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^287/287<num>$ ^jisimha/*jisimha$
     ^287/287<num>$ ^atmosfera/*atmosfera$
     ^286/286<num>$ ^prosit/*prosit$
-    ^286/286<num>$ ^misteru/*misteru$
+    ^286/286<num>$ ^misteru/*misteru$	;	MYSTERY (m)
     ^286/286<num>$ ^Esd/*Esd$
     ^285/285<num>$ ^si/*si$
     ^285/285<num>$ ^rawnd/*rawnd$
@@ -1458,16 +1458,16 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^284/284<num>$ ^fizzjali/*fizzjali$
     ^284/284<num>$ ^don/*don$
     ^283/283<num>$ ^wiċċu/*wiċċu$
-    ^283/283<num>$ ^stharrig/*stharrig$
+    ^283/283<num>$ ^stharrig/*stharrig$	;	SEARCH (m)
     ^283/283<num>$ ^niftakru/*niftakru$
     ^283/283<num>$ ^jitilqu/*jitilqu$
-    ^283/283<num>$ ^hena/*hena$
+    ^283/283<num>$ ^hena/*hena$	;	PLEASURE (f)
     ^283/283<num>$ ^Ciantar/*Ciantar$
-    ^282/282<num>$ ^vjagg/*vjagg$
+    ^282/282<num>$ ^vjagg/*vjagg$	;	VOYAGE (m)
     ^282/282<num>$ ^rasha/*rasha$
     ^282/282<num>$ ^Qawra/*Qawra$
     ^282/282<num>$ ^nistgħux/*nistgħux$
-    ^282/282<num>$ ^kuraġġ/*kuraġġ$
+    ^282/282<num>$ ^kuraġġ/*kuraġġ$	;	VALOR (m)
     ^282/282<num>$ ^jattendu/*jattendu$
     ^282/282<num>$ ^ispeċi/*ispeċi$
     ^282/282<num>$ ^ħabbar/*ħabbar$
@@ -1478,8 +1478,8 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^281/281<num>$ ^prezenti/*prezenti$
     ^281/281<num>$ ^nzjarju/*nzjarju$
     ^281/281<num>$ ^narah/*narah$
-    ^281/281<num>$ ^mili/*mili$
-    ^281/281<num>$ ^ġrajja/*ġrajja$
+    ^281/281<num>$ ^mili/*mili$	;	STUFF (m)
+    ^281/281<num>$ ^ġrajja/*ġrajja$	;	EVENT (f)
     ^281/281<num>$ ^għaldaqstant/*għaldaqstant$
     ^280/280<num>$ ^wieqfa/*wieqfa$
     ^280/280<num>$ ^Union/*Union$
@@ -1487,34 +1487,34 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^280/280<num>$ ^nistaqsi/*nistaqsi$
     ^280/280<num>$ ^ġust/*ġust$
     ^279/279<num>$ ^sagrifiċċju/*sagrifiċċju$
-    ^279/279<num>$ ^kera/*kera$
-    ^279/279<num>$ ^ġmiel/*ġmiel$
+    ^279/279<num>$ ^kera/*kera$	;	TENANCY (f)
+    ^279/279<num>$ ^ġmiel/*ġmiel$	;	GLAMOR (m)
     ^279/279<num>$ ^bar/*bar$
     ^278/278<num>$ ^qerda/*qerda$
     ^278/278<num>$ ^imwiet/*imwiet$
     ^278/278<num>$ ^iħobb/*iħobb$
     ^278/278<num>$ ^have/*have$
-    ^277/277<num>$ ^tramuntana/*tramuntana$
+    ^277/277<num>$ ^tramuntana/*tramuntana$	;	NORTH (f)
     ^277/277<num>$ ^tintuża/*tintuża$
     ^277/277<num>$ ^terga/*terga$
     ^277/277<num>$ ^jghaddu/*jghaddu$
     ^277/277<num>$ ^facebook/*facebook$
     ^277/277<num>$ ^City/*City$
     ^277/277<num>$ ^Cassola/*Cassola$
-    ^277/277<num>$ ^abbozz/*abbozz$
+    ^277/277<num>$ ^abbozz/*abbozz$	;	SKETCH (m)
     ^276/276<num>$ ^tjieba/*tjieba$
-    ^276/276<num>$ ^ġlieda/*ġlieda$
+    ^276/276<num>$ ^ġlieda/*ġlieda$	;	WRANGLE (f)
     ^276/276<num>$ ^eżerċti/*eżerċti$
     ^276/276<num>$ ^bieraħ/*bieraħ$
     ^275/275<num>$ ^Ulied/*Ulied$
-    ^275/275<num>$ ^uġigħ/*uġigħ$
-    ^275/275<num>$ ^taħriġ/*taħriġ$
+    ^275/275<num>$ ^uġigħ/*uġigħ$	;	PAIN (m)
+    ^275/275<num>$ ^taħriġ/*taħriġ$	;	PRACTICE (m)
     ^275/275<num>$ ^provi/*provi$
     ^275/275<num>$ ^mi/*mi$
     ^275/275<num>$ ^imqar/*imqar$
     ^275/275<num>$ ^Football/*Football$
     ^274/274<num>$ ^vs/*vs$
-    ^274/274<num>$ ^serq/*serq$
+    ^274/274<num>$ ^serq/*serq$	;	THEFT (m)
     ^274/274<num>$ ^Sandro/*Sandro$
     ^274/274<num>$ ^qablu/*qablu$
     ^274/274<num>$ ^jfittxu/*jfittxu$
@@ -1525,7 +1525,7 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^274/274<num>$ ^Anzjani/*Anzjani$
     ^273/273<num>$ ^Melita/*Melita$
     ^273/273<num>$ ^letterarja/*letterarja$
-    ^273/273<num>$ ^ħelsien/*ħelsien$
+    ^273/273<num>$ ^ħelsien/*ħelsien$	;	SALVATION (m)
     ^273/273<num>$ ^ġenb/*ġenb$
     ^273/273<num>$ ^gebel/*gebel$
     ^273/273<num>$ ^dwejjaq/*dwejjaq$
@@ -1536,10 +1536,10 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^272/272<num>$ ^nghidlek/*nghidlek$
     ^272/272<num>$ ^Mqaddsa/*Mqaddsa$
     ^272/272<num>$ ^jitfa/*jitfa$
-    ^272/272<num>$ ^impjegat/*impjegat$
+    ^272/272<num>$ ^impjegat/*impjegat$	;	CLERK (m)
     ^272/272<num>$ ^imiss/*imiss$
     ^271/271<num>$ ^Rabja/*Rabja$
-    ^271/271<num>$ ^mistieden/*mistieden$
+    ^271/271<num>$ ^mistieden/*mistieden$	;	GUEST (m)
     ^271/271<num>$ ^jmut/*jmut$
     ^271/271<num>$ ^għaqdiet/*għaqdiet$
     ^271/271<num>$ ^Bambin/*Bambin$
@@ -1547,30 +1547,30 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^270/270<num>$ ^reġgħu/*reġgħu$
     ^270/270<num>$ ^liebes/*liebes$
     ^270/270<num>$ ^ilsna/*ilsna$
-    ^270/270<num>$ ^ħabta/*ħabta$
-    ^270/270<num>$ ^għana/*għana$
+    ^270/270<num>$ ^ħabta/*ħabta$	;	CRASH (f)
+    ^270/270<num>$ ^għana/*għana$	;	WEALTH (f)
     ^270/270<num>$ ^Boat/*Boat$
     ^270/270<num>$ ^anzjana/*anzjana$
-    ^269/269<num>$ ^Twelid/*Twelid$
+    ^269/269<num>$ ^Twelid/*Twelid$	;	BIRTH (m)
     ^269/269<num>$ ^qegħda/*qegħda$
     ^269/269<num>$ ^Leviti/*Leviti$
     ^269/269<num>$ ^Imdina/*Imdina$
     ^269/269<num>$ ^bilqiegħda/*bilqiegħda$
-    ^268/268<num>$ ^sess/*sess$
+    ^268/268<num>$ ^sess/*sess$	;	SEX (m)
     ^268/268<num>$ ^rebbieħ/*rebbieħ$
     ^268/268<num>$ ^quddies/*quddies$
-    ^268/268<num>$ ^qiegħ/*qiegħ$
+    ^268/268<num>$ ^qiegħ/*qiegħ$	;	BOTTOM (m)
     ^268/268<num>$ ^prinċipji/*prinċipji$
     ^268/268<num>$ ^AL/*AL$
     ^267/267<num>$ ^twaqqif/*twaqqif$
-    ^267/267<num>$ ^totali/*totali$
+    ^267/267<num>$ ^totali/*totali$	;	TOTAL 
     ^267/267<num>$ ^shabu/*shabu$
     ^267/267<num>$ ^mohhi/*mohhi$
     ^267/267<num>$ ^ingħata/*ingħata$
-    ^267/267<num>$ ^ħtija/*ħtija$
-    ^267/267<num>$ ^GA/*GA$
+    ^267/267<num>$ ^ħtija/*ħtija$	;	GUILT (f)
+    ^267/267<num>$ ^GA/*GA$	;	ALREADY 
     ^267/267<num>$ ^Filistin/*Filistin$
-    ^267/267<num>$ ^anzjan/*anzjan$
+    ^267/267<num>$ ^anzjan/*anzjan$	;	SENIOR (m)
     ^266/266<num>$ ^Xewkija/*Xewkija$
     ^266/266<num>$ ^toqghod/*toqghod$
     ^266/266<num>$ ^Sannat/*Sannat$
@@ -1581,14 +1581,14 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^265/265<num>$ ^R/*R$
     ^265/265<num>$ ^Partnership/*Partnership$
     ^265/265<num>$ ^Parroċċa/*Parroċċa$
-    ^265/265<num>$ ^laham/*laham$
+    ^265/265<num>$ ^laham/*laham$	;	MEAT (m)
     ^265/265<num>$ ^ikomplu/*ikomplu$
     ^265/265<num>$ ^Friggieri/*Friggieri$
     ^265/265<num>$ ^Ebejer/*Ebejer$
     ^265/265<num>$ ^Buontempo/*Buontempo$
     ^264/264<num>$ ^Wensu/*Wensu$
-    ^264/264<num>$ ^Qtil/*Qtil$
-    ^264/264<num>$ ^par/*par$
+    ^264/264<num>$ ^Qtil/*Qtil$	;	MURDER (m)
+    ^264/264<num>$ ^par/*par$	;	PAIR (m)
     ^264/264<num>$ ^Onorevoli/*Onorevoli$
     ^264/264<num>$ ^nstabu/*nstabu$
     ^264/264<num>$ ^nisranija/*nisranija$
@@ -1602,24 +1602,24 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^263/263<num>$ ^nghixu/*nghixu$
     ^263/263<num>$ ^Mercieca/*Mercieca$
     ^263/263<num>$ ^kellem/*kellem$
-    ^263/263<num>$ ^għażel/*għażel$
-    ^262/262<num>$ ^stazzjon/*stazzjon$
-    ^262/262<num>$ ^Stampa/*Stampa$
+    ^263/263<num>$ ^għażel/*għażel$	;	ELECT 
+    ^262/262<num>$ ^stazzjon/*stazzjon$	;	STATION (m)
+    ^262/262<num>$ ^Stampa/*Stampa$	;	IMPRESS 
     ^262/262<num>$ ^segretarju/*segretarju$
     ^262/262<num>$ ^mmexxija/*mmexxija$
     ^262/262<num>$ ^Maqluba/*Maqluba$
     ^262/262<num>$ ^Dalglish/*Dalglish$
     ^262/262<num>$ ^bijoloġija/*bijoloġija$
     ^261/261<num>$ ^Lunzjata/*Lunzjata$
-    ^261/261<num>$ ^komdu/*komdu$
+    ^261/261<num>$ ^komdu/*komdu$	;	COSY 
     ^261/261<num>$ ^każijiet/*każijiet$
     ^261/261<num>$ ^immexxi/*immexxi$
     ^261/261<num>$ ^fattur/*fattur$
     ^261/261<num>$ ^Don/*Don$
     ^261/261<num>$ ^Bħalissa/*Bħalissa$
     ^261/261<num>$ ^aħwa/*aħwa$
-    ^260/260<num>$ ^Trattat/*Trattat$
-    ^260/260<num>$ ^Sussidju/*Sussidju$
+    ^260/260<num>$ ^Trattat/*Trattat$	;	TREATY (m)
+    ^260/260<num>$ ^Sussidju/*Sussidju$	;	SUBSIDY (m)
     ^260/260<num>$ ^probabbli/*probabbli$
     ^260/260<num>$ ^logħbiet/*logħbiet$
     ^260/260<num>$ ^Location/*Location$
@@ -1629,7 +1629,7 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^260/260<num>$ ^Day/*Day$
     ^260/260<num>$ ^attenti/*attenti$
     ^260/260<num>$ ^Archived/*Archived$
-    ^259/259<num>$ ^qagħda/*qagħda$
+    ^259/259<num>$ ^qagħda/*qagħda$	;	POSTURE (f)
     ^259/259<num>$ ^play/*play$
     ^259/259<num>$ ^One/*One$
     ^259/259<num>$ ^jiltaqgħu/*jiltaqgħu$
@@ -1640,38 +1640,38 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^258/258<num>$ ^kazijiet/*kazijiet$
     ^258/258<num>$ ^istadju/*istadju$
     ^258/258<num>$ ^Benedittu/*Benedittu$
-    ^257/257<num>$ ^xokk/*xokk$
+    ^257/257<num>$ ^xokk/*xokk$	;	SHOCK (m)
     ^257/257<num>$ ^tfittex/*tfittex$
     ^257/257<num>$ ^setgħet/*setgħet$
     ^257/257<num>$ ^nieqsin/*nieqsin$
     ^257/257<num>$ ^Mastru/*Mastru$
-    ^257/257<num>$ ^laħam/*laħam$
+    ^257/257<num>$ ^laħam/*laħam$	;	MEAT (m)
     ^257/257<num>$ ^Intern/*Intern$
     ^257/257<num>$ ^Delitti/*Delitti$
     ^257/257<num>$ ^appell/*appell$
     ^257/257<num>$ ^Apparti/*Apparti$
     ^256/256<num>$ ^wettqu/*wettqu$
     ^256/256<num>$ ^temmen/*temmen$
-    ^256/256<num>$ ^sod/*sod$
-    ^256/256<num>$ ^lment/*lment$
+    ^256/256<num>$ ^sod/*sod$	;	STURDY 
+    ^256/256<num>$ ^lment/*lment$	;	COMPLAINT (m)
     ^256/256<num>$ ^jeqred/*jeqred$
     ^256/256<num>$ ^inħoss/*inħoss$
     ^256/256<num>$ ^għaddejjin/*għaddejjin$
-    ^256/256<num>$ ^funeral/*funeral$
+    ^256/256<num>$ ^funeral/*funeral$	;	FUNERAL (m)
     ^256/256<num>$ ^Casha/*Casha$
     ^256/256<num>$ ^Accuse/*Accuse$
     ^255/255<num>$ ^tinghata/*tinghata$
     ^255/255<num>$ ^sulari/*sulari$
-    ^255/255<num>$ ^Riħ/*Riħ$
-    ^255/255<num>$ ^kaptan/*kaptan$
+    ^255/255<num>$ ^Riħ/*Riħ$	;	WIND (m)
+    ^255/255<num>$ ^kaptan/*kaptan$	;	SKIPPER (m)
     ^255/255<num>$ ^Griegi/*Griegi$
-    ^255/255<num>$ ^dieta/*dieta$
-    ^254/254<num>$ ^Xarabank/*Xarabank$
+    ^255/255<num>$ ^dieta/*dieta$	;	DIET (f)
+    ^254/254<num>$ ^Xarabank/*Xarabank$	;	BUS (m)
     ^254/254<num>$ ^sħabu/*sħabu$
     ^254/254<num>$ ^serata/*serata$
     ^254/254<num>$ ^saċerdoti/*saċerdoti$
-    ^254/254<num>$ ^meħtieġ/*meħtieġ$
-    ^254/254<num>$ ^ksur/*ksur$
+    ^254/254<num>$ ^meħtieġ/*meħtieġ$	;	NECESSARY 
+    ^254/254<num>$ ^ksur/*ksur$	;	WRECK (m)
     ^254/254<num>$ ^jintużaw/*jintużaw$
     ^254/254<num>$ ^eżerċizzju/*eżerċizzju$
     ^254/254<num>$ ^come/*come$
@@ -1684,7 +1684,7 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^253/253<num>$ ^jġib/*jġib$
     ^253/253<num>$ ^fatturi/*fatturi$
     ^253/253<num>$ ^Editorjal/*Editorjal$
-    ^252/252<num>$ ^xiri/*xiri$
+    ^252/252<num>$ ^xiri/*xiri$	;	SHOPPING 
     ^252/252<num>$ ^vuċi/*vuċi$
     ^252/252<num>$ ^tghix/*tghix$
     ^252/252<num>$ ^Supretendent/*Supretendent$
@@ -1695,8 +1695,8 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^252/252<num>$ ^Church/*Church$
     ^251/251<num>$ ^V/*V$
     ^251/251<num>$ ^tkabbir/*tkabbir$
-    ^251/251<num>$ ^tabilħaqq/*tabilħaqq$
-    ^251/251<num>$ ^Santwarju/*Santwarju$
+    ^251/251<num>$ ^tabilħaqq/*tabilħaqq$	;	SURELY 
+    ^251/251<num>$ ^Santwarju/*Santwarju$	;	SHRINE (m)
     ^251/251<num>$ ^Per/*Per$
     ^251/251<num>$ ^Mistoqsi/*Mistoqsi$
     ^251/251<num>$ ^mifruxa/*mifruxa$
@@ -1705,28 +1705,28 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^251/251<num>$ ^H/*H$
     ^251/251<num>$ ^gallarija/*gallarija$
     ^251/251<num>$ ^Community/*Community$
-    ^250/250<num>$ ^wettaq/*wettaq$
+    ^250/250<num>$ ^wettaq/*wettaq$	;	ENFORCE 
     ^250/250<num>$ ^We/*We$
-    ^250/250<num>$ ^trasport/*trasport$
+    ^250/250<num>$ ^trasport/*trasport$	;	TRANSPORT (m)
     ^250/250<num>$ ^qamet/*qamet$
     ^250/250<num>$ ^Previous/*Previous$
-    ^250/250<num>$ ^Periklu/*Periklu$
-    ^250/250<num>$ ^nobbli/*nobbli$
+    ^250/250<num>$ ^Periklu/*Periklu$	;	DANGER (m)
+    ^250/250<num>$ ^nobbli/*nobbli$	;	NOBLE 
     ^250/250<num>$ ^ġrajjiet/*ġrajjiet$
-    ^249/249<num>$ ^twegiba/*twegiba$
-    ^249/249<num>$ ^kunvent/*kunvent$
+    ^249/249<num>$ ^twegiba/*twegiba$	;	RESPONSE (f)
+    ^249/249<num>$ ^kunvent/*kunvent$	;	CONVENT (m)
     ^249/249<num>$ ^kmandamenti/*kmandamenti$
     ^249/249<num>$ ^klijenti/*klijenti$
     ^249/249<num>$ ^jaqgħu/*jaqgħu$
     ^249/249<num>$ ^Indipendenza/*Indipendenza$
     ^249/249<num>$ ^FA/*FA$
-    ^248/248<num>$ ^rih/*rih$
-    ^248/248<num>$ ^pakkett/*pakkett$
-    ^248/248<num>$ ^kumplament/*kumplament$
+    ^248/248<num>$ ^rih/*rih$	;	WIND (m)
+    ^248/248<num>$ ^pakkett/*pakkett$	;	PARCEL (m)
+    ^248/248<num>$ ^kumplament/*kumplament$	;	COMPLEMENT (m)
     ^248/248<num>$ ^ħbiberija/*ħbiberija$
-    ^248/248<num>$ ^Bini/*Bini$
+    ^248/248<num>$ ^Bini/*Bini$	;	STRUCTURE (m)
     ^248/248<num>$ ^bħali/*bħali$
-    ^248/248<num>$ ^bena/*bena$
+    ^248/248<num>$ ^bena/*bena$	;	CONSTRUCT 
     ^247/247<num>$ ^Tr/*Tr$
     ^247/247<num>$ ^tieqaf/*tieqaf$
     ^247/247<num>$ ^reat/*reat$
@@ -1748,47 +1748,47 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^245/245<num>$ ^was/*was$
     ^245/245<num>$ ^video/*video$
     ^245/245<num>$ ^tressaq/*tressaq$
-    ^245/245<num>$ ^Teatru/*Teatru$
+    ^245/245<num>$ ^Teatru/*Teatru$	;	THEATER (m)
     ^245/245<num>$ ^nerga/*nerga$
     ^245/245<num>$ ^korsijiet/*korsijiet$
     ^245/245<num>$ ^Interpol/*Interpol$
     ^245/245<num>$ ^Brikkuni/*Brikkuni$
     ^245/245<num>$ ^bagħat/*bagħat$
     ^244/244<num>$ ^tiekol/*tiekol$
-    ^244/244<num>$ ^Stharrig/*Stharrig$
+    ^244/244<num>$ ^Stharrig/*Stharrig$	;	SEARCH (m)
     ^244/244<num>$ ^maqsuma/*maqsuma$
     ^244/244<num>$ ^jispicca/*jispicca$
     ^244/244<num>$ ^jdur/*jdur$
     ^244/244<num>$ ^hawnx/*hawnx$
     ^244/244<num>$ ^Attentat/*Attentat$
-    ^244/244<num>$ ^ahbarijiet/*ahbarijiet$
-    ^243/243<num>$ ^vantaġġ/*vantaġġ$
-    ^243/243<num>$ ^salva/*salva$
+    ^244/244<num>$ ^ahbarijiet/*ahbarijiet$	;	TIDINGS 
+    ^243/243<num>$ ^vantaġġ/*vantaġġ$	;	ADVANTAGE (m)
+    ^243/243<num>$ ^salva/*salva$	;	REDEEM 
     ^243/243<num>$ ^pajji/*pajji$
-    ^243/243<num>$ ^paci/*paci$
+    ^243/243<num>$ ^paci/*paci$	;	PEACE (f)
     ^243/243<num>$ ^main/*main$
     ^243/243<num>$ ^Kadavru/*Kadavru$
     ^243/243<num>$ ^jipprovdi/*jipprovdi$
     ^243/243<num>$ ^ħuti/*ħuti$
     ^243/243<num>$ ^Farghun/*Farghun$
     ^243/243<num>$ ^ar/*ar$
-    ^242/242<num>$ ^zwieg/*zwieg$
+    ^242/242<num>$ ^zwieg/*zwieg$	;	WEDDING (m)
     ^242/242<num>$ ^wiegbu/*wiegbu$
     ^242/242<num>$ ^Kinnie/*Kinnie$
     ^242/242<num>$ ^Grand/*Grand$
     ^242/242<num>$ ^Gal/*Gal$
-    ^241/241<num>$ ^uniformi/*uniformi$
+    ^241/241<num>$ ^uniformi/*uniformi$	;	UNIFORM 
     ^241/241<num>$ ^total/*total$
     ^241/241<num>$ ^tghaddi/*tghaddi$
     ^241/241<num>$ ^taghrif/*taghrif$
     ^241/241<num>$ ^Qrendi/*Qrendi$
     ^241/241<num>$ ^qafas/*qafas$
-    ^241/241<num>$ ^Mingħajr/*Mingħajr$
+    ^241/241<num>$ ^Mingħajr/*Mingħajr$	;	WITHOUT 
     ^241/241<num>$ ^Infermieri/*Infermieri$
-    ^241/241<num>$ ^gieh/*gieh$
+    ^241/241<num>$ ^gieh/*gieh$	;	REPUTATION (m)
     ^241/241<num>$ ^Għalija/*Għalija$
     ^241/241<num>$ ^Dingli/*Dingli$
-    ^240/240<num>$ ^tir/*tir$
+    ^240/240<num>$ ^tir/*tir$	;	AIM (m)
     ^240/240<num>$ ^Sparatura/*Sparatura$
     ^240/240<num>$ ^nru/*nru$
     ^240/240<num>$ ^Gharqa/*Gharqa$
@@ -1802,7 +1802,7 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^239/239<num>$ ^denbu/*denbu$
     ^238/238<num>$ ^Testment/*Testment$
     ^238/238<num>$ ^rnexxielu/*rnexxielu$
-    ^238/238<num>$ ^Merill/*Merill$
+    ^238/238<num>$ ^Merill/*Merill$	;	THRUSH (m)
     ^238/238<num>$ ^jeżisti/*jeżisti$
     ^238/238<num>$ ^imut/*imut$
     ^237/237<num>$ ^turiżmu/*turiżmu$
@@ -1812,60 +1812,60 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^236/236<num>$ ^rabja/*rabja$
     ^236/236<num>$ ^jilqa/*jilqa$
     ^236/236<num>$ ^hits/*hits$
-    ^236/236<num>$ ^bejgħ/*bejgħ$
-    ^236/236<num>$ ^aptit/*aptit$
+    ^236/236<num>$ ^bejgħ/*bejgħ$	;	SALE (m)
+    ^236/236<num>$ ^aptit/*aptit$	;	APPETITE (m)
     ^235/235<num>$ ^Xandir/*Xandir$
     ^235/235<num>$ ^saħħtu/*saħħtu$
     ^235/235<num>$ ^restawr/*restawr$
     ^235/235<num>$ ^nghata/*nghata$
     ^235/235<num>$ ^kejl/*kejl$
-    ^235/235<num>$ ^kantuniera/*kantuniera$
+    ^235/235<num>$ ^kantuniera/*kantuniera$	;	CORNER (f)
     ^235/235<num>$ ^jinghad/*jinghad$
     ^235/235<num>$ ^gvernijiet/*gvernijiet$
     ^235/235<num>$ ^Ġużè/*Ġużè$
     ^235/235<num>$ ^biswit/*biswit$
-    ^234/234<num>$ ^Satana/*Satana$
-    ^234/234<num>$ ^reġjun/*reġjun$
+    ^234/234<num>$ ^Satana/*Satana$	;	SATAN (m)
+    ^234/234<num>$ ^reġjun/*reġjun$	;	REGION (m)
     ^234/234<num>$ ^Nittama/*Nittama$
     ^234/234<num>$ ^niltaqa/*niltaqa$
-    ^234/234<num>$ ^madankollu/*madankollu$
+    ^234/234<num>$ ^madankollu/*madankollu$	;	HOWEVER 
     ^234/234<num>$ ^jinzamm/*jinzamm$
-    ^234/234<num>$ ^Inkjesta/*Inkjesta$
+    ^234/234<num>$ ^Inkjesta/*Inkjesta$	;	INQUEST (f)
     ^233/233<num>$ ^wasalna/*wasalna$
     ^233/233<num>$ ^ti/*ti$
     ^233/233<num>$ ^nasal/*nasal$
     ^233/233<num>$ ^naħsibx/*naħsibx$
-    ^233/233<num>$ ^mistrieħ/*mistrieħ$
-    ^233/233<num>$ ^Korriment/*Korriment$
+    ^233/233<num>$ ^mistrieħ/*mistrieħ$	;	REST (m)
+    ^233/233<num>$ ^Korriment/*Korriment$	;	MISCARRIAGE (m)
     ^233/233<num>$ ^Food/*Food$
-    ^233/233<num>$ ^faccata/*faccata$
+    ^233/233<num>$ ^faccata/*faccata$	;	FACADE (f)
     ^233/233<num>$ ^Esklussiva/*Esklussiva$
     ^233/233<num>$ ^dwarha/*dwarha$
     ^233/233<num>$ ^Ambulanzi/*Ambulanzi$
-    ^232/232<num>$ ^weraq/*weraq$
+    ^232/232<num>$ ^weraq/*weraq$	;	FOLIAGE 
     ^232/232<num>$ ^spara/*spara$
     ^232/232<num>$ ^serjeta/*serjeta$
     ^232/232<num>$ ^riżenja/*riżenja$
     ^232/232<num>$ ^rappreżentanti/*rappreżentanti$
     ^232/232<num>$ ^kummerċ/*kummerċ$
     ^232/232<num>$ ^inqatel/*inqatel$
-    ^232/232<num>$ ^fama/*fama$
+    ^232/232<num>$ ^fama/*fama$	;	REPUTATION (f)
     ^232/232<num>$ ^Cachia/*Cachia$
     ^231/231<num>$ ^wasslet/*wasslet$
     ^231/231<num>$ ^unions/*unions$
     ^231/231<num>$ ^Sensiela/*Sensiela$
-    ^231/231<num>$ ^Saltna/*Saltna$
+    ^231/231<num>$ ^Saltna/*Saltna$	;	REIGN (f)
     ^231/231<num>$ ^pari/*pari$
     ^231/231<num>$ ^nerġgħu/*nerġgħu$
     ^231/231<num>$ ^mexa/*mexa$
-    ^231/231<num>$ ^korla/*korla$
+    ^231/231<num>$ ^korla/*korla$	;	WRATH (f)
     ^231/231<num>$ ^kas/*kas$
     ^231/231<num>$ ^jiftakar/*jiftakar$
-    ^231/231<num>$ ^hati/*hati$
+    ^231/231<num>$ ^hati/*hati$	;	CULPRIT (m)
     ^231/231<num>$ ^gieli/*gieli$
     ^231/231<num>$ ^comments/*comments$
     ^230/230<num>$ ^żuffjettuż/*żuffjettuż$
-    ^230/230<num>$ ^spirtu/*spirtu$
+    ^230/230<num>$ ^spirtu/*spirtu$	;	WIT (m)
     ^230/230<num>$ ^Speaker/*Speaker$
     ^230/230<num>$ ^so/*so$
     ^230/230<num>$ ^reċenti/*reċenti$
@@ -1873,25 +1873,25 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^230/230<num>$ ^niżel/*niżel$
     ^230/230<num>$ ^neqsin/*neqsin$
     ^230/230<num>$ ^Kmandant/*Kmandant$
-    ^230/230<num>$ ^haqq/*haqq$
-    ^230/230<num>$ ^ġlied/*ġlied$
-    ^230/230<num>$ ^difiża/*difiża$
+    ^230/230<num>$ ^haqq/*haqq$	;	MERIT (m)
+    ^230/230<num>$ ^ġlied/*ġlied$	;	DISCORD (m)
+    ^230/230<num>$ ^difiża/*difiża$	;	DEFENCE (f)
     ^229/229<num>$ ^xoghlijiet/*xoghlijiet$
     ^229/229<num>$ ^semifinali/*semifinali$
     ^229/229<num>$ ^realta/*realta$
     ^229/229<num>$ ^nghataw/*nghataw$
     ^229/229<num>$ ^lanca/*lanca$
     ^229/229<num>$ ^Furjana/*Furjana$
-    ^229/229<num>$ ^divertiment/*divertiment$
+    ^229/229<num>$ ^divertiment/*divertiment$	;	RECREATION (m)
     ^229/229<num>$ ^binha/*binha$
-    ^229/229<num>$ ^appogg/*appogg$
-    ^228/228<num>$ ^zball/*zball$
+    ^229/229<num>$ ^appogg/*appogg$	;	SUPPORT (m)
+    ^228/228<num>$ ^zball/*zball$	;	MISTAKE (m)
     ^228/228<num>$ ^thares/*thares$
     ^228/228<num>$ ^Stejjer/*Stejjer$
-    ^228/228<num>$ ^Serq/*Serq$
+    ^228/228<num>$ ^Serq/*Serq$	;	THEFT (m)
     ^228/228<num>$ ^sagrificcji/*sagrificcji$
     ^228/228<num>$ ^RSS/*RSS$
-    ^228/228<num>$ ^Qaddis/*Qaddis$
+    ^228/228<num>$ ^Qaddis/*Qaddis$	;	HOLY 
     ^228/228<num>$ ^più/*più$
     ^228/228<num>$ ^oggetti/*oggetti$
     ^228/228<num>$ ^jistghux/*jistghux$
@@ -1900,7 +1900,7 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^227/227<num>$ ^Zarb/*Zarb$
     ^227/227<num>$ ^Vassalli/*Vassalli$
     ^227/227<num>$ ^Protesta/*Protesta$
-    ^227/227<num>$ ^pistola/*pistola$
+    ^227/227<num>$ ^pistola/*pistola$	;	REVOLVER (f)
     ^227/227<num>$ ^leminija/*leminija$
     ^227/227<num>$ ^iskor/*iskor$
     ^227/227<num>$ ^Gożwè/*Gożwè$
@@ -1917,16 +1917,16 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^226/226<num>$ ^ddur/*ddur$
     ^226/226<num>$ ^counters/*counters$
     ^226/226<num>$ ^Cards/*Cards$
-    ^225/225<num>$ ^Xlokk/*Xlokk$
+    ^225/225<num>$ ^Xlokk/*Xlokk$	;	SOUTHEAST WIND (m)
     ^225/225<num>$ ^wieġeb/*wieġeb$
     ^225/225<num>$ ^Stats/*Stats$
-    ^225/225<num>$ ^moda/*moda$
+    ^225/225<num>$ ^moda/*moda$	;	VOGUE (f)
     ^225/225<num>$ ^mimlijin/*mimlijin$
     ^225/225<num>$ ^Imsida/*Imsida$
     ^225/225<num>$ ^ilmenti/*ilmenti$
     ^225/225<num>$ ^igib/*igib$
     ^225/225<num>$ ^Hilary/*Hilary$
-    ^225/225<num>$ ^Frodi/*Frodi$
+    ^225/225<num>$ ^Frodi/*Frodi$	;	SWINDLE (f)
     ^225/225<num>$ ^Clicks/*Clicks$
     ^224/224<num>$ ^żewġt/*żewġt$
     ^224/224<num>$ ^Super/*Super$
@@ -1937,7 +1937,7 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^224/224<num>$ ^Koħ/*Koħ$
     ^224/224<num>$ ^kategorija/*kategorija$
     ^224/224<num>$ ^jazz/*jazz$
-    ^224/224<num>$ ^għaġeb/*għaġeb$
+    ^224/224<num>$ ^għaġeb/*għaġeb$	;	WONDER (m)
     ^224/224<num>$ ^Club/*Club$
     ^223/223<num>$ ^sottoġeneru/*sottoġeneru$
     ^223/223<num>$ ^smajna/*smajna$
@@ -1946,10 +1946,10 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^223/223<num>$ ^jgħinu/*jgħinu$
     ^223/223<num>$ ^jehtieg/*jehtieg$
     ^223/223<num>$ ^innifsek/*innifsek$
-    ^223/223<num>$ ^Imperu/*Imperu$
+    ^223/223<num>$ ^Imperu/*Imperu$	;	EMPIRE (m)
     ^223/223<num>$ ^Ema/*Ema$
     ^223/223<num>$ ^Detention/*Detention$
-    ^222/222<num>$ ^Park/*Park$
+    ^222/222<num>$ ^Park/*Park$	;	PARK (m)
     ^222/222<num>$ ^nammetti/*nammetti$
     ^222/222<num>$ ^malta/*malta$
     ^222/222<num>$ ^jittieħdu/*jittieħdu$
@@ -1959,7 +1959,7 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^222/222<num>$ ^bħalu/*bħalu$
     ^221/221<num>$ ^web/*web$
     ^221/221<num>$ ^Twanny/*Twanny$
-    ^221/221<num>$ ^radd/*radd$
+    ^221/221<num>$ ^radd/*radd$	;	RECIPROCATE 
     ^221/221<num>$ ^opossumi/*opossumi$
     ^221/221<num>$ ^ltqajt/*ltqajt$
     ^221/221<num>$ ^jaqraw/*jaqraw$
@@ -1974,16 +1974,16 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^220/220<num>$ ^qdusija/*qdusija$
     ^220/220<num>$ ^pjanu/*pjanu$
     ^220/220<num>$ ^Pedofelija/*Pedofelija$
-    ^220/220<num>$ ^mistrieh/*mistrieh$
+    ^220/220<num>$ ^mistrieh/*mistrieh$	;	REST (m)
     ^220/220<num>$ ^kapitali/*kapitali$
     ^220/220<num>$ ^he/*he$
     ^220/220<num>$ ^El/*El$
-    ^220/220<num>$ ^destin/*destin$
+    ^220/220<num>$ ^destin/*destin$	;	FATE (m)
     ^220/220<num>$ ^Brigadier/*Brigadier$
-    ^220/220<num>$ ^avventura/*avventura$
+    ^220/220<num>$ ^avventura/*avventura$	;	ADVENTURE (f)
     ^220/220<num>$ ^Armi/*Armi$
     ^219/219<num>$ ^titjib/*titjib$
-    ^219/219<num>$ ^Sport/*Sport$
+    ^219/219<num>$ ^Sport/*Sport$	;	SPORT (m)
     ^219/219<num>$ ^sidebar/*sidebar$
     ^219/219<num>$ ^Preżenti/*Preżenti$
     ^219/219<num>$ ^poetry/*poetry$
@@ -1993,22 +1993,22 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^219/219<num>$ ^jagħlaq/*jagħlaq$
     ^219/219<num>$ ^Inzul/*Inzul$
     ^219/219<num>$ ^hom/*hom$
-    ^219/219<num>$ ^Ghaddas/*Ghaddas$
+    ^219/219<num>$ ^Ghaddas/*Ghaddas$	;	SUBMERGE 
     ^219/219<num>$ ^Efes/*Efes$
     ^219/219<num>$ ^Aug/*Aug$
-    ^218/218<num>$ ^ton/*ton$
-    ^218/218<num>$ ^telefon/*telefon$
-    ^218/218<num>$ ^te/*te$
+    ^218/218<num>$ ^ton/*ton$	;	TUNE (m)
+    ^218/218<num>$ ^telefon/*telefon$	;	TELEPHONE (m)
+    ^218/218<num>$ ^te/*te$	;	TEA (m)
     ^218/218<num>$ ^tana/*tana$
     ^218/218<num>$ ^setgha/*setgha$
     ^218/218<num>$ ^naħat/*naħat$
-    ^218/218<num>$ ^medda/*medda$
+    ^218/218<num>$ ^medda/*medda$	;	STRETCH (f)
     ^218/218<num>$ ^League/*League$
     ^218/218<num>$ ^kastig/*kastig$
     ^218/218<num>$ ^jitilfu/*jitilfu$
     ^218/218<num>$ ^jinstema/*jinstema$
-    ^218/218<num>$ ^Hmieg/*Hmieg$
-    ^218/218<num>$ ^halliel/*halliel$
+    ^218/218<num>$ ^Hmieg/*Hmieg$	;	FILTH (m)
+    ^218/218<num>$ ^halliel/*halliel$	;	THIEF (m)
     ^218/218<num>$ ^elef/*elef$
     ^218/218<num>$ ^beraħ/*beraħ$
     ^217/217<num>$ ^tinbena/*tinbena$
@@ -2016,7 +2016,7 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^217/217<num>$ ^seduta/*seduta$
     ^217/217<num>$ ^nimmaġina/*nimmaġina$
     ^217/217<num>$ ^Kulunell/*Kulunell$
-    ^217/217<num>$ ^Kultant/*Kultant$
+    ^217/217<num>$ ^Kultant/*Kultant$	;	SOMETIMES 
     ^217/217<num>$ ^ilment/*ilment$
     ^217/217<num>$ ^Illuminani/*Illuminani$
     ^217/217<num>$ ^ħatra/*ħatra$
@@ -2024,49 +2024,49 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^217/217<num>$ ^cara/*cara$
     ^216/216<num>$ ^tħalli/*tħalli$
     ^216/216<num>$ ^Terrorizmu/*Terrorizmu$
-    ^216/216<num>$ ^Stupru/*Stupru$
+    ^216/216<num>$ ^Stupru/*Stupru$	;	RAPE (m)
     ^216/216<num>$ ^roti/*roti$
     ^216/216<num>$ ^ridkolati/*ridkolati$
     ^216/216<num>$ ^nieżla/*nieżla$
     ^216/216<num>$ ^nidħol/*nidħol$
     ^216/216<num>$ ^Melbourne/*Melbourne$
     ^216/216<num>$ ^Marittima/*Marittima$
-    ^216/216<num>$ ^kor/*kor$
-    ^216/216<num>$ ^Kacca/*Kacca$
+    ^216/216<num>$ ^kor/*kor$	;	CHOIR (m)
+    ^216/216<num>$ ^Kacca/*Kacca$	;	CHASE (f)
     ^216/216<num>$ ^jittiehdu/*jittiehdu$
     ^216/216<num>$ ^jirrifletti/*jirrifletti$
-    ^216/216<num>$ ^glieda/*glieda$
+    ^216/216<num>$ ^glieda/*glieda$	;	WRANGLE (f)
     ^216/216<num>$ ^Għalik/*Għalik$
-    ^216/216<num>$ ^fin/*fin$
+    ^216/216<num>$ ^fin/*fin$	;	SUBTLE 
     ^216/216<num>$ ^Daily/*Daily$
     ^215/215<num>$ ^Vandalizmu/*Vandalizmu$
-    ^215/215<num>$ ^Tislima/*Tislima$
-    ^215/215<num>$ ^student/*student$
+    ^215/215<num>$ ^Tislima/*Tislima$	;	BOW (f)
+    ^215/215<num>$ ^student/*student$	;	STUDENT (m)
     ^215/215<num>$ ^Splussiv/*Splussiv$
-    ^215/215<num>$ ^Rimedju/*Rimedju$
+    ^215/215<num>$ ^Rimedju/*Rimedju$	;	REMEDY (m)
     ^215/215<num>$ ^rigali/*rigali$
     ^215/215<num>$ ^poisining/*poisining$
     ^215/215<num>$ ^Pink/*Pink$
-    ^215/215<num>$ ^mistħija/*mistħija$
+    ^215/215<num>$ ^mistħija/*mistħija$	;	SHAME (f)
     ^215/215<num>$ ^jgħodd/*jgħodd$
-    ^215/215<num>$ ^Hemmhekk/*Hemmhekk$
+    ^215/215<num>$ ^Hemmhekk/*Hemmhekk$	;	YONDER 
     ^215/215<num>$ ^għalikom/*għalikom$
     ^214/214<num>$ ^żvilupp/*żvilupp$
     ^214/214<num>$ ^twaqqfet/*twaqqfet$
-    ^214/214<num>$ ^silġ/*silġ$
+    ^214/214<num>$ ^silġ/*silġ$	;	SNOW (m)
     ^214/214<num>$ ^opossum/*opossum$
     ^214/214<num>$ ^ngħidilkom/*ngħidilkom$
     ^214/214<num>$ ^mewtu/*mewtu$
     ^214/214<num>$ ^Kuntrabandu/*Kuntrabandu$
-    ^214/214<num>$ ^Kriżi/*Kriżi$
+    ^214/214<num>$ ^Kriżi/*Kriżi$	;	CRISIS (f)
     ^214/214<num>$ ^jistudja/*jistudja$
     ^214/214<num>$ ^istharrig/*istharrig$
     ^214/214<num>$ ^Htif/*Htif$
-    ^214/214<num>$ ^ħieles/*ħieles$
-    ^214/214<num>$ ^Guri/*Guri$
+    ^214/214<num>$ ^ħieles/*ħieles$	;	FREE 
+    ^214/214<num>$ ^Guri/*Guri$	;	JURY (m)
     ^214/214<num>$ ^għoljiet/*għoljiet$
     ^214/214<num>$ ^dei/*dei$
-    ^214/214<num>$ ^Avvelenament/*Avvelenament$
+    ^214/214<num>$ ^Avvelenament/*Avvelenament$	;	POISONING (m)
     ^213/213<num>$ ^tiri/*tiri$
     ^213/213<num>$ ^tahom/*tahom$
     ^213/213<num>$ ^Rigward/*Rigward$
@@ -2074,37 +2074,37 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^213/213<num>$ ^jinbena/*jinbena$
     ^213/213<num>$ ^hajr/*hajr$
     ^213/213<num>$ ^erwieħ/*erwieħ$
-    ^212/212<num>$ ^qiegh/*qiegh$
+    ^212/212<num>$ ^qiegh/*qiegh$	;	BOTTOM (m)
     ^212/212<num>$ ^ninsew/*ninsew$
     ^212/212<num>$ ^jinbidlu/*jinbidlu$
     ^212/212<num>$ ^insomma/*insomma$
     ^212/212<num>$ ^Infatti/*Infatti$
     ^212/212<num>$ ^Ħġejjeġ/*Ħġejjeġ$
-    ^212/212<num>$ ^bronż/*bronż$
+    ^212/212<num>$ ^bronż/*bronż$	;	BRONZE (m)
     ^212/212<num>$ ^anġli/*anġli$
     ^211/211<num>$ ^Żak/*Żak$
-    ^211/211<num>$ ^qerq/*qerq$
+    ^211/211<num>$ ^qerq/*qerq$	;	FRAUD (m)
     ^211/211<num>$ ^imsejjaħ/*imsejjaħ$
     ^211/211<num>$ ^Free/*Free$
     ^211/211<num>$ ^Depot/*Depot$
     ^211/211<num>$ ^Belġju/*Belġju$
     ^210/210<num>$ ^sejħa/*sejħa$
     ^210/210<num>$ ^quddiemna/*quddiemna$
-    ^210/210<num>$ ^pront/*pront$
+    ^210/210<num>$ ^pront/*pront$	;	PROMPT 
     ^210/210<num>$ ^Nispera/*Nispera$
     ^210/210<num>$ ^nfusna/*nfusna$
     ^210/210<num>$ ^miftuha/*miftuha$
-    ^210/210<num>$ ^mibegħda/*mibegħda$
+    ^210/210<num>$ ^mibegħda/*mibegħda$	;	HATE (f)
     ^210/210<num>$ ^Jul/*Jul$
     ^210/210<num>$ ^jissejjaħ/*jissejjaħ$
     ^210/210<num>$ ^alfred/*alfred$
     ^209/209<num>$ ^soda/*soda$
-    ^209/209<num>$ ^rota/*rota$
+    ^209/209<num>$ ^rota/*rota$	;	WHEEL (f)
     ^209/209<num>$ ^perijodu/*perijodu$
     ^209/209<num>$ ^Kabinett/*Kabinett$
     ^209/209<num>$ ^ghaldaqstant/*ghaldaqstant$
-    ^208/208<num>$ ^żied/*żied$
-    ^208/208<num>$ ^theddida/*theddida$
+    ^208/208<num>$ ^żied/*żied$	;	ENHANCE 
+    ^208/208<num>$ ^theddida/*theddida$	;	THREAT (f)
     ^208/208<num>$ ^qagħad/*qagħad$
     ^208/208<num>$ ^make/*make$
     ^208/208<num>$ ^jżommu/*jżommu$
@@ -2119,7 +2119,7 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^207/207<num>$ ^wrew/*wrew$
     ^207/207<num>$ ^titfa/*titfa$
     ^207/207<num>$ ^tgħin/*tgħin$
-    ^207/207<num>$ ^sfida/*sfida$
+    ^207/207<num>$ ^sfida/*sfida$	;	CHALLENGE (f)
     ^207/207<num>$ ^nimxu/*nimxu$
     ^207/207<num>$ ^ngħata/*ngħata$
     ^207/207<num>$ ^mqar/*mqar$
@@ -2132,7 +2132,7 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^207/207<num>$ ^ġġib/*ġġib$
     ^207/207<num>$ ^domanda/*domanda$
     ^207/207<num>$ ^analiżi/*analiżi$
-    ^206/206<num>$ ^volum/*volum$
+    ^206/206<num>$ ^volum/*volum$	;	VOLUME (m)
     ^206/206<num>$ ^tiswa/*tiswa$
     ^206/206<num>$ ^sama/*sama$
     ^206/206<num>$ ^ONL/*ONL$
@@ -2140,7 +2140,7 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^206/206<num>$ ^jissemma/*jissemma$
     ^206/206<num>$ ^iġib/*iġib$
     ^206/206<num>$ ^Group/*Group$
-    ^206/206<num>$ ^għar/*għar$
+    ^206/206<num>$ ^għar/*għar$	;	DEN (m)
     ^205/205<num>$ ^potenzjal/*potenzjal$
     ^205/205<num>$ ^Nimxu/*Nimxu$
     ^205/205<num>$ ^mohhu/*mohhu$
@@ -2152,7 +2152,7 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^205/205<num>$ ^Ezekuttiv/*Ezekuttiv$
     ^205/205<num>$ ^election/*election$
     ^205/205<num>$ ^dieħla/*dieħla$
-    ^204/204<num>$ ^wiesa/*wiesa$
+    ^204/204<num>$ ^wiesa/*wiesa$	;	WIDE 
     ^204/204<num>$ ^wiċċi/*wiċċi$
     ^204/204<num>$ ^waqtiet/*waqtiet$
     ^204/204<num>$ ^ups/*ups$
@@ -2160,17 +2160,17 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^204/204<num>$ ^Rokku/*Rokku$
     ^204/204<num>$ ^nippruvaw/*nippruvaw$
     ^204/204<num>$ ^Messija/*Messija$
-    ^204/204<num>$ ^Kaptan/*Kaptan$
+    ^204/204<num>$ ^Kaptan/*Kaptan$	;	SKIPPER (m)
     ^204/204<num>$ ^izomm/*izomm$
     ^204/204<num>$ ^dinjija/*dinjija$
     ^204/204<num>$ ^Association/*Association$
     ^203/203<num>$ ^stajna/*stajna$
-    ^203/203<num>$ ^skop/*skop$
+    ^203/203<num>$ ^skop/*skop$	;	SCOPE (m)
     ^203/203<num>$ ^qajla/*qajla$
     ^203/203<num>$ ^primarja/*primarja$
     ^203/203<num>$ ^joqoghdu/*joqoghdu$
     ^203/203<num>$ ^giordano/*giordano$
-    ^203/203<num>$ ^għajb/*għajb$
+    ^203/203<num>$ ^għajb/*għajb$	;	SHAME (m)
     ^203/203<num>$ ^Eżekuttiv/*Eżekuttiv$
     ^202/202<num>$ ^widen/*widen$
     ^202/202<num>$ ^sofrew/*sofrew$
@@ -2187,8 +2187,8 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^202/202<num>$ ^ilni/*ilni$
     ^202/202<num>$ ^ħassejt/*ħassejt$
     ^202/202<num>$ ^ghaddejja/*ghaddejja$
-    ^202/202<num>$ ^gemgha/*gemgha$
-    ^202/202<num>$ ^garanzija/*garanzija$
+    ^202/202<num>$ ^gemgha/*gemgha$	;	THRONG (f)
+    ^202/202<num>$ ^garanzija/*garanzija$	;	GUARANTEE (f)
     ^202/202<num>$ ^bqajna/*bqajna$
     ^202/202<num>$ ^battalja/*battalja$
     ^201/201<num>$ ^Vanġelu/*Vanġelu$
@@ -2208,7 +2208,7 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^201/201<num>$ ^about/*about$
     ^200/200<num>$ ^top/*top$
     ^200/200<num>$ ^preżent/*preżent$
-    ^200/200<num>$ ^Palazz/*Palazz$
+    ^200/200<num>$ ^Palazz/*Palazz$	;	PALACE (m)
     ^200/200<num>$ ^ol/*ol$
     ^200/200<num>$ ^logo/*logo$
     ^200/200<num>$ ^km/*km$
@@ -2224,30 +2224,30 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^199/199<num>$ ^posthom/*posthom$
     ^199/199<num>$ ^ninsab/*ninsab$
     ^199/199<num>$ ^naqraw/*naqraw$
-    ^199/199<num>$ ^kuruna/*kuruna$
+    ^199/199<num>$ ^kuruna/*kuruna$	;	WREATH (f)
     ^199/199<num>$ ^iżommu/*iżommu$
     ^199/199<num>$ ^Bdejt/*Bdejt$
-    ^198/198<num>$ ^zejt/*zejt$
-    ^198/198<num>$ ^sħana/*sħana$
-    ^198/198<num>$ ^pesta/*pesta$
+    ^198/198<num>$ ^zejt/*zejt$	;	OIL (m)
+    ^198/198<num>$ ^sħana/*sħana$	;	WARMTH (f)
+    ^198/198<num>$ ^pesta/*pesta$	;	PLAGUE (f)
     ^198/198<num>$ ^Konċilju/*Konċilju$
     ^198/198<num>$ ^kbarat/*kbarat$
-    ^198/198<num>$ ^hniena/*hniena$
-    ^198/198<num>$ ^eroj/*eroj$
+    ^198/198<num>$ ^hniena/*hniena$	;	MERCY (f)
+    ^198/198<num>$ ^eroj/*eroj$	;	HERO (m)
     ^198/198<num>$ ^ċirku/*ċirku$
     ^197/197<num>$ ^tuża/*tuża$
-    ^197/197<num>$ ^Tramuntana/*Tramuntana$
-    ^197/197<num>$ ^Salvatur/*Salvatur$
-    ^197/197<num>$ ^Mużew/*Mużew$
+    ^197/197<num>$ ^Tramuntana/*Tramuntana$	;	NORTH (f)
+    ^197/197<num>$ ^Salvatur/*Salvatur$	;	SAVIOR (m)
+    ^197/197<num>$ ^Mużew/*Mużew$	;	MUSEUM (m)
     ^197/197<num>$ ^Lino/*Lino$
-    ^197/197<num>$ ^konxju/*konxju$
+    ^197/197<num>$ ^konxju/*konxju$	;	CONSCIOUS 
     ^197/197<num>$ ^intqal/*intqal$
     ^197/197<num>$ ^għalliem/*għalliem$
     ^197/197<num>$ ^Cuschieri/*Cuschieri$
     ^196/196<num>$ ^qalilha/*qalilha$
     ^196/196<num>$ ^mexxa/*mexxa$
     ^196/196<num>$ ^Kurja/*Kurja$
-    ^196/196<num>$ ^kappillan/*kappillan$
+    ^196/196<num>$ ^kappillan/*kappillan$	;	CHAPLAIN (m)
     ^196/196<num>$ ^kaċċa/*kaċċa$
     ^196/196<num>$ ^jixraq/*jixraq$
     ^196/196<num>$ ^jirreferi/*jirreferi$
@@ -2255,10 +2255,10 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^196/196<num>$ ^It/*It$
     ^196/196<num>$ ^girja/*girja$
     ^196/196<num>$ ^Episcopal/*Episcopal$
-    ^196/196<num>$ ^Assedju/*Assedju$
-    ^195/195<num>$ ^żamm/*żamm$
+    ^196/196<num>$ ^Assedju/*Assedju$	;	SIEGE (m)
+    ^195/195<num>$ ^żamm/*żamm$	;	WITHSTAND 
     ^195/195<num>$ ^Wistin/*Wistin$
-    ^195/195<num>$ ^sustanza/*sustanza$
+    ^195/195<num>$ ^sustanza/*sustanza$	;	SUBSTANCE (f)
     ^195/195<num>$ ^sekondarja/*sekondarja$
     ^195/195<num>$ ^ninsa/*ninsa$
     ^195/195<num>$ ^moħbi/*moħbi$
@@ -2269,13 +2269,13 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^195/195<num>$ ^jiġru/*jiġru$
     ^195/195<num>$ ^jibnu/*jibnu$
     ^195/195<num>$ ^jattendi/*jattendi$
-    ^195/195<num>$ ^ħeġġa/*ħeġġa$
-    ^195/195<num>$ ^għaqal/*għaqal$
+    ^195/195<num>$ ^ħeġġa/*ħeġġa$	;	VERVE (f)
+    ^195/195<num>$ ^għaqal/*għaqal$	;	SENSE (m)
     ^195/195<num>$ ^donnha/*donnha$
     ^194/194<num>$ ^wiċċhom/*wiċċhom$
-    ^194/194<num>$ ^trattat/*trattat$
+    ^194/194<num>$ ^trattat/*trattat$	;	TREATY (m)
     ^194/194<num>$ ^Teo/*Teo$
-    ^194/194<num>$ ^telefonata/*telefonata$
+    ^194/194<num>$ ^telefonata/*telefonata$	;	TELEPHONE CALL (f)
     ^194/194<num>$ ^realtajiet/*realtajiet$
     ^194/194<num>$ ^Logotenent/*Logotenent$
     ^194/194<num>$ ^Live/*Live$
@@ -2284,10 +2284,10 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^194/194<num>$ ^can/*can$
     ^193/193<num>$ ^Tedesco/*Tedesco$
     ^193/193<num>$ ^suġġetti/*suġġetti$
-    ^193/193<num>$ ^shana/*shana$
-    ^193/193<num>$ ^rivista/*rivista$
+    ^193/193<num>$ ^shana/*shana$	;	WARMTH (f)
+    ^193/193<num>$ ^rivista/*rivista$	;	MAGAZINE (f)
     ^193/193<num>$ ^qeghda/*qeghda$
-    ^193/193<num>$ ^pazjent/*pazjent$
+    ^193/193<num>$ ^pazjent/*pazjent$	;	PATIENT (m)
     ^193/193<num>$ ^nkomplu/*nkomplu$
     ^193/193<num>$ ^insetti/*insetti$
     ^193/193<num>$ ^indipendenza/*indipendenza$
@@ -2295,19 +2295,19 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^193/193<num>$ ^ghajnejja/*ghajnejja$
     ^193/193<num>$ ^Didelphimorphia/*Didelphimorphia$
     ^193/193<num>$ ^damet/*damet$
-    ^192/192<num>$ ^zjara/*zjara$
+    ^192/192<num>$ ^zjara/*zjara$	;	VISIT (f)
     ^192/192<num>$ ^wisa/*wisa$
-    ^192/192<num>$ ^qilla/*qilla$
+    ^192/192<num>$ ^qilla/*qilla$	;	VIOLENCE (f)
     ^192/192<num>$ ^operat/*operat$
     ^192/192<num>$ ^noqghod/*noqghod$
-    ^192/192<num>$ ^mehtieg/*mehtieg$
+    ^192/192<num>$ ^mehtieg/*mehtieg$	;	NECESSARY 
     ^192/192<num>$ ^jaqblu/*jaqblu$
     ^192/192<num>$ ^iħossu/*iħossu$
     ^192/192<num>$ ^Gordan/*Gordan$
     ^192/192<num>$ ^ċkejkna/*ċkejkna$
     ^192/192<num>$ ^Circulars/*Circulars$
     ^191/191<num>$ ^titulari/*titulari$
-    ^191/191<num>$ ^spjega/*spjega$
+    ^191/191<num>$ ^spjega/*spjega$	;	INTERPRET 
     ^191/191<num>$ ^sieħbi/*sieħbi$
     ^191/191<num>$ ^Sansone/*Sansone$
     ^191/191<num>$ ^quddiemhom/*quddiemhom$
@@ -2321,14 +2321,14 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^191/191<num>$ ^Efrajm/*Efrajm$
     ^191/191<num>$ ^budget/*budget$
     ^191/191<num>$ ^Achille/*Achille$
-    ^190/190<num>$ ^umli/*umli$
+    ^190/190<num>$ ^umli/*umli$	;	HUMBLE 
     ^190/190<num>$ ^Team/*Team$
     ^190/190<num>$ ^Mars/*Mars$
     ^190/190<num>$ ^magħżula/*magħżula$
-    ^190/190<num>$ ^Kulleġġ/*Kulleġġ$
+    ^190/190<num>$ ^Kulleġġ/*Kulleġġ$	;	COLLEGE (m)
     ^190/190<num>$ ^jitqies/*jitqies$
     ^190/190<num>$ ^jħares/*jħares$
-    ^190/190<num>$ ^ġnien/*ġnien$
+    ^190/190<num>$ ^ġnien/*ġnien$	;	GARDEN (m)
     ^189/189<num>$ ^twieldet/*twieldet$
     ^189/189<num>$ ^tqis/*tqis$
     ^189/189<num>$ ^sorijiet/*sorijiet$
@@ -2351,23 +2351,23 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^188/188<num>$ ^jibgħat/*jibgħat$
     ^188/188<num>$ ^jdoqq/*jdoqq$
     ^188/188<num>$ ^irrizulta/*irrizulta$
-    ^188/188<num>$ ^innu/*innu$
+    ^188/188<num>$ ^innu/*innu$	;	HYMN (m)
     ^188/188<num>$ ^ie/*ie$
     ^188/188<num>$ ^Awditur/*Awditur$
     ^187/187<num>$ ^tipi/*tipi$
     ^187/187<num>$ ^jfittex/*jfittex$
     ^187/187<num>$ ^jergghu/*jergghu$
     ^187/187<num>$ ^ġbir/*ġbir$
-    ^187/187<num>$ ^fiducja/*fiducja$
+    ^187/187<num>$ ^fiducja/*fiducja$	;	TRUST (f)
     ^187/187<num>$ ^Clerum/*Clerum$
     ^187/187<num>$ ^cirkostanzi/*cirkostanzi$
     ^187/187<num>$ ^billejl/*billejl$
     ^187/187<num>$ ^ala/*ala$
     ^186/186<num>$ ^wasslu/*wasslu$
     ^186/186<num>$ ^power/*power$
-    ^186/186<num>$ ^posta/*posta$
+    ^186/186<num>$ ^posta/*posta$	;	POST OFFICE (f)
     ^186/186<num>$ ^noqogħdu/*noqogħdu$
-    ^186/186<num>$ ^Kappillan/*Kappillan$
+    ^186/186<num>$ ^Kappillan/*Kappillan$	;	CHAPLAIN (m)
     ^186/186<num>$ ^jixrob/*jixrob$
     ^186/186<num>$ ^iħarsu/*iħarsu$
     ^186/186<num>$ ^ihares/*ihares$
@@ -2377,24 +2377,24 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^186/186<num>$ ^Bloggs/*Bloggs$
     ^185/185<num>$ ^tixtri/*tixtri$
     ^185/185<num>$ ^tgħidli/*tgħidli$
-    ^185/185<num>$ ^medicina/*medicina$
+    ^185/185<num>$ ^medicina/*medicina$	;	MEDICINE (f)
     ^185/185<num>$ ^johloq/*johloq$
     ^185/185<num>$ ^jgħallem/*jgħallem$
     ^185/185<num>$ ^Jesmond/*Jesmond$
     ^185/185<num>$ ^Didelphidae/*Didelphidae$
     ^185/185<num>$ ^Ċaħda/*Ċaħda$
     ^185/185<num>$ ^abort/*abort$
-    ^184/184<num>$ ^zejda/*zejda$
+    ^184/184<num>$ ^zejda/*zejda$	;	EXTRA 
     ^184/184<num>$ ^Wales/*Wales$
     ^184/184<num>$ ^sewwieqa/*sewwieqa$
     ^184/184<num>$ ^niltaqgħu/*niltaqgħu$
     ^184/184<num>$ ^naħsbu/*naħsbu$
     ^184/184<num>$ ^ladarba/*ladarba$
-    ^184/184<num>$ ^Karnival/*Karnival$
+    ^184/184<num>$ ^Karnival/*Karnival$	;	CARNIVAL (m)
     ^184/184<num>$ ^joqtol/*joqtol$
     ^184/184<num>$ ^jistqarr/*jistqarr$
     ^184/184<num>$ ^en/*en$
-    ^184/184<num>$ ^emergenza/*emergenza$
+    ^184/184<num>$ ^emergenza/*emergenza$	;	EMERGENCY (f)
     ^184/184<num>$ ^dmugħ/*dmugħ$
     ^184/184<num>$ ^ċirkostanzi/*ċirkostanzi$
     ^184/184<num>$ ^Bloggati/*Bloggati$
@@ -2406,21 +2406,21 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^183/183<num>$ ^mifrux/*mifrux$
     ^183/183<num>$ ^jmexxi/*jmexxi$
     ^183/183<num>$ ^jinstabu/*jinstabu$
-    ^183/183<num>$ ^ħass/*ħass$
+    ^183/183<num>$ ^ħass/*ħass$	;	SENSE (m)
     ^183/183<num>$ ^għajr/*għajr$
     ^182/182<num>$ ^rija/*rija$
     ^182/182<num>$ ^rgiel/*rgiel$
     ^182/182<num>$ ^Radio/*Radio$
-    ^182/182<num>$ ^Miet/*Miet$
-    ^182/182<num>$ ^gwida/*gwida$
+    ^182/182<num>$ ^Miet/*Miet$	;	EXPIRE 
+    ^182/182<num>$ ^gwida/*gwida$	;	GUIDE 
     ^182/182<num>$ ^bħallikieku/*bħallikieku$
     ^182/182<num>$ ^afna/*afna$
-    ^181/181<num>$ ^vuci/*vuci$
+    ^181/181<num>$ ^vuci/*vuci$	;	VOICE (f)
     ^181/181<num>$ ^tmexxi/*tmexxi$
     ^181/181<num>$ ^qamu/*qamu$
-    ^181/181<num>$ ^qajjem/*qajjem$
+    ^181/181<num>$ ^qajjem/*qajjem$	;	AWAKE 
     ^181/181<num>$ ^naqbilx/*naqbilx$
-    ^181/181<num>$ ^Kuntistabbli/*Kuntistabbli$
+    ^181/181<num>$ ^Kuntistabbli/*Kuntistabbli$	;	COP (m)
     ^181/181<num>$ ^infermiera/*infermiera$
     ^181/181<num>$ ^iddeċieda/*iddeċieda$
     ^181/181<num>$ ^gismu/*gismu$
@@ -2432,7 +2432,7 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^180/180<num>$ ^jerfa/*jerfa$
     ^180/180<num>$ ^ihallas/*ihallas$
     ^180/180<num>$ ^ħut/*ħut$
-    ^180/180<num>$ ^htija/*htija$
+    ^180/180<num>$ ^htija/*htija$	;	GUILT (f)
     ^180/180<num>$ ^ghodu/*ghodu$
     ^180/180<num>$ ^Chircop/*Chircop$
     ^180/180<num>$ ^basta/*basta$
@@ -2441,7 +2441,7 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^179/179<num>$ ^Sliem/*Sliem$
     ^179/179<num>$ ^prezenza/*prezenza$
     ^179/179<num>$ ^Oratorju/*Oratorju$
-    ^179/179<num>$ ^novella/*novella$
+    ^179/179<num>$ ^novella/*novella$	;	SHORT STORY (f)
     ^179/179<num>$ ^more/*more$
     ^179/179<num>$ ^midja/*midja$
     ^179/179<num>$ ^Libanu/*Libanu$
@@ -2450,7 +2450,7 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^178/178<num>$ ^proċedura/*proċedura$
     ^178/178<num>$ ^nibnu/*nibnu$
     ^178/178<num>$ ^Mowab/*Mowab$
-    ^178/178<num>$ ^Kardinal/*Kardinal$
+    ^178/178<num>$ ^Kardinal/*Kardinal$	;	CARDINAL (m)
     ^178/178<num>$ ^jirrakkonta/*jirrakkonta$
     ^178/178<num>$ ^jipproponi/*jipproponi$
     ^178/178<num>$ ^jibqax/*jibqax$
@@ -2458,12 +2458,12 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^178/178<num>$ ^irħula/*irħula$
     ^178/178<num>$ ^ħallew/*ħallew$
     ^178/178<num>$ ^Frangiskani/*Frangiskani$
-    ^177/177<num>$ ^tifħir/*tifħir$
+    ^177/177<num>$ ^tifħir/*tifħir$	;	PRAISE (m)
     ^177/177<num>$ ^tħobb/*tħobb$
-    ^177/177<num>$ ^sura/*sura$
+    ^177/177<num>$ ^sura/*sura$	;	STYLE (f)
     ^177/177<num>$ ^seħħet/*seħħet$
     ^177/177<num>$ ^sabar/*sabar$
-    ^177/177<num>$ ^perfett/*perfett$
+    ^177/177<num>$ ^perfett/*perfett$	;	PERFECT 
     ^177/177<num>$ ^nawtiku/*nawtiku$
     ^177/177<num>$ ^mixli/*mixli$
     ^177/177<num>$ ^Konferenza/*Konferenza$
@@ -2484,20 +2484,20 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^176/176<num>$ ^tlajt/*tlajt$
     ^176/176<num>$ ^team/*team$
     ^176/176<num>$ ^sagristija/*sagristija$
-    ^176/176<num>$ ^reqqa/*reqqa$
-    ^176/176<num>$ ^maqlub/*maqlub$
-    ^176/176<num>$ ^Kapitlu/*Kapitlu$
+    ^176/176<num>$ ^reqqa/*reqqa$	;	SUBTLETY (f)
+    ^176/176<num>$ ^maqlub/*maqlub$	;	INVERSE 
+    ^176/176<num>$ ^Kapitlu/*Kapitlu$	;	CHAPTER 
     ^176/176<num>$ ^jħarsu/*jħarsu$
     ^176/176<num>$ ^isofri/*isofri$
     ^176/176<num>$ ^iskema/*iskema$
-    ^176/176<num>$ ^interessat/*interessat$
-    ^176/176<num>$ ^ħarsien/*ħarsien$
+    ^176/176<num>$ ^interessat/*interessat$	;	INTERESTED 
+    ^176/176<num>$ ^ħarsien/*ħarsien$	;	CUSTODY (m)
     ^176/176<num>$ ^globali/*globali$
     ^176/176<num>$ ^genb/*genb$
-    ^176/176<num>$ ^debutt/*debutt$
+    ^176/176<num>$ ^debutt/*debutt$	;	DEBUT (m)
     ^176/176<num>$ ^agħfas/*agħfas$
     ^175/175<num>$ ^Zerafa/*Zerafa$
-    ^175/175<num>$ ^vokazzjoni/*vokazzjoni$
+    ^175/175<num>$ ^vokazzjoni/*vokazzjoni$	;	VOCATION (f)
     ^175/175<num>$ ^uċuħ/*uċuħ$
     ^175/175<num>$ ^regghet/*regghet$
     ^175/175<num>$ ^pagani/*pagani$
@@ -2505,15 +2505,15 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^175/175<num>$ ^midneb/*midneb$
     ^175/175<num>$ ^Lourdes/*Lourdes$
     ^175/175<num>$ ^jibża/*jibża$
-    ^175/175<num>$ ^glied/*glied$
+    ^175/175<num>$ ^glied/*glied$	;	DISCORD (m)
     ^175/175<num>$ ^għadux/*għadux$
     ^175/175<num>$ ^eterna/*eterna$
     ^175/175<num>$ ^atleti/*atleti$
-    ^174/174<num>$ ^utli/*utli$
+    ^174/174<num>$ ^utli/*utli$	;	USEFUL 
     ^174/174<num>$ ^TLOI/*TLOI$
-    ^174/174<num>$ ^statwa/*statwa$
+    ^174/174<num>$ ^statwa/*statwa$	;	STATUE (f)
     ^174/174<num>$ ^Sacro/*Sacro$
-    ^174/174<num>$ ^rieqed/*rieqed$
+    ^174/174<num>$ ^rieqed/*rieqed$	;	ASLEEP 
     ^174/174<num>$ ^laħqu/*laħqu$
     ^174/174<num>$ ^kompleta/*kompleta$
     ^174/174<num>$ ^Kenny/*Kenny$
@@ -2522,25 +2522,25 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^174/174<num>$ ^inkomplu/*inkomplu$
     ^174/174<num>$ ^inċident/*inċident$
     ^174/174<num>$ ^has/*has$
-    ^174/174<num>$ ^Golf/*Golf$
+    ^174/174<num>$ ^Golf/*Golf$	;	GOLF (m)
     ^174/174<num>$ ^flagħ/*flagħ$
     ^174/174<num>$ ^Ereżija/*Ereżija$
     ^173/173<num>$ ^xierqa/*xierqa$
     ^173/173<num>$ ^taħlita/*taħlita$
     ^173/173<num>$ ^semi/*semi$
     ^173/173<num>$ ^sahhtu/*sahhtu$
-    ^173/173<num>$ ^qies/*qies$
+    ^173/173<num>$ ^qies/*qies$	;	THRIFT (m)
     ^173/173<num>$ ^qedem/*qedem$
     ^173/173<num>$ ^prezent/*prezent$
     ^173/173<num>$ ^Oliver/*Oliver$
     ^173/173<num>$ ^nħarsu/*nħarsu$
     ^173/173<num>$ ^Ħin/*Ħin$
     ^173/173<num>$ ^Għawdxi/*Għawdxi$
-    ^173/173<num>$ ^fejqan/*fejqan$
+    ^173/173<num>$ ^fejqan/*fejqan$	;	CURE (m)
     ^173/173<num>$ ^Evanġelju/*Evanġelju$
     ^173/173<num>$ ^diżappunt/*diżappunt$
     ^172/172<num>$ ^tintuza/*tintuza$
-    ^172/172<num>$ ^piz/*piz$
+    ^172/172<num>$ ^piz/*piz$	;	WEIGHT (m)
     ^172/172<num>$ ^nimxi/*nimxi$
     ^172/172<num>$ ^jirrizulta/*jirrizulta$
     ^172/172<num>$ ^iservi/*iservi$
@@ -2552,17 +2552,17 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^172/172<num>$ ^bilqieghda/*bilqieghda$
     ^172/172<num>$ ^Arrigo/*Arrigo$
     ^171/171<num>$ ^Zejtun/*Zejtun$
-    ^171/171<num>$ ^torri/*torri$
+    ^171/171<num>$ ^torri/*torri$	;	TOWER (m)
     ^171/171<num>$ ^tezisti/*tezisti$
     ^171/171<num>$ ^tbiddel/*tbiddel$
     ^171/171<num>$ ^Sun/*Sun$
     ^171/171<num>$ ^semmejna/*semmejna$
-    ^171/171<num>$ ^plastik/*plastik$
+    ^171/171<num>$ ^plastik/*plastik$	;	PLASTIC (m)
     ^171/171<num>$ ^our/*our$
     ^171/171<num>$ ^nbniet/*nbniet$
-    ^171/171<num>$ ^magħluq/*magħluq$
+    ^171/171<num>$ ^magħluq/*magħluq$	;	CLOSED 
     ^171/171<num>$ ^madwari/*madwari$
-    ^171/171<num>$ ^kitarra/*kitarra$
+    ^171/171<num>$ ^kitarra/*kitarra$	;	GUITAR (f)
     ^171/171<num>$ ^jtella/*jtella$
     ^171/171<num>$ ^jħalli/*jħalli$
     ^171/171<num>$ ^isalva/*isalva$
@@ -2571,7 +2571,7 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^171/171<num>$ ^etc/*etc$
     ^171/171<num>$ ^ergajt/*ergajt$
     ^171/171<num>$ ^diehel/*diehel$
-    ^171/171<num>$ ^appuntament/*appuntament$
+    ^171/171<num>$ ^appuntament/*appuntament$	;	APPOINTMENT (m)
     ^170/170<num>$ ^you/*you$
     ^170/170<num>$ ^will/*will$
     ^170/170<num>$ ^telefonati/*telefonati$
@@ -2589,7 +2589,7 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^170/170<num>$ ^Antnin/*Antnin$
     ^170/170<num>$ ^Amen/*Amen$
     ^169/169<num>$ ^Yvonne/*Yvonne$
-    ^169/169<num>$ ^Talba/*Talba$
+    ^169/169<num>$ ^Talba/*Talba$	;	REQUEST (f)
     ^169/169<num>$ ^sua/*sua$
     ^169/169<num>$ ^Spartans/*Spartans$
     ^169/169<num>$ ^sehhew/*sehhew$
@@ -2599,32 +2599,32 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^169/169<num>$ ^iltqajt/*iltqajt$
     ^169/169<num>$ ^ikkonferma/*ikkonferma$
     ^169/169<num>$ ^idma/*idma$
-    ^169/169<num>$ ^hass/*hass$
+    ^169/169<num>$ ^hass/*hass$	;	SENSE (m)
     ^169/169<num>$ ^għoti/*għoti$
     ^169/169<num>$ ^ewwelnett/*ewwelnett$
     ^169/169<num>$ ^do/*do$
-    ^169/169<num>$ ^dahar/*dahar$
+    ^169/169<num>$ ^dahar/*dahar$	;	BACK (m)
     ^169/169<num>$ ^bintu/*bintu$
-    ^169/169<num>$ ^ammetta/*ammetta$
-    ^168/168<num>$ ^żejda/*żejda$
+    ^169/169<num>$ ^ammetta/*ammetta$	;	ACKNOWLEDGE 
+    ^168/168<num>$ ^żejda/*żejda$	;	EXTRA 
     ^168/168<num>$ ^tazzi/*tazzi$
-    ^168/168<num>$ ^taqbida/*taqbida$
+    ^168/168<num>$ ^taqbida/*taqbida$	;	TUSSLE (f)
     ^168/168<num>$ ^sostniet/*sostniet$
     ^168/168<num>$ ^Philip/*Philip$
-    ^168/168<num>$ ^nanna/*nanna$
+    ^168/168<num>$ ^nanna/*nanna$	;	GRANDMOTHER (f)
     ^168/168<num>$ ^Matthew/*Matthew$
-    ^168/168<num>$ ^kburi/*kburi$
+    ^168/168<num>$ ^kburi/*kburi$	;	UPPISH 
     ^168/168<num>$ ^jgħammru/*jgħammru$
     ^168/168<num>$ ^jesprimi/*jesprimi$
     ^168/168<num>$ ^inbniet/*inbniet$
     ^168/168<num>$ ^feriti/*feriti$
     ^168/168<num>$ ^dħalt/*dħalt$
-    ^167/167<num>$ ^univers/*univers$
+    ^167/167<num>$ ^univers/*univers$	;	UNIVERSE (m)
     ^167/167<num>$ ^traffikar/*traffikar$
     ^167/167<num>$ ^This/*This$
     ^167/167<num>$ ^their/*their$
-    ^167/167<num>$ ^TEMP/*TEMP$
-    ^167/167<num>$ ^stadju/*stadju$
+    ^167/167<num>$ ^TEMP/*TEMP$	;	WEATHER (m)
+    ^167/167<num>$ ^stadju/*stadju$	;	STADIUM (m)
     ^167/167<num>$ ^sostnew/*sostnew$
     ^167/167<num>$ ^Press/*Press$
     ^167/167<num>$ ^pa/*pa$
@@ -2635,7 +2635,7 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^167/167<num>$ ^jgħammar/*jgħammar$
     ^167/167<num>$ ^imsejħa/*imsejħa$
     ^167/167<num>$ ^gust/*gust$
-    ^167/167<num>$ ^għatx/*għatx$
+    ^167/167<num>$ ^għatx/*għatx$	;	THIRST (m)
     ^167/167<num>$ ^għajnejhom/*għajnejhom$
     ^167/167<num>$ ^ax/*ax$
     ^167/167<num>$ ^Arċibald/*Arċibald$
@@ -2647,16 +2647,16 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^166/166<num>$ ^riċenti/*riċenti$
     ^166/166<num>$ ^purifikazzjoni/*purifikazzjoni$
     ^166/166<num>$ ^pilastri/*pilastri$
-    ^166/166<num>$ ^petrol/*petrol$
-    ^166/166<num>$ ^nitfa/*nitfa$
+    ^166/166<num>$ ^petrol/*petrol$	;	GASOLINE (m)
+    ^166/166<num>$ ^nitfa/*nitfa$	;	PINCH (f)
     ^166/166<num>$ ^Nietzsche/*Nietzsche$
     ^166/166<num>$ ^murtali/*murtali$
     ^166/166<num>$ ^jinġabru/*jinġabru$
-    ^166/166<num>$ ^holma/*holma$
+    ^166/166<num>$ ^holma/*holma$	;	DREAM (f)
     ^166/166<num>$ ^attakkant/*attakkant$
     ^165/165<num>$ ^żewġha/*żewġha$
     ^165/165<num>$ ^wiled/*wiled$
-    ^165/165<num>$ ^wieqaf/*wieqaf$
+    ^165/165<num>$ ^wieqaf/*wieqaf$	;	VERTICAL 
     ^165/165<num>$ ^siehbi/*siehbi$
     ^165/165<num>$ ^sagrifiċċji/*sagrifiċċji$
     ^165/165<num>$ ^Q/*Q$
@@ -2671,7 +2671,7 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^165/165<num>$ ^Ipprintja/*Ipprintja$
     ^165/165<num>$ ^ippjanar/*ippjanar$
     ^165/165<num>$ ^inħobb/*inħobb$
-    ^165/165<num>$ ^infermier/*infermier$
+    ^165/165<num>$ ^infermier/*infermier$	;	NURSE (m)
     ^165/165<num>$ ^imsemmija/*imsemmija$
     ^165/165<num>$ ^filmati/*filmati$
     ^165/165<num>$ ^Back/*Back$
@@ -2679,16 +2679,16 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^164/164<num>$ ^Wanderers/*Wanderers$
     ^164/164<num>$ ^Ungerija/*Ungerija$
     ^164/164<num>$ ^ubbidjenza/*ubbidjenza$
-    ^164/164<num>$ ^Traffiku/*Traffiku$
+    ^164/164<num>$ ^Traffiku/*Traffiku$	;	TRAFFIC (m)
     ^164/164<num>$ ^tmiss/*tmiss$
     ^164/164<num>$ ^Seduta/*Seduta$
     ^164/164<num>$ ^paġni/*paġni$
     ^164/164<num>$ ^miġja/*miġja$
     ^164/164<num>$ ^Mellieha/*Mellieha$
     ^164/164<num>$ ^Kol/*Kol$
-    ^164/164<num>$ ^kacca/*kacca$
+    ^164/164<num>$ ^kacca/*kacca$	;	CHASE (f)
     ^164/164<num>$ ^jirritorna/*jirritorna$
-    ^164/164<num>$ ^jasar/*jasar$
+    ^164/164<num>$ ^jasar/*jasar$	;	DRUDGERY (m)
     ^164/164<num>$ ^idejna/*idejna$
     ^164/164<num>$ ^hit/*hit$
     ^164/164<num>$ ^Ħajr/*Ħajr$
@@ -2699,7 +2699,7 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^163/163<num>$ ^Seminarju/*Seminarju$
     ^163/163<num>$ ^oġġett/*oġġett$
     ^163/163<num>$ ^miżmuma/*miżmuma$
-    ^163/163<num>$ ^kazin/*kazin$
+    ^163/163<num>$ ^kazin/*kazin$	;	CLUB (m)
     ^163/163<num>$ ^jinvestiga/*jinvestiga$
     ^163/163<num>$ ^jidhirx/*jidhirx$
     ^163/163<num>$ ^jghidilna/*jghidilna$
@@ -2709,7 +2709,7 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^163/163<num>$ ^ċentri/*ċentri$
     ^163/163<num>$ ^Bollettino/*Bollettino$
     ^163/163<num>$ ^bilanċ/*bilanċ$
-    ^163/163<num>$ ^bajja/*bajja$
+    ^163/163<num>$ ^bajja/*bajja$	;	BAY (f)
     ^163/163<num>$ ^bagalja/*bagalja$
     ^162/162<num>$ ^vjaggi/*vjaggi$
     ^162/162<num>$ ^silenzju/*silenzju$
@@ -2726,14 +2726,14 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^162/162<num>$ ^jieqfu/*jieqfu$
     ^162/162<num>$ ^isostni/*isostni$
     ^162/162<num>$ ^infittex/*infittex$
-    ^162/162<num>$ ^impossibbli/*impossibbli$
+    ^162/162<num>$ ^impossibbli/*impossibbli$	;	IMPOSSIBLE 
     ^162/162<num>$ ^Ikompli/*Ikompli$
-    ^162/162<num>$ ^ga/*ga$
+    ^162/162<num>$ ^ga/*ga$	;	ALREADY 
     ^161/161<num>$ ^telghu/*telghu$
     ^161/161<num>$ ^SPEAKER/*SPEAKER$
     ^161/161<num>$ ^party/*party$
     ^161/161<num>$ ^Page/*Page$
-    ^161/161<num>$ ^mogħdija/*mogħdija$
+    ^161/161<num>$ ^mogħdija/*mogħdija$	;	TRAIL (f)
     ^161/161<num>$ ^jsaltan/*jsaltan$
     ^161/161<num>$ ^jinduna/*jinduna$
     ^161/161<num>$ ^irjus/*irjus$
@@ -2743,18 +2743,18 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^161/161<num>$ ^eroina/*eroina$
     ^161/161<num>$ ^demmu/*demmu$
     ^161/161<num>$ ^Chairman/*Chairman$
-    ^160/160<num>$ ^tluq/*tluq$
+    ^160/160<num>$ ^tluq/*tluq$	;	START (m)
     ^160/160<num>$ ^tissejjaħ/*tissejjaħ$
     ^160/160<num>$ ^miraklu/*miraklu$
     ^160/160<num>$ ^kruċjali/*kruċjali$
     ^160/160<num>$ ^jsemmi/*jsemmi$
     ^160/160<num>$ ^jgawdu/*jgawdu$
     ^160/160<num>$ ^instabet/*instabet$
-    ^160/160<num>$ ^holqien/*holqien$
+    ^160/160<num>$ ^holqien/*holqien$	;	UNIVERSE (m)
     ^160/160<num>$ ^Delimara/*Delimara$
     ^159/159<num>$ ^xewk/*xewk$
     ^159/159<num>$ ^tirbaħ/*tirbaħ$
-    ^159/159<num>$ ^tieg/*tieg$
+    ^159/159<num>$ ^tieg/*tieg$	;	WEDDING (m)
     ^159/159<num>$ ^Qaddisin/*Qaddisin$
     ^159/159<num>$ ^Premio/*Premio$
     ^159/159<num>$ ^nippreferi/*nippreferi$
@@ -2762,7 +2762,7 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^159/159<num>$ ^mill/*mill$
     ^159/159<num>$ ^Manassi/*Manassi$
     ^159/159<num>$ ^kumpens/*kumpens$
-    ^159/159<num>$ ^kosta/*kosta$
+    ^159/159<num>$ ^kosta/*kosta$	;	COAST (f)
     ^159/159<num>$ ^jivvota/*jivvota$
     ^159/159<num>$ ^jħossu/*jħossu$
     ^159/159<num>$ ^Jalla/*Jalla$
@@ -2771,7 +2771,7 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^159/159<num>$ ^Gera/*Gera$
     ^159/159<num>$ ^ezercizzju/*ezercizzju$
     ^158/158<num>$ ^Viċi/*Viċi$
-    ^158/158<num>$ ^tfajjel/*tfajjel$
+    ^158/158<num>$ ^tfajjel/*tfajjel$	;	YOUNGSTER (m)
     ^158/158<num>$ ^Plesiadapiformes/*Plesiadapiformes$
     ^158/158<num>$ ^Oct/*Oct$
     ^158/158<num>$ ^Next/*Next$
@@ -2784,12 +2784,12 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^158/158<num>$ ^jibżgħu/*jibżgħu$
     ^158/158<num>$ ^jġibu/*jġibu$
     ^158/158<num>$ ^Iżakk/*Iżakk$
-    ^158/158<num>$ ^infern/*infern$
+    ^158/158<num>$ ^infern/*infern$	;	HELL (m)
     ^158/158<num>$ ^imtellgħa/*imtellgħa$
     ^158/158<num>$ ^here/*here$
-    ^158/158<num>$ ^ħasra/*ħasra$
+    ^158/158<num>$ ^ħasra/*ħasra$	;	PITY (f)
     ^158/158<num>$ ^ġol/*ġol$
-    ^158/158<num>$ ^għemil/*għemil$
+    ^158/158<num>$ ^għemil/*għemil$	;	DEED (m)
     ^158/158<num>$ ^ghandniex/*ghandniex$
     ^158/158<num>$ ^FC/*FC$
     ^158/158<num>$ ^Euro/*Euro$
@@ -2797,7 +2797,7 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^158/158<num>$ ^Assirja/*Assirja$
     ^158/158<num>$ ^apprezzament/*apprezzament$
     ^158/158<num>$ ^aħseb/*aħseb$
-    ^157/157<num>$ ^xagħar/*xagħar$
+    ^157/157<num>$ ^xagħar/*xagħar$	;	HAIR (m)
     ^157/157<num>$ ^wicci/*wicci$
     ^157/157<num>$ ^tilħaq/*tilħaq$
     ^157/157<num>$ ^teqred/*teqred$
@@ -2815,7 +2815,7 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^157/157<num>$ ^full/*full$
     ^157/157<num>$ ^ċkejken/*ċkejken$
     ^157/157<num>$ ^akkużi/*akkużi$
-    ^156/156<num>$ ^togħma/*togħma$
+    ^156/156<num>$ ^togħma/*togħma$	;	TASTE (f)
     ^156/156<num>$ ^tiġri/*tiġri$
     ^156/156<num>$ ^taqbel/*taqbel$
     ^156/156<num>$ ^Siggiewi/*Siggiewi$
@@ -2827,11 +2827,11 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^156/156<num>$ ^kontinwa/*kontinwa$
     ^156/156<num>$ ^inhar/*inhar$
     ^156/156<num>$ ^ihobb/*ihobb$
-    ^156/156<num>$ ^ghageb/*ghageb$
+    ^156/156<num>$ ^ghageb/*ghageb$	;	WONDER (m)
     ^156/156<num>$ ^Għadni/*Għadni$
     ^156/156<num>$ ^faċilitajiet/*faċilitajiet$
     ^156/156<num>$ ^Bdew/*Bdew$
-    ^156/156<num>$ ^arloġġ/*arloġġ$
+    ^156/156<num>$ ^arloġġ/*arloġġ$	;	WATCH (m)
     ^156/156<num>$ ^And/*And$
     ^155/155<num>$ ^Steve/*Steve$
     ^155/155<num>$ ^station/*station$
@@ -2849,14 +2849,14 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^155/155<num>$ ^jaqghu/*jaqghu$
     ^155/155<num>$ ^jaqdu/*jaqdu$
     ^155/155<num>$ ^isimhom/*isimhom$
-    ^155/155<num>$ ^ġa/*ġa$
-    ^155/155<num>$ ^eżilju/*eżilju$
+    ^155/155<num>$ ^ġa/*ġa$	;	ALREADY 
+    ^155/155<num>$ ^eżilju/*eżilju$	;	EXILE (m)
     ^155/155<num>$ ^Evarist/*Evarist$
     ^155/155<num>$ ^eqdem/*eqdem$
     ^155/155<num>$ ^domandi/*domandi$
     ^155/155<num>$ ^dmugh/*dmugh$
-    ^155/155<num>$ ^diġitali/*diġitali$
-    ^155/155<num>$ ^abbord/*abbord$
+    ^155/155<num>$ ^diġitali/*diġitali$	;	DIGITAL 
+    ^155/155<num>$ ^abbord/*abbord$	;	ABOARD 
     ^154/154<num>$ ^talbiet/*talbiet$
     ^154/154<num>$ ^plaċentat/*plaċentat$
     ^154/154<num>$ ^Nistaqsih/*Nistaqsih$
@@ -2865,11 +2865,11 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^154/154<num>$ ^jduru/*jduru$
     ^154/154<num>$ ^itwal/*itwal$
     ^154/154<num>$ ^imħuħ/*imħuħ$
-    ^154/154<num>$ ^Frak/*Frak$
+    ^154/154<num>$ ^Frak/*Frak$	;	SMITHEREENS 
     ^154/154<num>$ ^el/*el$
     ^154/154<num>$ ^Bhalissa/*Bhalissa$
     ^154/154<num>$ ^Baldur/*Baldur$
-    ^154/154<num>$ ^Ahbarijiet/*Ahbarijiet$
+    ^154/154<num>$ ^Ahbarijiet/*Ahbarijiet$	;	TIDINGS 
     ^153/153<num>$ ^twelidu/*twelidu$
     ^153/153<num>$ ^ttiehed/*ttiehed$
     ^153/153<num>$ ^sidru/*sidru$
@@ -2885,10 +2885,10 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^153/153<num>$ ^Intervistat/*Intervistat$
     ^153/153<num>$ ^imsemmi/*imsemmi$
     ^153/153<num>$ ^ħolm/*ħolm$
-    ^153/153<num>$ ^għajta/*għajta$
+    ^153/153<num>$ ^għajta/*għajta$	;	YELL (f)
     ^153/153<num>$ ^Forum/*Forum$
     ^153/153<num>$ ^FITTEX/*FITTEX$
-    ^153/153<num>$ ^falliment/*falliment$
+    ^153/153<num>$ ^falliment/*falliment$	;	BREAKDOWN (m)
     ^153/153<num>$ ^An/*An$
     ^153/153<num>$ ^almenu/*almenu$
     ^152/152<num>$ ^tentattiv/*tentattiv$
@@ -2917,13 +2917,13 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^151/151<num>$ ^Seychell/*Seychell$
     ^151/151<num>$ ^rizorsi/*rizorsi$
     ^151/151<num>$ ^nibqghu/*nibqghu$
-    ^151/151<num>$ ^misthija/*misthija$
+    ^151/151<num>$ ^misthija/*misthija$	;	SHAME (f)
     ^151/151<num>$ ^jixorbu/*jixorbu$
     ^151/151<num>$ ^jgħidilna/*jgħidilna$
     ^151/151<num>$ ^HSBC/*HSBC$
     ^151/151<num>$ ^Ħolm/*Ħolm$
     ^151/151<num>$ ^ĦOBŻ/*ĦOBŻ$
-    ^151/151<num>$ ^hazen/*hazen$
+    ^151/151<num>$ ^hazen/*hazen$	;	MISCHIEF (m)
     ^151/151<num>$ ^għa/*għa$
     ^151/151<num>$ ^Għ/*Għ$
     ^151/151<num>$ ^Fgura/*Fgura$
@@ -2933,11 +2933,11 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^151/151<num>$ ^aġir/*aġir$
     ^150/150<num>$ ^Your/*Your$
     ^150/150<num>$ ^tipprovdi/*tipprovdi$
-    ^150/150<num>$ ^suspett/*suspett$
+    ^150/150<num>$ ^suspett/*suspett$	;	SUSPICION (m)
     ^150/150<num>$ ^stazzjonijiet/*stazzjonijiet$
     ^150/150<num>$ ^stats/*stats$
     ^150/150<num>$ ^Stanley/*Stanley$
-    ^150/150<num>$ ^sport/*sport$
+    ^150/150<num>$ ^sport/*sport$	;	SPORT (m)
     ^150/150<num>$ ^shabi/*shabi$
     ^150/150<num>$ ^setghux/*setghux$
     ^150/150<num>$ ^risq/*risq$
@@ -2947,9 +2947,9 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^150/150<num>$ ^NĠBARNA/*NĠBARNA$
     ^150/150<num>$ ^minima/*minima$
     ^150/150<num>$ ^Metatheria/*Metatheria$
-    ^150/150<num>$ ^maltemp/*maltemp$
+    ^150/150<num>$ ^maltemp/*maltemp$	;	STORM (m)
     ^150/150<num>$ ^kolonni/*kolonni$
-    ^150/150<num>$ ^kollega/*kollega$
+    ^150/150<num>$ ^kollega/*kollega$	;	COLLEAGUE (m)
     ^150/150<num>$ ^kemmxejn/*kemmxejn$
     ^150/150<num>$ ^isuq/*isuq$
     ^150/150<num>$ ^irregolari/*irregolari$
@@ -2963,13 +2963,13 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^150/150<num>$ ^Cyrita/*Cyrita$
     ^150/150<num>$ ^ċensura/*ċensura$
     ^149/149<num>$ ^Żgħażagħ/*Żgħażagħ$
-    ^149/149<num>$ ^żar/*żar$
+    ^149/149<num>$ ^żar/*żar$	;	TOUR 
     ^149/149<num>$ ^tissemma/*tissemma$
     ^149/149<num>$ ^tinkiteb/*tinkiteb$
-    ^149/149<num>$ ^tifhir/*tifhir$
+    ^149/149<num>$ ^tifhir/*tifhir$	;	PRAISE (m)
     ^149/149<num>$ ^they/*they$
     ^149/149<num>$ ^sigarett/*sigarett$
-    ^149/149<num>$ ^sajd/*sajd$
+    ^149/149<num>$ ^sajd/*sajd$	;	FISHING (m)
     ^149/149<num>$ ^ritorn/*ritorn$
     ^149/149<num>$ ^papa/*papa$
     ^149/149<num>$ ^out/*out$
@@ -2978,13 +2978,13 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^149/149<num>$ ^jħobbu/*jħobbu$
     ^149/149<num>$ ^ironija/*ironija$
     ^149/149<num>$ ^iqis/*iqis$
-    ^149/149<num>$ ^ġens/*ġens$
-    ^149/149<num>$ ^fergha/*fergha$
-    ^149/149<num>$ ^difiza/*difiza$
+    ^149/149<num>$ ^ġens/*ġens$	;	GENDER (m)
+    ^149/149<num>$ ^fergha/*fergha$	;	BRANCH (f)
+    ^149/149<num>$ ^difiza/*difiza$	;	DEFENCE (f)
     ^149/149<num>$ ^determinazzjoni/*determinazzjoni$
     ^149/149<num>$ ^Alberto/*Alberto$
     ^148/148<num>$ ^waqgħet/*waqgħet$
-    ^148/148<num>$ ^siwi/*siwi$
+    ^148/148<num>$ ^siwi/*siwi$	;	WORTH (m)
     ^148/148<num>$ ^pubblikament/*pubblikament$
     ^148/148<num>$ ^nfisha/*nfisha$
     ^148/148<num>$ ^Naqbel/*Naqbel$
@@ -2997,7 +2997,7 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^148/148<num>$ ^iltaqa/*iltaqa$
     ^148/148<num>$ ^ħruq/*ħruq$
     ^148/148<num>$ ^hiereg/*hiereg$
-    ^148/148<num>$ ^guh/*guh$
+    ^148/148<num>$ ^guh/*guh$	;	HUNGER (m)
     ^148/148<num>$ ^Għam/*Għam$
     ^148/148<num>$ ^ftakart/*ftakart$
     ^148/148<num>$ ^Foundation/*Foundation$
@@ -3006,14 +3006,14 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^148/148<num>$ ^Channel/*Channel$
     ^148/148<num>$ ^bloggosfera/*bloggosfera$
     ^148/148<num>$ ^Alte/*Alte$
-    ^147/147<num>$ ^vista/*vista$
+    ^147/147<num>$ ^vista/*vista$	;	SIGHT (f)
     ^147/147<num>$ ^VERSI/*VERSI$
     ^147/147<num>$ ^uliedha/*uliedha$
     ^147/147<num>$ ^propost/*propost$
     ^147/147<num>$ ^Piano/*Piano$
     ^147/147<num>$ ^Pereżempju/*Pereżempju$
     ^147/147<num>$ ^miniex/*miniex$
-    ^147/147<num>$ ^liberu/*liberu$
+    ^147/147<num>$ ^liberu/*liberu$	;	VACANT 
     ^147/147<num>$ ^jwettaq/*jwettaq$
     ^147/147<num>$ ^jilghab/*jilghab$
     ^147/147<num>$ ^jikxef/*jikxef$
@@ -3021,7 +3021,7 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^147/147<num>$ ^Filfatt/*Filfatt$
     ^147/147<num>$ ^assistenza/*assistenza$
     ^146/146<num>$ ^tibni/*tibni$
-    ^146/146<num>$ ^sostitut/*sostitut$
+    ^146/146<num>$ ^sostitut/*sostitut$	;	SUBSTITUTE (m)
     ^146/146<num>$ ^reġistrazzjoni/*reġistrazzjoni$
     ^146/146<num>$ ^pro/*pro$
     ^146/146<num>$ ^paniku/*paniku$
@@ -3029,11 +3029,11 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^146/146<num>$ ^Mort/*Mort$
     ^146/146<num>$ ^like/*like$
     ^146/146<num>$ ^kun/*kun$
-    ^146/146<num>$ ^każin/*każin$
+    ^146/146<num>$ ^każin/*każin$	;	CLUB (m)
     ^146/146<num>$ ^Just/*Just$
     ^146/146<num>$ ^jħallas/*jħallas$
     ^146/146<num>$ ^inħares/*inħares$
-    ^146/146<num>$ ^imġiba/*imġiba$
+    ^146/146<num>$ ^imġiba/*imġiba$	;	TREATMENT (f)
     ^146/146<num>$ ^gowlkiper/*gowlkiper$
     ^146/146<num>$ ^ġabu/*ġabu$
     ^146/146<num>$ ^fundatur/*fundatur$
@@ -3045,13 +3045,13 @@ adv   ^1352/1352<num>$ ^minflok/*minflok$
     ^145/145<num>$ ^Windows/*Windows$
     ^145/145<num>$ ^wie/*wie$
     ^145/145<num>$ ^Vestiga/*Vestiga$
-    ^145/145<num>$ ^vantagg/*vantagg$
+    ^145/145<num>$ ^vantagg/*vantagg$	;	ADVANTAGE (m)
     ^145/145<num>$ ^stirati/*stirati$
     ^145/145<num>$ ^spiccajt/*spiccajt$
     ^145/145<num>$ ^presidenza/*presidenza$
     ^145/145<num>$ ^oriġini/*oriġini$
     ^145/145<num>$ ^noħroġ/*noħroġ$
-    ^145/145<num>$ ^nejk/*nejk$
+    ^145/145<num>$ ^nejk/*nejk$	;	SHOWING OFF 
     ^145/145<num>$ ^Mamo/*Mamo$
     ^145/145<num>$ ^magazine/*magazine$
     ^145/145<num>$ ^lingwaġġ/*lingwaġġ$

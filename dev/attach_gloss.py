@@ -38,7 +38,6 @@ p = re.compile('\^.*\/\*(.*)\$$')
 for line in flines:
     match = p.match(line.strip())
     key = match.group(1).lower().replace('ħ','h').replace('ġ','g').replace('ż','z') if match else None
-    print key
 
     if key and key in glosses:
         print "    {0}\t;\t{1}".format(line.strip(), glosses[key])
