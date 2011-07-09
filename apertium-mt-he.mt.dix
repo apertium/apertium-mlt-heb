@@ -3512,6 +3512,7 @@
     <e lm="letteratura" c="literature"><i>letteratura</i><par n="molestja__n_f"/></e> <!-- no pl?-->
     <e lm="ekonomija" c="economy"><i>ekonomija</i><par n="molestja__n_f"/></e> <!-- no pl?-->
     <e lm="poezija" c="poetry"><i>poezija</i><par n="molestja__n_f"/></e> <!-- no pl?-->
+    <e lm="ħaġa" c="thing"><i>ħaġa</i><par n="molestja__n_f"/></e> <!-- no pl?-->
 
     <e lm="proposta"><i>propost</i><par n="propost/a__n_f"/></e>
     <e lm="maratona"><i>maraton</i><par n="propost/a__n_f"/></e>
