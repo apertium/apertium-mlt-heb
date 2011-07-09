@@ -125,6 +125,12 @@
       <e r="RL"><p><l><a/>ma</l><r>ma<s n="adv"/></r></p></e>
     </pardef>
 
+    <pardef n="/imbagħad__adv"> 
+      <e r="LR"><p><l>imbagħad</l><r>imbagħad<s n="adv"/></r></p></e>
+      <e r="LR"><p><l>mbagħad</l><r>imbagħad<s n="adv"/></r></p></e>
+      <e r="RL"><p><l><a/>imbagħad</l><r>imbagħad<s n="adv"/></r></p></e>
+    </pardef>
+
     <pardef n="kif__adv">
       <e><p><l/><r><s n="adv"/><s n="itg"/></r></p></e>
     </pardef>
@@ -5787,6 +5793,8 @@
     <e lm="kultant" c="sometimes"><i>kultant</i><par n="immedjatament__adv"/></e>
     <e lm="kważi" c="nearly"><i>kważi</i><par n="immedjatament__adv"/></e>
     <e lm="anzi" c="indeed"><i>anzi</i><par n="immedjatament__adv"/></e>
+
+    <e lm="imbagħad" c="then"><i></i><par n="/imbagħad__adv"/></e>
 
     <e lm="'l isfel" c="downwards"><i>'l<b/>isfel</i><par n="immedjatament__adv"/></e>
     <e lm="il fuq" c="upwards"><i>il<b/>fuq</i><par n="immedjatament__adv"/></e>
