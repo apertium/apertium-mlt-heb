@@ -3091,7 +3091,7 @@
     
     <e lm="ieħor" c="another"><i>ieħor</i><par n="iehor__prn"/></e>
     <e lm="iehor" r="LR"><p><l>iehor</l><r>ieħor</r></p><par n="iehor__prn"/></e>
-    <e lm="kwalunkwe haga" c="anything"><i>kwalunkwe<b/>haga</i><par n="iehor__prn"/></e>
+    <e lm="kwalunkwe ħaġa" c="anything"><i>kwalunkwe<b/>ħaġa</i><par n="iehor__prn"/></e>
     <e lm="xi ħadd" c="anybody"><i>xi ħadd</i><par n="iehor__prn"/></e>
     <e lm="kulħadd" c="everyone"><i>kulħadd</i><par n="iehor__prn"/></e>
     <e lm="kulhadd" r="LR"><p><l>kulhadd</l><r>kulħadd</r></p><par n="iehor__prn"/></e>
@@ -3109,7 +3109,7 @@
     
     <e lm="ħadd" c="none"><i>ħadd</i><par n="ħadd__prn"/></e>
     <e lm="kwalunkwe" c="any"><i>kwalunkwe</i><par n="kollu__prn"/></e>
-    <e lm="xi haga" c="something"><i>xi<b/>haga</i><par n="ħadd__prn"/></e>
+    <e lm="xi ħaġa" c="something"><i>xi<b/>ħaġa</i><par n="ħadd__prn"/></e>
     <e lm="b'xi mod jew iehor" c="somewhere"><i>b'xi<b/>mod<b/>jew<b/>iehor</i><par n="ħadd__prn"/></e>
     
     <e lm="xi" c="some"><i>xi</i><par n="xi__prn"/></e>
