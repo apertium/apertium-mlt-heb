@@ -1635,6 +1635,10 @@
     <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>a</l><r><s n="n"/><s n="m"/><s n="pl"/></r></p></e>
   </pardef>
+  <pardef n="s/ema__n_m">
+    <e><p><l>ema</l><r>ema<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>mewwiet</l><r>ema<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+  </pardef>
   <pardef n="b/użżieqa__n_GD">
     <e><p><l>użżieqa</l><r>użżieqa<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
     <e><p><l>żieżaq</l><r>użżieqa<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
@@ -3235,6 +3239,7 @@
     <e lm="kont" c="account"><i>kont</i><par n="dixx__n_m"/></e>
     <e lm="plott" c="plot"><i>plott</i><par n="dixx__n_m"/></e>
     <e lm="gvern"><i>gvern</i><par n="dixx__n_m"/></e>
+    <e lm="ħin" c="time"><i>ħin</i><par n="dixx__n_m"/></e>
 
     <e lm="omm" c="mother"><i>omm</i><par n="omm__n_f"/></e>
     <e lm="ħajja" c="life"><i>ħajj</i><par n="ħajj/a__n_f"/></e>
@@ -3313,6 +3318,7 @@
     <e lm="meeting"><i>meeting</i><par n="gowl__n_m"/></e>
     <e lm="nassab"><i>nassab</i><par n="haddiem__n"/></e>
     <e lm="norma"><i>norm</i><par n="propost/a__n_f"/></e>
+    <e lm="droga" c="drug"><i>drog</i><par n="pjanet/a__n_m"/></e>
     <e lm="partner"><i>partner</i><par n="gowl__n_m"/></e>
     <e lm="rawnd"><i>rawnd</i><par n="gowl__n_m"/></e>
     <e lm="rekord"><i>rekord</i><par n="gowl__n_m"/></e>
@@ -3322,6 +3328,7 @@
     <e lm="team"><i>team</i><par n="gowl__n_m"/></e>
     <e lm="televixin"><i>televixin</i><par n="gowl__n_m"/></e>
     <e lm="tifsir"><i>tifsir</i><par n="haddiem__n"/></e>
+    <e lm="sema" c="sky"><i>s</i><par n="s/ema__n_m"/></e>
 
     <e lm="aggressjoni"><i>aggressjoni</i><par n="unjoni__n_f"/></e>
     <e lm="aljenazzjoni"><i>aljenazzjoni</i><par n="unjoni__n_f"/></e>
