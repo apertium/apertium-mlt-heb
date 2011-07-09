@@ -3307,6 +3307,7 @@
     <e lm="direttiva"><i>direttiv</i><par n="propost/a__n_f"/></e>
     <e lm="film"><i>film</i><par n="gowl__n_m"/></e>
     <e lm="filmat"><i>filmat</i><par n="moviment__n_m"/></e>
+    <e lm="iżvilupp" c="development"><i>iżvilupp</i><par n="moviment__n_m"/></e>
     <e lm="filosofu"><i>filosof</i><par n="buff/u__n_m"/></e>
     <e lm="ghazla"><i>ghazl</i><par n="sħubij/a__n_f"/></e>
     <e lm="grawnd"><i>grawnd</i><par n="gowl__n_m"/></e>
@@ -3513,6 +3514,7 @@
     <e lm="ekonomija" c="economy"><i>ekonomija</i><par n="molestja__n_f"/></e> <!-- no pl?-->
     <e lm="poezija" c="poetry"><i>poezija</i><par n="molestja__n_f"/></e> <!-- no pl?-->
     <e lm="ħaġa" c="thing"><i>ħaġa</i><par n="molestja__n_f"/></e> <!-- no pl?-->
+    <e lm="importanza" c="importance"><i>importanza</i><par n="molestja__n_f"/></e>
 
     <e lm="proposta"><i>propost</i><par n="propost/a__n_f"/></e>
     <e lm="maratona"><i>maraton</i><par n="propost/a__n_f"/></e>
