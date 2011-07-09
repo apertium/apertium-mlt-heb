@@ -998,106 +998,106 @@ n    ^386/386<num>$ ^faċċata/*faċċata$	; facade.
 n    ^385/385<num>$ ^qima/*qima$		; 	WORSHIP (f)	; worship.
 ?    ^385/385<num>$ ^English/*English$	; English.
 n    ^385/385<num>$ ^blat/*blat$	; rock.
-    ^384/384<num>$ ^Ikkuntattjana/*Ikkuntattjana$	; Contact us.
-    ^384/384<num>$ ^ġejjieni/*ġejjieni$	; future.
-    ^384/384<num>$ ^BTM/*BTM$	; BTM.
-    ^383/383<num>$ ^sighat/*sighat$	; hours.
-    ^383/383<num>$ ^ferh/*ferh$		; 	YEARLING (m)	; joy.
-    ^382/382<num>$ ^jippruvaw/*jippruvaw$	; try.
-    ^382/382<num>$ ^are/*are$	; are.
-    ^381/381<num>$ ^twistees/*twistees$	; Twistee.
-    ^381/381<num>$ ^setgħu/*setgħu$	; could.
-    ^381/381<num>$ ^serji/*serji$	; serious.
-    ^381/381<num>$ ^quddiemi/*quddiemi$	; before me.
-    ^381/381<num>$ ^Me/*Me$	; Me.
-    ^380/380<num>$ ^qaghda/*qaghda$		; 	POSTURE (f)	; situation.
-    ^380/380<num>$ ^free/*free$	; free.
-    ^379/379<num>$ ^time/*time$	; time.
-    ^379/379<num>$ ^palk/*palk$		; 	THEATER (m)	; stage.
-    ^379/379<num>$ ^numri/*numri$	; numbers.
-    ^379/379<num>$ ^kopja/*kopja$	; copy.
-    ^379/379<num>$ ^kinnie/*kinnie$	; kinnie.
-    ^379/379<num>$ ^ġieli/*ġieli$	; sometimes.
-    ^379/379<num>$ ^dwaru/*dwaru$	; him.
-    ^378/378<num>$ ^Torċa/*Torċa$	; Torch.
-    ^378/378<num>$ ^Sakemm/*Sakemm$		; 	UNTIL 	; Pending.
-    ^378/378<num>$ ^me/*me$	; me.
-    ^378/378<num>$ ^ġabra/*ġabra$	; collection.
-    ^377/377<num>$ ^nzjarja/*nzjarja$	; nzjarja.
-    ^377/377<num>$ ^Lussemburgu/*Lussemburgu$	; Luxembourg.
-    ^376/376<num>$ ^timxi/*timxi$	; move.
-    ^376/376<num>$ ^Birgu/*Birgu$	; Birgu.
-    ^375/375<num>$ ^Temp/*Temp$		; 	WEATHER (m)	; Temp.
-    ^375/375<num>$ ^sewwieq/*sewwieq$	; driver.
-    ^375/375<num>$ ^marbutin/*marbutin$	; bound.
-    ^374/374<num>$ ^Veru/*Veru$		; 	TRUE 	; True.
-    ^374/374<num>$ ^Nadur/*Nadur$	; Nadur.
-    ^374/374<num>$ ^maggoranza/*maggoranza$	; majority.
-    ^373/373<num>$ ^studju/*studju$	; study.
-    ^373/373<num>$ ^jingħataw/*jingħataw$	; given.
-    ^373/373<num>$ ^ghadni/*ghadni$	; I have.
-    ^373/373<num>$ ^garaxx/*garaxx$		; 	GARAGE (m)	; garage.
-    ^372/372<num>$ ^vetturi/*vetturi$	; vehicles.
-    ^372/372<num>$ ^postu/*postu$	; place.
-    ^372/372<num>$ ^no/*no$	; no.
-    ^372/372<num>$ ^Naxxar/*Naxxar$	; Naxxar.
-    ^372/372<num>$ ^metru/*metru$		; 	METER (m)	; square.
-    ^371/371<num>$ ^re/*re$		; 	KING (m)	; re.
-    ^371/371<num>$ ^noqgħod/*noqgħod$	; live.
-    ^371/371<num>$ ^Manwel/*Manwel$	; Emanuel.
-    ^371/371<num>$ ^gejja/*gejja$	; following.
-    ^370/370<num>$ ^of/*of$	; of.
-    ^370/370<num>$ ^mixja/*mixja$		; 	WALK (f)	; walk.
-    ^370/370<num>$ ^mibnija/*mibnija$	; built.
-    ^370/370<num>$ ^meħtieġa/*meħtieġa$	; required.
-    ^370/370<num>$ ^impjiegi/*impjiegi$	; jobs.
-    ^368/368<num>$ ^zieda/*zieda$		; 	SUPPLEMENT (f)	; increase.
-    ^368/368<num>$ ^tohrog/*tohrog$	; ensues.
-    ^368/368<num>$ ^stajtx/*stajtx$	; I could.
-    ^368/368<num>$ ^skiet/*skiet$		; 	SILENCE (m)	; silently.
-    ^368/368<num>$ ^saċerdot/*saċerdot$	; priest.
-    ^368/368<num>$ ^Newer/*Newer$	; Newer.
-    ^368/368<num>$ ^naslu/*naslu$	; us.
-    ^368/368<num>$ ^kelliem/*kelliem$	; speaker.
-    ^368/368<num>$ ^ghalliema/*ghalliema$	; teachers.
-    ^368/368<num>$ ^ghaliha/*ghaliha$	; it.
-    ^367/367<num>$ ^madwaru/*madwaru$	; around.
-    ^367/367<num>$ ^Insara/*Insara$	; Christians.
-    ^367/367<num>$ ^ifittex/*ifittex$	; look.
-    ^367/367<num>$ ^Avvent/*Avvent$		; 	ADVENT (m)	; Advent.
-    ^366/366<num>$ ^seems/*seems$	; SEEM.
-    ^366/366<num>$ ^ramel/*ramel$		; 	SAND (m)	; sand.
-    ^366/366<num>$ ^online/*online$	; online.
-    ^366/366<num>$ ^November/*November$	; November.
-    ^366/366<num>$ ^Gran/*Gran$	; Great.
-    ^366/366<num>$ ^fadal/*fadal$		; 	REMAIN 	; remaining.
-    ^365/365<num>$ ^rari/*rari$		; 	UNCOMMON 	; rare.
-    ^365/365<num>$ ^nemmnu/*nemmnu$	; believe.
-    ^365/365<num>$ ^n/*n$	; n.
-    ^365/365<num>$ ^mietet/*mietet$	; died.
-    ^365/365<num>$ ^Ghawdxin/*Ghawdxin$	; Gozo.
-    ^364/364<num>$ ^wasalt/*wasalt$	; about.
-    ^364/364<num>$ ^taħseb/*taħseb$	; think.
-    ^364/364<num>$ ^nnifsi/*nnifsi$	; myself.
-    ^363/363<num>$ ^sodisfazzjon/*sodisfazzjon$	; satisfaction.
-    ^363/363<num>$ ^klima/*klima$		; 	CLIMATE (f)	; climate.
-    ^363/363<num>$ ^jumejn/*jumejn$	; days.
-    ^362/362<num>$ ^tweġiba/*tweġiba$		; 	RESPONSE (f)	; answer.
-    ^362/362<num>$ ^tnaqqis/*tnaqqis$		; 	DECREASE (m)	; reduction.
-    ^362/362<num>$ ^meqjus/*meqjus$		; 	SOBER 	; considered.
-    ^361/361<num>$ ^referendum/*referendum$	; referendum.
-    ^361/361<num>$ ^Babilonja/*Babilonja$	; Babylon.
-    ^360/360<num>$ ^taghlim/*taghlim$		; 	TUITION (m)	; teachings.
-    ^360/360<num>$ ^Munxar/*Munxar$	; Munxar.
-    ^360/360<num>$ ^miftuħa/*miftuħa$	; open.
-    ^360/360<num>$ ^laqgħat/*laqgħat$	; meetings.
-    ^360/360<num>$ ^jsibu/*jsibu$	; find.
-    ^360/360<num>$ ^impenn/*impenn$	; commitment.
-    ^360/360<num>$ ^Dwana/*Dwana$		; 	CUSTOMS (f)	; Customs.
-    ^359/359<num>$ ^Ricenti/*Ricenti$	; Recent.
-    ^359/359<num>$ ^Billi/*Billi$	; By.
-    ^359/359<num>$ ^AN/*AN$	; AN.
-    ^358/358<num>$ ^uhud/*uhud$	; some.
+v    ^384/384<num>$ ^Ikkuntattjana/*Ikkuntattjana$	; Contact us.
+n    ^384/384<num>$ ^ġejjieni/*ġejjieni$	; future.
+?    ^384/384<num>$ ^BTM/*BTM$	; BTM.
+n    ^383/383<num>$ ^sighat/*sighat$	; hours.
+n    ^383/383<num>$ ^ferh/*ferh$		; 	YEARLING (m)	; joy.
+v    ^382/382<num>$ ^jippruvaw/*jippruvaw$	; try.
+?    ^382/382<num>$ ^are/*are$	; are.
+n    ^381/381<num>$ ^twistees/*twistees$	; Twistee.
+v    ^381/381<num>$ ^setgħu/*setgħu$	; could.
+adj    ^381/381<num>$ ^serji/*serji$	; serious.
+adv    ^381/381<num>$ ^quddiemi/*quddiemi$	; before me.
+?    ^381/381<num>$ ^Me/*Me$	; Me.
+n    ^380/380<num>$ ^qaghda/*qaghda$		; 	POSTURE (f)	; situation.
+adj    ^380/380<num>$ ^free/*free$	; free.
+n    ^379/379<num>$ ^time/*time$	; time.
+n    ^379/379<num>$ ^palk/*palk$		; 	THEATER (m)	; stage.
+n    ^379/379<num>$ ^numri/*numri$	; numbers.
+v    ^379/379<num>$ ^kopja/*kopja$	; copy.
+?    ^379/379<num>$ ^kinnie/*kinnie$	; kinnie.
+adv    ^379/379<num>$ ^ġieli/*ġieli$	; sometimes.
+p    ^379/379<num>$ ^dwaru/*dwaru$	; him.
+?    ^378/378<num>$ ^Torċa/*Torċa$	; Torch.
+adv    ^378/378<num>$ ^Sakemm/*Sakemm$		; 	UNTIL 	; Pending.
+?    ^378/378<num>$ ^me/*me$	; me.
+n    ^378/378<num>$ ^ġabra/*ġabra$	; collection.
+?    ^377/377<num>$ ^nzjarja/*nzjarja$	; nzjarja.
+n    ^377/377<num>$ ^Lussemburgu/*Lussemburgu$	; Luxembourg.
+v    ^376/376<num>$ ^timxi/*timxi$	; move.
+?    ^376/376<num>$ ^Birgu/*Birgu$	; Birgu.
+n    ^375/375<num>$ ^Temp/*Temp$		; 	WEATHER (m)	; Temp.
+n    ^375/375<num>$ ^sewwieq/*sewwieq$	; driver.
+v    ^375/375<num>$ ^marbutin/*marbutin$	; bound.
+adj    ^374/374<num>$ ^Veru/*Veru$		; 	TRUE 	; True.
+?    ^374/374<num>$ ^Nadur/*Nadur$	; Nadur.
+n    ^374/374<num>$ ^maggoranza/*maggoranza$	; majority.
+v    ^373/373<num>$ ^studju/*studju$	; study.
+adj    ^373/373<num>$ ^jingħataw/*jingħataw$	; given.
+v    ^373/373<num>$ ^ghadni/*ghadni$	; I have.
+n    ^373/373<num>$ ^garaxx/*garaxx$		; 	GARAGE (m)	; garage.
+n    ^372/372<num>$ ^vetturi/*vetturi$	; vehicles.
+n    ^372/372<num>$ ^postu/*postu$	; place.
+?    ^372/372<num>$ ^no/*no$	; no.
+?    ^372/372<num>$ ^Naxxar/*Naxxar$	; Naxxar.
+n    ^372/372<num>$ ^metru/*metru$		; 	METER (m)	; square.
+n    ^371/371<num>$ ^re/*re$		; 	KING (m)	; re.
+v    ^371/371<num>$ ^noqgħod/*noqgħod$	; live.
+n    ^371/371<num>$ ^Manwel/*Manwel$	; Emanuel.
+v    ^371/371<num>$ ^gejja/*gejja$	; following.
+?    ^370/370<num>$ ^of/*of$	; of.
+v    ^370/370<num>$ ^mixja/*mixja$		; 	WALK (f)	; walk.
+v    ^370/370<num>$ ^mibnija/*mibnija$	; built.
+adj    ^370/370<num>$ ^meħtieġa/*meħtieġa$	; required.
+n    ^370/370<num>$ ^impjiegi/*impjiegi$	; jobs.
+n    ^368/368<num>$ ^zieda/*zieda$		; 	SUPPLEMENT (f)	; increase.
+v    ^368/368<num>$ ^tohrog/*tohrog$	; ensues.
+v    ^368/368<num>$ ^stajtx/*stajtx$	; I could.
+n    ^368/368<num>$ ^skiet/*skiet$		; 	SILENCE (m)	; silently.
+n    ^368/368<num>$ ^saċerdot/*saċerdot$	; priest.
+?    ^368/368<num>$ ^Newer/*Newer$	; Newer.
+o    ^368/368<num>$ ^naslu/*naslu$	; us.
+n    ^368/368<num>$ ^kelliem/*kelliem$	; speaker.
+n    ^368/368<num>$ ^ghalliema/*ghalliema$	; teachers.
+o    ^368/368<num>$ ^ghaliha/*ghaliha$	; it.
+adv    ^367/367<num>$ ^madwaru/*madwaru$	; around.
+n    ^367/367<num>$ ^Insara/*Insara$	; Christians.
+v    ^367/367<num>$ ^ifittex/*ifittex$	; look.
+n    ^367/367<num>$ ^Avvent/*Avvent$		; 	ADVENT (m)	; Advent.
+?    ^366/366<num>$ ^seems/*seems$	; SEEM.
+n    ^366/366<num>$ ^ramel/*ramel$		; 	SAND (m)	; sand.
+?    ^366/366<num>$ ^online/*online$	; online.
+?    ^366/366<num>$ ^November/*November$	; November.
+adj    ^366/366<num>$ ^Gran/*Gran$	; Great.
+v    ^366/366<num>$ ^fadal/*fadal$		; 	REMAIN 	; remaining.
+adj    ^365/365<num>$ ^rari/*rari$		; 	UNCOMMON 	; rare.
+v    ^365/365<num>$ ^nemmnu/*nemmnu$	; believe.
+?    ^365/365<num>$ ^n/*n$	; n.
+v    ^365/365<num>$ ^mietet/*mietet$	; died.
+n    ^365/365<num>$ ^Ghawdxin/*Ghawdxin$	; Gozo.
+o    ^364/364<num>$ ^wasalt/*wasalt$	; about.
+v    ^364/364<num>$ ^taħseb/*taħseb$	; think.
+adv    ^364/364<num>$ ^nnifsi/*nnifsi$	; myself.
+n    ^363/363<num>$ ^sodisfazzjon/*sodisfazzjon$	; satisfaction.
+n    ^363/363<num>$ ^klima/*klima$		; 	CLIMATE (f)	; climate.
+n    ^363/363<num>$ ^jumejn/*jumejn$	; days.
+n    ^362/362<num>$ ^tweġiba/*tweġiba$		; 	RESPONSE (f)	; answer.
+n    ^362/362<num>$ ^tnaqqis/*tnaqqis$		; 	DECREASE (m)	; reduction.
+adj    ^362/362<num>$ ^meqjus/*meqjus$		; 	SOBER 	; considered.
+?    ^361/361<num>$ ^referendum/*referendum$	; referendum.
+n    ^361/361<num>$ ^Babilonja/*Babilonja$	; Babylon.
+n    ^360/360<num>$ ^taghlim/*taghlim$		; 	TUITION (m)	; teachings.
+?    ^360/360<num>$ ^Munxar/*Munxar$	; Munxar.
+adj    ^360/360<num>$ ^miftuħa/*miftuħa$	; open.
+n    ^360/360<num>$ ^laqgħat/*laqgħat$	; meetings.
+v    ^360/360<num>$ ^jsibu/*jsibu$	; find.
+n    ^360/360<num>$ ^impenn/*impenn$	; commitment.
+n    ^360/360<num>$ ^Dwana/*Dwana$		; 	CUSTOMS (f)	; Customs.
+adj    ^359/359<num>$ ^Ricenti/*Ricenti$	; Recent.
+o    ^359/359<num>$ ^Billi/*Billi$	; By.
+?    ^359/359<num>$ ^AN/*AN$	; AN.
+adv    ^358/358<num>$ ^uhud/*uhud$	; some.
     ^358/358<num>$ ^oraklu/*oraklu$	; oraklu.
     ^358/358<num>$ ^fiduċja/*fiduċja$	; trust.
     ^358/358<num>$ ^Box/*Box$	; Box.
