@@ -5267,13 +5267,13 @@
     <e lm="VAT"><i>VAT</i><par n="VAT__n_f"/></e> 
 
     <!-- Days of the week -->
-    <e lm="ħadd" c="Sunday" ><par n="il-/bieraħ__adv"/><i>ħ</i><par n="ħ/add__n_m"/></e>
-    <e lm="it-tnejn" c="Monday"><par n="it-/Tnejn__n"/><i>tnejn</i><par n="tniġġis__n_m"/></e>
-    <e lm="it-tlieta" c="Tuesday"><par n="it-/Tnejn__n"/><i>tlieta</i><par n="tniġġis__n_m"/></e>
-    <e lm="i-erbgħa" c="Wednesday"><par n="i-/erbgħa__n"/><i>erbgħa</i><par n="tniġġis__n_m"/></e>
-    <e lm="il-hamis" c="Thursday"><par n="il-/bieraħ__adv"/><i>hamis</i><par n="tniġġis__n_m"/></e>
-    <e lm="il-ġimgħa" c="Friday"><par n="il-/bieraħ__adv"/><i>ġimgħa</i><par n="tniġġis__n_m"/></e>
-    <e lm="sibt" c="Saturday"><par n="is-/Sibt__n"/><i>sibt</i><par n="dixx__n_m"/></e>
+    <e lm="ħadd" c="Sunday" ><par n="il-/bieraħ__adv"/><i>Ħ</i><par n="ħ/add__n_m"/></e>
+    <e lm="it-Tnejn" c="Monday"><par n="it-/Tnejn__n"/><i>Tnejn</i><par n="tniġġis__n_m"/></e>
+    <e lm="it-Tlieta" c="Tuesday"><par n="it-/Tnejn__n"/><i>Tlieta</i><par n="tniġġis__n_m"/></e>
+    <e lm="i-Erbgħa" c="Wednesday"><par n="i-/erbgħa__n"/><i>Erbgħa</i><par n="tniġġis__n_m"/></e>
+    <e lm="il-Hamis" c="Thursday"><par n="il-/bieraħ__adv"/><i>Hamis</i><par n="tniġġis__n_m"/></e>
+    <e lm="il-ġimgħa" c="Friday"><par n="il-/bieraħ__adv"/><i>Ġimgħa</i><par n="tniġġis__n_m"/></e>
+    <e lm="Sibt" c="Saturday"><par n="is-/Sibt__n"/><i>Sibt</i><par n="dixx__n_m"/></e>
 
     <!-- TODO: Some of these may need to be categorised for gender -->
     <e lm="Olimpjadi"><i>Olimpjadi</i><par n="San__np"/></e> <!-- CHECK: pl? -->
@@ -6487,6 +6487,16 @@
     <e lm="tagħna" r="LR"><p><l>tagħna</l><r>ta'<s n="pr"/><j/>na<s n="prn"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
     <e lm="tagħkom" r="LR"><p><l>tagħkom</l><r>ta'<s n="pr"/><j/>kom<s n="prn"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p></e>
     <e lm="tagħhom" r="LR"><p><l>tagħhom</l><r>ta'<s n="pr"/><j/>hom<s n="prn"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
+
+<!--
+    <e lm="billi" r="LR"><p><l>billi</l><r>bil<s n="pr"/><j/>i<s n="prn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e lm="billok" r="LR"><p><l>billek</l><r>bil<s n="pr"/><j/>ek<s n="prn"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e lm="billu" r="LR"><p><l>billu</l><r>bil<s n="pr"/><j/>u<s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="billha" r="LR"><p><l>billha</l><r>bil<s n="pr"/><j/>ha<s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="billna" r="LR"><p><l>billna</l><r>bil<s n="pr"/><j/>na<s n="prn"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
+    <e lm="billkom" r="LR"><p><l>billkom</l><r>bil<s n="pr"/><j/>kom<s n="prn"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p></e>
+    <e lm="billhom" r="LR"><p><l>billhom</l><r>bil<s n="pr"/><j/>hom<s n="prn"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
+-->
 
 
 
