@@ -571,6 +571,21 @@
     <e><p><l>liem</l><r>elma<s n="n"/><s n="f"/><s n="pl"/></r></p><par n="S__dar"/></e>
   </pardef>
 
+  <pardef n="r/uħ__n_f">
+    <e><p><l>uħ</l><r>uħ<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>uħ</l><r>uħ<s n="n"/><s n="f"/><s n="sg"/></r></p><par n="S__dar"/></e>
+    <e><p><l>wieħ</l><r>uħ<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    <e><p><l>wieħ</l><r>uħ<s n="n"/><s n="f"/><s n="pl"/></r></p><par n="S__dar"/></e>
+  </pardef>
+
+  <pardef n="r/as__n_f">
+    <e><p><l>as</l><r>as<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>as</l><r>as<s n="n"/><s n="f"/><s n="sg"/></r></p><par n="S__dar"/></e>
+    <e><p><l>jus</l><r>as<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    <e><p><l>jus</l><r>as<s n="n"/><s n="f"/><s n="pl"/></r></p><par n="S__dar"/></e>
+  </pardef>
+
+
   <pardef n="nies__n_mf">
     <e><p><l></l><r><s n="n"/><s n="mf"/><s n="pl"/></r></p></e>
     <e><p><l></l><r><s n="n"/><s n="mf"/><s n="pl"/></r></p><par n="S__dar"/></e>
@@ -2212,10 +2227,6 @@
     <e><p><l>akkuna</l><r>akkuna<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>kaken</l><r>akkuna<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
   </pardef>
-  <pardef n="r/as__n_f">
-    <e><p><l>as</l><r>as<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
-    <e><p><l>jus</l><r>as<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
-  </pardef>
   <pardef n="ħr/afa__n_GD">
     <e><p><l>afa</l><r>afa<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
     <e><p><l>ejjef</l><r>afa<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
@@ -2322,10 +2333,6 @@
   <pardef n="tr/offa__n_GD">
     <e><p><l>offa</l><r>offa<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
     <e><p><l>uf</l><r>offa<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
-  </pardef>
-  <pardef n="r/uħ__n_GD">
-    <e><p><l>uħ</l><r>uħ<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
-    <e><p><l>wieħ</l><r>uħ<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
   </pardef>
   <pardef n="/wiċċ__n_GD">
     <e><p><l>wiċċ</l><r>wiċċ<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
@@ -4083,7 +4090,7 @@
     <e lm="pjazza" c="square" ><i>pjaz</i><par n="maz/za__n_f"/></e>
     <e lm="perpura" c="scarecrow" ><i>p</i><par n="p/erpura__n_GD"/></e>
     <e lm="sorra" c="flank" ><i>sor</i><par n="ħof/ra__n_GD"/></e>
-    <e lm="ruħ" c="soul" ><i>r</i><par n="r/uħ__n_GD"/></e>
+    <e lm="ruħ" c="soul" ><i>r</i><par n="r/uħ__n_f"/></e>
     <e lm="gverta" c="blanket" ><i>gv</i><par n="gv/erta__n_f"/></e>
     <e lm="zuntier" c="churchyard" ><i>z</i><par n="z/untier__n_GD"/></e>
     <e lm="liżar" c="sheet" ><i>l</i><par n="l/iżar__n_GD"/></e>
