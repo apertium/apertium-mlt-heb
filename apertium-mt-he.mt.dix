@@ -125,7 +125,8 @@
       <e r="RL"><p><l><a/>ma</l><r>ma<s n="adv"/></r></p></e>
     </pardef>
 
-    <pardef n="it-/Tnejn__n">  <!-- TODO: check the forms -->
+    <!-- TODO: check the forms -->
+    <pardef n="it-/Tnejn__n">
       <e r="LR"><p><l>it<b/></l><r>il-</r></p></e>
       <e r="LR"><p><l>t<b/></l><r>il-</r></p></e>
       <e r="LR"><p><l>it-</l><r>il-</r></p></e>
@@ -140,8 +141,36 @@
       <e r="LR"><p><l>mit-</l><r>minn<s n="pr"/><j/>il-</r></p></e>
       <e r="RL"><p><l><a/>il-</l><r>il-</r></p></e>
     </pardef>
+    <pardef n="i-/erbgħa__n">
+      <e r="LR"><p><l>i<b/></l><r>il-</r></p></e>
+      <e r="LR"><p><l>i-</l><r>il-</r></p></e>
+      <e r="LR"><p><l>li<b/></l><r>lil<s n="pr"/><j/>il-</r></p></e>
+      <e r="LR"><p><l>ta-</l><r>ta'<s n="pr"/><j/>il-</r></p></e>
+      <e r="LR"><p><l>sa-</l><r>sa<s n="pr"/><j/>il-</r></p></e>
+      <e r="LR"><p><l>ma-</l><r>ma'<s n="pr"/><j/>il-</r></p></e>
+      <e r="LR"><p><l>bħa-</l><r>bħal<s n="pr"/><j/>il-</r></p></e>
+      <e r="LR"><p><l>għa-</l><r>għal<s n="pr"/><j/>il-</r></p></e>
+      <e r="LR"><p><l>fi-</l><r>fi<s n="pr"/><j/>il-</r></p></e>
+      <e r="LR"><p><l>mi-</l><r>minn<s n="pr"/><j/>il-</r></p></e>
+      <e r="RL"><p><l><a/>i-</l><r>il-</r></p></e>
+    </pardef>
+    <pardef n="is-/Sibt__n">
+      <e r="LR"><p><l>is<b/></l><r>il-</r></p></e>
+      <e r="LR"><p><l>s<b/></l><r>il-</r></p></e>
+      <e r="LR"><p><l>is-</l><r>il-</r></p></e>
+      <e r="LR"><p><l>s-</l><r>il-</r></p></e>
+      <e r="LR"><p><l>lis<b/></l><r>lil<s n="pr"/><j/>il-</r></p></e>
+      <e r="LR"><p><l>tas-</l><r>ta'<s n="pr"/><j/>il-</r></p></e>
+      <e r="LR"><p><l>sat-</l><r>sa<s n="pr"/><j/>il-</r></p></e>
+      <e r="LR"><p><l>mas-</l><r>ma'<s n="pr"/><j/>il-</r></p></e>
+      <e r="LR"><p><l>bħas-</l><r>bħal<s n="pr"/><j/>il-</r></p></e>
+      <e r="LR"><p><l>għas-</l><r>għal<s n="pr"/><j/>il-</r></p></e>
+      <e r="LR"><p><l>fis-</l><r>fi<s n="pr"/><j/>il-</r></p></e>
+      <e r="LR"><p><l>mis-</l><r>minn<s n="pr"/><j/>il-</r></p></e>
+      <e r="RL"><p><l><a/>is-</l><r>il-</r></p></e>
+    </pardef>
 
-    <pardef n="il-/bieraħ__adv"> 
+    <pardef n="il-/bieraħ__adv">
       <e r="LR"><p><l>il<b/></l><r>il-</r></p></e>
       <e r="LR"><p><l>l<b/></l><r>il-</r></p></e>
       <e r="LR"><p><l>il-</l><r>il-</r></p></e>
@@ -156,7 +185,6 @@
       <e r="LR"><p><l>mill-</l><r>minn<s n="pr"/><j/>il-</r></p></e>
       <e r="RL"><p><l><a/>il-</l><r>il-</r></p></e>
     </pardef>
-
 
     <pardef n="/imbagħad__adv"> 
       <e r="LR"><p><l>imbagħad</l><r>imbagħad<s n="adv"/></r></p></e>
@@ -2299,9 +2327,9 @@
     <e><p><l>aħar</l><r>aħar<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
     <e><p><l>iħra</l><r>aħar<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
   </pardef>
-  <pardef n="ħ/add__n_GD">
-    <e><p><l>add</l><r>add<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
-    <e><p><l>dud</l><r>add<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
+  <pardef n="ħ/add__n_m">
+    <e><p><l>add</l><r>add<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>dud</l><r>add<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
   </pardef>
   <pardef n="xal/l__n_m">
     <e><p><l>l</l><r>l<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
@@ -3199,6 +3227,7 @@
     <e lm="skont" c="discount"><i>skont</i><par n="dixx__n_m"/></e>
     <e lm="kont" c="account"><i>kont</i><par n="dixx__n_m"/></e>
     <e lm="plott" c="plot"><i>plott</i><par n="dixx__n_m"/></e>
+    <e lm="gvern"><i>gvern</i><par n="dixx__n_m"/></e>
 
     <e lm="omm" c="mother"><i>omm</i><par n="omm__n_f"/></e>
     <e lm="ħajja" c="life"><i>ħajj</i><par n="ħajj/a__n_f"/></e>
@@ -3425,6 +3454,8 @@
     <e lm="mudell" c="model"><i>mudell</i><par n="moviment__n_m"/></e>
     <e lm="ristorant" c="restaurant"><i>ristorant</i><par n="moviment__n_m"/></e>
     <e lm="unur" c="honour"><i>unur</i><par n="moviment__n_m"/></e>
+    <e lm="uffiċjali"><i>uffiċjal</i><par n="moviment__n_m"/></e>
+    <e lm="gvernatur"><i>gvernatur</i><par n="moviment__n_m"/></e>
 
     <e lm="protestant"><i>protestant</i><par n="protestant__n"/></e>
     <e lm="nazzjonalist"><i>nazzjonalist</i><par n="protestant__n"/></e>
@@ -3656,7 +3687,6 @@
     <e lm="ħadid"><i>ħadid</i><par n="Ċek__n_m"/></e>
     <e lm="xmara" c="river"><i>xmara</i><par n="oxx__n_f"/></e>
     <e lm="storja" c="story"><i>storja</i><par n="st/orja__n_f"/></e>
-    <e lm="ġimgħa"><i>ġimgħa</i><par n="oxx__n_f"/></e>
     <e lm="ġebla"><i>ġebla</i><par n="oxx__n_f"/></e>
     <e lm="tifla"><i>tifla</i><par n="oxx__n_f"/></e>
     <e lm="abitat"><i>abitat</i><par n="Ċek__n_m"/></e>
@@ -4332,7 +4362,6 @@
     <e lm="villa" c="villa" ><i>vil</i><par n="xal/la__n_f"/></e>
     <e lm="praspura" c="oddity" ><i>prasp</i><par n="prasp/ura__n_GD"/></e>
     <e lm="kantun" c="building stone" ><i>k</i><par n="k/antun__n_GD"/></e>
-    <e lm="ħadd" c="Sunday" ><i>ħ</i><par n="ħ/add__n_GD"/></e>
     <e lm="skartoċċ" c="cartridge" ><i>sk</i><par n="k/artoċċ__n_GD"/></e>
     <e lm="ħobż" c="bread" ><i>ħ</i><par n="ħ/obż__n_GD"/></e>
     <e lm="aħrax" c="harsh" ><i></i><par n="/aħrax__n_GD"/></e>
@@ -5085,8 +5114,6 @@
     <e lm="Wenzu"><i>Wenzu</i><par n="Mikiel__np"/></e>
     <e lm="Saviour"><i>Saviour</i><par n="Mikiel__np"/></e>
 
-
-
     <e lm="Borg"><i>Borg</i><par n="Cervantes__np"/></e> <!-- should be Borġ ? -->
     <e lm="Foucault"><i>Foucault</i><par n="Cervantes__np"/></e>
     <e lm="Mintoff"><i>Mintoff</i><par n="Cervantes__np"/></e>
@@ -5237,8 +5264,16 @@
     <e lm="von Neumann"><i>von<b/>Neumann</i><par n="Cervantes__np"/></e>
     <e lm="von Lobkowitz"><i>von<b/>Lobkowitz</i><par n="Cervantes__np"/></e>
 
-
     <e lm="VAT"><i>VAT</i><par n="VAT__n_f"/></e> 
+
+    <!-- Days of the week -->
+    <e lm="ħadd" c="Sunday" ><par n="il-/bieraħ__adv"/><i>ħ</i><par n="ħ/add__n_m"/></e>
+    <e lm="it-tnejn" c="Monday"><par n="it-/Tnejn__n"/><i>tnejn</i><par n="tniġġis__n_m"/></e>
+    <e lm="it-tlieta" c="Tuesday"><par n="it-/Tnejn__n"/><i>tlieta</i><par n="tniġġis__n_m"/></e>
+    <e lm="i-erbgħa" c="Wednesday"><par n="i-/erbgħa__n"/><i>erbgħa</i><par n="tniġġis__n_m"/></e>
+    <e lm="il-hamis" c="Thursday"><par n="il-/bieraħ__adv"/><i>hamis</i><par n="tniġġis__n_m"/></e>
+    <e lm="il-ġimgħa" c="Friday"><par n="il-/bieraħ__adv"/><i>ġimgħa</i><par n="tniġġis__n_m"/></e>
+    <e lm="sibt" c="Saturday"><par n="is-/Sibt__n"/><i>sibt</i><par n="dixx__n_m"/></e>
 
     <!-- TODO: Some of these may need to be categorised for gender -->
     <e lm="Olimpjadi"><i>Olimpjadi</i><par n="San__np"/></e> <!-- CHECK: pl? -->

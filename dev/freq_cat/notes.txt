@@ -14,3 +14,11 @@
 <spectre> adv   ^2404/2404<num>$ ^inqas/*inqas$    ; less.
 <spectre> same
 
+<spectie> il-Hadd (m)      SUNDAY    [ilhatt']
+<spectie> it-Tnejn (m)       MONDAY    [ittneyn']
+<spectie> it-Tlieta (m)       TUESDAY    [ittlea'ta]
+<spectie> l-Erbgħa (m)       WEDNESDAY    [ler'ba]
+<spectie> il-Hamis (m)       THURSDAY    [ilhamis']
+<spectie> Gimgħa (f)       FRIDAY    [dzi'ma]
+<spectie> Sibt (m)       SATURDAY    [sipt]
+
