@@ -2683,7 +2683,7 @@
   </pardef>
 
 
-  <pardef n="kwadr/u_adj">
+  <pardef n="kwadr/u__adj">
     <e><p><l>u</l><r>u<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>a</l><r>u<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>i</l><r>u<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -5433,8 +5433,8 @@
     <e lm="wiesgħa"><i>wiesgħ</i><par n="wiesgħ/a__adj"/></e>
     <e lm="ħajj"><i>ħajj</i><par n="barran__adj"/></e>
 
-    <e lm="kontemporanju"><i>kontemporanj</i><par n="kwadr/u_adj"/></e>
-    <e lm="propju"><i>propj</i><par n="kwadr/u_adj"/></e>
+    <e lm="kontemporanju"><i>kontemporanj</i><par n="kwadr/u__adj"/></e>
+    <e lm="propju"><i>propj</i><par n="kwadr/u__adj"/></e>
 
     <e lm="abjad" c="white"><i></i><par n="/abjad__adj"/></e>
     <e lm="artab" c="soft"><i></i><par n="/artab__adj"/></e>
@@ -5462,7 +5462,7 @@
     <e lm="isfar" c="yellow"><i></i><par n="/isfar__adj"/></e>
     <e lm="iswed" c="black"><i></i><par n="/iswed__adj"/></e>
     <e lm="kwadru"><i>kwadr</i><par n="kwadr/u__adj"/></e>
-    <e lm="veru"><i>ver</u><par n="kwadr/u__adj"/></e>
+    <e lm="veru"><i>ver</i><par n="kwadr/u__adj"/></e>
     <e lm="kwiet"><i>kwiet</i><par n="griż__adj"/></e>
     <e lm="maħmuġ"><i>maħmuġ</i><par n="maħmuġ__adj"/></e>
     <e lm="mgħaġġel"><i>mgħaġġ</i><par n="mgħaġġ/el__adj"/></e>
