@@ -1,4 +1,4 @@
-?  ^10132/10132<num>$ ^o/*o$	; o.
+?t  ^10132/10132<num>$ ^o/*o$	; o.
 ?   ^6115/6115<num>$ ^art/*art$	; art.
 ?   ^5370/5370<num>$ ^S/*S$	; S.
 o   ^3663/3663<num>$ ^la/*la$	; la.
@@ -598,23 +598,23 @@ v    ^552/552<num>$ ^immur/*immur$	; go.
 n    ^552/552<num>$ ^ċans/*ċans$	; chance.
 n    ^551/551<num>$ ^mard/*mard$	; disease.
 v    ^551/551<num>$ ^jimxi/*jimxi$	; move.
-    ^551/551<num>$ ^jerga/*jerga$	; again.
+    ^551/551<num>$ ^jerga/*jerga$	; again.	; jerġa' = ~repeat+sg3+m
     ^551/551<num>$ ^Hamis/*Hamis$	; Thursday.
     ^550/550<num>$ ^spiċċa/*spiċċa$	; ended.
     ^549/549<num>$ ^toħroġ/*toħroġ$	; come.
     ^548/548<num>$ ^qalilna/*qalilna$	; told us.
-    ^548/548<num>$ ^m/*m$	; m.
+?    ^548/548<num>$ ^m/*m$	; m.
     ^547/547<num>$ ^xellug/*xellug$		; 	LEFT 	; left.
     ^547/547<num>$ ^rega/*rega$	; again.
     ^546/546<num>$ ^inħawi/*inħawi$		; 	WHEREABOUTS 	; surroundings.
     ^545/545<num>$ ^għaddiet/*għaddiet$	; passed.
     ^545/545<num>$ ^Droga/*Droga$	; Drug.
-    ^544/544<num>$ ^na/*na$	; na.
+?    ^544/544<num>$ ^na/*na$	; na.
     ^544/544<num>$ ^ghaddew/*ghaddew$	; passed.
-    ^542/542<num>$ ^picture/*picture$	; picture.
+?    ^542/542<num>$ ^picture/*picture$	; picture.
     ^542/542<num>$ ^ġenituri/*ġenituri$		; 	PARENTS 	; parents.
     ^541/541<num>$ ^issib/*issib$	; find.
-    ^540/540<num>$ ^vjolenza/*vjolenza$		; 	VIOLENCE (f)	; violence.
+n    ^540/540<num>$ ^vjolenza/*vjolenza$		; 	VIOLENCE (f)	; violence.
     ^539/539<num>$ ^tibdil/*tibdil$	; changes.
     ^539/539<num>$ ^mingħand/*mingħand$	; from.
     ^539/539<num>$ ^jistennew/*jistennew$	; expect.
@@ -623,8 +623,8 @@ v    ^551/551<num>$ ^jimxi/*jimxi$	; move.
     ^537/537<num>$ ^Santu/*Santu$	; Holy.
     ^536/536<num>$ ^jidhlu/*jidhlu$	; enter.
     ^536/536<num>$ ^Gravatar/*Gravatar$	; Gravatar.
-    ^536/536<num>$ ^Connecting/*Connecting$	; Connecting.
-    ^535/535<num>$ ^Unit/*Unit$	; Unit.
+?    ^536/536<num>$ ^Connecting/*Connecting$	; Connecting.
+?    ^535/535<num>$ ^Unit/*Unit$	; Unit.
     ^535/535<num>$ ^jaqra/*jaqra$	; read.
     ^535/535<num>$ ^Bibbja/*Bibbja$		; 	BIBLE (f)	; Bible.
     ^534/534<num>$ ^lilna/*lilna$		; 	US 	; us.
@@ -637,9 +637,9 @@ v    ^551/551<num>$ ^jimxi/*jimxi$	; move.
     ^530/530<num>$ ^inbid/*inbid$		; 	WINE (m)	; wine.
     ^529/529<num>$ ^joqghod/*joqghod$	; stand.
     ^528/528<num>$ ^nifhem/*nifhem$	; I understand.
-    ^527/527<num>$ ^prova/*prova$		; 	TRY (f)	; trial.
+n    ^527/527<num>$ ^prova/*prova$		; 	TRY (f)	; trial.
     ^527/527<num>$ ^c/*c$	; c.
-    ^526/526<num>$ ^Katidral/*Katidral$	; Cathedral.
+n    ^526/526<num>$ ^Katidral/*Katidral$	; Cathedral.
     ^526/526<num>$ ^jibqghu/*jibqghu$	; remain.
     ^526/526<num>$ ^aħbar/*aħbar$	; news.
     ^526/526<num>$ ^Adami/*Adami$	; Adami.
