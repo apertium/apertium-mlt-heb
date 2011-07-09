@@ -12,7 +12,7 @@ n   ^3126/3126<num>$ ^ħin/*ħin$	; time.
 ?   ^3097/3097<num>$ ^x/*x$	; x.
 ?   ^3080/3080<num>$ ^in/*in$	; in.
 ?   ^3049/3049<num>$ ^s/*s$	; s.
-n   ^2996/2996<num>$ ^llum/*llum$	; today.
+;n   ^2996/2996<num>$ ^llum/*llum$	; today.
 ?   ^2901/2901<num>$ ^i/*i$	; i.
 v   ^2670/2670<num>$ ^baqa/*baqa$	; remained.
 n/adj   ^2538/2538<num>$ ^Sibt/*Sibt$	; Saturday.
@@ -27,11 +27,11 @@ n   ^2426/2426<num>$ ^naħa/*naħa$	; hand.
 ?   ^2407/2407<num>$ ^a/*a$	; a.
 adv   ^2404/2404<num>$ ^inqas/*inqas$	; less.
 ?   ^2391/2391<num>$ ^M/*M$	; M.
-o   ^2360/2360<num>$ ^bosta/*bosta$	; many.
-n   ^2305/2305<num>$ ^każ/*każ$	; case.
+;o   ^2360/2360<num>$ ^bosta/*bosta$	; many.
+;n   ^2305/2305<num>$ ^każ/*każ$	; case.
 o   ^2278/2278<num>$ ^sakemm/*sakemm$	; long.
 ?   ^2264/2264<num>$ ^e/*e$	; e.
-o   ^2227/2227<num>$ ^mingħajr/*mingħajr$	; free.
+;o   ^2227/2227<num>$ ^mingħajr/*mingħajr$	; free.
 ?   ^2188/2188<num>$ ^I/*I$	; I.
 ?   ^2153/2153<num>$ ^g/*g$	; g.
 adj   ^2152/2152<num>$ ^jsir/*jsir$	; done.
@@ -39,9 +39,9 @@ n   ^2089/2089<num>$ ^għadu/*għadu$	; yet.
 ?   ^2078/2078<num>$ ^A/*A$	; A.
 n   ^2066/2066<num>$ ^sehem/*sehem$	; share.
 v/adv   ^2064/2064<num>$ ^sewwa/*sewwa$	; thoroughly.
-n   ^2047/2047<num>$ ^lum/*lum$	; today.
+;n   ^2047/2047<num>$ ^lum/*lum$	; today.
 n   ^2044/2044<num>$ ^naha/*naha$	; side.
-n   ^2032/2032<num>$ ^poeta/*poeta$	; poet.
+;n   ^2032/2032<num>$ ^poeta/*poeta$	; poet.
 ?   ^2032/2032<num>$ ^Mt/*Mt$	; Mt.
 ?   ^2030/2030<num>$ ^mar/*mar$	; March
 adv   ^2014/2014<num>$ ^filwaqt/*filwaqt$	; while.
@@ -77,7 +77,7 @@ adv   ^1568/1568<num>$ ^tard/*tard$	; later.
 ?   ^1565/1565<num>$ ^tm/*tm$	; tm.
 v   ^1565/1565<num>$ ^miet/*miet$	; died.
 n   ^1548/1548<num>$ ^sema/*sema$	; sky.
-o   ^1547/1547<num>$ ^minghajr/*minghajr$	; without.
+;o   ^1547/1547<num>$ ^minghajr/*minghajr$	; without.
 o   ^1531/1531<num>$ ^Għalhekk/*Għalhekk$	; So.
 v   ^1527/1527<num>$ ^marru/*marru$	; went.
 ?   ^1526/1526<num>$ ^bin/*bin$	; bin.
@@ -99,16 +99,16 @@ adj   ^1400/1400<num>$ ^kuljum/*kuljum$	; daily.
 n   ^1376/1376<num>$ ^Ġer/*Ġer$	; Ger.
 o   ^1374/1374<num>$ ^għalkemm/*għalkemm$	; though.
 ?   ^1357/1357<num>$ ^Num/*Num$	; Num.
-adv   ^1352/1352<num>$ ^minflok/*minflok$	; instead.
+;adv   ^1352/1352<num>$ ^minflok/*minflok$	; instead.
 adv   ^1334/1334<num>$ ^ghalhekk/*ghalhekk$	; therefore.
 v   ^1329/1329<num>$ ^juri/*juri$	; shows.
 adv   ^1327/1327<num>$ ^mbagħad/*mbagħad$	; then.
-n    ^1326/1326<num>$ ^skont/*skont$		; 	REDUCTION (m)	; discount.
-adj   ^1308/1308<num>$ ^ikbar/*ikbar$	; greater.
+;n    ^1326/1326<num>$ ^skont/*skont$		; 	REDUCTION (m)	; discount.
+;adj   ^1308/1308<num>$ ^ikbar/*ikbar$	; greater.
 v   ^1282/1282<num>$ ^qallu/*qallu$	; told him.
 ?   ^1278/1278<num>$ ^Eżek/*Eżek$	; Eżek.
 n   ^1268/1268<num>$ ^ħaddiema/*ħaddiema$	; workers.
-n    ^1251/1251<num>$ ^minuta/*minuta$		; 	MINUTE (f)	; minutes.
+;n    ^1251/1251<num>$ ^minuta/*minuta$		; 	MINUTE (f)	; minutes.
 adj   ^1247/1247<num>$ ^mhix/*mhix$	; not.
 v   ^1237/1237<num>$ ^tmur/*tmur$	; go.
 v   ^1228/1228<num>$ ^jistghu/*jistghu$	; may.
@@ -158,7 +158,7 @@ v   ^1094/1094<num>$ ^inkun/*inkun$	; I.
 n    ^1094/1094<num>$ ^futur/*futur$		; 	FUTURE 	; future.
 ?   ^1090/1090<num>$ ^J/*J$	; J.
 v   ^1089/1089<num>$ ^ħalli/*ħalli$	; so.
-n   ^1089/1089<num>$ ^biċċa/*biċċa$	; piece.
+;n   ^1089/1089<num>$ ^biċċa/*biċċa$	; piece.
 v   ^1087/1087<num>$ ^ġej/*ġej$	; follows.
 n    ^1080/1080<num>$ ^Kor/*Kor$		; 	CHOIR (m)	; Kor.
 n   ^1071/1071<num>$ ^tintervista/*tintervista$	; interview.
@@ -175,7 +175,7 @@ n    ^1032/1032<num>$ ^deheb/*deheb$		; 	GOLD (m)	; gold.
 n   ^1030/1030<num>$ ^sentejn/*sentejn$	; years.
 n    ^1029/1029<num>$ ^bqija/*bqija$		; 	SURPLUS (f)	; rest.
 n    ^1028/1028<num>$ ^ġid/*ġid$		; 	WEALTH (m)	; wealth.
-n    ^1027/1027<num>$ ^ħabiba/*ħabiba$		; 	GIRLFRIEND (f)	; girlfriend.
+;n    ^1027/1027<num>$ ^ħabiba/*ħabiba$		; 	GIRLFRIEND (f)	; girlfriend.
 ?   ^1025/1025<num>$ ^Mk/*Mk$	; Mk.
 n   ^1020/1020<num>$ ^rasu/*rasu$	; upside.
 n    ^1019/1019<num>$ ^Aħbarijiet/*Aħbarijiet$		; 	TIDINGS 	; News.
@@ -220,7 +220,7 @@ v    ^939/939<num>$ ^sab/*sab$		; 	DISCOVER 	; found.
 adv    ^938/938<num>$ ^hlief/*hlief$		; 	UNLESS 	; exception.
 ?    ^937/937<num>$ ^Mallia/*Mallia$	; Mallia.
 ?    ^936/936<num>$ ^per/*per$	; per.
-n    ^935/935<num>$ ^haddiema/*haddiema$	; workers.
+;n    ^935/935<num>$ ^haddiema/*haddiema$	; workers.
 adv    ^934/934<num>$ ^peress/*peress$	; since.
 n    ^931/931<num>$ ^talba/*talba$		; 	REQUEST (f)	; request.
 v    ^931/931<num>$ ^jmorru/*jmorru$	; go.
@@ -266,7 +266,7 @@ v    ^869/869<num>$ ^ghand/*ghand$	; I have.
 ?    ^868/868<num>$ ^February/*February$	; February.
 ?    ^867/867<num>$ ^as/*as$	; as.
 ?    ^864/864<num>$ ^police/*police$	; police.
-n    ^863/863<num>$ ^minuti/*minuti$	; minutes.
+;n    ^863/863<num>$ ^minuti/*minuti$	; minutes.
 n    ^861/861<num>$ ^ġara/*ġara$		; 	TOURNAMENT (f)	; happened.
 ?    ^861/861<num>$ ^an/*an$	; an.
 n    ^860/860<num>$ ^rigward/*rigward$	; respect.
@@ -280,7 +280,7 @@ adj    ^856/856<num>$ ^vera/*vera$	; true.
 adv    ^852/852<num>$ ^anzi/*anzi$	; indeed.
 v    ^851/851<num>$ ^ħareġ/*ħareġ$	; emerged.
 v    ^849/849<num>$ ^nsibu/*nsibu$	; find.
-n    ^848/848<num>$ ^bicca/*bicca$		; 	TITBIT (f)	; plot.
+;n    ^848/848<num>$ ^bicca/*bicca$		; 	TITBIT (f)	; plot.
 o    ^844/844<num>$ ^humiex/*humiex$	; are.
 n    ^844/844<num>$ ^ftehim/*ftehim$		; 	TREATY (m)	; agreement.
 n    ^843/843<num>$ ^Avvi/*Avvi$	; Notice.
@@ -295,7 +295,7 @@ adj    ^835/835<num>$ ^maghruf/*maghruf$		; 	FAMOUS 	; known.
 n    ^832/832<num>$ ^għaqda/*għaqda$		; 	UNION (f)	; unity.
 n    ^830/830<num>$ ^sahha/*sahha$		; 	VIGOR (f)	; health.
 adj    ^830/830<num>$ ^mejjet/*mejjet$		; 	DECEASED 	; dead.
-n    ^823/823<num>$ ^kontijiet/*kontijiet$	; accounts.
+;n    ^823/823<num>$ ^kontijiet/*kontijiet$	; accounts.
 ?    ^822/822<num>$ ^mort/*mort$	; mort.
 n    ^819/819<num>$ ^importanza/*importanza$	; importance.
 adv    ^816/816<num>$ ^wħud/*wħud$	; some.
@@ -335,7 +335,7 @@ n    ^770/770<num>$ ^Ispettur/*Ispettur$	; Inspector.
 adj    ^769/769<num>$ ^ċertu/*ċertu$	; certain.
 n    ^766/766<num>$ ^età/*età$	; age.
 adj    ^764/764<num>$ ^boghod/*boghod$		; 	REMOTE 	; away.
-n    ^763/763<num>$ ^poeti/*poeti$	; poets.
+;n    ^763/763<num>$ ^poeti/*poeti$	; poets.
 ?    ^763/763<num>$ ^blog/*blog$	; blog.
 ?    ^761/761<num>$ ^Rum/*Rum$	; Rum.
 n    ^759/759<num>$ ^tlett/*tlett$	; three.
@@ -359,7 +359,7 @@ v    ^736/736<num>$ ^jgħix/*jgħix$	; survive.
 n    ^736/736<num>$ ^glorja/*glorja$	; glory.
 n    ^735/735<num>$ ^tagħlim/*tagħlim$		; 	TUITION (m)	; learning.
 ?    ^735/735<num>$ ^October/*October$	; October.
-n    ^734/734<num>$ ^Simshar/*Simshar$	; Simshar.
+;n    ^734/734<num>$ ^Simshar/*Simshar$	; Simshar.
 n    ^734/734<num>$ ^nifs/*nifs$		; 	BREATH (m)	; breathing.
 n    ^732/732<num>$ ^realtà/*realtà$	; reality.
 ?    ^731/731<num>$ ^Links/*Links$	; Links.
@@ -522,7 +522,7 @@ n    ^592/592<num>$ ^nisma/*nisma$	; listening.
 n    ^592/592<num>$ ^inkjesta/*inkjesta$		; 	INQUEST (f)	; inquiry.
 ?    ^592/592<num>$ ^Chetcuti/*Chetcuti$	; Chetcuti.
 v    ^591/591<num>$ ^wera/*wera$		; 	UNFOLD 	; shown.
-n    ^591/591<num>$ ^Poeti/*Poeti$	; Poets.
+;n    ^591/591<num>$ ^Poeti/*Poeti$	; Poets.
 v    ^591/591<num>$ ^niftakar/*niftakar$	; remember.
 ?    ^590/590<num>$ ^Saturday/*Saturday$	; Saturday.
 ?    ^590/590<num>$ ^Mak/*Mak$	; Mak.
@@ -786,7 +786,7 @@ v    ^469/469<num>$ ^baqgħet/*baqgħet$	; remained.
 n    ^467/467<num>$ ^nirien/*nirien$	; fires.
 n    ^467/467<num>$ ^mijiet/*mijiet$	; hundreds.
 adj    ^467/467<num>$ ^agħar/*agħar$		; 	WORSE 	; worse.
-n    ^466/466<num>$ ^Skont/*Skont$		; 	REDUCTION (m)	; Discount.
+;n    ^466/466<num>$ ^Skont/*Skont$		; 	REDUCTION (m)	; Discount.
 n    ^466/466<num>$ ^nett/*nett$	; net.
 n    ^466/466<num>$ ^grawnd/*grawnd$		; 	PLAYGROUND (m)	; stadium.
 v    ^466/466<num>$ ^għaddew/*għaddew$	; passed.
@@ -899,7 +899,7 @@ v    ^418/418<num>$ ^nifhmu/*nifhmu$	; understand.
 n    ^418/418<num>$ ^gimghat/*gimghat$	; weeks.
 n    ^417/417<num>$ ^xbieha/*xbieha$		; 	SHAPE (f)	; image.
 adv    ^417/417<num>$ ^terġa/*terġa$	; again.
-n    ^417/417<num>$ ^gżejjer/*gżejjer$	; islands.
+;n    ^417/417<num>$ ^gżejjer/*gżejjer$	; islands.
 n    ^416/416<num>$ ^process/*process$	; process.
 ?    ^416/416<num>$ ^Hamrun/*Hamrun$	; Hamrun.
 ?    ^416/416<num>$ ^Buttigieg/*Buttigieg$	; Buttigieg.
@@ -1252,7 +1252,7 @@ v    ^325/325<num>$ ^idejk/*idejk$	; hands.
 n    ^324/324<num>$ ^qawmien/*qawmien$	; resurrection.
 o    ^324/324<num>$ ^Peress/*Peress$	; Since.
 n    ^324/324<num>$ ^kobor/*kobor$	; magnitude.
-n    ^324/324<num>$ ^haddiem/*haddiem$		; 	WORKMAN (m)	; worker.
+;n    ^324/324<num>$ ^haddiem/*haddiem$		; 	WORKMAN (m)	; worker.
 adv    ^324/324<num>$ ^avolja/*avolja$		; 	EVEN 	; though.
 adj    ^323/323<num>$ ^raġun/*raġun$	; right.
 ?    ^323/323<num>$ ^Patrol/*Patrol$	; Patrol.
@@ -1341,7 +1341,7 @@ n    ^308/308<num>$ ^ahbar/*ahbar$	; news.
 adj    ^307/307<num>$ ^sabet/*sabet$	; found.
 v    ^307/307<num>$ ^jispiccaw/*jispiccaw$	; end.
 ?    ^306/306<num>$ ^Premier/*Premier$	; Premier.
-adv    ^306/306<num>$ ^Minflok/*Minflok$		; 	INSTEAD 	; Instead.
+;adv    ^306/306<num>$ ^Minflok/*Minflok$		; 	INSTEAD 	; Instead.
 v    ^306/306<num>$ ^jużaw/*jużaw$	; use.
 adj    ^306/306<num>$ ^jinstab/*jinstab$	; found.
 ?    ^306/306<num>$ ^huh/*huh$	; huh.
@@ -1385,7 +1385,7 @@ n    ^299/299<num>$ ^distrett/*distrett$		; 	DISTRICT (m)	; district.
 adj    ^298/298<num>$ ^sibna/*sibna$	; found.
 v    ^298/298<num>$ ^nibqgħu/*nibqgħu$	; remain.
 v    ^298/298<num>$ ^Mur/*Mur$	; Go.
-n    ^298/298<num>$ ^Haddiem/*Haddiem$		; 	WORKMAN (m)	; Worker.
+;n    ^298/298<num>$ ^Haddiem/*Haddiem$		; 	WORKMAN (m)	; Worker.
 n    ^298/298<num>$ ^għajnejh/*għajnejh$	; mind.
 n    ^297/297<num>$ ^uliedu/*uliedu$	; his children.
 n    ^297/297<num>$ ^success/*success$		; 	SUCCESS (m)	; success.
@@ -1612,7 +1612,7 @@ adj    ^262/262<num>$ ^Maqluba/*Maqluba$	; Reversed.
 n    ^262/262<num>$ ^bijoloġija/*bijoloġija$	; biology.
 n    ^261/261<num>$ ^Lunzjata/*Lunzjata$	; Annunciation.
 adj    ^261/261<num>$ ^komdu/*komdu$		; 	COSY 	; comfortable.
-n    ^261/261<num>$ ^każijiet/*każijiet$	; cases.
+;n    ^261/261<num>$ ^każijiet/*każijiet$	; cases.
 v    ^261/261<num>$ ^immexxi/*immexxi$	; run.
 n    ^261/261<num>$ ^fattur/*fattur$	; factor.
 ?    ^261/261<num>$ ^Don/*Don$	; Don.
@@ -1637,7 +1637,7 @@ v    ^259/259<num>$ ^jiltaqgħu/*jiltaqgħu$	; encounter.
 ?    ^258/258<num>$ ^Tob/*Tob$	; Tob.
 v    ^258/258<num>$ ^nittama/*nittama$	; hope.
 ?    ^258/258<num>$ ^leave/*leave$	; leave.
-n    ^258/258<num>$ ^kazijiet/*kazijiet$	; cases.
+;n    ^258/258<num>$ ^kazijiet/*kazijiet$	; cases.
 v    ^258/258<num>$ ^istadju/*istadju$	; stage.
 ?    ^258/258<num>$ ^Benedittu/*Benedittu$	; Benedict.
 n    ^257/257<num>$ ^xokk/*xokk$		; 	SHOCK (m)	; shock.
@@ -1783,7 +1783,7 @@ v    ^241/241<num>$ ^tghaddi/*tghaddi$	; passes.
 n    ^241/241<num>$ ^taghrif/*taghrif$	; information.
 ?    ^241/241<num>$ ^Qrendi/*Qrendi$	; Qrendi.
 n    ^241/241<num>$ ^qafas/*qafas$	; framework.
-o    ^241/241<num>$ ^Mingħajr/*Mingħajr$		; 	WITHOUT 	; Without.
+;o    ^241/241<num>$ ^Mingħajr/*Mingħajr$		; 	WITHOUT 	; Without.
 n    ^241/241<num>$ ^Infermieri/*Infermieri$	; Nurses.
 n    ^241/241<num>$ ^gieh/*gieh$		; 	REPUTATION (m)	; honor.
 o    ^241/241<num>$ ^Għalija/*Għalija$	; Me.
@@ -1805,7 +1805,7 @@ adj    ^238/238<num>$ ^rnexxielu/*rnexxielu$	; managed.
 n    ^238/238<num>$ ^Merill/*Merill$		; 	THRUSH (m)	; Merill.
 v    ^238/238<num>$ ^jeżisti/*jeżisti$	; exists.
 v    ^238/238<num>$ ^imut/*imut$	; dies.
-n    ^237/237<num>$ ^turiżmu/*turiżmu$	; tourism.
+;n    ^237/237<num>$ ^turiżmu/*turiżmu$	; tourism.
 n    ^237/237<num>$ ^riżorsi/*riżorsi$	; resources.
 o    ^236/236<num>$ ^xiħaġa/*xiħaġa$	; anything.
 v    ^236/236<num>$ ^salvatagg/*salvatagg$	; rescue.
@@ -1935,7 +1935,7 @@ v    ^228/228<num>$ ^donnhom/*donnhom$	; appear.
     ^224/224<num>$ ^letterarju/*letterarju$	; literary.
     ^224/224<num>$ ^Labour/*Labour$	; Labour.
     ^224/224<num>$ ^Koħ/*Koħ$	; Koh.
-    ^224/224<num>$ ^kategorija/*kategorija$	; category.
+;    ^224/224<num>$ ^kategorija/*kategorija$	; category.
     ^224/224<num>$ ^jazz/*jazz$	; jazz.
     ^224/224<num>$ ^għaġeb/*għaġeb$		; 	WONDER (m)	; surprising.
     ^224/224<num>$ ^Club/*Club$	; Club.
@@ -2123,7 +2123,7 @@ v    ^228/228<num>$ ^donnhom/*donnhom$	; appear.
     ^207/207<num>$ ^nimxu/*nimxu$	; move.
     ^207/207<num>$ ^ngħata/*ngħata$	; was.
     ^207/207<num>$ ^mqar/*mqar$	; single official.
-    ^207/207<num>$ ^mentalità/*mentalità$	; mentality.
+;    ^207/207<num>$ ^mentalità/*mentalità$	; mentality.
     ^207/207<num>$ ^kontinwu/*kontinwu$	; continuous.
     ^207/207<num>$ ^jwasslu/*jwasslu$	; lead.
     ^207/207<num>$ ^jqum/*jqum$	; cost.
@@ -2837,7 +2837,7 @@ v    ^228/228<num>$ ^donnhom/*donnhom$	; appear.
     ^155/155<num>$ ^station/*station$	; station.
     ^155/155<num>$ ^Sep/*Sep$	; Sep.
     ^155/155<num>$ ^Rev/*Rev$	; Rev.
-    ^155/155<num>$ ^politikament/*politikament$	; politically.
+;    ^155/155<num>$ ^politikament/*politikament$	; politically.
     ^155/155<num>$ ^piena/*piena$	; penalty.
     ^155/155<num>$ ^Pellegrini/*Pellegrini$	; Pellegrini.
     ^155/155<num>$ ^nieklu/*nieklu$	; eat.
@@ -2947,7 +2947,7 @@ v    ^228/228<num>$ ^donnhom/*donnhom$	; appear.
     ^150/150<num>$ ^NĠBARNA/*NĠBARNA$	; NĠBARNA.
     ^150/150<num>$ ^minima/*minima$	; minimum.
     ^150/150<num>$ ^Metatheria/*Metatheria$	; Metatheria.
-    ^150/150<num>$ ^maltemp/*maltemp$		; 	STORM (m)	; storm.
+;    ^150/150<num>$ ^maltemp/*maltemp$		; 	STORM (m)	; storm.
     ^150/150<num>$ ^kolonni/*kolonni$	; columns.
     ^150/150<num>$ ^kollega/*kollega$		; 	COLLEAGUE (m)	; colleague.
     ^150/150<num>$ ^kemmxejn/*kemmxejn$	; somewhat.
@@ -2985,13 +2985,13 @@ v    ^228/228<num>$ ^donnhom/*donnhom$	; appear.
     ^149/149<num>$ ^Alberto/*Alberto$	; Alberto.
     ^148/148<num>$ ^waqgħet/*waqgħet$	; fell.
     ^148/148<num>$ ^siwi/*siwi$		; 	WORTH (m)	; worthless.
-    ^148/148<num>$ ^pubblikament/*pubblikament$	; publicly.
+;    ^148/148<num>$ ^pubblikament/*pubblikament$	; publicly.
     ^148/148<num>$ ^nfisha/*nfisha$	; itself.
     ^148/148<num>$ ^Naqbel/*Naqbel$	; I agree.
     ^148/148<num>$ ^msemmija/*msemmija$	; said.
     ^148/148<num>$ ^mondjali/*mondjali$	; world.
     ^148/148<num>$ ^kaxxi/*kaxxi$	; boxes.
-    ^148/148<num>$ ^kategoriji/*kategoriji$	; categories.
+;    ^148/148<num>$ ^kategoriji/*kategoriji$	; categories.
     ^148/148<num>$ ^jqumu/*jqumu$	; arise.
     ^148/148<num>$ ^jgawdi/*jgawdi$	; enjoy.
     ^148/148<num>$ ^iltaqa/*iltaqa$	; met.
@@ -3022,7 +3022,7 @@ v    ^228/228<num>$ ^donnhom/*donnhom$	; appear.
     ^147/147<num>$ ^assistenza/*assistenza$	; assistance.
     ^146/146<num>$ ^tibni/*tibni$	; build.
     ^146/146<num>$ ^sostitut/*sostitut$		; 	SUBSTITUTE (m)	; substitute.
-    ^146/146<num>$ ^reġistrazzjoni/*reġistrazzjoni$	; registration.
+;    ^146/146<num>$ ^reġistrazzjoni/*reġistrazzjoni$	; registration.
     ^146/146<num>$ ^pro/*pro$	; pro.
     ^146/146<num>$ ^paniku/*paniku$	; panic.
     ^146/146<num>$ ^nirreferi/*nirreferi$	; refer.
@@ -3034,9 +3034,9 @@ v    ^228/228<num>$ ^donnhom/*donnhom$	; appear.
     ^146/146<num>$ ^jħallas/*jħallas$	; pay.
     ^146/146<num>$ ^inħares/*inħares$	; I look.
     ^146/146<num>$ ^imġiba/*imġiba$		; 	TREATMENT (f)	; behavior.
-    ^146/146<num>$ ^gowlkiper/*gowlkiper$	; Goalkeeper.
+;    ^146/146<num>$ ^gowlkiper/*gowlkiper$	; Goalkeeper.
     ^146/146<num>$ ^ġabu/*ġabu$	; brought.
-    ^146/146<num>$ ^fundatur/*fundatur$	; founder.
+;    ^146/146<num>$ ^fundatur/*fundatur$	; founder.
     ^146/146<num>$ ^Filippu/*Filippu$	; Philip.
     ^146/146<num>$ ^Figliolia/*Figliolia$	; Figliolia.
     ^146/146<num>$ ^erġajt/*erġajt$	; erġajt.
@@ -3054,12 +3054,12 @@ v    ^228/228<num>$ ^donnhom/*donnhom$	; appear.
     ^145/145<num>$ ^nejk/*nejk$		; 	SHOWING OFF 	; nejk.
     ^145/145<num>$ ^Mamo/*Mamo$	; Mamo.
     ^145/145<num>$ ^magazine/*magazine$	; magazine.
-    ^145/145<num>$ ^lingwaġġ/*lingwaġġ$	; language.
+;    ^145/145<num>$ ^lingwaġġ/*lingwaġġ$	; language.
     ^145/145<num>$ ^kulmin/*kulmin$	; anyone.
     ^145/145<num>$ ^konniex/*konniex$	; we were.
     ^145/145<num>$ ^inutile/*inutile$	; worthless.
     ^145/145<num>$ ^Helena/*Helena$	; Helena.
-    ^145/145<num>$ ^gzejjer/*gzejjer$	; islands.
+;    ^145/145<num>$ ^gzejjer/*gzejjer$	; islands.
     ^145/145<num>$ ^Għarb/*Għarb$	; Gharb.
     ^145/145<num>$ ^Ċipru/*Ċipru$	; Cyprus.
     ^145/145<num>$ ^band/*band$	; band.
