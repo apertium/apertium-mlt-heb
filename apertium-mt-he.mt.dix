@@ -125,6 +125,22 @@
       <e r="RL"><p><l><a/>ma</l><r>ma<s n="adv"/></r></p></e>
     </pardef>
 
+    <pardef n="it-/Tnejn__n">  <!-- TODO: check the forms -->
+      <e r="LR"><p><l>it<b/></l><r>il-</r></p></e>
+      <e r="LR"><p><l>t<b/></l><r>il-</r></p></e>
+      <e r="LR"><p><l>it-</l><r>il-</r></p></e>
+      <e r="LR"><p><l>t-</l><r>il-</r></p></e>
+      <e r="LR"><p><l>lit<b/></l><r>lil<s n="pr"/><j/>il-</r></p></e>
+      <e r="LR"><p><l>tat-</l><r>ta'<s n="pr"/><j/>il-</r></p></e>
+      <e r="LR"><p><l>sat-</l><r>sa<s n="pr"/><j/>il-</r></p></e>
+      <e r="LR"><p><l>mat-</l><r>ma'<s n="pr"/><j/>il-</r></p></e>
+      <e r="LR"><p><l>bħat-</l><r>bħal<s n="pr"/><j/>il-</r></p></e>
+      <e r="LR"><p><l>għat-</l><r>għal<s n="pr"/><j/>il-</r></p></e>
+      <e r="LR"><p><l>fit-</l><r>fi<s n="pr"/><j/>il-</r></p></e>
+      <e r="LR"><p><l>mit-</l><r>minn<s n="pr"/><j/>il-</r></p></e>
+      <e r="RL"><p><l><a/>il-</l><r>il-</r></p></e>
+    </pardef>
+
     <pardef n="il-/bieraħ__adv"> 
       <e r="LR"><p><l>il<b/></l><r>il-</r></p></e>
       <e r="LR"><p><l>l<b/></l><r>il-</r></p></e>
@@ -4094,6 +4110,7 @@
     <e lm="uffiċċju"><i>uffiċċj</i><par n="buff/u__n_m"/></e>
     <e lm="ukanda"><i>ukand</i><par n="propost/a__n_f"/></e>
     <e lm="villaġġ"><i>villaġġ</i><par n="moviment__n_m"/></e>
+    <e lm="kulleġġ"><i>kulleġġ</i><par n="moviment__n_m"/></e>
     <e lm="vittma"><i>vittm</i><par n="propost/a__n_f"/></e>
     <e lm="vizzju"><i>vizzj</i><par n="buff/u__n_m"/></e>
     <e lm="votant"><i>votant</i><par n="moviment__n_m"/></e>
