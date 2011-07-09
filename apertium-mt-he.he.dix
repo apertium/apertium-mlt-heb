@@ -6373,7 +6373,7 @@
     <e lm="כל" c="any"><i>כל</i><par n="כל_prn"/></e>
     
     <e lm="אחר" c="another"><i>אחר</i><par n="אחר__prn"/></e>
-    <e lm="כל דבר" c="anything"><i>כל<b/>דבר<b/>haga</i><par n="אחר__prn"/></e>
+    <e lm="כל דבר" c="anything"><i>כל<b/>דבר</i><par n="אחר__prn"/></e>
     <e lm="כל אחד אחר" c="another"><i>כל<b/>אחד<b/>אחר</i><par n="אחר__prn"/></e>
     <e lm="כל אחד" c="anybody"><i>כל<b/>אחד</i><par n="אחר__prn"/></e>
     <e lm="כולם" c="everyone"><i>כולם</i><par n="אחר__prn"/></e>
