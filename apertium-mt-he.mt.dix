@@ -18,6 +18,7 @@
     <sdef n="cnjcoo"      c="Co-ordinating conjunction"/>
     <sdef n="cnjsub"      c="Sub-ordinating conjunction"/>
 
+    <sdef n="recip"       c="recip"/>
     <sdef n="dem"         c="Demonstrative"/>
     <sdef n="ord"         c="Ordinal"/>
     <sdef n="neg"         c="Negative"/>
@@ -277,7 +278,11 @@
       <e><p><l>awn</l><r>an<s n="prn"/><s n="dem"/><s n="mf"/><s n="pl"/></r></p></e>
     </pardef>
  
-    <pardef n="kollu_prn">
+    <pardef n="xulxin__prn">
+      <e><p><l/><r><s n="prn"/><s n="recip"/><s n="mf"/><s n="sp"/></r></p></e>
+    </pardef>
+
+    <pardef n="kollu__prn">
       <e><p><l/><r><s n="prn"/><s n="ind"/><s n="mf"/><s n="sp"/></r></p></e>
     </pardef>
 
@@ -3081,8 +3086,8 @@
     <e lm="dan" c="this"><i>d</i><par n="d/an__prn"/></e>
     <e lm="dak" c="that"><i>d</i><par n="d/ak__prn"/></e>
     
-    <e lm="kollu" c="all"><i>kollu</i><par n="kollu_prn"/></e>
-    <e lm="jew" c="either"><i>jew</i><par n="kollu_prn"/></e>
+    <e lm="kollu" c="all"><i>kollu</i><par n="kollu__prn"/></e>
+    <e lm="jew" c="either"><i>jew</i><par n="kollu__prn"/></e>
     
     <e lm="ieħor" c="another"><i>ieħor</i><par n="iehor__prn"/></e>
     <e lm="iehor" r="LR"><p><l>iehor</l><r>ieħor</r></p><par n="iehor__prn"/></e>
@@ -3099,9 +3104,11 @@
     <e lm="xi hadd" c="someone"><i>xi<b/>hadd</i><par n="iehor__prn"/></e>
     <e lm="kull" c="each"><i>kull</i><par n="iehor__prn"/></e>
     <e lm="dak kollu" c="whatever"><i>dak<b/>kollu</i><par n="iehor__prn"/></e>
+
+    <e lm="xulxin" c="each other"><i>xulxin</i><par n="xulxin__prn"/></e>
     
     <e lm="ħadd" c="none"><i>ħadd</i><par n="ħadd__prn"/></e>
-    <e lm="kwalunkwe" c="any"><i>kwalunkwe</i><par n="kollu_prn"/></e>
+    <e lm="kwalunkwe" c="any"><i>kwalunkwe</i><par n="kollu__prn"/></e>
     <e lm="xi haga" c="something"><i>xi<b/>haga</i><par n="ħadd__prn"/></e>
     <e lm="b'xi mod jew iehor" c="somewhere"><i>b'xi<b/>mod<b/>jew<b/>iehor</i><par n="ħadd__prn"/></e>
     
