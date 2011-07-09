@@ -125,6 +125,20 @@
       <e r="RL"><p><l><a/>ma</l><r>ma<s n="adv"/></r></p></e>
     </pardef>
 
+    <pardef n="il-/bieraħ__adv"> 
+      <e r="LR"><p><l>il-</l><r>il-</r></p></e>
+      <e r="LR"><p><l>l-</l><r>il-</r></p></e>
+      <e r="LR"><p><l>tal-</l><r>ta'<s n="pr"/><j/>il-</r></p></e>
+      <e r="LR"><p><l>sal-</l><r>sa<s n="pr"/><j/>il-</r></p></e>
+      <e r="LR"><p><l>mal-</l><r>ma'<s n="pr"/><j/>il-</r></p></e>
+      <e r="LR"><p><l>bħall-</l><r>bħal<s n="pr"/><j/>il-</r></p></e>
+      <e r="LR"><p><l>għall-</l><r>għal<s n="pr"/><j/>il-</r></p></e>
+      <e r="LR"><p><l>fil-</l><r>fi<s n="pr"/><j/>il-</r></p></e>
+      <e r="LR"><p><l>mill-</l><r>minn<s n="pr"/><j/>il-</r></p></e>
+      <e r="RL"><p><l><a/>il-</l><r>il-</r></p></e>
+    </pardef>
+
+
     <pardef n="/imbagħad__adv"> 
       <e r="LR"><p><l>imbagħad</l><r>imbagħad<s n="adv"/></r></p></e>
       <e r="LR"><p><l>mbagħad</l><r>imbagħad<s n="adv"/></r></p></e>
@@ -5802,7 +5816,11 @@
     <e lm="'l ġewwa" c="inside"><i>'l<b/>ġewwa</i><par n="immedjatament__adv"/></e>
     <e lm="'l hemm" c="there"><i>'l<b/>hemm</i><par n="immedjatament__adv"/></e>
     <e lm="'l hawn" c="here"><i>'l<b/>hawn</i><par n="immedjatament__adv"/></e>
-    <e lm="'l bogħod" c="away"><i>bogħod</i><par n="immedjatament__adv"/></e>
+    <e lm="'l bogħod" c="away"><i>bogħod</i><par n="immedjatament__adv"/></e> <!-- TODO: check -->
+
+    <e lm="il-bieraħ" c="yesterday"><par n="il-/bieraħ__adv"/><i>bieraħ</i><par n="immedjatament__adv"/></e>
+    <e lm="il-bogħod" c="far"><par n="il-/bieraħ__adv"/><i>bogħod</i><par n="immedjatament__adv"/></e>
+    <e lm="il-lejla" c="tonight"><par n="il-/bieraħ__adv"/><i>lejla</i><par n="immedjatament__adv"/></e>
 
     <e lm="isfel"><i>isfel</i><par n="immedjatament__adv"/></e>
     <e lm="taħt"><i>taħt</i><par n="immedjatament__adv"/></e>
@@ -5812,7 +5830,6 @@
     <e lm="madwar"><i>madwar</i><par n="immedjatament__adv"/></e>
     <e lm="issa" c="now"><i>issa</i><par n="immedjatament__adv"/></e>
     <e lm="għada" c="tomorrow"><i>għada</i><par n="immedjatament__adv"/></e>
-    <e lm="il-bieraħ" c="yesterday"><i>il-bieraħ</i><par n="immedjatament__adv"/></e>
     <e lm="minkejja" c="despite"><i>minkejja</i><par n="immedjatament__adv"/></e>
 
     <e lm="ilu"><i>ilu</i><par n="immedjatament__adv"/></e>
@@ -6137,7 +6154,6 @@
     <e lm="intrinsiku"><i>intrinsi</i><par n="epi/ku__adj"/></e>
     <e lm="ċibernetiku"><i>ċiberneti</i><par n="epi/ku__adj"/></e>
     <e lm="metaforiku"><i>metafori</i><par n="epi/ku__adj"/></e>
-    <e lm="liturgiku"><i>liturgi</i><par n="epi/ku__adj"/></e>
     <e lm="soċjoloġiku"><i>soċjoloġi</i><par n="epi/ku__adj"/></e>
     <e lm="perjodiku"><i>perjodi</i><par n="epi/ku__adj"/></e>
     <e lm="mitiku"><i>miti</i><par n="epi/ku__adj"/></e>
