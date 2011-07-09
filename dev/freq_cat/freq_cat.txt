@@ -1398,106 +1398,106 @@ o    ^296/296<num>$ ^tah/*tah$	; him.
 v    ^296/296<num>$ ^inghata/*inghata$	; granted.
 ?    ^296/296<num>$ ^Ħal/*Ħal$	; Hal.
 adv    ^295/295<num>$ ^regghu/*regghu$	; again.
-    ^295/295<num>$ ^pont/*pont$		; 	DOT (m)	; bridge.
-    ^295/295<num>$ ^metri/*metri$	; meters.
-    ^295/295<num>$ ^jivvutaw/*jivvutaw$	; vote.
-    ^295/295<num>$ ^informat/*informat$	; informed.
-    ^295/295<num>$ ^ħolma/*ħolma$		; 	DREAM (f)	; dream.
-    ^295/295<num>$ ^daqq/*daqq$	; playback.
-    ^295/295<num>$ ^centru/*centru$		; 	DOWNTOWN (m)	; center.
-    ^295/295<num>$ ^Arsenal/*Arsenal$	; Arsenal.
-    ^294/294<num>$ ^twaqqaf/*twaqqaf$	; stop.
-    ^294/294<num>$ ^teżisti/*teżisti$	; exists.
-    ^294/294<num>$ ^jżomm/*jżomm$	; keep.
-    ^294/294<num>$ ^jisimgħu/*jisimgħu$	; listen.
-    ^294/294<num>$ ^htiega/*htiega$		; 	WANT (f)	; requirement.
-    ^294/294<num>$ ^et/*et$	; et.
-    ^292/292<num>$ ^mhijiex/*mhijiex$	; not.
-    ^292/292<num>$ ^j/*j$	; j.
-    ^292/292<num>$ ^hlas/*hlas$		; 	TOLL (m)	; payment.
-    ^292/292<num>$ ^ġuħ/*ġuħ$		; 	HUNGER (m)	; hunger.
-    ^291/291<num>$ ^istqarrija/*istqarrija$	; statement.
-    ^291/291<num>$ ^ħarsa/*ħarsa$	; look.
-    ^290/290<num>$ ^uliedhom/*uliedhom$	; children.
-    ^290/290<num>$ ^tiltaqa/*tiltaqa$	; encounter.
-    ^290/290<num>$ ^Nigredo/*Nigredo$	; Nigredo.
-    ^290/290<num>$ ^familjari/*familjari$	; familiar.
-    ^289/289<num>$ ^tiela/*tiela$	; climbing.
-    ^289/289<num>$ ^plaċentati/*plaċentati$	; placentals.
-    ^289/289<num>$ ^mkien/*mkien$	; nowhere.
-    ^289/289<num>$ ^kunċert/*kunċert$	; concert.
-    ^289/289<num>$ ^jgħidli/*jgħidli$	; tells.
-    ^289/289<num>$ ^iskwadra/*iskwadra$	; team.
-    ^289/289<num>$ ^daħlu/*daħlu$	; entered.
-    ^288/288<num>$ ^sehhet/*sehhet$	; occurred.
-    ^288/288<num>$ ^Sciberras/*Sciberras$	; Sciberras.
-    ^288/288<num>$ ^Schedule/*Schedule$	; Schedule.
-    ^288/288<num>$ ^malti/*malti$	; Maltese.
-    ^288/288<num>$ ^Isla/*Isla$	; Isla.
-    ^288/288<num>$ ^Iskrittura/*Iskrittura$	; Script.
-    ^288/288<num>$ ^djalogu/*djalogu$		; 	DIALOG (m)	; dialogue.
-    ^287/287<num>$ ^spiccat/*spiccat$	; ended.
-    ^287/287<num>$ ^sparati/*sparati$	; fired.
-    ^287/287<num>$ ^safa/*safa$	; purity.
-    ^287/287<num>$ ^June/*June$	; June.
-    ^287/287<num>$ ^jisimha/*jisimha$	; named.
-    ^287/287<num>$ ^atmosfera/*atmosfera$	; atmosphere.
-    ^286/286<num>$ ^prosit/*prosit$	; well done.
-    ^286/286<num>$ ^misteru/*misteru$		; 	MYSTERY (m)	; mystery.
-    ^286/286<num>$ ^Esd/*Esd$	; ESD.
-    ^285/285<num>$ ^si/*si$	; si.
-    ^285/285<num>$ ^rawnd/*rawnd$	; round.
-    ^285/285<num>$ ^Prof/*Prof$	; Prof.
-    ^285/285<num>$ ^jistgħux/*jistgħux$	; can.
-    ^285/285<num>$ ^hix/*hix$	; is.
-    ^284/284<num>$ ^nsib/*nsib$	; find.
-    ^284/284<num>$ ^Nirien/*Nirien$	; Fires.
-    ^284/284<num>$ ^mmorru/*mmorru$	; go.
-    ^284/284<num>$ ^lagħab/*lagħab$	; played.
-    ^284/284<num>$ ^jistaqsi/*jistaqsi$	; wonders.
-    ^284/284<num>$ ^fizzjali/*fizzjali$	; officers.
-    ^284/284<num>$ ^don/*don$	; don.
-    ^283/283<num>$ ^wiċċu/*wiċċu$	; face.
-    ^283/283<num>$ ^stharrig/*stharrig$		; 	SEARCH (m)	; surveys.
-    ^283/283<num>$ ^niftakru/*niftakru$	; remember.
-    ^283/283<num>$ ^jitilqu/*jitilqu$	; leave.
-    ^283/283<num>$ ^hena/*hena$		; 	PLEASURE (f)	; happiness.
-    ^283/283<num>$ ^Ciantar/*Ciantar$	; Ciantar.
-    ^282/282<num>$ ^vjagg/*vjagg$		; 	VOYAGE (m)	; journey.
-    ^282/282<num>$ ^rasha/*rasha$	; employed.
-    ^282/282<num>$ ^Qawra/*Qawra$	; Qawra.
-    ^282/282<num>$ ^nistgħux/*nistgħux$	; can.
-    ^282/282<num>$ ^kuraġġ/*kuraġġ$		; 	VALOR (m)	; courage.
-    ^282/282<num>$ ^jattendu/*jattendu$	; attend.
-    ^282/282<num>$ ^ispeċi/*ispeċi$	; species.
-    ^282/282<num>$ ^ħabbar/*ħabbar$	; announced.
-    ^282/282<num>$ ^ftuħ/*ftuħ$	; opening.
-    ^282/282<num>$ ^etna/*etna$	; Etna.
-    ^282/282<num>$ ^elit/*elit$	; elite.
-    ^281/281<num>$ ^serje/*serje$	; series.
-    ^281/281<num>$ ^prezenti/*prezenti$	; present.
-    ^281/281<num>$ ^nzjarju/*nzjarju$	; nzjarju.
-    ^281/281<num>$ ^narah/*narah$	; see it.
-    ^281/281<num>$ ^mili/*mili$		; 	STUFF (m)	; miles.
-    ^281/281<num>$ ^ġrajja/*ġrajja$		; 	EVENT (f)	; event.
-    ^281/281<num>$ ^għaldaqstant/*għaldaqstant$	; accordingly.
-    ^280/280<num>$ ^wieqfa/*wieqfa$	; standing.
-    ^280/280<num>$ ^Union/*Union$	; Union.
-    ^280/280<num>$ ^titla/*titla$	; climbs.
-    ^280/280<num>$ ^nistaqsi/*nistaqsi$	; I ask.
-    ^280/280<num>$ ^ġust/*ġust$	; fair.
-    ^279/279<num>$ ^sagrifiċċju/*sagrifiċċju$	; sacrifice.
-    ^279/279<num>$ ^kera/*kera$		; 	TENANCY (f)	; rent.
-    ^279/279<num>$ ^ġmiel/*ġmiel$		; 	GLAMOR (m)	; beauty.
-    ^279/279<num>$ ^bar/*bar$	; bar.
-    ^278/278<num>$ ^qerda/*qerda$	; destruction.
-    ^278/278<num>$ ^imwiet/*imwiet$	; deaths.
-    ^278/278<num>$ ^iħobb/*iħobb$	; loved.
-    ^278/278<num>$ ^have/*have$	; have.
-    ^277/277<num>$ ^tramuntana/*tramuntana$		; 	NORTH (f)	; north.
-    ^277/277<num>$ ^tintuża/*tintuża$	; used.
-    ^277/277<num>$ ^terga/*terga$	; come.
-    ^277/277<num>$ ^jghaddu/*jghaddu$	; pass.
+n    ^295/295<num>$ ^pont/*pont$		; 	DOT (m)	; bridge.
+n    ^295/295<num>$ ^metri/*metri$	; meters.
+v    ^295/295<num>$ ^jivvutaw/*jivvutaw$	; vote.
+adj    ^295/295<num>$ ^informat/*informat$	; informed.
+n    ^295/295<num>$ ^ħolma/*ħolma$		; 	DREAM (f)	; dream.
+n    ^295/295<num>$ ^daqq/*daqq$	; playback.
+n    ^295/295<num>$ ^centru/*centru$		; 	DOWNTOWN (m)	; center.
+?    ^295/295<num>$ ^Arsenal/*Arsenal$	; Arsenal.
+v    ^294/294<num>$ ^twaqqaf/*twaqqaf$	; stop.
+v    ^294/294<num>$ ^teżisti/*teżisti$	; exists.
+v    ^294/294<num>$ ^jżomm/*jżomm$	; keep.
+v    ^294/294<num>$ ^jisimgħu/*jisimgħu$	; listen.
+n    ^294/294<num>$ ^htiega/*htiega$		; 	WANT (f)	; requirement.
+?    ^294/294<num>$ ^et/*et$	; et.
+adv    ^292/292<num>$ ^mhijiex/*mhijiex$	; not.
+?    ^292/292<num>$ ^j/*j$	; j.
+n    ^292/292<num>$ ^hlas/*hlas$		; 	TOLL (m)	; payment.
+n    ^292/292<num>$ ^ġuħ/*ġuħ$		; 	HUNGER (m)	; hunger.
+n    ^291/291<num>$ ^istqarrija/*istqarrija$	; statement.
+n    ^291/291<num>$ ^ħarsa/*ħarsa$	; look.
+n    ^290/290<num>$ ^uliedhom/*uliedhom$	; children.
+v    ^290/290<num>$ ^tiltaqa/*tiltaqa$	; encounter.
+?    ^290/290<num>$ ^Nigredo/*Nigredo$	; Nigredo.
+adj    ^290/290<num>$ ^familjari/*familjari$	; familiar.
+v    ^289/289<num>$ ^tiela/*tiela$	; climbing.
+n    ^289/289<num>$ ^plaċentati/*plaċentati$	; placentals.
+o    ^289/289<num>$ ^mkien/*mkien$	; nowhere.
+n    ^289/289<num>$ ^kunċert/*kunċert$	; concert.
+v    ^289/289<num>$ ^jgħidli/*jgħidli$	; tells.
+n    ^289/289<num>$ ^iskwadra/*iskwadra$	; team.
+v    ^289/289<num>$ ^daħlu/*daħlu$	; entered.
+v    ^288/288<num>$ ^sehhet/*sehhet$	; occurred.
+?    ^288/288<num>$ ^Sciberras/*Sciberras$	; Sciberras.
+?    ^288/288<num>$ ^Schedule/*Schedule$	; Schedule.
+n    ^288/288<num>$ ^malti/*malti$	; Maltese.
+?    ^288/288<num>$ ^Isla/*Isla$	; Isla.
+n    ^288/288<num>$ ^Iskrittura/*Iskrittura$	; Script.
+n    ^288/288<num>$ ^djalogu/*djalogu$		; 	DIALOG (m)	; dialogue.
+adj    ^287/287<num>$ ^spiccat/*spiccat$	; ended.
+adj    ^287/287<num>$ ^sparati/*sparati$	; fired.
+n    ^287/287<num>$ ^safa/*safa$	; purity.
+?    ^287/287<num>$ ^June/*June$	; June.
+v    ^287/287<num>$ ^jisimha/*jisimha$	; named.
+n    ^287/287<num>$ ^atmosfera/*atmosfera$	; atmosphere.
+adj    ^286/286<num>$ ^prosit/*prosit$	; well done.
+n    ^286/286<num>$ ^misteru/*misteru$		; 	MYSTERY (m)	; mystery.
+?    ^286/286<num>$ ^Esd/*Esd$	; ESD.
+?    ^285/285<num>$ ^si/*si$	; si.
+n    ^285/285<num>$ ^rawnd/*rawnd$	; round.
+?    ^285/285<num>$ ^Prof/*Prof$	; Prof.
+v    ^285/285<num>$ ^jistgħux/*jistgħux$	; can.
+?    ^285/285<num>$ ^hix/*hix$	; is.
+v    ^284/284<num>$ ^nsib/*nsib$	; find.
+n    ^284/284<num>$ ^Nirien/*Nirien$	; Fires.
+v    ^284/284<num>$ ^mmorru/*mmorru$	; go.
+v    ^284/284<num>$ ^lagħab/*lagħab$	; played.
+v    ^284/284<num>$ ^jistaqsi/*jistaqsi$	; wonders.
+n    ^284/284<num>$ ^fizzjali/*fizzjali$	; officers.
+?    ^284/284<num>$ ^don/*don$	; don.
+n    ^283/283<num>$ ^wiċċu/*wiċċu$	; face.
+n    ^283/283<num>$ ^stharrig/*stharrig$		; 	SEARCH (m)	; surveys.
+v    ^283/283<num>$ ^niftakru/*niftakru$	; remember.
+v    ^283/283<num>$ ^jitilqu/*jitilqu$	; leave.
+n    ^283/283<num>$ ^hena/*hena$		; 	PLEASURE (f)	; happiness.
+?    ^283/283<num>$ ^Ciantar/*Ciantar$	; Ciantar.
+n    ^282/282<num>$ ^vjagg/*vjagg$		; 	VOYAGE (m)	; journey.
+adj    ^282/282<num>$ ^rasha/*rasha$	; employed.
+?    ^282/282<num>$ ^Qawra/*Qawra$	; Qawra.
+v    ^282/282<num>$ ^nistgħux/*nistgħux$	; can.
+n    ^282/282<num>$ ^kuraġġ/*kuraġġ$		; 	VALOR (m)	; courage.
+v    ^282/282<num>$ ^jattendu/*jattendu$	; attend.
+n    ^282/282<num>$ ^ispeċi/*ispeċi$	; species.
+v    ^282/282<num>$ ^ħabbar/*ħabbar$	; announced.
+n    ^282/282<num>$ ^ftuħ/*ftuħ$	; opening.
+?    ^282/282<num>$ ^etna/*etna$	; Etna.
+adj    ^282/282<num>$ ^elit/*elit$	; elite.
+n    ^281/281<num>$ ^serje/*serje$	; series.
+n    ^281/281<num>$ ^prezenti/*prezenti$	; present.
+?    ^281/281<num>$ ^nzjarju/*nzjarju$	; nzjarju.
+v    ^281/281<num>$ ^narah/*narah$	; see it.
+n    ^281/281<num>$ ^mili/*mili$		; 	STUFF (m)	; miles.
+n    ^281/281<num>$ ^ġrajja/*ġrajja$		; 	EVENT (f)	; event.
+adv    ^281/281<num>$ ^għaldaqstant/*għaldaqstant$	; accordingly.
+v    ^280/280<num>$ ^wieqfa/*wieqfa$	; standing.
+?    ^280/280<num>$ ^Union/*Union$	; Union.
+v    ^280/280<num>$ ^titla/*titla$	; climbs.
+v    ^280/280<num>$ ^nistaqsi/*nistaqsi$	; I ask.
+adj    ^280/280<num>$ ^ġust/*ġust$	; fair.
+v    ^279/279<num>$ ^sagrifiċċju/*sagrifiċċju$	; sacrifice.
+n    ^279/279<num>$ ^kera/*kera$		; 	TENANCY (f)	; rent.
+n    ^279/279<num>$ ^ġmiel/*ġmiel$		; 	GLAMOR (m)	; beauty.
+?    ^279/279<num>$ ^bar/*bar$	; bar.
+n    ^278/278<num>$ ^qerda/*qerda$	; destruction.
+n    ^278/278<num>$ ^imwiet/*imwiet$	; deaths.
+v    ^278/278<num>$ ^iħobb/*iħobb$	; loved.
+?    ^278/278<num>$ ^have/*have$	; have.
+n    ^277/277<num>$ ^tramuntana/*tramuntana$		; 	NORTH (f)	; north.
+v    ^277/277<num>$ ^tintuża/*tintuża$	; used.
+v    ^277/277<num>$ ^terga/*terga$	; come.
+v    ^277/277<num>$ ^jghaddu/*jghaddu$	; pass.
     ^277/277<num>$ ^facebook/*facebook$	; facebook.
     ^277/277<num>$ ^City/*City$	; City.
     ^277/277<num>$ ^Cassola/*Cassola$	; Cassola.
