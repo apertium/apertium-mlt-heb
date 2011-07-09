@@ -5449,6 +5449,7 @@
 
 
     <e lm="reliġjuż"><i>reliġjuż</i><par n="reliġjuż__adj"/></e>
+    <e lm="ċar"><i>ċar</i><par n="reliġjuż__adj"/></e>
     <e lm="ambizzjuż"><i>ambizzjuż</i><par n="reliġjuż__adj"/></e>
     <e lm="eskluż"><i>eskluż</i><par n="reliġjuż__adj"/></e>
     <e lm="famuż"><i>famuż</i><par n="reliġjuż__adj"/></e>
@@ -5738,6 +5739,7 @@
     <e lm="oriġinali"><i>oriġinali</i><par n="differenti__adj"/></e>
     <e lm="internazzjonali"><i>internazzjonali</i><par n="differenti__adj"/></e>
     <e lm="importanti"><i>importanti</i><par n="differenti__adj"/></e>
+    <e lm="simili"><i>simili</i><par n="differenti__adj"/></e>
     <e lm="mużikali"><i>mużikali</i><par n="differenti__adj"/></e>
     <e lm="parlamentari"><i>parlamentari</i><par n="differenti__adj"/></e>
     <e lm="blu"><i>blu</i><par n="differenti__adj"/></e>
