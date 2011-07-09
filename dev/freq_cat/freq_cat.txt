@@ -1098,106 +1098,106 @@ adj    ^359/359<num>$ ^Ricenti/*Ricenti$	; Recent.
 o    ^359/359<num>$ ^Billi/*Billi$	; By.
 ?    ^359/359<num>$ ^AN/*AN$	; AN.
 adv    ^358/358<num>$ ^uhud/*uhud$	; some.
-    ^358/358<num>$ ^oraklu/*oraklu$	; oraklu.
-    ^358/358<num>$ ^fiduċja/*fiduċja$	; trust.
-    ^358/358<num>$ ^Box/*Box$	; Box.
-    ^358/358<num>$ ^Bongu/*Bongu$	; Good morning.
-    ^357/357<num>$ ^Saħħa/*Saħħa$		; 	VIGOR (f)	; Health.
-    ^357/357<num>$ ^ruħha/*ruħha$	; itself.
-    ^357/357<num>$ ^każi/*każi$	; cases.
-    ^357/357<num>$ ^Karmenu/*Karmenu$	; Karmenu.
-    ^357/357<num>$ ^ghan/*ghan$		; 	END (m)	; purpose.
-    ^356/356<num>$ ^Karikatura/*Karikatura$		; 	CARICATURE (f)	; Caricature.
-    ^356/356<num>$ ^kant/*kant$	; singing.
-    ^356/356<num>$ ^ghami/*ghami$	; blind.
-    ^356/356<num>$ ^Fr/*Fr$	; Fr.
-    ^355/355<num>$ ^nistenna/*nistenna$	; am.
-    ^355/355<num>$ ^Minbarra/*Minbarra$	; Besides.
-    ^355/355<num>$ ^erbat/*erbat$	; four.
-    ^354/354<num>$ ^tbissima/*tbissima$		; 	SMILE (f)	; smile.
-    ^354/354<num>$ ^semma/*semma$		; 	CHRISTEN 	; mentioned.
-    ^354/354<num>$ ^jiġbor/*jiġbor$	; collect.
-    ^354/354<num>$ ^era/*era$	; era.
-    ^354/354<num>$ ^Cup/*Cup$	; Cup.
-    ^354/354<num>$ ^ċara/*ċara$	; clear.
-    ^353/353<num>$ ^Salvatagg/*Salvatagg$	; Rescue.
-    ^353/353<num>$ ^mistennija/*mistennija$	; expected.
-    ^353/353<num>$ ^jieqaf/*jieqaf$	; stop.
-    ^352/352<num>$ ^żagħżugħ/*żagħżugħ$		; 	YOUNG 	; teenager.
-    ^352/352<num>$ ^Turkija/*Turkija$	; Turkey.
-    ^352/352<num>$ ^qrajt/*qrajt$	; read.
-    ^352/352<num>$ ^qalulu/*qalulu$	; saying.
-    ^352/352<num>$ ^jixtri/*jixtri$	; buy.
-    ^352/352<num>$ ^JavaScript/*JavaScript$	; JavaScript.
-    ^352/352<num>$ ^ghedewwa/*ghedewwa$	; enemies.
-    ^352/352<num>$ ^Bar/*Bar$	; Bar.
-    ^351/351<num>$ ^Sports/*Sports$	; Sports.
-    ^351/351<num>$ ^However/*However$	; However.
-    ^351/351<num>$ ^Dance/*Dance$	; Dance.
-    ^350/350<num>$ ^Scicluna/*Scicluna$	; Scicluna.
-    ^350/350<num>$ ^jrahhas/*jrahhas$	; depress.
-    ^350/350<num>$ ^joqogħdu/*joqogħdu$	; staying.
-    ^350/350<num>$ ^iżomm/*iżomm$	; keep.
-    ^349/349<num>$ ^sabiha/*sabiha$	; beautiful.
-    ^349/349<num>$ ^għajnejja/*għajnejja$	; eyes.
-    ^348/348<num>$ ^setgħa/*setgħa$	; power.
-    ^348/348<num>$ ^rigal/*rigal$		; 	TRIBUTE (m)	; gift.
-    ^348/348<num>$ ^Ħamis/*Ħamis$	; Thursday.
-    ^347/347<num>$ ^TM/*TM$	; TM.
-    ^347/347<num>$ ^Spiza/*Spiza$		; 	EXPENSE (f)	; Expense.
-    ^347/347<num>$ ^liberta/*liberta$	; freedom.
-    ^347/347<num>$ ^jeżistu/*jeżistu$	; exist.
-    ^347/347<num>$ ^Design/*Design$	; Design.
-    ^347/347<num>$ ^ċittadini/*ċittadini$	; citizens.
-    ^346/346<num>$ ^tinbidel/*tinbidel$	; changed.
-    ^346/346<num>$ ^tgħix/*tgħix$	; live.
-    ^346/346<num>$ ^nieqes/*nieqes$		; 	SCANT 	; missing.
-    ^346/346<num>$ ^my/*my$	; my.
-    ^346/346<num>$ ^kontribut/*kontribut$	; contribution.
-    ^345/345<num>$ ^Salamun/*Salamun$		; 	SALMON (m)	; Salmon.
-    ^345/345<num>$ ^mietu/*mietu$	; died.
-    ^345/345<num>$ ^isfond/*isfond$	; background.
-    ^344/344<num>$ ^kapitlu/*kapitlu$		; 	CHAPTER 	; chapter.
-    ^344/344<num>$ ^either/*either$	; either.
-    ^343/343<num>$ ^tron/*tron$		; 	THRONE (m)	; throne.
-    ^343/343<num>$ ^Opossum/*Opossum$	; Opossum.
-    ^343/343<num>$ ^jerġgħu/*jerġgħu$	; again.
-    ^343/343<num>$ ^delitt/*delitt$		; 	CRIME (m)	; crime.
-    ^342/342<num>$ ^xiħadd/*xiħadd$	; someone.
-    ^342/342<num>$ ^sigħat/*sigħat$	; hours.
-    ^342/342<num>$ ^għedewwa/*għedewwa$	; enemies.
-    ^341/341<num>$ ^Responses/*Responses$	; Responses.
-    ^341/341<num>$ ^iżgħar/*iżgħar$	; smaller.
-    ^341/341<num>$ ^istejjer/*istejjer$	; stories.
-    ^341/341<num>$ ^Calleja/*Calleja$	; Calleja.
-    ^341/341<num>$ ^biza/*biza$		; 	FEAR (m)	; fear.
-    ^341/341<num>$ ^Archives/*Archives$	; Archives.
-    ^341/341<num>$ ^Anonymous/*Anonymous$	; Anonymous.
-    ^340/340<num>$ ^qaddisin/*qaddisin$	; saints.
-    ^340/340<num>$ ^N/*N$	; N.
-    ^340/340<num>$ ^kollegi/*kollegi$	; colleagues.
-    ^340/340<num>$ ^Avvizi/*Avvizi$	; Notices.
-    ^339/339<num>$ ^Ġdt/*Ġdt$	; GDT.
-    ^338/338<num>$ ^Mar/*Mar$		; 	DEPART 	; March
-    ^337/337<num>$ ^Webee/*Webee$	; Webee.
-    ^337/337<num>$ ^supported/*supported$	; Supported.
-    ^337/337<num>$ ^spiċċat/*spiċċat$	; vanished.
-    ^337/337<num>$ ^nistennew/*nistennew$	; wait.
-    ^337/337<num>$ ^Madanakollu/*Madanakollu$	; However.
-    ^337/337<num>$ ^joffru/*joffru$	; offer.
-    ^337/337<num>$ ^impjant/*impjant$	; plant.
-    ^337/337<num>$ ^harget/*harget$	; issued.
-    ^337/337<num>$ ^Ħamrun/*Ħamrun$	; Hamrun.
-    ^337/337<num>$ ^ed/*ed$	; ed.
-    ^337/337<num>$ ^disabled/*disabled$	; Disabled.
-    ^336/336<num>$ ^serjetà/*serjetà$	; seriously.
-    ^336/336<num>$ ^Olanda/*Olanda$	; Netherlands.
-    ^336/336<num>$ ^jfissirx/*jfissirx$	; mean.
-    ^335/335<num>$ ^viċin/*viċin$	; close.
-    ^335/335<num>$ ^taqa/*taqa$	; comes.
-    ^335/335<num>$ ^mħabba/*mħabba$	; love.
-    ^335/335<num>$ ^juża/*juża$	; uses.
-    ^335/335<num>$ ^jintuża/*jintuża$	; used.
+?    ^358/358<num>$ ^oraklu/*oraklu$	; oraklu.
+v    ^358/358<num>$ ^fiduċja/*fiduċja$	; trust.
+?    ^358/358<num>$ ^Box/*Box$	; Box.
+o    ^358/358<num>$ ^Bongu/*Bongu$	; Good morning.
+n    ^357/357<num>$ ^Saħħa/*Saħħa$		; 	VIGOR (f)	; Health.
+adv    ^357/357<num>$ ^ruħha/*ruħha$	; itself.
+n    ^357/357<num>$ ^każi/*każi$	; cases.
+?    ^357/357<num>$ ^Karmenu/*Karmenu$	; Karmenu.
+n    ^357/357<num>$ ^ghan/*ghan$		; 	END (m)	; purpose.
+n    ^356/356<num>$ ^Karikatura/*Karikatura$		; 	CARICATURE (f)	; Caricature.
+n    ^356/356<num>$ ^kant/*kant$	; singing.
+adj    ^356/356<num>$ ^ghami/*ghami$	; blind.
+?    ^356/356<num>$ ^Fr/*Fr$	; Fr.
+o    ^355/355<num>$ ^nistenna/*nistenna$	; am.
+o    ^355/355<num>$ ^Minbarra/*Minbarra$	; Besides.
+n    ^355/355<num>$ ^erbat/*erbat$	; four.
+n    ^354/354<num>$ ^tbissima/*tbissima$		; 	SMILE (f)	; smile.
+v    ^354/354<num>$ ^semma/*semma$		; 	CHRISTEN 	; mentioned.
+v    ^354/354<num>$ ^jiġbor/*jiġbor$	; collect.
+?    ^354/354<num>$ ^era/*era$	; era.
+?    ^354/354<num>$ ^Cup/*Cup$	; Cup.
+adj    ^354/354<num>$ ^ċara/*ċara$	; clear.
+v    ^353/353<num>$ ^Salvatagg/*Salvatagg$	; Rescue.
+v    ^353/353<num>$ ^mistennija/*mistennija$	; expected.
+v    ^353/353<num>$ ^jieqaf/*jieqaf$	; stop.
+adj    ^352/352<num>$ ^żagħżugħ/*żagħżugħ$		; 	YOUNG 	; teenager.
+n    ^352/352<num>$ ^Turkija/*Turkija$	; Turkey.
+v    ^352/352<num>$ ^qrajt/*qrajt$	; read.
+v    ^352/352<num>$ ^qalulu/*qalulu$	; saying.
+v    ^352/352<num>$ ^jixtri/*jixtri$	; buy.
+?    ^352/352<num>$ ^JavaScript/*JavaScript$	; JavaScript.
+n    ^352/352<num>$ ^ghedewwa/*ghedewwa$	; enemies.
+?    ^352/352<num>$ ^Bar/*Bar$	; Bar.
+?    ^351/351<num>$ ^Sports/*Sports$	; Sports.
+?    ^351/351<num>$ ^However/*However$	; However.
+?    ^351/351<num>$ ^Dance/*Dance$	; Dance.
+?    ^350/350<num>$ ^Scicluna/*Scicluna$	; Scicluna.
+v    ^350/350<num>$ ^jrahhas/*jrahhas$	; depress.
+v    ^350/350<num>$ ^joqogħdu/*joqogħdu$	; staying.
+v    ^350/350<num>$ ^iżomm/*iżomm$	; keep.
+adj    ^349/349<num>$ ^sabiha/*sabiha$	; beautiful.
+n    ^349/349<num>$ ^għajnejja/*għajnejja$	; eyes.
+n    ^348/348<num>$ ^setgħa/*setgħa$	; power.
+n    ^348/348<num>$ ^rigal/*rigal$		; 	TRIBUTE (m)	; gift.
+n    ^348/348<num>$ ^Ħamis/*Ħamis$	; Thursday.
+?    ^347/347<num>$ ^TM/*TM$	; TM.
+n    ^347/347<num>$ ^Spiza/*Spiza$		; 	EXPENSE (f)	; Expense.
+n    ^347/347<num>$ ^liberta/*liberta$	; freedom.
+v    ^347/347<num>$ ^jeżistu/*jeżistu$	; exist.
+?    ^347/347<num>$ ^Design/*Design$	; Design.
+n    ^347/347<num>$ ^ċittadini/*ċittadini$	; citizens.
+v    ^346/346<num>$ ^tinbidel/*tinbidel$	; changed.
+v    ^346/346<num>$ ^tgħix/*tgħix$	; live.
+adj    ^346/346<num>$ ^nieqes/*nieqes$		; 	SCANT 	; missing.
+?    ^346/346<num>$ ^my/*my$	; my.
+n    ^346/346<num>$ ^kontribut/*kontribut$	; contribution.
+n    ^345/345<num>$ ^Salamun/*Salamun$		; 	SALMON (m)	; Salmon.
+v    ^345/345<num>$ ^mietu/*mietu$	; died.
+n    ^345/345<num>$ ^isfond/*isfond$	; background.
+n    ^344/344<num>$ ^kapitlu/*kapitlu$		; 	CHAPTER 	; chapter.
+?    ^344/344<num>$ ^either/*either$	; either.
+n    ^343/343<num>$ ^tron/*tron$		; 	THRONE (m)	; throne.
+?    ^343/343<num>$ ^Opossum/*Opossum$	; Opossum.
+adv    ^343/343<num>$ ^jerġgħu/*jerġgħu$	; again.
+n    ^343/343<num>$ ^delitt/*delitt$		; 	CRIME (m)	; crime.
+o    ^342/342<num>$ ^xiħadd/*xiħadd$	; someone.
+n    ^342/342<num>$ ^sigħat/*sigħat$	; hours.
+n    ^342/342<num>$ ^għedewwa/*għedewwa$	; enemies.
+?    ^341/341<num>$ ^Responses/*Responses$	; Responses.
+adj    ^341/341<num>$ ^iżgħar/*iżgħar$	; smaller.
+n    ^341/341<num>$ ^istejjer/*istejjer$	; stories.
+?    ^341/341<num>$ ^Calleja/*Calleja$	; Calleja.
+n    ^341/341<num>$ ^biza/*biza$		; 	FEAR (m)	; fear.
+?    ^341/341<num>$ ^Archives/*Archives$	; Archives.
+?    ^341/341<num>$ ^Anonymous/*Anonymous$	; Anonymous.
+n    ^340/340<num>$ ^qaddisin/*qaddisin$	; saints.
+?    ^340/340<num>$ ^N/*N$	; N.
+n    ^340/340<num>$ ^kollegi/*kollegi$	; colleagues.
+n    ^340/340<num>$ ^Avvizi/*Avvizi$	; Notices.
+?    ^339/339<num>$ ^Ġdt/*Ġdt$	; GDT.
+v    ^338/338<num>$ ^Mar/*Mar$		; 	DEPART 	; March
+?    ^337/337<num>$ ^Webee/*Webee$	; Webee.
+?    ^337/337<num>$ ^supported/*supported$	; Supported.
+adj    ^337/337<num>$ ^spiċċat/*spiċċat$	; vanished.
+v    ^337/337<num>$ ^nistennew/*nistennew$	; wait.
+o    ^337/337<num>$ ^Madanakollu/*Madanakollu$	; However.
+v    ^337/337<num>$ ^joffru/*joffru$	; offer.
+v    ^337/337<num>$ ^impjant/*impjant$	; plant.
+adj    ^337/337<num>$ ^harget/*harget$	; issued.
+?    ^337/337<num>$ ^Ħamrun/*Ħamrun$	; Hamrun.
+?    ^337/337<num>$ ^ed/*ed$	; ed.
+?    ^337/337<num>$ ^disabled/*disabled$	; Disabled.
+adv    ^336/336<num>$ ^serjetà/*serjetà$	; seriously.
+n    ^336/336<num>$ ^Olanda/*Olanda$	; Netherlands.
+adj    ^336/336<num>$ ^jfissirx/*jfissirx$	; mean.
+adj    ^335/335<num>$ ^viċin/*viċin$	; close.
+v    ^335/335<num>$ ^taqa/*taqa$	; comes.
+v    ^335/335<num>$ ^mħabba/*mħabba$	; love.
+v    ^335/335<num>$ ^juża/*juża$	; uses.
+v    ^335/335<num>$ ^jintuża/*jintuża$	; used.
     ^335/335<num>$ ^Iskwadra/*Iskwadra$	; Squadron.
     ^335/335<num>$ ^Għaldaqstant/*Għaldaqstant$	; Therefore.
     ^334/334<num>$ ^xieraq/*xieraq$		; 	WORTHY 	; appropriate.
