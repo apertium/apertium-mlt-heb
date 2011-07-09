@@ -1798,106 +1798,106 @@ n    ^240/240<num>$ ^Ewro/*Ewro$	; Euro.
 ?    ^239/239<num>$ ^Mandraġġar/*Mandraġġar$	; Mandraġġar.
 n    ^239/239<num>$ ^lokal/*lokal$	; neighborhood.
 n    ^239/239<num>$ ^Isaija/*Isaija$	; Isaiah.
-    ^239/239<num>$ ^informati/*informati$	; informed.
-    ^239/239<num>$ ^denbu/*denbu$	; tailed.
-    ^238/238<num>$ ^Testment/*Testment$	; Testament.
-    ^238/238<num>$ ^rnexxielu/*rnexxielu$	; managed.
-    ^238/238<num>$ ^Merill/*Merill$		; 	THRUSH (m)	; Merill.
-    ^238/238<num>$ ^jeżisti/*jeżisti$	; exists.
-    ^238/238<num>$ ^imut/*imut$	; dies.
-    ^237/237<num>$ ^turiżmu/*turiżmu$	; tourism.
-    ^237/237<num>$ ^riżorsi/*riżorsi$	; resources.
-    ^236/236<num>$ ^xiħaġa/*xiħaġa$	; anything.
-    ^236/236<num>$ ^salvatagg/*salvatagg$	; rescue.
-    ^236/236<num>$ ^rabja/*rabja$	; anger.
-    ^236/236<num>$ ^jilqa/*jilqa$	; welcome.
-    ^236/236<num>$ ^hits/*hits$	; hits.
-    ^236/236<num>$ ^bejgħ/*bejgħ$		; 	SALE (m)	; sales.
-    ^236/236<num>$ ^aptit/*aptit$		; 	APPETITE (m)	; appetite.
-    ^235/235<num>$ ^Xandir/*Xandir$	; Broadcasting.
-    ^235/235<num>$ ^saħħtu/*saħħtu$	; health.
-    ^235/235<num>$ ^restawr/*restawr$	; restoration.
-    ^235/235<num>$ ^nghata/*nghata$	; was given.
-    ^235/235<num>$ ^kejl/*kejl$	; measurements.
-    ^235/235<num>$ ^kantuniera/*kantuniera$		; 	CORNER (f)	; corner.
-    ^235/235<num>$ ^jinghad/*jinghad$	; stated.
-    ^235/235<num>$ ^gvernijiet/*gvernijiet$	; governments.
-    ^235/235<num>$ ^Ġużè/*Ġużè$	; Answer.
-    ^235/235<num>$ ^biswit/*biswit$	; opposite.
-    ^234/234<num>$ ^Satana/*Satana$		; 	SATAN (m)	; Satan.
-    ^234/234<num>$ ^reġjun/*reġjun$		; 	REGION (m)	; region.
-    ^234/234<num>$ ^Nittama/*Nittama$	; I hope.
-    ^234/234<num>$ ^niltaqa/*niltaqa$	; meet.
-    ^234/234<num>$ ^madankollu/*madankollu$		; 	HOWEVER 	; however.
-    ^234/234<num>$ ^jinzamm/*jinzamm$	; kept.
-    ^234/234<num>$ ^Inkjesta/*Inkjesta$		; 	INQUEST (f)	; Inquiry.
-    ^233/233<num>$ ^wasalna/*wasalna$	; we arrived.
-    ^233/233<num>$ ^ti/*ti$	; ti.
-    ^233/233<num>$ ^nasal/*nasal$	; I come.
-    ^233/233<num>$ ^naħsibx/*naħsibx$	; think.
-    ^233/233<num>$ ^mistrieħ/*mistrieħ$		; 	REST (m)	; rest.
-    ^233/233<num>$ ^Korriment/*Korriment$		; 	MISCARRIAGE (m)	; Injury.
-    ^233/233<num>$ ^Food/*Food$	; Food.
-    ^233/233<num>$ ^faccata/*faccata$		; 	FACADE (f)	; facade.
-    ^233/233<num>$ ^Esklussiva/*Esklussiva$	; Exclusive.
-    ^233/233<num>$ ^dwarha/*dwarha$	; about.
-    ^233/233<num>$ ^Ambulanzi/*Ambulanzi$	; Ambulances.
-    ^232/232<num>$ ^weraq/*weraq$		; 	FOLIAGE 	; leaves.
-    ^232/232<num>$ ^spara/*spara$	; shot.
-    ^232/232<num>$ ^serjeta/*serjeta$	; seriously.
-    ^232/232<num>$ ^riżenja/*riżenja$	; resignation.
-    ^232/232<num>$ ^rappreżentanti/*rappreżentanti$	; representatives.
-    ^232/232<num>$ ^kummerċ/*kummerċ$	; trade.
-    ^232/232<num>$ ^inqatel/*inqatel$	; killed.
-    ^232/232<num>$ ^fama/*fama$		; 	REPUTATION (f)	; fame.
-    ^232/232<num>$ ^Cachia/*Cachia$	; Cachia.
-    ^231/231<num>$ ^wasslet/*wasslet$	; led.
-    ^231/231<num>$ ^unions/*unions$	; unions.
-    ^231/231<num>$ ^Sensiela/*Sensiela$	; Series.
-    ^231/231<num>$ ^Saltna/*Saltna$		; 	REIGN (f)	; Kingdom.
-    ^231/231<num>$ ^pari/*pari$	; pairs.
-    ^231/231<num>$ ^nerġgħu/*nerġgħu$	; again.
-    ^231/231<num>$ ^mexa/*mexa$	; progressed.
-    ^231/231<num>$ ^korla/*korla$		; 	WRATH (f)	; wrath.
-    ^231/231<num>$ ^kas/*kas$	; account.
-    ^231/231<num>$ ^jiftakar/*jiftakar$	; remembers.
-    ^231/231<num>$ ^hati/*hati$		; 	CULPRIT (m)	; guilty.
-    ^231/231<num>$ ^gieli/*gieli$	; Have you ever.
-    ^231/231<num>$ ^comments/*comments$	; comments.
-    ^230/230<num>$ ^żuffjettuż/*żuffjettuż$	; żuffjettuż.
-    ^230/230<num>$ ^spirtu/*spirtu$		; 	WIT (m)	; spirit.
-    ^230/230<num>$ ^Speaker/*Speaker$	; Speaker.
-    ^230/230<num>$ ^so/*so$	; so.
-    ^230/230<num>$ ^reċenti/*reċenti$	; recent.
-    ^230/230<num>$ ^quċċata/*quċċata$	; top.
-    ^230/230<num>$ ^niżel/*niżel$	; dropped.
-    ^230/230<num>$ ^neqsin/*neqsin$	; missing.
-    ^230/230<num>$ ^Kmandant/*Kmandant$	; Commander.
-    ^230/230<num>$ ^haqq/*haqq$		; 	MERIT (m)	; Fairness.
-    ^230/230<num>$ ^ġlied/*ġlied$		; 	DISCORD (m)	; fighting.
-    ^230/230<num>$ ^difiża/*difiża$		; 	DEFENCE (f)	; defense.
-    ^229/229<num>$ ^xoghlijiet/*xoghlijiet$	; tasks.
-    ^229/229<num>$ ^semifinali/*semifinali$	; semifinals.
-    ^229/229<num>$ ^realta/*realta$	; reality.
-    ^229/229<num>$ ^nghataw/*nghataw$	; granted.
-    ^229/229<num>$ ^lanca/*lanca$	; ferry.
-    ^229/229<num>$ ^Furjana/*Furjana$	; Floriana.
-    ^229/229<num>$ ^divertiment/*divertiment$		; 	RECREATION (m)	; entertainment.
-    ^229/229<num>$ ^binha/*binha$	; son.
-    ^229/229<num>$ ^appogg/*appogg$		; 	SUPPORT (m)	; support.
-    ^228/228<num>$ ^zball/*zball$		; 	MISTAKE (m)	; error.
-    ^228/228<num>$ ^thares/*thares$	; comply.
-    ^228/228<num>$ ^Stejjer/*Stejjer$	; Stories.
-    ^228/228<num>$ ^Serq/*Serq$		; 	THEFT (m)	; Theft.
-    ^228/228<num>$ ^sagrificcji/*sagrificcji$	; sacrifices.
-    ^228/228<num>$ ^RSS/*RSS$	; RSS.
-    ^228/228<num>$ ^Qaddis/*Qaddis$		; 	HOLY 	; Holy.
-    ^228/228<num>$ ^più/*più$	; pius.
-    ^228/228<num>$ ^oggetti/*oggetti$	; items.
-    ^228/228<num>$ ^jistghux/*jistghux$	; can.
-    ^228/228<num>$ ^ħerba/*ħerba$	; ravage.
-    ^228/228<num>$ ^donnhom/*donnhom$	; appear.
-    ^227/227<num>$ ^Zarb/*Zarb$	; Zarb.
+adj    ^239/239<num>$ ^informati/*informati$	; informed.
+v    ^239/239<num>$ ^denbu/*denbu$	; tailed.
+?    ^238/238<num>$ ^Testment/*Testment$	; Testament.
+adj    ^238/238<num>$ ^rnexxielu/*rnexxielu$	; managed.
+n    ^238/238<num>$ ^Merill/*Merill$		; 	THRUSH (m)	; Merill.
+v    ^238/238<num>$ ^jeżisti/*jeżisti$	; exists.
+v    ^238/238<num>$ ^imut/*imut$	; dies.
+n    ^237/237<num>$ ^turiżmu/*turiżmu$	; tourism.
+n    ^237/237<num>$ ^riżorsi/*riżorsi$	; resources.
+o    ^236/236<num>$ ^xiħaġa/*xiħaġa$	; anything.
+v    ^236/236<num>$ ^salvatagg/*salvatagg$	; rescue.
+n    ^236/236<num>$ ^rabja/*rabja$	; anger.
+v    ^236/236<num>$ ^jilqa/*jilqa$	; welcome.
+?    ^236/236<num>$ ^hits/*hits$	; hits.
+n    ^236/236<num>$ ^bejgħ/*bejgħ$		; 	SALE (m)	; sales.
+n    ^236/236<num>$ ^aptit/*aptit$		; 	APPETITE (m)	; appetite.
+adj    ^235/235<num>$ ^Xandir/*Xandir$	; Broadcasting.
+n    ^235/235<num>$ ^saħħtu/*saħħtu$	; health.
+n    ^235/235<num>$ ^restawr/*restawr$	; restoration.
+v    ^235/235<num>$ ^nghata/*nghata$	; was given.
+n    ^235/235<num>$ ^kejl/*kejl$	; measurements.
+n    ^235/235<num>$ ^kantuniera/*kantuniera$		; 	CORNER (f)	; corner.
+v    ^235/235<num>$ ^jinghad/*jinghad$	; stated.
+n    ^235/235<num>$ ^gvernijiet/*gvernijiet$	; governments.
+n    ^235/235<num>$ ^Ġużè/*Ġużè$	; Answer.
+adj    ^235/235<num>$ ^biswit/*biswit$	; opposite.
+n    ^234/234<num>$ ^Satana/*Satana$		; 	SATAN (m)	; Satan.
+n    ^234/234<num>$ ^reġjun/*reġjun$		; 	REGION (m)	; region.
+v    ^234/234<num>$ ^Nittama/*Nittama$	; I hope.
+v    ^234/234<num>$ ^niltaqa/*niltaqa$	; meet.
+adv    ^234/234<num>$ ^madankollu/*madankollu$		; 	HOWEVER 	; however.
+v    ^234/234<num>$ ^jinzamm/*jinzamm$	; kept.
+n    ^234/234<num>$ ^Inkjesta/*Inkjesta$		; 	INQUEST (f)	; Inquiry.
+v    ^233/233<num>$ ^wasalna/*wasalna$	; we arrived.
+?    ^233/233<num>$ ^ti/*ti$	; ti.
+v    ^233/233<num>$ ^nasal/*nasal$	; I come.
+v    ^233/233<num>$ ^naħsibx/*naħsibx$	; think.
+n    ^233/233<num>$ ^mistrieħ/*mistrieħ$		; 	REST (m)	; rest.
+n    ^233/233<num>$ ^Korriment/*Korriment$		; 	MISCARRIAGE (m)	; Injury.
+?    ^233/233<num>$ ^Food/*Food$	; Food.
+n    ^233/233<num>$ ^faccata/*faccata$		; 	FACADE (f)	; facade.
+adj    ^233/233<num>$ ^Esklussiva/*Esklussiva$	; Exclusive.
+o    ^233/233<num>$ ^dwarha/*dwarha$	; about.
+n    ^233/233<num>$ ^Ambulanzi/*Ambulanzi$	; Ambulances.
+v    ^232/232<num>$ ^weraq/*weraq$		; 	FOLIAGE 	; leaves.
+v    ^232/232<num>$ ^spara/*spara$	; shot.
+adv    ^232/232<num>$ ^serjeta/*serjeta$	; seriously.
+n    ^232/232<num>$ ^riżenja/*riżenja$	; resignation.
+n    ^232/232<num>$ ^rappreżentanti/*rappreżentanti$	; representatives.
+n    ^232/232<num>$ ^kummerċ/*kummerċ$	; trade.
+v    ^232/232<num>$ ^inqatel/*inqatel$	; killed.
+n    ^232/232<num>$ ^fama/*fama$		; 	REPUTATION (f)	; fame.
+?    ^232/232<num>$ ^Cachia/*Cachia$	; Cachia.
+adj    ^231/231<num>$ ^wasslet/*wasslet$	; led.
+?    ^231/231<num>$ ^unions/*unions$	; unions.
+n    ^231/231<num>$ ^Sensiela/*Sensiela$	; Series.
+n    ^231/231<num>$ ^Saltna/*Saltna$		; 	REIGN (f)	; Kingdom.
+n    ^231/231<num>$ ^pari/*pari$	; pairs.
+adv    ^231/231<num>$ ^nerġgħu/*nerġgħu$	; again.
+v    ^231/231<num>$ ^mexa/*mexa$	; progressed.
+n    ^231/231<num>$ ^korla/*korla$		; 	WRATH (f)	; wrath.
+n    ^231/231<num>$ ^kas/*kas$	; account.
+v    ^231/231<num>$ ^jiftakar/*jiftakar$	; remembers.
+n    ^231/231<num>$ ^hati/*hati$		; 	CULPRIT (m)	; guilty.
+o    ^231/231<num>$ ^gieli/*gieli$	; Have you ever.
+?    ^231/231<num>$ ^comments/*comments$	; comments.
+?    ^230/230<num>$ ^żuffjettuż/*żuffjettuż$	; żuffjettuż.
+n    ^230/230<num>$ ^spirtu/*spirtu$		; 	WIT (m)	; spirit.
+?    ^230/230<num>$ ^Speaker/*Speaker$	; Speaker.
+?    ^230/230<num>$ ^so/*so$	; so.
+adj    ^230/230<num>$ ^reċenti/*reċenti$	; recent.
+adj    ^230/230<num>$ ^quċċata/*quċċata$	; top.
+v    ^230/230<num>$ ^niżel/*niżel$	; dropped.
+v    ^230/230<num>$ ^neqsin/*neqsin$	; missing.
+n    ^230/230<num>$ ^Kmandant/*Kmandant$	; Commander.
+n    ^230/230<num>$ ^haqq/*haqq$		; 	MERIT (m)	; Fairness.
+n    ^230/230<num>$ ^ġlied/*ġlied$		; 	DISCORD (m)	; fighting.
+n    ^230/230<num>$ ^difiża/*difiża$		; 	DEFENCE (f)	; defense.
+n    ^229/229<num>$ ^xoghlijiet/*xoghlijiet$	; tasks.
+n    ^229/229<num>$ ^semifinali/*semifinali$	; semifinals.
+n    ^229/229<num>$ ^realta/*realta$	; reality.
+v    ^229/229<num>$ ^nghataw/*nghataw$	; granted.
+n    ^229/229<num>$ ^lanca/*lanca$	; ferry.
+n    ^229/229<num>$ ^Furjana/*Furjana$	; Floriana.
+n    ^229/229<num>$ ^divertiment/*divertiment$		; 	RECREATION (m)	; entertainment.
+n    ^229/229<num>$ ^binha/*binha$	; son.
+n    ^229/229<num>$ ^appogg/*appogg$		; 	SUPPORT (m)	; support.
+n    ^228/228<num>$ ^zball/*zball$		; 	MISTAKE (m)	; error.
+v    ^228/228<num>$ ^thares/*thares$	; comply.
+n    ^228/228<num>$ ^Stejjer/*Stejjer$	; Stories.
+n    ^228/228<num>$ ^Serq/*Serq$		; 	THEFT (m)	; Theft.
+v    ^228/228<num>$ ^sagrificcji/*sagrificcji$	; sacrifices.
+?    ^228/228<num>$ ^RSS/*RSS$	; RSS.
+adj    ^228/228<num>$ ^Qaddis/*Qaddis$		; 	HOLY 	; Holy.
+?    ^228/228<num>$ ^più/*più$	; pius.
+n    ^228/228<num>$ ^oggetti/*oggetti$	; items.
+v    ^228/228<num>$ ^jistghux/*jistghux$	; can.
+v    ^228/228<num>$ ^ħerba/*ħerba$	; ravage.
+v    ^228/228<num>$ ^donnhom/*donnhom$	; appear.
+?    ^227/227<num>$ ^Zarb/*Zarb$	; Zarb.
     ^227/227<num>$ ^Vassalli/*Vassalli$	; Vassalli.
     ^227/227<num>$ ^Protesta/*Protesta$	; Protest.
     ^227/227<num>$ ^pistola/*pistola$		; 	REVOLVER (f)	; gun.
