@@ -12,6 +12,7 @@
     <sdef n="pr"          c="Preposition"/>
     <sdef n="rel"         c="Relative"/>
     <sdef n="adv"         c="Adverb"/>
+    <sdef n="cnjadv"       c="Adverbial conjunction"/>
     <sdef n="abbr"        c="Abbreviation"/>
     <sdef n="adj"         c="Adjective"/>
     <sdef n="cnjcoo"      c="Co-ordinating conjunction"/>
@@ -130,6 +131,10 @@
 
     <pardef n="immedjatament__adv">
       <e><p><l/><r><s n="adv"/></r></p></e>
+    </pardef>
+
+    <pardef n="filwaqt__cnjadv">
+      <e><p><l/><r><s n="cnjadv"/></r></p></e>
     </pardef>
 
     <!-- SECTION: Prepositions -->
@@ -4823,6 +4828,7 @@
     <e lm="Odette"><i>Odette</i><par n="Marija__np"/></e>
     <e lm="Josie"><i>Josie</i><par n="Marija__np"/></e>
     <e lm="Ebba"><i>Ebba</i><par n="Marija__np"/></e>
+    <e lm="Franica"><i>Franica</i><par n="Marija__np"/></e>
 
 
     <e lm="Kristu"><i>Kristu</i><par n="Mikiel__np"/></e>
@@ -5742,6 +5748,7 @@
     <e lm="wkoll" r="LR"><p><l>wkoll</l><r>ukoll</r></p><par n="immedjatament__adv"/></e>
     <e lm="llum" c="today"><i>llum</i><par n="immedjatament__adv"/></e>
     <e lm="lum" r="LR"><p><l>lum</l><r>llum</r></p><par n="immedjatament__adv"/></e>
+    <e lm="then" r="allura"><i>allura</i><par n="immedjatament__adv"/></e>
 
     <e lm="hekk"><i>hekk</i><par n="immedjatament__adv"/></e>
     <e lm="biss" c="just"><i>biss</i><par n="immedjatament__adv"/></e>
@@ -5764,6 +5771,8 @@
     <e lm="xorta" c="still, same"><i>xorta</i><par n="immedjatament__adv"/></e>
     <e lm="sew" c="well"><i>sew</i><par n="immedjatament__adv"/></e>
     <e lm="minflok" c="instead"><i>minflok</i><par n="immedjatament__adv"/></e>
+    <e lm="iżjed" c="more"><i>iżjed</i><par n="immedjatament__adv"/></e>
+    <e lm="inqas" c="less"><i>inqas</i><par n="immedjatament__adv"/></e>
 
     <e lm="'l isfel" c="downwards"><i>'l<b/>isfel</i><par n="immedjatament__adv"/></e>
     <e lm="il fuq" c="upwards"><i>il<b/>fuq</i><par n="immedjatament__adv"/></e>
@@ -5807,8 +5816,6 @@
     <e lm="sfortunatament"><i>sfortunatament</i><par n="immedjatament__adv"/></e>
     <e lm="verament"><i>verament</i><par n="immedjatament__adv"/></e>
 
-
-
     <e lm="astronomikament"><i>astronomikament</i><par n="immedjatament__adv"/></e>
     <e lm="direttament"><i>direttament</i><par n="immedjatament__adv"/></e>
     <e lm="assolutament"><i>assolutament</i><par n="immedjatament__adv"/></e>
@@ -5842,6 +5849,8 @@
     <e lm="xjentifikament"><i>xjentifikament</i><par n="immedjatament__adv"/></e>
 
     <e lm="hekk u hekk"><i>hekk<b/>u<b/>hekk</i><par n="immedjatament__adv"/></e>
+
+    <e lm="filwaqt" c="while"><i>filwaqt</i><par n="filwaqt__cnjadv"/></e>
 
     <!-- SECTION: Adjectives -->
 
