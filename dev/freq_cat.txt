@@ -598,406 +598,406 @@ v    ^552/552<num>$ ^immur/*immur$	; go.
 n    ^552/552<num>$ ^ċans/*ċans$	; chance.
 n    ^551/551<num>$ ^mard/*mard$	; disease.
 v    ^551/551<num>$ ^jimxi/*jimxi$	; move.
-    ^551/551<num>$ ^jerga/*jerga$	; again.	; jerġa' = ~repeat+sg3+m
-    ^551/551<num>$ ^Hamis/*Hamis$	; Thursday.
-    ^550/550<num>$ ^spiċċa/*spiċċa$	; ended.
-    ^549/549<num>$ ^toħroġ/*toħroġ$	; come.
-    ^548/548<num>$ ^qalilna/*qalilna$	; told us.
+adv    ^551/551<num>$ ^jerga/*jerga$	; again.
+n    ^551/551<num>$ ^Hamis/*Hamis$	; Thursday.
+v    ^550/550<num>$ ^spiċċa/*spiċċa$	; ended.
+v    ^549/549<num>$ ^toħroġ/*toħroġ$	; come.
+v    ^548/548<num>$ ^qalilna/*qalilna$	; told us.
 ?    ^548/548<num>$ ^m/*m$	; m.
-    ^547/547<num>$ ^xellug/*xellug$		; 	LEFT 	; left.
-    ^547/547<num>$ ^rega/*rega$	; again.
-    ^546/546<num>$ ^inħawi/*inħawi$		; 	WHEREABOUTS 	; surroundings.
-    ^545/545<num>$ ^għaddiet/*għaddiet$	; passed.
-    ^545/545<num>$ ^Droga/*Droga$	; Drug.
+n    ^547/547<num>$ ^xellug/*xellug$		; 	LEFT 	; left.
+adv    ^547/547<num>$ ^rega/*rega$	; again.
+n    ^546/546<num>$ ^inħawi/*inħawi$		; 	WHEREABOUTS 	; surroundings.
+v    ^545/545<num>$ ^għaddiet/*għaddiet$	; passed.
+n    ^545/545<num>$ ^Droga/*Droga$	; Drug.
 ?    ^544/544<num>$ ^na/*na$	; na.
-    ^544/544<num>$ ^ghaddew/*ghaddew$	; passed.
+v    ^544/544<num>$ ^ghaddew/*ghaddew$	; passed.
 ?    ^542/542<num>$ ^picture/*picture$	; picture.
-    ^542/542<num>$ ^ġenituri/*ġenituri$		; 	PARENTS 	; parents.
-    ^541/541<num>$ ^issib/*issib$	; find.
+n    ^542/542<num>$ ^ġenituri/*ġenituri$		; 	PARENTS 	; parents.
+v    ^541/541<num>$ ^issib/*issib$	; find.
 n    ^540/540<num>$ ^vjolenza/*vjolenza$		; 	VIOLENCE (f)	; violence.
-    ^539/539<num>$ ^tibdil/*tibdil$	; changes.
-    ^539/539<num>$ ^mingħand/*mingħand$	; from.
-    ^539/539<num>$ ^jistennew/*jistennew$	; expect.
-    ^539/539<num>$ ^Anzi/*Anzi$	; Quite.
-    ^538/538<num>$ ^mmur/*mmur$	; go.
-    ^537/537<num>$ ^Santu/*Santu$	; Holy.
-    ^536/536<num>$ ^jidhlu/*jidhlu$	; enter.
-    ^536/536<num>$ ^Gravatar/*Gravatar$	; Gravatar.
+v    ^539/539<num>$ ^tibdil/*tibdil$	; changes.
+o    ^539/539<num>$ ^mingħand/*mingħand$	; from.
+v    ^539/539<num>$ ^jistennew/*jistennew$	; expect.
+adv    ^539/539<num>$ ^Anzi/*Anzi$	; Quite.
+v    ^538/538<num>$ ^mmur/*mmur$	; go.
+adj    ^537/537<num>$ ^Santu/*Santu$	; Holy.
+v    ^536/536<num>$ ^jidhlu/*jidhlu$	; enter.
+?    ^536/536<num>$ ^Gravatar/*Gravatar$	; Gravatar.
 ?    ^536/536<num>$ ^Connecting/*Connecting$	; Connecting.
 ?    ^535/535<num>$ ^Unit/*Unit$	; Unit.
-    ^535/535<num>$ ^jaqra/*jaqra$	; read.
-    ^535/535<num>$ ^Bibbja/*Bibbja$		; 	BIBLE (f)	; Bible.
-    ^534/534<num>$ ^lilna/*lilna$		; 	US 	; us.
-    ^533/533<num>$ ^żminijiet/*żminijiet$	; times.
-    ^533/533<num>$ ^lemin/*lemin$	; right.
-    ^533/533<num>$ ^jaqa/*jaqa$	; fall.
-    ^532/532<num>$ ^kriżi/*kriżi$		; 	CRISIS (f)	; crisis.
-    ^531/531<num>$ ^liġijiet/*liġijiet$	; laws.
-    ^530/530<num>$ ^żejt/*żejt$		; 	OIL (m)	; oil.
-    ^530/530<num>$ ^inbid/*inbid$		; 	WINE (m)	; wine.
-    ^529/529<num>$ ^joqghod/*joqghod$	; stand.
-    ^528/528<num>$ ^nifhem/*nifhem$	; I understand.
+v    ^535/535<num>$ ^jaqra/*jaqra$	; read.
+n    ^535/535<num>$ ^Bibbja/*Bibbja$		; 	BIBLE (f)	; Bible.
+o    ^534/534<num>$ ^lilna/*lilna$		; 	US 	; us.
+n    ^533/533<num>$ ^żminijiet/*żminijiet$	; times.
+n    ^533/533<num>$ ^lemin/*lemin$	; right.
+v    ^533/533<num>$ ^jaqa/*jaqa$	; fall.
+n    ^532/532<num>$ ^kriżi/*kriżi$		; 	CRISIS (f)	; crisis.
+n    ^531/531<num>$ ^liġijiet/*liġijiet$	; laws.
+n    ^530/530<num>$ ^żejt/*żejt$		; 	OIL (m)	; oil.
+n    ^530/530<num>$ ^inbid/*inbid$		; 	WINE (m)	; wine.
+v    ^529/529<num>$ ^joqghod/*joqghod$	; stand.
+v    ^528/528<num>$ ^nifhem/*nifhem$	; I understand.
 n    ^527/527<num>$ ^prova/*prova$		; 	TRY (f)	; trial.
-    ^527/527<num>$ ^c/*c$	; c.
+n    ^527/527<num>$ ^c/*c$	; c.
 n    ^526/526<num>$ ^Katidral/*Katidral$	; Cathedral.
-    ^526/526<num>$ ^jibqghu/*jibqghu$	; remain.
-    ^526/526<num>$ ^aħbar/*aħbar$	; news.
-    ^526/526<num>$ ^Adami/*Adami$	; Adami.
-    ^525/525<num>$ ^the/*the$	; -the.
-    ^525/525<num>$ ^genituri/*genituri$		; 	PARENTS 	; parents.
-    ^524/524<num>$ ^nibqa/*nibqa$	; stay.
-    ^524/524<num>$ ^New/*New$	; New.
-    ^523/523<num>$ ^marbuta/*marbuta$	; bound.
-    ^522/522<num>$ ^marbut/*marbut$	; bound.
-    ^522/522<num>$ ^kowċ/*kowċ$	; coach.
-    ^522/522<num>$ ^http/*http$^:/:<sent>$	; http.
-    ^522/522<num>$ ^arma/*arma$		; 	WEAPON (f)	; weapon.
-    ^521/521<num>$ ^qaddisa/*qaddisa$	; holy.
-    ^521/521<num>$ ^nerġa/*nerġa$	; again.
-    ^521/521<num>$ ^hinn/*hinn$	; away.
-    ^519/519<num>$ ^t/*t$	; t.
-    ^519/519<num>$ ^qaluli/*qaluli$	; I was told.
-    ^519/519<num>$ ^ji/*ji$	; ji.
-    ^519/519<num>$ ^fażi/*fażi$	; phase.
-    ^517/517<num>$ ^nistghu/*nistghu$	; we can.
-    ^517/517<num>$ ^idejhom/*idejhom$	; hands.
-    ^516/516<num>$ ^twemmin/*twemmin$		; 	FAITH (m)	; beliefs.
-    ^515/515<num>$ ^Kastilja/*Kastilja$	; Castille.
-    ^513/513<num>$ ^tidħol/*tidħol$	; enter.
-    ^513/513<num>$ ^jingħad/*jingħad$	; said.
-    ^512/512<num>$ ^ka/*ka$	; ka.
-    ^512/512<num>$ ^jaslu/*jaslu$	; arrive.
-    ^512/512<num>$ ^ġebel/*ġebel$	; stone.
-    ^512/512<num>$ ^cans/*cans$		; 	CHANCE (m)	; chance.
-    ^510/510<num>$ ^jghixu/*jghixu$	; live.
-    ^509/509<num>$ ^url/*url$	; url.
-    ^509/509<num>$ ^mmexxi/*mmexxi$	; run.
-    ^509/509<num>$ ^hajtu/*hajtu$	; executed.
-    ^508/508<num>$ ^twassal/*twassal$	; leads.
-    ^508/508<num>$ ^mhu/*mhu$	; is not.
-    ^507/507<num>$ ^żwieġ/*żwieġ$		; 	WEDDING (m)	; marriage.
-    ^507/507<num>$ ^with/*with$	; with.
-    ^507/507<num>$ ^sostna/*sostna$		; 	SUPPORT 	; claimed.
-    ^507/507<num>$ ^haj/*haj$		; 	VIVID 	; live.
-    ^507/507<num>$ ^ajru/*ajru$	; air.
-    ^506/506<num>$ ^THE/*THE$	; THE.
-    ^505/505<num>$ ^Ghalkemm/*Ghalkemm$		; 	THOUGH 	; Although.
-    ^505/505<num>$ ^cool/*cool$	; cool.
-    ^505/505<num>$ ^apparat/*apparat$	; device.
-    ^505/505<num>$ ^Apk/*Apk$	; APK.
-    ^503/503<num>$ ^th/*th$	; th.
-    ^502/502<num>$ ^kontroll/*kontroll$		; 	CONTROL (m)	; control.
-    ^502/502<num>$ ^inkwiet/*inkwiet$		; 	WORRY (m)	; trouble.
-    ^502/502<num>$ ^ghadha/*ghadha$	; yet.
-    ^501/501<num>$ ^email/*email$	; email.
-    ^500/500<num>$ ^kotra/*kotra$		; 	CROWD (f)	; masse.
-    ^500/500<num>$ ^Ġuda/*Ġuda$	; Judas.
-    ^499/499<num>$ ^strike/*strike$	; strike.
-    ^499/499<num>$ ^seħħ/*seħħ$		; 	SUCCESS (m)	; force.
-    ^498/498<num>$ ^wirt/*wirt$		; 	HERITAGE (m)	; heritage.
-    ^498/498<num>$ ^minbarra/*minbarra$	; besides.
-    ^497/497<num>$ ^rebħu/*rebħu$	; won.
-    ^497/497<num>$ ^Pisani/*Pisani$	; Pisani.
-    ^497/497<num>$ ^kuntest/*kuntest$	; context.
-    ^497/497<num>$ ^joffri/*joffri$	; offers.
-    ^497/497<num>$ ^Dalli/*Dalli$	; Dalli.
-    ^496/496<num>$ ^Mon/*Mon$	; Mon.
-    ^496/496<num>$ ^ilkoll/*ilkoll$		; 	ALL 	; all.
-    ^496/496<num>$ ^ħażen/*ħażen$		; 	MISCHIEF (m)	; evil.
-    ^495/495<num>$ ^Set/*Set$	; September
-    ^495/495<num>$ ^allat/*allat$	; gods.
-    ^494/494<num>$ ^għajnejn/*għajnejn$	; eyes.
-    ^493/493<num>$ ^stil/*stil$		; 	STYLE (m)	; style.
-    ^493/493<num>$ ^Hawnhekk/*Hawnhekk$	; Here.
-    ^493/493<num>$ ^grin/*grin$	; grin.
-    ^493/493<num>$ ^bqajt/*bqajt$	; I continued.
-    ^492/492<num>$ ^Renju/*Renju$		; 	REIGN (m)	; Kingdom.
-    ^491/491<num>$ ^sagrificcju/*sagrificcju$		; 	SACRIFICE (m)	; sacrifice.
-    ^491/491<num>$ ^johorgu/*johorgu$	; arising.
-    ^490/490<num>$ ^messagg/*messagg$		; 	MESSAGE (m)	; message.
-    ^489/489<num>$ ^tahrig/*tahrig$		; 	PRACTICE (m)	; training.
-    ^489/489<num>$ ^joħorġu/*joħorġu$	; issue.
-    ^488/488<num>$ ^infushom/*infushom$	; themselves.
-    ^488/488<num>$   *	; .
-    ^487/487<num>$ ^v/*v$	; v.
-    ^487/487<num>$ ^gejjin/*gejjin$	; following.
-    ^487/487<num>$ ^cry/*cry$	; cry.
-    ^487/487<num>$ ^busy/*busy$	; busy.
-    ^486/486<num>$ ^tongue/*tongue$	; tongue.
-    ^486/486<num>$ ^suġġett/*suġġett$		; 	TOPIC (m)	; subject.
-    ^486/486<num>$ ^piż/*piż$		; 	WEIGHT (m)	; weight.
-    ^486/486<num>$ ^jingħata/*jingħata$	; given.
-    ^484/484<num>$ ^stqarr/*stqarr$		; 	STATE 	; said.
-    ^484/484<num>$ ^jaħseb/*jaħseb$	; think.
-    ^484/484<num>$ ^ħabs/*ħabs$		; 	PRISON (m)	; prison.
-    ^483/483<num>$ ^tort/*tort$		; 	BLAME (m)	; fault.
-    ^483/483<num>$ ^laugh/*laugh$	; laugh.
-    ^482/482<num>$ ^responsabbiltà/*responsabbiltà$	; responsibility.
-    ^482/482<num>$ ^kiss/*kiss$	; kiss.
-    ^482/482<num>$ ^Fri/*Fri$	; Fri.
-    ^481/481<num>$ ^Top/*Top$	; Top.
-    ^481/481<num>$ ^stajt/*stajt$	; ve.
-    ^481/481<num>$ ^sad/*sad$	; up.
-    ^481/481<num>$ ^ħarġu/*ħarġu$	; emerged.
-    ^481/481<num>$ ^Assisi/*Assisi$	; Assisi.
-    ^480/480<num>$ ^ruħi/*ruħi$	; myself.
-    ^480/480<num>$ ^Laburisti/*Laburisti$	; Labour.
-    ^480/480<num>$ ^jinghata/*jinghata$	; given.
-    ^480/480<num>$ ^ġimgħat/*ġimgħat$	; weeks.
-    ^480/480<num>$ ^favorite/*favorite$	; favorite.
-    ^480/480<num>$ ^bigger/*bigger$	; Bigger.
-    ^479/479<num>$ ^smile/*smile$	; smile.
-    ^479/479<num>$ ^Carmel/*Carmel$	; Caramel.
-    ^479/479<num>$ ^bold/*bold$	; bold.
-    ^479/479<num>$ ^baqghet/*baqghet$	; remained.
-    ^478/478<num>$ ^Zid/*Zid$	; Add.
-    ^478/478<num>$ ^wink/*wink$	; wink.
-    ^478/478<num>$ ^underline/*underline$	; underline.
-    ^478/478<num>$ ^Tue/*Tue$	; Tue.
-    ^478/478<num>$ ^Thu/*Thu$	; Thu.
-    ^478/478<num>$ ^smaller/*smaller$	; smaller.
-    ^478/478<num>$ ^shocked/*shocked$	; shocked.
-    ^478/478<num>$ ^quddiemu/*quddiemu$	; before.
-    ^478/478<num>$ ^italicize/*italicize$	; italicize.
-    ^478/478<num>$ ^istrixxiklu/*istrixxiklu$	; istrixxiklu.
-    ^478/478<num>$ ^angry/*angry$	; angry.
-    ^477/477<num>$ ^Kordin/*Kordin$	; Corradino.
-    ^476/476<num>$ ^Filwaqt/*Filwaqt$	; Bearing.
-    ^475/475<num>$ ^Wed/*Wed$	; Wed.
-    ^475/475<num>$ ^teatru/*teatru$		; 	THEATER (m)	; theater.
-    ^475/475<num>$ ^Share/*Share$	; Share.
-    ^475/475<num>$ ^Portelli/*Portelli$	; Portelli.
-    ^475/475<num>$ ^anzjani/*anzjani$	; older.
-    ^474/474<num>$ ^Aquilina/*Aquilina$	; Aquilina.
-    ^473/473<num>$ ^ħlas/*ħlas$		; 	TOLL (m)	; payment.
-    ^473/473<num>$ ^dell/*dell$		; 	SHADE (m)	; shade.
-    ^472/472<num>$ ^Scerri/*Scerri$	; Scerri.
-    ^472/472<num>$ ^qam/*qam$	; arose.
-    ^472/472<num>$ ^isib/*isib$	; finds.
-    ^472/472<num>$ ^hsara/*hsara$		; 	MISCHIEF (f)	; damage.
-    ^470/470<num>$ ^bibien/*bibien$	; doors.
-    ^470/470<num>$ ^Art/*Art$		; 	SOIL (f)	; Art.
-    ^469/469<num>$ ^uħud/*uħud$	; some.
-    ^469/469<num>$ ^studenti/*studenti$	; students.
-    ^469/469<num>$ ^May/*May$	; May.
-    ^469/469<num>$ ^komplew/*komplew$	; continued.
-    ^469/469<num>$ ^immexxija/*immexxija$	; conducted.
-    ^469/469<num>$ ^baqgħet/*baqgħet$	; remained.
-    ^467/467<num>$ ^nirien/*nirien$	; fires.
-    ^467/467<num>$ ^mijiet/*mijiet$	; hundreds.
-    ^467/467<num>$ ^agħar/*agħar$		; 	WORSE 	; worse.
-    ^466/466<num>$ ^Skont/*Skont$		; 	REDUCTION (m)	; Discount.
-    ^466/466<num>$ ^nett/*nett$	; net.
-    ^466/466<num>$ ^grawnd/*grawnd$		; 	PLAYGROUND (m)	; stadium.
-    ^466/466<num>$ ^għaddew/*għaddew$	; passed.
-    ^465/465<num>$ ^kullimkien/*kullimkien$		; 	EVERYWHERE 	; everywhere.
-    ^464/464<num>$ ^jgħaddu/*jgħaddu$	; pass.
-    ^462/462<num>$ ^ex/*ex$	; ex.
-    ^462/462<num>$ ^be/*be$	; be.
-    ^461/461<num>$ ^muntanji/*muntanji$	; mountains.
-    ^461/461<num>$ ^jismu/*jismu$	; named.
-    ^460/460<num>$ ^rebaħ/*rebaħ$		; 	VANQUISH 	; won.
-    ^460/460<num>$ ^maġġoranza/*maġġoranza$	; majority.
-    ^460/460<num>$ ^Libja/*Libja$	; Libya.
-    ^460/460<num>$ ^deni/*deni$		; 	HARM (m)	; fever.
-    ^460/460<num>$ ^Dakinhar/*Dakinhar$	; Then.
-    ^459/459<num>$ ^hsarat/*hsarat$	; faults.
-    ^459/459<num>$ ^Fatalita/*Fatalita$	; Fatality.
-    ^458/458<num>$ ^self/*self$		; 	LOAN (m)	; self.
-    ^457/457<num>$ ^ssib/*ssib$	; find.
-    ^457/457<num>$ ^nisel/*nisel$		; 	ROOT (m)	; lineage.
-    ^457/457<num>$ ^Maltese/*Maltese$	; Maltese.
-    ^457/457<num>$ ^ewlenin/*ewlenin$	; key.
-    ^457/457<num>$ ^demokrazija/*demokrazija$	; democracy.
-    ^457/457<num>$ ^apparti/*apparti$	; apart.
-    ^456/456<num>$ ^sentenza/*sentenza$		; 	SENTENCE (f)	; sentence.
-    ^456/456<num>$ ^nibdew/*nibdew$	; start.
-    ^456/456<num>$ ^marda/*marda$		; 	SICKNESS (f)	; disease.
-    ^456/456<num>$ ^instab/*instab$	; found.
-    ^455/455<num>$ ^whud/*whud$	; people.
-    ^455/455<num>$ ^isport/*isport$	; sport.
-    ^455/455<num>$ ^December/*December$	; December.
-    ^454/454<num>$ ^wassal/*wassal$		; 	REACH 	; led.
-    ^454/454<num>$ ^setghu/*setghu$	; could.
-    ^453/453<num>$ ^qarrej/*qarrej$	; reader.
-    ^453/453<num>$ ^non/*non$	; non.
-    ^453/453<num>$ ^mil/*mil$		; 	MILE (m)	; mil.
-    ^452/452<num>$ ^mhuwiex/*mhuwiex$	; not.
-    ^452/452<num>$ ^Ewkaristija/*Ewkaristija$	; Eucharist.
-    ^452/452<num>$ ^dettalji/*dettalji$	; details.
-    ^451/451<num>$ ^website/*website$	; website.
-    ^451/451<num>$ ^Pont/*Pont$		; 	DOT (m)	; Pont.
-    ^451/451<num>$ ^mexxejja/*mexxejja$	; leaders.
-    ^451/451<num>$ ^kompliet/*kompliet$	; continued.
-    ^451/451<num>$ ^Enemalta/*Enemalta$	; Enemalta.
-    ^450/450<num>$ ^qarrejja/*qarrejja$	; readers.
-    ^450/450<num>$ ^ghazla/*ghazla$		; 	OPTION (f)	; choice.
-    ^450/450<num>$ ^dnubiet/*dnubiet$	; sins.
-    ^449/449<num>$ ^Frontex/*Frontex$	; Frontex.
-    ^449/449<num>$ ^Centru/*Centru$		; 	DOWNTOWN (m)	; Centre.
-    ^448/448<num>$ ^Portugall/*Portugall$	; Portugal.
-    ^447/447<num>$ ^skip/*skip$	; skip.
-    ^447/447<num>$ ^Falzon/*Falzon$	; Falzon.
-    ^447/447<num>$ ^Egittu/*Egittu$	; Egypt.
-    ^446/446<num>$ ^jsib/*jsib$	; find.
-    ^445/445<num>$ ^baqgħu/*baqgħu$	; remained.
-    ^443/443<num>$ ^mhi/*mhi$	; MHI.
-    ^442/442<num>$ ^sahansitra/*sahansitra$		; 	EVEN 	; even.
-    ^442/442<num>$ ^Quddiesa/*Quddiesa$	; Mass..
-    ^441/441<num>$ ^Sawl/*Sawl$	; Saul.
-    ^441/441<num>$ ^mejtin/*mejtin$	; dead.
-    ^441/441<num>$ ^jitla/*jitla$	; go.
-    ^441/441<num>$ ^jghix/*jghix$	; lives.
-    ^440/440<num>$ ^Pullicino/*Pullicino$	; Pullicino.
-    ^439/439<num>$ ^tidhol/*tidhol$	; enter.
-    ^439/439<num>$ ^ħniena/*ħniena$		; 	MERCY (f)	; mercy.
-    ^438/438<num>$ ^staqsa/*staqsa$	; asked.
-    ^438/438<num>$ ^ħajti/*ħajti$	; my life.
-    ^438/438<num>$ ^għalik/*għalik$	; you.
-    ^438/438<num>$ ^and/*and$	; and.
-    ^437/437<num>$ ^ambulanza/*ambulanza$		; 	AMBULANCE (f)	; ambulance.
-    ^437/437<num>$ ^album/*album$	; album.
-    ^435/435<num>$ ^injam/*injam$		; 	TIMBER (m)	; wood.
-    ^434/434<num>$ ^X/*X$	; X.
-    ^434/434<num>$ ^Surgent/*Surgent$	; Sergeant.
-    ^434/434<num>$ ^jiekol/*jiekol$	; eating.
-    ^434/434<num>$ ^ħarġet/*ħarġet$	; issued.
-    ^434/434<num>$ ^għadna/*għadna$	; still.
-    ^434/434<num>$ ^ġejja/*ġejja$	; following.
-    ^433/433<num>$ ^tħares/*tħares$	; look.
-    ^433/433<num>$ ^Mexxej/*Mexxej$		; 	LEADER (m)	; Leader.
-    ^431/431<num>$ ^kawża/*kawża$		; 	REASON (f)	; cause.
-    ^430/430<num>$ ^ghajnejn/*ghajnejn$	; eyes.
-    ^428/428<num>$ ^uzu/*uzu$		; 	USE (m)	; use.
-    ^427/427<num>$ ^spiċċaw/*spiċċaw$	; ended.
-    ^427/427<num>$ ^hela/*hela$		; 	CONSUME 	; wastage.
-    ^426/426<num>$ ^stejjer/*stejjer$	; stories.
-    ^426/426<num>$ ^moħħi/*moħħi$	; brain.
-    ^425/425<num>$ ^profeta/*profeta$	; prophet.
-    ^425/425<num>$ ^ħaj/*ħaj$		; 	VIVID 	; alive.
-    ^424/424<num>$ ^tifhem/*tifhem$	; understand.
-    ^424/424<num>$ ^preżenza/*preżenza$	; presence.
-    ^424/424<num>$ ^jintervista/*jintervista$	; interview.
-    ^424/424<num>$ ^jieklu/*jieklu$	; eat.
-    ^423/423<num>$ ^riħ/*riħ$		; 	WIND (m)	; wind.
-    ^423/423<num>$ ^propju/*propju$	; own.
-    ^423/423<num>$ ^ngħidlek/*ngħidlek$	; say.
-    ^423/423<num>$ ^jinghataw/*jinghataw$	; given.
-    ^423/423<num>$ ^filgħaxija/*filgħaxija$	; evening.
-    ^422/422<num>$ ^kawza/*kawza$		; 	REASON (f)	; cause.
-    ^422/422<num>$ ^dam/*dam$		; 	LINGER 	; dam.
-    ^421/421<num>$ ^tagħrif/*tagħrif$	; information.
-    ^421/421<num>$ ^Air/*Air$	; Air.
-    ^420/420<num>$ ^kapaci/*kapaci$		; 	VERSATILE 	; able.
-    ^420/420<num>$ ^impjegati/*impjegati$	; employees.
-    ^420/420<num>$ ^ewlieni/*ewlieni$		; 	PRIME 	; key.
-    ^419/419<num>$ ^nzjarji/*nzjarji$	; nzjarji.
-    ^419/419<num>$ ^jimxu/*jimxu$	; walk.
-    ^418/418<num>$ ^vjaġġ/*vjaġġ$		; 	VOYAGE (m)	; trip.
-    ^418/418<num>$ ^paċi/*paċi$	; peace.
-    ^418/418<num>$ ^nifhmu/*nifhmu$	; understand.
-    ^418/418<num>$ ^gimghat/*gimghat$	; weeks.
-    ^417/417<num>$ ^xbieha/*xbieha$		; 	SHAPE (f)	; image.
-    ^417/417<num>$ ^terġa/*terġa$	; again.
-    ^417/417<num>$ ^gżejjer/*gżejjer$	; islands.
-    ^416/416<num>$ ^process/*process$	; process.
-    ^416/416<num>$ ^Hamrun/*Hamrun$	; Hamrun.
-    ^416/416<num>$ ^Buttigieg/*Buttigieg$	; Buttigieg.
-    ^415/415<num>$ ^trab/*trab$		; 	POWDER (m)	; dust.
-    ^415/415<num>$ ^taqra/*taqra$	; read.
-    ^415/415<num>$ ^Sidi/*Sidi$	; Sidi.
-    ^415/415<num>$ ^Monday/*Monday$	; Monday.
-    ^415/415<num>$ ^moħħu/*moħħu$	; brain.
-    ^414/414<num>$ ^jonqos/*jonqos$	; decreases.
-    ^414/414<num>$ ^iniex/*iniex$	; am.
-    ^414/414<num>$ ^bhalissa/*bhalissa$	; currently.
-    ^413/413<num>$ ^ħobż/*ħobż$		; 	BREAD (m)	; bread.
-    ^413/413<num>$ ^esperjenzi/*esperjenzi$	; experiences.
-    ^412/412<num>$ ^Eġittu/*Eġittu$	; Egypt.
-    ^411/411<num>$ ^You/*You$	; You.
-    ^411/411<num>$ ^inhuma/*inhuma$	; stand.
-    ^411/411<num>$ ^appoġġ/*appoġġ$		; 	SUPPORT (m)	; support.
-    ^410/410<num>$ ^residenza/*residenza$	; residence.
-    ^410/410<num>$ ^meqjusa/*meqjusa$	; considered.
-    ^409/409<num>$ ^tal/*tal$	; tal.
-    ^409/409<num>$ ^sofra/*sofra$		; 	UNDERGO 	; suffered.
-    ^409/409<num>$ ^Randan/*Randan$		; 	LENT (m)	; Lent.
-    ^408/408<num>$ ^żieda/*żieda$		; 	SUPPLEMENT (f)	; increase.
-    ^408/408<num>$ ^Mammalia/*Mammalia$	; Mammalia.
-    ^408/408<num>$ ^apposta/*apposta$	; customized.
-    ^407/407<num>$ ^nstab/*nstab$	; found.
-    ^407/407<num>$ ^Neħ/*Neħ$	; Neh.
-    ^407/407<num>$ ^kapijiet/*kapijiet$	; heads.
-    ^407/407<num>$ ^enormi/*enormi$		; 	ENORMOUS 	; enormous.
-    ^407/407<num>$ ^Emergenza/*Emergenza$		; 	EMERGENCY (f)	; Emergency.
-    ^406/406<num>$ ^wied/*wied$		; 	VALLEY (m)	; valley.
-    ^406/406<num>$ ^UnKnoWn/*UnKnoWn$	; Unknown.
-    ^406/406<num>$ ^partikulari/*partikulari$	; particular.
-    ^406/406<num>$ ^filghaxija/*filghaxija$	; evening.
-    ^406/406<num>$ ^è/*è$	; è.
-    ^405/405<num>$ ^wiccu/*wiccu$	; face.
-    ^405/405<num>$ ^tifsira/*tifsira$		; 	SIGNIFICANCE (f)	; meaning.
-    ^405/405<num>$ ^mindu/*mindu$		; 	SINCE 	; since.
-    ^405/405<num>$ ^imexxi/*imexxi$	; abilities.
-    ^405/405<num>$ ^cocktails/*cocktails$	; cocktails.
-    ^405/405<num>$ ^Bertu/*Bertu$	; Bertu.
-    ^404/404<num>$ ^serju/*serju$		; 	SERIOUS 	; seriously.
-    ^404/404<num>$ ^sajjieda/*sajjieda$	; fishermen.
-    ^404/404<num>$ ^maħfra/*maħfra$	; forgiveness.
-    ^404/404<num>$ ^jifhmu/*jifhmu$	; understand.
-    ^403/403<num>$ ^zminijiet/*zminijiet$	; times.
-    ^403/403<num>$ ^Re/*Re$		; 	KING (m)	; Re.
-    ^403/403<num>$ ^ja/*ja$	; ja.
-    ^401/401<num>$ ^tgħaddi/*tgħaddi$	; pass.
-    ^401/401<num>$ ^Older/*Older$	; Older.
-    ^401/401<num>$ ^mistenni/*mistenni$		; 	DUE 	; expected.
-    ^401/401<num>$ ^ċivili/*ċivili$	; civil.
-    ^400/400<num>$ ^Nemmen/*Nemmen$	; I believe.
-    ^400/400<num>$ ^Imbaghad/*Imbaghad$		; 	THEN 	; Then.
-    ^400/400<num>$ ^Diocese/*Diocese$	; Diocese.
-    ^400/400<num>$ ^Bonello/*Bonello$	; Bonello.
-    ^400/400<num>$ ^armi/*armi$	; weapons.
-    ^398/398<num>$ ^hruq/*hruq$	; fire.
-    ^397/397<num>$ ^siġar/*siġar$	; trees.
-    ^397/397<num>$ ^għandniex/*għandniex$	; We should.
-    ^396/396<num>$ ^xorb/*xorb$		; 	BEVERAGE (m)	; drinking.
-    ^396/396<num>$ ^Name/*Name$	; Name.
-    ^395/395<num>$ ^rashom/*rashom$	; employed.
-    ^395/395<num>$ ^ħajr/*ħajr$	; thanks.
-    ^394/394<num>$ ^TV/*TV$	; TV.
-    ^394/394<num>$ ^tingħata/*tingħata$	; given.
-    ^394/394<num>$ ^rasi/*rasi$	; Rasi.
-    ^394/394<num>$ ^gass/*gass$		; 	GAS (m)	; gas.
-    ^393/393<num>$ ^wiegeb/*wiegeb$	; responded.
-    ^393/393<num>$ ^tela/*tela$	; rose.
-    ^393/393<num>$ ^ragun/*ragun$	; are rightly.
-    ^393/393<num>$ ^isibu/*isibu$	; find.
-    ^392/392<num>$ ^Mbaghad/*Mbaghad$	; Then.
-    ^392/392<num>$ ^Festival/*Festival$	; Festival.
-    ^391/391<num>$ ^sejra/*sejra$	; will.
-    ^391/391<num>$ ^militari/*militari$	; military.
-    ^391/391<num>$ ^ġieħ/*ġieħ$		; 	REPUTATION (m)	; tribute.
-    ^390/390<num>$ ^vettura/*vettura$	; vehicle.
-    ^390/390<num>$ ^Libertas/*Libertas$	; Libertas.
-    ^390/390<num>$ ^jeħtieġ/*jeħtieġ$	; needs.
-    ^390/390<num>$ ^ħtieġa/*ħtieġa$		; 	WANT (f)	; need.
-    ^389/389<num>$ ^Theria/*Theria$	; Theria.
-    ^389/389<num>$ ^Popolari/*Popolari$	; People.
-    ^389/389<num>$ ^jiswa/*jiswa$	; worth.
-    ^389/389<num>$ ^ifittxu/*ifittxu$	; looking.
-    ^388/388<num>$ ^Tarzna/*Tarzna$	; Yard.
-    ^388/388<num>$ ^qishom/*qishom$	; like.
-    ^388/388<num>$ ^konferenza/*konferenza$	; conference.
-    ^387/387<num>$ ^said/*said$	; said.
-    ^387/387<num>$ ^ngħixu/*ngħixu$	; live.
-    ^387/387<num>$ ^mifhum/*mifhum$	; understood.
-    ^386/386<num>$ ^rakkont/*rakkont$		; 	STORY (m)	; narration.
-    ^386/386<num>$ ^parroċċa/*parroċċa$	; parish.
-    ^386/386<num>$ ^faċċata/*faċċata$	; facade.
-    ^386/386<num>$ ^About/*About$	; About.
-    ^385/385<num>$ ^qima/*qima$		; 	WORSHIP (f)	; worship.
-    ^385/385<num>$ ^English/*English$	; English.
-    ^385/385<num>$ ^blat/*blat$	; rock.
+v    ^526/526<num>$ ^jibqghu/*jibqghu$	; remain.
+n    ^526/526<num>$ ^aħbar/*aħbar$	; news.
+?    ^526/526<num>$ ^Adami/*Adami$	; Adami.
+?    ^525/525<num>$ ^the/*the$	; -the.
+n    ^525/525<num>$ ^genituri/*genituri$		; 	PARENTS 	; parents.
+v    ^524/524<num>$ ^nibqa/*nibqa$	; stay.
+?    ^524/524<num>$ ^New/*New$	; New.
+v    ^523/523<num>$ ^marbuta/*marbuta$	; bound.
+v    ^522/522<num>$ ^marbut/*marbut$	; bound.
+n    ^522/522<num>$ ^kowċ/*kowċ$	; coach.
+?    ^522/522<num>$ ^http/*http$^:/:<sent>$	; http.
+n    ^522/522<num>$ ^arma/*arma$		; 	WEAPON (f)	; weapon.
+adj    ^521/521<num>$ ^qaddisa/*qaddisa$	; holy.
+adv    ^521/521<num>$ ^nerġa/*nerġa$	; again.
+adv    ^521/521<num>$ ^hinn/*hinn$	; away.
+?    ^519/519<num>$ ^t/*t$	; t.
+v    ^519/519<num>$ ^qaluli/*qaluli$	; I was told.
+?    ^519/519<num>$ ^ji/*ji$	; ji.
+n    ^519/519<num>$ ^fażi/*fażi$	; phase.
+v    ^517/517<num>$ ^nistghu/*nistghu$	; we can.
+n    ^517/517<num>$ ^idejhom/*idejhom$	; hands.
+n    ^516/516<num>$ ^twemmin/*twemmin$		; 	FAITH (m)	; beliefs.
+n    ^515/515<num>$ ^Kastilja/*Kastilja$	; Castille.
+v    ^513/513<num>$ ^tidħol/*tidħol$	; enter.
+v    ^513/513<num>$ ^jingħad/*jingħad$	; said.
+?    ^512/512<num>$ ^ka/*ka$	; ka.
+v    ^512/512<num>$ ^jaslu/*jaslu$	; arrive.
+n    ^512/512<num>$ ^ġebel/*ġebel$	; stone.
+n    ^512/512<num>$ ^cans/*cans$		; 	CHANCE (m)	; chance.
+v    ^510/510<num>$ ^jghixu/*jghixu$	; live.
+?    ^509/509<num>$ ^url/*url$	; url.
+v    ^509/509<num>$ ^mmexxi/*mmexxi$	; run.
+v    ^509/509<num>$ ^hajtu/*hajtu$	; executed.
+n    ^508/508<num>$ ^twassal/*twassal$	; leads.
+v    ^508/508<num>$ ^mhu/*mhu$	; is not.
+n    ^507/507<num>$ ^żwieġ/*żwieġ$		; 	WEDDING (m)	; marriage.
+?    ^507/507<num>$ ^with/*with$	; with.
+v    ^507/507<num>$ ^sostna/*sostna$		; 	SUPPORT 	; claimed.
+adj    ^507/507<num>$ ^haj/*haj$		; 	VIVID 	; live.
+n    ^507/507<num>$ ^ajru/*ajru$	; air.
+?    ^506/506<num>$ ^THE/*THE$	; THE.
+adv    ^505/505<num>$ ^Ghalkemm/*Ghalkemm$		; 	THOUGH 	; Although.
+?    ^505/505<num>$ ^cool/*cool$	; cool.
+n    ^505/505<num>$ ^apparat/*apparat$	; device.
+?    ^505/505<num>$ ^Apk/*Apk$	; APK.
+?    ^503/503<num>$ ^th/*th$	; th.
+n    ^502/502<num>$ ^kontroll/*kontroll$		; 	CONTROL (m)	; control.
+n    ^502/502<num>$ ^inkwiet/*inkwiet$		; 	WORRY (m)	; trouble.
+adv    ^502/502<num>$ ^ghadha/*ghadha$	; yet.
+?    ^501/501<num>$ ^email/*email$	; email.
+n    ^500/500<num>$ ^kotra/*kotra$		; 	CROWD (f)	; masse.
+n    ^500/500<num>$ ^Ġuda/*Ġuda$	; Judas.
+v    ^499/499<num>$ ^strike/*strike$	; strike.
+n    ^499/499<num>$ ^seħħ/*seħħ$		; 	SUCCESS (m)	; force.
+n    ^498/498<num>$ ^wirt/*wirt$		; 	HERITAGE (m)	; heritage.
+adv    ^498/498<num>$ ^minbarra/*minbarra$	; besides.
+v    ^497/497<num>$ ^rebħu/*rebħu$	; won.
+?    ^497/497<num>$ ^Pisani/*Pisani$	; Pisani.
+n    ^497/497<num>$ ^kuntest/*kuntest$	; context.
+v    ^497/497<num>$ ^joffri/*joffri$	; offers.
+?    ^497/497<num>$ ^Dalli/*Dalli$	; Dalli.
+?    ^496/496<num>$ ^Mon/*Mon$	; Mon.
+o    ^496/496<num>$ ^ilkoll/*ilkoll$		; 	ALL 	; all.
+n    ^496/496<num>$ ^ħażen/*ħażen$		; 	MISCHIEF (m)	; evil.
+n    ^495/495<num>$ ^Set/*Set$	; September
+n    ^495/495<num>$ ^allat/*allat$	; gods.
+n    ^494/494<num>$ ^għajnejn/*għajnejn$	; eyes.
+n    ^493/493<num>$ ^stil/*stil$		; 	STYLE (m)	; style.
+o    ^493/493<num>$ ^Hawnhekk/*Hawnhekk$	; Here.
+?    ^493/493<num>$ ^grin/*grin$	; grin.
+v    ^493/493<num>$ ^bqajt/*bqajt$	; I continued.
+n    ^492/492<num>$ ^Renju/*Renju$		; 	REIGN (m)	; Kingdom.
+n    ^491/491<num>$ ^sagrificcju/*sagrificcju$		; 	SACRIFICE (m)	; sacrifice.
+v    ^491/491<num>$ ^johorgu/*johorgu$	; arising.
+n    ^490/490<num>$ ^messagg/*messagg$		; 	MESSAGE (m)	; message.
+n    ^489/489<num>$ ^tahrig/*tahrig$		; 	PRACTICE (m)	; training.
+n    ^489/489<num>$ ^joħorġu/*joħorġu$	; issue.
+adv    ^488/488<num>$ ^infushom/*infushom$	; themselves.
+?    ^488/488<num>$   *	; .
+?    ^487/487<num>$ ^v/*v$	; v.
+v    ^487/487<num>$ ^gejjin/*gejjin$	; following.
+?    ^487/487<num>$ ^cry/*cry$	; cry.
+?    ^487/487<num>$ ^busy/*busy$	; busy.
+?    ^486/486<num>$ ^tongue/*tongue$	; tongue.
+n    ^486/486<num>$ ^suġġett/*suġġett$		; 	TOPIC (m)	; subject.
+n    ^486/486<num>$ ^piż/*piż$		; 	WEIGHT (m)	; weight.
+v    ^486/486<num>$ ^jingħata/*jingħata$	; given.
+v    ^484/484<num>$ ^stqarr/*stqarr$		; 	STATE 	; said.
+v    ^484/484<num>$ ^jaħseb/*jaħseb$	; think.
+n    ^484/484<num>$ ^ħabs/*ħabs$		; 	PRISON (m)	; prison.
+n    ^483/483<num>$ ^tort/*tort$		; 	BLAME (m)	; fault.
+?    ^483/483<num>$ ^laugh/*laugh$	; laugh.
+n    ^482/482<num>$ ^responsabbiltà/*responsabbiltà$	; responsibility.
+?    ^482/482<num>$ ^kiss/*kiss$	; kiss.
+?    ^482/482<num>$ ^Fri/*Fri$	; Fri.
+?    ^481/481<num>$ ^Top/*Top$	; Top.
+?    ^481/481<num>$ ^stajt/*stajt$	; ve.
+o    ^481/481<num>$ ^sad/*sad$	; up.
+v    ^481/481<num>$ ^ħarġu/*ħarġu$	; emerged.
+?    ^481/481<num>$ ^Assisi/*Assisi$	; Assisi.
+adv    ^480/480<num>$ ^ruħi/*ruħi$	; myself.
+n    ^480/480<num>$ ^Laburisti/*Laburisti$	; Labour.
+v    ^480/480<num>$ ^jinghata/*jinghata$	; given.
+n    ^480/480<num>$ ^ġimgħat/*ġimgħat$	; weeks.
+?    ^480/480<num>$ ^favorite/*favorite$	; favorite.
+?    ^480/480<num>$ ^bigger/*bigger$	; Bigger.
+?    ^479/479<num>$ ^smile/*smile$	; smile.
+n    ^479/479<num>$ ^Carmel/*Carmel$	; Caramel.
+?    ^479/479<num>$ ^bold/*bold$	; bold.
+v    ^479/479<num>$ ^baqghet/*baqghet$	; remained.
+v    ^478/478<num>$ ^Zid/*Zid$	; Add.
+?    ^478/478<num>$ ^wink/*wink$	; wink.
+?    ^478/478<num>$ ^underline/*underline$	; underline.
+?    ^478/478<num>$ ^Tue/*Tue$	; Tue.
+?    ^478/478<num>$ ^Thu/*Thu$	; Thu.
+?    ^478/478<num>$ ^smaller/*smaller$	; smaller.
+?    ^478/478<num>$ ^shocked/*shocked$	; shocked.
+adv    ^478/478<num>$ ^quddiemu/*quddiemu$	; before.
+?    ^478/478<num>$ ^italicize/*italicize$	; italicize.
+?    ^478/478<num>$ ^istrixxiklu/*istrixxiklu$	; istrixxiklu.
+?    ^478/478<num>$ ^angry/*angry$	; angry.
+n    ^477/477<num>$ ^Kordin/*Kordin$	; Corradino.
+o    ^476/476<num>$ ^Filwaqt/*Filwaqt$	; Bearing.
+?    ^475/475<num>$ ^Wed/*Wed$	; Wed.
+n    ^475/475<num>$ ^teatru/*teatru$		; 	THEATER (m)	; theater.
+?    ^475/475<num>$ ^Share/*Share$	; Share.
+?    ^475/475<num>$ ^Portelli/*Portelli$	; Portelli.
+adj    ^475/475<num>$ ^anzjani/*anzjani$	; older.
+?    ^474/474<num>$ ^Aquilina/*Aquilina$	; Aquilina.
+n    ^473/473<num>$ ^ħlas/*ħlas$		; 	TOLL (m)	; payment.
+n    ^473/473<num>$ ^dell/*dell$		; 	SHADE (m)	; shade.
+?    ^472/472<num>$ ^Scerri/*Scerri$	; Scerri.
+v    ^472/472<num>$ ^qam/*qam$	; arose.
+v    ^472/472<num>$ ^isib/*isib$	; finds.
+n    ^472/472<num>$ ^hsara/*hsara$		; 	MISCHIEF (f)	; damage.
+n    ^470/470<num>$ ^bibien/*bibien$	; doors.
+n    ^470/470<num>$ ^Art/*Art$		; 	SOIL (f)	; Art.
+o    ^469/469<num>$ ^uħud/*uħud$	; some.
+n    ^469/469<num>$ ^studenti/*studenti$	; students.
+?    ^469/469<num>$ ^May/*May$	; May.
+v    ^469/469<num>$ ^komplew/*komplew$	; continued.
+v    ^469/469<num>$ ^immexxija/*immexxija$	; conducted.
+v    ^469/469<num>$ ^baqgħet/*baqgħet$	; remained.
+n    ^467/467<num>$ ^nirien/*nirien$	; fires.
+n    ^467/467<num>$ ^mijiet/*mijiet$	; hundreds.
+adj    ^467/467<num>$ ^agħar/*agħar$		; 	WORSE 	; worse.
+n    ^466/466<num>$ ^Skont/*Skont$		; 	REDUCTION (m)	; Discount.
+n    ^466/466<num>$ ^nett/*nett$	; net.
+n    ^466/466<num>$ ^grawnd/*grawnd$		; 	PLAYGROUND (m)	; stadium.
+v    ^466/466<num>$ ^għaddew/*għaddew$	; passed.
+o    ^465/465<num>$ ^kullimkien/*kullimkien$		; 	EVERYWHERE 	; everywhere.
+v    ^464/464<num>$ ^jgħaddu/*jgħaddu$	; pass.
+?    ^462/462<num>$ ^ex/*ex$	; ex.
+?    ^462/462<num>$ ^be/*be$	; be.
+n    ^461/461<num>$ ^muntanji/*muntanji$	; mountains.
+v    ^461/461<num>$ ^jismu/*jismu$	; named.
+v    ^460/460<num>$ ^rebaħ/*rebaħ$		; 	VANQUISH 	; won.
+o    ^460/460<num>$ ^maġġoranza/*maġġoranza$	; majority.
+n    ^460/460<num>$ ^Libja/*Libja$	; Libya.
+n    ^460/460<num>$ ^deni/*deni$		; 	HARM (m)	; fever.
+adv    ^460/460<num>$ ^Dakinhar/*Dakinhar$	; Then.
+n    ^459/459<num>$ ^hsarat/*hsarat$	; faults.
+n    ^459/459<num>$ ^Fatalita/*Fatalita$	; Fatality.
+n    ^458/458<num>$ ^self/*self$		; 	LOAN (m)	; self.
+v    ^457/457<num>$ ^ssib/*ssib$	; find.
+n    ^457/457<num>$ ^nisel/*nisel$		; 	ROOT (m)	; lineage.
+?    ^457/457<num>$ ^Maltese/*Maltese$	; Maltese.
+n    ^457/457<num>$ ^ewlenin/*ewlenin$	; key.
+n    ^457/457<num>$ ^demokrazija/*demokrazija$	; democracy.
+adv    ^457/457<num>$ ^apparti/*apparti$	; apart.
+n    ^456/456<num>$ ^sentenza/*sentenza$		; 	SENTENCE (f)	; sentence.
+v    ^456/456<num>$ ^nibdew/*nibdew$	; start.
+n    ^456/456<num>$ ^marda/*marda$		; 	SICKNESS (f)	; disease.
+v    ^456/456<num>$ ^instab/*instab$	; found.
+n    ^455/455<num>$ ^whud/*whud$	; people.
+n    ^455/455<num>$ ^isport/*isport$	; sport.
+?    ^455/455<num>$ ^December/*December$	; December.
+v    ^454/454<num>$ ^wassal/*wassal$		; 	REACH 	; led.
+v    ^454/454<num>$ ^setghu/*setghu$	; could.
+n    ^453/453<num>$ ^qarrej/*qarrej$	; reader.
+?    ^453/453<num>$ ^non/*non$	; non.
+n    ^453/453<num>$ ^mil/*mil$		; 	MILE (m)	; mil.
+adv    ^452/452<num>$ ^mhuwiex/*mhuwiex$	; not.
+n    ^452/452<num>$ ^Ewkaristija/*Ewkaristija$	; Eucharist.
+n    ^452/452<num>$ ^dettalji/*dettalji$	; details.
+?    ^451/451<num>$ ^website/*website$	; website.
+n    ^451/451<num>$ ^Pont/*Pont$		; 	DOT (m)	; Pont.
+n    ^451/451<num>$ ^mexxejja/*mexxejja$	; leaders.
+v    ^451/451<num>$ ^kompliet/*kompliet$	; continued.
+?    ^451/451<num>$ ^Enemalta/*Enemalta$	; Enemalta.
+n    ^450/450<num>$ ^qarrejja/*qarrejja$	; readers.
+n    ^450/450<num>$ ^ghazla/*ghazla$		; 	OPTION (f)	; choice.
+n    ^450/450<num>$ ^dnubiet/*dnubiet$	; sins.
+?    ^449/449<num>$ ^Frontex/*Frontex$	; Frontex.
+n    ^449/449<num>$ ^Centru/*Centru$		; 	DOWNTOWN (m)	; Centre.
+n    ^448/448<num>$ ^Portugall/*Portugall$	; Portugal.
+?    ^447/447<num>$ ^skip/*skip$	; skip.
+?    ^447/447<num>$ ^Falzon/*Falzon$	; Falzon.
+n    ^447/447<num>$ ^Egittu/*Egittu$	; Egypt.
+v    ^446/446<num>$ ^jsib/*jsib$	; find.
+v    ^445/445<num>$ ^baqgħu/*baqgħu$	; remained.
+?    ^443/443<num>$ ^mhi/*mhi$	; MHI.
+adv    ^442/442<num>$ ^sahansitra/*sahansitra$		; 	EVEN 	; even.
+n    ^442/442<num>$ ^Quddiesa/*Quddiesa$	; Mass..
+n    ^441/441<num>$ ^Sawl/*Sawl$	; Saul.
+adj    ^441/441<num>$ ^mejtin/*mejtin$	; dead.
+v    ^441/441<num>$ ^jitla/*jitla$	; go.
+v    ^441/441<num>$ ^jghix/*jghix$	; lives.
+?    ^440/440<num>$ ^Pullicino/*Pullicino$	; Pullicino.
+v    ^439/439<num>$ ^tidhol/*tidhol$	; enter.
+n    ^439/439<num>$ ^ħniena/*ħniena$		; 	MERCY (f)	; mercy.
+v    ^438/438<num>$ ^staqsa/*staqsa$	; asked.
+n    ^438/438<num>$ ^ħajti/*ħajti$	; my life.
+o    ^438/438<num>$ ^għalik/*għalik$	; you.
+?    ^438/438<num>$ ^and/*and$	; and.
+n    ^437/437<num>$ ^ambulanza/*ambulanza$		; 	AMBULANCE (f)	; ambulance.
+?    ^437/437<num>$ ^album/*album$	; album.
+n    ^435/435<num>$ ^injam/*injam$		; 	TIMBER (m)	; wood.
+?    ^434/434<num>$ ^X/*X$	; X.
+n    ^434/434<num>$ ^Surgent/*Surgent$	; Sergeant.
+v    ^434/434<num>$ ^jiekol/*jiekol$	; eating.
+v    ^434/434<num>$ ^ħarġet/*ħarġet$	; issued.
+adj    ^434/434<num>$ ^għadna/*għadna$	; still.
+v    ^434/434<num>$ ^ġejja/*ġejja$	; following.
+v    ^433/433<num>$ ^tħares/*tħares$	; look.
+n    ^433/433<num>$ ^Mexxej/*Mexxej$		; 	LEADER (m)	; Leader.
+n    ^431/431<num>$ ^kawża/*kawża$		; 	REASON (f)	; cause.
+n    ^430/430<num>$ ^ghajnejn/*ghajnejn$	; eyes.
+n    ^428/428<num>$ ^uzu/*uzu$		; 	USE (m)	; use.
+v    ^427/427<num>$ ^spiċċaw/*spiċċaw$	; ended.
+v    ^427/427<num>$ ^hela/*hela$		; 	CONSUME 	; wastage.
+n    ^426/426<num>$ ^stejjer/*stejjer$	; stories.
+n    ^426/426<num>$ ^moħħi/*moħħi$	; brain.
+n    ^425/425<num>$ ^profeta/*profeta$	; prophet.
+adj    ^425/425<num>$ ^ħaj/*ħaj$		; 	VIVID 	; alive.
+v    ^424/424<num>$ ^tifhem/*tifhem$	; understand.
+n    ^424/424<num>$ ^preżenza/*preżenza$	; presence.
+v    ^424/424<num>$ ^jintervista/*jintervista$	; interview.
+v    ^424/424<num>$ ^jieklu/*jieklu$	; eat.
+n    ^423/423<num>$ ^riħ/*riħ$		; 	WIND (m)	; wind.
+adv    ^423/423<num>$ ^propju/*propju$	; own.
+v    ^423/423<num>$ ^ngħidlek/*ngħidlek$	; say.
+v    ^423/423<num>$ ^jinghataw/*jinghataw$	; given.
+n    ^423/423<num>$ ^filgħaxija/*filgħaxija$	; evening.
+n    ^422/422<num>$ ^kawza/*kawza$		; 	REASON (f)	; cause.
+v    ^422/422<num>$ ^dam/*dam$		; 	LINGER 	; dam.
+n    ^421/421<num>$ ^tagħrif/*tagħrif$	; information.
+?    ^421/421<num>$ ^Air/*Air$	; Air.
+adj    ^420/420<num>$ ^kapaci/*kapaci$		; 	VERSATILE 	; able.
+n    ^420/420<num>$ ^impjegati/*impjegati$	; employees.
+adj    ^420/420<num>$ ^ewlieni/*ewlieni$		; 	PRIME 	; key.
+?    ^419/419<num>$ ^nzjarji/*nzjarji$	; nzjarji.
+v    ^419/419<num>$ ^jimxu/*jimxu$	; walk.
+n    ^418/418<num>$ ^vjaġġ/*vjaġġ$		; 	VOYAGE (m)	; trip.
+n    ^418/418<num>$ ^paċi/*paċi$	; peace.
+v    ^418/418<num>$ ^nifhmu/*nifhmu$	; understand.
+n    ^418/418<num>$ ^gimghat/*gimghat$	; weeks.
+n    ^417/417<num>$ ^xbieha/*xbieha$		; 	SHAPE (f)	; image.
+adv    ^417/417<num>$ ^terġa/*terġa$	; again.
+n    ^417/417<num>$ ^gżejjer/*gżejjer$	; islands.
+n    ^416/416<num>$ ^process/*process$	; process.
+?    ^416/416<num>$ ^Hamrun/*Hamrun$	; Hamrun.
+?    ^416/416<num>$ ^Buttigieg/*Buttigieg$	; Buttigieg.
+n    ^415/415<num>$ ^trab/*trab$		; 	POWDER (m)	; dust.
+v    ^415/415<num>$ ^taqra/*taqra$	; read.
+?    ^415/415<num>$ ^Sidi/*Sidi$	; Sidi.
+?    ^415/415<num>$ ^Monday/*Monday$	; Monday.
+n    ^415/415<num>$ ^moħħu/*moħħu$	; brain.
+v    ^414/414<num>$ ^jonqos/*jonqos$	; decreases.
+o    ^414/414<num>$ ^iniex/*iniex$	; am.
+adv    ^414/414<num>$ ^bhalissa/*bhalissa$	; currently.
+n    ^413/413<num>$ ^ħobż/*ħobż$		; 	BREAD (m)	; bread.
+v    ^413/413<num>$ ^esperjenzi/*esperjenzi$	; experiences.
+n    ^412/412<num>$ ^Eġittu/*Eġittu$	; Egypt.
+?    ^411/411<num>$ ^You/*You$	; You.
+v    ^411/411<num>$ ^inhuma/*inhuma$	; stand.
+n    ^411/411<num>$ ^appoġġ/*appoġġ$		; 	SUPPORT (m)	; support.
+n    ^410/410<num>$ ^residenza/*residenza$	; residence.
+v    ^410/410<num>$ ^meqjusa/*meqjusa$	; considered.
+?    ^409/409<num>$ ^tal/*tal$	; tal.
+v    ^409/409<num>$ ^sofra/*sofra$		; 	UNDERGO 	; suffered.
+n    ^409/409<num>$ ^Randan/*Randan$		; 	LENT (m)	; Lent.
+n    ^408/408<num>$ ^żieda/*żieda$		; 	SUPPLEMENT (f)	; increase.
+?    ^408/408<num>$ ^Mammalia/*Mammalia$	; Mammalia.
+v    ^408/408<num>$ ^apposta/*apposta$	; customized.
+v    ^407/407<num>$ ^nstab/*nstab$	; found.
+?    ^407/407<num>$ ^Neħ/*Neħ$	; Neh.
+n    ^407/407<num>$ ^kapijiet/*kapijiet$	; heads.
+adj    ^407/407<num>$ ^enormi/*enormi$		; 	ENORMOUS 	; enormous.
+n    ^407/407<num>$ ^Emergenza/*Emergenza$		; 	EMERGENCY (f)	; Emergency.
+n    ^406/406<num>$ ^wied/*wied$		; 	VALLEY (m)	; valley.
+?    ^406/406<num>$ ^UnKnoWn/*UnKnoWn$	; Unknown.
+adj    ^406/406<num>$ ^partikulari/*partikulari$	; particular.
+n    ^406/406<num>$ ^filghaxija/*filghaxija$	; evening.
+?    ^406/406<num>$ ^è/*è$	; è.
+n    ^405/405<num>$ ^wiccu/*wiccu$	; face.
+n    ^405/405<num>$ ^tifsira/*tifsira$		; 	SIGNIFICANCE (f)	; meaning.
+adv    ^405/405<num>$ ^mindu/*mindu$		; 	SINCE 	; since.
+n    ^405/405<num>$ ^imexxi/*imexxi$	; abilities.
+?    ^405/405<num>$ ^cocktails/*cocktails$	; cocktails.
+?    ^405/405<num>$ ^Bertu/*Bertu$	; Bertu.
+adj    ^404/404<num>$ ^serju/*serju$		; 	SERIOUS 	; seriously.
+n    ^404/404<num>$ ^sajjieda/*sajjieda$	; fishermen.
+n    ^404/404<num>$ ^maħfra/*maħfra$	; forgiveness.
+v    ^404/404<num>$ ^jifhmu/*jifhmu$	; understand.
+n    ^403/403<num>$ ^zminijiet/*zminijiet$	; times.
+?    ^403/403<num>$ ^Re/*Re$		; 	KING (m)	; Re.
+?    ^403/403<num>$ ^ja/*ja$	; ja.
+v    ^401/401<num>$ ^tgħaddi/*tgħaddi$	; pass.
+adj    ^401/401<num>$ ^Older/*Older$	; Older.
+adv    ^401/401<num>$ ^mistenni/*mistenni$		; 	DUE 	; expected.
+n    ^401/401<num>$ ^ċivili/*ċivili$	; civil.
+v    ^400/400<num>$ ^Nemmen/*Nemmen$	; I believe.
+adv    ^400/400<num>$ ^Imbaghad/*Imbaghad$		; 	THEN 	; Then.
+?    ^400/400<num>$ ^Diocese/*Diocese$	; Diocese.
+?    ^400/400<num>$ ^Bonello/*Bonello$	; Bonello.
+n    ^400/400<num>$ ^armi/*armi$	; weapons.
+n    ^398/398<num>$ ^hruq/*hruq$	; fire.
+n    ^397/397<num>$ ^siġar/*siġar$	; trees.
+v    ^397/397<num>$ ^għandniex/*għandniex$	; We should.
+n    ^396/396<num>$ ^xorb/*xorb$		; 	BEVERAGE (m)	; drinking.
+?    ^396/396<num>$ ^Name/*Name$	; Name.
+v    ^395/395<num>$ ^rashom/*rashom$	; employed.
+o    ^395/395<num>$ ^ħajr/*ħajr$	; thanks.
+?    ^394/394<num>$ ^TV/*TV$	; TV.
+v    ^394/394<num>$ ^tingħata/*tingħata$	; given.
+?    ^394/394<num>$ ^rasi/*rasi$	; Rasi.
+n    ^394/394<num>$ ^gass/*gass$		; 	GAS (m)	; gas.
+v    ^393/393<num>$ ^wiegeb/*wiegeb$	; responded.
+v    ^393/393<num>$ ^tela/*tela$	; rose.
+adj    ^393/393<num>$ ^ragun/*ragun$	; are rightly.
+v    ^393/393<num>$ ^isibu/*isibu$	; find.
+adv    ^392/392<num>$ ^Mbaghad/*Mbaghad$	; Then.
+n    ^392/392<num>$ ^Festival/*Festival$	; Festival.
+o    ^391/391<num>$ ^sejra/*sejra$	; will.
+n    ^391/391<num>$ ^militari/*militari$	; military.
+n    ^391/391<num>$ ^ġieħ/*ġieħ$		; 	REPUTATION (m)	; tribute.
+n    ^390/390<num>$ ^vettura/*vettura$	; vehicle.
+n    ^390/390<num>$ ^Libertas/*Libertas$	; Libertas.
+v    ^390/390<num>$ ^jeħtieġ/*jeħtieġ$	; needs.
+n    ^390/390<num>$ ^ħtieġa/*ħtieġa$		; 	WANT (f)	; need.
+?    ^389/389<num>$ ^Theria/*Theria$	; Theria.
+n    ^389/389<num>$ ^Popolari/*Popolari$	; People.
+v    ^389/389<num>$ ^jiswa/*jiswa$	; worth.
+v    ^389/389<num>$ ^ifittxu/*ifittxu$	; looking.
+n    ^388/388<num>$ ^Tarzna/*Tarzna$	; Yard.
+v    ^388/388<num>$ ^qishom/*qishom$	; like.
+n    ^388/388<num>$ ^konferenza/*konferenza$	; conference.
+v    ^387/387<num>$ ^said/*said$	; said.
+v    ^387/387<num>$ ^ngħixu/*ngħixu$	; live.
+v    ^387/387<num>$ ^mifhum/*mifhum$	; understood.
+n    ^386/386<num>$ ^rakkont/*rakkont$		; 	STORY (m)	; narration.
+n    ^386/386<num>$ ^parroċċa/*parroċċa$	; parish.
+n    ^386/386<num>$ ^faċċata/*faċċata$	; facade.
+?    ^386/386<num>$ ^About/*About$	; About.
+n    ^385/385<num>$ ^qima/*qima$		; 	WORSHIP (f)	; worship.
+?    ^385/385<num>$ ^English/*English$	; English.
+n    ^385/385<num>$ ^blat/*blat$	; rock.
     ^384/384<num>$ ^Ikkuntattjana/*Ikkuntattjana$	; Contact us.
     ^384/384<num>$ ^ġejjieni/*ġejjieni$	; future.
     ^384/384<num>$ ^BTM/*BTM$	; BTM.
