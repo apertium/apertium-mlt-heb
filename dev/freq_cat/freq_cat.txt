@@ -1301,103 +1301,103 @@ n    ^315/315<num>$ ^helikopter/*helikopter$	; helicopter.
 v    ^315/315<num>$ ^għandhiex/*għandhiex$	; should.
 n    ^315/315<num>$ ^daqqiet/*daqqiet$	; dents.
 adj    ^314/314<num>$ ^magħmula/*magħmula$	; made.
-    ^314/314<num>$ ^jispiċċaw/*jispiċċaw$	; end.
-    ^314/314<num>$ ^ċittadin/*ċittadin$	; citizen.
-    ^314/314<num>$ ^CHAIRMAN/*CHAIRMAN$	; CHAIRMAN.
-    ^313/313<num>$ ^toqgħod/*toqgħod$	; stand.
-    ^313/313<num>$ ^semmejt/*semmejt$	; mentioned.
-    ^313/313<num>$ ^Sabiħa/*Sabiħa$	; Beautiful.
-    ^313/313<num>$ ^nnifisha/*nnifisha$	; itself.
-    ^313/313<num>$ ^Karm/*Karm$	; Karm.
-    ^313/313<num>$ ^Frans/*Frans$	; Frans.
-    ^312/312<num>$ ^stampa/*stampa$		; 	IMPRESS 	; picture.
-    ^312/312<num>$ ^imgħoddi/*imgħoddi$	; past.
-    ^312/312<num>$ ^ibni/*ibni$	; son.
-    ^312/312<num>$ ^fomm/*fomm$	; orally.
-    ^312/312<num>$ ^bazi/*bazi$		; 	GROUND (f)	; basis.
-    ^312/312<num>$ ^Avviżi/*Avviżi$	; Announcements.
-    ^311/311<num>$ ^bdejna/*bdejna$	; started.
-    ^311/311<num>$ ^Bartolo/*Bartolo$	; Bartolo.
-    ^310/310<num>$ ^mibni/*mibni$	; built.
-    ^310/310<num>$ ^kuragg/*kuragg$		; 	VALOR (m)	; courage.
-    ^310/310<num>$ ^jinbidel/*jinbidel$	; replaced.
-    ^310/310<num>$ ^iwassal/*iwassal$	; leads.
-    ^310/310<num>$ ^itfal/*itfal$	; children.
-    ^310/310<num>$ ^għalliema/*għalliema$	; teachers.
-    ^310/310<num>$ ^Bin/*Bin$	; Bin.
-    ^310/310<num>$ ^baġit/*baġit$	; budget.
-    ^309/309<num>$ ^semplici/*semplici$		; 	SIMPLE 	; Simple.
-    ^309/309<num>$ ^rebbieħa/*rebbieħa$	; winning.
-    ^309/309<num>$ ^quddiemek/*quddiemek$	; front.
-    ^309/309<num>$ ^protesta/*protesta$	; protest.
-    ^309/309<num>$ ^Peace/*Peace$	; Peace.
-    ^309/309<num>$ ^Mr/*Mr$	; Mr.
-    ^309/309<num>$ ^iħares/*iħares$	; look.
-    ^309/309<num>$ ^ewlenija/*ewlenija$	; key.
-    ^309/309<num>$ ^Appell/*Appell$	; Appeal.
-    ^308/308<num>$ ^vann/*vann$		; 	VAN (m)	; van.
-    ^308/308<num>$ ^Sqallija/*Sqallija$	; Sicily.
-    ^308/308<num>$ ^ahbar/*ahbar$	; news.
-    ^307/307<num>$ ^sabet/*sabet$	; found.
-    ^307/307<num>$ ^jispiccaw/*jispiccaw$	; end.
-    ^306/306<num>$ ^Premier/*Premier$	; Premier.
-    ^306/306<num>$ ^Minflok/*Minflok$		; 	INSTEAD 	; Instead.
-    ^306/306<num>$ ^jużaw/*jużaw$	; use.
-    ^306/306<num>$ ^jinstab/*jinstab$	; found.
-    ^306/306<num>$ ^huh/*huh$	; huh.
-    ^306/306<num>$ ^ħolqien/*ħolqien$		; 	UNIVERSE (m)	; creation.
-    ^306/306<num>$ ^aghar/*aghar$		; 	WORSE 	; worse.
-    ^305/305<num>$ ^rekord/*rekord$	; record.
-    ^305/305<num>$ ^Psaila/*Psaila$	; Psaila.
-    ^305/305<num>$ ^morna/*morna$	; going.
-    ^305/305<num>$ ^mehtiega/*mehtiega$	; required.
-    ^305/305<num>$ ^laħaq/*laħaq$		; 	COST 	; reached.
-    ^305/305<num>$ ^demonju/*demonju$		; 	DEMON (m)	; demonju.
-    ^304/304<num>$ ^Xagħra/*Xagħra$	; Xaghra.
-    ^304/304<num>$ ^waqqaf/*waqqaf$		; 	INTERRUPT 	; stopped.
-    ^304/304<num>$ ^serja/*serja$	; serious.
-    ^304/304<num>$ ^Lhudi/*Lhudi$	; Jew.
-    ^304/304<num>$ ^Ghawdxi/*Ghawdxi$	; Gozitan.
-    ^304/304<num>$ ^attent/*attent$		; 	WARY 	; out.
-    ^303/303<num>$ ^jiffurmaw/*jiffurmaw$	; form.
-    ^303/303<num>$ ^ħaddiem/*ħaddiem$		; 	WORKMAN (m)	; worker.
-    ^303/303<num>$ ^con/*con$	; con.
-    ^302/302<num>$ ^temm/*temm$		; 	EXECUTE 	; completed.
-    ^302/302<num>$ ^medja/*medja$		; 	AVERAGE (f)	; average.
-    ^302/302<num>$ ^K/*K$	; K.
-    ^302/302<num>$ ^Dinjija/*Dinjija$	; World.
-    ^301/301<num>$ ^televixin/*televixin$		; 	TELEVISION (m)	; television.
-    ^301/301<num>$ ^ruhhom/*ruhhom$	; themselves.
-    ^301/301<num>$ ^mortwarja/*mortwarja$	; mortuary.
-    ^301/301<num>$ ^ħitan/*ħitan$	; walls.
-    ^301/301<num>$ ^Bloggata/*Bloggata$	; Bloggata.
-    ^300/300<num>$ ^maghrufa/*maghrufa$	; known.
-    ^300/300<num>$ ^Kavallieri/*Kavallieri$	; Knights.
-    ^300/300<num>$ ^għedt/*għedt$	; said.
-    ^300/300<num>$ ^Għawdxin/*Għawdxin$	; Gozo.
-    ^300/300<num>$ ^ġab/*ġab$	; brought.
-    ^300/300<num>$ ^daqskemm/*daqskemm$	; as much.
-    ^299/299<num>$ ^staġun/*staġun$		; 	SEASON (m)	; season.
-    ^299/299<num>$ ^ri/*ri$	; ri.
-    ^299/299<num>$ ^kuntrarju/*kuntrarju$	; contrary.
-    ^299/299<num>$ ^distrett/*distrett$		; 	DISTRICT (m)	; district.
-    ^299/299<num>$ ^Brincat/*Brincat$	; Brincat.
-    ^298/298<num>$ ^sibna/*sibna$	; found.
-    ^298/298<num>$ ^nibqgħu/*nibqgħu$	; remain.
-    ^298/298<num>$ ^Mur/*Mur$	; Go.
-    ^298/298<num>$ ^Haddiem/*Haddiem$		; 	WORKMAN (m)	; Worker.
-    ^298/298<num>$ ^għajnejh/*għajnejh$	; mind.
-    ^297/297<num>$ ^uliedu/*uliedu$	; his children.
-    ^297/297<num>$ ^success/*success$		; 	SUCCESS (m)	; success.
-    ^297/297<num>$ ^kunċett/*kunċett$	; concept.
-    ^297/297<num>$ ^inizjattiva/*inizjattiva$		; 	INITIATIVE (f)	; initiative.
-    ^297/297<num>$ ^films/*films$	; films.
-    ^297/297<num>$ ^aħbarijiet/*aħbarijiet$		; 	TIDINGS 	; news.
-    ^296/296<num>$ ^una/*una$	; una.
-    ^296/296<num>$ ^tah/*tah$	; him.
-    ^296/296<num>$ ^inghata/*inghata$	; granted.
-    ^296/296<num>$ ^Ħal/*Ħal$	; Hal.
-    ^295/295<num>$ ^regghu/*regghu$	; again.
+v    ^314/314<num>$ ^jispiċċaw/*jispiċċaw$	; end.
+n    ^314/314<num>$ ^ċittadin/*ċittadin$	; citizen.
+?    ^314/314<num>$ ^CHAIRMAN/*CHAIRMAN$	; CHAIRMAN.
+v    ^313/313<num>$ ^toqgħod/*toqgħod$	; stand.
+adj    ^313/313<num>$ ^semmejt/*semmejt$	; mentioned.
+adj    ^313/313<num>$ ^Sabiħa/*Sabiħa$	; Beautiful.
+adv    ^313/313<num>$ ^nnifisha/*nnifisha$	; itself.
+?    ^313/313<num>$ ^Karm/*Karm$	; Karm.
+?    ^313/313<num>$ ^Frans/*Frans$	; Frans.
+v    ^312/312<num>$ ^stampa/*stampa$		; 	IMPRESS 	; picture.
+n    ^312/312<num>$ ^imgħoddi/*imgħoddi$	; past.
+n    ^312/312<num>$ ^ibni/*ibni$	; son.
+adv    ^312/312<num>$ ^fomm/*fomm$	; orally.
+n    ^312/312<num>$ ^bazi/*bazi$		; 	GROUND (f)	; basis.
+n    ^312/312<num>$ ^Avviżi/*Avviżi$	; Announcements.
+adj    ^311/311<num>$ ^bdejna/*bdejna$	; started.
+?    ^311/311<num>$ ^Bartolo/*Bartolo$	; Bartolo.
+adj    ^310/310<num>$ ^mibni/*mibni$	; built.
+n    ^310/310<num>$ ^kuragg/*kuragg$		; 	VALOR (m)	; courage.
+v    ^310/310<num>$ ^jinbidel/*jinbidel$	; replaced.
+n    ^310/310<num>$ ^iwassal/*iwassal$	; leads.
+n    ^310/310<num>$ ^itfal/*itfal$	; children.
+n    ^310/310<num>$ ^għalliema/*għalliema$	; teachers.
+?    ^310/310<num>$ ^Bin/*Bin$	; Bin.
+n    ^310/310<num>$ ^baġit/*baġit$	; budget.
+adj    ^309/309<num>$ ^semplici/*semplici$		; 	SIMPLE 	; Simple.
+adj    ^309/309<num>$ ^rebbieħa/*rebbieħa$	; winning.
+adj    ^309/309<num>$ ^quddiemek/*quddiemek$	; front.
+n    ^309/309<num>$ ^protesta/*protesta$	; protest.
+?    ^309/309<num>$ ^Peace/*Peace$	; Peace.
+?    ^309/309<num>$ ^Mr/*Mr$	; Mr.
+v    ^309/309<num>$ ^iħares/*iħares$	; look.
+n    ^309/309<num>$ ^ewlenija/*ewlenija$	; key.
+n    ^309/309<num>$ ^Appell/*Appell$	; Appeal.
+n    ^308/308<num>$ ^vann/*vann$		; 	VAN (m)	; van.
+n    ^308/308<num>$ ^Sqallija/*Sqallija$	; Sicily.
+n    ^308/308<num>$ ^ahbar/*ahbar$	; news.
+adj    ^307/307<num>$ ^sabet/*sabet$	; found.
+v    ^307/307<num>$ ^jispiccaw/*jispiccaw$	; end.
+?    ^306/306<num>$ ^Premier/*Premier$	; Premier.
+adv    ^306/306<num>$ ^Minflok/*Minflok$		; 	INSTEAD 	; Instead.
+v    ^306/306<num>$ ^jużaw/*jużaw$	; use.
+adj    ^306/306<num>$ ^jinstab/*jinstab$	; found.
+?    ^306/306<num>$ ^huh/*huh$	; huh.
+n    ^306/306<num>$ ^ħolqien/*ħolqien$		; 	UNIVERSE (m)	; creation.
+adj    ^306/306<num>$ ^aghar/*aghar$		; 	WORSE 	; worse.
+n    ^305/305<num>$ ^rekord/*rekord$	; record.
+?    ^305/305<num>$ ^Psaila/*Psaila$	; Psaila.
+adj    ^305/305<num>$ ^morna/*morna$	; going.
+adj    ^305/305<num>$ ^mehtiega/*mehtiega$	; required.
+v    ^305/305<num>$ ^laħaq/*laħaq$		; 	COST 	; reached.
+n    ^305/305<num>$ ^demonju/*demonju$		; 	DEMON (m)	; demonju.
+?    ^304/304<num>$ ^Xagħra/*Xagħra$	; Xaghra.
+v    ^304/304<num>$ ^waqqaf/*waqqaf$		; 	INTERRUPT 	; stopped.
+adj    ^304/304<num>$ ^serja/*serja$	; serious.
+n    ^304/304<num>$ ^Lhudi/*Lhudi$	; Jew.
+n    ^304/304<num>$ ^Ghawdxi/*Ghawdxi$	; Gozitan.
+adj    ^304/304<num>$ ^attent/*attent$		; 	WARY 	; out.
+v    ^303/303<num>$ ^jiffurmaw/*jiffurmaw$	; form.
+?    ^303/303<num>$ ^ħaddiem/*ħaddiem$		; 	WORKMAN (m)	; worker.
+?    ^303/303<num>$ ^con/*con$	; con.
+v    ^302/302<num>$ ^temm/*temm$		; 	EXECUTE 	; completed.
+adj    ^302/302<num>$ ^medja/*medja$		; 	AVERAGE (f)	; average.
+?    ^302/302<num>$ ^K/*K$	; K.
+n    ^302/302<num>$ ^Dinjija/*Dinjija$	; World.
+n    ^301/301<num>$ ^televixin/*televixin$		; 	TELEVISION (m)	; television.
+adv    ^301/301<num>$ ^ruhhom/*ruhhom$	; themselves.
+n    ^301/301<num>$ ^mortwarja/*mortwarja$	; mortuary.
+n    ^301/301<num>$ ^ħitan/*ħitan$	; walls.
+?    ^301/301<num>$ ^Bloggata/*Bloggata$	; Bloggata.
+adj    ^300/300<num>$ ^maghrufa/*maghrufa$	; known.
+n    ^300/300<num>$ ^Kavallieri/*Kavallieri$	; Knights.
+v    ^300/300<num>$ ^għedt/*għedt$	; said.
+n    ^300/300<num>$ ^Għawdxin/*Għawdxin$	; Gozo.
+v    ^300/300<num>$ ^ġab/*ġab$	; brought.
+adv    ^300/300<num>$ ^daqskemm/*daqskemm$	; as much.
+n    ^299/299<num>$ ^staġun/*staġun$		; 	SEASON (m)	; season.
+?    ^299/299<num>$ ^ri/*ri$	; ri.
+adj    ^299/299<num>$ ^kuntrarju/*kuntrarju$	; contrary.
+n    ^299/299<num>$ ^distrett/*distrett$		; 	DISTRICT (m)	; district.
+?    ^299/299<num>$ ^Brincat/*Brincat$	; Brincat.
+adj    ^298/298<num>$ ^sibna/*sibna$	; found.
+v    ^298/298<num>$ ^nibqgħu/*nibqgħu$	; remain.
+v    ^298/298<num>$ ^Mur/*Mur$	; Go.
+n    ^298/298<num>$ ^Haddiem/*Haddiem$		; 	WORKMAN (m)	; Worker.
+n    ^298/298<num>$ ^għajnejh/*għajnejh$	; mind.
+n    ^297/297<num>$ ^uliedu/*uliedu$	; his children.
+n    ^297/297<num>$ ^success/*success$		; 	SUCCESS (m)	; success.
+n    ^297/297<num>$ ^kunċett/*kunċett$	; concept.
+n    ^297/297<num>$ ^inizjattiva/*inizjattiva$		; 	INITIATIVE (f)	; initiative.
+?    ^297/297<num>$ ^films/*films$	; films.
+n    ^297/297<num>$ ^aħbarijiet/*aħbarijiet$		; 	TIDINGS 	; news.
+?    ^296/296<num>$ ^una/*una$	; una.
+o    ^296/296<num>$ ^tah/*tah$	; him.
+v    ^296/296<num>$ ^inghata/*inghata$	; granted.
+?    ^296/296<num>$ ^Ħal/*Ħal$	; Hal.
+adv    ^295/295<num>$ ^regghu/*regghu$	; again.
     ^295/295<num>$ ^pont/*pont$		; 	DOT (m)	; bridge.
     ^295/295<num>$ ^metri/*metri$	; meters.
     ^295/295<num>$ ^jivvutaw/*jivvutaw$	; vote.
