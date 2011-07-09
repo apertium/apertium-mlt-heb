@@ -37,6 +37,6 @@ for line in lines:
     out = p2.communicate()[0]
 
     if out.find('*') == -1 and line[0] != ';':
-        sys.stdout.write(';')
+        line = ";{0}\t; {1}".format(line.strip(), out)
 
     sys.stdout.write(line)
