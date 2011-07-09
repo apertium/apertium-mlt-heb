@@ -24,12 +24,12 @@
     <sdef n="acr"         c="Acronym"/>
 
     <sdef n="an"          c="Animate / inanimate"/>
- 
+
     <sdef n="m"           c="Masculine"/>
     <sdef n="f"           c="Feminine"/>
     <sdef n="nt"          c="Neuter"/>
     <sdef n="mf"          c="Masculine / feminine"/>
- 
+
     <sdef n="top"         c="Toponym"/>
     <sdef n="al"          c="Other"/>
     <sdef n="ant"         c="Anthroponym"/>
@@ -40,7 +40,7 @@
     <sdef n="sg"          c="Singular"/>
     <sdef n="pl"          c="Plural"/>
     <sdef n="sp"          c="Singular / plural"/>
- 
+
     <sdef n="p1"          c="First person"/>
     <sdef n="p2"          c="Second person"/>
     <sdef n="p3"          c="Third person"/>
@@ -2683,7 +2683,7 @@
   </pardef>
 
 
-  <pardef n="kontemporanj/u__adj">
+  <pardef n="kwadr/u_adj">
     <e><p><l>u</l><r>u<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>a</l><r>u<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>i</l><r>u<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -2761,11 +2761,6 @@
       <e><p>          <l>afif</l><r>afif<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
       <e><p>          <l>afifa</l><r>afif<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
       <e><p>          <l>fief</l><r>afif<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-    </pardef>
-    <pardef n="kwadr/u__adj">
-      <e><p>          <l>u</l><r>u<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
-      <e><p>          <l>a</l><r>u<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
-      <e><p>          <l>i</l><r>u<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
     </pardef>
     <pardef n="griż__adj">
       <e><p>          <l></l><r><s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
@@ -5411,8 +5406,8 @@
     <e lm="wiesgħa"><i>wiesgħ</i><par n="wiesgħ/a__adj"/></e>
     <e lm="ħajj"><i>ħajj</i><par n="barran__adj"/></e>
 
-    <e lm="kontemporanju"><i>kontemporanj</i><par n="kontemporanj/u__adj"/></e>
-    <e lm="propju"><i>propj</i><par n="kontemporanj/u__adj"/></e>
+    <e lm="kontemporanju"><i>kontemporanj</i><par n="kwadr/u_adj"/></e>
+    <e lm="propju"><i>propj</i><par n="kwadr/u_adj"/></e>
 
     <e lm="abjad" c="white"><i></i><par n="/abjad__adj"/></e>
     <e lm="artab" c="soft"><i></i><par n="/artab__adj"/></e>
@@ -5426,7 +5421,7 @@
     <e lm="dgħajjef"><i>dgħaj</i><par n="dgħaj/jef__adj"/></e>
     <e lm="fond"><i>fond</i><par n="griż__adj"/></e>
     <e lm="griż"><i>griż</i><par n="griż__adj"/></e>
-    <e lm="poet" c="poet"><i>poet</i><par n="griż__adj"/></e>
+    <e lm="poet" c="poet"><i>poet</i><par n="griż__adj"/></e> <!-- TODO: check -->
 
     <e lm="għoli"><i>għol</i><par n="għol/i__adj"/></e>
     <e lm="għoli"><p><l>ogħla</l><r>għoli</r></p><par n="akbar__adj"/></e>
@@ -5440,6 +5435,7 @@
     <e lm="isfar" c="yellow"><i></i><par n="/isfar__adj"/></e>
     <e lm="iswed" c="black"><i></i><par n="/iswed__adj"/></e>
     <e lm="kwadru"><i>kwadr</i><par n="kwadr/u__adj"/></e>
+    <e lm="veru"><i>ver</u><par n="kwadr/u__adj"/></e>
     <e lm="kwiet"><i>kwiet</i><par n="griż__adj"/></e>
     <e lm="maħmuġ"><i>maħmuġ</i><par n="maħmuġ__adj"/></e>
     <e lm="mgħaġġel"><i>mgħaġġ</i><par n="mgħaġġ/el__adj"/></e>
