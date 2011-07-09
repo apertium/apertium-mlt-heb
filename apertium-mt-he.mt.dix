@@ -5389,6 +5389,7 @@
     <e lm="ħajj"><i>ħajj</i><par n="barran__adj"/></e>
 
     <e lm="kontemporanju"><i>kontemporanj</i><par n="kontemporanj/u__adj"/></e>
+    <e lm="propju"><i>propj</i><par n="kontemporanj/u__adj"/></e>
 
     <e lm="abjad" c="white"><i></i><par n="/abjad__adj"/></e>
     <e lm="artab" c="soft"><i></i><par n="/artab__adj"/></e>
@@ -5780,6 +5781,12 @@
     <e lm="minflok" c="instead"><i>minflok</i><par n="immedjatament__adv"/></e>
     <e lm="iżjed" c="more"><i>iżjed</i><par n="immedjatament__adv"/></e>
     <e lm="inqas" c="less"><i>inqas</i><par n="immedjatament__adv"/></e>
+    <e lm="tard" c="later"><i>tard</i><par n="immedjatament__adv"/></e>
+    <e lm="ġewwa" c="inside"><i>ġewwa</i><par n="immedjatament__adv"/></e>
+    <e lm="malajr" c="swiftly"><i>malajr</i><par n="immedjatament__adv"/></e>
+    <e lm="kultant" c="sometimes"><i>kultant</i><par n="immedjatament__adv"/></e>
+    <e lm="kważi" c="nearly"><i>kważi</i><par n="immedjatament__adv"/></e>
+    <e lm="anzi" c="indeed"><i>anzi</i><par n="immedjatament__adv"/></e>
 
     <e lm="'l isfel" c="downwards"><i>'l<b/>isfel</i><par n="immedjatament__adv"/></e>
     <e lm="il fuq" c="upwards"><i>il<b/>fuq</i><par n="immedjatament__adv"/></e>
@@ -5787,6 +5794,7 @@
     <e lm="'l ġewwa" c="inside"><i>'l<b/>ġewwa</i><par n="immedjatament__adv"/></e>
     <e lm="'l hemm" c="there"><i>'l<b/>hemm</i><par n="immedjatament__adv"/></e>
     <e lm="'l hawn" c="here"><i>'l<b/>hawn</i><par n="immedjatament__adv"/></e>
+    <e lm="'l bogħod" c="away"><i>bogħod</i><par n="immedjatament__adv"/></e>
 
     <e lm="isfel"><i>isfel</i><par n="immedjatament__adv"/></e>
     <e lm="taħt"><i>taħt</i><par n="immedjatament__adv"/></e>
@@ -5856,6 +5864,13 @@
     <e lm="xjentifikament"><i>xjentifikament</i><par n="immedjatament__adv"/></e>
 
     <e lm="hekk u hekk"><i>hekk<b/>u<b/>hekk</i><par n="immedjatament__adv"/></e>
+
+    <e lm="probabbilment"><i>probabbilment</i><par n="immedjatament__adv"/></e>
+    <e lm="probabilment" r="LR"><p><l>probabilment</l><r>probabbilment</r></p><par n="immedjatament__adv"/></e> 
+    <e lm="probbabilment" r="LR"><p><l>probbabilment</l><r>probabbilment</r></p><par n="immedjatament__adv"/></e>
+
+    <e lm="anki"><i>anki</i><par n="immedjatament__adv"/></e>
+
 
     <e lm="filwaqt" c="while"><i>filwaqt</i><par n="filwaqt__cnjadv"/></e>
 
@@ -6221,13 +6236,6 @@
     <e lm="dijabetiku"><i>dijabeti</i><par n="epi/ku__adj"/></e>
     <e lm="Erojku"><i>Eroj</i><par n="epi/ku__adj"/></e>
     <e lm="anakronistiku"><i>anakronisti</i><par n="epi/ku__adj"/></e>
-
-    <e lm="probabbilment"><i>probabbilment</i><par n="immedjatament__adv"/></e>
-    <e lm="probabilment" r="LR"><p><l>probabilment</l><r>probabbilment</r></p><par n="immedjatament__adv"/></e> 
-    <e lm="probbabilment" r="LR"><p><l>probbabilment</l><r>probabbilment</r></p><par n="immedjatament__adv"/></e>
-
-
-    <e lm="anki"><i>anki</i><par n="immedjatament__adv"/></e>
 
     <!-- SECTION: Interjections -->
 
