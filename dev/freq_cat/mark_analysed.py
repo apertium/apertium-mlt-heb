@@ -36,7 +36,7 @@ for line in lines:
     p1.stdout.close()
     out = p2.communicate()[0]
 
-    if out.find('*') == -1;
-        sys.stdout.write(';') if line[0] != ';'
+    if out.find('*') == -1 and line[0] != ';':
+        sys.stdout.write(';')
 
     sys.stdout.write(line)
