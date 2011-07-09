@@ -1198,109 +1198,109 @@ v    ^335/335<num>$ ^taqa/*taqa$	; comes.
 v    ^335/335<num>$ ^mħabba/*mħabba$	; love.
 v    ^335/335<num>$ ^juża/*juża$	; uses.
 v    ^335/335<num>$ ^jintuża/*jintuża$	; used.
-    ^335/335<num>$ ^Iskwadra/*Iskwadra$	; Squadron.
-    ^335/335<num>$ ^Għaldaqstant/*Għaldaqstant$	; Therefore.
-    ^334/334<num>$ ^xieraq/*xieraq$		; 	WORTHY 	; appropriate.
-    ^334/334<num>$ ^Schembri/*Schembri$	; Schembri.
-    ^334/334<num>$ ^santwarju/*santwarju$		; 	SHRINE (m)	; sanctuary.
-    ^334/334<num>$ ^naqbel/*naqbel$	; I agree.
-    ^334/334<num>$ ^jkomplu/*jkomplu$	; continue.
-    ^334/334<num>$ ^ahwa/*ahwa$	; brothers.
-    ^333/333<num>$ ^varji/*varji$	; various.
-    ^333/333<num>$ ^site/*site$	; site.
-    ^333/333<num>$ ^sforz/*sforz$		; 	STRAIN (m)	; effort.
-    ^333/333<num>$ ^jispiċċa/*jispiċċa$	; ends.
-    ^333/333<num>$ ^isbah/*isbah$	; Best.
-    ^333/333<num>$ ^gowler/*gowler$	; goalkeeper.
-    ^332/332<num>$ ^żjara/*żjara$		; 	VISIT (f)	; visit.
-    ^332/332<num>$ ^insib/*insib$	; trapping.
-    ^331/331<num>$ ^ruħhom/*ruħhom$	; themselves.
-    ^331/331<num>$ ^qisha/*qisha$	; like.
-    ^331/331<num>$ ^profeti/*profeti$	; prophets.
-    ^331/331<num>$ ^Nru/*Nru$	; No.
-    ^331/331<num>$ ^anniversarju/*anniversarju$	; anniversary.
-    ^330/330<num>$ ^żball/*żball$		; 	MISTAKE (m)	; error.
-    ^330/330<num>$ ^toffri/*toffri$	; offers.
-    ^330/330<num>$ ^spiccaw/*spiccaw$	; ceased.
-    ^330/330<num>$ ^ruhi/*ruhi$	; myself.
-    ^330/330<num>$ ^Qiegħed/*Qiegħed$		; 	UNEMPLOYED 	; Place.
-    ^330/330<num>$ ^qbil/*qbil$	; agreement.
-    ^330/330<num>$ ^barka/*barka$	; blessing.
-    ^329/329<num>$ ^ħila/*ħila$		; 	SKILL (f)	; ability.
-    ^329/329<num>$ ^dhul/*dhul$		; 	REVENUE (m)	; income.
-    ^328/328<num>$ ^Sunday/*Sunday$	; Sunday.
-    ^328/328<num>$ ^jiltaqa/*jiltaqa$	; encounters.
-    ^328/328<num>$ ^jgib/*jgib$	; brings.
-    ^327/327<num>$ ^palazz/*palazz$		; 	PALACE (m)	; palace.
-    ^327/327<num>$ ^nieqsa/*nieqsa$	; missing.
-    ^327/327<num>$ ^mejta/*mejta$	; dead.
-    ^327/327<num>$ ^jaħsbu/*jaħsbu$	; think.
-    ^327/327<num>$ ^idejja/*idejja$	; arm.
-    ^327/327<num>$ ^baghat/*baghat$	; sent.
-    ^326/326<num>$ ^progress/*progress$	; progress.
-    ^326/326<num>$ ^ecc/*ecc$	; etc..
-    ^325/325<num>$ ^regolari/*regolari$	; regular.
-    ^325/325<num>$ ^Qala/*Qala$	; Qala.
-    ^325/325<num>$ ^Prosit/*Prosit$	; Congratulations.
-    ^325/325<num>$ ^offerti/*offerti$	; offerings.
-    ^325/325<num>$ ^miexi/*miexi$	; progressing.
-    ^325/325<num>$ ^kulma/*kulma$	; everything.
-    ^325/325<num>$ ^jgħin/*jgħin$	; help.
-    ^325/325<num>$ ^jaqbel/*jaqbel$		; 	COMPATIBLE 	; agrees.
-    ^325/325<num>$ ^idur/*idur$	; turn.
-    ^325/325<num>$ ^idejk/*idejk$	; hands.
-    ^324/324<num>$ ^qawmien/*qawmien$	; resurrection.
-    ^324/324<num>$ ^Peress/*Peress$	; Since.
-    ^324/324<num>$ ^kobor/*kobor$	; magnitude.
-    ^324/324<num>$ ^haddiem/*haddiem$		; 	WORKMAN (m)	; worker.
-    ^324/324<num>$ ^avolja/*avolja$		; 	EVEN 	; though.
-    ^323/323<num>$ ^raġun/*raġun$	; right.
-    ^323/323<num>$ ^Patrol/*Patrol$	; Patrol.
-    ^323/323<num>$ ^Malli/*Malli$	; Once.
-    ^323/323<num>$ ^jirbaħ/*jirbaħ$	; wins.
-    ^323/323<num>$ ^impjieg/*impjieg$		; 	SITUATION (m)	; jobs.
-    ^322/322<num>$ ^sikwit/*sikwit$		; 	OFTEN 	; often.
-    ^322/322<num>$ ^pazjenti/*pazjenti$	; patients.
-    ^322/322<num>$ ^lok/*lok$		; 	VENUE (m)	; location.
-    ^322/322<num>$ ^jibni/*jibni$	; build.
-    ^322/322<num>$ ^hijiex/*hijiex$	; is.
-    ^321/321<num>$ ^żejjed/*żejjed$	; excess.
-    ^321/321<num>$ ^tani/*tani$	; me.
-    ^321/321<num>$ ^Sidna/*Sidna$	; Lord.
-    ^321/321<num>$ ^Pasqua/*Pasqua$	; Pasqua.
-    ^321/321<num>$ ^kenn/*kenn$		; 	SHELTER (m)	; shelter.
-    ^321/321<num>$ ^jghidli/*jghidli$	; tells.
-    ^321/321<num>$ ^Insomma/*Insomma$	; Insomma.
-    ^321/321<num>$ ^Hold/*Hold$	; Hold.
-    ^321/321<num>$ ^għarfien/*għarfien$	; knowledge.
-    ^320/320<num>$ ^tistenna/*tistenna$	; wait.
-    ^320/320<num>$ ^qaltli/*qaltli$	; told me.
-    ^320/320<num>$ ^Karmnu/*Karmnu$	; Caramel.
-    ^320/320<num>$ ^ħaqq/*ħaqq$		; 	MERIT (m)	; Indeed.
-    ^320/320<num>$ ^ghalik/*ghalik$	; you.
-    ^319/319<num>$ ^stqarrija/*stqarrija$	; statement.
-    ^319/319<num>$ ^Lampedusa/*Lampedusa$	; Lampedusa.
-    ^319/319<num>$ ^indipendenti/*indipendenti$	; independent.
-    ^319/319<num>$ ^għaddejja/*għaddejja$	; underway.
-    ^318/318<num>$ ^Salm/*Salm$		; 	PSALM (m)	; Psalm.
-    ^318/318<num>$ ^reġgħet/*reġgħet$	; again.
-    ^318/318<num>$ ^Mass/*Mass$	; Max.
-    ^318/318<num>$ ^ghalina/*ghalina$	; us.
-    ^318/318<num>$ ^Ellul/*Ellul$	; Ellul.
-    ^318/318<num>$ ^attentat/*attentat$	; attempted.
-    ^317/317<num>$ ^irnexxielu/*irnexxielu$	; succeeded.
-    ^316/316<num>$ ^tispiċċa/*tispiċċa$	; ends.
-    ^316/316<num>$ ^simbolu/*simbolu$		; 	SYMBOL (m)	; symbol.
-    ^315/315<num>$ ^zewgt/*zewgt$	; both such.
-    ^315/315<num>$ ^vv/*vv$	; vv.
-    ^315/315<num>$ ^sett/*sett$	; set.
-    ^315/315<num>$ ^Pt/*Pt$	; Pt.
-    ^315/315<num>$ ^kontenut/*kontenut$		; 	CONTENT (m)	; content.
-    ^315/315<num>$ ^his/*his$	; His.
-    ^315/315<num>$ ^helikopter/*helikopter$	; helicopter.
-    ^315/315<num>$ ^għandhiex/*għandhiex$	; should.
-    ^315/315<num>$ ^daqqiet/*daqqiet$	; dents.
-    ^314/314<num>$ ^magħmula/*magħmula$	; made.
+n    ^335/335<num>$ ^Iskwadra/*Iskwadra$	; Squadron.
+o    ^335/335<num>$ ^Għaldaqstant/*Għaldaqstant$	; Therefore.
+adj    ^334/334<num>$ ^xieraq/*xieraq$		; 	WORTHY 	; appropriate.
+?    ^334/334<num>$ ^Schembri/*Schembri$	; Schembri.
+n    ^334/334<num>$ ^santwarju/*santwarju$		; 	SHRINE (m)	; sanctuary.
+v    ^334/334<num>$ ^naqbel/*naqbel$	; I agree.
+v    ^334/334<num>$ ^jkomplu/*jkomplu$	; continue.
+n    ^334/334<num>$ ^ahwa/*ahwa$	; brothers.
+adj    ^333/333<num>$ ^varji/*varji$	; various.
+?    ^333/333<num>$ ^site/*site$	; site.
+n    ^333/333<num>$ ^sforz/*sforz$		; 	STRAIN (m)	; effort.
+v    ^333/333<num>$ ^jispiċċa/*jispiċċa$	; ends.
+adj    ^333/333<num>$ ^isbah/*isbah$	; Best.
+n    ^333/333<num>$ ^gowler/*gowler$	; goalkeeper.
+n    ^332/332<num>$ ^żjara/*żjara$		; 	VISIT (f)	; visit.
+v    ^332/332<num>$ ^insib/*insib$	; trapping.
+adv    ^331/331<num>$ ^ruħhom/*ruħhom$	; themselves.
+v    ^331/331<num>$ ^qisha/*qisha$	; like.
+n    ^331/331<num>$ ^profeti/*profeti$	; prophets.
+adv    ^331/331<num>$ ^Nru/*Nru$	; No.
+n    ^331/331<num>$ ^anniversarju/*anniversarju$	; anniversary.
+n    ^330/330<num>$ ^żball/*żball$		; 	MISTAKE (m)	; error.
+n    ^330/330<num>$ ^toffri/*toffri$	; offers.
+adj    ^330/330<num>$ ^spiccaw/*spiccaw$	; ceased.
+adv    ^330/330<num>$ ^ruhi/*ruhi$	; myself.
+adj    ^330/330<num>$ ^Qiegħed/*Qiegħed$		; 	UNEMPLOYED 	; Place.
+n    ^330/330<num>$ ^qbil/*qbil$	; agreement.
+n    ^330/330<num>$ ^barka/*barka$	; blessing.
+n    ^329/329<num>$ ^ħila/*ħila$		; 	SKILL (f)	; ability.
+n    ^329/329<num>$ ^dhul/*dhul$		; 	REVENUE (m)	; income.
+?    ^328/328<num>$ ^Sunday/*Sunday$	; Sunday.
+v    ^328/328<num>$ ^jiltaqa/*jiltaqa$	; encounters.
+v    ^328/328<num>$ ^jgib/*jgib$	; brings.
+n    ^327/327<num>$ ^palazz/*palazz$		; 	PALACE (m)	; palace.
+v    ^327/327<num>$ ^nieqsa/*nieqsa$	; missing.
+adj    ^327/327<num>$ ^mejta/*mejta$	; dead.
+v    ^327/327<num>$ ^jaħsbu/*jaħsbu$	; think.
+n    ^327/327<num>$ ^idejja/*idejja$	; arm.
+adj    ^327/327<num>$ ^baghat/*baghat$	; sent.
+?    ^326/326<num>$ ^progress/*progress$	; progress.
+o    ^326/326<num>$ ^ecc/*ecc$	; etc..
+adj    ^325/325<num>$ ^regolari/*regolari$	; regular.
+?    ^325/325<num>$ ^Qala/*Qala$	; Qala.
+o    ^325/325<num>$ ^Prosit/*Prosit$	; Congratulations.
+n    ^325/325<num>$ ^offerti/*offerti$	; offerings.
+n    ^325/325<num>$ ^miexi/*miexi$	; progressing.
+o    ^325/325<num>$ ^kulma/*kulma$	; everything.
+v    ^325/325<num>$ ^jgħin/*jgħin$	; help.
+adj    ^325/325<num>$ ^jaqbel/*jaqbel$		; 	COMPATIBLE 	; agrees.
+n    ^325/325<num>$ ^idur/*idur$	; turn.
+v    ^325/325<num>$ ^idejk/*idejk$	; hands.
+n    ^324/324<num>$ ^qawmien/*qawmien$	; resurrection.
+o    ^324/324<num>$ ^Peress/*Peress$	; Since.
+n    ^324/324<num>$ ^kobor/*kobor$	; magnitude.
+n    ^324/324<num>$ ^haddiem/*haddiem$		; 	WORKMAN (m)	; worker.
+adv    ^324/324<num>$ ^avolja/*avolja$		; 	EVEN 	; though.
+adj    ^323/323<num>$ ^raġun/*raġun$	; right.
+?    ^323/323<num>$ ^Patrol/*Patrol$	; Patrol.
+adv    ^323/323<num>$ ^Malli/*Malli$	; Once.
+v    ^323/323<num>$ ^jirbaħ/*jirbaħ$	; wins.
+n    ^323/323<num>$ ^impjieg/*impjieg$		; 	SITUATION (m)	; jobs.
+adv    ^322/322<num>$ ^sikwit/*sikwit$		; 	OFTEN 	; often.
+n    ^322/322<num>$ ^pazjenti/*pazjenti$	; patients.
+n    ^322/322<num>$ ^lok/*lok$		; 	VENUE (m)	; location.
+v    ^322/322<num>$ ^jibni/*jibni$	; build.
+o    ^322/322<num>$ ^hijiex/*hijiex$	; is.
+v    ^321/321<num>$ ^żejjed/*żejjed$	; excess.
+o    ^321/321<num>$ ^tani/*tani$	; me.
+n    ^321/321<num>$ ^Sidna/*Sidna$	; Lord.
+?    ^321/321<num>$ ^Pasqua/*Pasqua$	; Pasqua.
+n    ^321/321<num>$ ^kenn/*kenn$		; 	SHELTER (m)	; shelter.
+v    ^321/321<num>$ ^jghidli/*jghidli$	; tells.
+?    ^321/321<num>$ ^Insomma/*Insomma$	; Insomma.
+?    ^321/321<num>$ ^Hold/*Hold$	; Hold.
+n    ^321/321<num>$ ^għarfien/*għarfien$	; knowledge.
+v    ^320/320<num>$ ^tistenna/*tistenna$	; wait.
+v    ^320/320<num>$ ^qaltli/*qaltli$	; told me.
+n    ^320/320<num>$ ^Karmnu/*Karmnu$	; Caramel.
+n    ^320/320<num>$ ^ħaqq/*ħaqq$		; 	MERIT (m)	; Indeed.
+o    ^320/320<num>$ ^ghalik/*ghalik$	; you.
+n    ^319/319<num>$ ^stqarrija/*stqarrija$	; statement.
+?    ^319/319<num>$ ^Lampedusa/*Lampedusa$	; Lampedusa.
+adj    ^319/319<num>$ ^indipendenti/*indipendenti$	; independent.
+o    ^319/319<num>$ ^għaddejja/*għaddejja$	; underway.
+n    ^318/318<num>$ ^Salm/*Salm$		; 	PSALM (m)	; Psalm.
+adv    ^318/318<num>$ ^reġgħet/*reġgħet$	; again.
+adv    ^318/318<num>$ ^Mass/*Mass$	; Max.
+o    ^318/318<num>$ ^ghalina/*ghalina$	; us.
+?    ^318/318<num>$ ^Ellul/*Ellul$	; Ellul.
+v    ^318/318<num>$ ^attentat/*attentat$	; attempted.
+v    ^317/317<num>$ ^irnexxielu/*irnexxielu$	; succeeded.
+v    ^316/316<num>$ ^tispiċċa/*tispiċċa$	; ends.
+n    ^316/316<num>$ ^simbolu/*simbolu$		; 	SYMBOL (m)	; symbol.
+o    ^315/315<num>$ ^zewgt/*zewgt$	; both such.
+?    ^315/315<num>$ ^vv/*vv$	; vv.
+n    ^315/315<num>$ ^sett/*sett$	; set.
+?    ^315/315<num>$ ^Pt/*Pt$	; Pt.
+n    ^315/315<num>$ ^kontenut/*kontenut$		; 	CONTENT (m)	; content.
+?    ^315/315<num>$ ^his/*his$	; His.
+n    ^315/315<num>$ ^helikopter/*helikopter$	; helicopter.
+v    ^315/315<num>$ ^għandhiex/*għandhiex$	; should.
+n    ^315/315<num>$ ^daqqiet/*daqqiet$	; dents.
+adj    ^314/314<num>$ ^magħmula/*magħmula$	; made.
     ^314/314<num>$ ^jispiċċaw/*jispiċċaw$	; end.
     ^314/314<num>$ ^ċittadin/*ċittadin$	; citizen.
     ^314/314<num>$ ^CHAIRMAN/*CHAIRMAN$	; CHAIRMAN.
