@@ -1,0 +1,25 @@
+   1656 ^@u<prn><p3><m>$
+   1053 ^@hom<prn><p3><mf>$
+    722 ^@na<prn><p1><mf>$
+    645 ^@ha<prn><p3><f>$
+    578 ^@prpers<prn><obj><p3><m>$
+    401 ^@dak<prn><dem><mf>$
+    320 ^@i<prn><p1><mf>$
+    219 ^@wieħed<prn><ind><mf>$
+    206 ^@ieħor<prn><ind><m>$
+    162 ^@dak<prn><dem><f>$
+    137 ^@dak<prn><dem><m>$
+    120 ^@kulħadd<prn><ind><m>$
+    106 ^@ek<prn><p2><mf>$
+     70 ^@xi ħaġa<prn><ind><mf>$
+     51 ^@bosta<prn><ind><mf>$
+     50 ^@xulxin<prn><recip><mf><sp>$
+     49 ^@prpers<prn><obj><p3><f>$
+     44 ^@ħafna<prn><ind><mf>$
+     23 ^@prpers<prn><obj><p1>$
+     21 ^@kom<prn><p2><mf>$
+     14 ^@wieħed<prn><ind><mf><px3sg_m>$
+      8 ^@prpers<prn><obj><p3>$
+      5 ^@prpers<prn><obj><p2>$
+      4 ^@wieħed<prn><ind><mf><px1sg>$
+      3 ^@wieħed<prn><ind><mf><px2sg>$
