@@ -3374,8 +3374,11 @@
     <e lm="direttiva"><i>direttiv</i><par n="propost/a__n_f"/></e>
     <e lm="film"><i>film</i><par n="gowl__n_m"/></e>
     <e lm="filmat"><i>filmat</i><par n="moviment__n_m"/></e>
+    <e lm="katidral"><i>katidral</i><par n="moviment__n_m"/></e>
+    <e lm="konkatidral"><i>konkatidral</i><par n="moviment__n_m"/></e>
     <e lm="iżvilupp" c="development"><i>iżvilupp</i><par n="moviment__n_m"/></e>
     <e lm="filosofu"><i>filosof</i><par n="buff/u__n_m"/></e>
+    <e lm="ċentru"><i>ċentr</i><par n="buff/u__n_m"/></e>
     <e lm="ghazla"><i>ghazl</i><par n="sħubij/a__n_f"/></e>
     <e lm="grawnd"><i>grawnd</i><par n="gowl__n_m"/></e>
     <e lm="istilla"><i>istil</i><par n="xal/la__n_f"/></e>
@@ -3637,6 +3640,7 @@
 
 
     <e lm="proposta"><i>propost</i><par n="propost/a__n_f"/></e>
+    <e lm="prova"><i>prov</i><par n="propost/a__n_f"/></e>
     <e lm="maratona"><i>maraton</i><par n="propost/a__n_f"/></e>
     <e lm="ittra"><i>ittr</i><par n="propost/a__n_f"/></e>
     <e lm="persuna"><i>persun</i><par n="propost/a__n_f"/></e>
@@ -5635,6 +5639,7 @@
     <e lm="kontemporanju"><i>kontemporanj</i><par n="kwadr/u__adj"/></e>
     <e lm="propju" r="LR"><p><l>propj</l><r>proprj</r></p><par n="kwadr/u__adj"/></e>
     <e lm="proprju"><i>proprj</i><par n="kwadr/u__adj"/></e>
+    <e lm="santu"><i>sant</i><par n="kwadr/u__adj"/></e>
 
     <e lm="abjad" c="white"><i></i><par n="/abjad__adj"/></e>
     <e lm="artab" c="soft"><i></i><par n="/artab__adj"/></e>
