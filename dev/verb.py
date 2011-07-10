@@ -406,7 +406,7 @@ def doubled_past(root, vowels): #{
 
 	return forms;
 #}
-	
+
 def doubled_pres(root, vowels): #{
 	r = root.split('-'); # radicals
 	v = vowels.split('-'); # vowels
@@ -465,6 +465,62 @@ def doubled_pp(root, vowels, pref): #{
 
 	return forms;
 #}
+
+def quad_past(root, vowels): #{
+	r = root.split('-'); # radicals
+	v = vowels.split('-'); # vowels
+
+	forms = {};
+
+	forms['past.p3.m.sg'] = [(r[0] + v[0] + r[1] + r[2] + v[1] + r[3], '-')];
+	forms['past.p3.f.sg'] = [(r[0] + v[0] + r[1] + r[2] + r[3] + 'et', '-')];
+	forms['past.p2.sg'] = [(r[0] + v[0] + r[1] + r[2] + v[1] + r[3] + 't', '-')];
+	forms['past.p1.sg'] = [(r[0] + v[0] + r[1] + r[2] + v[1] + r[3] + 't', '-')];
+	forms['past.p3.pl'] = [(r[0] + v[0] + r[1] + r[2] + r[3] + 'u', '-')];
+	forms['past.p2.pl'] = [(r[0] + v[0] + r[1] + r[2] + v[1] + r[3] + 'tu', '-')];
+	forms['past.p1.pl'] = [(r[0] + v[0] + r[1] + r[2] + v[1] + r[3] + 'na', '-')];
+
+	return forms;
+#}
+	
+def quad_pres(root, vowels): #{
+	r = root.split('-'); # radicals
+	v = vowels.split('-'); # vowels
+
+	forms = {};
+
+	forms['pres.p3.m.sg'] = [('i' + r[0] + v[0] + r[1] + r[2] + v[1] + r[3], 'LR'),		# idardar
+				 ('j' + r[0] + v[0] + r[1] + r[2] + v[1] + r[3], 'LR'), 	# jdardar
+				 ('i' + r[0] + v[0] + r[1] + r[2] + v[1] + r[3], 'RL')];	# ~idardar
+
+	forms['pres.p3.f.sg'] = [('i' + r[0] + r[0] + v[0] + r[1] + r[2] + v[1] + r[3], 'LR'),	# iddardar
+				 (r[0] + r[0] + v[0] + r[1] + r[2] + v[1] + r[3], 'LR'),	# ddardar
+				 ('i' + r[0] + r[0] + v[0] + r[1] + r[2] + v[1] + r[3], 'RL')];	# ~iddardar
+
+	forms['pres.p2.sg'] = [('i' + r[0] + r[0] + v[0] + r[1] + r[2] + v[1] + r[3], 'LR'),	# iddardar
+				 (r[0] + r[0] + v[0] + r[1] + r[2] + v[1] + r[3], 'LR'),	# ddardar
+				 ('i' + r[0] + r[0] + v[0] + r[1] + r[2] + v[1] + r[3], 'RL')];	# ~iddardar
+
+
+	forms['pres.p1.sg'] = [('in' + r[0] + v[0] + r[1] + r[2] + v[1] + r[3], 'LR'),		# indardar
+			       ('n' + r[0] + v[0] + r[1] + r[2] + v[1] + r[3], 'LR'),		# ndardar
+			       ('in' + r[0] + r[0] + v[0] + r[1] + r[2] + v[1] + r[3], 'RL')];	# indardar
+
+	forms['pres.p3.pl'] = [('i' + r[0] + v[0] + r[1] + r[2] + r[3] + 'u', 'LR'),		# idardru
+				 ('j' + r[0] + v[0] + r[1] + r[2] + r[3] + 'u', 'LR'), 		# jdardru
+				 ('i' + r[0] + v[0] + r[1] + r[2] + r[3] + 'u', 'RL')];		# ~idardru
+
+	forms['pres.p2.pl'] = [('i' + r[0] + r[0] + v[0] + r[1] + r[2] + r[3] + 'u', 'LR'),	# iddardru
+				 (r[0] + r[0] + v[0] + r[1] + r[2] + r[3] + 'u', 'LR'),		# ddardru
+				 ('i' + r[0] + r[0] + v[0] + r[1] + r[2] + r[3] + 'u', 'RL')];	# ~iddardru
+
+	forms['pres.p1.pl'] = [('in' + r[0] + v[0] + r[1] + r[2] + r[3] + 'u', '-')];		# indardru
+
+
+	return forms;
+#}
+
+
 
 ##-----------------------------------------------------------------------------##
 
@@ -658,6 +714,26 @@ stems = [
 	{'stem': 'ġeżż', 'type': 'doubled', 'gloss': 'shear', 'root': 'ġ-ż-ż', 'vowel_perf': 'e-e', 'vowel_impf': 'i-e', 'trans': 'tv', 'pp': 'mi'},
 	{'stem': 'kedd', 'type': 'doubled', 'gloss': 'vex', 'root': 'k-d-d', 'vowel_perf': 'e-e', 'vowel_impf': 'i-e', 'trans': 'tv', 'pp': 'mi'},
 	
+	{'stem': 'qaħqaħ', 'type': 'quad', 'gloss': 'hack', 'root': 'q-ħ-q-ħ', 'vowel_perf': 'a-a', 'vowel_impf': 'a-a', 'trans': 'tv', 'pp': 'im'},
+	{'stem': 'dardar', 'type': 'quad', 'gloss': 'make·turbid', 'root': 'd-r-d-r', 'vowel_perf': 'a-a', 'vowel_impf': 'a-a', 'trans': 'tv', 'pp': 'im'},
+	{'stem': 'farfar', 'type': 'quad', 'gloss': 'shake·off·dust', 'root': 'f-r-f-r', 'vowel_perf': 'a-a', 'vowel_impf': 'a-a', 'trans': 'tv', 'pp': 'im'},
+	{'stem': 'ħarbat', 'type': 'quad', 'gloss': 'rout', 'root': 'ħ-r-b-t', 'vowel_perf': 'a-a', 'vowel_impf': 'a-a', 'trans': 'tv', 'pp': 'im'},
+	{'stem': 'każbar', 'type': 'quad', 'gloss': 'revile', 'root': 'k-ż-b-r', 'vowel_perf': 'a-a', 'vowel_impf': 'a-a', 'trans': 'tv', 'pp': 'im'},
+	{'stem': 'bandal', 'type': 'quad', 'gloss': 'swing', 'root': 'b-n-d-l', 'vowel_perf': 'a-a', 'vowel_impf': 'a-a', 'trans': 'tv', 'pp': 'im'},
+	{'stem': 'qarmeċ', 'type': 'quad', 'gloss': 'crunch', 'root': 'q-r-m-ċ', 'vowel_perf': 'a-e', 'vowel_impf': 'a-e', 'trans': 'tv', 'pp': 'im'},
+	{'stem': 'ħawtel', 'type': 'quad', 'gloss': 'be·diligent', 'root': 'ħ-w-t-l', 'vowel_perf': 'a-e', 'vowel_impf': 'a-e', 'trans': 'tv', 'pp': 'im'},
+	{'stem': 'kexkex', 'type': 'quad', 'gloss': 'shock', 'root': 'k-x-k-x', 'vowel_perf': 'e-e', 'vowel_impf': 'e-e', 'trans': 'tv', 'pp': 'im'},
+	{'stem': 'petpet', 'type': 'quad', 'gloss': 'blink', 'root': 'p-t-p-t', 'vowel_perf': 'e-e', 'vowel_impf': 'e-e', 'trans': 'tv', 'pp': 'im'},
+	{'stem': 'temtem', 'type': 'quad', 'gloss': 'stutter', 'root': 't-m-t-m', 'vowel_perf': 'e-e', 'vowel_impf': 'e-e', 'trans': 'tv', 'pp': 'im'},
+	{'stem': 'xengel', 'type': 'quad', 'gloss': 'swing', 'root': 'x-n-g-l', 'vowel_perf': 'e-e', 'vowel_impf': 'e-e', 'trans': 'tv', 'pp': 'im'},
+	{'stem': 'ċempel', 'type': 'quad', 'gloss': 'ring', 'root': 'ċ-m-p-l', 'vowel_perf': 'e-e', 'vowel_impf': 'e-e', 'trans': 'tv', 'pp': 'im'},
+	{'stem': 'dendel', 'type': 'quad', 'gloss': 'hang', 'root': 'd-n-d-l', 'vowel_perf': 'e-e', 'vowel_impf': 'e-e', 'trans': 'tv', 'pp': 'im'},
+	{'stem': 'gerbeb', 'type': 'quad', 'gloss': 'roll', 'root': 'g-r-b-b', 'vowel_perf': 'e-e', 'vowel_impf': 'e-e', 'trans': 'tv', 'pp': 'im'},
+	{'stem': 'fesdaq', 'type': 'quad', 'gloss': 'shell·peas', 'root': 'f-s-d-q', 'vowel_perf': 'e-a', 'vowel_impf': 'e-a', 'trans': 'tv', 'pp': 'im'},
+	{'stem': 'tertaq', 'type': 'quad', 'gloss': 'shatter', 'root': 't-r-t-q', 'vowel_perf': 'e-a', 'vowel_impf': 'e-a', 'trans': 'tv', 'pp': 'im'},
+	{'stem': 'werżaq', 'type': 'quad', 'gloss': 'scream', 'root': 'w-r-ż-q', 'vowel_perf': 'e-a', 'vowel_impf': 'e-a', 'trans': 'tv', 'pp': 'im'},
+	{'stem': 'fixkel', 'type': 'quad', 'gloss': 'obstruct', 'root': 'f-x-k-l', 'vowel_perf': 'i-e', 'vowel_impf': 'i-e', 'trans': 'tv', 'pp': 'im'},
+	{'stem': 'bixkel', 'type': 'quad', 'gloss': 'cheat', 'root': 'b-x-k-l', 'vowel_perf': 'i-e', 'vowel_impf': 'i-e', 'trans': 'iv', 'pp': 'im'}
 ];
 
 ##-----------------------------------------------------------------------------##
@@ -702,6 +778,11 @@ for stem in stems: #{
 			infl[stem['stem']].update(doubled_imp(stem['root'], stem['vowel_impf']));
 		if 'pp' in stem: #{
 			infl[stem['stem']].update(doubled_pp(stem['root'], stem['vowel_perf'], stem['pp']));
+
+	elif stem['type'] == 'quad': #{
+
+		infl[stem['stem']] = quad_past(stem['root'], stem['vowel_perf']);
+		infl[stem['stem']].update(quad_pres(stem['root'], stem['vowel_perf']));
 	#}
 #}
 
