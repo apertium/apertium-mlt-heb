@@ -3374,6 +3374,7 @@
     <e lm="direttiva"><i>direttiv</i><par n="propost/a__n_f"/></e>
     <e lm="film"><i>film</i><par n="gowl__n_m"/></e>
     <e lm="filmat"><i>filmat</i><par n="moviment__n_m"/></e>
+    <e lm="kardinal"><i>kardinal</i><par n="moviment__n_m"/></e>
     <e lm="katidral"><i>katidral</i><par n="moviment__n_m"/></e>
     <e lm="konkatidral"><i>konkatidral</i><par n="moviment__n_m"/></e>
     <e lm="iżvilupp" c="development"><i>iżvilupp</i><par n="moviment__n_m"/></e>
@@ -4204,7 +4205,9 @@
     <e lm="soċjaliżmu"><i>soċjaliżmu</i><par n="tniġġis__n_m"/></e>
     <e lm="trejdunjoniżmu"><i>trejdunjoniżmu</i><par n="tniġġis__n_m"/></e>
     <e lm="trijonfaliżmu"><i>trijonfaliżmu</i><par n="tniġġis__n_m"/></e>
+    <e lm="terroriżmu"><i>terroriżmu</i><par n="tniġġis__n_m"/></e>
     <e lm="turiżmu"><i>turiżmu</i><par n="tniġġis__n_m"/></e>
+    <e lm="kuntrabandu"><i>kuntrabandu</i><par n="tniġġis__n_m"/></e> <!-- no pl ? -->
 
 
     <e lm="memorja"><i>memorj</i><par n="propost/a__n_f"/></e>
@@ -4928,6 +4931,8 @@
 
     <e lm="Cape Town"><i>Cape<b/>Town</i><par n="Tibet__np"/></e>
     <e lm="Ġerusalemm"><i>Ġerusalemm</i><par n="Tibet__np"/></e>
+    <e lm="Portugall"><i>Portugall</i><par n="Tibet__np"/></e>
+    <e lm="Lussemburgu"><i>Lussemburgu</i><par n="Tibet__np"/></e>
     <e lm="Zurrieq"><i>Zurrieq</i><par n="Tibet__np"/></e>
     <e lm="Bejġing"><i>Bejġing</i><par n="Tibet__np"/></e>
     <e lm="San Pietruburgu"><i>San<b/>Pietruburgu</i><par n="Tibet__np"/></e>
@@ -5260,6 +5265,7 @@
 
     <e lm="Borg"><i>Borg</i><par n="Cervantes__np"/></e> <!-- should be Borġ ? -->
     <e lm="Foucault"><i>Foucault</i><par n="Cervantes__np"/></e>
+    <e lm="Dylan"><i>Dylan</i><par n="Cervantes__np"/></e>
     <e lm="Debono"><i>Debono</i><par n="Cervantes__np"/></e>
     <e lm="Pulis"><i>Pulis</i><par n="Cervantes__np"/></e>
     <e lm="Mintoff"><i>Mintoff</i><par n="Cervantes__np"/></e>
@@ -5425,7 +5431,9 @@
     <!-- TODO: Some of these may need to be categorised for gender -->
     <e lm="Olimpjadi"><i>Olimpjadi</i><par n="San__np"/></e> <!-- CHECK: pl? -->
     <e lm="San"><i>San</i><par n="San__np"/></e>
+    <e lm="Air Malta"><i>Air<b/>Malta</i><par n="San__np"/></e>
     <e lm="Eurovision"><i>Eurovision</i><par n="San__np"/></e>
+    <e lm="Partnership for Peace"><i>Partnership<b/>for<b/>Peace</i><par n="San__np"/></e>
     <e lm="Wikipedija"><i>Wikipedija</i><par n="San__np"/></e>
     <e lm="Papa"><i>Papa</i><par n="San__np"/></e>
     <e lm="Reporter"><i>Reporter</i><par n="San__np"/></e>
