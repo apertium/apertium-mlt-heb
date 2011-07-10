@@ -3259,6 +3259,7 @@
     <e lm="bandiera" c="flag"><i>b</i><par n="b/andiera__n_f"/></e>
     <e lm="iskola" c="school"><i>isk</i><par n="isk/ola__n_f"/></e>
     <e lm="iskola" c="school" r="LR"><p><l>sk</l><r>isk</r></p><par n="isk/ola__n_f"/></e>
+    <e lm="art" c="land"><i>art</i><par n="omm__n_f"/></e>
 
 
     <e lm="solidarjetà"><i>solidarjet</i><par n="entit/à__n_f"/></e>
@@ -3528,6 +3529,7 @@
     <e lm="importanza" c="importance"><i>importanza</i><par n="molestja__n_f"/></e>
     <e lm="tolleranza" c="tolerance"><i>tolleranza</i><par n="molestja__n_f"/></e>
     <e lm="ugwaljanza" c="equality"><i>ugwaljanza</i><par n="molestja__n_f"/></e>
+    <e lm="arti" c="art"><i>arti</i><par n="molestja__n_f"/></e> <!-- no pl?-->
 
     <e lm="proposta"><i>propost</i><par n="propost/a__n_f"/></e>
     <e lm="maratona"><i>maraton</i><par n="propost/a__n_f"/></e>
@@ -3804,7 +3806,6 @@
 
     <!-- autodiscovered with process-nouns-with-paradigms.py -->
     <e lm="ammont"><i>ammont</i><par n="moviment__n_m"/></e>
-    <e lm="arti"><i>arti</i><par n="unjoni__n_f"/></e>
     <e lm="artist"><i>artist</i><par n="moviment__n_m"/></e>
     <e lm="artista"><i>artist</i><par n="propost/a__n_f"/></e>
     <e lm="aspett"><i>aspett</i><par n="moviment__n_m"/></e>
