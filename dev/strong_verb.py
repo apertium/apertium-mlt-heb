@@ -19,6 +19,7 @@ def header(): #{
 	header = header + '  <sdefs>\n';
 	header = header + '    <sdef n="vblex"/>\n';
 	header = header + '    <sdef n="past"/>\n';
+	header = header + '    <sdef n="neg"/>\n';
 	header = header + '    <sdef n="pres"/>\n';
 	header = header + '    <sdef n="imp"/>\n';
 	header = header + '    <sdef n="pprs"/>\n';
@@ -149,6 +150,8 @@ def past(root, vowels): #{
 
 ##-----------------------------------------------------------------------------##
 
+iv_with_pprs = ['qagħad', 'raqad'];
+
 stems = [
 	{'stem': 'qasam', 'gloss': 'break', 'root': 'q-s-m', 'vowel_perf': 'a-a', 'vowel_impf': 'a-a', 'trans': 'tv'},
 	{'stem': 'ħabat', 'gloss': 'strike', 'root': 'ħ-b-t', 'vowel_perf': 'a-a', 'vowel_impf': 'a-a', 'trans': 'TD'},
@@ -177,7 +180,7 @@ stems = [
 	{'stem': 'saħan', 'gloss': 'become·warm', 'root': 's-ħ-n', 'vowel_perf': 'a-a', 'vowel_impf': 'i-o', 'trans': 'TD'},
 	{'stem': 'talab', 'gloss': 'pray, ask', 'root': 't-l-b', 'vowel_perf': 'a-a', 'vowel_impf': 'i-o', 'trans': 'TD'},
 	{'stem': 'maxat', 'gloss': 'comb', 'root': 'm-x-t', 'vowel_perf': 'a-a', 'vowel_impf': 'o-o', 'trans': 'TD'},
-	{'stem': 'qagħad', 'gloss': 'stand', 'root': 'q-għ-d', 'vowel_perf': 'a-a', 'vowel_impf': 'o-o', 'trans': 'TD'},
+	{'stem': 'qagħad', 'gloss': 'stand', 'root': 'q-għ-d', 'vowel_perf': 'a-a', 'vowel_impf': 'o-o', 'trans': 'iv', 'pp': 'ma'},
 	{'stem': 'bagħad', 'gloss': 'hate', 'root': 'b-għ-d', 'vowel_perf': 'a-a', 'vowel_impf': 'o-o', 'trans': 'TD'},
 	{'stem': 'baram', 'gloss': 'twist', 'root': 'b-r-m', 'vowel_perf': 'a-a', 'vowel_impf': 'o-o', 'trans': 'TD'},
 	{'stem': 'ħanaq', 'gloss': 'make', 'root': 'ħ-n-q', 'vowel_perf': 'a-a', 'vowel_impf': 'o-o', 'trans': 'TD'},
@@ -279,8 +282,9 @@ for stem in stems: #{
 
 	infl[stem['stem']] = past(stem['root'], stem['vowel_perf']);
 
-	if stem['trans'] == 'tv':
+	if stem['trans'] == 'tv' or stem['stem'] in iv_with_pprs:
 		infl[stem['stem']].update(pprs(stem['root'], stem['vowel_perf']));
+
 	if 'pp' in stem: 
 		infl[stem['stem']].update(pp(stem['root'], stem['vowel_perf'], stem['pp']));
 
@@ -295,15 +299,16 @@ for stem in infl: #{
 
 	for flex in infl[stem]: #{
 		outline = '';
+		left = infl[stem][flex][0];
+		right = stem + '<s n="vblex"/>' + sym(flex);
+
 		if infl[stem][flex][1] == '-': #{
 			outline = outline + '    <e lm="' + stem + '">';
 		else: #{
 			outline = outline + '    <e lm="' + stem + '" r="' + infl[stem][flex][1] + '">';
 		#}
-		outline = outline + '<p><l>' + infl[stem][flex][0] + '</l><r>';
-		outline = outline + stem + '<s n="vblex"/>' + sym(flex);  # add tv/iv
-		outline = outline + '</r></p></e>';
-		print outline;
+		print outline + '<p><l>' + left + '</l><r>' + right + '</r></p></e>';
+		print outline + '<p><l>' + left + 'x</l><r>' + right + '<j/>x<s n="neg"/></r></p></e>';
 	#}
 #}
 
