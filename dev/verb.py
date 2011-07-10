@@ -520,6 +520,32 @@ def quad_pres(root, vowels): #{
 	return forms;
 #}
 
+def quad_imp(root, vowels): #{
+	r = root.split('-'); # radicals
+	v = vowels.split('-'); # vowels
+
+	forms = {};
+	
+	suffix = 'u'
+
+	forms['imp.p2.sg'] = [(r[0] + v[0] + r[1] + r[2] + v[1] + r[3], '-')];
+	forms['imp.p2.pl'] = [(r[0] + v[0] + r[1] + r[2] + r[3] + suffix , '-')];
+
+	return forms;
+#}
+
+def quad_pp(root, vowels, pref): #{
+	r = root.split('-'); # radicals
+	v = vowels.split('-'); # vowels
+
+	forms = {};
+
+	forms['pp.m.sg'] = [(pref + r[0] + v[0] + r[1] + r[2] + v[1] + r[3], '-')];	# imdardar
+	forms['pp.f.sg'] = [(pref + r[0] + v[0] + r[1] + r[2] + r[3] + 'a', '-')];	# imdardra
+	forms['pp.mf.pl'] = [(pref + r[0] + v[0] + r[1] + r[2] + r[3] + 'in', '-')];	# imdardrin
+
+	return forms;
+#}
 
 
 ##-----------------------------------------------------------------------------##
@@ -783,6 +809,9 @@ for stem in stems: #{
 
 		infl[stem['stem']] = quad_past(stem['root'], stem['vowel_perf']);
 		infl[stem['stem']].update(quad_pres(stem['root'], stem['vowel_perf']));
+		infl[stem['stem']].update(quad_imp(stem['root'], stem['vowel_perf']));
+		if 'pp' in stem: #{
+			infl[stem['stem']].update(quad_pp(stem['root'], stem['vowel_perf'], stem['pp']));
 	#}
 #}
 
