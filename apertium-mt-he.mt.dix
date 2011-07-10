@@ -128,19 +128,19 @@
 
     <!-- TODO: check the forms -->
     <pardef n="it-/Tnejn__n">
-      <e r="LR"><p><l>it<b/></l><r>il-</r></p></e>
-      <e r="LR"><p><l>t<b/></l><r>il-</r></p></e>
-      <e r="LR"><p><l>it-</l><r>il-</r></p></e>
-      <e r="LR"><p><l>t-</l><r>il-</r></p></e>
-      <e r="LR"><p><l>lit<b/></l><r>lil<s n="pr"/><j/>il-</r></p></e>
-      <e r="LR"><p><l>tat-</l><r>ta'<s n="pr"/><j/>il-</r></p></e>
-      <e r="LR"><p><l>sat-</l><r>sa<s n="pr"/><j/>il-</r></p></e>
-      <e r="LR"><p><l>mat-</l><r>ma'<s n="pr"/><j/>il-</r></p></e>
-      <e r="LR"><p><l>bħat-</l><r>bħal<s n="pr"/><j/>il-</r></p></e>
-      <e r="LR"><p><l>għat-</l><r>għal<s n="pr"/><j/>il-</r></p></e>
-      <e r="LR"><p><l>fit-</l><r>fi<s n="pr"/><j/>il-</r></p></e>
-      <e r="LR"><p><l>mit-</l><r>minn<s n="pr"/><j/>il-</r></p></e>
-      <e r="RL"><p><l><a/>il-</l><r>il-</r></p></e>
+      <e r="LR"><p><l>it<b/></l><r>it-</r></p></e>
+      <e r="LR"><p><l>t<b/></l><r>it-</r></p></e>
+      <e r="LR"><p><l>it-</l><r>it-</r></p></e>
+      <e r="LR"><p><l>t-</l><r>it-</r></p></e>
+      <e r="LR"><p><l>lit<b/></l><r>lil<s n="pr"/><j/>it-</r></p></e>
+      <e r="LR"><p><l>tat-</l><r>ta'<s n="pr"/><j/>it-</r></p></e>
+      <e r="LR"><p><l>sat-</l><r>sa<s n="pr"/><j/>it-</r></p></e>
+      <e r="LR"><p><l>mat-</l><r>ma'<s n="pr"/><j/>it-</r></p></e>
+      <e r="LR"><p><l>bħat-</l><r>bħal<s n="pr"/><j/>it-</r></p></e>
+      <e r="LR"><p><l>għat-</l><r>għal<s n="pr"/><j/>it-</r></p></e>
+      <e r="LR"><p><l>fit-</l><r>fi<s n="pr"/><j/>it-</r></p></e>
+      <e r="LR"><p><l>mit-</l><r>minn<s n="pr"/><j/>it-</r></p></e>
+      <e r="RL"><p><l><a/>it-</l><r>it-</r></p></e>
     </pardef>
     <pardef n="i-/erbgħa__n">
       <e r="LR"><p><l>i<b/></l><r>il-</r></p></e>
