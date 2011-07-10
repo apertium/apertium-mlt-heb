@@ -389,6 +389,83 @@ def weak_pp(root, vowels, pref): #{
 #}
 
 
+def doubled_past(root, vowels): #{
+	r = root.split('-'); # radicals
+	v = vowels.split('-'); # vowels
+
+	forms = {};
+
+	forms['past.p3.m.sg'] = [(r[0] + v[0] + r[1] + r[2], '-')];
+	forms['past.p3.f.sg'] = [(r[0] + v[0] + r[1] + r[2] + 'et', '-')];
+	forms['past.p2.sg'] = [(r[0] + v[0] + r[1] + r[2] + 'ejt', '-')];
+	forms['past.p1.sg'] = [(r[0] + v[0] + r[1] + r[2] + 'ejt', '-')];
+	forms['past.p3.pl'] = [(r[0] + v[0] + r[1] + r[2] + 'u', '-'),
+			       (r[0] + v[0] + r[1] + r[2] + 'ew', 'LR')];
+	forms['past.p2.pl'] = [(r[0] + v[0] + r[1] + r[2] + 'ejtu', '-')];
+	forms['past.p1.pl'] = [(r[0] + v[0] + r[1] + r[2] + 'ejna', '-')];
+
+	return forms;
+#}
+	
+def doubled_pres(root, vowels): #{
+	r = root.split('-'); # radicals
+	v = vowels.split('-'); # vowels
+
+	forms = {};
+
+	forms['pres.p3.m.sg'] = [('i' + r[0] + v[1] + r[1] + r[2], 'LR'),		# irodd
+				 ('j' + r[0] + v[1] + r[1] + r[2], 'LR'), 		# jrodd
+				 ('i' + r[0] + v[1] + r[1] + r[2], 'RL')];		# ~irodd
+
+	forms['pres.p3.f.sg'] = [('t' + r[0] + v[1] + r[1] + r[2], '-')];		# trodd
+
+	forms['pres.p2.sg'] = [('t' + r[0] + v[1] + r[1] + r[2], '-')];			# trodd
+
+	forms['pres.p1.sg'] = [('in' + r[0] + v[1] + r[1] + r[2], 'LR'),		# inrodd
+			       ('i' + r[0] + r[0] + v[1] + r[1] + r[2], 'LR'),		# irrodd
+			       ('in' + r[0] + r[0] + v[1] + r[1] + r[2], 'RL')];	# irrodd
+
+	forms['pres.p3.pl'] = [('i' + r[0] + v[1] + r[1] + r[2] + 'u', 'LR'),		# iroddu
+				 ('j' + r[0] + v[1] + r[1] + r[2] + 'u', 'LR'), 	# jroddu
+				 ('i' + r[0] + v[1] + r[1] + r[2] + 'u', 'RL')];	# ~iroddu
+
+	forms['pres.p2.pl'] = [('t' + r[0] + v[1] + r[1] + r[2] + 'u', '-')];		# troddu
+
+	forms['pres.p1.pl'] = [('in' + r[0] + v[1] + r[1] + r[2] + 'u', 'LR'),		# inroddu
+			       ('i' + r[0] + r[0] + v[1] + r[1] + r[2] + 'u', 'LR'),	# irroddu
+			       ('in' + r[0] + r[0] + v[1] + r[1] + r[2] + 'u', 'RL')];	# irroddu
+
+
+	return forms;
+#}
+
+def doubled_imp(root, vowels): #{
+	r = root.split('-'); # radicals
+	v = vowels.split('-'); # vowels
+
+	forms = {};
+	
+	suffix = 'u'
+
+	forms['imp.p2.sg'] = [(r[0] + v[1] + r[1] + r[2], '-')];
+	forms['imp.p2.pl'] = [(r[0] + v[1] + r[1] + r[2] + suffix , '-')];
+
+	return forms;
+#}
+
+def doubled_pp(root, vowels, pref): #{
+	r = root.split('-'); # radicals
+	v = vowels.split('-'); # vowels
+
+	forms = {};
+	
+	forms['pp.m.sg'] = [(pref + r[0] + r[1] + 'u' + r[2], '-')];
+	forms['pp.f.sg'] = [(pref + r[0] + r[1] + 'u' + r[2] + 'a', '-')];
+	forms['pp.mf.pl'] = [(pref + r[0] + r[1] + 'u' + r[2] + 'in', '-')];
+
+	return forms;
+#}
+
 ##-----------------------------------------------------------------------------##
 
 iv_with_pprs = ['qagħad', 'raqad'];
@@ -554,6 +631,10 @@ stems = [
 	{'stem': 'ħela', 'type': 'weak', 'gloss': 'waste', 'root': 'ħ-l-j', 'vowel_perf': 'e-a', 'vowel_impf': 'i-a', 'trans': 'tv', 'pp': 'mo'},
 	{'stem': 'ħeba', 'type': 'weak', 'gloss': 'hide', 'root': 'ħ-b-j', 'vowel_perf': 'e-a', 'vowel_impf': 'i-a', 'trans': 'tv', 'pp': 'mo'},
 	{'stem': 'rema', 'type': 'weak', 'gloss': 'throw·away', 'root': 'r-m-j', 'vowel_perf': 'e-a', 'vowel_impf': 'a-i', 'trans': 'tv', 'p_stem': 'rmie', 'pp': 'mo'},
+
+
+	{'stem': 'radd', 'type': 'doubled', 'gloss': 'restore', 'root': 'r-d-d', 'vowel_perf': 'a-a', 'vowel_impf': 'a-o', 'trans': 'tv', 'pp': 'mi'},
+	{'stem': 'mess', 'type': 'doubled', 'gloss': 'touch', 'root': 'm-s-s', 'vowel_perf': 'e-e', 'vowel_impf': 'e-i', 'trans': 'tv', 'pp': 'mi'},
 	
 ];
 
@@ -590,6 +671,15 @@ for stem in stems: #{
 		infl[stem['stem']].update(weak_imp(stem['root'], stem['vowel_impf']));
 		if 'pp' in stem: #{
 			infl[stem['stem']].update(weak_pp(stem['root'], stem['vowel_perf'], stem['pp']));
+
+	elif stem['type'] == 'doubled': #{
+
+		infl[stem['stem']] = doubled_past(stem['root'], stem['vowel_perf']);
+		if 'vowel_impf' in stem: 
+			infl[stem['stem']].update(doubled_pres(stem['root'], stem['vowel_impf']));
+			infl[stem['stem']].update(doubled_imp(stem['root'], stem['vowel_impf']));
+		if 'pp' in stem: #{
+			infl[stem['stem']].update(doubled_pp(stem['root'], stem['vowel_perf'], stem['pp']));
 	#}
 #}
 
