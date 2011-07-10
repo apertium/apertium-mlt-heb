@@ -71,5 +71,8 @@ def main(stem, root, vowels):
 	sp['pres.p3.pl'] = pres_p3_pl(stem, root, vowels)
 	sp['imp.p2.sg'] = imp_p2_sg(stem, root, vowels)
 	sp['imp.p2.pl'] = imp_p2_pl(stem, root, vowels)
+	sp['pp.m.sg'] = 'muri';
+	sp['pp.f.sg'] = 'murija';
+	sp['pp.mf.pl'] = 'murijin';
 	
 	return sp

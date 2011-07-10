@@ -71,5 +71,8 @@ def main(stem, root, vowels):
 	sp['pres.p3.pl'] = pres_p3_pl(stem, root, vowels)
 	sp['imp.p2.sg'] = imp_p2_sg(stem, root, vowels)
 	sp['imp.p2.pl'] = imp_p2_pl(stem, root, vowels)
+	sp['pp.m.sg'] = 'mogħti';
+	sp['pp.f.sg'] = 'mogħtija';
+	sp['pp.mf.pl'] = 'mogħtijin'; # or mogħtija (TYM:p.195)
 	
 	return sp
