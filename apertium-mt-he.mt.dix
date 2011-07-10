@@ -3606,6 +3606,7 @@
     <e lm="molestja"><i>molestja</i><par n="molestja__n_f"/></e> <!-- verify gender -->
     <e lm="tniġġis"><i>tniġġis</i><par n="tniġġis__n_m"/></e> <!-- verify gender -->
     <e lm="futbol"><i>futbol</i><par n="tniġġis__n_m"/></e> <!-- no pl?-->
+    <e lm="traffiku"><i>traffiku</i><par n="tniġġis__n_m"/></e> <!-- no pl?-->
     <e lm="rispett"><i>rispett</i><par n="tniġġis__n_m"/></e> <!-- no pl?-->
     <e lm="alla" c="God"><i>alla</i><par n="tniġġis__n_m"/></e> <!-- no pl?-->
     <e lm="temp" c="weather"><i>temp</i><par n="tniġġis__n_m"/></e> <!-- no pl?-->
