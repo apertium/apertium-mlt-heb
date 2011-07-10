@@ -3605,7 +3605,8 @@
     <e lm="tniġġis"><i>tniġġis</i><par n="tniġġis__n_m"/></e> <!-- verify gender -->
     <e lm="futbol"><i>futbol</i><par n="tniġġis__n_m"/></e> <!-- no pl?-->
     <e lm="rispett"><i>rispett</i><par n="tniġġis__n_m"/></e> <!-- no pl?-->
-    <e lm="alla" c="god"><i>alla</i><par n="tniġġis__n_m"/></e> <!-- no pl?-->
+    <e lm="alla" c="God"><i>alla</i><par n="tniġġis__n_m"/></e> <!-- no pl?-->
+    <e lm="temp" c="weather"><i>temp</i><par n="tniġġis__n_m"/></e> <!-- no pl?-->
     <e lm="mużika"><i>mużika</i><par n="molestja__n_f"/></e> <!-- no pl?-->
     <e lm="istorja"><i>istorja</i><par n="molestja__n_f"/></e> <!-- no pl?-->
     <e lm="ilma" c="water"><i>ilma</i><par n="molestja__n_f"/></e> <!-- no pl?-->
