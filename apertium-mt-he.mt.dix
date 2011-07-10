@@ -10609,208 +10609,208 @@
     <e><p><l>jaqbduhom</l>	<r>qabad<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/></r></p></e>
     <e><p><l>jaqbduhomx</l>	<r>qabad<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
 
-    <e><p><l>habta</l>	<r>habat<s n="vblex"/><s n="pprs"/></r></p></e>
-    <e><p><l>habtax</l>	<r>habat<s n="vblex"/><s n="pprs"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>ahbtu</l>	<r>habat<s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
-    <e><p><l>ahbtux</l>	<r>habat<s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>ahbat</l>	<r>habat<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
-    <e><p><l>ahbatx</l>	<r>habat<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>habat</l>	<r>habat<s n="vblex"/><s n="inf"/></r></p></e>
-    <e><p><l>habatx</l>	<r>habat<s n="vblex"/><s n="inf"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>hbatna</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
-    <e><p><l>hbatnax</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>hbatniekom</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="pl"/></r></p></e>
-    <e><p><l>hbatniekomx</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>hbatniek</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="sg"/></r></p></e>
-    <e><p><l>hbatniekx</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>hbatnieha</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
-    <e><p><l>hbatniehax</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>hbatnieh</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
-    <e><p><l>hbatniehx</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>hbatniehom</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/></r></p></e>
-    <e><p><l>hbatniehomx</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>hbatt</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
-    <e><p><l>hbattx</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>hbattkom</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="pl"/></r></p></e>
-    <e><p><l>hbattkomx</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>hbattek</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="sg"/></r></p></e>
-    <e><p><l>hbattekx</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>hbattha</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
-    <e><p><l>hbatthax</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>hbattu</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
-    <e><p><l>hbattux</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>hbatthom</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/></r></p></e>
-    <e><p><l>hbatthomx</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>hbattu</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p2"/><s n="pl"/></r></p></e>
-    <e><p><l>hbattux</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p2"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>hbattuna</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p2"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="pl"/></r></p></e>
-    <e><p><l>hbattunax</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p2"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>hbattuni</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p2"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="sg"/></r></p></e>
-    <e><p><l>hbattunix</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p2"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>hbattuha</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p2"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
-    <e><p><l>hbattuhax</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p2"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>hbattuh</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p2"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
-    <e><p><l>hbattuhx</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p2"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>hbattuhom</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p2"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/></r></p></e>
-    <e><p><l>hbattuhomx</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p2"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>hbatt</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p2"/><s n="sg"/></r></p></e>
-    <e><p><l>hbattx</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p2"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>hbattna</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p2"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="pl"/></r></p></e>
-    <e><p><l>hbattnax</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p2"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>hbattni</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p2"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="sg"/></r></p></e>
-    <e><p><l>hbattnix</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p2"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>hbattha</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p2"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
-    <e><p><l>hbatthax</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p2"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>hbattu</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p2"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
-    <e><p><l>hbattux</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p2"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>hbatthom</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p2"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/></r></p></e>
-    <e><p><l>hbatthomx</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p2"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>habtet</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
-    <e><p><l>habtetx</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>habtitna</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="pl"/></r></p></e>
-    <e><p><l>habtitnax</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>habtitni</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="sg"/></r></p></e>
-    <e><p><l>habtitnix</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>habtitkom</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="pl"/></r></p></e>
-    <e><p><l>habtitkomx</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>habtitek</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="sg"/></r></p></e>
-    <e><p><l>habtitekx</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>habtitha</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
-    <e><p><l>habtithax</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>habtitu</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
-    <e><p><l>habtitux</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>habtithom</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/></r></p></e>
-    <e><p><l>habtithomx</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>habat</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
-    <e><p><l>habatx</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>habitna</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="pl"/></r></p></e>
-    <e><p><l>habitnax</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>habitni</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="sg"/></r></p></e>
-    <e><p><l>habitnix</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>habitkom</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="pl"/></r></p></e>
-    <e><p><l>habitkomx</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>habtek</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="sg"/></r></p></e>
-    <e><p><l>habtekx</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>habitha</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
-    <e><p><l>habithax</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>habtu</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
-    <e><p><l>habtux</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>habithom</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/></r></p></e>
-    <e><p><l>habithomx</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>habtu</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/></r></p></e>
-    <e><p><l>habtux</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>habtuna</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="pl"/></r></p></e>
-    <e><p><l>habtunax</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>habtuni</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="sg"/></r></p></e>
-    <e><p><l>habtunix</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>habtukom</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="pl"/></r></p></e>
-    <e><p><l>habtukomx</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>habtuk</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="sg"/></r></p></e>
-    <e><p><l>habtukx</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>habtuha</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
-    <e><p><l>habtuhax</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>habtuh</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
-    <e><p><l>habtuhx</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>habtuhom</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/></r></p></e>
-    <e><p><l>habtuhomx</l>	<r>habat<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>mahbut</l>	<r>habat<s n="vblex"/><s n="pp"/><s n="sg"/></r></p></e>
-    <e><p><l>mahbutx</l>	<r>habat<s n="vblex"/><s n="pp"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>nahbtu</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p1"/><s n="pl"/></r></p></e>
-    <e><p><l>nahbtux</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p1"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>nahbtukom</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p1"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="pl"/></r></p></e>
-    <e><p><l>nahbtukomx</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p1"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>nahbtuk</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p1"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="sg"/></r></p></e>
-    <e><p><l>nahbtukx</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p1"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>nahbtuha</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p1"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
-    <e><p><l>nahbtuhax</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p1"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>nahbtuh</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p1"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
-    <e><p><l>nahbtuhx</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p1"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>nahbtuhom</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p1"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/></r></p></e>
-    <e><p><l>nahbtuhomx</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p1"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>nahbat</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
-    <e><p><l>nahbatx</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p1"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>nahbitkom</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p1"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="pl"/></r></p></e>
-    <e><p><l>nahbitkomx</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p1"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>nahbtek</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p1"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="sg"/></r></p></e>
-    <e><p><l>nahbtekx</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p1"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>nahbitha</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p1"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
-    <e><p><l>nahbithax</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p1"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>nahbtu</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p1"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
-    <e><p><l>nahbtux</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p1"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>nahbithom</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p1"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/></r></p></e>
-    <e><p><l>nahbithomx</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p1"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>tahbtu</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/></r></p></e>
-    <e><p><l>tahbtux</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>tahbtuna</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="pl"/></r></p></e>
-    <e><p><l>tahbtunax</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>tahbtuni</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="sg"/></r></p></e>
-    <e><p><l>tahbtunix</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>tahbtuha</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
-    <e><p><l>tahbtuhax</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>tahbtuh</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
-    <e><p><l>tahbtuhx</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>tahbtuhom</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/></r></p></e>
-    <e><p><l>tahbtuhomx</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>tahbat</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
-    <e><p><l>tahbatx</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>tahbitna</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="pl"/></r></p></e>
-    <e><p><l>tahbitnax</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>tahbitni</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="sg"/></r></p></e>
-    <e><p><l>tahbitnix</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>tahbitha</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
-    <e><p><l>tahbithax</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>tahbtu</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
-    <e><p><l>tahbtux</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>tahbithom</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/></r></p></e>
-    <e><p><l>tahbithomx</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>tahbat</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
-    <e><p><l>tahbatx</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="f"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>tahbitna</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="pl"/></r></p></e>
-    <e><p><l>tahbitnax</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>tahbitni</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="sg"/></r></p></e>
-    <e><p><l>tahbitnix</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>tahbitkom</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="pl"/></r></p></e>
-    <e><p><l>tahbitkomx</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>tahbtek</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="sg"/></r></p></e>
-    <e><p><l>tahbtekx</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>tahbitha</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
-    <e><p><l>tahbithax</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>tahbtu</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
-    <e><p><l>tahbtux</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>tahbithom</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/></r></p></e>
-    <e><p><l>tahbithomx</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>jahbat</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
-    <e><p><l>jahbatx</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="m"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>jahbitna</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="pl"/></r></p></e>
-    <e><p><l>jahbitnax</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>jahbitni</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="sg"/></r></p></e>
-    <e><p><l>jahbitnix</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>jahbitkom</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="pl"/></r></p></e>
-    <e><p><l>jahbitkomx</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>jahbtek</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="sg"/></r></p></e>
-    <e><p><l>jahbtekx</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>jahbitha</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
-    <e><p><l>jahbithax</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>jahbtu</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
-    <e><p><l>jahbtux</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>jahbithom</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/></r></p></e>
-    <e><p><l>jahbithomx</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>jahbtu</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
-    <e><p><l>jahbtux</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>jahbtuna</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="pl"/></r></p></e>
-    <e><p><l>jahbtunax</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>jahbtuni</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="sg"/></r></p></e>
-    <e><p><l>jahbtunix</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>jahbtukom</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="pl"/></r></p></e>
-    <e><p><l>jahbtukomx</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>jahbtuk</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="sg"/></r></p></e>
-    <e><p><l>jahbtukx</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>jahbtuha</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
-    <e><p><l>jahbtuhax</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>jahbtuh</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
-    <e><p><l>jahbtuhx</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
-    <e><p><l>jahbtuhom</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/></r></p></e>
-    <e><p><l>jahbtuhomx</l>	<r>habat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>ħabta</l>	<r>ħabat<s n="vblex"/><s n="pprs"/></r></p></e>
+    <e><p><l>ħabtax</l>	<r>ħabat<s n="vblex"/><s n="pprs"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>aħbtu</l>	<r>ħabat<s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
+    <e><p><l>aħbtux</l>	<r>ħabat<s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>aħbat</l>	<r>ħabat<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
+    <e><p><l>aħbatx</l>	<r>ħabat<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>ħabat</l>	<r>ħabat<s n="vblex"/><s n="inf"/></r></p></e>
+    <e><p><l>ħabatx</l>	<r>ħabat<s n="vblex"/><s n="inf"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>ħbatna</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+    <e><p><l>ħbatnax</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>ħbatniekom</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="pl"/></r></p></e>
+    <e><p><l>ħbatniekomx</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>ħbatniek</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="sg"/></r></p></e>
+    <e><p><l>ħbatniekx</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>ħbatnieha</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>ħbatniehax</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>ħbatnieh</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>ħbatniehx</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>ħbatniehom</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/></r></p></e>
+    <e><p><l>ħbatniehomx</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>ħbatt</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+    <e><p><l>ħbattx</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>ħbattkom</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="pl"/></r></p></e>
+    <e><p><l>ħbattkomx</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>ħbattek</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="sg"/></r></p></e>
+    <e><p><l>ħbattekx</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>ħbattha</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>ħbatthax</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>ħbattu</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>ħbattux</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>ħbatthom</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/></r></p></e>
+    <e><p><l>ħbatthomx</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>ħbattu</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p2"/><s n="pl"/></r></p></e>
+    <e><p><l>ħbattux</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p2"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>ħbattuna</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p2"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="pl"/></r></p></e>
+    <e><p><l>ħbattunax</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p2"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>ħbattuni</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p2"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="sg"/></r></p></e>
+    <e><p><l>ħbattunix</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p2"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>ħbattuha</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p2"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>ħbattuhax</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p2"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>ħbattuh</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p2"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>ħbattuhx</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p2"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>ħbattuhom</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p2"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/></r></p></e>
+    <e><p><l>ħbattuhomx</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p2"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>ħbatt</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p2"/><s n="sg"/></r></p></e>
+    <e><p><l>ħbattx</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p2"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>ħbattna</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p2"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="pl"/></r></p></e>
+    <e><p><l>ħbattnax</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p2"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>ħbattni</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p2"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="sg"/></r></p></e>
+    <e><p><l>ħbattnix</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p2"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>ħbattha</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p2"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>ħbatthax</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p2"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>ħbattu</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p2"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>ħbattux</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p2"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>ħbatthom</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p2"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/></r></p></e>
+    <e><p><l>ħbatthomx</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p2"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>ħabtet</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>ħabtetx</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>ħabtitna</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="pl"/></r></p></e>
+    <e><p><l>ħabtitnax</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>ħabtitni</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="sg"/></r></p></e>
+    <e><p><l>ħabtitnix</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>ħabtitkom</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="pl"/></r></p></e>
+    <e><p><l>ħabtitkomx</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>ħabtitek</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="sg"/></r></p></e>
+    <e><p><l>ħabtitekx</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>ħabtitha</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>ħabtithax</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>ħabtitu</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>ħabtitux</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>ħabtithom</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/></r></p></e>
+    <e><p><l>ħabtithomx</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>ħabat</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>ħabatx</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>ħabitna</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="pl"/></r></p></e>
+    <e><p><l>ħabitnax</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>ħabitni</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="sg"/></r></p></e>
+    <e><p><l>ħabitnix</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>ħabitkom</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="pl"/></r></p></e>
+    <e><p><l>ħabitkomx</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>ħabtek</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="sg"/></r></p></e>
+    <e><p><l>ħabtekx</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>ħabitha</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>ħabithax</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>ħabtu</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>ħabtux</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>ħabithom</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/></r></p></e>
+    <e><p><l>ħabithomx</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>ħabtu</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/></r></p></e>
+    <e><p><l>ħabtux</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>ħabtuna</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="pl"/></r></p></e>
+    <e><p><l>ħabtunax</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>ħabtuni</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="sg"/></r></p></e>
+    <e><p><l>ħabtunix</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>ħabtukom</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="pl"/></r></p></e>
+    <e><p><l>ħabtukomx</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>ħabtuk</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="sg"/></r></p></e>
+    <e><p><l>ħabtukx</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>ħabtuha</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>ħabtuhax</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>ħabtuh</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>ħabtuhx</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>ħabtuhom</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/></r></p></e>
+    <e><p><l>ħabtuhomx</l>	<r>ħabat<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>maħbut</l>	<r>ħabat<s n="vblex"/><s n="pp"/><s n="sg"/></r></p></e>
+    <e><p><l>maħbutx</l>	<r>ħabat<s n="vblex"/><s n="pp"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>naħbtu</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p1"/><s n="pl"/></r></p></e>
+    <e><p><l>naħbtux</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p1"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>naħbtukom</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p1"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="pl"/></r></p></e>
+    <e><p><l>naħbtukomx</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p1"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>naħbtuk</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p1"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="sg"/></r></p></e>
+    <e><p><l>naħbtukx</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p1"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>naħbtuha</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p1"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>naħbtuhax</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p1"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>naħbtuh</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p1"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>naħbtuhx</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p1"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>naħbtuhom</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p1"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/></r></p></e>
+    <e><p><l>naħbtuhomx</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p1"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>naħbat</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
+    <e><p><l>naħbatx</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p1"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>naħbitkom</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p1"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="pl"/></r></p></e>
+    <e><p><l>naħbitkomx</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p1"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>naħbtek</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p1"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="sg"/></r></p></e>
+    <e><p><l>naħbtekx</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p1"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>naħbitha</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p1"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>naħbithax</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p1"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>naħbtu</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p1"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>naħbtux</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p1"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>naħbithom</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p1"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/></r></p></e>
+    <e><p><l>naħbithomx</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p1"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>taħbtu</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/></r></p></e>
+    <e><p><l>taħbtux</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>taħbtuna</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="pl"/></r></p></e>
+    <e><p><l>taħbtunax</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>taħbtuni</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="sg"/></r></p></e>
+    <e><p><l>taħbtunix</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>taħbtuha</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>taħbtuhax</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>taħbtuh</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>taħbtuhx</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>taħbtuhom</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/></r></p></e>
+    <e><p><l>taħbtuhomx</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>taħbat</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
+    <e><p><l>taħbatx</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>taħbitna</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="pl"/></r></p></e>
+    <e><p><l>taħbitnax</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>taħbitni</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="sg"/></r></p></e>
+    <e><p><l>taħbitnix</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>taħbitha</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>taħbithax</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>taħbtu</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>taħbtux</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>taħbithom</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/></r></p></e>
+    <e><p><l>taħbithomx</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>taħbat</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>taħbatx</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="f"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>taħbitna</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="pl"/></r></p></e>
+    <e><p><l>taħbitnax</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>taħbitni</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="sg"/></r></p></e>
+    <e><p><l>taħbitnix</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>taħbitkom</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="pl"/></r></p></e>
+    <e><p><l>taħbitkomx</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>taħbtek</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="sg"/></r></p></e>
+    <e><p><l>taħbtekx</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>taħbitha</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>taħbithax</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>taħbtu</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>taħbtux</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>taħbithom</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/></r></p></e>
+    <e><p><l>taħbithomx</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="f"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>jaħbat</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>jaħbatx</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="m"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>jaħbitna</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="pl"/></r></p></e>
+    <e><p><l>jaħbitnax</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>jaħbitni</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="sg"/></r></p></e>
+    <e><p><l>jaħbitnix</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>jaħbitkom</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="pl"/></r></p></e>
+    <e><p><l>jaħbitkomx</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>jaħbtek</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="sg"/></r></p></e>
+    <e><p><l>jaħbtekx</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>jaħbitha</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>jaħbithax</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>jaħbtu</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>jaħbtux</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>jaħbithom</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/></r></p></e>
+    <e><p><l>jaħbithomx</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="m"/><s n="sg"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>jaħbtu</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
+    <e><p><l>jaħbtux</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>jaħbtuna</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="pl"/></r></p></e>
+    <e><p><l>jaħbtunax</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>jaħbtuni</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="sg"/></r></p></e>
+    <e><p><l>jaħbtunix</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>jaħbtukom</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="pl"/></r></p></e>
+    <e><p><l>jaħbtukomx</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>jaħbtuk</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="sg"/></r></p></e>
+    <e><p><l>jaħbtukx</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>jaħbtuha</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>jaħbtuhax</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>jaħbtuh</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>jaħbtuhx</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>
+    <e><p><l>jaħbtuhom</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/></r></p></e>
+    <e><p><l>jaħbtuhomx</l>	<r>ħabat<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>
 
     <e><p><l>laqta</l>	<r>laqat<s n="vblex"/><s n="pprs"/></r></p></e>
     <e><p><l>laqtax</l>	<r>laqat<s n="vblex"/><s n="pprs"/><j/>x<s n="neg"/></r></p></e>
