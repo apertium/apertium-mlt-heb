@@ -63,9 +63,9 @@ def strong_pp(root, vowels, pref): #{
 
 	forms = {};
 	
-	forms['pp.m.sg'] = (pref + r[0] + r[1] + 'u' + r[2], '-') ;
-	forms['pp.f.sg'] = (pref + r[0] + r[1] + 'u' + r[2] + 'a', '-') ;
-	forms['pp.mf.pl'] = (pref + r[0] + r[1] + 'u' + r[2] + 'in', '-') ;
+	forms['pp.m.sg'] = [(pref + r[0] + r[1] + 'u' + r[2], '-')] ;
+	forms['pp.f.sg'] = [(pref + r[0] + r[1] + 'u' + r[2] + 'a', '-')] ;
+	forms['pp.mf.pl'] = [(pref + r[0] + r[1] + 'u' + r[2] + 'in', '-')] ;
 
 	return forms;
 #}
@@ -76,9 +76,9 @@ def strong_pprs(root, vowels): #{
 
 	forms = {};
 	
-	forms['pprs.m.sg'] = (r[0] + 'ie' + r[1] + 'e' + r[2] , '-') ;
-	forms['pprs.f.sg'] = (r[0] + 'ie' + r[1] + r[2] + 'a' , '-') ;
-	forms['pprs.mf.pl'] = (r[0] + 'ie' + r[1] + r[2] + 'in' , '-') ;
+	forms['pprs.m.sg'] = [(r[0] + 'ie' + r[1] + 'e' + r[2] , '-')] ;
+	forms['pprs.f.sg'] = [(r[0] + 'ie' + r[1] + r[2] + 'a' , '-')] ;
+	forms['pprs.mf.pl'] = [(r[0] + 'ie' + r[1] + r[2] + 'in' , '-')] ;
 
 	return forms;
 #}
@@ -89,8 +89,14 @@ def strong_imp(root, vowels): #{
 	
 	forms = {};
 
-	forms['imp.p2.sg'] = (v[0] + r[0] + r[1] + v[1] + r[2], '-');
-	forms['imp.p2.pl'] = (v[0] + r[0] + r[1] + r[2] + 'u', '-');
+	forms['imp.p2.sg'] = [(v[0] + r[0] + r[1] + v[1] + r[2], '-')];
+	forms['imp.p2.pl'] = [(v[0] + r[0] + r[1] + r[2] + 'u', '-')];
+
+	# When the seond radical of the verb is 'l', 'm', 'n' or 'għ', a euphonic 
+	# vowel must be inserted
+	if r[1] == 'l' or r[1] == 'm' or r[1] == 'n' or r[1] == 'għ': #{
+		forms['imp.p2.pl'] = [(v[0] + r[0] + v[1] + r[1] + r[2] + 'u', '-')];
+	#}
 
 	return forms ; 
 #}
@@ -101,17 +107,25 @@ def strong_pres(root, vowels): #{
 
 	forms = {};
 	
-	forms['pres.p3.m.sg'] = ('j' + v[0] + r[0] + r[1] + v[1] + r[2], '-') ;
-	forms['pres.p3.f.sg'] = ('t' + v[0] + r[0] + r[1] + v[1] + r[2], '-') ;
-	forms['pres.p2.sg'] = ('t' + v[0] + r[0] + r[1] + v[1] + r[2], '-') ;
-	forms['pres.p1.sg'] = ('n' + v[0] + r[0] + r[1] + v[1] + r[2], '-') ;
+	forms['pres.p3.m.sg'] = [('i' + v[0] + r[0] + r[1] + v[1] + r[2], 'LR'),
+				 ('j' + v[0] + r[0] + r[1] + v[1] + r[2], 'LR'),
+				 ('i' + v[0] + r[0] + r[1] + v[1] + r[2], 'RL')] ;
+
+	forms['pres.p3.f.sg'] = [('t' + v[0] + r[0] + r[1] + v[1] + r[2], '-')] ;
+	forms['pres.p2.sg'] = [('t' + v[0] + r[0] + r[1] + v[1] + r[2], '-')] ;
+	forms['pres.p1.sg'] = [('n' + v[0] + r[0] + r[1] + v[1] + r[2], '-')] ;
 	
-	forms['pres.p3.pl'] = ('j' + v[0] + r[0] + r[1] + v[1] + r[2] + 'u', '-') ;
-	forms['pres.p2.pl'] = ('t' + v[0] + r[0] + r[1] + v[1] + r[2] + 'u', '-') ;
-	forms['pres.p1.pl'] = ('n' + v[0] + r[0] + r[1] + v[1] + r[2] + 'u', '-') ;
+	forms['pres.p3.pl'] = [('j' + v[0] + r[0] + r[1] + v[1] + r[2] + 'u', '-')] ; # j-iDĦL-u
+	forms['pres.p2.pl'] = [('t' + v[0] + r[0] + r[1] + v[1] + r[2] + 'u', '-')] ;
+	forms['pres.p1.pl'] = [('n' + v[0] + r[0] + r[1] + v[1] + r[2] + 'u', '-')] ;
 
 	# When the seond radical of the verb is 'l', 'm', 'n' or 'għ', a euphonic 
 	# vowel must be inserted
+	if r[1] == 'l' or r[1] == 'm' or r[1] == 'n' or r[1] == 'għ': #{
+		forms['pres.p3.pl'] = [('j' + v[0] + r[0] + v[1] + r[1] + r[2] + 'u', '-')] ; # j-iToLB-u
+		forms['pres.p2.pl'] = [('t' + v[0] + r[0] + v[1] + r[1] + r[2] + 'u', '-')] ; # t-iToLB-u
+		forms['pres.p1.pl'] = [('n' + v[0] + r[0] + v[1] + r[1] + r[2] + 'u', '-')] ; # n-iToLB-u
+	#}
 
 	return forms;
 #}
@@ -126,22 +140,22 @@ def strong_past(root, vowels): #{
 
 	forms = {};
 
-	forms['past.p3.m.sg'] = (r[0] + v[0] + r[1] + v[1] + r[2], '-'); # Same as stem
-	forms['past.p3.f.sg'] = (r[0] + v[0] + r[1] + r[2] + 'et', '-');	# Omit second vowel of stem word
+	forms['past.p3.m.sg'] = [(r[0] + v[0] + r[1] + v[1] + r[2], '-')]; # Same as stem
+	forms['past.p3.f.sg'] = [(r[0] + v[0] + r[1] + r[2] + 'et', '-')];	# Omit second vowel of stem word
 	
-	forms['past.p2.sg'] = (r[0] + r[1] + v[1] + r[2] + 't', '-');	# Omit first vowel of stem word
-	forms['past.p1.sg'] = (r[0] + r[1] + v[1] + r[2] + 't', '-');	# Omit first vowel of stem word
+	forms['past.p2.sg'] = [(r[0] + r[1] + v[1] + r[2] + 't', '-')];	# Omit first vowel of stem word
+	forms['past.p1.sg'] = [(r[0] + r[1] + v[1] + r[2] + 't', '-')];	# Omit first vowel of stem word
 
-	forms['past.p3.pl'] = (r[0] + v[0] + r[1] + r[2] + 'u', '-');	# Omit second vowel of stem word
-	forms['past.p2.pl'] = (r[0] + r[1] + v[1] + r[2] + 'tu', '-');	# Omit first vowel of stem word
-	forms['past.p1.pl'] = (r[0] + r[1] + v[1] + r[2] + 'na', '-');	# Omit first vowel of stem word
+	forms['past.p3.pl'] = [(r[0] + v[0] + r[1] + r[2] + 'u', '-')];	# Omit second vowel of stem word
+	forms['past.p2.pl'] = [(r[0] + r[1] + v[1] + r[2] + 'tu', '-')];	# Omit first vowel of stem word
+	forms['past.p1.pl'] = [(r[0] + r[1] + v[1] + r[2] + 'na', '-')];	# Omit first vowel of stem word
 
 	# == Overrides == 
 
 	if r[0] == 'w' or r[0] == 'għ': #{
 		# If the first radical is 'w' or 'għ' then we have a full disyllabic form
-		forms['past.p2.sg'] = (r[0] + v[0] + r[1] + v[1] + r[2] + 't', '-');	
-		forms['past.p1.sg'] = (r[0] + v[0] + r[1] + v[1] + r[2] + 't', '-');	
+		forms['past.p2.sg'] = [(r[0] + v[0] + r[1] + v[1] + r[2] + 't', '-')];	
+		forms['past.p1.sg'] = [(r[0] + v[0] + r[1] + v[1] + r[2] + 't', '-')];	
 	#}
 
 
@@ -154,9 +168,9 @@ def hollow_pp(root, vowels, pref): #{
 
 	forms = {};
 	
-	forms['pp.m.sg'] = (pref + r[0] + 'ju' + r[2], '-') ;
-	forms['pp.f.sg'] = (pref + r[0] + 'ju' + r[2] + 'a', '-') ;
-	forms['pp.mf.pl'] = (pref + r[0] + 'ju' + r[2] + 'in', '-') ;
+	forms['pp.m.sg'] = [(pref + r[0] + 'ju' + r[2], '-')] ;
+	forms['pp.f.sg'] = [(pref + r[0] + 'ju' + r[2] + 'a', '-')] ;
+	forms['pp.mf.pl'] = [(pref + r[0] + 'ju' + r[2] + 'in', '-')] ;
 
 	return forms;
 #}
@@ -172,29 +186,29 @@ def hollow_past(root, vowels): #{
 
 	forms = {};
 
-	forms['past.p3.m.sg'] = (r[0] + v[0] + r[2], '-');
-	forms['past.p3.f.sg'] = (r[0] + v[0] + r[2] + 'et', '-');
+	forms['past.p3.m.sg'] = [(r[0] + v[0] + r[2], '-')];
+	forms['past.p3.f.sg'] = [(r[0] + v[0] + r[2] + 'et', '-')];
 
 	# This form is obtained by the insertion of 'o' for second radical 'w' and
 	# 'i' for second radical 'j'
 	if r[1] == 'w': #{
-		forms['past.p2.sg'] = (r[0] + 'o' + r[2] + 't', '-');	
-		forms['past.p1.sg'] = (r[0] + 'o' + r[2] + 't', '-');	
-		forms['past.p2.pl'] = (r[0] + 'o' + r[2] + 'tu', '-');
-		forms['past.p1.pl'] = (r[0] + 'o' + r[2] + 'na', '-');
+		forms['past.p2.sg'] = [(r[0] + 'o' + r[2] + 't', '-')];	
+		forms['past.p1.sg'] = [(r[0] + 'o' + r[2] + 't', '-')];	
+		forms['past.p2.pl'] = [(r[0] + 'o' + r[2] + 'tu', '-')];
+		forms['past.p1.pl'] = [(r[0] + 'o' + r[2] + 'na', '-')];
 	elif r[1] == 'j': #{
-		forms['past.p2.sg'] = (r[0] + 'i' + r[2] + 't', '-');	
-		forms['past.p1.sg'] = (r[0] + 'i' + r[2] + 't', '-');	
-		forms['past.p2.pl'] = (r[0] + 'i' + r[2] + 'tu', '-');
-		forms['past.p1.pl'] = (r[0] + 'i' + r[2] + 'na', '-');
+		forms['past.p2.sg'] = [(r[0] + 'i' + r[2] + 't', '-')];	
+		forms['past.p1.sg'] = [(r[0] + 'i' + r[2] + 't', '-')];	
+		forms['past.p2.pl'] = [(r[0] + 'i' + r[2] + 'tu', '-')];
+		forms['past.p1.pl'] = [(r[0] + 'i' + r[2] + 'na', '-')];
 	#}
-	forms['past.p3.pl'] = (r[0] + 'a' + r[2] + 'u', '-');
+	forms['past.p3.pl'] = [(r[0] + 'a' + r[2] + 'u', '-')];
 
 	# This is not in the grammar, but it seems that 'ie' (mutation of long 'a')
 	# does not have the usual rules applied
 	if v[0] == 'ie': #{
-		forms['past.p1.pl'] = (r[0] + 'ie' + r[2] + 'na', '-');
-		forms['past.p3.pl'] = (r[0] + 'ie' + r[2] + 'u', '-');	
+		forms['past.p1.pl'] = [(r[0] + 'ie' + r[2] + 'na', '-')];
+		forms['past.p3.pl'] = [(r[0] + 'ie' + r[2] + 'u', '-')];	
 	#}
 
 	return forms;
@@ -218,26 +232,163 @@ def hollow_pres(root, vowels): #{
 	#	- e.g. iddur/ddur in the corpus, but not jddur. On the other hand,
 	#	- we find 'trid' and 'jrid' in the corpus
 
+	link_vowel = '';
 	if r[1] == 'w': #{
-		forms['pres.p3.m.sg'] = ('i' + r[0] + 'u' + r[2], '-')
-		forms['pres.p3.f.sg'] = ('i' + r[0] + r[0] + 'u' + r[2], '-')
-		forms['pres.p2.sg'] = ('i' + r[0] + r[0] + 'u' + r[2], '-')
-		forms['pres.p1.sg'] = ('in' + r[0] + 'u' + r[2], '-')
-		forms['pres.p3.pl'] = ('i' + r[0] + 'u' + r[2] + 'u', '-')
-		forms['pres.p2.pl'] = ('i' + r[0] + r[0] + 'u' + r[2] + 'u', '-')
-		forms['pres.p1.pl'] = ('in' + r[0] + 'u' + r[2] + 'u', '-')
+		link_vowel = 'u';
 	elif r[1] == 'j': #{
-		forms['pres.p3.m.sg'] = ('i' + r[0] + 'i' + r[2], '-')
-		forms['pres.p3.f.sg'] = ('i' + r[0] + r[0] + 'i' + r[2], '-')
-		forms['pres.p2.sg'] = ('i' + r[0] + r[0] + 'i' + r[2], '-')
-		forms['pres.p2.sg'] = ('in' + r[0] + 'i' + r[2], '-')
-		forms['pres.p3.pl'] = ('i' + r[0] + 'i' + r[2] + 'u', '-')
-		forms['pres.p2.pl'] = ('i' + r[0] + r[0] + 'i' + r[2] + 'u', '-')
-		forms['pres.p2.pl'] = ('in' + r[0] + 'i' + r[2] + 'u', '-')
+		link_vowel = 'i';
 	#}
+											# (!) form not attested
+
+	forms['pres.p3.m.sg'] = [('i' + r[0] + link_vowel + r[2], 'LR'),		# irid		isir		idur
+				 ('j' + r[0] + link_vowel + r[2], 'LR'),		# jrid		jsir		jdur
+				 ('i' + r[0] + link_vowel + r[2], 'RL')];		# ~irid		~isir		~idur
+
+	forms['pres.p3.f.sg'] = [('i' + r[0] + r[0] + link_vowel + r[2], 'LR'),		# irrid 	issir		iddur
+				 (r[0] + r[0] + link_vowel + r[2], 'LR'),		# rrid		ssir		ddur
+				 ('t' + r[0] + link_vowel + r[2], 'LR'),		# trid		tsir(!)		tdur(!)
+				 ('i' + r[0] + r[0] + link_vowel + r[2], 'RL')];	# ~irrid	~issir		~iddur
+
+	forms['pres.p2.sg'] = [('i' + r[0] + r[0] + link_vowel + r[2], 'LR'),		# irrid 	issir		iddur
+			       (r[0] + r[0] + link_vowel + r[2], 'LR'),			# rrid		ssir		ddur
+			       ('t' + r[0] + link_vowel + r[2], 'LR'),			# trid 		tsir(!)		tdur(!)
+			       ('i' + r[0] + r[0] + link_vowel + r[2], 'RL')];		# ~irrid	~issir		~iddur
+
+	forms['pres.p1.sg'] = [('in' + r[0] + link_vowel + r[2], 'LR'),			# inrid		insir		indur
+			       ('n' + r[0] + link_vowel + r[2], 'LR'),			# nrid		nsir		ndur
+			       ('in' + r[0] + link_vowel + r[2], 'RL')];		# ~inrid	~insir		~indur
+
+	forms['pres.p3.pl'] = [('i' + r[0] + link_vowel + r[2] + 'u', 'LR'),		# iridu		isiru		iduru
+			       ('j' + r[0] + link_vowel + r[2] + 'u', 'LR'),		# jridu		jsiru		jduru
+			       ('i' + r[0] + link_vowel + r[2] + 'u', 'RL')];		# ~iridu	~isiru		~iduru
+
+	forms['pres.p2.pl'] = [('i' + r[0] + r[0] + link_vowel + r[2] + 'u', 'LR'),	# irridu	issiru		idduru
+			       (r[0] + r[0] + link_vowel + r[2] + 'u', 'LR'),		# rridu		ssiru		dduru
+			       ('t' + r[0] + link_vowel + r[2] + 'u', 'LR'),		# tridu		tsiru(!)	tduru(!)
+			       ('i' + r[0] + r[0] + link_vowel + r[2] + 'u', 'RL')];	# ~irridu	~issiru		~idduru
+
+	forms['pres.p1.pl'] = [('in' + r[0] + link_vowel + r[2] + 'u', 'LR'),		# inridu	insiru		induru
+			       ('n' + r[0] + link_vowel + r[2] + 'u', 'LR'),		# nridu		nsiru		nduru
+			       ('in' + r[0] + link_vowel + r[2] + 'u', 'RL')];		# ~inridu	~insiru		~induru
+	
+	return forms;
+#}
+
+def hollow_imp(root, vowels): #{
+	r = root.split('-'); # radicals
+	v = vowels.split('-'); # vowels
+
+	if r[1] != 'j' and r[1] != 'w': #{
+		print >> sys.stderr, 'Hollow verb without second radical as \'w\' or \'j\'';
+	#}
+
+	forms = {};
+
+	link_vowel = '';
+	if r[1] == 'w': #{
+		link_vowel = 'u';
+	elif r[1] == 'j': #{
+		link_vowel = 'i';
+	#}
+		
+	forms['imp.p2.sg'] = [(r[0] + link_vowel + r[1], '-')];
+	forms['imp.p2.pl'] = [(r[0] + link_vowel + r[1] + 'u', '-')];
 
 	return forms;
 #}
+
+def weak_past(root, vowels): #{
+	r = root.split('-'); # radicals
+	v = vowels.split('-'); # vowels
+
+	forms = {};
+
+	forms['past.p3.m.sg'] = [(r[0] + v[0] + r[1] + v[1], '-')];
+	
+	# This form is obtained by the elision of the first vowel of the 
+	# stem and the change of the second vowel to 'ie' (for e-a) and
+	# 'a' for (a-a)
+	if v[0] == 'e' and v[1] == 'a': 
+		forms['past.p3.f.sg'] = [(r[0] + r[1] + 'iet', '-')];
+	else: #{
+		forms['past.p3.f.sg'] = [(r[0] + r[1] + 'at', '-')];
+	#}
+
+	# This form is obtained by the omission of the two vowels in the stem
+	# and the addition of the dipthong 'ej' (for e-a) and 'aj' (for a-a)
+	forms['past.p2.sg'] = [(r[0] + r[1] + v[0] + 'jt', '-')];	
+	forms['past.p1.sg'] = [(r[0] + r[1] + v[0] + 'jt', '-')];	
+
+	# This form is obtained by the omission of the two vowels in the vocalic
+	# sequence + dipthong 'ew' or 'aw'
+	forms['past.p3.pl'] = [(r[0] + r[1] + v[0] + 'w', '-')];
+	forms['past.p2.pl'] = [(r[0] + r[1] + v[0] + 'jtu', '-')];
+	forms['past.p1.pl'] = [(r[0] + r[1] + v[0] + 'jna', '-')];
+
+	return forms;
+#}
+
+def weak_pres(root, vowels): #{
+	r = root.split('-'); # radicals
+	v = vowels.split('-'); # vowels
+
+	forms = {};
+
+
+	forms['pres.p3.m.sg'] = [('j' + v[0] + r[0] + r[1] + v[1] , '-')];
+	forms['pres.p3.f.sg'] = [('t' + v[0] + r[0] + r[1] + v[1] , '-')];
+	forms['pres.p2.sg'] = [('t' + v[0] + r[0] + r[1] + v[1] , '-')];
+	forms['pres.p1.sg'] = [('n' + v[0] + r[0] + r[1] + v[1] , '-')];
+	
+	if vowels == 'a-a': #{
+		suffix =  'aw';
+	elif vowels == 'i-a': #{
+		suffix =  'ew';
+	else: #{
+		suffix = 'u'
+	#}
+										# QaRaJ		BeDaJ		MeXaJ	ReMaJ
+										# a-a		i-a		i-i	a-i
+	forms['pres.p3.pl'] = [('j' + v[0] + r[0] + r[1] + suffix, '-')];	# j-aQRa-w	j-iBDe-w	j-iMXu	j-aRMu
+	forms['pres.p2.pl'] = [('t' + v[0] + r[0] + r[1] + suffix, '-')];	# t-aQRa-w
+	forms['pres.p1.pl'] = [('n' + v[0] + r[0] + r[1] + suffix, '-')];	# n-aQRa-w
+
+	return forms;
+#}
+
+def weak_imp(root, vowels): #{
+	r = root.split('-'); # radicals
+	v = vowels.split('-'); # vowels
+
+	forms = {};
+	
+	if vowels == 'a-a': #{
+		suffix =  'aw';
+	elif vowels == 'i-a': #{
+		suffix =  'ew';
+	else: #{
+		suffix = 'u'
+	#}
+
+	forms['imp.p2.sg'] = [(v[0] + r[0] + r[1] + v[1] , '-')];
+	forms['imp.p2.pl'] = [(v[0] + r[0] + r[1] + suffix , '-')];
+
+	return forms;
+#}
+
+def weak_pp(root, vowels, pref): #{
+	r = root.split('-'); # radicals
+	v = vowels.split('-'); # vowels
+
+	forms = {};
+	
+	forms['pp.m.sg'] = [(pref + r[0] + r[1] + 'i', '-')] ;
+	forms['pp.f.sg'] = [(pref + r[0] + r[1] + 'ja', '-')] ;
+	forms['pp.mf.pl'] = [(pref + r[0] + r[1] + 'ijin', '-')] ;
+
+	return forms;
+#}
+
 
 ##-----------------------------------------------------------------------------##
 
@@ -369,7 +520,7 @@ stems = [
 	#   long 'i' then the middle radical is 'j'. 
 	# - Of all the hollow verbs, only a few have past participles
 	{'stem': 'dar', 'type': 'hollow', 'gloss': 'turn', 'root': 'd-w-r', 'vowel_perf': 'a-a', 'trans': 'iv'},
-	{'stem': 'sar', 'type': 'hollow', 'gloss': 'become', 'root': 's-j-r', 'vowel_perf': 'a-a', 'trans': 'iv'},
+	{'stem': 'sar', 'type': 'hollow', 'gloss': 'become', 'root': 's-j-r', 'vowel_perf': 'a-a', 'trans': 'iv', 'pp': 'mi'},
 	{'stem': 'miet', 'type': 'hollow', 'gloss': 'die', 'root': 'm-w-t', 'vowel_perf': 'ie-a', 'trans': 'iv'},
 	{'stem': 'dieq', 'type': 'hollow', 'gloss': 'taste', 'root': 'd-w-q', 'vowel_perf': 'ie-a', 'trans': 'iv'},
 	{'stem': 'daq', 'type': 'hollow', 'gloss': 'taste', 'root': 'd-w-q', 'vowel_perf': 'a-a', 'trans': 'iv'},
@@ -394,6 +545,17 @@ stems = [
 	{'stem': 'tar', 'type': 'hollow', 'gloss': 'fly', 'root': 't-j-r', 'vowel_perf': 'a-a', 'trans': 'tv'},
 	{'stem': 'żied', 'type': 'hollow', 'gloss': 'increase', 'root': 'ż-j-d', 'vowel_perf': 'ie-a', 'trans': 'tv', 'pp': 'mi'},
 	{'stem': 'qiem', 'type': 'hollow', 'gloss': 'venerate', 'root': 'q-w-m', 'vowel_perf': 'ie-a', 'trans': 'tv', 'pp': 'me'},
+
+	
+	{'stem': 'qara', 'type': 'weak', 'gloss': 'read', 'root': 'q-r-j', 'vowel_perf': 'a-a', 'vowel_impf': 'a-a', 'trans': 'tv', 'p_stem': 'qra', 'pp': 'mo'},
+	{'stem': 'mexa', 'type': 'weak', 'gloss': 'walk', 'root': 'm-x-j', 'vowel_perf': 'e-a', 'vowel_impf': 'i-i', 'trans': 'iv', 'p_stem': 'mxie'},
+	{'stem': 'beda', 'type': 'weak', 'gloss': 'start', 'root': 'b-d-j', 'vowel_perf': 'e-a', 'vowel_impf': 'i-a', 'trans': 'tv', 'p_stem': 'bdie', 'pp': 'mi'},
+	{'stem': 'mela', 'type': 'weak', 'gloss': 'fill', 'root': 'm-l-j', 'vowel_perf': 'e-a', 'vowel_impf': 'i-a', 'trans': 'tv', 'pp': 'mi'},
+	{'stem': 'reħa', 'type': 'weak', 'gloss': 'let·go', 'root': 'r-ħ-j', 'vowel_perf': 'e-a', 'vowel_impf': 'i-a', 'trans': 'tv', 'pp': 'me'},
+	{'stem': 'ħela', 'type': 'weak', 'gloss': 'waste', 'root': 'ħ-l-j', 'vowel_perf': 'e-a', 'vowel_impf': 'i-a', 'trans': 'tv', 'pp': 'mo'},
+	{'stem': 'ħeba', 'type': 'weak', 'gloss': 'hide', 'root': 'ħ-b-j', 'vowel_perf': 'e-a', 'vowel_impf': 'i-a', 'trans': 'tv', 'pp': 'mo'},
+	{'stem': 'rema', 'type': 'weak', 'gloss': 'throw·away', 'root': 'r-m-j', 'vowel_perf': 'e-a', 'vowel_impf': 'a-i', 'trans': 'tv', 'p_stem': 'rmie', 'pp': 'mo'},
+	
 ];
 
 ##-----------------------------------------------------------------------------##
@@ -420,6 +582,15 @@ for stem in stems: #{
 		infl[stem['stem']].update(hollow_pres(stem['root'], stem['vowel_perf']));
 		if 'pp' in stem: #{
 			infl[stem['stem']].update(hollow_pp(stem['root'], stem['vowel_perf'], stem['pp']));
+		infl[stem['stem']].update(hollow_imp(stem['root'], stem['vowel_perf']));
+
+	elif stem['type'] == 'weak': #{
+
+		infl[stem['stem']] = weak_past(stem['root'], stem['vowel_perf']);
+		infl[stem['stem']].update(weak_pres(stem['root'], stem['vowel_impf']));
+		infl[stem['stem']].update(weak_imp(stem['root'], stem['vowel_impf']));
+		if 'pp' in stem: #{
+			infl[stem['stem']].update(weak_pp(stem['root'], stem['vowel_perf'], stem['pp']));
 	#}
 #}
 
@@ -428,17 +599,25 @@ print header();
 for stem in infl: #{
 
 	for flex in infl[stem]: #{
-		outline = '';
-		left = infl[stem][flex][0];
-		right = stem + '<s n="vblex"/>' + sym(flex);
-
-		if infl[stem][flex][1] == '-': #{
-			outline = outline + '    <e lm="' + stem + '">';
-		else: #{
-			outline = outline + '    <e lm="' + stem + '" r="' + infl[stem][flex][1] + '">';
+		for subflex in infl[stem][flex]: #{
+			outline = '';
+			left = subflex[0];
+			right = stem + '<s n="vblex"/>' + sym(flex);
+	
+			if subflex[1] == '-': #{
+				outline = outline + '    <e lm="' + stem + '">';
+				print outline + '<p><l>' + left + '</l><r>' + right + '</r></p></e>';
+				print outline + '<p><l>' + left + 'x</l><r>' + right + '<j/>x<s n="neg"/></r></p></e>';
+			elif subflex[1] == 'RL': #{
+				outline = outline + '    <e lm="' + stem + '" r="' + subflex[1] + '">';
+				print outline + '<p><l><a/>' + left + '</l><r>' + right + '</r></p></e>';
+				print outline + '<p><l><a/>' + left + 'x</l><r>' + right + '<j/>x<s n="neg"/></r></p></e>';
+			else: #{
+				outline = outline + '    <e lm="' + stem + '" r="' + subflex[1] + '">';
+				print outline + '<p><l>' + left + '</l><r>' + right + '</r></p></e>';
+				print outline + '<p><l>' + left + 'x</l><r>' + right + '<j/>x<s n="neg"/></r></p></e>';
+			#}
 		#}
-		print outline + '<p><l>' + left + '</l><r>' + right + '</r></p></e>';
-		print outline + '<p><l>' + left + 'x</l><r>' + right + '<j/>x<s n="neg"/></r></p></e>';
 	#}
 #}
 
