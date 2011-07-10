@@ -952,6 +952,11 @@
     <e><p><l>i</l><r><s n="n"/><s n="m"/><s n="pl"/></r></p></e>
   </pardef>
 
+  <pardef n="ispettur__n_mf">
+    <e><p><l></l><r><s n="n"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e><p><l>i</l><r><s n="n"/><s n="mf"/><s n="pl"/></r></p></e>
+  </pardef>
+
   <pardef n="għas/fur__n_m">
     <e><p><l>fur</l><r>fur<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>afar</l><r>fur<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
@@ -3306,11 +3311,13 @@
     <e lm="università"><i>universit</i><par n="entit/à__n_f"/></e>
     <e lm="veloċità"><i>veloċit</i><par n="entit/à__n_f"/></e>
     <e lm="verità"><i>verit</i><par n="entit/à__n_f"/></e>
+    <e lm="realtà"><i>realt</i><par n="entit/à__n_f"/></e>
 
     <e lm="kelma" c="word"><i>k</i><par n="k/elma__n_f"/></e>
     <e lm="dinja" c="world"><i>dinj</i><par n="sħubij/a__n_f"/></e>
     <e lm="biċċa" c="piece"><i>biċċ</i><par n="sħubij/a__n_f"/></e>
-    <e lm="bicca" r="LR"><p><l>bicc</l><r>biċċ</r></p><par n="sħubij/a__n_f"/></e>
+    <e lm="għaqda" c="union"><i>għaqd</i><par n="sħubij/a__n_f"/></e>
+    <e lm="taqsima" c="class"><i>taqsim</i><par n="sħubij/a__n_f"/></e>
 
     <e lm="parti"><i>parti</i><par n="parti__n_m"/></e>
     <e lm="isqof" c="bishop"><i>isq</i><par n="isq/of__n_m"/></e>
@@ -3498,6 +3505,11 @@
     <e lm="uffiċjali"><i>uffiċjal</i><par n="moviment__n_m"/></e>
     <e lm="gvernatur"><i>gvernatur</i><par n="moviment__n_m"/></e>
     <e lm="kunċett" c="concept"><i>kunċett</i><par n="moviment__n_m"/></e>
+    <e lm="proċess" c="process"><i>proċess</i><par n="moviment__n_m"/></e>
+    <e lm="suċċess" c="success"><i>suċċess</i><par n="moviment__n_m"/></e>
+    <e lm="messaġġ" c="message"><i>messaġġ</i><par n="moviment__n_m"/></e>
+
+    <e lm="ispettur" c="inspector"><i>ispettur</i><par n="ispettur__n_mf"/></e>
 
     <e lm="protestant"><i>protestant</i><par n="protestant__n"/></e>
     <e lm="nazzjonalist"><i>nazzjonalist</i><par n="protestant__n"/></e>
@@ -3539,6 +3551,7 @@
     <e lm="tniġġis"><i>tniġġis</i><par n="tniġġis__n_m"/></e> <!-- verify gender -->
     <e lm="futbol"><i>futbol</i><par n="tniġġis__n_m"/></e> <!-- no pl?-->
     <e lm="rispett"><i>rispett</i><par n="tniġġis__n_m"/></e> <!-- no pl?-->
+    <e lm="alla" c="god"><i>alla</i><par n="tniġġis__n_m"/></e> <!-- no pl?-->
     <e lm="mużika"><i>mużika</i><par n="molestja__n_f"/></e> <!-- no pl?-->
     <e lm="istorja"><i>istorja</i><par n="molestja__n_f"/></e> <!-- no pl?-->
     <e lm="ilma" c="water"><i>ilma</i><par n="molestja__n_f"/></e> <!-- no pl?-->
@@ -3739,7 +3752,7 @@
     <e lm="verżjoni"><i>verżjoni</i><par n="oxx__n_f"/></e>
     <e lm="ħadid"><i>ħadid</i><par n="Ċek__n_m"/></e>
     <e lm="xmara" c="river"><i>xmara</i><par n="oxx__n_f"/></e>
-    <e lm="storja" c="story"><i>storja</i><par n="st/orja__n_f"/></e>
+    <e lm="storja" c="story"><i>st</i><par n="st/orja__n_f"/></e>
     <e lm="ġebla"><i>ġebla</i><par n="oxx__n_f"/></e>
     <e lm="tifla"><i>tifla</i><par n="oxx__n_f"/></e>
     <e lm="abitat"><i>abitat</i><par n="Ċek__n_m"/></e>
@@ -4010,7 +4023,7 @@
     <e lm="grad"><i>grad</i><par n="moviment__n_m"/></e>
     <e lm="grajja"><i>grajj</i><par n="sħubij/a__n_f"/></e>
     <e lm="grazzja"><i>grazzj</i><par n="propost/a__n_f"/></e>
-    <e lm="hidma"><i>hidm</i><par n="sħubij/a__n_f"/></e>
+    <e lm="ħidma" c="work"><i>ħidm</i><par n="sħubij/a__n_f"/></e>
     <e lm="hila"><i>hil</i><par n="sħubij/a__n_f"/></e>
     <e lm="hin"><i>hin</i><par n="dixx__n_m"/></e>
     <e lm="idea"><i>idea</i><par n="xemgħa__n_f"/></e>
@@ -5581,6 +5594,8 @@
     <e lm="oħxon"><i>o</i><par n="o/ħxon__adj"/></e>
     <e lm="qadim" c="old"><i>q</i><par n="q/adim__adj"/></e>
     <e lm="qares"><i>qar</i><par n="qar/es__adj"/></e>
+    <e lm="magħrufa" c="famous"><i>magħrufa</i><par n="qar/es__adj"/></e>
+    <e lm="qaddis" c="holy"><i>qaddis</i><par n="maħmuġ__adj"/></e>
 
     <e lm="qasir" c="short"><i>q</i><par n="q/asir__adj"/></e>
     <e lm="qasir"><p><l>iqsar</l><r>qasir</r></p><par n="akbar__adj"/></e>
