@@ -3338,6 +3338,32 @@
 
     <e lm="student"><i></i><par n="/student__n_m"/></e>
 
+    <e lm="ambulanza"><i>ambulanz</i><par n="propost/a__n_f"/></e>
+    <e lm="apparenza"><i>apparenz</i><par n="propost/a__n_f"/></e>
+    <e lm="assenza"><i>assenz</i><par n="propost/a__n_f"/></e>
+    <e lm="attendenza"><i>attendenz</i><par n="propost/a__n_f"/></e>
+    <e lm="dipendenza"><i>dipendenz</i><par n="propost/a__n_f"/></e>
+    <e lm="diverġenza"><i>diverġenz</i><par n="propost/a__n_f"/></e>
+    <e lm="eccellenza"><i>eccellenz</i><par n="propost/a__n_f"/></e>
+    <e lm="emerġenza"><i>emerġenz</i><par n="propost/a__n_f"/></e>
+    <e lm="frekwenza"><i>frekwenz</i><par n="propost/a__n_f"/></e>
+    <e lm="injoranza"><i>injoranz</i><par n="propost/a__n_f"/></e>
+    <e lm="konferenza"><i>konferenz</i><par n="propost/a__n_f"/></e>
+    <e lm="penitenza"><i>penitenz</i><par n="propost/a__n_f"/></e>
+    <e lm="preferenza"><i>preferenz</i><par n="propost/a__n_f"/></e>
+    <e lm="presidenza"><i>presidenz</i><par n="propost/a__n_f"/></e>
+    <e lm="riferenza"><i>riferenz</i><par n="propost/a__n_f"/></e>
+    <e lm="sekwenza"><i>sekwenz</i><par n="propost/a__n_f"/></e>
+    <e lm="sentenza"><i>sentenz</i><par n="propost/a__n_f"/></e>
+    <e lm="sustanza"><i>sustanz</i><par n="propost/a__n_f"/></e>
+    <e lm="korrispondenza"><i>korrispondenz</i><par n="propost/a__n_f"/></e>
+
+    <e lm="konsistenza"><i>konsistenza</i><par n="molestja__n_f"/></e>
+    <e lm="abbundanza"><i>abbundanza</i><par n="molestja__n_f"/></e>
+    <e lm="prominenza"><i>prominenza</i><par n="molestja__n_f"/></e>
+    <e lm="prudenza"><i>prudenza</i><par n="molestja__n_f"/></e>
+    <e lm="ubbidjenza"><i>ubbidjenza</i><par n="molestja__n_f"/></e>
+
     <e lm="avventura"><i>avventur</i><par n="propost/a__n_f"/></e>
     <e lm="champion"><i>champion</i><par n="gowl__n_m"/></e>
     <e lm="website"><i>website</i><par n="gowl__n_m"/></e>
@@ -3500,6 +3526,21 @@
     <e lm="trattament"><i>trattament</i><par n="moviment__n_m"/></e>
     <e lm="delegat"><i>delegat</i><par n="moviment__n_m"/></e>
     <e lm="fundatur" c="founder"><i>fundatur</i><par n="moviment__n_m"/></e>
+    <e lm="dittatur" c="dictator"><i>dittatur</i><par n="moviment__n_m"/></e>
+    <e lm="preżentatur" c="presenter"><i>preżentatur</i><par n="moviment__n_m"/></e>
+    <e lm="prokuratur" c=""><i>prokuratur</i><par n="moviment__n_m"/></e>
+    <e lm="ambaxxatur" c="ambassador"><i>ambaxxatur</i><par n="moviment__n_m"/></e>
+    <e lm="osservatur" c="observer"><i>osservatur</i><par n="moviment__n_m"/></e>
+    <e lm="kollaboratur" c="collaborator"><i>kollaboratur</i><par n="moviment__n_m"/></e>
+    <e lm="operatur" c="operator"><i>operatur</i><par n="moviment__n_m"/></e>
+    <e lm="narratur" c="narrator"><i>narratur</i><par n="moviment__n_m"/></e>
+    <e lm="animatur" c="animator"><i>animatur</i><par n="moviment__n_m"/></e>
+    <e lm="medjatur" c="mediator"><i>medjatur</i><par n="moviment__n_m"/></e>
+    <e lm="iżviluppatur" c="developer"><i>iżviluppatur</i><par n="moviment__n_m"/></e>
+    <e lm="edukatur" c="educator"><i>edukatur</i><par n="moviment__n_m"/></e>
+    <e lm="spettatur" c="spectator"><i>spettatur</i><par n="moviment__n_m"/></e>
+    <e lm="ispettatur" c="inspector"><i>ispettatur</i><par n="moviment__n_m"/></e>
+    <e lm="amministratur" c="administrator"><i>amministratur</i><par n="moviment__n_m"/></e>
     <e lm="lingwaġġ" c="language"><i>lingwaġġ</i><par n="moviment__n_m"/></e>
     <e lm="strument" c="instrument"><i>strument</i><par n="moviment__n_m"/></e>
     <e lm="appartament"><i>appartament</i><par n="moviment__n_m"/></e>
@@ -3574,6 +3615,26 @@
     <e lm="tolleranza" c="tolerance"><i>tolleranza</i><par n="molestja__n_f"/></e>
     <e lm="ugwaljanza" c="equality"><i>ugwaljanza</i><par n="molestja__n_f"/></e>
     <e lm="arti" c="art"><i>arti</i><par n="molestja__n_f"/></e> <!-- no pl?-->
+
+    <e lm="arroganza"><i>arroganza</i><par n="molestja__n_f"/></e>
+    <e lm="assistenza"><i>assistenza</i><par n="molestja__n_f"/></e>
+    <e lm="evidenza"><i>evidenza</i><par n="molestja__n_f"/></e>
+    <e lm="eżistenza"><i>eżistenza</i><par n="molestja__n_f"/></e>
+    <e lm="indifferenza"><i>indifferenza</i><par n="molestja__n_f"/></e>
+    <e lm="indipendenza"><i>indipendenza</i><par n="molestja__n_f"/></e>
+    <e lm="insistenza"><i>insistenza</i><par n="molestja__n_f"/></e>
+    <e lm="intelliġenza"><i>intelliġenza</i><par n="molestja__n_f"/></e>
+    <e lm="kunfidenza"><i>kunfidenza</i><par n="molestja__n_f"/></e>
+    <e lm="kuxjenza"><i>kuxjenza</i><par n="molestja__n_f"/></e>
+    <e lm="maġġoranza"><i>maġġoranza</i><par n="molestja__n_f"/></e>
+    <e lm="preżenza"><i>preżenza</i><par n="molestja__n_f"/></e>
+    <e lm="providenza"><i>providenza</i><par n="molestja__n_f"/></e>
+    <e lm="residenza"><i>residenza</i><par n="molestja__n_f"/></e>
+    <e lm="reżistenza"><i>reżistenza</i><par n="molestja__n_f"/></e>
+    <e lm="trasparenza"><i>trasparenza</i><par n="molestja__n_f"/></e>
+    <e lm="urgenza"><i>urgenza</i><par n="molestja__n_f"/></e>
+    <e lm="vjolenza"><i>vjolenza</i><par n="molestja__n_f"/></e>
+
 
     <e lm="proposta"><i>propost</i><par n="propost/a__n_f"/></e>
     <e lm="maratona"><i>maraton</i><par n="propost/a__n_f"/></e>
@@ -3661,6 +3722,7 @@
     <e lm="membru"><i>membr</i><par n="buff/u__n_m"/></e>
     <e lm="poplu"><i>popl</i><par n="buff/u__n_m"/></e>
     <e lm="kalendarju"><i>kalendarj</i><par n="buff/u__n_m"/></e>
+    <e lm="segretarju"><i>segretarj</i><par n="buff/u__n_m"/></e>
     <e lm="kanzunetta"><i>kanzunett</i><par n="propost/a__n_f"/></e>
     <e lm="popolazzjoni"><i>popolazzjoni</i><par n="unjoni__n_f"/></e>
     <e lm="reġistrazzjoni"><i>reġistrazzjoni</i><par n="unjoni__n_f"/></e>
@@ -5984,6 +6046,7 @@
     <e lm="kważi" c="nearly"><i>kważi</i><par n="immedjatament__adv"/></e>
     <e lm="anzi" c="indeed"><i>anzi</i><par n="immedjatament__adv"/></e>
     <e lm="soltu" c="usual"><i>soltu</i><par n="immedjatament__adv"/></e>
+    <e lm="madankollu" c=""><i>madankollu</i><par n="immedjatament__adv"/></e>
 
     <e lm="imbagħad" c="then"><i></i><par n="/imbagħad__adv"/></e>
 
