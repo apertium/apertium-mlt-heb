@@ -635,6 +635,28 @@ stems = [
 
 	{'stem': 'radd', 'type': 'doubled', 'gloss': 'restore', 'root': 'r-d-d', 'vowel_perf': 'a-a', 'vowel_impf': 'a-o', 'trans': 'tv', 'pp': 'mi'},
 	{'stem': 'mess', 'type': 'doubled', 'gloss': 'touch', 'root': 'm-s-s', 'vowel_perf': 'e-e', 'vowel_impf': 'e-i', 'trans': 'tv', 'pp': 'mi'},
+	{'stem': 'qarr', 'type': 'doubled', 'gloss': 'go·to·confession', 'root': 'q-r-r', 'vowel_perf': 'a-a', 'vowel_impf': 'i-e', 'trans': 'iv', 'pp': 'ma'},
+	{'stem': 'raqq', 'type': 'doubled', 'gloss': 'become·thin', 'root': 'r-q-q', 'vowel_perf': 'a-a', 'vowel_impf': 'i-e', 'trans': 'iv', 'pp': 'ma'},
+	{'stem': 'saħħ', 'type': 'doubled', 'gloss': 'materialise', 'root': 's-ħ-ħ', 'vowel_perf': 'a-a', 'vowel_impf': 'i-e', 'trans': 'iv', 'pp': 'ma'},
+	{'stem': 'xaħħ', 'type': 'doubled', 'gloss': 'be·stingy', 'root': 'x-ħ-ħ', 'vowel_perf': 'a-a', 'vowel_impf': 'i-e', 'trans': 'iv', 'pp': 'ma'},
+	{'stem': 'damm', 'type': 'doubled', 'gloss': 'string·together', 'root': 'd-m-m', 'vowel_perf': 'a-a', 'vowel_impf': 'i-o', 'trans': 'iv', 'pp': 'mi'},
+	{'stem': 'daqq', 'type': 'doubled', 'gloss': 'play', 'root': 'd-q-q', 'vowel_perf': 'a-a', 'vowel_impf': 'i-o', 'trans': 'iv', 'pp': 'mi'},
+	{'stem': 'ġarr', 'type': 'doubled', 'gloss': 'carry', 'root': 'ġ-r-r', 'vowel_perf': 'a-a', 'vowel_impf': 'i-o', 'trans': 'tv', 'pp': 'mi'},
+	{'stem': 'ħakk', 'type': 'doubled', 'gloss': 'scratch', 'root': 'ħ-k-k', 'vowel_perf': 'a-a', 'vowel_impf': 'i-o', 'trans': 'tv', 'pp': 'ma'},
+	{'stem': 'ħall', 'type': 'doubled', 'gloss': 'loosen', 'root': 'ħ-l-l', 'vowel_perf': 'a-a', 'vowel_impf': 'i-o', 'trans': 'tv', 'pp': 'ma'},
+	{'stem': 'ħass', 'type': 'doubled', 'gloss': 'feel', 'root': 'ħ-s-s', 'vowel_perf': 'a-a', 'vowel_impf': 'i-o', 'trans': 'tv', 'pp': 'ma'},
+	{'stem': 'ħatt', 'type': 'doubled', 'gloss': 'unload', 'root': 'ħ-t-t', 'vowel_perf': 'a-a', 'vowel_impf': 'i-o', 'trans': 'tv', 'pp': 'ma'},
+	{'stem': 'għażż', 'type': 'doubled', 'gloss': 'cherish', 'root': 'għ-ż-ż', 'vowel_perf': 'a-a', 'vowel_impf': 'i-o', 'trans': 'tv', 'pp': 'ma'},
+	{'stem': 'rass', 'type': 'doubled', 'gloss': 'press', 'root': 'r-s-s', 'vowel_perf': 'a-a', 'vowel_impf': 'i-o', 'trans': 'tv', 'pp': 'ma'},
+	{'stem': 'sadd', 'type': 'doubled', 'gloss': 'plug', 'root': 's-d-d', 'vowel_perf': 'a-a', 'vowel_impf': 'i-o', 'trans': 'tv', 'pp': 'mi'},
+	{'stem': 'xaqq', 'type': 'doubled', 'gloss': 'crack', 'root': 'x-q-q', 'vowel_perf': 'a-a', 'vowel_impf': 'i-o', 'trans': 'tv', 'pp': 'mi'},
+	{'stem': 'żamm', 'type': 'doubled', 'gloss': 'hold', 'root': 'ż-m-m', 'vowel_perf': 'a-a', 'vowel_impf': 'i-o', 'trans': 'tv', 'pp': 'mi'},
+	{'stem': 'leqq', 'type': 'doubled', 'gloss': 'glitter', 'root': 'l-q-q', 'vowel_perf': 'e-e', 'vowel_impf': 'i-e', 'trans': 'iv'},
+	{'stem': 'temm', 'type': 'doubled', 'gloss': 'finish', 'root': 't-m-m', 'vowel_perf': 'e-e', 'vowel_impf': 'i-e', 'trans': 'tv', 'pp': 'mi'},
+	{'stem': 'bell', 'type': 'doubled', 'gloss': 'wet', 'root': 'b-l-l', 'vowel_perf': 'e-e', 'vowel_impf': 'i-e', 'trans': 'tv', 'pp': 'mi'},
+	{'stem': 'bexx', 'type': 'doubled', 'gloss': 'sprinkle', 'root': 'b-x-x', 'vowel_perf': 'e-e', 'vowel_impf': 'i-e', 'trans': 'tv', 'pp': 'mi'},
+	{'stem': 'ġeżż', 'type': 'doubled', 'gloss': 'shear', 'root': 'ġ-ż-ż', 'vowel_perf': 'e-e', 'vowel_impf': 'i-e', 'trans': 'tv', 'pp': 'mi'},
+	{'stem': 'kedd', 'type': 'doubled', 'gloss': 'vex', 'root': 'k-d-d', 'vowel_perf': 'e-e', 'vowel_impf': 'i-e', 'trans': 'tv', 'pp': 'mi'},
 	
 ];
 
