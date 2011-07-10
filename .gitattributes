@@ -89,9 +89,9 @@ dev/paragraph1.out -text
 dev/paragraph1.txt -text
 dev/process-found-nouns.py -text
 dev/process-nouns-with-paradigms.py -text
-dev/strong_verb.py -text
 dev/testvoc-summary.mt-he.txt -text
 dev/testvoc.sh -text
+dev/verb.py -text
 dev/verb_lists/allmalteseverbs17apr-strong.csv -text
 dev/verb_lists/allmalteseverbs17apr-weak.csv -text
 dev/verb_lists/allmalteseverbs17apr.xls -text
