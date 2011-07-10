@@ -570,6 +570,7 @@ stems = [
 	{'stem': 'fasad', 'type': 'strong', 'gloss': 'bleed', 'root': 'f-s-d', 'vowel_perf': 'a-a', 'vowel_impf': 'i-a', 'trans': 'iv'},
 	{'stem': 'laħaq', 'type': 'strong', 'gloss': 'reach', 'root': 'l-ħ-q', 'vowel_perf': 'a-a', 'vowel_impf': 'i-a', 'trans': 'iv'},
 	{'stem': 'lagħab', 'type': 'strong', 'gloss': 'play', 'root': 'l-għ-b', 'vowel_perf': 'a-a', 'vowel_impf': 'i-a', 'trans': 'TD'},
+	{'stem': 'bagħad', 'type': 'strong', 'gloss': 'hate', 'root': 'b-għ-d', 'vowel_perf': 'a-a', 'vowel_impf': 'i-a', 'trans': 'TD'},
 	{'stem': 'lagħaq', 'type': 'strong', 'gloss': 'lick', 'root': 'l-għ-q', 'vowel_perf': 'a-a', 'vowel_impf': 'i-a', 'trans': 'TD'},
 	{'stem': 'marad', 'type': 'strong', 'gloss': 'fall·sick', 'root': 'm-r-d', 'vowel_perf': 'a-a', 'vowel_impf': 'i-a', 'trans': 'TD'},
 	{'stem': 'sahar', 'type': 'strong', 'gloss': 'work·overtime', 'root': 's-h-r', 'vowel_perf': 'a-a', 'vowel_impf': 'i-a', 'trans': 'TD'},
@@ -746,6 +747,12 @@ stems = [
 	{'stem': 'ħarbat', 'type': 'quad', 'gloss': 'rout', 'root': 'ħ-r-b-t', 'vowel_perf': 'a-a', 'vowel_impf': 'a-a', 'trans': 'tv', 'pp': 'im'},
 	{'stem': 'każbar', 'type': 'quad', 'gloss': 'revile', 'root': 'k-ż-b-r', 'vowel_perf': 'a-a', 'vowel_impf': 'a-a', 'trans': 'tv', 'pp': 'im'},
 	{'stem': 'bandal', 'type': 'quad', 'gloss': 'swing', 'root': 'b-n-d-l', 'vowel_perf': 'a-a', 'vowel_impf': 'a-a', 'trans': 'tv', 'pp': 'im'},
+	{'stem': 'ċaflas', 'type': 'quad', 'gloss': 'splash', 'root': 'ċ-f-l-s', 'vowel_perf': 'a-a', 'vowel_impf': 'a-a', 'trans': 'tv', 'pp': 'im'},
+	{'stem': 'ċaħħad', 'type': 'quad', 'gloss': 'deprive', 'root': 'ċ-ħ-ħ-d', 'vowel_perf': 'a-a', 'vowel_impf': 'a-a', 'trans': 'tv', 'pp': 'im'},
+	{'stem': 'ċanfar', 'type': 'quad', 'gloss': 'reproach', 'root': 'ċ-n-f-r', 'vowel_perf': 'a-a', 'vowel_impf': 'a-a', 'trans': 'tv', 'pp': 'im'},
+	{'stem': 'ċapċap', 'type': 'quad', 'gloss': 'clap', 'root': 'ċ-p-ċ-p', 'vowel_perf': 'a-a', 'vowel_impf': 'a-a', 'trans': 'tv', 'pp': 'im'},
+	{'stem': 'ċappas', 'type': 'quad', 'gloss': 'smear', 'root': 'ċ-p-p-s', 'vowel_perf': 'a-a', 'vowel_impf': 'a-a', 'trans': 'tv', 'pp': 'im'},
+	{'stem': 'ċaqlaq', 'type': 'quad', 'gloss': 'shake', 'root': 'ċ-q-l-q', 'vowel_perf': 'a-a', 'vowel_impf': 'a-a', 'trans': 'tv', 'pp': 'im'},
 	{'stem': 'qarmeċ', 'type': 'quad', 'gloss': 'crunch', 'root': 'q-r-m-ċ', 'vowel_perf': 'a-e', 'vowel_impf': 'a-e', 'trans': 'tv', 'pp': 'im'},
 	{'stem': 'ħawtel', 'type': 'quad', 'gloss': 'be·diligent', 'root': 'ħ-w-t-l', 'vowel_perf': 'a-e', 'vowel_impf': 'a-e', 'trans': 'tv', 'pp': 'im'},
 	{'stem': 'kexkex', 'type': 'quad', 'gloss': 'shock', 'root': 'k-x-k-x', 'vowel_perf': 'e-e', 'vowel_impf': 'e-e', 'trans': 'tv', 'pp': 'im'},
@@ -759,7 +766,9 @@ stems = [
 	{'stem': 'tertaq', 'type': 'quad', 'gloss': 'shatter', 'root': 't-r-t-q', 'vowel_perf': 'e-a', 'vowel_impf': 'e-a', 'trans': 'tv', 'pp': 'im'},
 	{'stem': 'werżaq', 'type': 'quad', 'gloss': 'scream', 'root': 'w-r-ż-q', 'vowel_perf': 'e-a', 'vowel_impf': 'e-a', 'trans': 'tv', 'pp': 'im'},
 	{'stem': 'fixkel', 'type': 'quad', 'gloss': 'obstruct', 'root': 'f-x-k-l', 'vowel_perf': 'i-e', 'vowel_impf': 'i-e', 'trans': 'tv', 'pp': 'im'},
-	{'stem': 'bixkel', 'type': 'quad', 'gloss': 'cheat', 'root': 'b-x-k-l', 'vowel_perf': 'i-e', 'vowel_impf': 'i-e', 'trans': 'iv', 'pp': 'im'}
+	{'stem': 'bixkel', 'type': 'quad', 'gloss': 'cheat', 'root': 'b-x-k-l', 'vowel_perf': 'i-e', 'vowel_impf': 'i-e', 'trans': 'iv', 'pp': 'im'},
+	{'stem': 'biddel', 'type': 'quad', 'gloss': 'alter', 'root': 'b-d-d-l', 'vowel_perf': 'i-e', 'vowel_impf': 'i-e', 'trans': 'tv', 'pp': 'im'},
+	{'stem': 'berbaq', 'type': 'quad', 'gloss': 'squander', 'root': 'b-r-b-q', 'vowel_perf': 'e-a', 'vowel_impf': 'e-a', 'trans': 'tv', 'pp': 'im'},
 ];
 
 ##-----------------------------------------------------------------------------##
