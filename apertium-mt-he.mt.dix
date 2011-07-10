@@ -3043,7 +3043,13 @@
     <e lm="minkejja li" c="although"><i>minkeijja<b/>li</i><par n="li__cnjsub"/></e>
     <e lm="minkejja" c="despite"><i>minkeijja</i><par n="li__cnjsub"/></e>
 
+    <e lm="filwaqt" c="while"><i>filwaqt</i><par n="filwaqt__cnjadv"/></e>
+    <e lm="għalhekk" c="so"><i>għalhekk</i><par n="filwaqt__cnjadv"/></e>
+    <e lm="daqshekk" c="so"><i>daqshekk</i><par n="filwaqt__cnjadv"/></e>
+
+
     <!-- SECTION: Prepositions -->
+
     <e lm="kontra"><i>kontra</i><par n="kontra__pr"/></e>
     <e lm="bla" c="without"><i>bla</i><par n="kontra__pr"/></e>
     <e lm="mingħajr" c="without"><i>mingħajr</i><par n="kontra__pr"/></e>
@@ -5880,6 +5886,9 @@
     <e lm="flimkien" c="together"><i>flimkien</i><par n="immedjatament__adv"/></e>
     <e lm="tant kemm" c="so much"><i>tant<b/>kemm</i><par n="immedjatament__adv"/></e>
 
+    <e lm="hawnhekk" c="here"><i>hawnhekk</i><par n="immedjatament__adv"/></e>
+    <e lm="hemmhekk" c="here"><i>hemmhekk</i><par n="immedjatament__adv"/></e>
+
     <e lm="hawn" c="here"><i>hawn</i><par n="immedjatament__adv"/></e>
     <e lm="qatt" c="never"><i>qatt</i><par n="immedjatament__adv"/></e>
     <e lm="darba" c="once"><i>darba</i><par n="immedjatament__adv"/></e>
@@ -5992,8 +6001,6 @@
 
     <e lm="anki"><i>anki</i><par n="immedjatament__adv"/></e>
 
-
-    <e lm="filwaqt" c="while"><i>filwaqt</i><par n="filwaqt__cnjadv"/></e>
 
     <!-- SECTION: Adjectives -->
 
