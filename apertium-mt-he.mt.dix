@@ -3262,6 +3262,7 @@
 
 
     <e lm="solidarjetà"><i>solidarjet</i><par n="entit/à__n_f"/></e>
+    <e lm="libertà"><i>libert</i><par n="entit/à__n_f"/></e>
     <e lm="entità"><i>entit</i><par n="entit/à__n_f"/></e>
     <e lm="mentalità"><i>mentalit</i><par n="entit/à__n_f"/></e>
     <e lm="possibilità"><i>possibilit</i><par n="entit/à__n_f"/></e>
@@ -3342,6 +3343,7 @@
     <e lm="amministrazzjoni"><i>amministrazzjoni</i><par n="unjoni__n_f"/></e>
     <e lm="detenzjoni"><i>detenzjoni</i><par n="unjoni__n_f"/></e>
     <e lm="diskriminazzjoni"><i>diskriminazzjoni</i><par n="unjoni__n_f"/></e>
+    <e lm="non-diskriminazzjoni"><i>non-diskriminazzjoni</i><par n="unjoni__n_f"/></e>
     <e lm="distinzjoni"><i>distinzjoni</i><par n="unjoni__n_f"/></e>
     <e lm="estensjoni"><i>estensjoni</i><par n="unjoni__n_f"/></e>
     <e lm="estradizzjoni"><i>estradizzjoni</i><par n="unjoni__n_f"/></e>
@@ -3512,6 +3514,7 @@
     <e lm="molestja"><i>molestja</i><par n="molestja__n_f"/></e> <!-- verify gender -->
     <e lm="tniġġis"><i>tniġġis</i><par n="tniġġis__n_m"/></e> <!-- verify gender -->
     <e lm="futbol"><i>futbol</i><par n="tniġġis__n_m"/></e> <!-- no pl?-->
+    <e lm="rispett"><i>rispett</i><par n="tniġġis__n_m"/></e> <!-- no pl?-->
     <e lm="mużika"><i>mużika</i><par n="molestja__n_f"/></e> <!-- no pl?-->
     <e lm="istorja"><i>istorja</i><par n="molestja__n_f"/></e> <!-- no pl?-->
     <e lm="ilma" c="water"><i>ilma</i><par n="molestja__n_f"/></e> <!-- no pl?-->
@@ -3521,6 +3524,8 @@
     <e lm="poezija" c="poetry"><i>poezija</i><par n="molestja__n_f"/></e> <!-- no pl?-->
     <e lm="ħaġa" c="thing"><i>ħaġa</i><par n="molestja__n_f"/></e> <!-- no pl?-->
     <e lm="importanza" c="importance"><i>importanza</i><par n="molestja__n_f"/></e>
+    <e lm="tolleranza" c="tolerance"><i>tolleranza</i><par n="molestja__n_f"/></e>
+    <e lm="ugwaljanza" c="equality"><i>ugwaljanza</i><par n="molestja__n_f"/></e>
 
     <e lm="proposta"><i>propost</i><par n="propost/a__n_f"/></e>
     <e lm="maratona"><i>maraton</i><par n="propost/a__n_f"/></e>
@@ -5757,6 +5762,7 @@
     <e lm="diffiċli"><i>diffiċli</i><par n="differenti__adj"/></e>
     <e lm="faċli"><i>faċli</i><par n="differenti__adj"/></e>
     <e lm="lokali"><i>lokali</i><par n="differenti__adj"/></e>
+    <e lm="komuni"><i>komuni</i><par n="differenti__adj"/></e>
     <e lm="bilmod"><i>bilmod</i><par n="differenti__adj"/></e>
 
     <e lm="ambjentali"><i>ambjentali</i><par n="differenti__adj"/></e>
