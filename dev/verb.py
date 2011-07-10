@@ -192,16 +192,15 @@ def hollow_past(root, vowels): #{
 	# This form is obtained by the insertion of 'o' for second radical 'w' and
 	# 'i' for second radical 'j'
 	if r[1] == 'w': #{
-		forms['past.p2.sg'] = [(r[0] + 'o' + r[2] + 't', '-')];	
-		forms['past.p1.sg'] = [(r[0] + 'o' + r[2] + 't', '-')];	
-		forms['past.p2.pl'] = [(r[0] + 'o' + r[2] + 'tu', '-')];
-		forms['past.p1.pl'] = [(r[0] + 'o' + r[2] + 'na', '-')];
+		link_vowel = 'o';
 	elif r[1] == 'j': #{
-		forms['past.p2.sg'] = [(r[0] + 'i' + r[2] + 't', '-')];	
-		forms['past.p1.sg'] = [(r[0] + 'i' + r[2] + 't', '-')];	
-		forms['past.p2.pl'] = [(r[0] + 'i' + r[2] + 'tu', '-')];
-		forms['past.p1.pl'] = [(r[0] + 'i' + r[2] + 'na', '-')];
+		link_vowel = 'i';
 	#}
+
+	forms['past.p2.sg'] = [(r[0] + link_vowel + r[2] + 't', '-')];	
+	forms['past.p1.sg'] = [(r[0] + link_vowel + r[2] + 't', '-')];	
+	forms['past.p2.pl'] = [(r[0] + link_vowel + r[2] + 'tu', '-')];
+	forms['past.p1.pl'] = [(r[0] + link_vowel + r[2] + 'na', '-')];
 	forms['past.p3.pl'] = [(r[0] + 'a' + r[2] + 'u', '-')];
 
 	# This is not in the grammar, but it seems that 'ie' (mutation of long 'a')
@@ -605,16 +604,31 @@ for stem in infl: #{
 			right = stem + '<s n="vblex"/>' + sym(flex);
 	
 			if subflex[1] == '-': #{
-				outline = outline + '    <e lm="' + stem + '">';
+				if flex == 'past.p3.m.sg': #{
+					outline = outline + '    <e lm="' + stem + '">';
+				else: #{
+					outline = outline + '    <e>';
+				#}
 				print outline + '<p><l>' + left + '</l><r>' + right + '</r></p></e>';
+				outline = outline + '    <e>';
 				print outline + '<p><l>' + left + 'x</l><r>' + right + '<j/>x<s n="neg"/></r></p></e>';
 			elif subflex[1] == 'RL': #{
-				outline = outline + '    <e lm="' + stem + '" r="' + subflex[1] + '">';
+				if flex == 'past.p3.m.sg': #{
+					outline = outline + '    <e lm="' + stem + '" r="' + subflex[1] + '">';
+				else: #{
+					outline = outline + '    <e r="' + subflex[1] + '">';
+				#}
 				print outline + '<p><l><a/>' + left + '</l><r>' + right + '</r></p></e>';
+				outline = outline + '    <e r="' + subflex[1] + '">';
 				print outline + '<p><l><a/>' + left + 'x</l><r>' + right + '<j/>x<s n="neg"/></r></p></e>';
 			else: #{
-				outline = outline + '    <e lm="' + stem + '" r="' + subflex[1] + '">';
+				if flex == 'past.p3.m.sg': #{
+					outline = outline + '    <e lm="' + stem + '" r="' + subflex[1] + '">';
+				else: #{
+					outline = outline + '    <e r="' + subflex[1] + '">';
+				#}
 				print outline + '<p><l>' + left + '</l><r>' + right + '</r></p></e>';
+				outline = outline + '    <e r="' + subflex[1] + '">';
 				print outline + '<p><l>' + left + 'x</l><r>' + right + '<j/>x<s n="neg"/></r></p></e>';
 			#}
 		#}
