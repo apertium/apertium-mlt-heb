@@ -610,7 +610,7 @@ for stem in infl: #{
 					outline = outline + '    <e>';
 				#}
 				print outline + '<p><l>' + left + '</l><r>' + right + '</r></p></e>';
-				outline = outline + '    <e>';
+				outline = '    <e>';
 				print outline + '<p><l>' + left + 'x</l><r>' + right + '<j/>x<s n="neg"/></r></p></e>';
 			elif subflex[1] == 'RL': #{
 				if flex == 'past.p3.m.sg': #{
@@ -619,7 +619,7 @@ for stem in infl: #{
 					outline = outline + '    <e r="' + subflex[1] + '">';
 				#}
 				print outline + '<p><l><a/>' + left + '</l><r>' + right + '</r></p></e>';
-				outline = outline + '    <e r="' + subflex[1] + '">';
+				outline = '    <e r="' + subflex[1] + '">';
 				print outline + '<p><l><a/>' + left + 'x</l><r>' + right + '<j/>x<s n="neg"/></r></p></e>';
 			else: #{
 				if flex == 'past.p3.m.sg': #{
@@ -628,7 +628,7 @@ for stem in infl: #{
 					outline = outline + '    <e r="' + subflex[1] + '">';
 				#}
 				print outline + '<p><l>' + left + '</l><r>' + right + '</r></p></e>';
-				outline = outline + '    <e r="' + subflex[1] + '">';
+				outline = '    <e r="' + subflex[1] + '">';
 				print outline + '<p><l>' + left + 'x</l><r>' + right + '<j/>x<s n="neg"/></r></p></e>';
 			#}
 		#}
