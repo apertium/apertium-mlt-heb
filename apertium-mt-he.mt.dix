@@ -3311,6 +3311,8 @@
     <e lm="champion"><i>champion</i><par n="gowl__n_m"/></e>
     <e lm="daqq"><i>daqq</i><par n="haddiem__n"/></e>
     <e lm="demokrazija"><i>demokrazij</i><par n="propost/a__n_f"/></e>
+    <e lm="enċiklopedija"><i>enċiklopedij</i><par n="propost/a__n_f"/></e>
+    <e lm="liċenzja"><i>liċenzj</i><par n="propost/a__n_f"/></e>
     <e lm="direttiva"><i>direttiv</i><par n="propost/a__n_f"/></e>
     <e lm="film"><i>film</i><par n="gowl__n_m"/></e>
     <e lm="filmat"><i>filmat</i><par n="moviment__n_m"/></e>
@@ -5306,6 +5308,7 @@
     <!-- TODO: Some of these may need to be categorised for gender -->
     <e lm="Olimpjadi"><i>Olimpjadi</i><par n="San__np"/></e> <!-- CHECK: pl? -->
     <e lm="San"><i>San</i><par n="San__np"/></e>
+    <e lm="Wikipedija"><i>Wikipedija</i><par n="San__np"/></e>
     <e lm="Papa"><i>Papa</i><par n="San__np"/></e>
     <e lm="Sir"><i>Sir</i><par n="San__np"/></e>
     <e lm="Onor."><i>Onor.</i><par n="San__np"/></e>
@@ -5460,6 +5463,7 @@
 
 
     <e lm="reliġjuż"><i>reliġjuż</i><par n="reliġjuż__adj"/></e>
+    <e lm="kollaborattiv"><i>kollaborattiv</i><par n="reliġjuż__adj"/></e>
     <e lm="ċar"><i>ċar</i><par n="reliġjuż__adj"/></e>
     <e lm="ambizzjuż"><i>ambizzjuż</i><par n="reliġjuż__adj"/></e>
     <e lm="eskluż"><i>eskluż</i><par n="reliġjuż__adj"/></e>
@@ -5744,12 +5748,16 @@
     <e lm="stramb"><i>stramb</i><par n="nativ__adj"/></e>
 
     <e lm="differenti"><i>differenti</i><par n="differenti__adj"/></e>
+    <e lm="universali"><i>universali</i><par n="differenti__adj"/></e>
+    <e lm="multilingwali"><i>multilingwali</i><par n="differenti__adj"/></e>
     <e lm="nazzjonali"><i>nazzjonali</i><par n="differenti__adj"/></e>
     <e lm="trijonfali"><i>trijonfali</i><par n="differenti__adj"/></e>
     <e lm="ġenerali"><i>ġenerali</i><par n="differenti__adj"/></e>
     <e lm="oriġinali"><i>oriġinali</i><par n="differenti__adj"/></e>
     <e lm="internazzjonali"><i>internazzjonali</i><par n="differenti__adj"/></e>
     <e lm="importanti"><i>importanti</i><par n="differenti__adj"/></e>
+    <e lm="verifikabbli"><i>verifikabbli</i><par n="differenti__adj"/></e>
+    <e lm="newtrali"><i>newtrali</i><par n="differenti__adj"/></e>
     <e lm="simili"><i>simili</i><par n="differenti__adj"/></e>
     <e lm="mużikali"><i>mużikali</i><par n="differenti__adj"/></e>
     <e lm="parlamentari"><i>parlamentari</i><par n="differenti__adj"/></e>
@@ -6213,6 +6221,7 @@
     <e lm="aċċessat"><i>aċċessat</i><par n="nativ__adj"/></e>
 
     <e lm="kroniku"><i>kroni</i><par n="epi/ku__adj"/></e>
+    <e lm="enċiklopediku"><i>enċiklopedi</i><par n="epi/ku__adj"/></e>
     <e lm="elettriku"><i>elettri</i><par n="epi/ku__adj"/></e>
     <e lm="tipiku"><i>tipi</i><par n="epi/ku__adj"/></e>
     <e lm="akkademiku"><i>akkademi</i><par n="epi/ku__adj"/></e>
