@@ -115,9 +115,9 @@ def strong_pres(root, vowels): #{
 	forms['pres.p2.sg'] = [('t' + v[0] + r[0] + r[1] + v[1] + r[2], '-')] ;
 	forms['pres.p1.sg'] = [('n' + v[0] + r[0] + r[1] + v[1] + r[2], '-')] ;
 	
-	forms['pres.p3.pl'] = [('j' + v[0] + r[0] + r[1] + v[1] + r[2] + 'u', '-')] ; # j-iDĦL-u
-	forms['pres.p2.pl'] = [('t' + v[0] + r[0] + r[1] + v[1] + r[2] + 'u', '-')] ;
-	forms['pres.p1.pl'] = [('n' + v[0] + r[0] + r[1] + v[1] + r[2] + 'u', '-')] ;
+	forms['pres.p3.pl'] = [('j' + v[0] + r[0] + r[1] + r[2] + 'u', '-')] ; # j-iDĦL-u j-iFTĦ-u
+	forms['pres.p2.pl'] = [('t' + v[0] + r[0] + r[1] + r[2] + 'u', '-')] ;
+	forms['pres.p1.pl'] = [('n' + v[0] + r[0] + r[1] + r[2] + 'u', '-')] ;
 
 	# When the seond radical of the verb is 'l', 'm', 'n' or 'għ', a euphonic 
 	# vowel must be inserted
