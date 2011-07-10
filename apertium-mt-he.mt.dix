@@ -675,7 +675,7 @@
     <e><p><l>ofoni</l><r>afown<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
   </pardef>
 
-  <pardef n="s/ena__n">
+  <pardef n="s/ena__n_f">
     <e><p><l>ena</l><r>ena<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>nin</l><r>ena<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e><p><l>nin</l><r>ena<s n="n"/><s n="f"/><s n="pl"/></r></p><par n="S__dar"/></e>
@@ -727,7 +727,6 @@
     <e r="LR"><p><l>ijiem</l><r>jum<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
   </pardef>
 
-
   <pardef n="b/niedem__n_m">
     <e><p><l>niedem</l><r>niedem<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>nedmin</l><r>niedem<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
@@ -743,6 +742,10 @@
     <e><p><l>fijiet</l><r>of<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
   </pardef>
 
+  <pardef n="qassis__n_m">
+    <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>in</l><r><s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+  </pardef>
 
   <pardef n="parti__n_m">
     <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/></r></p></e>
@@ -786,9 +789,14 @@
     <e><p><l>ijiet</l><r>ja<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
   </pardef>
 
-  <pardef n="kn/isja__n">
+  <pardef n="kn/isja__n_f">
     <e><p><l>isja</l><r>isja<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>ejjes</l><r>isja<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+  </pardef>
+
+  <pardef n="n/ar__n_m">
+    <e><p><l>ar</l><r>ar<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>irien</l><r>ar<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
   </pardef>
 
   <pardef n="molestja__n_f"> <!-- mass noun, f -->
@@ -797,6 +805,10 @@
 
   <pardef n="tniġġis__n_m"> <!-- mass noun, m -->
     <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+  </pardef>
+
+  <pardef n="sentejn__n_f"> <!-- mass noun, f, plural -->
+    <e><p><l></l><r><s n="n"/><s n="f"/><s n="pl"/></r></p></e>
   </pardef>
 
   <pardef n="logħ/ba__n">
@@ -3246,6 +3258,7 @@
     <e lm="plott" c="plot"><i>plott</i><par n="dixx__n_m"/></e>
     <e lm="gvern"><i>gvern</i><par n="dixx__n_m"/></e>
     <e lm="ħin" c="time"><i>ħin</i><par n="dixx__n_m"/></e>
+    <e lm="pont" c="bridge"><i>pont</i><par n="dixx__n_m"/></e>
 
     <e lm="omm" c="mother"><i>omm</i><par n="omm__n_f"/></e>
     <e lm="ħajja" c="life"><i>ħajj</i><par n="ħajj/a__n_f"/></e>
@@ -3307,6 +3320,7 @@
     <e lm="qorti" c="court"><i>q</i><par n="q/orti__n_m"/></e>
     <e lm="vers" c="verse"><i>v</i><par n="v/ers__n_m"/></e>
     <e lm="serp" c="snake"><i>s</i><par n="s/erp__n_m"/></e>
+    <e lm="qassis" c="priest"><i>qassis</i><par n="qassis__n_m"/></e>
 
     <e lm="avventura"><i>avventur</i><par n="propost/a__n_f"/></e>
     <e lm="champion"><i>champion</i><par n="gowl__n_m"/></e>
@@ -3329,6 +3343,7 @@
     <e lm="meeting"><i>meeting</i><par n="gowl__n_m"/></e>
     <e lm="nassab"><i>nassab</i><par n="haddiem__n"/></e>
     <e lm="norma"><i>norm</i><par n="propost/a__n_f"/></e>
+    <e lm="natura"><i>natur</i><par n="propost/a__n_f"/></e>
     <e lm="droga" c="drug"><i>drog</i><par n="pjanet/a__n_m"/></e>
     <e lm="partner"><i>partner</i><par n="gowl__n_m"/></e>
     <e lm="rawnd"><i>rawnd</i><par n="gowl__n_m"/></e>
@@ -3482,6 +3497,7 @@
     <e lm="unur" c="honour"><i>unur</i><par n="moviment__n_m"/></e>
     <e lm="uffiċjali"><i>uffiċjal</i><par n="moviment__n_m"/></e>
     <e lm="gvernatur"><i>gvernatur</i><par n="moviment__n_m"/></e>
+    <e lm="kunċett" c="concept"><i>kunċett</i><par n="moviment__n_m"/></e>
 
     <e lm="protestant"><i>protestant</i><par n="protestant__n"/></e>
     <e lm="nazzjonalist"><i>nazzjonalist</i><par n="protestant__n"/></e>
@@ -3497,6 +3513,7 @@
     <e lm="aċċess"><i>aċċess</i><par n="protestant__n"/></e>
     <e lm="protest"><i>protest</i><par n="protestant__n"/></e>
     <e lm="accident"><i>accident</i><par n="protestant__n"/></e>
+    <e lm="tip" c="type"><i>tip</i><par n="protestant__n"/></e>
 
     <e lm="grupp" c="group"><i>grupp</i><par n="moviment__n_m"/></e>
     <e lm="programm" c="programm"><i>programm</i><par n="moviment__n_m"/></e>
@@ -3506,11 +3523,15 @@
     <e lm="fatt" c="fact"><i>fatt</i><par n="moviment__n_m"/></e>
 
     <e lm="arja"><i>ar</i><par n="ar/ja__n"/></e>
-    <e lm="sena" c="year"><i>s</i><par n="s/ena__n"/></e>
+    <e lm="sena" c="year"><i>s</i><par n="s/ena__n_f"/></e>
     <e lm="minuta" c="minute"><i>minut</i><par n="propost/a__n_f"/></e>
+    <e lm="sentejn" c="two years"><i>sentejn</i><par n="sentejn__n_f"/></e>
     <e lm="karriera" c="career"><i>karriera</i><par n="propost/a__n_f"/></e>
+    <e lm="istqarrija" c="statement"><i>istqarrij</i><par n="sħubij/a__n_f"/></e>
+    <e lm="stqarrija" c="statement"><i>stqarrij</i><par n="sħubij/a__n_f"/></e>
 
-    <e lm="knisja" c="church"><i>kn</i><par n="kn/isja__n"/></e>
+    <e lm="knisja" c="church"><i>kn</i><par n="kn/isja__n_f"/></e>
+    <e lm="nar" c="fire"><i>n</i><par n="n/ar__n_m"/></e>
 
     <e lm="imħabba"><i>imħabba</i><par n="molestja__n_f"/></e> <!-- no pl? -->
     <e lm="internet"><i>internet</i><par n="molestja__n_f"/></e> <!-- verify gender; 'internet użata' -->
@@ -4056,6 +4077,7 @@
     <e lm="mat"><i>mat</i><par n="moviment__n_m"/></e>
     <e lm="mekkaniżmu"><i>mekkaniżm</i><par n="buff/u__n_m"/></e>
 
+    <e lm="deheb" c="gold"><i>deheb</i><par n="tniġġis__n_m"/></e>
     <e lm="anakroniżmu"><i>anakroniżmu</i><par n="tniġġis__n_m"/></e>
     <e lm="ateiżmu"><i>ateiżmu</i><par n="tniġġis__n_m"/></e>
     <e lm="attiviżmu"><i>attiviżmu</i><par n="tniġġis__n_m"/></e>
@@ -4326,7 +4348,7 @@
     <e lm="bxara" c="announcement of an event" ><i>bxa</i><par n="xma/ra__n_f"/></e>
     <e lm="nikta" c="dot" ><i>nik</i><par n="qat/ta__n_f"/></e>
     <e lm="ħabib" c="friend" ><i>ħ</i><par n="ħ/abib__n"/></e>
-    <e lm="haddiem" c="worker" ><i>haddiem</i><par n="haddiem__n"/></e>
+    <e lm="ħaddiem" c="worker" ><i>ħaddiem</i><par n="haddiem__n"/></e>
     <e lm="bint" c="daughter" ><i>b</i><par n="b/int__n_f"/></e>
     <e lm="għajn" c="fountain" ><i>għ</i><par n="għ/ajn__n_f"/></e>
     <e lm="sodda" c="bed" ><i>sod</i><par n="sod/da__n_f"/></e>
@@ -5477,7 +5499,7 @@
     <e lm="uman"><i>uman</i><par n="reliġjuż__adj"/></e>
     <e lm="vjolent"><i>vjolent</i><par n="reliġjuż__adj"/></e>
     <e lm="dubbjuż"><i>dubbjuż</i><par n="reliġjuż__adj"/></e>
-
+    <e lm="informat" c="informed"><i>informat</i><par n="reliġjuż__adj"/></e>
 
     <e lm="eminent"><i>eminent</i><par n="eminent__adj"/></e>
     <e lm="prominent"><i>prominent</i><par n="eminent__adj"/></e>
