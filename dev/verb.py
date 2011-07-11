@@ -18,6 +18,7 @@ def header(): #{
 	header = header + '  <alphabet>ABĊDEFĠGGHĦIIJKLMNOPQRSTUVWXZŻabċdefġgħghieiejklmnopqrstuvwxzżycYCáéíóúàèìòùñöëäïüçÿāēīōūăĕĭŏŭãẽĩõũ</alphabet>\n';
 	header = header + '  <sdefs>\n';
 	header = header + '    <sdef n="vblex"/>\n';
+	header = header + '    <sdef n="prn"/>\n';
 	header = header + '    <sdef n="past"/>\n';
 	header = header + '    <sdef n="neg"/>\n';
 	header = header + '    <sdef n="pres"/>\n';
@@ -33,6 +34,69 @@ def header(): #{
 	header = header + '    <sdef n="f"/>\n';
 	header = header + '    <sdef n="mf"/>\n';
 	header = header + '  </sdefs>\n';
+	header = header + '  <pardefs>\n';
+
+	header = header + '    <pardef n="S__qatlu/lhiex">\n';
+        header = header + '      <e><p><l>lux</l><r><j/>lu<s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>\n';
+        header = header + '      <e><p><l>lhiex</l><r><j/>lu<s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>\n';
+        header = header + '      <e><p><l>lekx</l><r><j/>lu<s n="prn"/><s n="p2"/><s n="mf"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>\n';
+        header = header + '      <e><p><l>lix</l><r><j/>lu<s n="prn"/><s n="p1"/><s n="mf"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>\n';
+        header = header + '      <e><p><l>lhomx</l><r><j/>lu<s n="prn"/><s n="p3"/><s n="mf"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>\n';
+        header = header + '      <e><p><l>lkomx</l><r><j/>lu<s n="prn"/><s n="p2"/><s n="mf"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>\n';
+        header = header + '      <e><p><l>lniex</l><r><j/>lu<s n="prn"/><s n="p1"/><s n="mf"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>\n';
+	header = header + '    </pardef>\n';
+
+	header = header + '    <pardef n="S__qatlu/lha">\n';
+        header = header + '      <e><p><l>lu</l><r><j/>lu<s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>\n';
+        header = header + '      <e><p><l>lha</l><r><j/>lu<s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>\n';
+        header = header + '      <e><p><l>lek</l><r><j/>lu<s n="prn"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>\n';
+        header = header + '      <e><p><l>li</l><r><j/>lu<s n="prn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>\n';
+        header = header + '      <e><p><l>lhom</l><r><j/>lu<s n="prn"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>\n';
+        header = header + '      <e><p><l>lkom</l><r><j/>lu<s n="prn"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p></e>\n';
+        header = header + '      <e><p><l>lna</l><r><j/>lu<s n="prn"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>\n';
+	header = header + '    </pardef>\n';
+
+	header = header + '    <pardef n="S__qatlu/nix">\n';
+        header = header + '      <e><p><l>ux</l><r><j/>u<s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>\n';
+        header = header + '      <e><p><l>hiex</l><r><j/>u<s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>\n';
+        header = header + '      <e><p><l>ekx</l><r><j/>u<s n="prn"/><s n="p2"/><s n="mf"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>\n';
+        header = header + '      <e><p><l>nix</l><r><j/>u<s n="prn"/><s n="p1"/><s n="mf"/><s n="sg"/><j/>x<s n="neg"/></r></p></e>\n';
+        header = header + '      <e><p><l>homx</l><r><j/>u<s n="prn"/><s n="p3"/><s n="mf"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>\n';
+        header = header + '      <e><p><l>komx</l><r><j/>u<s n="prn"/><s n="p2"/><s n="mf"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>\n';
+        header = header + '      <e><p><l>niex</l><r><j/>u<s n="prn"/><s n="p1"/><s n="mf"/><s n="pl"/><j/>x<s n="neg"/></r></p></e>\n';
+	header = header + '    </pardef>\n';
+
+	header = header + '    <pardef n="S__qatlu/ni">\n';
+        header = header + '      <e><p><l>u</l><r><j/>u<s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>\n';
+        header = header + '      <e><p><l>ha</l><r><j/>u<s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>\n';
+        header = header + '      <e><p><l>ek</l><r><j/>u<s n="prn"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>\n';
+        header = header + '      <e><p><l>ni</l><r><j/>u<s n="prn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>\n';
+        header = header + '      <e><p><l>hom</l><r><j/>u<s n="prn"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>\n';
+        header = header + '      <e><p><l>kom</l><r><j/>u<s n="prn"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p></e>\n';
+        header = header + '      <e><p><l>na</l><r><j/>u<s n="prn"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>\n';
+	header = header + '    </pardef>\n';
+
+	header = header + '    <pardef n="S__qatlu/hielhiex">\n';
+        header = header + '      <e><p><l>u</l><r><j/>u<s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/></r></p><par n="S__qatlu/lhiex"/></e>\n';
+        header = header + '      <e><p><l>hie</l><r><j/>u<s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/></r></p><par n="S__qatlu/lhiex"/></e>\n';
+        header = header + '      <e><p><l>ek</l><r><j/>u<s n="prn"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p><par n="S__qatlu/lhiex"/></e>\n';
+        header = header + '      <e><p><l>ni</l><r><j/>u<s n="prn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p><par n="S__qatlu/lhiex"/></e>\n';
+        header = header + '      <e><p><l>hom</l><r><j/>u<s n="prn"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p><par n="S__qatlu/lhiex"/></e>\n';
+        header = header + '      <e><p><l>kom</l><r><j/>u<s n="prn"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p><par n="S__qatlu/lhiex"/></e>\n';
+        header = header + '      <e><p><l>nie</l><r><j/>u<s n="prn"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p><par n="S__qatlu/lhiex"/></e>\n';
+	header = header + '    </pardef>\n';
+
+	header = header + '    <pardef n="S__qatlu/hielha">\n';
+        header = header + '      <e><p><l>u</l><r><j/>u<s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/></r></p><par n="S__qatlu/lha"/></e>\n';
+        header = header + '      <e><p><l>hie</l><r><j/>u<s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/></r></p><par n="S__qatlu/lha"/></e>\n';
+        header = header + '      <e><p><l>ek</l><r><j/>u<s n="prn"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p><par n="S__qatlu/lha"/></e>\n';
+        header = header + '      <e><p><l>ni</l><r><j/>u<s n="prn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p><par n="S__qatlu/lha"/></e>\n';
+        header = header + '      <e><p><l>hom</l><r><j/>u<s n="prn"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p><par n="S__qatlu/lha"/></e>\n';
+        header = header + '      <e><p><l>kom</l><r><j/>u<s n="prn"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p><par n="S__qatlu/lha"/></e>\n';
+        header = header + '      <e><p><l>nie</l><r><j/>u<s n="prn"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p><par n="S__qatlu/lha"/></e>\n';
+	header = header + '    </pardef>\n';
+
+	header = header + '  </pardefs>\n';
 	header = header + '  <section id="main" type="standard">\n';
 	
 	return header;
@@ -554,6 +618,7 @@ iv_with_pprs = ['qagħad', 'raqad'];
 
 stems = [
 	{'stem': 'qasam', 'type': 'strong', 'gloss': 'break', 'root': 'q-s-m', 'vowel_perf': 'a-a', 'vowel_impf': 'a-a', 'trans': 'tv'},
+	{'stem': 'kiteb', 'type': 'strong', 'gloss': 'write', 'root': 'k-t-b', 'vowel_perf': 'i-i', 'vowel_impf': 'i-i', 'trans': 'tv'},
 	{'stem': 'ħabat', 'type': 'strong', 'gloss': 'strike', 'root': 'ħ-b-t', 'vowel_perf': 'a-a', 'vowel_impf': 'a-a', 'trans': 'TD'},
 	{'stem': 'ħaqar', 'type': 'strong', 'gloss': 'oppress', 'root': 'ħ-q-r', 'vowel_perf': 'a-a', 'vowel_impf': 'a-a', 'trans': 'TD'},
 	{'stem': 'ħalaq', 'type': 'strong', 'gloss': 'create', 'root': 'ħ-l-q', 'vowel_perf': 'a-a', 'vowel_impf': 'a-a', 'trans': 'TD'},
@@ -843,6 +908,12 @@ for stem in infl: #{
 				print outline + '<p><l>' + left + '</l><r>' + right + '</r></p></e>';
 				outline = '    <e>';
 				print outline + '<p><l>' + left + 'x</l><r>' + right + '<j/>x<s n="neg"/></r></p></e>';
+				print outline + '<p><l>' + left + '</l><r>' + right + '</r></p><par n="S__qatlu/ni"/></e>';
+				print outline + '<p><l>' + left + '</l><r>' + right + '</r></p><par n="S__qatlu/nix"/></e>';
+				print outline + '<p><l>' + left + '</l><r>' + right + '</r></p><par n="S__qatlu/lha"/></e>';
+				print outline + '<p><l>' + left + '</l><r>' + right + '</r></p><par n="S__qatlu/lhiex"/></e>';
+				print outline + '<p><l>' + left + '</l><r>' + right + '</r></p><par n="S__qatlu/hielha"/></e>';
+				print outline + '<p><l>' + left + '</l><r>' + right + '</r></p><par n="S__qatlu/hielhiex"/></e>';
 			elif subflex[1] == 'RL': #{
 				if flex == 'past.p3.m.sg': #{
 					outline = outline + '    <e lm="' + stem + '" r="' + subflex[1] + '">';
@@ -852,6 +923,12 @@ for stem in infl: #{
 				print outline + '<p><l><a/>' + left + '</l><r>' + right + '</r></p></e>';
 				outline = '    <e r="' + subflex[1] + '">';
 				print outline + '<p><l><a/>' + left + 'x</l><r>' + right + '<j/>x<s n="neg"/></r></p></e>';
+				print outline + '<p><l>' + left + '</l><r>' + right + '</r></p><par n="S__qatlu/ni"/></e>';
+				print outline + '<p><l>' + left + '</l><r>' + right + '</r></p><par n="S__qatlu/nix"/></e>';
+				print outline + '<p><l>' + left + '</l><r>' + right + '</r></p><par n="S__qatlu/lha"/></e>';
+				print outline + '<p><l>' + left + '</l><r>' + right + '</r></p><par n="S__qatlu/lhiex"/></e>';
+				print outline + '<p><l>' + left + '</l><r>' + right + '</r></p><par n="S__qatlu/hielha"/></e>';
+				print outline + '<p><l>' + left + '</l><r>' + right + '</r></p><par n="S__qatlu/hielhiex"/></e>';
 			else: #{
 				if flex == 'past.p3.m.sg': #{
 					outline = outline + '    <e lm="' + stem + '" r="' + subflex[1] + '">';
@@ -861,6 +938,12 @@ for stem in infl: #{
 				print outline + '<p><l>' + left + '</l><r>' + right + '</r></p></e>';
 				outline = '    <e r="' + subflex[1] + '">';
 				print outline + '<p><l>' + left + 'x</l><r>' + right + '<j/>x<s n="neg"/></r></p></e>';
+				print outline + '<p><l>' + left + '</l><r>' + right + '</r></p><par n="S__qatlu/ni"/></e>';
+				print outline + '<p><l>' + left + '</l><r>' + right + '</r></p><par n="S__qatlu/nix"/></e>';
+				print outline + '<p><l>' + left + '</l><r>' + right + '</r></p><par n="S__qatlu/lha"/></e>';
+				print outline + '<p><l>' + left + '</l><r>' + right + '</r></p><par n="S__qatlu/lhiex"/></e>';
+				print outline + '<p><l>' + left + '</l><r>' + right + '</r></p><par n="S__qatlu/hielha"/></e>';
+				print outline + '<p><l>' + left + '</l><r>' + right + '</r></p><par n="S__qatlu/hielhiex"/></e>';
 			#}
 		#}
 	#}
