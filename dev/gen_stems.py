@@ -10,7 +10,7 @@ sys.stderr = codecs.getwriter('utf-8')(sys.stderr)
 reload(sys); sys.setdefaultencoding("utf-8")
 
 if len(sys.argv)<3:
-    print "Usage: gen_verbs.py <verb.py> <stems.csv>"
+    print "Usage: gen_stems.py <verb.py> <stems.csv>"
     sys.exit(1)
 
 verbsf = sys.argv[1]
