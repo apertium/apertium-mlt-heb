@@ -911,6 +911,7 @@
   <pardef n="xemgħa__n_f">
     <e><p><l></l><r><s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>t</l><r><s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    <e><p><l>tejn</l><r><s n="n"/><s n="f"/><s n="du"/></r></p></e>
   </pardef>
 
   <pardef n="q/attus__n_m">
@@ -3923,6 +3924,7 @@
     <e lm="ajruplan"><i>ajruplan</i><par n="moviment__n_m"/></e>
     <e lm="xoffa" c="lip"><i>x</i><par n="x/offa__n_f"/></e>
     <e lm="xemgħa"><i>xemgħa</i><par n="xemgħa__n_f"/></e>
+    <e lm="ġimgħa" c="week"><i>ġimgħa</i><par n="xemgħa__n_f"/></e>
     <e lm="ħsara" c="mischief"><i>ħsara</i><par n="xemgħa__n_f"/></e>
     <e lm="żjara" c="visit"><i>żjara</i><par n="xemgħa__n_f"/></e>
     <e lm="varjazzjoni"><i>varjazzjoni</i><par n="unjoni__n_f"/></e>
