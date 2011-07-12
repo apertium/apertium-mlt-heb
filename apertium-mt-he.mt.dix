@@ -23,6 +23,7 @@
     <sdef n="ord"         c="Ordinal"/>
     <sdef n="neg"         c="Negative"/>
     <sdef n="acr"         c="Acronym"/>
+    <sdef n="ref"         c="Reflexive"/>
 
     <sdef n="an"          c="Animate / inanimate"/>
 
@@ -298,6 +299,10 @@
 
     <pardef n="xi__prn">
       <e><p><l/><r><s n="prn"/><s n="ind"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
+
+    <pardef n="stess__prn">
+      <e><p><l/><r><s n="prn"/><s n="ref"/></r></p></e>
     </pardef>
 
     <pardef n="/wieħed__prn"> <!-- p.102 -->
@@ -3121,7 +3126,7 @@
     <e lm="filwaqt" c="while"><i>filwaqt</i><par n="filwaqt__cnjadv"/></e>
     <e lm="għalhekk" c="so"><i>għalhekk</i><par n="filwaqt__cnjadv"/></e>
     <e lm="daqshekk" c="so"><i>daqshekk</i><par n="filwaqt__cnjadv"/></e>
-
+    <e lm="billi" c="as"><i>billi</i><par n="filwaqt__cnjadv"/></e>
 
     <!-- SECTION: Prepositions -->
 
@@ -3173,6 +3178,8 @@
     
     <e lm="kollu" c="all"><i>kollu</i><par n="kollu__prn"/></e>
     <e lm="jew" c="either"><i>jew</i><par n="kollu__prn"/></e>
+
+    <e lm="stess" c="self"><i>stess</i><par n="stess__prn"/></e>
     
     <e lm="ieħor" c="another"><i>ieħor</i><par n="iehor__prn"/></e>
     <e lm="iehor" r="LR"><p><l>iehor</l><r>ieħor</r></p><par n="iehor__prn"/></e>
@@ -5637,7 +5644,8 @@
     <e lm="fqir"><p><l>ifqar</l><r>fqir</r></p><par n="akbar__adj"/></e>
 
     <e lm="ohxon" c="fat"><i>ohxon</i><par n="ohxon__adj"/></e>
-    <e lm="oxhon"><p><l>ehxen</l><r>oxhon</r></p><par n="ohxon__adj"/></e>
+    <e lm="ohxon"><p><l>ehxen</l><r>oxhon</r></p><par n="ohxon__adj"/></e>
+    <e lm="stess" c="same"><i>stess</i><par n="ohxon__adj"/></e>
 
     <e lm="tajjeb"><i>taj</i><par n="taj/jeb__adj"/></e>
     <e lm="tajjeb"><p><l>aħjar</l><r>tajjeb</r></p><par n="akbar__adj"/></e>
