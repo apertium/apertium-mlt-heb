@@ -41,6 +41,8 @@
     <sdef n="sg"          c="Singular"/>
     <sdef n="pl"          c="Plural"/>
     <sdef n="sp"          c="Singular / plural"/>
+    <sdef n="du"          c="Dual"/>
+    <sdef n="col"         c="Collective"/>
 
     <sdef n="p1"          c="First person"/>
     <sdef n="p2"          c="Second person"/>
@@ -474,8 +476,10 @@
   <pardef n="għoxrin__num">
     <e><p><l/><r><s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
   </pardef>
-  <pardef n="mija__num">
-    <e><p><l/><r><s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+  <pardef n="mi/ja__num">
+    <e><p><l>ja</l><r>ja<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e><p><l>jiet</l><r>ja<s n="num"/><s n="mf"/><s n="pl"/></r></p></e>
+    <e><p><l>tejn</l><r>ja<s n="num"/><s n="mf"/><s n="du"/></r></p></e>
   </pardef>
   <pardef n="mitejn__num">
     <e><p><l/><r><s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
@@ -725,6 +729,7 @@
     <e><p><l>jum</l><r>jum<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>jiem</l><r>jum<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e r="LR"><p><l>ijiem</l><r>jum<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+    <e><p><l>jumejn</l><r>jum<s n="n"/><s n="m"/><s n="du"/></r></p></e>
   </pardef>
 
   <pardef n="b/niedem__n_m">
@@ -734,7 +739,8 @@
 
   <pardef n="/raġel__n_m">
     <e><p><l>raġel</l><r>raġel<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
-    <e><p><l>irġiel</l><r>raġel<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+    <e><p><l>rġiel</l><r>raġel<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+    <e r="LR"><p><l>irġiel</l><r>raġel<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
   </pardef>
 
   <pardef n="isq/of__n_m">
@@ -752,6 +758,11 @@
     <e><p><l>jiet</l><r><s n="n"/><s n="m"/><s n="pl"/></r></p></e>
   </pardef>
 
+  <pardef n="unjoni__n_f">
+    <e><p><l></l><r><s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>jiet</l><r><s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+  </pardef>
+
   <pardef n="v/ers__n_m">
     <e><p><l>ers</l><r>ers<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>rus</l><r>ers<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
@@ -767,21 +778,14 @@
     <e><p><l>rati</l><r>orti<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
   </pardef>
 
-
   <pardef n="gwer/ra__n_f">
     <e><p><l>ra</l><r>ra<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>er</l><r>ra<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
   </pardef>
 
-
   <pardef n="ban/da__n_f">
     <e><p><l>da</l><r>da<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>ed</l><r>da<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
-  </pardef>
-
-  <pardef n="unjoni__n_f">
-    <e><p><l></l><r><s n="n"/><s n="f"/><s n="sg"/></r></p></e>
-    <e><p><l>jiet</l><r><s n="n"/><s n="f"/><s n="pl"/></r></p></e>
   </pardef>
 
   <pardef n="ar/ja__n">
@@ -1015,6 +1019,11 @@
 
   <pardef n="oxx__n_f">
     <e><p><l></l><r><s n="n"/><s n="f"/><s n="ND"/></r></p></e>
+  </pardef>
+
+  <pardef n="baħri__n_m">
+    <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>n</l><r><s n="n"/><s n="m"/><s n="pl"/></r></p></e>
   </pardef>
 
   <!-- Broken plural nouns -->
@@ -1967,7 +1976,8 @@
   </pardef>
   <pardef n="xal/la__n_f">
     <e><p><l>la</l><r>la<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
-    <e><p><l>el</l><r>la<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    <e><p><l>el</l><r>la<s n="n"/><s n="f"/><s n="col"/></r></p></e>
+    <e><p><l>liet</l><r>la<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
   </pardef>
   <pardef n="m/oħriet__n_GD">
     <e><p><l>oħriet</l><r>oħriet<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
@@ -2708,6 +2718,11 @@
     <e><p><l>am</l><r>am<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>mijiet</l><r>am<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
   </pardef>
+  <pardef n="xir/ja__n_f">
+    <e><p><l>ja</l><r>ja<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>i</l><r>ja<s n="n"/><s n="f"/><s n="col"/></r></p></e>
+    <e><p><l>jiet</l><r>ja<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+  </pardef>
 
   <!-- SECTION: Proper nouns -->
 
@@ -3259,7 +3274,7 @@
     <e lm="sebgħin" c="seventy"><i>sebgħin</i><par n="għoxrin__num"/></e>
     <e lm="tmenin" c="eighty"><i>tmenin</i><par n="għoxrin__num"/></e>
     <e lm="disgħin" c="ninety"><i>disgħin</i><par n="għoxrin__num"/></e>
-    <e lm="mija" c="hundred"><i>mija</i><par n="mija__num"/></e>
+    <e lm="mija" c="hundred"><i>mi</i><par n="mi/ja__num"/></e>
     <e lm="mitejn" c="two hundreds"><i>mitejn</i><par n="mitejn__num"/></e>
     <e lm="elf" c="thousand" ><i>el</i><par n="el/f__num"/></e>
     <e lm="elfejn" c="two thousands"><i>elfejn</i><par n="mitejn__num"/></e>
@@ -3997,7 +4012,7 @@
     <e lm="ċriev"><i>ċriev</i><par n="Ċek__n_GD"/></e>
     <e lm="ċifra"><i>ċifra</i><par n="oxx__n_f"/></e>
     <e lm="borża"><i>borża</i><par n="oxx__n_f"/></e>
-    <e lm="baħri"><i>baħri</i><par n="Ċek__n_m"/></e>
+    <e lm="baħri"><i>baħri</i><par n="baħri__n_m"/></e>
     <e lm="aġġettiv"><i>aġġettiv</i><par n="Ċek__n_m"/></e>
     <e lm="zokkor"><i>zokkor</i><par n="Ċek__n_m"/></e>
     <e lm="żebbuġ"><i>żebbuġ</i><par n="Ċek__n_m"/></e>
@@ -5545,6 +5560,7 @@
     <e lm="serq" c="theft"><i>serq</i><par n="serq__n_m"/></e>
     <e lm="qiegħ" c="bottom"><i>qi</i><par n="qi/egħ__n_m"/></e>
     <e lm="laħam" c="meat"><i>laħ</i><par n="laħ/am__n_m"/></e>
+    <e lm="xirja" c="shopping"><i>xir</i><par n="xir/ja__n_f"/></e>
 
     <!-- Days of the week -->
     <e lm="ħadd" c="Sunday" ><par n="il-/bieraħ__adv"/><i>Ħ</i><par n="ħ/add__n_m"/></e>
