@@ -6125,7 +6125,7 @@
     <e lm="possibbli"><i>possibbli</i><par n="differenti__adj"/></e>
     <e lm="possibli" r="LR"><p><l>possibli</l><r>possibbli</r></p><par n="differenti__adj"/></e>
     <e lm="partikolari" c="particular"><i>partikolari</i><par n="differenti__adj"/></e>
-    <e lm="partikulari" r="LR"><p><l>partikulari</l><r><partikolari/r></p><par n="differenti__adj"/></e>
+    <e lm="partikulari" r="LR"><p><l>partikulari</l><r>partikolari</r></p><par n="differenti__adj"/></e>
     <e lm="responsabbli" c="responsible"><i>responsabbli</i><par n="differenti__adj"/></e>
     <e lm="kmieni" c="early"><i>kmieni</i><par n="differenti__adj"/></e>
     <e lm="gravi" c="serious"><i>gravi</i><par n="differenti__adj"/></e>
