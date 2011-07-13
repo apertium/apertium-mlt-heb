@@ -2781,6 +2781,18 @@
     <e><p><l>bin</l><r>jeb<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
   </pardef>
 
+  <pardef n="mej/jet__adj">
+    <e><p><l>jet</l><r>jet<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>ta</l><r>jet<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>tin</l><r>jet<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
+  </pardef>
+
+  <pardef n="ċert/u__adj">
+    <e><p><l>u</l><r>u<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>a</l><r>u<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>u</l><r>u<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
+  </pardef>
+
   <pardef n="kb/ir__adj">
     <e><p><l>ir</l><r>ir<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>ira</l><r>ir<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
@@ -3067,9 +3079,10 @@
     <e><p><l>biela</l><r>obla<s n="adj"/><s n="GD"/><s n="pl"/></r></p></e>
     <e><p><l>bieli</l><r>obla<s n="adj"/><s n="GD"/><s n="pl"/></r></p></e>
   </pardef>
-  <pardef n="s/abiħ__adj_GD">
-    <e><p><l>abiħ</l><r>abiħ<s n="adj"/><s n="GD"/><s n="sg"/></r></p></e>
-    <e><p><l>bieħ</l><r>abiħ<s n="adj"/><s n="GD"/><s n="pl"/></r></p></e>
+  <pardef n="s/abiħ__adj">
+    <e><p><l>abiħ</l><r>abiħ<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>abiħa</l><r>abiħ<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>bieħ</l><r>abiħ<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
   </pardef>
   <pardef n="għ/ani__adj_GD">
     <e><p><l>ani</l><r>ani<s n="adj"/><s n="GD"/><s n="sg"/></r></p></e>
@@ -3483,6 +3496,7 @@
     <e lm="djalogu" c="dialog"><i>djalog</i><par n="buff/u__n_m"/></e>
     <e lm="misteru" c="mystery"><i>mister</i><par n="buff/u__n_m"/></e>
     <e lm="sussidju" c="subsidy"><i>sussidj</i><par n="buff/u__n_m"/></e>
+    <e lm="sommarju" c="summary"><i>sommarj</i><par n="buff/u__n_m"/></e>
     <e lm="ghazla"><i>ghazl</i><par n="sħubij/a__n_f"/></e>
     <e lm="grawnd"><i>grawnd</i><par n="gowl__n_m"/></e>
     <e lm="istilla"><i>istil</i><par n="xal/la__n_f"/></e>
@@ -3688,6 +3702,7 @@
     <e lm="avvelenament" c="poisioning"><i>avvelenament</i><par n="moviment__n_m"/></e>
     <e lm="appuntament" c="appointment"><i>appuntament</i><par n="moviment__n_m"/></e>
     <e lm="falliment" c="breakdown"><i>falliment</i><par n="moviment__n_m"/></e>
+    <e lm="trasferiment" c="transfer"><i>trasferiment</i><par n="moviment__n_m"/></e>
 
     <e lm="ispettur" c="inspector"><i>ispettur</i><par n="ispettur__n_mf"/></e>
 
@@ -5649,9 +5664,12 @@
     <e lm="ohxon"><p><l>ehxen</l><r>oxhon</r></p><par n="ohxon__adj"/></e>
     <e lm="stess" c="same"><i>stess</i><par n="ohxon__adj"/></e>
 
-    <e lm="tajjeb"><i>taj</i><par n="taj/jeb__adj"/></e>
+    <e lm="tajjeb" c="good"><i>taj</i><par n="taj/jeb__adj"/></e>
     <e lm="tajjeb"><p><l>aħjar</l><r>tajjeb</r></p><par n="akbar__adj"/></e>
     <e lm="tajjeb" r="LR"><p><l>itjeb</l><r>tajjeb</r></p><par n="akbar__adj"/></e>
+
+    <e lm="mejjet" c="dead"><i>mej</i><par n="mej/jet__adj"/></e>
+    <e lm="ċertu" c="certain"><i>ċert</i><par n="ċert/u__adj"/></e>
 
     <e lm="Ewropew"><i>Ewrope</i><par n="Ewrope/w__adj"/></e>
 
@@ -5801,6 +5819,7 @@
     <e lm="propju" r="LR"><p><l>propj</l><r>proprj</r></p><par n="kwadr/u__adj"/></e>
     <e lm="proprju"><i>proprj</i><par n="kwadr/u__adj"/></e>
     <e lm="santu"><i>sant</i><par n="kwadr/u__adj"/></e>
+    <e lm="serju" c="serious"><i>serj</i><par n="kwadr/u__adj"/></e>
 
     <e lm="abjad" c="white"><i></i><par n="/abjad__adj"/></e>
     <e lm="artab" c="soft"><i></i><par n="/artab__adj"/></e>
@@ -5839,7 +5858,7 @@
     <e lm="oħxon"><i>o</i><par n="o/ħxon__adj"/></e>
     <e lm="qadim" c="old"><i>q</i><par n="q/adim__adj"/></e>
     <e lm="qares"><i>qar</i><par n="qar/es__adj"/></e>
-    <e lm="magħrufa" c="famous"><i>magħrufa</i><par n="qar/es__adj"/></e>
+    <e lm="magħruf" c="famous"><i>magħruf</i><par n="maħmuġ__adj"/></e>
     <e lm="qaddis" c="holy"><i>qaddis</i><par n="maħmuġ__adj"/></e>
 
     <e lm="qasir" c="short"><i>q</i><par n="q/asir__adj"/></e>
@@ -6097,6 +6116,24 @@
     <e lm="interessanti"><i>interessanti</i><par n="differenti__adj"/></e>
     <e lm="possibbli"><i>possibbli</i><par n="differenti__adj"/></e>
     <e lm="possibli" r="LR"><p><l>possibli</l><r>possibbli</r></p><par n="differenti__adj"/></e>
+    <e lm="partikolari" c="particular"><i>partikolari</i><par n="differenti__adj"/></e>
+    <e lm="partikulari" r="LR"><p><l>partikulari</l><r><partikolari/r></p><par n="differenti__adj"/></e>
+    <e lm="responsabbli" c="responsible"><i>responsabbli</i><par n="differenti__adj"/></e>
+    <e lm="kmieni" c="early"><i>kmieni</i><par n="differenti__adj"/></e>
+    <e lm="gravi" c="serious"><i>gravi</i><par n="differenti__adj"/></e>
+    <e lm="kunfidenzali" c="confidential"><i>kunfidenzali</i><par n="differenti__adj"/></e>
+    <e lm="rari" c="rare"><i>rari</i><par n="differenti__adj"/></e>
+    <e lm="kapaċi" c="able"><i>kapaċi</i><par n="differenti__adj"/></e>
+    <e lm="uniti" c="united"><i>uniti</i><par n="differenti__adj"/></e>
+    <e lm="sempliċi" c="simple"><i>sempliċi</i><par n="differenti__adj"/></e>
+    <e lm="anzjani" c="ancient"><i>anzjani</i><par n="differenti__adj"/></e>
+    <e lm="enormi" c="enormous"><i>enormi</i><par n="differenti__adj"/></e>
+    <e lm="ricenti" c="recent"><i>ricenti</i><par n="differenti__adj"/></e>
+
+    <e lm="suppost" c="proper"><i>suppost</i><par n="differenti__adj"/></e> <!-- TODO adj or adv? -->
+    <e lm="kuljum" c="daily"><i>kuljum</i><par n="differenti__adj"/></e>
+    <e lm="biżżejjed" c="sufficient"><i>biżżejjed</i><par n="differenti__adj"/></e>
+    <e lm="miftuħa" c="open"><i>miftuħa</i><par n="differenti__adj"/></e>
 
     <e lm="Komunista"><i>Komunista</i><par n="nazzjonalista__adj"/></e>
     <e lm="Soċjalista"><i>Soċjalista</i><par n="nazzjonalista__adj"/></e>
@@ -6138,7 +6175,7 @@
     <e lm="qalil" c="fierce" ><i>q</i><par n="q/alil__adj_GD"/></e>
     <e lm="stalla" c="stable" ><i>stal</i><par n="stal/la__adj_GD"/></e>
     <e lm="ġdid" c="new" ><i>ġ</i><par n="ġ/did__adj_GD"/></e>
-    <e lm="sabiħ" c="beautiful" ><i>s</i><par n="s/abiħ__adj_GD"/></e>
+    <e lm="sabiħ" c="beautiful" ><i>s</i><par n="s/abiħ__adj"/></e>
     <e lm="sħun" c="hot" ><i>sħ</i><par n="sħ/un__adj_GD"/></e>
     <e lm="serkin" c="sulky" ><i>s</i><par n="s/erkin__adj_GD"/></e>
     <e lm="żgħir" c="small" ><i>żgħ</i><par n="kb/ir__adj"/></e>
@@ -6172,6 +6209,8 @@
     <e lm="safejn" c="till where"><i>safejn</i><par n="kif__adv"/></e>
 
     <e lm="hemm" c="there ('There are …')"><i>hemm</i><par n="immedjatament__adv"/></e>
+    <e lm="mħix" c="non, not"><i>mħix</i><par n="immedjatament__adv"/></e>
+    <e lm="mħumiex" c="non, not"><i>mħumiex</i><par n="immedjatament__adv"/></e>
 
     <e lm="wisq" c="too much"><i>wisq</i><par n="immedjatament__adv"/></e>
     <e lm="ukoll" c="also"><i>ukoll</i><par n="immedjatament__adv"/></e>
