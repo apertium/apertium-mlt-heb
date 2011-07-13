@@ -3018,6 +3018,10 @@
     <e><p>          <l></l><r><s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
   </pardef>
 
+  <pardef n="verji__adj"> <!-- sp form? -->
+    <e><p>          <l></l><r><s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
+  </pardef>
+
   <!-- Broken plural adjectives -->
   <pardef n="f/qir__adj">
     <e><p><l>qir</l><r>qir<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
@@ -5808,6 +5812,7 @@
     <e lm="Tajlandiż"><i>Tajlandiż</i><par n="nativ__adj"/></e>
     <e lm="Tibetan"><i>Tibetan</i><par n="nativ__adj"/></e>
     <e lm="Pariġin"><i>Pariġin</i><par n="nativ__adj"/></e>
+    <e lm="Grieg"><i>Grieg</i><par n="nativ__adj"/></e>
     <e lm="Malti"><i>Malti</i><par n="Malti__adj"/></e>
     <e lm="għarbi" c="Arab"><i>għarbi</i><par n="Malti__adj"/></e>
 
@@ -6124,16 +6129,23 @@
     <e lm="kunfidenzali" c="confidential"><i>kunfidenzali</i><par n="differenti__adj"/></e>
     <e lm="rari" c="rare"><i>rari</i><par n="differenti__adj"/></e>
     <e lm="kapaċi" c="able"><i>kapaċi</i><par n="differenti__adj"/></e>
-    <e lm="uniti" c="united"><i>uniti</i><par n="differenti__adj"/></e>
     <e lm="sempliċi" c="simple"><i>sempliċi</i><par n="differenti__adj"/></e>
     <e lm="anzjani" c="ancient"><i>anzjani</i><par n="differenti__adj"/></e>
     <e lm="enormi" c="enormous"><i>enormi</i><par n="differenti__adj"/></e>
-    <e lm="ricenti" c="recent"><i>ricenti</i><par n="differenti__adj"/></e>
+    <e lm="reċenti" c="recent"><i>reċenti</i><par n="differenti__adj"/></e>
+    <e lm="nobbli" c="noble"><i>nobbli</i><par n="differenti__adj"/></e>
+    <e lm="regolari" c="regular"><i>regolari</i><par n="differenti__adj"/></e>
+    <e lm="irregolari" c="irregular"><i>irregolari</i><par n="differenti__adj"/></e>
+    <e lm="indipendenti" c="independent"><i>indipendenti</i><par n="differenti__adj"/></e>
+    <e lm="familjari" c="familiar"><i>familjari</i><par n="differenti__adj"/></e>
 
     <e lm="suppost" c="proper"><i>suppost</i><par n="differenti__adj"/></e> <!-- TODO adj or adv? -->
     <e lm="kuljum" c="daily"><i>kuljum</i><par n="differenti__adj"/></e>
     <e lm="biżżejjed" c="sufficient"><i>biżżejjed</i><par n="differenti__adj"/></e>
     <e lm="miftuħa" c="open"><i>miftuħa</i><par n="differenti__adj"/></e>
+
+    <e lm="verji" c="various"><i>verji</i><par n="verji__adj"/></e>
+    <e lm="uniti" c="united"><i>uniti</i><par n="verji__adj"/></e>
 
     <e lm="Komunista"><i>Komunista</i><par n="nazzjonalista__adj"/></e>
     <e lm="Soċjalista"><i>Soċjalista</i><par n="nazzjonalista__adj"/></e>
