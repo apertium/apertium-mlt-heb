@@ -3501,6 +3501,7 @@
     <e lm="misteru" c="mystery"><i>mister</i><par n="buff/u__n_m"/></e>
     <e lm="sussidju" c="subsidy"><i>sussidj</i><par n="buff/u__n_m"/></e>
     <e lm="sommarju" c="summary"><i>sommarj</i><par n="buff/u__n_m"/></e>
+    <e lm="prinċipju" c="principle"><i>prinċipj</i><par n="buff/u__n_m"/></e>
     <e lm="ghazla"><i>ghazl</i><par n="sħubij/a__n_f"/></e>
     <e lm="grawnd"><i>grawnd</i><par n="gowl__n_m"/></e>
     <e lm="istilla"><i>istil</i><par n="xal/la__n_f"/></e>
@@ -3548,6 +3549,7 @@
     <e lm="televiżjoni"><i>televiżjoni</i><par n="unjoni__n_f"/></e>
     <e lm="liġi" c="statute"><i>liġi</i><par n="unjoni__n_f"/></e>
     <e lm="kriżi" c="crisis"><i>kriżi</i><par n="unjoni__n_f"/></e>
+    <e lm="vuċi" c="voice"><i>vuċi</i><par n="unjoni__n_f"/></e>
 
     <e lm="espressjoni"><i>espressjoni</i><par n="unjoni__n_f"/></e>
     <e lm="ċivilizzazzjoni"><i>ċivilizzazzjoni</i><par n="unjoni__n_f"/></e>
@@ -3725,6 +3727,7 @@
     <e lm="protest"><i>protest</i><par n="protestant__n"/></e>
     <e lm="accident"><i>accident</i><par n="protestant__n"/></e>
     <e lm="tip" c="type"><i>tip</i><par n="protestant__n"/></e>
+    <e lm="editorjal" c="editorial"><i>editorjal</i><par n="protestant__n"/></e>
 
     <e lm="grupp" c="group"><i>grupp</i><par n="moviment__n_m"/></e>
     <e lm="programm" c="programm"><i>programm</i><par n="moviment__n_m"/></e>
@@ -6138,6 +6141,7 @@
     <e lm="irregolari" c="irregular"><i>irregolari</i><par n="differenti__adj"/></e>
     <e lm="indipendenti" c="independent"><i>indipendenti</i><par n="differenti__adj"/></e>
     <e lm="familjari" c="familiar"><i>familjari</i><par n="differenti__adj"/></e>
+    <e lm="editorjali" c="editorial"><i>editorjali</i><par n="differenti__adj"/></e>
 
     <e lm="suppost" c="proper"><i>suppost</i><par n="differenti__adj"/></e> <!-- TODO adj or adv? -->
     <e lm="kuljum" c="daily"><i>kuljum</i><par n="differenti__adj"/></e>
