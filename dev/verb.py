@@ -889,19 +889,19 @@ for stem in stems: #{
 	#}
 #}
 
-print header();
+print header().decode('utf-8');
 
 for stem in infl: #{
 
 	for flex in infl[stem]: #{
 		for subflex in infl[stem][flex]: #{
 			outline = '';
-			left = subflex[0];
-			right = stem + '<s n="vblex"/>' + sym(flex);
+			left = subflex[0].decode('utf-8');
+			right = stem.decode('utf-8') + '<s n="vblex"/>' + sym(flex).decode('utf-8');
 	
 			if subflex[1] == '-': #{
 				if flex == 'past.p3.m.sg': #{
-					outline = outline + '    <e lm="' + stem + '">';
+					outline = outline + '    <e lm="' + stem.decode('utf-8') + '">';
 				else: #{
 					outline = outline + '    <e>';
 				#}
@@ -916,9 +916,9 @@ for stem in infl: #{
 				print outline + '<p><l>' + left + '</l><r>' + right + '</r></p><par n="S__qatlu/hielhiex"/></e>';
 			elif subflex[1] == 'RL': #{
 				if flex == 'past.p3.m.sg': #{
-					outline = outline + '    <e lm="' + stem + '" r="' + subflex[1] + '">';
+					outline = outline + '    <e lm="' + stem.decode('utf-8') + '" r="' + subflex[1].decode('utf-8') + '">';
 				else: #{
-					outline = outline + '    <e r="' + subflex[1] + '">';
+					outline = outline + '    <e r="' + subflex[1].decode('utf-8') + '">';
 				#}
 				print outline + '<p><l><a/>' + left + '</l><r>' + right + '</r></p></e>';
 				outline = '    <e r="' + subflex[1] + '">';
@@ -931,9 +931,9 @@ for stem in infl: #{
 				print outline + '<p><l>' + left + '</l><r>' + right + '</r></p><par n="S__qatlu/hielhiex"/></e>';
 			else: #{
 				if flex == 'past.p3.m.sg': #{
-					outline = outline + '    <e lm="' + stem + '" r="' + subflex[1] + '">';
+					outline = outline + '    <e lm="' + stem.decode('utf-8') + '" r="' + subflex[1].decode('utf-8') + '">';
 				else: #{
-					outline = outline + '    <e r="' + subflex[1] + '">';
+					outline = outline + '    <e r="' + subflex[1].decode('utf-8') + '">';
 				#}
 				print outline + '<p><l>' + left + '</l><r>' + right + '</r></p></e>';
 				outline = '    <e r="' + subflex[1] + '">';
