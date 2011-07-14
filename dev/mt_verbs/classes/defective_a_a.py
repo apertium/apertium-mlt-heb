@@ -12,7 +12,10 @@ def past_p2_sg(stem, root, vowels):
 
 def past_p3_m_sg(stem, root, vowels):
 	# qala'; qala'; past.p3.m.sg; vblex
-	return stem
+    res = [stem]
+    if stem[-1] == "'":
+        res.append((stem[:-1], 'LR'))
+    return res
 	
 def past_p3_f_sg(stem, root, vowels):
 	# qala'; qalgħet; past.p3.f.sg; vblex
