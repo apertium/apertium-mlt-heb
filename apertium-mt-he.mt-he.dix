@@ -268,6 +268,8 @@
      <e><p><l>tweġiba<s n="n"/><s n="f"/></l><r>תגובה<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>ħila<s n="n"/><s n="f"/></l><r>יכולת<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>ħabta<s n="n"/><s n="f"/></l><r>חבטה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>kumment<s n="n"/><s n="m"/></l><r>הערה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>poet<s n="n"/></l><r>משורר<s n="n"/></r></p></e>
 
      <!-- SECTION: Proper nouns -->
 
@@ -455,7 +457,34 @@
      <e><p><l>Tibetan<s n="adj"/></l><r>טיבטי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
 
      <e><p><l>barran<s n="adj"/></l><r>זר<s n="adj"/></r></p><par n="mf_m_f"/></e>
-    
+
+     <e><p><l>malti<s n="adj"/></l><r>מלטזי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>kbir<s n="adj"/></l><r>גדול<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>istess<s n="adj"/></l><r>אותו<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e> <!-- TODO -->
+     <e><p><l>tajjeb<s n="adj"/></l><r>טוב<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>ġdid<s n="adj"/></l><r>חדש<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>ewropew<s n="adj"/></l><r>אירופאי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>żgħir<s n="adj"/></l><r>קטן<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>qawwi<s n="adj"/></l><r>חזק<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>nazzjonali<s n="adj"/></l><r>לאומי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>għoli<s n="adj"/></l><r>גבוה<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>differenti<s n="adj"/></l><r>שונה<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>magħruf<s n="adj"/></l><r>מפורסם<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>sabiħ<s n="adj"/></l><r>יפהפה<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>veru<s n="adj"/></l><r>אמת<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>lokali<s n="adj"/></l><r>מקומי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>sħiħ<s n="adj"/></l><r>מלא<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>importanti<s n="adj"/></l><r>חשוב<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>żgur<s n="adj"/></l><r>בטוח<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>soċjali<s n="adj"/></l><r>חברתי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>prim<s n="adj"/></l><r>ראשי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>ġenerali<s n="adj"/></l><r>כללי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>ċar<s n="adj"/></l><r>ברור<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>twil<s n="adj"/></l><r>ארוך<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>ċert<s n="adj"/></l><r>בטוח<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>qaddis<s n="adj"/></l><r>קדוש<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>biżżejjed<s n="adj"/></l><r>מספיק<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+      
      <!-- SECTION: Adverbs -->
 
      <e><p><l>biss<s n="adv"/></l><r>רק<s n="adv"/></r></p></e>
