@@ -36,18 +36,19 @@
      <sdef n="num"/>
 
      <sdef n="GD"/>
+     <sdef n="ND"/>
 
      <sdef n="cm"          c="Comma"/>
      <sdef n="sent"        c="Sentence marker"/>
    </sdefs>
 
    <pardefs>
+
      <pardef n="mf_m_f">
        <e r="LR"><p><l><s n="mf"/></l><r><s n="GD"/></r></p></e>
        <e r="RL"><p><l><s n="mf"/></l><r><s n="m"/></r></p></e>
        <e r="RL"><p><l><s n="mf"/></l><r><s n="f"/></r></p></e>
      </pardef>
-
 
      <pardef n="mf_pl_m_f_pl">
        <e><p><l><s n="m"/><s n="sg"/></l><r><s n="m"/><s n="sg"/></r></p></e>
@@ -57,7 +58,22 @@
        <e r="RL"><p><l><s n="mf"/><s n="pl"/></l><r><s n="f"/><s n="pl"/></r></p></e>
      </pardef>
 
-   </pardefs>  
+     <pardef n="mf_sp_m_f_sg_pl">
+        <e r="LR"><p><l><s n="mf"/><s n="sp"/></l><r><s n="GD"/><s n="ND"/></r></p></e>
+        <e r="RL"><p><l><s n="mf"/><s n="sp"/></l><r><s n="m"/><s n="sg"/></r></p></e>
+        <e r="RL"><p><l><s n="mf"/><s n="sp"/></l><r><s n="f"/><s n="sg"/></r></p></e>
+        <e r="RL"><p><l><s n="mf"/><s n="sp"/></l><r><s n="m"/><s n="pl"/></r></p></e>
+        <e r="RL"><p><l><s n="mf"/><s n="sp"/></l><r><s n="f"/><s n="pl"/></r></p></e>
+     </pardef>
+
+     <pardef n="mf_sg_m_f_sg">
+        <e r="LR"><p><l><s n="mf"/><s n="sg"/></l><r><s n="GD"/><s n="sg"/></r></p></e>
+        <e r="RL"><p><l><s n="mf"/><s n="sg"/></l><r><s n="m"/><s n="sg"/></r></p></e>
+        <e r="RL"><p><l><s n="mf"/><s n="sg"/></l><r><s n="f"/><s n="sg"/></r></p></e>
+     </pardef>
+
+   </pardefs>
+
    <section id="main" type="standard">
 
          <!-- SECTION: Numerals -->
@@ -457,101 +473,154 @@
 
      <e><p><l>barrani<s n="adj"/></l><r>זר<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>malti<s n="adj"/></l><r>מלטזי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
-     <e><p><l>kbir<s n="adj"/></l><r>גדול<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
-     <e><p><l>istess<s n="adj"/></l><r>אותו<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e> <!-- TODO -->
-     <e><p><l>tajjeb<s n="adj"/></l><r>טוב<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>kbir<s n="adj"/></l><r>גדול<s n="adj"/></r></p></e>
+     <e><p><l>istess<s n="adj"/><s n="sp"/></l><r>אותו<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e> <!-- TODO -->
+     <e><p><l>tajjeb<s n="adj"/></l><r>טוב<s n="adj"/></r></p></e>
      <e><p><l>ġdid<s n="adj"/></l><r>חדש<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>ewropew<s n="adj"/></l><r>אירופאי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>żgħir<s n="adj"/></l><r>קטן<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>qawwi<s n="adj"/></l><r>חזק<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
-     <e><p><l>nazzjonali<s n="adj"/></l><r>לאומי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>nazzjonali<s n="adj"/></l><r>לאומי<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
      <e><p><l>għoli<s n="adj"/></l><r>גבוה<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
-     <e><p><l>differenti<s n="adj"/></l><r>שונה<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>differenti<s n="adj"/></l><r>שונה<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
      <e><p><l>magħruf<s n="adj"/></l><r>מפורסם<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>sabiħ<s n="adj"/></l><r>יפהפה<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>veru<s n="adj"/></l><r>אמת<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
-     <e><p><l>lokali<s n="adj"/></l><r>מקומי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>lokali<s n="adj"/></l><r>מקומי<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
      <e><p><l>sħiħ<s n="adj"/></l><r>מלא<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
-     <e><p><l>importanti<s n="adj"/></l><r>חשוב<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>importanti<s n="adj"/></l><r>חשוב<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
      <e><p><l>żgur<s n="adj"/></l><r>בטוח<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
-     <e><p><l>soċjali<s n="adj"/></l><r>חברתי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>soċjali<s n="adj"/></l><r>חברתי<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
      <e><p><l>prim<s n="adj"/></l><r>ראשי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
-     <e><p><l>ġenerali<s n="adj"/></l><r>כללי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>ġenerali<s n="adj"/></l><r>כללי<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
      <e><p><l>ċar<s n="adj"/></l><r>ברור<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>twil<s n="adj"/></l><r>ארוך<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>ċert<s n="adj"/></l><r>בטוח<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>qaddis<s n="adj"/></l><r>קדוש<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
-     <e><p><l>biżżejjed<s n="adj"/></l><r>מספיק<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>biżżejjed<s n="adj"/></l><r>מספיק<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
      <e><p><l>santu<s n="adj"/></l><r>קדוש<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>lest<s n="adj"/></l><r>מספיק<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
-     <e><p><l>suppost<s n="adj"/></l><r>אמור<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
-     <e><p><l>internazzjonali<s n="adj"/></l><r>בינלאומי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>suppost<s n="adj"/></l><r>אמור<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
+     <e><p><l>internazzjonali<s n="adj"/></l><r>בינלאומי<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
      <e><p><l>armat<s n="adj"/></l><r>חמוש<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>mejjet<s n="adj"/></l><r>מת<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
-     <e><p><l>parlamentari<s n="adj"/></l><r>פרלמנטרי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
-     <e><p><l>personali<s n="adj"/></l><r>אישי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
-     <e><p><l>partikolari<s n="adj"/></l><r>מסוים<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
-     <e><p><l>kuljum<s n="adj"/></l><r>יומי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>parlamentari<s n="adj"/></l><r>פרלמנטרי<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
+     <e><p><l>personali<s n="adj"/></l><r>אישי<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
+     <e><p><l>partikolari<s n="adj"/></l><r>מסוים<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
+     <e><p><l>kuljum<s n="adj"/></l><r>יומי<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
      <e><p><l>ċertu<s n="adj"/></l><r>כמה<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>proprju<s n="adj"/></l><r>עצמו<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e> <!-- TODO -->
-     <e><p><l>ċivili<s n="adj"/></l><r>אזרחי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
-     <e><p><l>diffiċli<s n="adj"/></l><r>קשה<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
-     <e><p><l>interessanti<s n="adj"/></l><r>מעניין<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>ċivili<s n="adj"/></l><r>אזרחי<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
+     <e><p><l>diffiċli<s n="adj"/></l><r>קשה<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
+     <e><p><l>interessanti<s n="adj"/></l><r>מעניין<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
      <e><p><l>fond<s n="adj"/></l><r>עמוק<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>antik<s n="adj"/></l><r>עתיק<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>klassifikat<s n="adj"/></l><r>מסווג<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
-     <e><p><l>Laburista<s n="adj"/></l><r>העבודה<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e> <!-- TODO -->
+     <e><p><l>Laburista<s n="adj"/></l><r>העבודה<s n="adj"/></r></p><par n="mf_sg_m_f_sg"/></e> <!-- TODO -->
      <e><p><l>privat<s n="adj"/></l><r>פרטי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
-     <e><p><l>nazzjonalista<s n="adj"/></l><r>לאומי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
-     <e><p><l>kapaċi<s n="adj"/></l><r>מסוגל<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>nazzjonalista<s n="adj"/></l><r>לאומי<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
+     <e><p><l>kapaċi<s n="adj"/></l><r>מסוגל<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
      <e><p><l>serju<s n="adj"/></l><r>רציני<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>abjad<s n="adj"/></l><r>לבן<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>iswed<s n="adj"/></l><r>שחור<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
-     <e><p><l>kulturali<s n="adj"/></l><r>תרבותי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>kulturali<s n="adj"/></l><r>תרבותי<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
      <e><p><l>ħelu<s n="adj"/></l><r>מתוק<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>amerikan<s n="adj"/></l><r>אמריקאי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
-     <e><p><l>popolari<s n="adj"/></l><r>פופולרי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>popolari<s n="adj"/></l><r>פופולרי<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
      <e><p><l>qasir<s n="adj"/></l><r>קצר<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
-     <e><p><l>speċjali<s n="adj"/></l><r>מיוחד<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
-     <e><p><l>naturali<s n="adj"/></l><r>טבעי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
-     <e><p><l>elettorali<s n="adj"/></l><r>אלקטורלי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>speċjali<s n="adj"/></l><r>מיוחד<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
+     <e><p><l>naturali<s n="adj"/></l><r>טבעי<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
+     <e><p><l>elettorali<s n="adj"/></l><r>אלקטורלי<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
      <e><p><l>baxx<s n="adj"/></l><r>נמוך<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
-     <e><p><l>possibbli<s n="adj"/></l><r>אפשרי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>possibbli<s n="adj"/></l><r>אפשרי<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
      <e><p><l>cert<s n="adj"/></l><r>בטוח<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>aħmar<s n="adj"/></l><r>אדום<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
-     <e><p><l>komuni<s n="adj"/></l><r>משותף<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>komuni<s n="adj"/></l><r>משותף<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
      <e><p><l>kwadru<s n="adj"/></l><r>מרובע<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
-     <e><p><l>faċli<s n="adj"/></l><r>קל<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>faċli<s n="adj"/></l><r>קל<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
      <e><p><l>eżatt<s n="adj"/></l><r>מדויק<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
-     <e><p><l>sempliċi<s n="adj"/></l><r>פשוט<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
-     <e><p><l>responsabbli<s n="adj"/></l><r>אחראי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>sempliċi<s n="adj"/></l><r>פשוט<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
+     <e><p><l>responsabbli<s n="adj"/></l><r>אחראי<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
      <e><p><l>sinjur<s n="adj"/></l><r>עשיר<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>vojt<s n="adj"/></l><r>ריק<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>attakk<s n="adj"/></l><r>מותקף<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>fqir<s n="adj"/></l><r>עני<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
-     <e><p><l>pastorali<s n="adj"/></l><r>פסטורלי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
-     <e><p><l>simili<s n="adj"/></l><r>דומה<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
-     <e><p><l>kmieni<s n="adj"/></l><r>מוקדם<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>pastorali<s n="adj"/></l><r>פסטורלי<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
+     <e><p><l>simili<s n="adj"/></l><r>דומה<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
+     <e><p><l>kmieni<s n="adj"/></l><r>מוקדם<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
      <e><p><l>kuntent<s n="adj"/></l><r>שמח<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
-     <e><p><l>anzjani<s n="adj"/></l><r>ישן<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>anzjani<s n="adj"/></l><r>ישן<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
      <e><p><l>modern<s n="adj"/></l><r>מודרני<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
-     <e><p><l>nisrani<s n="adj"/></l><r>נוצרי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
-     <e><p><l>prinċipali<s n="adj"/></l><r>עקרוני<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>nisrani<s n="adj"/></l><r>נוצרי<s n="adj"/></r></p></e>
+     <e><p><l>prinċipali<s n="adj"/></l><r>עקרוני<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
      <e><p><l>iebes<s n="adj"/></l><r>קשה<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
-     <e><p><l>spiritwali<s n="adj"/></l><r>רוחני<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
-     <e><p><l>gravi<s n="adj"/></l><r>רציני<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>spiritwali<s n="adj"/></l><r>רוחני<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
+     <e><p><l>gravi<s n="adj"/></l><r>רציני<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
      <e><p><l>kwiet<s n="adj"/></l><r>שקט<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
-     <e><p><l>oriġinali<s n="adj"/></l><r>מקורי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>oriġinali<s n="adj"/></l><r>מקורי<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
      <e><p><l>pożittiv<s n="adj"/></l><r>חיובי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>ruman<s n="adj"/></l><r>רומי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>dirett<s n="adj"/></l><r>ישיר<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>ħajj<s n="adj"/></l><r>חי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>involut<s n="adj"/></l><r>מעורב<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
-     <e><p><l>mużikali<s n="adj"/></l><r>מוזיקלי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>mużikali<s n="adj"/></l><r>מוזיקלי<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
      <e><p><l>stramb<s n="adj"/></l><r>משונה<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
-     <e><p><l>legali<s n="adj"/></l><r>משפטי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>legali<s n="adj"/></l><r>חוקי<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
      <e><p><l>informat<s n="adj"/></l><r>מושכל<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
-     
+     <e><p><l>ilegali<s n="adj"/></l><r>לא<b/>חוקי<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
+     <e><p><l>professjonali<s n="adj"/></l><r>מקצועי<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
+     <e><p><l>miftuħa<s n="adj"/></l><r>פתוח<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
+     <e><p><l>ċentrali<s n="adj"/></l><r>מרכזי<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
+     <e><p><l>parrokkjali<s n="adj"/></l><r>פאריש<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e> <!-- TODO -->
+     <e><p><l>normali<s n="adj"/></l><r>נורמלי<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
+     <e><p><l>morili<s n="adj"/></l><r>מוסרי<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
+     <e><p><l>kriminali<s n="adj"/></l><r>פלילי<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
+     <e><p><l>tradizzjonali<s n="adj"/></l><r>מסורתי<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
+     <e><p><l>trijonfali<s n="adj"/></l><r>הניצחון<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e> <!-- TODO -->
+     <e><p><l>enormi<s n="adj"/></l><r>ענק<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
+     <e><p><l>attwali<s n="adj"/></l><r>נוכחי<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
+     <e><p><l>rari<s n="adj"/></l><r>נדיר<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
+     <e><p><l>fatali<s n="adj"/></l><r>קטלני<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
+     <e><p><l>reċenti<s n="adj"/></l><r>אחרון<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
+     <e><p><l>industrijali<s n="adj"/></l><r>תעשייתי<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
+     <e><p><l>essenzjali<s n="adj"/></l><r>חיוני<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
+     <e><p><l>liberali<s n="adj"/></l><r>ליברלי<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
+     <e><p><l>reali<s n="adj"/></l><r>ממשי<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
+     <e><p><l>regolari<s n="adj"/></l><r>רגיל<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
+     <e><p><l>indipendenti<s n="adj"/></l><r>עצמאי<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
+     <e><p><l>intellettwali<s n="adj"/></l><r>אינטלקטואלי<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
+     <e><p><l>kummerċjali<s n="adj"/></l><r>מסחרי<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
+     <e><p><l>ambjentali<s n="adj"/></l><r>סביבתי<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
+     <e><p><l>familjari<s n="adj"/></l><r>מוכר<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
+     <e><p><l>sostanzjali<s n="adj"/></l><r>ממשי<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
+     <e><p><l>fundamentali<s n="adj"/></l><r>יסודי<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
+     <e><p><l>blu<s n="adj"/></l><r>כחול<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
+     <e><p><l>sesswali<s n="adj"/></l><r>מיני<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
+     <e><p><l>totali<s n="adj"/></l><r>כולל<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
+     <e><p><l>individwali<s n="adj"/></l><r>אינדיבידואלי<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
+     <e><p><l>nobblie<s n="adj"/></l><r>אצילי<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
+     <e><p><l>universali<s n="adj"/></l><r>אוניברסלי<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
+     <e><p><l>kruċjali<s n="adj"/></l><r>הכרחי<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
+     <e><p><l>kapitali<s n="adj"/></l><r>ראשי<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
+     <e><p><l>mondjali<s n="adj"/></l><r>עולמי<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
+     <e><p><l>kontroversjali<s n="adj"/></l><r>שנוי<b/>במחלוקת<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
+     <e><p><l>mentali<s n="adj"/></l><r>מנטלי<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
+     <e><p><l>globali<s n="adj"/></l><r>גלובלי<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
+     <e><p><l>formali<s n="adj"/></l><r>רשמי<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
+     <e><p><l>irregolari<s n="adj"/></l><r>לא<b/>סדיר<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
+     <e><p><l>radikali<s n="adj"/></l><r>רדיקלי<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
+     <e><p><l>kannella<s n="adj"/></l><r>חום<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
+     <e><p><l>tropikali<s n="adj"/></l><r>טרופי<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
+     <e><p><l>fiskali<s n="adj"/></l><r>כפי<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
+     <e><p><l>newtrali<s n="adj"/></l><r>נטרלי<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
+     <e><p><l>subtropikali<s n="adj"/></l><r>סאבטרופי<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
+     <e><p><l>bilmod<s n="adj"/></l><r>איטי<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
+     <e><p><l>klerikali<s n="adj"/></l><r>פקידותי<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
+     <e><p><l>patrijarkali<s n="adj"/></l><r>פטריארכלי<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
+     <e><p><l>vertikali<s n="adj"/></l><r>אנכי<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
+     <e><p><l>triangulari<s n="adj"/></l><r>משולש<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
+     <e><p><l>multilingwali<s n="adj"/></l><r>רב<b/>לשוני<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
+     <e><p><l>pikkanti<s n="adj"/></l><r>פיקנטי<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
 
      <!-- SECTION: Adverbs -->
 
