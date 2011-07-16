@@ -456,8 +456,7 @@
      <e><p><l>Tajlandiż<s n="adj"/></l><r>תאילנדי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>Tibetan<s n="adj"/></l><r>טיבטי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
 
-     <e><p><l>barran<s n="adj"/></l><r>זר<s n="adj"/></r></p><par n="mf_m_f"/></e>
-
+     <e><p><l>barrani<s n="adj"/></l><r>זר<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>malti<s n="adj"/></l><r>מלטזי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>kbir<s n="adj"/></l><r>גדול<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>istess<s n="adj"/></l><r>אותו<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e> <!-- TODO -->
@@ -484,6 +483,26 @@
      <e><p><l>ċert<s n="adj"/></l><r>בטוח<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>qaddis<s n="adj"/></l><r>קדוש<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>biżżejjed<s n="adj"/></l><r>מספיק<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>santu<s n="adj"/></l><r>קדוש<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>lest<s n="adj"/></l><r>מספיק<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>suppost<s n="adj"/></l><r>אמור<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>internazzjonali<s n="adj"/></l><r>בינלאומי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>armat<s n="adj"/></l><r>חמוש<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>mejjet<s n="adj"/></l><r>מת<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>parlamentari<s n="adj"/></l><r>פרלמנטרי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>personali<s n="adj"/></l><r>אישי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>partikolari<s n="adj"/></l><r>מסוים<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>kuljum<s n="adj"/></l><r>יומי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>ċertu<s n="adj"/></l><r>כמה<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>proprju<s n="adj"/></l><r>עצמו<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e> <!-- TODO -->
+     <e><p><l>ċivili<s n="adj"/></l><r>אזרחי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>diffiċli<s n="adj"/></l><r>קשה<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>interessanti<s n="adj"/></l><r>מעניין<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>fond<s n="adj"/></l><r>עמוק<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>antik<s n="adj"/></l><r>עתיק<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>klassifikat<s n="adj"/></l><r>מסווג<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>Laburista<s n="adj"/></l><r>העבודה<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e> <!-- TODO -->
+
       
      <!-- SECTION: Adverbs -->
 
