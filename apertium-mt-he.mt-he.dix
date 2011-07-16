@@ -33,6 +33,7 @@
      <sdef n="itg"/>
 
      <sdef n="top"/>
+     <sdef n="al"/>
      <sdef n="num"/>
 
      <sdef n="GD"/>
@@ -346,7 +347,33 @@
      <e><p><l>Tottenham<s n="np"/><s n="top"/><s n="f"/></l><r>טוטנהאם<s n="np"/><s n="top"/><s n="f"/></r></p></e>
      <e><p><l>Vatikan<s n="np"/><s n="top"/><s n="f"/></l><r>ותיקן<s n="np"/><s n="top"/><s n="f"/></r></p></e>
      <e><p><l>York<s n="np"/><s n="top"/><s n="f"/></l><r>יורק<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-      <e><p><l>Olimpjadi<s n="np"/><s n="top"/><s n="m"/></l><r>אולימפיאדה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+
+
+     <e><p><l>Angola<s n="np"/><s n="top"/><s n="f"/></l><r>אנגולה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Berlin<s n="np"/><s n="top"/><s n="m"/></l><r>ברלין<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Birkirkara<s n="np"/><s n="top"/><s n="f"/></l><r>בירקירקארה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Brażil<s n="np"/><s n="top"/><s n="m"/></l><r>ברזיל<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Dublin<s n="np"/><s n="top"/><s n="m"/></l><r>דבלין<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Ġappun<s n="np"/><s n="top"/><s n="m"/></l><r>יפן<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Għawdex<s n="np"/><s n="top"/><s n="f"/></l><r>גוזו<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Kemmuna<s n="np"/><s n="top"/><s n="f"/></l><r>קומינו<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Kosovo<s n="np"/><s n="top"/><s n="m"/></l><r>קוסובו<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Leeds<s n="np"/><s n="top"/><s n="m"/></l><r>לידס<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Libja<s n="np"/><s n="top"/><s n="f"/></l><r>לוב<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>L-Isla<s n="np"/><s n="top"/><s n="f"/></l><r>סנגלאה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Lussemburgu<s n="np"/><s n="top"/><s n="m"/></l><r>לוקסמבורג<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Madrid<s n="np"/><s n="top"/><s n="m"/></l><r>מדריד<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Montenegro<s n="np"/><s n="top"/><s n="m"/></l><r>מונטנגרו<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Portugall<s n="np"/><s n="top"/><s n="m"/></l><r>פורטוגל<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Ruma<s n="np"/><s n="top"/><s n="m"/></l><r>רומא<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>San<b/>Marino<s n="np"/><s n="top"/><s n="m"/></l><r>סן<b/>מרינו<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Sliema<s n="np"/><s n="top"/><s n="f"/></l><r>סליאמה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Tas-Sliema<s n="np"/><s n="top"/><s n="f"/></l><r>סליאמה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Ta'<b/>Xbiex<s n="np"/><s n="top"/><s n="m"/></l><r>טא'<b/>שביאש<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Varsavja<s n="np"/><s n="top"/><s n="f"/></l><r>ורשה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Vatikan<s n="np"/><s n="top"/><s n="m"/></l><r>קריית<b/>הוותיקן<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     
+     <e><p><l>Olimpjadi<s n="np"/><s n="al"/><s n="m"/></l><r>אולימפיאדה<s n="np"/><s n="al"/><s n="f"/></r></p></e>
 
      <!-- SECTION: Adjectives -->
      <e><p><l>politiku<s n="adj"/></l><r>פוליטי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
