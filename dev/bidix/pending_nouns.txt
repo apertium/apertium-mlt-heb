@@ -1,11 +1,5 @@
-  27701 ^@sena<n><f>$
   12196 ^@nies<n><mf>$
-  11239 ^@kont<n><m>$
   10902 ^@żmien<n><f>$
-  10714 ^@gvern<n><m>$
-   9970 ^@kelma<n><f>$
-   9742 ^@mod<n><m>$
-   9256 ^@knisja<n><f>$
    9013 ^@pajjiż<n><m>$
    8784 ^@post<n><m>$
    8542 ^@pulizija<n><f><ND>$
@@ -14,7 +8,6 @@
    7970 ^@bniedem<n><m>$
    7553 ^@poplu<n><m>$
    7364 ^@triq<n><f>$
-   7277 ^@dinja<n><f>$
    6974 ^@jum<n><m>$
    6703 ^@fatt<n><m>$
    6639 ^@persuna<n><f>$
@@ -97,7 +90,6 @@
    2432 ^@iskola<n><f>$
    2429 ^@sema<n><m>$
    2424 ^@nuqqas<n><m>$
-   2418 ^@biċċa<n><f>$
    2402 ^@ruħ<n><f>$
    2386 ^@sit<n><m>$
    2362 ^@klandestin<n><m>$
@@ -111,7 +103,6 @@
    2302 ^@dritt<n><m>$
    2267 ^@unjoni<n><f>$
    2240 ^@marzu<n><m>$
-   2237 ^@għaqda<n><f>$
    2232 ^@kultura<n><f>$
    2220 ^@settembru<n><m>$
    2192 ^@interess<n><m>$
@@ -197,7 +188,6 @@
    1534 ^@kampanja<n><f>$
    1524 ^@kumitat<n><m>$
    1519 ^@bidla<n><f>$
-   1517 ^@taqsima<n><f>$
    1511 ^@accident<n><GD>$
    1506 ^@opinjoni<n><f>$
    1498 ^@linja<n><f>$
@@ -214,7 +204,6 @@
    1423 ^@għajn<n><f>$
    1422 ^@suldat<n><m>$
    1411 ^@università<n><f>$
-   1386 ^@talba<n><f>$
    1384 ^@pjan<n><m>$
    1375 ^@sinjal<n><m>$
    1374 ^@kor<n><m>$
@@ -262,7 +251,6 @@
    1168 ^@karattru<n><m>$
    1154 ^@orizzont<n><m>$
    1152 ^@taljan<n><mf>$
-   1152 ^@rebħa<n><f>$
    1151 ^@libertà<n><f>$
    1149 ^@mexxej<n><m>$
    1145 ^@opportunità<n><f>$
@@ -305,7 +293,6 @@
    1060 ^@karta<n><f>$
    1054 ^@tarbija<n><f>$
    1054 ^@it-tnejn<n><m>$
-   1052 ^@għażla<n><f>$
    1051 ^@leħen<n><m>$
    1050 ^@il-ġimgħa<n><m>$
    1043 ^@laqgha<n><f>$
@@ -337,7 +324,6 @@
     952 ^@individwu<n><m>$
     951 ^@regola<n><f>$
     950 ^@direttur<n><m>$
-    942 ^@tweġiba<n><f>$
     942 ^@ispettur<n><mf>$
     942 ^@grazzja<n><f>$
     940 ^@re<n><m>$
@@ -431,7 +417,6 @@
     722 ^@kelb<n><m>$
     720 ^@sindku<n><m>$
     720 ^@santwarju<n><m>$
-    716 ^@qagħda<n><f>$
     714 ^@tifla<n><f><ND>$
     714 ^@investiment<n><m>$
     713 ^@ikrah<n><GD>$
@@ -475,7 +460,6 @@
     658 ^@bord<n><m>$
     657 ^@televiżjoni<n><f>$
     654 ^@vjolenza<n><f>$
-    654 ^@tfittxija<n><f>$
     654 ^@impatt<n><m>$
     653 ^@ħodon<n><GD>$
     652 ^@impressjoni<n><f>$
@@ -494,7 +478,6 @@
     635 ^@siġġu<n><m>$
     632 ^@paga<n><f>$
     631 ^@filosofija<n><f><ND>$
-    628 ^@kelma<n><f><>$
     627 ^@diska<n><f>$
     624 ^@kontroll<n><m>$
     622 ^@taljan<n><f>$
@@ -562,7 +545,6 @@
     531 ^@ajruport<n><m>$
     529 ^@kurrent<n><m>$
     527 ^@riskju<n><m>$
-    526 ^@mixja<n><f>$
     525 ^@indipendenza<n><f>$
     523 ^@sezzjoni<n><f>$
     522 ^@rebbiegħa<n><f><ND>$
@@ -1143,7 +1125,6 @@
      54 ^@fanatiżmu<n><m>$
      54 ^@divinità<n><f>$
      53 ^@sikka<n><f>$
-     53 ^@sena<n><f><>$
      53 ^@qasrija<n><GD>$
      53 ^@patrijott<n><m>$
      53 ^@bust<n><m>$

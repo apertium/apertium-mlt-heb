@@ -3,8 +3,6 @@
   18565 ^@ħafna<det><qnt><mf>$
   13963 ^@kollu<det><qnt><mf>$
   13387 ^@aħħar<det><ord><mf><sp>$
-   9255 ^ה<det><def>+@sena<n><f>$
-   6399 ^ה<det><def>+@Gvern<n><m>$
    6222 ^ה<det><def>+@poplu<n><m>$
    6211 ^ה<det><def>+@Pulizija<n><f><ND>$
    6019 ^@iktar<det><qnt><mf><sp>$
@@ -13,27 +11,21 @@
    5832 ^@kollu<det><qnt><m>$
    5693 ^ה<det><def>+@ħajja<n><f>$
    5427 ^@ebda<det><ind><mf><sp>$
-   5422 ^ה<det><def>+@dinja<n><f>$
    5414 ^ה<det><def>+@żmien<n><f>$
    4803 ^ה<det><def>+@xogħol<n><m>$
    4798 ^ה<det><def>+@bniedem<n><m>$
    4707 ^ה<det><def>+@familja<n><f>$
    4604 ^@tant<det><qnt><mf><sp>$
-   4535 ^ה<det><def>+@Knisja<n><f>$
-   4243 ^ה<det><def>+@kelma<n><f>$
    4100 ^ה<det><def>+@tifel<n><m>$
    3884 ^ה<det><def>+@post<n><m>$
    3839 ^ה<det><def>+@triq<n><f>$
    3475 ^ה<det><def>+@pajjiż<n><m>$
    3468 ^@diversi<det><ind><mf>$
-   3418 ^ה<det><def>+@knisja<n><f>$
    3324 ^ה<det><def>+@istorja<n><f>$
    3085 ^ה<det><def>+@mewt<n><GD>$
    3012 ^ה<det><def>+@ilma<n><f>$
    2949 ^ה<det><def>+@tim<n><m>$
    2918 ^ה<det><def>+@mara<n><f>$
-   2729 ^ה<det><def>+@mod<n><m>$
-   2723 ^ה<det><def>+@gvern<n><m>$
    2709 ^ה<det><def>+@dawl<n><m>$
    2460 ^ה<det><def>+@bidu<n><m>$
    2415 ^ה<det><def>+@futbol<n><m>$
@@ -99,7 +91,6 @@
    1321 ^ה<det><def>+@sens<n><m>$
    1319 ^ה<det><def>+@Kummissjoni<n><f>$
    1308 ^ה<det><def>+@Isqof<n><m>$
-   1296 ^ה<det><def>+@Dinja<n><f>$
    1281 ^ה<det><def>+@President<n><m>$
    1267 ^ה<det><def>+@gwerra<n><f>$
    1260 ^ה<det><def>+@Istat<n><m>$
@@ -151,7 +142,6 @@
    1001 ^ה<det><def>+@Awtorità<n><f>$
     995 ^ה<det><def>+@komunità<n><f>$
     986 ^ה<det><def>+@rapport<n><m>$
-    984 ^ה<det><def>+@Kelma<n><f>$
     983 ^ה<det><def>+@proċess<n><m>$
     982 ^ה<det><def>+@Dipartiment<n><m>$
     980 ^ה<det><def>+@kamra<n><f>$
@@ -165,11 +155,9 @@
     933 ^ה<det><def>+@kampanja<n><f>$
     928 ^ה<det><def>+@ħabs<n><m>$
     926 ^ה<det><def>+@Għassa<n><f>$
-    922 ^ה<det><def>+@kont<n><m>$
     917 ^ה<det><def>+@Ispettur<n><mf>$
     915 ^ה<det><def>+@divorzju<n><m><ND>$
     913 ^ה<det><def>+@realtà<n><f>$
-    912 ^ה<det><def>+@biċċa<n><f>$
     908 ^ה<det><def>+@natura<n><f>$
     898 ^ה<det><def>+@kampjonat<n><m>$
     894 ^ה<det><def>+@deheb<n><m>$
@@ -223,8 +211,6 @@
     731 ^ה<det><def>+@titlu<n><m>$
     727 ^ה<det><def>+@xitan<n><m>$
     719 ^ה<det><def>+@Oppożizzjoni<n><f>$
-    705 ^ה<det><def>+@talba<n><f>$
-    704 ^ה<det><def>+@Għaqda<n><f>$
     700 ^ה<det><def>+@partita<n><f>$
     697 ^ה<det><def>+@direzzjoni<n><f>$
     694 ^ה<det><def>+@opinjoni<n><f>$
@@ -256,12 +242,9 @@
     613 ^ה<det><def>+@opportunità<n><f>$
     610 ^ה<det><def>+@VAT<n><f>$
     609 ^ה<det><def>+@Kappella<n><f>$
-    609 ^ה<det><def>+@għażla<n><f>$
     607 ^ה<det><def>+@ġeneru<n><m>$
     602 ^ה<det><def>+@Ordni<n><f>$
-    601 ^ה<det><def>+@Sena<n><f>$
     601 ^ה<det><def>+@effett<n><m>$
-    600 ^ה<det><def>+@rebħa<n><f>$
     598 ^ה<det><def>+@Taljan<n><m>$
     595 ^ה<det><def>+@tribù<n><GD>$
     595 ^ה<det><def>+@film<n><m>$
@@ -276,7 +259,6 @@
     577 ^ה<det><def>+@żejt<n><m>$
     577 ^ה<det><def>+@forma<n><f>$
     571 ^ה<det><def>+@televiżjoni<n><f>$
-    570 ^ה<det><def>+@Taqsima<n><f>$
     570 ^ה<det><def>+@permess<n><m>$
     569 ^ה<det><def>+@moħħ<n><GD>$
     565 ^ה<det><def>+@kwalità<n><f>$
@@ -312,7 +294,6 @@
     511 ^ה<det><def>+@lista<n><f>$
     510 ^ה<det><def>+@opra<n><f>$
     507 ^ה<det><def>+@Lvant<n><m><ND>$
-    507 ^ה<det><def>+@għaqda<n><f>$
     505 ^ה<det><def>+@grazzja<n><f>$
     504 ^ה<det><def>+@mejda<n><f>$
     501 ^ה<det><def>+@wiċċ<n><m><ND>$
@@ -360,7 +341,6 @@
     453 ^ה<det><def>+@immigrazzjoni<n><f>$
     451 ^ה<det><def>+@grawnd<n><m>$
     450 ^ה<det><def>+@tbatija<n><f>$
-    450 ^ה<det><def>+@qagħda<n><f>$
     450 ^ה<det><def>+@appartament<n><m>$
     449 ^ה<det><def>+@sigurtà<n><f>$
     449 ^ה<det><def>+@sagrificcju<n><m>$
@@ -370,7 +350,6 @@
     442 ^ה<det><def>+@Protezzjoni<n><f>$
     440 ^ה<det><def>+@industrija<n><f>$
     440 ^ה<det><def>+@but<n><m>$
-    438 ^ה<det><def>+@tweġiba<n><f>$
     438 ^ה<det><def>+@figura<n><f>$
     437 ^ה<det><def>+@temp<n><m>$
     434 ^ה<det><def>+@amministrazzjoni<n><f>$
@@ -519,7 +498,6 @@
     313 ^ה<det><def>+@daqq<n><m>$
     312 ^ה<det><def>+@garaxx<n><m>$
     311 ^ה<det><def>+@turist<n><m>$
-    311 ^ה<det><def>+@tfittxija<n><f>$
     311 ^ה<det><def>+@diversità<n><f>$
     310 ^ה<det><def>+@unur<n><m>$
     307 ^ה<det><def>+@kuraġġ<n><m>$
@@ -545,7 +523,6 @@
     295 ^ה<det><def>+@xitwa<n><f>$
     295 ^ה<det><def>+@partitarju<n><m>$
     295 ^ה<det><def>+@għassa<n><f>$
-    294 ^ה<det><def>+@mixja<n><f>$
     293 ^ה<det><def>+@umanità<n><f>$
     293 ^ה<det><def>+@terminu<n><m>$
     293 ^ה<det><def>+@residenza<n><f>$
@@ -746,7 +723,6 @@
     184 ^ה<det><def>+@lingwaġġ<n><m>$
     184 ^ה<det><def>+@dixxiplina<n><f>$
     182 ^ה<det><def>+@tendenza<n><f>$
-    182 ^ה<det><def>+@taqsima<n><f>$
     182 ^ה<det><def>+@parteċipazzjoni<n><f>$
     182 ^ה<det><def>+@Kaptan<n><m>$
     182 ^ה<det><def>+@kaptan<n><m>$
@@ -916,7 +892,6 @@
     119 ^ה<det><def>+@Droga<n><mf>$
     119 ^@Aħħar<det><ord><mf><sp>$
     118 ^ה<det><def>+@kwartier<n><m>$
-    118 ^ה<det><def>+@GĦAQDA<n><f>$
     118 ^ה<det><def>+@duħħan<n><GD>$
     117 ^ה<det><def>+@Pjan<n><m>$
     116 ^ה<det><def>+@preżentatur<n><m>$
@@ -1137,8 +1112,6 @@
      63 ^ה<det><def>+@razzett<n><GD>$
      63 ^ה<det><def>+@Plejer<n><m>$
      63 ^ה<det><def>+@frekwenza<n><f>$
-     63 ^ה<det><def>+@DINJA<n><f>$
-     62 ^ה<det><def>+@Mixja<n><f>$
      62 ^ה<det><def>+@Lejl<n><m>$
      62 ^ה<det><def>+@fakultà<n><f>$
      61 ^ה<det><def>+@preparazzjoni<n><f>$
@@ -1194,14 +1167,12 @@
      52 ^ה<det><def>+@riġel<n><m>$
      52 ^ה<det><def>+@meeting<n><m>$
      52 ^ה<det><def>+@komponenti<n><m>$
-     52 ^ה<det><def>+@KNISJA<n><f>$
      51 ^ה<det><def>+@Traġedja<n><f>$
      51 ^ה<det><def>+@rivalità<n><f>$
      51 ^ה<det><def>+@ristorant<n><m>$
      51 ^ה<det><def>+@muntun<n><m>$
      51 ^ה<det><def>+@mogħża<n><f>$
      51 ^ה<det><def>+@korrispondenza<n><f>$
-     51 ^ה<det><def>+@KELMA<n><f>$
      51 ^ה<det><def>+@ingravata<n><GD>$
      51 ^ה<det><def>+@Ħlas<n><m>$
      51 ^ה<det><def>+@Għalqa<n><f>$
@@ -1397,7 +1368,6 @@
      29 ^ה<det><def>+@nazzjonalist<n><GD>$
      29 ^ה<det><def>+@indikazzjoni<n><f>$
      29 ^ה<det><def>+@ħolqa<n><GD>$
-     28 ^ה<det><def>+@Talba<n><f>$
      28 ^ה<det><def>+@POEŻIJA<n><f>$
      28 ^ה<det><def>+@Monument<n><m>$
      28 ^ה<det><def>+@kondom<n><m>$
@@ -1442,7 +1412,6 @@
      25 ^ה<det><def>+@ċerv<n><m>$
      24 ^ה<det><def>+@xriek<n><GD>$
      24 ^ה<det><def>+@tebgħa<n><f>$
-     24 ^ה<det><def>+@SENA<n><f>$
      24 ^ה<det><def>+@Sejf<n><m>$
      24 ^ה<det><def>+@Qawwa<n><f>$
      24 ^ה<det><def>+@PREMJU<n><m>$
@@ -1534,7 +1503,6 @@
      18 ^ה<det><def>+@Muntanja<n><f><ND>$
      18 ^ה<det><def>+@medjatur<n><m>$
      18 ^ה<det><def>+@landa<n><f>$
-     18 ^ה<det><def>+@Kont<n><m>$
      18 ^ה<det><def>+@Klassi<n><f>$
      18 ^ה<det><def>+@klassifikazjoni<n><f>$
      18 ^ה<det><def>+@Istituzzjoni<n><f>$
@@ -1665,7 +1633,6 @@
      12 ^ה<det><def>+@Investiment<n><m>$
      12 ^ה<det><def>+@Hin<n><m>$
      12 ^ה<det><def>+@Ġimgħa<n><f>$
-     12 ^ה<det><def>+@Għażla<n><f>$
      12 ^ה<det><def>+@Għarus<n><m>$
      12 ^ה<det><def>+@GĦAJN<n><f>$
      12 ^ה<det><def>+@Ġeneru<n><m>$
@@ -1702,7 +1669,6 @@
      10 ^ה<det><def>+@Tbatija<n><f>$
      10 ^ה<det><def>+@sorm<n><m>$
      10 ^ה<det><def>+@sikka<n><f>$
-     10 ^ה<det><def>+@Rebħa<n><f>$
      10 ^ה<det><def>+@qolla<n><f>$
      10 ^ה<det><def>+@qalb<n><m><px3sg_m>$
      10 ^ה<det><def>+@pezza<n><f>$
@@ -1714,7 +1680,6 @@
      10 ^ה<det><def>+@Interess<n><m>$
      10 ^ה<det><def>+@Id<n><f>$
      10 ^ה<det><def>+@Ħġieġ<n><m><ND>$
-     10 ^ה<det><def>+@GVERN<n><m>$
      10 ^ה<det><def>+@Faxxa<n><f>$
      10 ^ה<det><def>+@Element<n><m>$
      10 ^ה<det><def>+@Diskors<n><m>$
@@ -1895,7 +1860,6 @@
       6 ^ה<det><def>+@ARTIKLU<n><m>$
       6 ^@KOLLU<det><qnt><m>$
       6 ^@EBDA<det><ind><mf><sp>$
-      5 ^ה<det><def>+@Tweġiba<n><f>$
       5 ^ה<det><def>+@Trux<n><GD>$
       5 ^ה<det><def>+@trinka<n><f>$
       5 ^ה<det><def>+@TIEQA<n><f>$
@@ -2053,7 +2017,6 @@
       3 ^ה<det><def>+@terra<n><f>$
       3 ^ה<det><def>+@TELEVIŻJONI<n><f>$
       3 ^ה<det><def>+@Tama<n><f>$
-      3 ^ה<det><def>+@TALBA<n><f>$
       3 ^ה<det><def>+@Tabella<n><f>$
       3 ^ה<det><def>+@Superfamilja<n><f>$
       3 ^ה<det><def>+@Suldat<n><m>$
@@ -2088,7 +2051,6 @@
       3 ^ה<det><def>+@Muftieħ<n><GD>$
       3 ^ה<det><def>+@Mudell<n><m>$
       3 ^ה<det><def>+@molla<n><f>$
-      3 ^ה<det><def>+@MIXJA<n><f>$
       3 ^ה<det><def>+@missier<n><m><px1sg>$
       3 ^ה<det><def>+@missier<n><m><px1pl>$
       3 ^ה<det><def>+@Mezz<n><m>$
@@ -2171,7 +2133,6 @@
       2 ^ה<det><def>+@Virga<n><f>$
       2 ^ה<det><def>+@Użu<n><m>$
       2 ^ה<det><def>+@Udjenza<n><f>$
-      2 ^ה<det><def>+@TWEĠIBA<n><f>$
       2 ^ה<det><def>+@troffa<n><GD>$
       2 ^ה<det><def>+@trijonfaliżmu<n><m>$
       2 ^ה<det><def>+@torta<n><f>$
@@ -2210,7 +2171,6 @@
       2 ^ה<det><def>+@Qawl<n><GD>$
       2 ^ה<det><def>+@QAMAR<n><m>$
       2 ^ה<det><def>+@QALBA<n><f>$
-      2 ^ה<det><def>+@Qagħda<n><f>$
       2 ^ה<det><def>+@PURĊISSJONI<n><f>$
       2 ^ה<det><def>+@PUNT<n><m>$
       2 ^ה<det><def>+@PROPRJETÀ<n><f>$
@@ -2241,7 +2201,6 @@
       2 ^ה<det><def>+@Kundizzjoni<n><f>$
       2 ^ה<det><def>+@Kumplament<n><m>$
       2 ^ה<det><def>+@KRIŻI<n><f>$
-      2 ^ה<det><def>+@KONT<n><m>$
       2 ^ה<det><def>+@Kollezzjoni<n><f>$
       2 ^ה<det><def>+@Klassifika<n><f>$
       2 ^ה<det><def>+@KAZ<n><m>$
@@ -2381,7 +2340,6 @@
       1 ^ה<det><def>+@Qanfud<n><m>$
       1 ^ה<det><def>+@qalb<n><m><px1pl>$
       1 ^ה<det><def>+@Qalba<n><f>$
-      1 ^ה<det><def>+@QAGĦDA<n><f>$
       1 ^ה<det><def>+@QABAR<n><m>$
       1 ^ה<det><def>+@Proporzjoni<n><f>$
       1 ^ה<det><def>+@PROGRAMM<n><m>$
@@ -2421,7 +2379,6 @@
       1 ^ה<det><def>+@Moralità<n><f>$
       1 ^ה<det><def>+@moqdief<n><m>$
       1 ^ה<det><def>+@Mogħża<n><f>$
-      1 ^ה<det><def>+@MOD<n><m>$
       1 ^ה<det><def>+@Missier<n><m><px3sg_m>$
       1 ^ה<det><def>+@missier<n><m><px3pl>$
       1 ^ה<det><def>+@Missier<n><m><px1sg>$
@@ -2451,7 +2408,6 @@
       1 ^ה<det><def>+@Konsultazzjoni<n><f>$
       1 ^ה<det><def>+@KOMUNITÀ<n><f>$
       1 ^ה<det><def>+@Kompetenza<n><f>$
-      1 ^ה<det><def>+@kelma<n><f><px3sg_m>$
       1 ^ה<det><def>+@Kaz<n><m>$
       1 ^ה<det><def>+@Karikatura<n><f>$
       1 ^ה<det><def>+@kappun<n><GD>$

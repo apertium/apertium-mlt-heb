@@ -1,102 +1,48 @@
-  20534 ^@malti<adj>$
-  18481 ^@kbir<adj>$
   11430 ^@istess<adj><sp>$
-  10824 ^@tajjeb<adj>$
-   9522 ^@ġdid<adj>$
-   5742 ^@ewropew<adj>$
-   4616 ^@żgħir<adj>$
-   4528 ^@qawwi<adj>$
+   6394 ^@tajjeb<adj>$
    4308 ^@nazzjonali<adj><sp>$
-   4231 ^@għoli<adj>$
-   4062 ^@kumment<adj>$
-   3873 ^@poet<adj>$
    3852 ^@differenti<adj><sp>$
-   3573 ^@magħruf<adj>$
-   3438 ^@sabiħ<adj>$
-   3376 ^@veru<adj>$
+   3608 ^@kbir<adj>$
    3353 ^@lokali<adj><sp>$
-   3123 ^@sħiħ<adj>$
    3116 ^@importanti<adj><sp>$
-   2972 ^@żgur<adj>$
    2895 ^@soċjali<adj><sp>$
-   2867 ^@prim<adj>$
    2696 ^@ġenerali<adj><sp>$
-   2437 ^@ċar<adj>$
-   2354 ^@twil<adj>$
-   2295 ^@ċert<adj>$
-   2223 ^@qaddis<adj>$
    2223 ^@biżżejjed<adj><sp>$
-   1980 ^@santu<adj>$
-   1932 ^@lest<adj>$
+   2051 ^@qawwi<adj>$
    1880 ^@laburista<adj>$
    1861 ^@suppost<adj><sp>$
    1840 ^@internazzjonali<adj><sp>$
-   1809 ^@armat<adj>$
-   1725 ^@mejjet<adj>$
    1647 ^@parlamentari<adj><sp>$
    1611 ^@personali<adj><sp>$
    1596 ^@partikolari<adj><sp>$
    1579 ^@kuljum<adj><sp>$
-   1518 ^@ċertu<adj>$
-   1517 ^@proprju<adj>$
    1426 ^@ċivili<adj><sp>$
    1399 ^@diffiċli<adj><sp>$
    1398 ^@interessanti<adj><sp>$
-   1384 ^@fond<adj>$
-   1292 ^@antik<adj>$
-   1286 ^@klassifikat<adj>$
-   1257 ^@barrani<adj>$
-   1251 ^@privat<adj>$
    1248 ^@nazzjonalista<adj>$
    1246 ^@kapaċi<adj><sp>$
-   1243 ^@serju<adj>$
-   1243 ^@abjad<adj>$
-   1232 ^@iswed<adj>$
    1227 ^@kulturali<adj><sp>$
-   1226 ^@ħelu<adj>$
-   1215 ^@amerikan<adj>$
    1191 ^@popolari<adj><sp>$
-   1180 ^@rumanz<adj>$
-   1176 ^@qasir<adj>$
    1174 ^@speċjali<adj><sp>$
    1155 ^@naturali<adj><sp>$
    1145 ^@elettorali<adj><sp>$
-   1133 ^@baxx<adj>$
+   1113 ^@għoli<adj>$
    1101 ^@possibbli<adj><sp>$
-   1079 ^@cert<adj>$
-   1047 ^@aħmar<adj>$
    1038 ^@komuni<adj><sp>$
-   1036 ^@kwadru<adj>$
    1034 ^@faċli<adj><sp>$
-   1006 ^@eżatt<adj>$
     968 ^@sempliċi<adj><sp>$
     949 ^@responsabbli<adj><sp>$
-    913 ^@sinjur<adj>$
-    911 ^@vojt<adj>$
-    906 ^@attakk<adj>$
-    892 ^@fqir<adj>$
     880 ^@pastorali<adj><sp>$
     876 ^@simili<adj><sp>$
     854 ^@kmieni<adj><sp>$
-    846 ^@kuntent<adj>$
     822 ^@anzjani<adj><sp>$
-    801 ^@modern<adj>$
     798 ^@nisrani<adj>$
     785 ^@prinċipali<adj><sp>$
-    773 ^@iebes<adj>$
     747 ^@gravi<adj><sp>$
-    745 ^@kwiet<adj>$
     739 ^@spiritwali<adj><sp>$
     735 ^@oriġinali<adj><sp>$
-    719 ^@pożittiv<adj>$
     717 ^@kantant<adj>$
-    714 ^@ruman<adj>$
-    704 ^@dirett<adj>$
-    689 ^@ħajj<adj>$
-    679 ^@involut<adj>$
     676 ^@mużikali<adj><sp>$
-    673 ^@stramb<adj>$
-    673 ^@informat<adj>$
     667 ^@legali<adj><sp>$
     649 ^@illegali<adj><sp>$
     643 ^@professjonali<adj><sp>$
@@ -360,6 +306,7 @@
     100 ^@indirett<adj>$
      99 ^@preparat<adj>$
      97 ^@riprodott<adj>$
+     96 ^@qasir<adj>$
      96 ^@onorat<adj>$
      94 ^@mistiku<adj>$
      94 ^@ikkawżat<adj>$
@@ -468,6 +415,7 @@
      46 ^@ċiprijott<adj>$
      45 ^@massiv<adj>$
      45 ^@kulurit<adj>$
+     45 ^@ħajj<adj>$
      44 ^@islamiku<adj>$
      44 ^@ekklesjastiku<adj>$
      44 ^@benedittin<adj>$
@@ -585,6 +533,7 @@
      19 ^@kożmiku<adj>$
      19 ^@komplikat<adj>$
      19 ^@irrispettat<adj>$
+     19 ^@fqir<adj>$
      19 ^@ammess<adj>$
      18 ^@sinjifikattiv<adj>$
      18 ^@ritmiku<adj>$
