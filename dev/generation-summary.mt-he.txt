@@ -77,372 +77,1044 @@ Multiple surface forms for a single lexical form
       1 \@www.catholic-hierarchy.org\/diocese\/dmalt.html\<num\>	^@www.catholic-hierarchy.org/diocese/dmalt.html<num>$
       1 \@www.aug.edu\/augusta\/iconography\<num\>	^@www.aug.edu/augusta/iconography<num>$
       1 \@waterobservatory.org\/\<num\>	^@waterobservatory.org/<num>$
-      1 \@irn.org\/programs\/greenhouse\/index.asp?id\<num\>	^*Irrakkuntalna$
-      1 *Irkibt	^@irn.org/programs/greenhouse/index.asp?id<num>$
-      1 \@http:\/\/www.zurrieq.gov.mt\/\<num\>	^*humanely$
-      1 \@http:\/\/www.wwrf.org\/\<num\>	^*Humal$
-      1 \@http:\/\/www.wri.org\/\<num\>	^*humaa$
-      1 \@http:\/\/www.window-air-conditioner.info\/airlinecheapflyreallyticket.html\<num\>	^*Hum$
-      1 \@http:\/\/www.wikiversity.org\/\<num\>	^*Hulya$
-      1 \@http:\/\/www.who.int\<num\>	^*hulita$
-      1 \@http:\/\/www.who.int\/mediacentre\/factsheets\/fs104\/en\<num\>	^*Hulietta$
-      1 \@http:\/\/www.wga.hu\/frames-e.html?\/html\/l\/le_sueur\/muses2.html\<num\>	^*ħulħadd$
-      1 \@http:\/\/www.webcams5.info\/lick_anal.html\<num\>	^*hul$
-      1 \@http:\/\/www.wateryear2003.org\/\<num\>	^*Hukok$
-      1 \@http:\/\/www.wasser2003bildung.ch\/\<num\>	^*Hukkok$
-      1 \@http:\/\/www.w3.org\/history\/19921103-hypertext\/hypertext\/www\/theproject.html\<num\>	^*Ħuk$
-      1 \@http:\/\/www.vroma.org\/images\/mcmanus_images\/mask1c.gif\<num\>	^*Huimportanti$
-      1 \@http:\/\/www.visitljubljana.si\/en\/\<num\>	^*Huig$
-      1 \@http:\/\/www.ville-saintdie.fr\<num\>	^*huiesc$
-      1 \@http:\/\/www.vatican.va\/holy_father\/benedict_xvi\/\<num\>	^*huhuhuhuhu$
-      1 \@http:\/\/www.uoc.edu\/euromosaic\/web\/document\/grec\/an\/i1\/i1.html\<num\>	^*Huha$
-      1 \@http:\/\/www.uniejow.pl\<num\>	^*hugs$
-      1 \@http:\/\/www.um.olsztyn.pl\<num\>	^*Hughie$
-      1 \@http:\/\/www.um.katowice.pl\<num\>	^*ħuġġiega$
-      1 \@http:\/\/www.uetersen.de\<num\>	^*Hugenszoon$
-      1 \@http:\/\/www.typepad.com\<num\>	^*hugbejn$
-      1 \@http:\/\/www.tm-xml.org\<num\>	^*ħuġbejhom$
-      1 \@http:\/\/www.timesonline.co.uk\/article\/0,,27-958357_1,00.html\<num\>	^*ħuġbejha$
-      1 \@http:\/\/www.tierramerica.net\/\<num\>	^*ħuġa$
-      1 \@http:\/\/www.thesun.co.uk\/sol\/homepage\/news\/article1206541.ece\<num\>	^*Huffa$
-      1 \@http:\/\/www.tenuate-on-line.info\/zithromax.html\<num\>	^*Hufamin$
-      1 \@http:\/\/www.tenuate-online-4.info\/90-pills-of-xenical.html\<num\>	^*Hufam$
-      1 \@http:\/\/www.tellusfolio.it\/index.php?prec=\/index.php&cmd=v&id=12077\<num\>	^*Huerta$
-      1 \@http:\/\/www.tellusfolio.it\/index.php?prec=\/index.php&cmd=v&id=11817\<num\>	^*hueigu$
-      1 \@http:\/\/www.telegraph.co.uk\/travel\/destinations\/\<num\>	^*Huec$
-      1 \@http:\/\/www.telefonoarcobaleno.org\/it\/indexr.htm\<num\>	^*Hue$
-      1 \@http:\/\/www.tecmalta.org\/art11.htm\<num\>	^*Huduni$
-      1 \@http:\/\/www.szczecin.pl\/\<num\>	^*Huduli$
-      1 \@http:\/\/www.swisscoalition.ch\/english\/pagesnav\/h\<num\>	^*hudni$
-      1 \@http:\/\/www.swinoujscie.pl\/\<num\>	^*hudna$
-      1 \@http:\/\/www.streetfootballworld.org\/index_html\/en\<num\>	^*hudlu$
-      1 \@http:\/\/www.stoptb.org\<num\>	^*hudli$
-      1 \@http:\/\/www.stgeorge.org.mt\/news_details.aspx?newsid=1139\<num\>	^*ħudhom$
-      1 \@http:\/\/www.softech.cz\/saimon\/\<num\>	^*Hubei$
-      1 \@http:\/\/www.soccernews.nl\/news\/42977\<num\>	^*Hubble$
-      1 \@http:\/\/www.side-effects-of-zyrtec.info\/patanol_canadian.html\<num\>	^*Hubbard$
-      1 \@http:\/\/www.sdcprecaoz.org\<num\>	^*huānyíng$
-      1 \@http:\/\/www.sdcmuseum.org\/page.aspx?pv=eebvtakpv5a=\<num\>	^*Huānhuan$
-      1 \@http:\/\/www.sdcmuseum.org\/page.aspx?pv=27iwn8di0ji=\<num\>	^*huam$
-      1 \@http:\/\/www.sdcmuseum.org\<num\>	^*ħtu$
-      1 \@http:\/\/www.saks-vicki-soble-sweater.info\/swap-magic-3-memory-card-exploit.html\<num\>	^@http://www.zurrieq.gov.mt/<num>$
-      1 \@http:\/\/www.rolac.unep.mx\/geo\/\<num\>	^@http://www.wwrf.org/<num>$
-      1 \@http:\/\/www.responsiblemining.net\<num\>	^@http://www.wri.org/<num>$
-      1 \@http:\/\/www.publishwhatyoupay.org\/\<num\>	^@http://www.window-air-conditioner.info/airlinecheapflyreallyticket.html<num>$
-      1 \@http:\/\/www.polarisinstitute.org\/\<num\>	^@http://www.wikiversity.org/<num>$
-      1 \@http:\/\/www.physics.hku.hk\/\<num\>	^@http://www.who.int<num>$
-      1 \@http:\/\/www.pem.gr\/\<num\>	^@http://www.who.int/mediacentre/factsheets/fs104/en<num>$
-      1 \@http:\/\/www.parliament.uk\/commons\/lib\/research\/notes\/snpc-04474.pdf\<num\>	^@http://www.wga.hu/frames-e.html?/html/l/le_sueur/muses2.html<num>$
-      1 \@http:\/\/www.osasco.sp.gov.br\<num\>	^@http://www.webcams5.info/lick_anal.html<num>$
-      1 \@http:\/\/www.ofm-jpic.org\/ecology\/\<num\>	^@http://www.wateryear2003.org/<num>$
-      1 \@http:\/\/www.oecd.org\/dataoecd\/42\/8\/39700724.pdf\<num\>	^@http://www.wasser2003bildung.ch/<num>$
-      1 \@http:\/\/www.nso.gov.mt\/statdoc\/document_file.aspx?id=2414\<num\>	^@http://www.w3.org/history/19921103-hypertext/hypertext/www/theproject.html<num>$
-      1 \@http:\/\/www.northantset.co.uk\/news\/dad39s-malta-dash-to-save.5437991.jp\<num\>	^@http://www.vroma.org/images/mcmanus_images/mask1c.gif<num>$
-      1 \@http:\/\/www.netzwerk-afrikadeutschland.de\/\<num\>	^@http://www.visitljubljana.si/en/<num>$
-      1 \@http:\/\/www.nccbuscc.org\<num\>	^@http://www.ville-saintdie.fr<num>$
-      1 \@http:\/\/www.musicologie.org\/theses\/vie_de_beethoven.html\<num\>	^@http://www.vatican.va/holy_father/benedict_xvi/<num>$
-      1 \@http:\/\/www.munxar.org\/?news=330&section=topnews&type=news\<num\>	^@http://www.uoc.edu/euromosaic/web/document/grec/an/i1/i1.html<num>$
-      1 \@http:\/\/www.msf.org\/source\/countries\/europe\<num\>	^@http://www.uniejow.pl<num>$
-      1 \@http:\/\/www.mrra.gov.mt\/faq.asp\<num\>	^@http://www.um.olsztyn.pl<num>$
-      1 \@http:\/\/www.mpipks-dresden.mpg.de\/\<num\>	^@http://www.um.katowice.pl<num>$
-      1 \@http:\/\/www.montehermoso.org\/\<num\>	^@http://www.uetersen.de<num>$
-      1 \@http:\/\/www.millenniumchapel.org\<num\>	^@http://www.typepad.com<num>$
-      1 \@http:\/\/www.miedzyrzec.pl\<num\>	^@http://www.tm-xml.org<num>$
-      1 \@http:\/\/www.mfaint.demon.co.uk\/cactus\/turbo\/index.html\<num\>	^@http://www.timesonline.co.uk/article/0,,27-958357_1,00.html<num>$
-      1 \@http:\/\/www.merlinlibrary.com\<num\>	^@http://www.tierramerica.net/<num>$
-      1 \@http:\/\/www.mellieha.gov.mt\<num\>	^@http://www.thesun.co.uk/sol/homepage/news/article1206541.ece<num>$
-      1 \@http:\/\/www.mediterranee-antique.info\/moyen_orient\/graetz\/hj_411.htm\<num\>	^@http://www.tenuate-on-line.info/zithromax.html<num>$
-      1 \@http:\/\/www.maltamedia.net\/wt\/\<num\>	^@http://www.tenuate-online-4.info/90-pills-of-xenical.html<num>$
-      1 \@http:\/\/www.maltamedia.net\/podcasts\/\<num\>	^@http://www.tellusfolio.it/index.php?prec=/index.php&cmd=v&id=12077<num>$
-      1 \@http:\/\/www.maltamedia.net\<num\>	^@http://www.tellusfolio.it/index.php?prec=/index.php&cmd=v&id=11817<num>$
-      1 \@http:\/\/www.maltagayrights.net\<num\>	^@http://www.telegraph.co.uk/travel/destinations/<num>$
-      1 \@http:\/\/www.maltafly.com\<num\>	^@http://www.telefonoarcobaleno.org/it/indexr.htm<num>$
-      1 \@http:\/\/www.maltadiocese.org\/parishes?l=1\<num\>	^@http://www.tecmalta.org/art11.htm<num>$
-      1 \@http:\/\/www.maltadiocese.org\/home\<num\>	^@http://www.szczecin.pl/<num>$
-      1 \@http:\/\/www.lrsdc.ie\/home\/default.asp\<num\>	^@http://www.swisscoalition.ch/english/pagesnav/h<num>$
-      1 \@http:\/\/www.lostinthought.ws\/blog\/2005\/06\/carnival-in-june.html\<num\>	^@http://www.swinoujscie.pl/<num>$
-      1 \@http:\/\/www.lo\<num\>	^@http://www.streetfootballworld.org/index_html/en<num>$
-      1 \@http:\/\/www.l-ikel.org\<num\>	^@http://www.stoptb.org<num>$
-      1 \@http:\/\/www.lifeshearwaterproject.org.mt\/en\/rdumtalmadonna\/\<num\>	^@http://www.stgeorge.org.mt/news_details.aspx?newsid=1139<num>$
-      1 \@http:\/\/www.license-plate-frames.info\/licenseplatepictureframes.html\<num\>	^@http://www.softech.cz/saimon/<num>$
-      1 \@http:\/\/www.lemonde.fr\/web\/article\/0,1-0\<num\>	^@http://www.soccernews.nl/news/42977<num>$
-      1 \@http:\/\/www.latinafree.info\/maine_adult_video_stores.html\<num\>	^@http://www.side-effects-of-zyrtec.info/patanol_canadian.html<num>$
-      1 \@http:\/\/www.l-arka.org\<num\>	^@http://www.sdcprecaoz.org<num>$
-      1 \@http:\/\/www.kunsilltalmalti.gov.mt\/filebank\/documents\/rapportdwarlismijiettalmunitaewropea.pdf\<num\>	^@http://www.sdcmuseum.org/page.aspx?pv=eebvtakpv5a=<num>$
-      1 \@http:\/\/www.krakow.pl\<num\>	^@http://www.sdcmuseum.org/page.aspx?pv=27iwn8di0ji=<num>$
-      1 \@http:\/\/www.knowledgebank.irri.org\/ipm\/appecology\/appecology.htm\<num\>	^@http://www.sdcmuseum.org<num>$
-      1 \@http:\/\/www.karmelitanimalta.org\/\<num\>	^@http://www.saks-vicki-soble-sweater.info/swap-magic-3-memory-card-exploit.html<num>$
-      1 \@http:\/\/www.karmelitanimalta.org\<num\>	^@http://www.rolac.unep.mx/geo/<num>$
-      1 \@http:\/\/www.jeepcherokee0.info\/1gig-compactflash.html\<num\>	^@http://www.responsiblemining.net<num>$
-      1 \@http:\/\/www.jazzitalia.net\/visevento.asp?id=11419\<num\>	^@http://www.publishwhatyoupay.org/<num>$
-      1 \@http:\/\/www.iom.int\/jahia\/jsp\/index.jsp\<num\>	^@http://www.polarisinstitute.org/<num>$
-      1 \@http:\/\/www.internoto.de\/index.htm\<num\>	^@http://www.physics.hku.hk/<num>$
-      1 \@http:\/\/www.ifpri.org\/\<num\>	^@http://www.pem.gr/<num>$
-      1 \@http:\/\/www.icij.org\/water\/\<num\>	^@http://www.parliament.uk/commons/lib/research/notes/snpc-04474.pdf<num>$
-      1 \@http:\/\/www.hgh-weight-loss.info\/how-to-determine-percent-body-fat.html\<num\>	^@http://www.osasco.sp.gov.br<num>$
-      1 \@http:\/\/www.heritagemalta.org\/icmch\<num\>	^@http://www.ofm-jpic.org/ecology/<num>$
-      1 \@http:\/\/www.helsinki.fi\/\<num\>	^@http://www.oecd.org/dataoecd/42/8/39700724.pdf<num>$
-      1 \@http:\/\/www.harpers.org\/archive\/2007\/04\/0081476\<num\>	^@http://www.nso.gov.mt/statdoc/document_file.aspx?id=2414<num>$
-      1 \@http:\/\/www.gwu.org.mt\/intern-int_affiliations.html\<num\>	^@http://www.northantset.co.uk/news/dad39s-malta-dash-to-save.5437991.jp<num>$
-      1 \@http:\/\/www.gwu.org.mt\/intern-eur_affiliations.html\<num\>	^@http://www.netzwerk-afrikadeutschland.de/<num>$
-      1 \@http:\/\/www.guardian.co.uk\/climatechange\/story\/0,12374,1026312,00.html\<num\>	^@http://www.nccbuscc.org<num>$
-      1 \@http:\/\/www.graphuglia.it\/\<num\>	^@http://www.musicologie.org/theses/vie_de_beethoven.html<num>$
-      1 \@http:\/\/www.gold.org\/\<num\>	^@http://www.munxar.org/?news=330&section=topnews&type=news<num>$
-      1 \@http:\/\/www.goldenknightmalta.org\<num\>	^@http://www.msf.org/source/countries/europe<num>$
-      1 \@http:\/\/www.giosef.it\<num\>	^@http://www.mrra.gov.mt/faq.asp<num>$
-      1 \@http:\/\/www.gemeinde.bozen.it\<num\>	^@http://www.mpipks-dresden.mpg.de/<num>$
-      1 \@http:\/\/www.gdansk.pl\<num\>	^@http://www.montehermoso.org/<num>$
-      1 \@http:\/\/www.gardjola.org\/\<num\>	^@http://www.millenniumchapel.org<num>$
-      1 \@http:\/\/www.gambling-affiliate-program.info\/best-casino-affiliate-programs.html\<num\>	^@http://www.miedzyrzec.pl<num>$
-      1 \@http:\/\/www.g8.fr\/evian\/english\/navigation\/2003_g8_\<num\>	^@http://www.mfaint.demon.co.uk/cactus/turbo/index.html<num>$
-      1 \@http:\/\/www.free-ringtones-panasonic-x70.info\<num\>	^@http://www.merlinlibrary.com<num>$
-      1 \@http:\/\/www.fairtrade.net\/setting_the_standards.html\<num\>	^@http://www.mellieha.gov.mt<num>$
-      1 \@http:\/\/www.exploratorium.edu\/sunspots\/\<num\>	^@http://www.mediterranee-antique.info/moyen_orient/graetz/hj_411.htm<num>$
-      1 \@http:\/\/www.esi.ac.at\<num\>	^@http://www.maltamedia.net/wt/<num>$
-      1 \@http:\/\/www.eschweiler.de\<num\>	^@http://www.maltamedia.net/podcasts/<num>$
-      1 \@http:\/\/www.environnement.gouv.fr\/\<num\>	^@http://www.maltamedia.net<num>$
-      1 \@http:\/\/www.elpais.es\/vineta.html?d_date=2\<num\>	^@http://www.maltagayrights.net<num>$
-      1 \@http:\/\/www.education.gov.mt\/artsfund.htm\<num\>	^@http://www.maltafly.com<num>$
-      1 \@http:\/\/www.ecoportal.net\/temas\/\<num\>	^@http://www.maltadiocese.org/parishes?l=1<num>$
-      1 \@http:\/\/www.ecologistasenaccion.org\/accion\/agua\/\<num\>	^@http://www.maltadiocese.org/home<num>$
-      1 \@http:\/\/www.ecma-international.org\/publications\/standards\/ecma-335.htm\<num\>	^@http://www.lrsdc.ie/home/default.asp<num>$
-      1 \@http:\/\/www.ecma-international.org\/publications\/standards\/ecma-334.htm\<num\>	^@http://www.lostinthought.ws/blog/2005/06/carnival-in-june.html<num>$
-      1 \@http:\/\/www.earthdancecapetown.co.za\<num\>	^@http://www.lo<num>$
-      1 \@http:\/\/www.drawingboard.org\/blogs\/?u=videosea\<num\>	^@http://www.l-ikel.org<num>$
-      1 \@http:\/\/www.drawingboard.org\/blogs\/?u=videosealban3\<num\>	^@http://www.lifeshearwaterproject.org.mt/en/rdumtalmadonna/<num>$
-      1 \@http:\/\/www.doi.gov.mt\/en\/press_releases\/2009\/05\/pr0862.asp\<num\>	^@http://www.license-plate-frames.info/licenseplatepictureframes.html<num>$
-      1 \@http:\/\/www.diocesi.milano.it\<num\>	^@http://www.lemonde.fr/web/article/0,1-0<num>$
-      1 \@http:\/\/www.data-recovery-60.info\/hp-xl-756-recovery-disk.html\<num\>	^@http://www.latinafree.info/maine_adult_video_stores.html<num>$
-      1 \@http:\/\/www.darwinproject.ac.uk\/darwinletters\/calendar\/entry-1684.html\<num\>	^@http://www.l-arka.org<num>$
-      1 \@http:\/\/www.custom-web-design-9.info\/moving-company-san-antonio.html\<num\>	^@http://www.kunsilltalmalti.gov.mt/filebank/documents/rapportdwarlismijiettalmunitaewropea.pdf<num>$
-      1 \@http:\/\/www.curitiba.pr.gov.br\<num\>	^@http://www.krakow.pl<num>$
-      1 \@http:\/\/www.cs.fsu.edu\/\<num\>	^@http://www.knowledgebank.irri.org/ipm/appecology/appecology.htm<num>$
-      1 \@http:\/\/www.csc.um.edu.mt\/other\/maltese.pdf\<num\>	^@http://www.karmelitanimalta.org/<num>$
-      1 \@http:\/\/www.communitymining.org\<num\>	^@http://www.karmelitanimalta.org<num>$
-      1 \@http:\/\/www.collins-gem.co.uk\<num\>	^@http://www.jeepcherokee0.info/1gig-compactflash.html<num>$
-      1 \@http:\/\/www.coldwell-banker-larson-realty.info\/volvo-part-9151490.html\<num\>	^@http://www.jazzitalia.net/visevento.asp?id=11419<num>$
-      1 \@http:\/\/www.cipsi.it\/\<num\>	^@http://www.iom.int/jahia/jsp/index.jsp<num>$
-      1 \@http:\/\/www.ci\<num\>	^@http://www.internoto.de/index.htm<num>$
-      1 \@http:\/\/www.cia.gov\/cia\/publications\/factbook\/geos\/sr.html\<num\>	^@http://www.ifpri.org/<num>$
-      1 \@http:\/\/www.chiesacattolica.it\<num\>	^@http://www.icij.org/water/<num>$
-      1 \@http:\/\/www.centrostudibosio.it\/\<num\>	^@http://www.hgh-weight-loss.info/how-to-determine-percent-body-fat.html<num>$
-      1 \@http:\/\/www.centrorelazioniculturali.it\/\<num\>	^@http://www.heritagemalta.org/icmch<num>$
-      1 \@http:\/\/www.centralbankmalta.org\/site\/currency1.html\<num\>	^@http://www.helsinki.fi/<num>$
-      1 \@http:\/\/www.ccpal.net\/doberman.html\<num\>	^@http://www.harpers.org/archive/2007/04/0081476<num>$
-      1 \@http:\/\/www.ccel.org\/ccel\/jamieson\/jfb.x.iii.xi.html\<num\>	^@http://www.gwu.org.mt/intern-int_affiliations.html<num>$
-      1 \@http:\/\/www.cafod.org.uk\/unearthjustice\<num\>	^@http://www.gwu.org.mt/intern-eur_affiliations.html<num>$
-      1 \@http:\/\/www.caffefandango.net\/\<num\>	^@http://www.guardian.co.uk/climatechange/story/0,12374,1026312,00.html<num>$
-      1 \@http:\/\/www.bratislava.sk\/\<num\>	^@http://www.graphuglia.it/<num>$
-      1 \@http:\/\/www.bestwaytoquitsmoking7.info\/mercedes-mcnab-nude.html\<num\>	^@http://www.gold.org/<num>$
-      1 \@http:\/\/www.ba-malta.org\/prdetails?id=124\<num\>	^@http://www.goldenknightmalta.org<num>$
-      1 \@http:\/\/www.balde.net\/formations\/droit.cours\/hist-droit1.3.1.html\<num\>	^@http://www.giosef.it<num>$
-      1 \@http:\/\/www.awningwwwcheappricedawningcom.info\/play_keno_for_fun.html\<num\>	^@http://www.gemeinde.bozen.it<num>$
-      1 \@http:\/\/www.atlantic-county-driveway-paving.info\/klonopin-patient-assistance-program.html\<num\>	^@http://www.gdansk.pl<num>$
-      1 \@http:\/\/www.ativan-drip.info\/kingston-1gb-elite-pro-compact-flash.html\<num\>	^@http://www.gardjola.org/<num>$
-      1 \@http:\/\/www.assolablib.it\/\<num\>	^@http://www.gambling-affiliate-program.info/best-casino-affiliate-programs.html<num>$
-      1 \@http:\/\/www.antoinecassar.info\/\<num\>	^@http://www.g8.fr/evian/english/navigation/2003_g8_<num>$
-      1 \@http:\/\/www.amnesty.org\<num\>	^@http://www.free-ringtones-panasonic-x70.info<num>$
-      1 \@http:\/\/www.americanheart.org\/presenter.jhtml?identifier=4650\<num\>	^@http://www.fairtrade.net/setting_the_standards.html<num>$
-      1 \@http:\/\/www.alternattiva.org.mt\/page.asp?n=newsdetails&i=5108\<num\>	^@http://www.exploratorium.edu/sunspots/<num>$
-      1 \@http:\/\/www.almazan.es\<num\>	^@http://www.esi.ac.at<num>$
-      1 \@http:\/\/www.alfredsant.org\<num\>	^@http://www.eschweiler.de<num>$
-      1 \@http:\/\/www.aefjn.org\/\<num\>	^@http://www.environnement.gouv.fr/<num>$
-      1 \@http:\/\/wikisource.org\/w\/index.php?title=main_page\<num\>	^@http://www.elpais.es/vineta.html?d_date=2<num>$
-      1 \@http:\/\/wikisource.org\<num\>	^@http://www.education.gov.mt/artsfund.htm<num>$
-      1 \@http:\/\/wikipedia.org\/\<num\>	^@http://www.ecoportal.net/temas/<num>$
-      1 \@http:\/\/wikimediafoundation.org\/wiki\/fundraising\<num\>	^@http://www.ecologistasenaccion.org/accion/agua/<num>$
-      1 \@http:\/\/viagratetb.pun.pl\/\<num\>	^@http://www.ecma-international.org/publications/standards/ecma-335.htm<num>$
-      1 \@http:\/\/viagrarier.pun.pl\/\<num\>	^@http://www.ecma-international.org/publications/standards/ecma-334.htm<num>$
-      1 \@http:\/\/viagraradj.pun.pl\/\<num\>	^@http://www.earthdancecapetown.co.za<num>$
-      1 \@http:\/\/um.warszawa.pl\<num\>	^@http://www.drawingboard.org/blogs/?u=videosea<num>$
-      1 \@http:\/\/tools.wikimedia.de\/\<num\>	^@http://www.drawingboard.org/blogs/?u=videosealban3<num>$
-      1 \@http:\/\/tonaz.altervista.org\/zidane.html\<num\>	^@http://www.doi.gov.mt/en/press_releases/2009/05/pr0862.asp<num>$
-      1 \@http:\/\/timesofmalta.com\<num\>	^@http://www.diocesi.milano.it<num>$
-      1 \@http:\/\/thekop.liverpoolfc.tv\/service\/searcheverything.kickaction?as=173471&u=30143390&mediatype=blog&sorttype=recent&tab=yes&includeblog=on&member=blog\<num\>	^@http://www.data-recovery-60.info/hp-xl-756-recovery-disk.html<num>$
-      1 \@http:\/\/strixxikli.page.tl\/\<num\>	^@http://www.darwinproject.ac.uk/darwinletters/calendar/entry-1684.html<num>$
-      1 \@http:\/\/sources.wikipedia.org\<num\>	^@http://www.custom-web-design-9.info/moving-company-san-antonio.html<num>$
-      1 \@https:\/\/opm.gov.mt\/mepa?l=2\<num\>	^@http://www.curitiba.pr.gov.br<num>$
-      1 \@http:\/\/songs.6arab.net\/newsong\/lotfi-bouchnak\/lotfi-bouchnak_enti-chamssi.rm\<num\>	^@http://www.cs.fsu.edu/<num>$
-      1 \@http:\/\/ps.wikipedia.org\<num\>	^@http://www.csc.um.edu.mt/other/maltese.pdf<num>$
-      1 \@http:\/\/plato.acadiau.ca\/courses\/educ\/reid\/papers\/pme25-ws4\/sem.html\<num\>	^@http://www.communitymining.org<num>$
-      1 \@http:\/\/picasaweb.google.it\/munxarparish\/winepizzaoct07\<num\>	^@http://www.collins-gem.co.uk<num>$
-      1 \@http:\/\/picasaweb.google.it\/munxarparish,\<num\>	^@http://www.coldwell-banker-larson-realty.info/volvo-part-9151490.html<num>$
-      1 \@http:\/\/picasaweb.google.it\/munxarparish\<num\>	^@http://www.cipsi.it/<num>$
-      1 \@http:\/\/picasaweb.google.it\/munxarparish\/bidutalkatekizmu0708\<num\>	^@http://www.ci<num>$
-      1 \@http:\/\/nssdc.gsfc.nasa.gov\/database\/mastercatalog?sc=1965-068a\<num\>	^@http://www.cia.gov/cia/publications/factbook/geos/sr.html<num>$
-      1 \@http:\/\/news.bbc.co.uk\/sport2\/hi\/football\/world_cup_2006\/teams\/france\/5174758.stm\<num\>	^@http://www.chiesacattolica.it<num>$
-      1 \@http:\/\/news.bbc.co.uk\/sport1\/hi\/football\/teams\/c\/chelsea\/7004083.stm\<num\>	^@http://www.centrostudibosio.it/<num>$
-      1 \@http:\/\/news.bbc.co.uk\/sport1\/hi\/football\/eng_div_1\/7091601.stm\<num\>	^@http://www.centrorelazioniculturali.it/<num>$
-      1 \@http:\/\/news.bbc.co.uk\/2\/hi\/europe\/4439011.stm\<num\>	^@http://www.centralbankmalta.org/site/currency1.html<num>$
-      1 \@http:\/\/news.bbc.co.uk\/2\/hi\/europe\/4439011\<num\>	^@http://www.ccpal.net/doberman.html<num>$
-      1 \@http:\/\/news.bbc.co.uk\/1\/hi\/sport\/football\/1844962.stm\<num\>	^@http://www.ccel.org/ccel/jamieson/jfb.x.iii.xi.html<num>$
-      1 \@http:\/\/news.bbc.co.uk\/1\/hi\/special_report\/single_currency\/86518.stm\<num\>	^@http://www.cafod.org.uk/unearthjustice<num>$
-      1 \@http:\/\/news.bbc.co.uk\/1\/hi\/business\/3036838.stm\<num\>	^@http://www.caffefandango.net/<num>$
-      1 \@http:\/\/muzajk.info\<num\>	^@http://www.bratislava.sk/<num>$
-      1 \@http:\/\/mt.wikipedia.org\/wiki\/sqaq_l-infern\<num\>	^@http://www.bestwaytoquitsmoking7.info/mercedes-mcnab-nude.html<num>$
-      1 \@http:\/\/meta.wikimedia.org\/wiki\/wikimania\<num\>	^@http://www.ba-malta.org/prdetails?id=124<num>$
-      1 \@http:\/\/megrahimystory.net\/\<num\>	^@http://www.balde.net/formations/droit.cours/hist-droit1.3.1.html<num>$
-      1 \@http:\/\/magistrat.praha-mesto.cz\/\<num\>	^@http://www.awningwwwcheappricedawningcom.info/play_keno_for_fun.html<num>$
-      1 \@http:\/\/linux.org.mt\/lingwa\/spellcheck.html?locale=mt\<num\>	^@http://www.atlantic-county-driveway-paving.info/klonopin-patient-assistance-program.html<num>$
-      1 \@http:\/\/ktieb.wordpress.com\<num\>	^@http://www.ativan-drip.info/kingston-1gb-elite-pro-compact-flash.html<num>$
-      1 \@http:\/\/image.guardian.co.uk\/sys-files\/guardian\/documents\/2006\/01\/20\/fullsacco1.pdf\<num\>	^@http://www.assolablib.it/<num>$
-      1 \@http:\/\/image.guardian.co.uk\/sys-files\/guardian\/documents\/2005\/02\/25\/sacco1.pdf\<num\>	^@http://www.antoinecassar.info/<num>$
-      1 \@http:\/\/home.um.edu.mt\/medinst\/music\/staff.html\<num\>	^@http://www.amnesty.org<num>$
-      1 \@http:\/\/home.t-online.de\/home\/ulrich.creutzburg\/\<num\>	^@http://www.americanheart.org/presenter.jhtml?identifier=4650<num>$
-      1 \@http:\/\/homepages.pathfinder.gr\/poiitikigonia\<num\>	^@http://www.alternattiva.org.mt/page.asp?n=newsdetails&i=5108<num>$
-      1 \@http:\/\/halliem.blogspot.com\<num\>	^@http://www.almazan.es<num>$
-      1 \@http:\/\/greens-efa-service.org\/votetracker\/\<num\>	^@http://www.alfredsant.org<num>$
-      1 \@http:\/\/gozodiocese.org\/wp-content\/gallery\/misc-pictures\/dscf1950b.jpg\<num\>	^@http://www.aefjn.org/<num>$
-      1 \@http:\/\/gozodiocese.org\/wp-content\/gallery\/diskorsi\/membri-manresa1-oct07.jpg\<num\>	^@http://wikisource.org/w/index.php?title=main_page<num>$
-      1 \@http:\/\/gozodiocese.org\/wp-content\/gallery\/diskorsi\/isqof-manresa1-oct-07.jpg\<num\>	^@http://wikisource.org<num>$
-      1 \@http:\/\/gozodiocese.org\/wp-content\/gallery\/diskorsi\/dun-joseph-sultana-manresa-oct-07.jpg\<num\>	^@http://wikipedia.org/<num>$
-      1 \@http:\/\/gozodiocese.org\/wp-content\/gallery\/diskorsi\/dun-giovanni-curmi-manresa-07.jpg\<num\>	^@http://wikimediafoundation.org/wiki/fundraising<num>$
-      1 \@http:\/\/gozodiocese.org\/wp-content\/gallery\/bishops-of-gozo\/mario_grech_arm.jpg\<num\>	^@http://viagratetb.pun.pl/<num>$
-      1 \@http:\/\/gozodiocese.org\/2011\/05\/06\/il-papa-taz-zwieg-u-tal-familja-artiklu-ta\<num\>	^@http://viagrarier.pun.pl/<num>$
-      1 \@http:\/\/gozodiocese.org\/2011\/05\/06\/il-fwieha-ta\<num\>	^@http://viagraradj.pun.pl/<num>$
-      1 \@http:\/\/gozodiocese.org\/2011\/03\/04\/marzu-\<num\>	^@http://um.warszawa.pl<num>$
-      1 \@http:\/\/gozodiocese.org\/2011\/02\/11\/hatra-ta-amministratur-ghall-knisja-ta-san-gakbu\/\<num\>	^@http://tools.wikimedia.de/<num>$
-      1 \@http:\/\/gozodiocese.org\/2011\/02\/10\/link-permanenti-bejn-ghawdex-u-malta\/\<num\>	^@http://tonaz.altervista.org/zidane.html<num>$
-      1 \@http:\/\/gozodiocese.org\/2011\/01\/25\/nindukraw-l-ekologija-medjatika\/\<num\>	^@http://timesofmalta.com<num>$
-      1 \@http:\/\/gozodiocese.org\/2011\/01\/17\/il-bikja-tat-tarbija-ta\<num\>	^@http://thekop.liverpoolfc.tv/service/searcheverything.kickaction?as=173471&u=30143390&mediatype=blog&sorttype=recent&tab=yes&includeblog=on&member=blog<num>$
-      1 \@http:\/\/gozodiocese.org\/2010\/12\/09\/solennita-tal-immakulata-kuncizzjoni-ittra-cirkulari-tal-et-mons-mario-grech-isqof-ta-ghawdex\/\<num\>	^@http://strixxikli.page.tl/<num>$
-      1 \@http:\/\/gozodiocese.org\/2010\/11\/27\/pastorali-tal-isqfijiet-avvent-2010-il-presepju-fil-familji-taghna\/\<num\>	^@http://sources.wikipedia.org<num>$
-      1 \@http:\/\/gozodiocese.org\/2010\/10\/30\/ghal-ordni-socjali-ahjar-omelija-ta\<num\>	^@https://opm.gov.mt/mepa?l=2<num>$
-      1 \@http:\/\/gozodiocese.org\/2010\/10\/23\/il-familja-u-l-hajja-umana\/\<num\>	^@http://songs.6arab.net/newsong/lotfi-bouchnak/lotfi-bouchnak_enti-chamssi.rm<num>$
-      1 \@http:\/\/gozodiocese.org\/2010\/10\/16\/nota-pastorali-mill-et-mons-pawl-cremona-op-arcisqof-ta\<num\>	^@http://ps.wikipedia.org<num>$
-      1 \@http:\/\/gozodiocese.org\/2010\/09\/27\/bzonn-ta\<num\>	^@http://plato.acadiau.ca/courses/educ/reid/papers/pme25-ws4/sem.html<num>$
-      1 \@http:\/\/gozodiocese.org\/2010\/09\/09\/marija-sinjal-ta\<num\>	^@http://picasaweb.google.it/munxarparish/winepizzaoct07<num>$
-      1 \@http:\/\/gozodiocese.org\/2010\/08\/07\/socjeta-fejn-tghammar-is-solidarjeta-ittra-pastorali-tal-et-mons-mario-grech-isqof-ta\<num\>	^@http://picasaweb.google.it/munxarparish,<num>$
-      1 \@http:\/\/gozodiocese.org\/2010\/07\/05\/il-familja-benniena-tal-vokazzjoni\/\<num\>	^@http://picasaweb.google.it/munxarparish<num>$
-      1 \@http:\/\/gozodiocese.org\/2010\/07\/01\/ilhna-li-jaghtu-direzzjoni\/\<num\>	^@http://picasaweb.google.it/munxarparish/bidutalkatekizmu0708<num>$
-      1 \@http:\/\/gozodiocese.org\/2010\/06\/25\/garar-vojta\/\<num\>	^@http://nssdc.gsfc.nasa.gov/database/mastercatalog?sc=1965-068a<num>$
-      1 \@http:\/\/gozodiocese.org\/2010\/06\/21\/il-mejda-ewkaristika-hi-laqgha-ta\<num\>	^@http://news.bbc.co.uk/sport2/hi/football/world_cup_2006/teams/france/5174758.stm<num>$
-      1 \@http:\/\/gozodiocese.org\/2010\/06\/11\/ghal-tqarbin-sewwa-omelija-ta\<num\>	^@http://news.bbc.co.uk/sport1/hi/football/teams/c/chelsea/7004083.stm<num>$
-      1 \@http:\/\/gozodiocese.org\/2010\/05\/24\/is-sagramenti-taz-zwieg-u-l-ewkaristija-stqarrija-tal-konferenza-episkopali\/\<num\>	^@http://news.bbc.co.uk/sport1/hi/football/eng_div_1/7091601.stm<num>$
-      1 \@http:\/\/gozodiocese.org\/2010\/05\/19\/il-mara-edukatrici-tal-qalb-u-tal-ispirtu\/\<num\>	^@http://news.bbc.co.uk/2/hi/europe/4439011.stm<num>$
-      1 \@http:\/\/gozodiocese.org\/2010\/05\/17\/il-hsieb-wara-l-azzjoni-dwar-iz-zwieg-diskors-ta\<num\>	^@http://news.bbc.co.uk/2/hi/europe/4439011<num>$
-      1 \@http:\/\/gozodiocese.org\/2010\/05\/08\/sfruttament-fuq-ix-xoghol-omelija-ta\<num\>	^@http://news.bbc.co.uk/1/hi/sport/football/1844962.stm<num>$
-      1 \@http:\/\/gozodiocese.org\/2010\/05\/08\/it-titjib-fl-ekonomija-jitlob-aktar-azzjoni-kuxjenzjuza-omelija-ta-mons-isqof-mario-grech-fi-tmiem-is-seminar-new-emgerging-risk-work-related-stress\/\<num\>	^@http://news.bbc.co.uk/1/hi/special_report/single_currency/86518.stm<num>$
-      1 \@http:\/\/gozodiocese.org\/2010\/03\/24\/ic-celibat-sacerdotali-fil-knisja-kattolika-omelija-ta\<num\>	^@http://news.bbc.co.uk/1/hi/business/3036838.stm<num>$
-      1 \@http:\/\/gozodiocese.org\/2010\/03\/09\/ghal-zvilupp-ekonomiku-u-socjali-t\<num\>	^@http://muzajk.info<num>$
-      1 \@http:\/\/gozodiocese.org\/2010\/03\/09\/alla-jeduka-l-bniedem-permezz-tal-kelma-tieghu-omelija-ta\<num\>	^@http://mt.wikipedia.org/wiki/sqaq_l-infern<num>$
-      1 \@http:\/\/gozodiocese.org\/2009\/11\/27\/pastoral-letter-for-advent-2010-the-significance-of-the-crib-in-ou\<num\>	^@http://meta.wikimedia.org/wiki/wikimania<num>$
-      1 \@http:\/\/gozodiocese.org\/2009\/04\/06\/messagg-ta\<num\>	^@http://megrahimystory.net/<num>$
-      1 \@http:\/\/gozodiocese.org\/2009\/04\/06\/it-triq-tas-salib-illum-messagg-ta\<num\>	^@http://magistrat.praha-mesto.cz/<num>$
-      1 \@http:\/\/gozodiocese.org\/2008\/01\/15\/pastoralirandan2008\/\<num\>	^@http://linux.org.mt/lingwa/spellcheck.html?locale=mt<num>$
-      1 \@http:\/\/gozodiocese.org\/2008\/01\/06\/cirkulari-4412005-6-ta-jannar-2005\/\<num\>	^@http://ktieb.wordpress.com<num>$
-      1 \@http:\/\/gozodiocese.org\/2007\/10\/06\/nitlaqkom-fidejn-alla-u-l-kelma-tieghu-dar-manresa-3-u-6-ta-ottubru-2007\/\<num\>	^@http://image.guardian.co.uk/sys-files/guardian/documents/2006/01/20/fullsacco1.pdf<num>$
-      1 \@http:\/\/gozodiocese.org\/2007\/10\/06\/nitlaqkom-fidejn-alla-u-l-kelma-tieghu-dar-manresa-3-u-6-ta-ottubr\<num\>	^@http://image.guardian.co.uk/sys-files/guardian/documents/2005/02/25/sacco1.pdf<num>$
-      1 \@http:\/\/gozodiocese.org\/2007\/08\/19\/nghozzu-l-komunjoni-fil-knisja-knisja-zebbug-19-ta-awissu-2007\/\<num\>	^@http://home.um.edu.mt/medinst/music/staff.html<num>$
-      1 \@http:\/\/gozodiocese.org\/2007\/08\/15\/alla-jehlisna-mit-tahsir-katidral-ghawdex-15-ta\<num\>	^@http://home.t-online.de/home/ulrich.creutzburg/<num>$
-      1 \@http:\/\/gozodiocese.org\/2007\/06\/29\/civilta-li-tixraq-lid-dinjita-tal-bniedem-omelija-ta\<num\>	^@http://homepages.pathfinder.gr/poiitikigonia<num>$
-      1 \@http:\/\/gozodiocese.org\/2007\/06\/05\/dun-gorg-u-l-kelma-li-tghammar-fostna-omelija-fiz-zjara-tar-relikwa-ta\<num\>	^@http://halliem.blogspot.com<num>$
-      1 \@http:\/\/gozodiocese.org\/2007\/05\/08\/dun-gorg-preca-xandar-tad-duttrina-tajba-omelija-fil-pellegrinagg-djocesan-fuq-il-qabar-tal-beatu-gorg-preca-il-kappella-tal-midalja-mirakuluza-il-blata-l-bajda-8-ta\<num\>	^@http://greens-efa-service.org/votetracker/<num>$
-      1 \@http:\/\/gozodiocese.org\/2007\/04\/10\/socjeta-tal-museum-xhud-ta-kristu-rxoxt-omelija-fit-tifkira-ta-gheluq-il-mitt-sena-mill-bidu-tal-museumsantwarju-ta-pinu-10-ta-april-2007\/\<num\>	^@http://gozodiocese.org/wp-content/gallery/misc-pictures/dscf1950b.jpg<num>$
-      1 \@http:\/\/gozodiocese.org\/2007\/04\/05\/gesu-qaddej-omelija-ta\<num\>	^@http://gozodiocese.org/wp-content/gallery/diskorsi/membri-manresa1-oct07.jpg<num>$
-      1 \@http:\/\/gozodiocese.org\/2007\/03\/26\/id-dimensjoni-marjana-tas-sacerdot-knisja-gharb-26-ta\<num\>	^@http://gozodiocese.org/wp-content/gallery/diskorsi/isqof-manresa1-oct-07.jpg<num>$
-      1 \@http:\/\/gozodiocese.org\/2007\/03\/06\/xi-jfisser-l-rtk-ghall-knisja-taghna-diskors-fl-okkazjoni-tal-15-il-anniversarju-mill-ftuh-ta\<num\>	^@http://gozodiocese.org/wp-content/gallery/diskorsi/dun-joseph-sultana-manresa-oct-07.jpg<num>$
-      1 \@http:\/\/gozodiocese.org\/2007\/01\/22\/il-ministeru-sacerdotali-knisja-tar-raghaj-it-tajjeb-victoria-22-ta\<num\>	^@http://gozodiocese.org/wp-content/gallery/diskorsi/dun-giovanni-curmi-manresa-07.jpg<num>$
-      1 \@http:\/\/gozodiocese.org\/2007\/01\/06\/l-isqof-kollaboratur-tal-ferh-taghkom-diskors-waqt-il-laqgha-ta-awguri-ghas-sacerdoti-seminarju-6-ta-jannar-2007\/\<num\>	^@http://gozodiocese.org/wp-content/gallery/bishops-of-gozo/mario_grech_arm.jpg<num>$
-      1 \@http:\/\/gozodiocese.org\/2006\/03\/03\/ir-randan-zmien-biex-nersqu-ghand-alla-ghajnsielem-3-ta\<num\>	^@http://gozodiocese.org/2011/05/06/il-papa-taz-zwieg-u-tal-familja-artiklu-ta<num>$
-      1 \@http:\/\/gozodiocese.org\/2006\/02\/10\/inwarrbu-pizijiet-zejda-li-qed-itaqqlu-s-socjeta-il-knisja-u-l-familja-knisja-munxar-10-ta\<num\>	^@http://gozodiocese.org/2011/05/06/il-fwieha-ta<num>$
-      1 \@http:\/\/gozodiocese.org\/2005\/10\/26\/cirkulari-nru-4482005-26-ta\<num\>	^@http://gozodiocese.org/2011/03/04/marzu-<num>$
-      1 \@http:\/\/gozodiocese.org\/2005\/10\/01\/ad-clerum-nru-376-ottubru-2005\/\<num\>	^@http://gozodiocese.org/2011/02/11/hatra-ta-amministratur-ghall-knisja-ta-san-gakbu/<num>$
-      1 \@http:\/\/gozodiocese.org\/2005\/09\/28\/cirkulari-nru-4472005-28-ta\<num\>	^@http://gozodiocese.org/2011/02/10/link-permanenti-bejn-ghawdex-u-malta/<num>$
-      1 \@http:\/\/gozodiocese.org\/2005\/07\/18\/cirkulari-4462005-18-ta\<num\>	^@http://gozodiocese.org/2011/01/25/nindukraw-l-ekologija-medjatika/<num>$
-      1 \@http:\/\/gozodiocese.org\/2005\/06\/22\/cirkulari-4452005-22-ta-gunju-2005\/\<num\>	^@http://gozodiocese.org/2011/01/17/il-bikja-tat-tarbija-ta<num>$
-      1 \@http:\/\/gozodiocese.org\/2005\/06\/02\/ad-clerum-nru-372-gunju-2005\/\<num\>	^@http://gozodiocese.org/2010/12/09/solennita-tal-immakulata-kuncizzjoni-ittra-cirkulari-tal-et-mons-mario-grech-isqof-ta-ghawdex/<num>$
-      1 \@http:\/\/gozodiocese.org\/2005\/05\/01\/ad-clerum-nru-371-mejju-2005\/\<num\>	^@http://gozodiocese.org/2010/11/27/pastorali-tal-isqfijiet-avvent-2010-il-presepju-fil-familji-taghna/<num>$
-      1 \@http:\/\/gozodiocese.org\/2005\/04\/03\/cirkulari-4442005-3-t\<num\>	^@http://gozodiocese.org/2010/10/30/ghal-ordni-socjali-ahjar-omelija-ta<num>$
-      1 \@http:\/\/gozodiocese.org\/2005\/04\/01\/ad-clerum-nru-370-april-2005\/\<num\>	^@http://gozodiocese.org/2010/10/23/il-familja-u-l-hajja-umana/<num>$
-      1 \@http:\/\/gozodiocese.org\/2005\/03\/18\/cirkulari-4442005-18-ta-marzu-2005\/\<num\>	^@http://gozodiocese.org/2010/10/16/nota-pastorali-mill-et-mons-pawl-cremona-op-arcisqof-ta<num>$
-      1 \@http:\/\/gozodiocese.org\/2005\/01\/22\/cirkulari-4422005-22-ta-jannar-2005\/\<num\>	^@http://gozodiocese.org/2010/09/27/bzonn-ta<num>$
-      1 \@http:\/\/gozodiocese.org\/2005\/01\/01\/ad-clerum-nru-367-jannar-2005\/\<num\>	^@http://gozodiocese.org/2010/09/09/marija-sinjal-ta<num>$
-      1 \@http:\/\/gozodiocese.org\/2004\/12\/01\/ad-clerum-nru-366-dicembru-2004\/\<num\>	^@http://gozodiocese.org/2010/08/07/socjeta-fejn-tghammar-is-solidarjeta-ittra-pastorali-tal-et-mons-mario-grech-isqof-ta<num>$
-      1 \@http:\/\/gozodiocese.org\/2004\/11\/01\/ad-clerum-nru-365-novembru-2004\/\<num\>	^@http://gozodiocese.org/2010/07/05/il-familja-benniena-tal-vokazzjoni/<num>$
-      1 \@http:\/\/gozodiocese.org\/2004\/03\/02\/cirkulari-4312004-2-ta\<num\>	^@http://gozodiocese.org/2010/07/01/ilhna-li-jaghtu-direzzjoni/<num>$
-      1 \@http:\/\/gozodiocese.org\/2003\/09\/01\/ad-clerum-nru-351-settembru-2003\/\<num\>	^@http://gozodiocese.org/2010/06/25/garar-vojta/<num>$
-      1 \@http:\/\/gozodiocese.org\/2003\/07\/15\/cirkulari-4252003-15-ta\<num\>	^@http://gozodiocese.org/2010/06/21/il-mejda-ewkaristika-hi-laqgha-ta<num>$
-      1 \@http:\/\/gozodiocese.org\/2003\/07\/01\/ad-clerum-nru-349-lulju-2003\/\<num\>	^@http://gozodiocese.org/2010/06/11/ghal-tqarbin-sewwa-omelija-ta<num>$
-      1 \@http:\/\/gozodiocese.org\/2003\/06\/01\/ad-clerum-nru-348-gunju-2003\/\<num\>	^@http://gozodiocese.org/2010/05/24/is-sagramenti-taz-zwieg-u-l-ewkaristija-stqarrija-tal-konferenza-episkopali/<num>$
-      1 \@http:\/\/europeangreens.eu\/petition\<num\>	^@http://gozodiocese.org/2010/05/19/il-mara-edukatrici-tal-qalb-u-tal-ispirtu/<num>$
-      1 \@http:\/\/europa.eu.int\/comm\/education\/policies\/lang\/languages\/langmin\/euromosaic\/index_en.html\<num\>	^@http://gozodiocese.org/2010/05/17/il-hsieb-wara-l-azzjoni-dwar-iz-zwieg-diskors-ta<num>$
-      1 \@http:\/\/en.wikipedia.org\/wiki\/reginald_dyer\<num\>	^@http://gozodiocese.org/2010/05/08/sfruttament-fuq-ix-xoghol-omelija-ta<num>$
-      1 \@http:\/\/en.wikipedia.org\/wiki\/pelargonium\<num\>	^@http://gozodiocese.org/2010/05/08/it-titjib-fl-ekonomija-jitlob-aktar-azzjoni-kuxjenzjuza-omelija-ta-mons-isqof-mario-grech-fi-tmiem-is-seminar-new-emgerging-risk-work-related-stress/<num>$
-      1 \@http:\/\/en.wikipedia.org\/wiki\/moonbounce\<num\>	^@http://gozodiocese.org/2010/03/24/ic-celibat-sacerdotali-fil-knisja-kattolika-omelija-ta<num>$
-      1 \@http:\/\/en.wikipedia.org\/wiki\/mark_a._sammut\<num\>	^@http://gozodiocese.org/2010/03/09/ghal-zvilupp-ekonomiku-u-socjali-t<num>$
-      1 \@http:\/\/en.wikipedia.org\/wiki\/linguistic_issues_concerning_the_euro\<num\>	^@http://gozodiocese.org/2010/03/09/alla-jeduka-l-bniedem-permezz-tal-kelma-tieghu-omelija-ta<num>$
-      1 \@http:\/\/en.wikipedia.org\/wiki\/in_god_we_trust\<num\>	^@http://gozodiocese.org/2009/11/27/pastoral-letter-for-advent-2010-the-significance-of-the-crib-in-ou<num>$
-      1 \@http:\/\/durabond.ca\/gdouridas\/poetry\<num\>	^@http://gozodiocese.org/2009/04/06/messagg-ta<num>$
-      1 \@http:\/\/delittimhuxsolvuti.wordpress.com\<num\>	^@http://gozodiocese.org/2009/04/06/it-triq-tas-salib-illum-messagg-ta<num>$
-      1 \@http:\/\/darwin-online.org.uk\/content\/frameset?itemid=f14\<num\>	^@http://gozodiocese.org/2008/01/15/pastoralirandan2008/<num>$
-      1 \@http:\/\/darwin-online.org.uk\/content\/frameset?itemid=f10.2\<num\>	^@http://gozodiocese.org/2008/01/06/cirkulari-4412005-6-ta-jannar-2005/<num>$
-      1 \@http:\/\/darwin-online.org.uk\/content\/frameset?itemid=f10.1\<num\>	^@http://gozodiocese.org/2007/10/06/nitlaqkom-fidejn-alla-u-l-kelma-tieghu-dar-manresa-3-u-6-ta-ottubru-2007/<num>$
-      1 \@http:\/\/cialisiall.pun.pl\/\<num\>	^@http://gozodiocese.org/2007/10/06/nitlaqkom-fidejn-alla-u-l-kelma-tieghu-dar-manresa-3-u-6-ta-ottubr<num>$
-      1 \@http:\/\/cialisantr.pun.pl\/\<num\>	^@http://gozodiocese.org/2007/08/19/nghozzu-l-komunjoni-fil-knisja-knisja-zebbug-19-ta-awissu-2007/<num>$
-      1 \@http:\/\/charlescasha.wordpress.com\<num\>	^@http://gozodiocese.org/2007/08/15/alla-jehlisna-mit-tahsir-katidral-ghawdex-15-ta<num>$
-      1 \@http:\/\/bulls.totalbmw.net\/bulls\/index.php\<num\>	^@http://gozodiocese.org/2007/06/29/civilta-li-tixraq-lid-dinjita-tal-bniedem-omelija-ta<num>$
-      1 \@http:\/\/blogs.ec.europa.eu\/malta-mt\/in-nies-u-t-thassib-taghhom\/\<num\>	^@http://gozodiocese.org/2007/06/05/dun-gorg-u-l-kelma-li-tghammar-fostna-omelija-fiz-zjara-tar-relikwa-ta<num>$
-      1 \@http:\/\/blogdelio.wordpress.com\<num\>	^@http://gozodiocese.org/2007/05/08/dun-gorg-preca-xandar-tad-duttrina-tajba-omelija-fil-pellegrinagg-djocesan-fuq-il-qabar-tal-beatu-gorg-preca-il-kappella-tal-midalja-mirakuluza-il-blata-l-bajda-8-ta<num>$
-      1 \@http:\/\/blog.bakililar.az\/videosealton7\/\<num\>	^@http://gozodiocese.org/2007/04/10/socjeta-tal-museum-xhud-ta-kristu-rxoxt-omelija-fit-tifkira-ta-gheluq-il-mitt-sena-mill-bidu-tal-museumsantwarju-ta-pinu-10-ta-april-2007/<num>$
-      1 \@http:\/\/antoinecassar.info\/\<num\>	^@http://gozodiocese.org/2007/04/05/gesu-qaddej-omelija-ta<num>$
-      1 \@http:\/\/antivirus2009professional.com\<num\>	^@http://gozodiocese.org/2007/03/26/id-dimensjoni-marjana-tas-sacerdot-knisja-gharb-26-ta<num>$
-      1 \@http:\/\/alvarogomezcastro.over-blog.es\<num\>	^@http://gozodiocese.org/2007/03/06/xi-jfisser-l-rtk-ghall-knisja-taghna-diskors-fl-okkazjoni-tal-15-il-anniversarju-mill-ftuh-ta<num>$
-      1 \@http:\/\/ahbarijiet.wordpress.com\<num\>	^@http://gozodiocese.org/2007/01/22/il-ministeru-sacerdotali-knisja-tar-raghaj-it-tajjeb-victoria-22-ta<num>$
-      1 *htm	^@http://gozodiocese.org/2007/01/06/l-isqof-kollaboratur-tal-ferh-taghkom-diskors-waqt-il-laqgha-ta-awguri-ghas-sacerdoti-seminarju-6-ta-jannar-2007/<num>$
-      1 *Ħtijietu	^@http://gozodiocese.org/2006/03/03/ir-randan-zmien-biex-nersqu-ghand-alla-ghajnsielem-3-ta<num>$
-      1 *Ħtijieti	^@http://gozodiocese.org/2006/02/10/inwarrbu-pizijiet-zejda-li-qed-itaqqlu-s-socjeta-il-knisja-u-l-familja-knisja-munxar-10-ta<num>$
-      1 *htijieti	^@http://gozodiocese.org/2005/10/26/cirkulari-nru-4482005-26-ta<num>$
-      1 *ħtijietha	^@http://gozodiocese.org/2005/10/01/ad-clerum-nru-376-ottubru-2005/<num>$
-      1 *ĦTIJIET	^@http://gozodiocese.org/2005/09/28/cirkulari-nru-4472005-28-ta<num>$
-      1 *ħtiġlu	^@http://gozodiocese.org/2005/07/18/cirkulari-4462005-18-ta<num>$
-      1 *ħtiġjiet	^@http://gozodiocese.org/2005/06/22/cirkulari-4452005-22-ta-gunju-2005/<num>$
-      1 *htigjiet	^@http://gozodiocese.org/2005/06/02/ad-clerum-nru-372-gunju-2005/<num>$
-      1 *htigilha	^@http://gozodiocese.org/2005/05/01/ad-clerum-nru-371-mejju-2005/<num>$
-      1 *ħtigijiethom	^@http://gozodiocese.org/2005/04/03/cirkulari-4442005-3-t<num>$
-      1 *ħtiġiethom	^@http://gozodiocese.org/2005/04/01/ad-clerum-nru-370-april-2005/<num>$
-      1 *ħtiġielhom	^@http://gozodiocese.org/2005/03/18/cirkulari-4442005-18-ta-marzu-2005/<num>$
-      1 *htienu	^@http://gozodiocese.org/2005/01/22/cirkulari-4422005-22-ta-jannar-2005/<num>$
-      1 *htiejiet	^@http://gozodiocese.org/2005/01/01/ad-clerum-nru-367-jannar-2005/<num>$
-      1 *htiegijiet	^@http://gozodiocese.org/2004/12/01/ad-clerum-nru-366-dicembru-2004/<num>$
-      1 *ħtieġet	^@http://gozodiocese.org/2004/11/01/ad-clerum-nru-365-novembru-2004/<num>$
-      1 *htieġa	^@http://gozodiocese.org/2004/03/02/cirkulari-4312004-2-ta<num>$
-      1 *htieg	^@http://gozodiocese.org/2003/09/01/ad-clerum-nru-351-settembru-2003/<num>$
-      1 *ħtie	^@http://gozodiocese.org/2003/07/15/cirkulari-4252003-15-ta<num>$
-      1 *ħtew	^@http://gozodiocese.org/2003/07/01/ad-clerum-nru-349-lulju-2003/<num>$
-      1 *ħtejt	^@http://gozodiocese.org/2003/06/01/ad-clerum-nru-348-gunju-2003/<num>$
-      1 *htegilna	^@http://europeangreens.eu/petition<num>$
-      1 *ħteġa	^@http://europa.eu.int/comm/education/policies/lang/languages/langmin/euromosaic/index_en.html<num>$
-      1 *ħtartkom	^@http://en.wikipedia.org/wiki/reginald_dyer<num>$
-      1 *Ħtart	^@http://en.wikipedia.org/wiki/pelargonium<num>$
-      1 *Htarnihom	^@http://en.wikipedia.org/wiki/moonbounce<num>$
-      1 *ħtaftilhom	^@http://en.wikipedia.org/wiki/mark_a._sammut<num>$
-      1 *ħtafnihiex	^@http://en.wikipedia.org/wiki/linguistic_issues_concerning_the_euro<num>$
-      1 *hta	^@http://en.wikipedia.org/wiki/in_god_we_trust<num>$
-      1 *HSV	^@http://durabond.ca/gdouridas/poetry<num>$
-      1 *HSM	^@http://delittimhuxsolvuti.wordpress.com<num>$
-      1 *ħsiltilkom	^@http://darwin-online.org.uk/content/frameset?itemid=f14<num>$
-      1 *Ħsiltek	^@http://darwin-online.org.uk/content/frameset?itemid=f10.2<num>$
-      1 *hsilt	^@http://darwin-online.org.uk/content/frameset?itemid=f10.1<num>$
-      1 *hsiebuww	^@http://cialisiall.pun.pl/<num>$
-      1 \@ĦSIEB\<n\>\<m\>\<sg\>	^@http://cialisantr.pun.pl/<num>$
-      1 \@Ħsieb\<n\>\<m\>\<pl\>\<px3sg_m\>	^@http://charlescasha.wordpress.com<num>$
-      1 \@ĦSIEB\<n\>\<m\>\<pl\>	^@http://bulls.totalbmw.net/bulls/index.php<num>$
-      1 *ħsiebhhom	^@http://blogs.ec.europa.eu/malta-mt/in-nies-u-t-thassib-taghhom/<num>$
-      1 *ħsieba	^@http://blogdelio.wordpress.com<num>$
-      1 *ħsie	^@http://blog.bakililar.az/videosealton7/<num>$
-      1 *ħsibu	^@http://antoinecassar.info/<num>$
-      1 *Hsibtuni	^@http://antivirus2009professional.com<num>$
-      1 *ħsibtuha	^@http://alvarogomezcastro.over-blog.es<num>$
-      1 *hsibtuha	^@http://ahbarijiet.wordpress.com<num>$
-      1 \@en.wikipedia.org\/\<num\>	^*EPIGRAMM$
-      1 *Enticements	^@en.wikipedia.org/<num>$
+      1 \@irn.org\/programs\/greenhouse\/index.asp?id\<num\>	^@irn.org/programs/greenhouse/index.asp?id<num>$
+      1 \@http:\/\/www.zurrieq.gov.mt\/\<num\>	^@http://www.zurrieq.gov.mt/<num>$
+      1 \@http:\/\/www.wwrf.org\/\<num\>	^@http://www.wwrf.org/<num>$
+      1 \@http:\/\/www.wri.org\/\<num\>	^@http://www.wri.org/<num>$
+      1 \@http:\/\/www.window-air-conditioner.info\/airlinecheapflyreallyticket.html\<num\>	^@http://www.window-air-conditioner.info/airlinecheapflyreallyticket.html<num>$
+      1 \@http:\/\/www.wikiversity.org\/\<num\>	^@http://www.wikiversity.org/<num>$
+      1 \@http:\/\/www.who.int\<num\>	^@http://www.who.int<num>$
+      1 \@http:\/\/www.who.int\/mediacentre\/factsheets\/fs104\/en\<num\>	^@http://www.who.int/mediacentre/factsheets/fs104/en<num>$
+      1 \@http:\/\/www.wga.hu\/frames-e.html?\/html\/l\/le_sueur\/muses2.html\<num\>	^@http://www.wga.hu/frames-e.html?/html/l/le_sueur/muses2.html<num>$
+      1 \@http:\/\/www.webcams5.info\/lick_anal.html\<num\>	^@http://www.webcams5.info/lick_anal.html<num>$
+      1 \@http:\/\/www.wateryear2003.org\/\<num\>	^@http://www.wateryear2003.org/<num>$
+      1 \@http:\/\/www.wasser2003bildung.ch\/\<num\>	^@http://www.wasser2003bildung.ch/<num>$
+      1 \@http:\/\/www.w3.org\/history\/19921103-hypertext\/hypertext\/www\/theproject.html\<num\>	^@http://www.w3.org/history/19921103-hypertext/hypertext/www/theproject.html<num>$
+      1 \@http:\/\/www.vroma.org\/images\/mcmanus_images\/mask1c.gif\<num\>	^@http://www.vroma.org/images/mcmanus_images/mask1c.gif<num>$
+      1 \@http:\/\/www.visitljubljana.si\/en\/\<num\>	^@http://www.visitljubljana.si/en/<num>$
+      1 \@http:\/\/www.ville-saintdie.fr\<num\>	^@http://www.ville-saintdie.fr<num>$
+      1 \@http:\/\/www.vatican.va\/holy_father\/benedict_xvi\/\<num\>	^@http://www.vatican.va/holy_father/benedict_xvi/<num>$
+      1 \@http:\/\/www.uoc.edu\/euromosaic\/web\/document\/grec\/an\/i1\/i1.html\<num\>	^@http://www.uoc.edu/euromosaic/web/document/grec/an/i1/i1.html<num>$
+      1 \@http:\/\/www.uniejow.pl\<num\>	^@http://www.uniejow.pl<num>$
+      1 \@http:\/\/www.um.olsztyn.pl\<num\>	^@http://www.um.olsztyn.pl<num>$
+      1 \@http:\/\/www.um.katowice.pl\<num\>	^@http://www.um.katowice.pl<num>$
+      1 \@http:\/\/www.uetersen.de\<num\>	^@http://www.uetersen.de<num>$
+      1 \@http:\/\/www.typepad.com\<num\>	^@http://www.typepad.com<num>$
+      1 \@http:\/\/www.tm-xml.org\<num\>	^@http://www.tm-xml.org<num>$
+      1 \@http:\/\/www.timesonline.co.uk\/article\/0,,27-958357_1,00.html\<num\>	^@http://www.timesonline.co.uk/article/0,,27-958357_1,00.html<num>$
+      1 \@http:\/\/www.tierramerica.net\/\<num\>	^@http://www.tierramerica.net/<num>$
+      1 \@http:\/\/www.thesun.co.uk\/sol\/homepage\/news\/article1206541.ece\<num\>	^@http://www.thesun.co.uk/sol/homepage/news/article1206541.ece<num>$
+      1 \@http:\/\/www.tenuate-on-line.info\/zithromax.html\<num\>	^@http://www.tenuate-on-line.info/zithromax.html<num>$
+      1 \@http:\/\/www.tenuate-online-4.info\/90-pills-of-xenical.html\<num\>	^@http://www.tenuate-online-4.info/90-pills-of-xenical.html<num>$
+      1 \@http:\/\/www.tellusfolio.it\/index.php?prec=\/index.php&cmd=v&id=12077\<num\>	^@http://www.tellusfolio.it/index.php?prec=/index.php&cmd=v&id=12077<num>$
+      1 \@http:\/\/www.tellusfolio.it\/index.php?prec=\/index.php&cmd=v&id=11817\<num\>	^@http://www.tellusfolio.it/index.php?prec=/index.php&cmd=v&id=11817<num>$
+      1 \@http:\/\/www.telegraph.co.uk\/travel\/destinations\/\<num\>	^@http://www.telegraph.co.uk/travel/destinations/<num>$
+      1 \@http:\/\/www.telefonoarcobaleno.org\/it\/indexr.htm\<num\>	^@http://www.telefonoarcobaleno.org/it/indexr.htm<num>$
+      1 \@http:\/\/www.tecmalta.org\/art11.htm\<num\>	^@http://www.tecmalta.org/art11.htm<num>$
+      1 \@http:\/\/www.szczecin.pl\/\<num\>	^@http://www.szczecin.pl/<num>$
+      1 \@http:\/\/www.swisscoalition.ch\/english\/pagesnav\/h\<num\>	^@http://www.swisscoalition.ch/english/pagesnav/h<num>$
+      1 \@http:\/\/www.swinoujscie.pl\/\<num\>	^@http://www.swinoujscie.pl/<num>$
+      1 \@http:\/\/www.streetfootballworld.org\/index_html\/en\<num\>	^@http://www.streetfootballworld.org/index_html/en<num>$
+      1 \@http:\/\/www.stoptb.org\<num\>	^@http://www.stoptb.org<num>$
+      1 \@http:\/\/www.stgeorge.org.mt\/news_details.aspx?newsid=1139\<num\>	^@http://www.stgeorge.org.mt/news_details.aspx?newsid=1139<num>$
+      1 \@http:\/\/www.softech.cz\/saimon\/\<num\>	^@http://www.softech.cz/saimon/<num>$
+      1 \@http:\/\/www.soccernews.nl\/news\/42977\<num\>	^@http://www.soccernews.nl/news/42977<num>$
+      1 \@http:\/\/www.side-effects-of-zyrtec.info\/patanol_canadian.html\<num\>	^@http://www.side-effects-of-zyrtec.info/patanol_canadian.html<num>$
+      1 \@http:\/\/www.sdcprecaoz.org\<num\>	^@http://www.sdcprecaoz.org<num>$
+      1 \@http:\/\/www.sdcmuseum.org\/page.aspx?pv=eebvtakpv5a=\<num\>	^@http://www.sdcmuseum.org/page.aspx?pv=eebvtakpv5a=<num>$
+      1 \@http:\/\/www.sdcmuseum.org\/page.aspx?pv=27iwn8di0ji=\<num\>	^@http://www.sdcmuseum.org/page.aspx?pv=27iwn8di0ji=<num>$
+      1 \@http:\/\/www.sdcmuseum.org\<num\>	^@http://www.sdcmuseum.org<num>$
+      1 \@http:\/\/www.saks-vicki-soble-sweater.info\/swap-magic-3-memory-card-exploit.html\<num\>	^@http://www.saks-vicki-soble-sweater.info/swap-magic-3-memory-card-exploit.html<num>$
+      1 \@http:\/\/www.rolac.unep.mx\/geo\/\<num\>	^@http://www.rolac.unep.mx/geo/<num>$
+      1 \@http:\/\/www.responsiblemining.net\<num\>	^@http://www.responsiblemining.net<num>$
+      1 \@http:\/\/www.publishwhatyoupay.org\/\<num\>	^@http://www.publishwhatyoupay.org/<num>$
+      1 \@http:\/\/www.polarisinstitute.org\/\<num\>	^@http://www.polarisinstitute.org/<num>$
+      1 \@http:\/\/www.physics.hku.hk\/\<num\>	^@http://www.physics.hku.hk/<num>$
+      1 \@http:\/\/www.pem.gr\/\<num\>	^@http://www.pem.gr/<num>$
+      1 \@http:\/\/www.parliament.uk\/commons\/lib\/research\/notes\/snpc-04474.pdf\<num\>	^@http://www.parliament.uk/commons/lib/research/notes/snpc-04474.pdf<num>$
+      1 \@http:\/\/www.osasco.sp.gov.br\<num\>	^@http://www.osasco.sp.gov.br<num>$
+      1 \@http:\/\/www.ofm-jpic.org\/ecology\/\<num\>	^@http://www.ofm-jpic.org/ecology/<num>$
+      1 \@http:\/\/www.oecd.org\/dataoecd\/42\/8\/39700724.pdf\<num\>	^@http://www.oecd.org/dataoecd/42/8/39700724.pdf<num>$
+      1 \@http:\/\/www.nso.gov.mt\/statdoc\/document_file.aspx?id=2414\<num\>	^@http://www.nso.gov.mt/statdoc/document_file.aspx?id=2414<num>$
+      1 \@http:\/\/www.northantset.co.uk\/news\/dad39s-malta-dash-to-save.5437991.jp\<num\>	^@http://www.northantset.co.uk/news/dad39s-malta-dash-to-save.5437991.jp<num>$
+      1 \@http:\/\/www.netzwerk-afrikadeutschland.de\/\<num\>	^@http://www.netzwerk-afrikadeutschland.de/<num>$
+      1 \@http:\/\/www.nccbuscc.org\<num\>	^@http://www.nccbuscc.org<num>$
+      1 \@http:\/\/www.musicologie.org\/theses\/vie_de_beethoven.html\<num\>	^@http://www.musicologie.org/theses/vie_de_beethoven.html<num>$
+      1 \@http:\/\/www.munxar.org\/?news=330&section=topnews&type=news\<num\>	^@http://www.munxar.org/?news=330&section=topnews&type=news<num>$
+      1 \@http:\/\/www.msf.org\/source\/countries\/europe\<num\>	^@http://www.msf.org/source/countries/europe<num>$
+      1 \@http:\/\/www.mrra.gov.mt\/faq.asp\<num\>	^@http://www.mrra.gov.mt/faq.asp<num>$
+      1 \@http:\/\/www.mpipks-dresden.mpg.de\/\<num\>	^@http://www.mpipks-dresden.mpg.de/<num>$
+      1 \@http:\/\/www.montehermoso.org\/\<num\>	^@http://www.montehermoso.org/<num>$
+      1 \@http:\/\/www.millenniumchapel.org\<num\>	^@http://www.millenniumchapel.org<num>$
+      1 \@http:\/\/www.miedzyrzec.pl\<num\>	^@http://www.miedzyrzec.pl<num>$
+      1 \@http:\/\/www.mfaint.demon.co.uk\/cactus\/turbo\/index.html\<num\>	^@http://www.mfaint.demon.co.uk/cactus/turbo/index.html<num>$
+      1 \@http:\/\/www.merlinlibrary.com\<num\>	^@http://www.merlinlibrary.com<num>$
+      1 \@http:\/\/www.mellieha.gov.mt\<num\>	^@http://www.mellieha.gov.mt<num>$
+      1 \@http:\/\/www.mediterranee-antique.info\/moyen_orient\/graetz\/hj_411.htm\<num\>	^@http://www.mediterranee-antique.info/moyen_orient/graetz/hj_411.htm<num>$
+      1 \@http:\/\/www.maltamedia.net\/wt\/\<num\>	^@http://www.maltamedia.net/wt/<num>$
+      1 \@http:\/\/www.maltamedia.net\/podcasts\/\<num\>	^@http://www.maltamedia.net/podcasts/<num>$
+      1 \@http:\/\/www.maltamedia.net\<num\>	^@http://www.maltamedia.net<num>$
+      1 \@http:\/\/www.maltagayrights.net\<num\>	^@http://www.maltagayrights.net<num>$
+      1 \@http:\/\/www.maltafly.com\<num\>	^@http://www.maltafly.com<num>$
+      1 \@http:\/\/www.maltadiocese.org\/parishes?l=1\<num\>	^@http://www.maltadiocese.org/parishes?l=1<num>$
+      1 \@http:\/\/www.maltadiocese.org\/home\<num\>	^@http://www.maltadiocese.org/home<num>$
+      1 \@http:\/\/www.lrsdc.ie\/home\/default.asp\<num\>	^@http://www.lrsdc.ie/home/default.asp<num>$
+      1 \@http:\/\/www.lostinthought.ws\/blog\/2005\/06\/carnival-in-june.html\<num\>	^@http://www.lostinthought.ws/blog/2005/06/carnival-in-june.html<num>$
+      1 \@http:\/\/www.lo\<num\>	^@http://www.lo<num>$
+      1 \@http:\/\/www.l-ikel.org\<num\>	^@http://www.l-ikel.org<num>$
+      1 \@http:\/\/www.lifeshearwaterproject.org.mt\/en\/rdumtalmadonna\/\<num\>	^@http://www.lifeshearwaterproject.org.mt/en/rdumtalmadonna/<num>$
+      1 \@http:\/\/www.license-plate-frames.info\/licenseplatepictureframes.html\<num\>	^@http://www.license-plate-frames.info/licenseplatepictureframes.html<num>$
+      1 \@http:\/\/www.lemonde.fr\/web\/article\/0,1-0\<num\>	^@http://www.lemonde.fr/web/article/0,1-0<num>$
+      1 \@http:\/\/www.latinafree.info\/maine_adult_video_stores.html\<num\>	^@http://www.latinafree.info/maine_adult_video_stores.html<num>$
+      1 \@http:\/\/www.l-arka.org\<num\>	^@http://www.l-arka.org<num>$
+      1 \@http:\/\/www.kunsilltalmalti.gov.mt\/filebank\/documents\/rapportdwarlismijiettalmunitaewropea.pdf\<num\>	^@http://www.kunsilltalmalti.gov.mt/filebank/documents/rapportdwarlismijiettalmunitaewropea.pdf<num>$
+      1 \@http:\/\/www.krakow.pl\<num\>	^@http://www.krakow.pl<num>$
+      1 \@http:\/\/www.knowledgebank.irri.org\/ipm\/appecology\/appecology.htm\<num\>	^@http://www.knowledgebank.irri.org/ipm/appecology/appecology.htm<num>$
+      1 \@http:\/\/www.karmelitanimalta.org\/\<num\>	^@http://www.karmelitanimalta.org/<num>$
+      1 \@http:\/\/www.karmelitanimalta.org\<num\>	^@http://www.karmelitanimalta.org<num>$
+      1 \@http:\/\/www.jeepcherokee0.info\/1gig-compactflash.html\<num\>	^@http://www.jeepcherokee0.info/1gig-compactflash.html<num>$
+      1 \@http:\/\/www.jazzitalia.net\/visevento.asp?id=11419\<num\>	^@http://www.jazzitalia.net/visevento.asp?id=11419<num>$
+      1 \@http:\/\/www.iom.int\/jahia\/jsp\/index.jsp\<num\>	^@http://www.iom.int/jahia/jsp/index.jsp<num>$
+      1 \@http:\/\/www.internoto.de\/index.htm\<num\>	^@http://www.internoto.de/index.htm<num>$
+      1 \@http:\/\/www.ifpri.org\/\<num\>	^@http://www.ifpri.org/<num>$
+      1 \@http:\/\/www.icij.org\/water\/\<num\>	^@http://www.icij.org/water/<num>$
+      1 \@http:\/\/www.hgh-weight-loss.info\/how-to-determine-percent-body-fat.html\<num\>	^@http://www.hgh-weight-loss.info/how-to-determine-percent-body-fat.html<num>$
+      1 \@http:\/\/www.heritagemalta.org\/icmch\<num\>	^@http://www.heritagemalta.org/icmch<num>$
+      1 \@http:\/\/www.helsinki.fi\/\<num\>	^@http://www.helsinki.fi/<num>$
+      1 \@http:\/\/www.harpers.org\/archive\/2007\/04\/0081476\<num\>	^@http://www.harpers.org/archive/2007/04/0081476<num>$
+      1 \@http:\/\/www.gwu.org.mt\/intern-int_affiliations.html\<num\>	^@http://www.gwu.org.mt/intern-int_affiliations.html<num>$
+      1 \@http:\/\/www.gwu.org.mt\/intern-eur_affiliations.html\<num\>	^@http://www.gwu.org.mt/intern-eur_affiliations.html<num>$
+      1 \@http:\/\/www.guardian.co.uk\/climatechange\/story\/0,12374,1026312,00.html\<num\>	^@http://www.guardian.co.uk/climatechange/story/0,12374,1026312,00.html<num>$
+      1 \@http:\/\/www.graphuglia.it\/\<num\>	^@http://www.graphuglia.it/<num>$
+      1 \@http:\/\/www.gold.org\/\<num\>	^@http://www.gold.org/<num>$
+      1 \@http:\/\/www.goldenknightmalta.org\<num\>	^@http://www.goldenknightmalta.org<num>$
+      1 \@http:\/\/www.giosef.it\<num\>	^@http://www.giosef.it<num>$
+      1 \@http:\/\/www.gemeinde.bozen.it\<num\>	^@http://www.gemeinde.bozen.it<num>$
+      1 \@http:\/\/www.gdansk.pl\<num\>	^@http://www.gdansk.pl<num>$
+      1 \@http:\/\/www.gardjola.org\/\<num\>	^@http://www.gardjola.org/<num>$
+      1 \@http:\/\/www.gambling-affiliate-program.info\/best-casino-affiliate-programs.html\<num\>	^@http://www.gambling-affiliate-program.info/best-casino-affiliate-programs.html<num>$
+      1 \@http:\/\/www.g8.fr\/evian\/english\/navigation\/2003_g8_\<num\>	^@http://www.g8.fr/evian/english/navigation/2003_g8_<num>$
+      1 \@http:\/\/www.free-ringtones-panasonic-x70.info\<num\>	^@http://www.free-ringtones-panasonic-x70.info<num>$
+      1 \@http:\/\/www.fairtrade.net\/setting_the_standards.html\<num\>	^@http://www.fairtrade.net/setting_the_standards.html<num>$
+      1 \@http:\/\/www.exploratorium.edu\/sunspots\/\<num\>	^@http://www.exploratorium.edu/sunspots/<num>$
+      1 \@http:\/\/www.esi.ac.at\<num\>	^@http://www.esi.ac.at<num>$
+      1 \@http:\/\/www.eschweiler.de\<num\>	^@http://www.eschweiler.de<num>$
+      1 \@http:\/\/www.environnement.gouv.fr\/\<num\>	^@http://www.environnement.gouv.fr/<num>$
+      1 \@http:\/\/www.elpais.es\/vineta.html?d_date=2\<num\>	^@http://www.elpais.es/vineta.html?d_date=2<num>$
+      1 \@http:\/\/www.education.gov.mt\/artsfund.htm\<num\>	^@http://www.education.gov.mt/artsfund.htm<num>$
+      1 \@http:\/\/www.ecoportal.net\/temas\/\<num\>	^@http://www.ecoportal.net/temas/<num>$
+      1 \@http:\/\/www.ecologistasenaccion.org\/accion\/agua\/\<num\>	^@http://www.ecologistasenaccion.org/accion/agua/<num>$
+      1 \@http:\/\/www.ecma-international.org\/publications\/standards\/ecma-335.htm\<num\>	^@http://www.ecma-international.org/publications/standards/ecma-335.htm<num>$
+      1 \@http:\/\/www.ecma-international.org\/publications\/standards\/ecma-334.htm\<num\>	^@http://www.ecma-international.org/publications/standards/ecma-334.htm<num>$
+      1 \@http:\/\/www.earthdancecapetown.co.za\<num\>	^@http://www.earthdancecapetown.co.za<num>$
+      1 \@http:\/\/www.drawingboard.org\/blogs\/?u=videosea\<num\>	^@http://www.drawingboard.org/blogs/?u=videosea<num>$
+      1 \@http:\/\/www.drawingboard.org\/blogs\/?u=videosealban3\<num\>	^@http://www.drawingboard.org/blogs/?u=videosealban3<num>$
+      1 \@http:\/\/www.doi.gov.mt\/en\/press_releases\/2009\/05\/pr0862.asp\<num\>	^@http://www.doi.gov.mt/en/press_releases/2009/05/pr0862.asp<num>$
+      1 \@http:\/\/www.diocesi.milano.it\<num\>	^@http://www.diocesi.milano.it<num>$
+      1 \@http:\/\/www.data-recovery-60.info\/hp-xl-756-recovery-disk.html\<num\>	^@http://www.data-recovery-60.info/hp-xl-756-recovery-disk.html<num>$
+      1 \@http:\/\/www.darwinproject.ac.uk\/darwinletters\/calendar\/entry-1684.html\<num\>	^@http://www.darwinproject.ac.uk/darwinletters/calendar/entry-1684.html<num>$
+      1 \@http:\/\/www.custom-web-design-9.info\/moving-company-san-antonio.html\<num\>	^@http://www.custom-web-design-9.info/moving-company-san-antonio.html<num>$
+      1 \@http:\/\/www.curitiba.pr.gov.br\<num\>	^@http://www.curitiba.pr.gov.br<num>$
+      1 \@http:\/\/www.cs.fsu.edu\/\<num\>	^@http://www.cs.fsu.edu/<num>$
+      1 \@http:\/\/www.csc.um.edu.mt\/other\/maltese.pdf\<num\>	^@http://www.csc.um.edu.mt/other/maltese.pdf<num>$
+      1 \@http:\/\/www.communitymining.org\<num\>	^@http://www.communitymining.org<num>$
+      1 \@http:\/\/www.collins-gem.co.uk\<num\>	^@http://www.collins-gem.co.uk<num>$
+      1 \@http:\/\/www.coldwell-banker-larson-realty.info\/volvo-part-9151490.html\<num\>	^@http://www.coldwell-banker-larson-realty.info/volvo-part-9151490.html<num>$
+      1 \@http:\/\/www.cipsi.it\/\<num\>	^@http://www.cipsi.it/<num>$
+      1 \@http:\/\/www.ci\<num\>	^@http://www.ci<num>$
+      1 \@http:\/\/www.cia.gov\/cia\/publications\/factbook\/geos\/sr.html\<num\>	^@http://www.cia.gov/cia/publications/factbook/geos/sr.html<num>$
+      1 \@http:\/\/www.chiesacattolica.it\<num\>	^@http://www.chiesacattolica.it<num>$
+      1 \@http:\/\/www.centrostudibosio.it\/\<num\>	^@http://www.centrostudibosio.it/<num>$
+      1 \@http:\/\/www.centrorelazioniculturali.it\/\<num\>	^@http://www.centrorelazioniculturali.it/<num>$
+      1 \@http:\/\/www.centralbankmalta.org\/site\/currency1.html\<num\>	^@http://www.centralbankmalta.org/site/currency1.html<num>$
+      1 \@http:\/\/www.ccpal.net\/doberman.html\<num\>	^@http://www.ccpal.net/doberman.html<num>$
+      1 \@http:\/\/www.ccel.org\/ccel\/jamieson\/jfb.x.iii.xi.html\<num\>	^@http://www.ccel.org/ccel/jamieson/jfb.x.iii.xi.html<num>$
+      1 \@http:\/\/www.cafod.org.uk\/unearthjustice\<num\>	^@http://www.cafod.org.uk/unearthjustice<num>$
+      1 \@http:\/\/www.caffefandango.net\/\<num\>	^@http://www.caffefandango.net/<num>$
+      1 \@http:\/\/www.bratislava.sk\/\<num\>	^@http://www.bratislava.sk/<num>$
+      1 \@http:\/\/www.bestwaytoquitsmoking7.info\/mercedes-mcnab-nude.html\<num\>	^@http://www.bestwaytoquitsmoking7.info/mercedes-mcnab-nude.html<num>$
+      1 \@http:\/\/www.ba-malta.org\/prdetails?id=124\<num\>	^@http://www.ba-malta.org/prdetails?id=124<num>$
+      1 \@http:\/\/www.balde.net\/formations\/droit.cours\/hist-droit1.3.1.html\<num\>	^@http://www.balde.net/formations/droit.cours/hist-droit1.3.1.html<num>$
+      1 \@http:\/\/www.awningwwwcheappricedawningcom.info\/play_keno_for_fun.html\<num\>	^@http://www.awningwwwcheappricedawningcom.info/play_keno_for_fun.html<num>$
+      1 \@http:\/\/www.atlantic-county-driveway-paving.info\/klonopin-patient-assistance-program.html\<num\>	^@http://www.atlantic-county-driveway-paving.info/klonopin-patient-assistance-program.html<num>$
+      1 \@http:\/\/www.ativan-drip.info\/kingston-1gb-elite-pro-compact-flash.html\<num\>	^@http://www.ativan-drip.info/kingston-1gb-elite-pro-compact-flash.html<num>$
+      1 \@http:\/\/www.assolablib.it\/\<num\>	^@http://www.assolablib.it/<num>$
+      1 \@http:\/\/www.antoinecassar.info\/\<num\>	^@http://www.antoinecassar.info/<num>$
+      1 \@http:\/\/www.amnesty.org\<num\>	^@http://www.amnesty.org<num>$
+      1 \@http:\/\/www.americanheart.org\/presenter.jhtml?identifier=4650\<num\>	^@http://www.americanheart.org/presenter.jhtml?identifier=4650<num>$
+      1 \@http:\/\/www.alternattiva.org.mt\/page.asp?n=newsdetails&i=5108\<num\>	^@http://www.alternattiva.org.mt/page.asp?n=newsdetails&i=5108<num>$
+      1 \@http:\/\/www.almazan.es\<num\>	^@http://www.almazan.es<num>$
+      1 \@http:\/\/www.alfredsant.org\<num\>	^@http://www.alfredsant.org<num>$
+      1 \@http:\/\/www.aefjn.org\/\<num\>	^@http://www.aefjn.org/<num>$
+      1 \@http:\/\/wikisource.org\/w\/index.php?title=main_page\<num\>	^@http://wikisource.org/w/index.php?title=main_page<num>$
+      1 \@http:\/\/wikisource.org\<num\>	^@http://wikisource.org<num>$
+      1 \@http:\/\/wikipedia.org\/\<num\>	^@http://wikipedia.org/<num>$
+      1 \@http:\/\/wikimediafoundation.org\/wiki\/fundraising\<num\>	^@http://wikimediafoundation.org/wiki/fundraising<num>$
+      1 \@http:\/\/viagratetb.pun.pl\/\<num\>	^@http://viagratetb.pun.pl/<num>$
+      1 \@http:\/\/viagrarier.pun.pl\/\<num\>	^@http://viagrarier.pun.pl/<num>$
+      1 \@http:\/\/viagraradj.pun.pl\/\<num\>	^@http://viagraradj.pun.pl/<num>$
+      1 \@http:\/\/um.warszawa.pl\<num\>	^@http://um.warszawa.pl<num>$
+      1 \@http:\/\/tools.wikimedia.de\/\<num\>	^@http://tools.wikimedia.de/<num>$
+      1 \@http:\/\/tonaz.altervista.org\/zidane.html\<num\>	^@http://tonaz.altervista.org/zidane.html<num>$
+      1 \@http:\/\/timesofmalta.com\<num\>	^@http://timesofmalta.com<num>$
+      1 \@http:\/\/thekop.liverpoolfc.tv\/service\/searcheverything.kickaction?as=173471&u=30143390&mediatype=blog&sorttype=recent&tab=yes&includeblog=on&member=blog\<num\>	^@http://thekop.liverpoolfc.tv/service/searcheverything.kickaction?as=173471&u=30143390&mediatype=blog&sorttype=recent&tab=yes&includeblog=on&member=blog<num>$
+      1 \@http:\/\/strixxikli.page.tl\/\<num\>	^@http://strixxikli.page.tl/<num>$
+      1 \@http:\/\/sources.wikipedia.org\<num\>	^@http://sources.wikipedia.org<num>$
+      1 \@https:\/\/opm.gov.mt\/mepa?l=2\<num\>	^@https://opm.gov.mt/mepa?l=2<num>$
+      1 \@http:\/\/songs.6arab.net\/newsong\/lotfi-bouchnak\/lotfi-bouchnak_enti-chamssi.rm\<num\>	^@http://songs.6arab.net/newsong/lotfi-bouchnak/lotfi-bouchnak_enti-chamssi.rm<num>$
+      1 \@http:\/\/ps.wikipedia.org\<num\>	^@http://ps.wikipedia.org<num>$
+      1 \@http:\/\/plato.acadiau.ca\/courses\/educ\/reid\/papers\/pme25-ws4\/sem.html\<num\>	^@http://plato.acadiau.ca/courses/educ/reid/papers/pme25-ws4/sem.html<num>$
+      1 \@http:\/\/picasaweb.google.it\/munxarparish\/winepizzaoct07\<num\>	^@http://picasaweb.google.it/munxarparish/winepizzaoct07<num>$
+      1 \@http:\/\/picasaweb.google.it\/munxarparish,\<num\>	^@http://picasaweb.google.it/munxarparish,<num>$
+      1 \@http:\/\/picasaweb.google.it\/munxarparish\<num\>	^@http://picasaweb.google.it/munxarparish<num>$
+      1 \@http:\/\/picasaweb.google.it\/munxarparish\/bidutalkatekizmu0708\<num\>	^@http://picasaweb.google.it/munxarparish/bidutalkatekizmu0708<num>$
+      1 \@http:\/\/nssdc.gsfc.nasa.gov\/database\/mastercatalog?sc=1965-068a\<num\>	^@http://nssdc.gsfc.nasa.gov/database/mastercatalog?sc=1965-068a<num>$
+      1 \@http:\/\/news.bbc.co.uk\/sport2\/hi\/football\/world_cup_2006\/teams\/france\/5174758.stm\<num\>	^@http://news.bbc.co.uk/sport2/hi/football/world_cup_2006/teams/france/5174758.stm<num>$
+      1 \@http:\/\/news.bbc.co.uk\/sport1\/hi\/football\/teams\/c\/chelsea\/7004083.stm\<num\>	^@http://news.bbc.co.uk/sport1/hi/football/teams/c/chelsea/7004083.stm<num>$
+      1 \@http:\/\/news.bbc.co.uk\/sport1\/hi\/football\/eng_div_1\/7091601.stm\<num\>	^@http://news.bbc.co.uk/sport1/hi/football/eng_div_1/7091601.stm<num>$
+      1 \@http:\/\/news.bbc.co.uk\/2\/hi\/europe\/4439011.stm\<num\>	^@http://news.bbc.co.uk/2/hi/europe/4439011.stm<num>$
+      1 \@http:\/\/news.bbc.co.uk\/2\/hi\/europe\/4439011\<num\>	^@http://news.bbc.co.uk/2/hi/europe/4439011<num>$
+      1 \@http:\/\/news.bbc.co.uk\/1\/hi\/sport\/football\/1844962.stm\<num\>	^@http://news.bbc.co.uk/1/hi/sport/football/1844962.stm<num>$
+      1 \@http:\/\/news.bbc.co.uk\/1\/hi\/special_report\/single_currency\/86518.stm\<num\>	^@http://news.bbc.co.uk/1/hi/special_report/single_currency/86518.stm<num>$
+      1 \@http:\/\/news.bbc.co.uk\/1\/hi\/business\/3036838.stm\<num\>	^@http://news.bbc.co.uk/1/hi/business/3036838.stm<num>$
+      1 \@http:\/\/muzajk.info\<num\>	^@http://muzajk.info<num>$
+      1 \@http:\/\/mt.wikipedia.org\/wiki\/sqaq_l-infern\<num\>	^@http://mt.wikipedia.org/wiki/sqaq_l-infern<num>$
+      1 \@http:\/\/meta.wikimedia.org\/wiki\/wikimania\<num\>	^@http://meta.wikimedia.org/wiki/wikimania<num>$
+      1 \@http:\/\/megrahimystory.net\/\<num\>	^@http://megrahimystory.net/<num>$
+      1 \@http:\/\/magistrat.praha-mesto.cz\/\<num\>	^@http://magistrat.praha-mesto.cz/<num>$
+      1 \@http:\/\/linux.org.mt\/lingwa\/spellcheck.html?locale=mt\<num\>	^@http://linux.org.mt/lingwa/spellcheck.html?locale=mt<num>$
+      1 \@http:\/\/ktieb.wordpress.com\<num\>	^@http://ktieb.wordpress.com<num>$
+      1 \@http:\/\/image.guardian.co.uk\/sys-files\/guardian\/documents\/2006\/01\/20\/fullsacco1.pdf\<num\>	^@http://image.guardian.co.uk/sys-files/guardian/documents/2006/01/20/fullsacco1.pdf<num>$
+      1 \@http:\/\/image.guardian.co.uk\/sys-files\/guardian\/documents\/2005\/02\/25\/sacco1.pdf\<num\>	^@http://image.guardian.co.uk/sys-files/guardian/documents/2005/02/25/sacco1.pdf<num>$
+      1 \@http:\/\/home.um.edu.mt\/medinst\/music\/staff.html\<num\>	^@http://home.um.edu.mt/medinst/music/staff.html<num>$
+      1 \@http:\/\/home.t-online.de\/home\/ulrich.creutzburg\/\<num\>	^@http://home.t-online.de/home/ulrich.creutzburg/<num>$
+      1 \@http:\/\/homepages.pathfinder.gr\/poiitikigonia\<num\>	^@http://homepages.pathfinder.gr/poiitikigonia<num>$
+      1 \@http:\/\/halliem.blogspot.com\<num\>	^@http://halliem.blogspot.com<num>$
+      1 \@http:\/\/greens-efa-service.org\/votetracker\/\<num\>	^@http://greens-efa-service.org/votetracker/<num>$
+      1 \@http:\/\/gozodiocese.org\/wp-content\/gallery\/misc-pictures\/dscf1950b.jpg\<num\>	^@http://gozodiocese.org/wp-content/gallery/misc-pictures/dscf1950b.jpg<num>$
+      1 \@http:\/\/gozodiocese.org\/wp-content\/gallery\/diskorsi\/membri-manresa1-oct07.jpg\<num\>	^@http://gozodiocese.org/wp-content/gallery/diskorsi/membri-manresa1-oct07.jpg<num>$
+      1 \@http:\/\/gozodiocese.org\/wp-content\/gallery\/diskorsi\/isqof-manresa1-oct-07.jpg\<num\>	^@http://gozodiocese.org/wp-content/gallery/diskorsi/isqof-manresa1-oct-07.jpg<num>$
+      1 \@http:\/\/gozodiocese.org\/wp-content\/gallery\/diskorsi\/dun-joseph-sultana-manresa-oct-07.jpg\<num\>	^@http://gozodiocese.org/wp-content/gallery/diskorsi/dun-joseph-sultana-manresa-oct-07.jpg<num>$
+      1 \@http:\/\/gozodiocese.org\/wp-content\/gallery\/diskorsi\/dun-giovanni-curmi-manresa-07.jpg\<num\>	^@http://gozodiocese.org/wp-content/gallery/diskorsi/dun-giovanni-curmi-manresa-07.jpg<num>$
+      1 \@http:\/\/gozodiocese.org\/wp-content\/gallery\/bishops-of-gozo\/mario_grech_arm.jpg\<num\>	^@http://gozodiocese.org/wp-content/gallery/bishops-of-gozo/mario_grech_arm.jpg<num>$
+      1 \@http:\/\/gozodiocese.org\/2011\/05\/06\/il-papa-taz-zwieg-u-tal-familja-artiklu-ta\<num\>	^@http://gozodiocese.org/2011/05/06/il-papa-taz-zwieg-u-tal-familja-artiklu-ta<num>$
+      1 \@http:\/\/gozodiocese.org\/2011\/05\/06\/il-fwieha-ta\<num\>	^@http://gozodiocese.org/2011/05/06/il-fwieha-ta<num>$
+      1 \@http:\/\/gozodiocese.org\/2011\/03\/04\/marzu-\<num\>	^@http://gozodiocese.org/2011/03/04/marzu-<num>$
+      1 \@http:\/\/gozodiocese.org\/2011\/02\/11\/hatra-ta-amministratur-ghall-knisja-ta-san-gakbu\/\<num\>	^@http://gozodiocese.org/2011/02/11/hatra-ta-amministratur-ghall-knisja-ta-san-gakbu/<num>$
+      1 \@http:\/\/gozodiocese.org\/2011\/02\/10\/link-permanenti-bejn-ghawdex-u-malta\/\<num\>	^@http://gozodiocese.org/2011/02/10/link-permanenti-bejn-ghawdex-u-malta/<num>$
+      1 \@http:\/\/gozodiocese.org\/2011\/01\/25\/nindukraw-l-ekologija-medjatika\/\<num\>	^@http://gozodiocese.org/2011/01/25/nindukraw-l-ekologija-medjatika/<num>$
+      1 \@http:\/\/gozodiocese.org\/2011\/01\/17\/il-bikja-tat-tarbija-ta\<num\>	^@http://gozodiocese.org/2011/01/17/il-bikja-tat-tarbija-ta<num>$
+      1 \@http:\/\/gozodiocese.org\/2010\/12\/09\/solennita-tal-immakulata-kuncizzjoni-ittra-cirkulari-tal-et-mons-mario-grech-isqof-ta-ghawdex\/\<num\>	^@http://gozodiocese.org/2010/12/09/solennita-tal-immakulata-kuncizzjoni-ittra-cirkulari-tal-et-mons-mario-grech-isqof-ta-ghawdex/<num>$
+      1 \@http:\/\/gozodiocese.org\/2010\/11\/27\/pastorali-tal-isqfijiet-avvent-2010-il-presepju-fil-familji-taghna\/\<num\>	^@http://gozodiocese.org/2010/11/27/pastorali-tal-isqfijiet-avvent-2010-il-presepju-fil-familji-taghna/<num>$
+      1 \@http:\/\/gozodiocese.org\/2010\/10\/30\/ghal-ordni-socjali-ahjar-omelija-ta\<num\>	^@http://gozodiocese.org/2010/10/30/ghal-ordni-socjali-ahjar-omelija-ta<num>$
+      1 \@http:\/\/gozodiocese.org\/2010\/10\/23\/il-familja-u-l-hajja-umana\/\<num\>	^@http://gozodiocese.org/2010/10/23/il-familja-u-l-hajja-umana/<num>$
+      1 \@http:\/\/gozodiocese.org\/2010\/10\/16\/nota-pastorali-mill-et-mons-pawl-cremona-op-arcisqof-ta\<num\>	^@http://gozodiocese.org/2010/10/16/nota-pastorali-mill-et-mons-pawl-cremona-op-arcisqof-ta<num>$
+      1 \@http:\/\/gozodiocese.org\/2010\/09\/27\/bzonn-ta\<num\>	^@http://gozodiocese.org/2010/09/27/bzonn-ta<num>$
+      1 \@http:\/\/gozodiocese.org\/2010\/09\/09\/marija-sinjal-ta\<num\>	^@http://gozodiocese.org/2010/09/09/marija-sinjal-ta<num>$
+      1 \@http:\/\/gozodiocese.org\/2010\/08\/07\/socjeta-fejn-tghammar-is-solidarjeta-ittra-pastorali-tal-et-mons-mario-grech-isqof-ta\<num\>	^@http://gozodiocese.org/2010/08/07/socjeta-fejn-tghammar-is-solidarjeta-ittra-pastorali-tal-et-mons-mario-grech-isqof-ta<num>$
+      1 \@http:\/\/gozodiocese.org\/2010\/07\/05\/il-familja-benniena-tal-vokazzjoni\/\<num\>	^@http://gozodiocese.org/2010/07/05/il-familja-benniena-tal-vokazzjoni/<num>$
+      1 \@http:\/\/gozodiocese.org\/2010\/07\/01\/ilhna-li-jaghtu-direzzjoni\/\<num\>	^@http://gozodiocese.org/2010/07/01/ilhna-li-jaghtu-direzzjoni/<num>$
+      1 \@http:\/\/gozodiocese.org\/2010\/06\/25\/garar-vojta\/\<num\>	^@http://gozodiocese.org/2010/06/25/garar-vojta/<num>$
+      1 \@http:\/\/gozodiocese.org\/2010\/06\/21\/il-mejda-ewkaristika-hi-laqgha-ta\<num\>	^@http://gozodiocese.org/2010/06/21/il-mejda-ewkaristika-hi-laqgha-ta<num>$
+      1 \@http:\/\/gozodiocese.org\/2010\/06\/11\/ghal-tqarbin-sewwa-omelija-ta\<num\>	^@http://gozodiocese.org/2010/06/11/ghal-tqarbin-sewwa-omelija-ta<num>$
+      1 \@http:\/\/gozodiocese.org\/2010\/05\/24\/is-sagramenti-taz-zwieg-u-l-ewkaristija-stqarrija-tal-konferenza-episkopali\/\<num\>	^@http://gozodiocese.org/2010/05/24/is-sagramenti-taz-zwieg-u-l-ewkaristija-stqarrija-tal-konferenza-episkopali/<num>$
+      1 \@http:\/\/gozodiocese.org\/2010\/05\/19\/il-mara-edukatrici-tal-qalb-u-tal-ispirtu\/\<num\>	^@http://gozodiocese.org/2010/05/19/il-mara-edukatrici-tal-qalb-u-tal-ispirtu/<num>$
+      1 \@http:\/\/gozodiocese.org\/2010\/05\/17\/il-hsieb-wara-l-azzjoni-dwar-iz-zwieg-diskors-ta\<num\>	^@http://gozodiocese.org/2010/05/17/il-hsieb-wara-l-azzjoni-dwar-iz-zwieg-diskors-ta<num>$
+      1 \@http:\/\/gozodiocese.org\/2010\/05\/08\/sfruttament-fuq-ix-xoghol-omelija-ta\<num\>	^@http://gozodiocese.org/2010/05/08/sfruttament-fuq-ix-xoghol-omelija-ta<num>$
+      1 \@http:\/\/gozodiocese.org\/2010\/05\/08\/it-titjib-fl-ekonomija-jitlob-aktar-azzjoni-kuxjenzjuza-omelija-ta-mons-isqof-mario-grech-fi-tmiem-is-seminar-new-emgerging-risk-work-related-stress\/\<num\>	^@http://gozodiocese.org/2010/05/08/it-titjib-fl-ekonomija-jitlob-aktar-azzjoni-kuxjenzjuza-omelija-ta-mons-isqof-mario-grech-fi-tmiem-is-seminar-new-emgerging-risk-work-related-stress/<num>$
+      1 \@http:\/\/gozodiocese.org\/2010\/03\/24\/ic-celibat-sacerdotali-fil-knisja-kattolika-omelija-ta\<num\>	^@http://gozodiocese.org/2010/03/24/ic-celibat-sacerdotali-fil-knisja-kattolika-omelija-ta<num>$
+      1 \@http:\/\/gozodiocese.org\/2010\/03\/09\/ghal-zvilupp-ekonomiku-u-socjali-t\<num\>	^@http://gozodiocese.org/2010/03/09/ghal-zvilupp-ekonomiku-u-socjali-t<num>$
+      1 \@http:\/\/gozodiocese.org\/2010\/03\/09\/alla-jeduka-l-bniedem-permezz-tal-kelma-tieghu-omelija-ta\<num\>	^@http://gozodiocese.org/2010/03/09/alla-jeduka-l-bniedem-permezz-tal-kelma-tieghu-omelija-ta<num>$
+      1 \@http:\/\/gozodiocese.org\/2009\/11\/27\/pastoral-letter-for-advent-2010-the-significance-of-the-crib-in-ou\<num\>	^@http://gozodiocese.org/2009/11/27/pastoral-letter-for-advent-2010-the-significance-of-the-crib-in-ou<num>$
+      1 \@http:\/\/gozodiocese.org\/2009\/04\/06\/messagg-ta\<num\>	^@http://gozodiocese.org/2009/04/06/messagg-ta<num>$
+      1 \@http:\/\/gozodiocese.org\/2009\/04\/06\/it-triq-tas-salib-illum-messagg-ta\<num\>	^@http://gozodiocese.org/2009/04/06/it-triq-tas-salib-illum-messagg-ta<num>$
+      1 \@http:\/\/gozodiocese.org\/2008\/01\/15\/pastoralirandan2008\/\<num\>	^@http://gozodiocese.org/2008/01/15/pastoralirandan2008/<num>$
+      1 \@http:\/\/gozodiocese.org\/2008\/01\/06\/cirkulari-4412005-6-ta-jannar-2005\/\<num\>	^@http://gozodiocese.org/2008/01/06/cirkulari-4412005-6-ta-jannar-2005/<num>$
+      1 \@http:\/\/gozodiocese.org\/2007\/10\/06\/nitlaqkom-fidejn-alla-u-l-kelma-tieghu-dar-manresa-3-u-6-ta-ottubru-2007\/\<num\>	^@http://gozodiocese.org/2007/10/06/nitlaqkom-fidejn-alla-u-l-kelma-tieghu-dar-manresa-3-u-6-ta-ottubru-2007/<num>$
+      1 \@http:\/\/gozodiocese.org\/2007\/10\/06\/nitlaqkom-fidejn-alla-u-l-kelma-tieghu-dar-manresa-3-u-6-ta-ottubr\<num\>	^@http://gozodiocese.org/2007/10/06/nitlaqkom-fidejn-alla-u-l-kelma-tieghu-dar-manresa-3-u-6-ta-ottubr<num>$
+      1 \@http:\/\/gozodiocese.org\/2007\/08\/19\/nghozzu-l-komunjoni-fil-knisja-knisja-zebbug-19-ta-awissu-2007\/\<num\>	^@http://gozodiocese.org/2007/08/19/nghozzu-l-komunjoni-fil-knisja-knisja-zebbug-19-ta-awissu-2007/<num>$
+      1 \@http:\/\/gozodiocese.org\/2007\/08\/15\/alla-jehlisna-mit-tahsir-katidral-ghawdex-15-ta\<num\>	^@http://gozodiocese.org/2007/08/15/alla-jehlisna-mit-tahsir-katidral-ghawdex-15-ta<num>$
+      1 \@http:\/\/gozodiocese.org\/2007\/06\/29\/civilta-li-tixraq-lid-dinjita-tal-bniedem-omelija-ta\<num\>	^@http://gozodiocese.org/2007/06/29/civilta-li-tixraq-lid-dinjita-tal-bniedem-omelija-ta<num>$
+      1 \@http:\/\/gozodiocese.org\/2007\/06\/05\/dun-gorg-u-l-kelma-li-tghammar-fostna-omelija-fiz-zjara-tar-relikwa-ta\<num\>	^@http://gozodiocese.org/2007/06/05/dun-gorg-u-l-kelma-li-tghammar-fostna-omelija-fiz-zjara-tar-relikwa-ta<num>$
+      1 \@http:\/\/gozodiocese.org\/2007\/05\/08\/dun-gorg-preca-xandar-tad-duttrina-tajba-omelija-fil-pellegrinagg-djocesan-fuq-il-qabar-tal-beatu-gorg-preca-il-kappella-tal-midalja-mirakuluza-il-blata-l-bajda-8-ta\<num\>	^@http://gozodiocese.org/2007/05/08/dun-gorg-preca-xandar-tad-duttrina-tajba-omelija-fil-pellegrinagg-djocesan-fuq-il-qabar-tal-beatu-gorg-preca-il-kappella-tal-midalja-mirakuluza-il-blata-l-bajda-8-ta<num>$
+      1 \@http:\/\/gozodiocese.org\/2007\/04\/10\/socjeta-tal-museum-xhud-ta-kristu-rxoxt-omelija-fit-tifkira-ta-gheluq-il-mitt-sena-mill-bidu-tal-museumsantwarju-ta-pinu-10-ta-april-2007\/\<num\>	^@http://gozodiocese.org/2007/04/10/socjeta-tal-museum-xhud-ta-kristu-rxoxt-omelija-fit-tifkira-ta-gheluq-il-mitt-sena-mill-bidu-tal-museumsantwarju-ta-pinu-10-ta-april-2007/<num>$
+      1 \@http:\/\/gozodiocese.org\/2007\/04\/05\/gesu-qaddej-omelija-ta\<num\>	^@http://gozodiocese.org/2007/04/05/gesu-qaddej-omelija-ta<num>$
+      1 \@http:\/\/gozodiocese.org\/2007\/03\/26\/id-dimensjoni-marjana-tas-sacerdot-knisja-gharb-26-ta\<num\>	^@http://gozodiocese.org/2007/03/26/id-dimensjoni-marjana-tas-sacerdot-knisja-gharb-26-ta<num>$
+      1 \@http:\/\/gozodiocese.org\/2007\/03\/06\/xi-jfisser-l-rtk-ghall-knisja-taghna-diskors-fl-okkazjoni-tal-15-il-anniversarju-mill-ftuh-ta\<num\>	^@http://gozodiocese.org/2007/03/06/xi-jfisser-l-rtk-ghall-knisja-taghna-diskors-fl-okkazjoni-tal-15-il-anniversarju-mill-ftuh-ta<num>$
+      1 \@http:\/\/gozodiocese.org\/2007\/01\/22\/il-ministeru-sacerdotali-knisja-tar-raghaj-it-tajjeb-victoria-22-ta\<num\>	^@http://gozodiocese.org/2007/01/22/il-ministeru-sacerdotali-knisja-tar-raghaj-it-tajjeb-victoria-22-ta<num>$
+      1 \@http:\/\/gozodiocese.org\/2007\/01\/06\/l-isqof-kollaboratur-tal-ferh-taghkom-diskors-waqt-il-laqgha-ta-awguri-ghas-sacerdoti-seminarju-6-ta-jannar-2007\/\<num\>	^@http://gozodiocese.org/2007/01/06/l-isqof-kollaboratur-tal-ferh-taghkom-diskors-waqt-il-laqgha-ta-awguri-ghas-sacerdoti-seminarju-6-ta-jannar-2007/<num>$
+      1 \@http:\/\/gozodiocese.org\/2006\/03\/03\/ir-randan-zmien-biex-nersqu-ghand-alla-ghajnsielem-3-ta\<num\>	^@http://gozodiocese.org/2006/03/03/ir-randan-zmien-biex-nersqu-ghand-alla-ghajnsielem-3-ta<num>$
+      1 \@http:\/\/gozodiocese.org\/2006\/02\/10\/inwarrbu-pizijiet-zejda-li-qed-itaqqlu-s-socjeta-il-knisja-u-l-familja-knisja-munxar-10-ta\<num\>	^@http://gozodiocese.org/2006/02/10/inwarrbu-pizijiet-zejda-li-qed-itaqqlu-s-socjeta-il-knisja-u-l-familja-knisja-munxar-10-ta<num>$
+      1 \@http:\/\/gozodiocese.org\/2005\/10\/26\/cirkulari-nru-4482005-26-ta\<num\>	^@http://gozodiocese.org/2005/10/26/cirkulari-nru-4482005-26-ta<num>$
+      1 \@http:\/\/gozodiocese.org\/2005\/10\/01\/ad-clerum-nru-376-ottubru-2005\/\<num\>	^@http://gozodiocese.org/2005/10/01/ad-clerum-nru-376-ottubru-2005/<num>$
+      1 \@http:\/\/gozodiocese.org\/2005\/09\/28\/cirkulari-nru-4472005-28-ta\<num\>	^@http://gozodiocese.org/2005/09/28/cirkulari-nru-4472005-28-ta<num>$
+      1 \@http:\/\/gozodiocese.org\/2005\/07\/18\/cirkulari-4462005-18-ta\<num\>	^@http://gozodiocese.org/2005/07/18/cirkulari-4462005-18-ta<num>$
+      1 \@http:\/\/gozodiocese.org\/2005\/06\/22\/cirkulari-4452005-22-ta-gunju-2005\/\<num\>	^@http://gozodiocese.org/2005/06/22/cirkulari-4452005-22-ta-gunju-2005/<num>$
+      1 \@http:\/\/gozodiocese.org\/2005\/06\/02\/ad-clerum-nru-372-gunju-2005\/\<num\>	^@http://gozodiocese.org/2005/06/02/ad-clerum-nru-372-gunju-2005/<num>$
+      1 \@http:\/\/gozodiocese.org\/2005\/05\/01\/ad-clerum-nru-371-mejju-2005\/\<num\>	^@http://gozodiocese.org/2005/05/01/ad-clerum-nru-371-mejju-2005/<num>$
+      1 \@http:\/\/gozodiocese.org\/2005\/04\/03\/cirkulari-4442005-3-t\<num\>	^@http://gozodiocese.org/2005/04/03/cirkulari-4442005-3-t<num>$
+      1 \@http:\/\/gozodiocese.org\/2005\/04\/01\/ad-clerum-nru-370-april-2005\/\<num\>	^@http://gozodiocese.org/2005/04/01/ad-clerum-nru-370-april-2005/<num>$
+      1 \@http:\/\/gozodiocese.org\/2005\/03\/18\/cirkulari-4442005-18-ta-marzu-2005\/\<num\>	^@http://gozodiocese.org/2005/03/18/cirkulari-4442005-18-ta-marzu-2005/<num>$
+      1 \@http:\/\/gozodiocese.org\/2005\/01\/22\/cirkulari-4422005-22-ta-jannar-2005\/\<num\>	^@http://gozodiocese.org/2005/01/22/cirkulari-4422005-22-ta-jannar-2005/<num>$
+      1 \@http:\/\/gozodiocese.org\/2005\/01\/01\/ad-clerum-nru-367-jannar-2005\/\<num\>	^@http://gozodiocese.org/2005/01/01/ad-clerum-nru-367-jannar-2005/<num>$
+      1 \@http:\/\/gozodiocese.org\/2004\/12\/01\/ad-clerum-nru-366-dicembru-2004\/\<num\>	^@http://gozodiocese.org/2004/12/01/ad-clerum-nru-366-dicembru-2004/<num>$
+      1 \@http:\/\/gozodiocese.org\/2004\/11\/01\/ad-clerum-nru-365-novembru-2004\/\<num\>	^@http://gozodiocese.org/2004/11/01/ad-clerum-nru-365-novembru-2004/<num>$
+      1 \@http:\/\/gozodiocese.org\/2004\/03\/02\/cirkulari-4312004-2-ta\<num\>	^@http://gozodiocese.org/2004/03/02/cirkulari-4312004-2-ta<num>$
+      1 \@http:\/\/gozodiocese.org\/2003\/09\/01\/ad-clerum-nru-351-settembru-2003\/\<num\>	^@http://gozodiocese.org/2003/09/01/ad-clerum-nru-351-settembru-2003/<num>$
+      1 \@http:\/\/gozodiocese.org\/2003\/07\/15\/cirkulari-4252003-15-ta\<num\>	^@http://gozodiocese.org/2003/07/15/cirkulari-4252003-15-ta<num>$
+      1 \@http:\/\/gozodiocese.org\/2003\/07\/01\/ad-clerum-nru-349-lulju-2003\/\<num\>	^@http://gozodiocese.org/2003/07/01/ad-clerum-nru-349-lulju-2003/<num>$
+      1 \@http:\/\/gozodiocese.org\/2003\/06\/01\/ad-clerum-nru-348-gunju-2003\/\<num\>	^@http://gozodiocese.org/2003/06/01/ad-clerum-nru-348-gunju-2003/<num>$
+      1 \@http:\/\/europeangreens.eu\/petition\<num\>	^@http://europeangreens.eu/petition<num>$
+      1 \@http:\/\/europa.eu.int\/comm\/education\/policies\/lang\/languages\/langmin\/euromosaic\/index_en.html\<num\>	^@http://europa.eu.int/comm/education/policies/lang/languages/langmin/euromosaic/index_en.html<num>$
+      1 \@http:\/\/en.wikipedia.org\/wiki\/reginald_dyer\<num\>	^@http://en.wikipedia.org/wiki/reginald_dyer<num>$
+      1 \@http:\/\/en.wikipedia.org\/wiki\/pelargonium\<num\>	^@http://en.wikipedia.org/wiki/pelargonium<num>$
+      1 \@http:\/\/en.wikipedia.org\/wiki\/moonbounce\<num\>	^@http://en.wikipedia.org/wiki/moonbounce<num>$
+      1 \@http:\/\/en.wikipedia.org\/wiki\/mark_a._sammut\<num\>	^@http://en.wikipedia.org/wiki/mark_a._sammut<num>$
+      1 \@http:\/\/en.wikipedia.org\/wiki\/linguistic_issues_concerning_the_euro\<num\>	^@http://en.wikipedia.org/wiki/linguistic_issues_concerning_the_euro<num>$
+      1 \@http:\/\/en.wikipedia.org\/wiki\/in_god_we_trust\<num\>	^@http://en.wikipedia.org/wiki/in_god_we_trust<num>$
+      1 \@http:\/\/durabond.ca\/gdouridas\/poetry\<num\>	^@http://durabond.ca/gdouridas/poetry<num>$
+      1 \@http:\/\/delittimhuxsolvuti.wordpress.com\<num\>	^@http://delittimhuxsolvuti.wordpress.com<num>$
+      1 \@http:\/\/darwin-online.org.uk\/content\/frameset?itemid=f14\<num\>	^@http://darwin-online.org.uk/content/frameset?itemid=f14<num>$
+      1 \@http:\/\/darwin-online.org.uk\/content\/frameset?itemid=f10.2\<num\>	^@http://darwin-online.org.uk/content/frameset?itemid=f10.2<num>$
+      1 \@http:\/\/darwin-online.org.uk\/content\/frameset?itemid=f10.1\<num\>	^@http://darwin-online.org.uk/content/frameset?itemid=f10.1<num>$
+      1 \@http:\/\/cialisiall.pun.pl\/\<num\>	^@http://cialisiall.pun.pl/<num>$
+      1 \@http:\/\/cialisantr.pun.pl\/\<num\>	^@http://cialisantr.pun.pl/<num>$
+      1 \@http:\/\/charlescasha.wordpress.com\<num\>	^@http://charlescasha.wordpress.com<num>$
+      1 \@http:\/\/bulls.totalbmw.net\/bulls\/index.php\<num\>	^@http://bulls.totalbmw.net/bulls/index.php<num>$
+      1 \@http:\/\/blogs.ec.europa.eu\/malta-mt\/in-nies-u-t-thassib-taghhom\/\<num\>	^@http://blogs.ec.europa.eu/malta-mt/in-nies-u-t-thassib-taghhom/<num>$
+      1 \@http:\/\/blogdelio.wordpress.com\<num\>	^@http://blogdelio.wordpress.com<num>$
+      1 \@http:\/\/blog.bakililar.az\/videosealton7\/\<num\>	^@http://blog.bakililar.az/videosealton7/<num>$
+      1 \@http:\/\/antoinecassar.info\/\<num\>	^@http://antoinecassar.info/<num>$
+      1 \@http:\/\/antivirus2009professional.com\<num\>	^@http://antivirus2009professional.com<num>$
+      1 \@http:\/\/alvarogomezcastro.over-blog.es\<num\>	^@http://alvarogomezcastro.over-blog.es<num>$
+      1 \@http:\/\/ahbarijiet.wordpress.com\<num\>	^@http://ahbarijiet.wordpress.com<num>$
+      1 \@en.wikipedia.org\/\<num\>	^@en.wikipedia.org/<num>$
 
 
 ===============================================================================
 Multiple bidix entries for a single source language lexical form
 ===============================================================================
    6964 #אף אחד\<prn\>\<ind\>\<mf\>\<sg\>\/אף לא אחד\<prn\>\<ind\>\<mf\>\<sg\>	^אף אחד<prn><ind><mf><sg>/אף לא אחד<prn><ind><mf><sg>$
+     56 #06:00 PM.\<num\>\/06:00 Pm.\<num\>\/06:00 pM.\<num\>\/06:00 pm.\<num\>	^06:00 PM.<num>/06:00 Pm.<num>/06:00 pM.<num>/06:00 pm.<num>$
+     13 #09:00 AM.\<num\>\/09:00 Am.\<num\>\/09:00 aM.\<num\>\/09:00 am.\<num\>	^09:00 AM.<num>/09:00 Am.<num>/09:00 aM.<num>/09:00 am.<num>$
+     11 #9:22 AM\<num\>\/9:22 Am\<num\>\/9:22 aM\<num\>\/9:22 am\<num\>	^9:22 AM<num>/9:22 Am<num>/9:22 aM<num>/9:22 am<num>$
+      6 #7:24 AM\<num\>\/7:24 Am\<num\>\/7:24 aM\<num\>\/7:24 am\<num\>	^7:24 AM<num>/7:24 Am<num>/7:24 aM<num>/7:24 am<num>$
+      6 #7:16 AM\<num\>\/7:16 Am\<num\>\/7:16 aM\<num\>\/7:16 am\<num\>	^7:16 AM<num>/7:16 Am<num>/7:16 aM<num>/7:16 am<num>$
+      6 #5:30 AM\<num\>\/5:30 Am\<num\>\/5:30 aM\<num\>\/5:30 am\<num\>	^5:30 AM<num>/5:30 Am<num>/5:30 aM<num>/5:30 am<num>$
+      6 #3:21 PM\<num\>\/3:21 Pm\<num\>\/3:21 pM\<num\>\/3:21 pm\<num\>	^3:21 PM<num>/3:21 Pm<num>/3:21 pM<num>/3:21 pm<num>$
+      6 #2:39 AM\<num\>\/2:39 Am\<num\>\/2:39 aM\<num\>\/2:39 am\<num\>	^2:39 AM<num>/2:39 Am<num>/2:39 aM<num>/2:39 am<num>$
+      6 #1:28 PM\<num\>\/1:28 Pm\<num\>\/1:28 pM\<num\>\/1:28 pm\<num\>	^1:28 PM<num>/1:28 Pm<num>/1:28 pM<num>/1:28 pm<num>$
+      6 #12:13 PM\<num\>\/12:13 Pm\<num\>\/12:13 pM\<num\>\/12:13 pm\<num\>	^12:13 PM<num>/12:13 Pm<num>/12:13 pM<num>/12:13 pm<num>$
+      6 #10:29 AM\<num\>\/10:29 Am\<num\>\/10:29 aM\<num\>\/10:29 am\<num\>	^10:29 AM<num>/10:29 Am<num>/10:29 aM<num>/10:29 am<num>$
+      6 #1:00 PM\<num\>\/1:00 Pm\<num\>\/1:00 pM\<num\>\/1:00 pm\<num\>	^1:00 PM<num>/1:00 Pm<num>/1:00 pM<num>/1:00 pm<num>$
+      5 #9:20 AM\<num\>\/9:20 Am\<num\>\/9:20 aM\<num\>\/9:20 am\<num\>	^9:20 AM<num>/9:20 Am<num>/9:20 aM<num>/9:20 am<num>$
+      5 #6:00 PM.\<num\>\/6:00 Pm.\<num\>\/6:00 pM.\<num\>\/6:00 pm.\<num\>	^6:00 PM.<num>/6:00 Pm.<num>/6:00 pM.<num>/6:00 pm.<num>$
+      5 #5:24 PM.\<num\>\/5:24 Pm.\<num\>\/5:24 pM.\<num\>\/5:24 pm.\<num\>	^5:24 PM.<num>/5:24 Pm.<num>/5:24 pM.<num>/5:24 pm.<num>$
+      5 #3:54 PM.\<num\>\/3:54 Pm.\<num\>\/3:54 pM.\<num\>\/3:54 pm.\<num\>	^3:54 PM.<num>/3:54 Pm.<num>/3:54 pM.<num>/3:54 pm.<num>$
+      5 #3:46 AM\<num\>\/3:46 Am\<num\>\/3:46 aM\<num\>\/3:46 am\<num\>	^3:46 AM<num>/3:46 Am<num>/3:46 aM<num>/3:46 am<num>$
+      5 #3:01 PM\<num\>\/3:01 Pm\<num\>\/3:01 pM\<num\>\/3:01 pm\<num\>	^3:01 PM<num>/3:01 Pm<num>/3:01 pM<num>/3:01 pm<num>$
+      5 #2:14 PM\<num\>\/2:14 Pm\<num\>\/2:14 pM\<num\>\/2:14 pm\<num\>	^2:14 PM<num>/2:14 Pm<num>/2:14 pM<num>/2:14 pm<num>$
+      5 #2:12 PM\<num\>\/2:12 Pm\<num\>\/2:12 pM\<num\>\/2:12 pm\<num\>	^2:12 PM<num>/2:12 Pm<num>/2:12 pM<num>/2:12 pm<num>$
+      5 #12:41 AM\<num\>\/12:41 Am\<num\>\/12:41 aM\<num\>\/12:41 am\<num\>	^12:41 AM<num>/12:41 Am<num>/12:41 aM<num>/12:41 am<num>$
+      5 #10:49 AM\<num\>\/10:49 Am\<num\>\/10:49 aM\<num\>\/10:49 am\<num\>	^10:49 AM<num>/10:49 Am<num>/10:49 aM<num>/10:49 am<num>$
+      5 #10:11 AM\<num\>\/10:11 Am\<num\>\/10:11 aM\<num\>\/10:11 am\<num\>	^10:11 AM<num>/10:11 Am<num>/10:11 aM<num>/10:11 am<num>$
+      4 #9:56 AM.\<num\>\/9:56 Am.\<num\>\/9:56 aM.\<num\>\/9:56 am.\<num\>	^9:56 AM.<num>/9:56 Am.<num>/9:56 aM.<num>/9:56 am.<num>$
+      4 #9:47 AM\<num\>\/9:47 Am\<num\>\/9:47 aM\<num\>\/9:47 am\<num\>	^9:47 AM<num>/9:47 Am<num>/9:47 aM<num>/9:47 am<num>$
+      4 #8:46 AM\<num\>\/8:46 Am\<num\>\/8:46 aM\<num\>\/8:46 am\<num\>	^8:46 AM<num>/8:46 Am<num>/8:46 aM<num>/8:46 am<num>$
+      4 #5:23 PM\<num\>\/5:23 Pm\<num\>\/5:23 pM\<num\>\/5:23 pm\<num\>	^5:23 PM<num>/5:23 Pm<num>/5:23 pM<num>/5:23 pm<num>$
+      4 #2:53 AM.\<num\>\/2:53 Am.\<num\>\/2:53 aM.\<num\>\/2:53 am.\<num\>	^2:53 AM.<num>/2:53 Am.<num>/2:53 aM.<num>/2:53 am.<num>$
+      4 #2:06 PM\<num\>\/2:06 Pm\<num\>\/2:06 pM\<num\>\/2:06 pm\<num\>	^2:06 PM<num>/2:06 Pm<num>/2:06 pM<num>/2:06 pm<num>$
+      4 #1:39 PM\<num\>\/1:39 Pm\<num\>\/1:39 pM\<num\>\/1:39 pm\<num\>	^1:39 PM<num>/1:39 Pm<num>/1:39 pM<num>/1:39 pm<num>$
+      4 #12:28 PM\<num\>\/12:28 Pm\<num\>\/12:28 pM\<num\>\/12:28 pm\<num\>	^12:28 PM<num>/12:28 Pm<num>/12:28 pM<num>/12:28 pm<num>$
+      4 #12:25 PM.\<num\>\/12:25 Pm.\<num\>\/12:25 pM.\<num\>\/12:25 pm.\<num\>	^12:25 PM.<num>/12:25 Pm.<num>/12:25 pM.<num>/12:25 pm.<num>$
+      4 #11:33 AM\<num\>\/11:33 Am\<num\>\/11:33 aM\<num\>\/11:33 am\<num\>	^11:33 AM<num>/11:33 Am<num>/11:33 aM<num>/11:33 am<num>$
+      4 #11:18 AM\<num\>\/11:18 Am\<num\>\/11:18 aM\<num\>\/11:18 am\<num\>	^11:18 AM<num>/11:18 Am<num>/11:18 aM<num>/11:18 am<num>$
+      4 #11:05 PM\<num\>\/11:05 Pm\<num\>\/11:05 pM\<num\>\/11:05 pm\<num\>	^11:05 PM<num>/11:05 Pm<num>/11:05 pM<num>/11:05 pm<num>$
+      4 #11:05 AM\<num\>\/11:05 Am\<num\>\/11:05 aM\<num\>\/11:05 am\<num\>	^11:05 AM<num>/11:05 Am<num>/11:05 aM<num>/11:05 am<num>$
+      4 #1:02 PM\<num\>\/1:02 Pm\<num\>\/1:02 pM\<num\>\/1:02 pm\<num\>	^1:02 PM<num>/1:02 Pm<num>/1:02 pM<num>/1:02 pm<num>$
+      3 #9:36 AM.\<num\>\/9:36 Am.\<num\>\/9:36 aM.\<num\>\/9:36 am.\<num\>	^9:36 AM.<num>/9:36 Am.<num>/9:36 aM.<num>/9:36 am.<num>$
+      3 #9:30 PM.\<num\>\/9:30 Pm.\<num\>\/9:30 pM.\<num\>\/9:30 pm.\<num\>	^9:30 PM.<num>/9:30 Pm.<num>/9:30 pM.<num>/9:30 pm.<num>$
+      3 #9:16 PM\<num\>\/9:16 Pm\<num\>\/9:16 pM\<num\>\/9:16 pm\<num\>	^9:16 PM<num>/9:16 Pm<num>/9:16 pM<num>/9:16 pm<num>$
+      3 #8:49 PM\<num\>\/8:49 Pm\<num\>\/8:49 pM\<num\>\/8:49 pm\<num\>	^8:49 PM<num>/8:49 Pm<num>/8:49 pM<num>/8:49 pm<num>$
+      3 #8:12 PM.\<num\>\/8:12 Pm.\<num\>\/8:12 pM.\<num\>\/8:12 pm.\<num\>	^8:12 PM.<num>/8:12 Pm.<num>/8:12 pM.<num>/8:12 pm.<num>$
+      3 #6:57 AM\<num\>\/6:57 Am\<num\>\/6:57 aM\<num\>\/6:57 am\<num\>	^6:57 AM<num>/6:57 Am<num>/6:57 aM<num>/6:57 am<num>$
+      3 #6:13 AM\<num\>\/6:13 Am\<num\>\/6:13 aM\<num\>\/6:13 am\<num\>	^6:13 AM<num>/6:13 Am<num>/6:13 aM<num>/6:13 am<num>$
+      3 #5:34 AM.\<num\>\/5:34 Am.\<num\>\/5:34 aM.\<num\>\/5:34 am.\<num\>	^5:34 AM.<num>/5:34 Am.<num>/5:34 aM.<num>/5:34 am.<num>$
+      3 #4:25 AM.\<num\>\/4:25 Am.\<num\>\/4:25 aM.\<num\>\/4:25 am.\<num\>	^4:25 AM.<num>/4:25 Am.<num>/4:25 aM.<num>/4:25 am.<num>$
+      3 #4:24 PM.\<num\>\/4:24 Pm.\<num\>\/4:24 pM.\<num\>\/4:24 pm.\<num\>	^4:24 PM.<num>/4:24 Pm.<num>/4:24 pM.<num>/4:24 pm.<num>$
+      3 #4:14 PM.\<num\>\/4:14 Pm.\<num\>\/4:14 pM.\<num\>\/4:14 pm.\<num\>	^4:14 PM.<num>/4:14 Pm.<num>/4:14 pM.<num>/4:14 pm.<num>$
+      3 #3:38 PM\<num\>\/3:38 Pm\<num\>\/3:38 pM\<num\>\/3:38 pm\<num\>	^3:38 PM<num>/3:38 Pm<num>/3:38 pM<num>/3:38 pm<num>$
+      3 #3:23 AM.\<num\>\/3:23 Am.\<num\>\/3:23 aM.\<num\>\/3:23 am.\<num\>	^3:23 AM.<num>/3:23 Am.<num>/3:23 aM.<num>/3:23 am.<num>$
+      3 #2:46 PM.\<num\>\/2:46 Pm.\<num\>\/2:46 pM.\<num\>\/2:46 pm.\<num\>	^2:46 PM.<num>/2:46 Pm.<num>/2:46 pM.<num>/2:46 pm.<num>$
+      3 #2:38 PM\<num\>\/2:38 Pm\<num\>\/2:38 pM\<num\>\/2:38 pm\<num\>	^2:38 PM<num>/2:38 Pm<num>/2:38 pM<num>/2:38 pm<num>$
+      3 #2:14 PM.\<num\>\/2:14 Pm.\<num\>\/2:14 pM.\<num\>\/2:14 pm.\<num\>	^2:14 PM.<num>/2:14 Pm.<num>/2:14 pM.<num>/2:14 pm.<num>$
+      3 #2:13 PM.\<num\>\/2:13 Pm.\<num\>\/2:13 pM.\<num\>\/2:13 pm.\<num\>	^2:13 PM.<num>/2:13 Pm.<num>/2:13 pM.<num>/2:13 pm.<num>$
+      3 #2:12 PM.\<num\>\/2:12 Pm.\<num\>\/2:12 pM.\<num\>\/2:12 pm.\<num\>	^2:12 PM.<num>/2:12 Pm.<num>/2:12 pM.<num>/2:12 pm.<num>$
+      3 #2:09 PM.\<num\>\/2:09 Pm.\<num\>\/2:09 pM.\<num\>\/2:09 pm.\<num\>	^2:09 PM.<num>/2:09 Pm.<num>/2:09 pM.<num>/2:09 pm.<num>$
+      3 #1:45 AM\<num\>\/1:45 Am\<num\>\/1:45 aM\<num\>\/1:45 am\<num\>	^1:45 AM<num>/1:45 Am<num>/1:45 aM<num>/1:45 am<num>$
+      3 #1:23 PM\<num\>\/1:23 Pm\<num\>\/1:23 pM\<num\>\/1:23 pm\<num\>	^1:23 PM<num>/1:23 Pm<num>/1:23 pM<num>/1:23 pm<num>$
+      3 #12:35 PM.\<num\>\/12:35 Pm.\<num\>\/12:35 pM.\<num\>\/12:35 pm.\<num\>	^12:35 PM.<num>/12:35 Pm.<num>/12:35 pM.<num>/12:35 pm.<num>$
+      3 #12:28 PM.\<num\>\/12:28 Pm.\<num\>\/12:28 pM.\<num\>\/12:28 pm.\<num\>	^12:28 PM.<num>/12:28 Pm.<num>/12:28 pM.<num>/12:28 pm.<num>$
+      3 #12:20 AM\<num\>\/12:20 Am\<num\>\/12:20 aM\<num\>\/12:20 am\<num\>	^12:20 AM<num>/12:20 Am<num>/12:20 aM<num>/12:20 am<num>$
+      3 #12:11 PM.\<num\>\/12:11 Pm.\<num\>\/12:11 pM.\<num\>\/12:11 pm.\<num\>	^12:11 PM.<num>/12:11 Pm.<num>/12:11 pM.<num>/12:11 pm.<num>$
+      3 #12:09 PM.\<num\>\/12:09 Pm.\<num\>\/12:09 pM.\<num\>\/12:09 pm.\<num\>	^12:09 PM.<num>/12:09 Pm.<num>/12:09 pM.<num>/12:09 pm.<num>$
+      3 #11:47 AM.\<num\>\/11:47 Am.\<num\>\/11:47 aM.\<num\>\/11:47 am.\<num\>	^11:47 AM.<num>/11:47 Am.<num>/11:47 aM.<num>/11:47 am.<num>$
+      3 #11:44 AM\<num\>\/11:44 Am\<num\>\/11:44 aM\<num\>\/11:44 am\<num\>	^11:44 AM<num>/11:44 Am<num>/11:44 aM<num>/11:44 am<num>$
+      3 #11:36 AM\<num\>\/11:36 Am\<num\>\/11:36 aM\<num\>\/11:36 am\<num\>	^11:36 AM<num>/11:36 Am<num>/11:36 aM<num>/11:36 am<num>$
+      3 #11:23 AM.\<num\>\/11:23 Am.\<num\>\/11:23 aM.\<num\>\/11:23 am.\<num\>	^11:23 AM.<num>/11:23 Am.<num>/11:23 aM.<num>/11:23 am.<num>$
+      3 #11:22 AM\<num\>\/11:22 Am\<num\>\/11:22 aM\<num\>\/11:22 am\<num\>	^11:22 AM<num>/11:22 Am<num>/11:22 aM<num>/11:22 am<num>$
+      3 #11:11 AM\<num\>\/11:11 Am\<num\>\/11:11 aM\<num\>\/11:11 am\<num\>	^11:11 AM<num>/11:11 Am<num>/11:11 aM<num>/11:11 am<num>$
+      3 #11:08 PM\<num\>\/11:08 Pm\<num\>\/11:08 pM\<num\>\/11:08 pm\<num\>	^11:08 PM<num>/11:08 Pm<num>/11:08 pM<num>/11:08 pm<num>$
+      3 #10:56 AM.\<num\>\/10:56 Am.\<num\>\/10:56 aM.\<num\>\/10:56 am.\<num\>	^10:56 AM.<num>/10:56 Am.<num>/10:56 aM.<num>/10:56 am.<num>$
+      3 #10:53 AM.\<num\>\/10:53 Am.\<num\>\/10:53 aM.\<num\>\/10:53 am.\<num\>	^10:53 AM.<num>/10:53 Am.<num>/10:53 aM.<num>/10:53 am.<num>$
+      3 #10:49 AM.\<num\>\/10:49 Am.\<num\>\/10:49 aM.\<num\>\/10:49 am.\<num\>	^10:49 AM.<num>/10:49 Am.<num>/10:49 aM.<num>/10:49 am.<num>$
+      3 #10:48 PM.\<num\>\/10:48 Pm.\<num\>\/10:48 pM.\<num\>\/10:48 pm.\<num\>	^10:48 PM.<num>/10:48 Pm.<num>/10:48 pM.<num>/10:48 pm.<num>$
+      3 #1:03 AM\<num\>\/1:03 Am\<num\>\/1:03 aM\<num\>\/1:03 am\<num\>	^1:03 AM<num>/1:03 Am<num>/1:03 aM<num>/1:03 am<num>$
+      3 #10:37 PM\<num\>\/10:37 Pm\<num\>\/10:37 pM\<num\>\/10:37 pm\<num\>	^10:37 PM<num>/10:37 Pm<num>/10:37 pM<num>/10:37 pm<num>$
+      3 #10:05 AM\<num\>\/10:05 Am\<num\>\/10:05 aM\<num\>\/10:05 am\<num\>	^10:05 AM<num>/10:05 Am<num>/10:05 aM<num>/10:05 am<num>$
+      2 #9:56 AM\<num\>\/9:56 Am\<num\>\/9:56 aM\<num\>\/9:56 am\<num\>	^9:56 AM<num>/9:56 Am<num>/9:56 aM<num>/9:56 am<num>$
+      2 #9:51 AM.\<num\>\/9:51 Am.\<num\>\/9:51 aM.\<num\>\/9:51 am.\<num\>	^9:51 AM.<num>/9:51 Am.<num>/9:51 aM.<num>/9:51 am.<num>$
+      2 #9:38 PM.\<num\>\/9:38 Pm.\<num\>\/9:38 pM.\<num\>\/9:38 pm.\<num\>	^9:38 PM.<num>/9:38 Pm.<num>/9:38 pM.<num>/9:38 pm.<num>$
+      2 #9:37 AM\<num\>\/9:37 Am\<num\>\/9:37 aM\<num\>\/9:37 am\<num\>	^9:37 AM<num>/9:37 Am<num>/9:37 aM<num>/9:37 am<num>$
+      2 #9:36 AM\<num\>\/9:36 Am\<num\>\/9:36 aM\<num\>\/9:36 am\<num\>	^9:36 AM<num>/9:36 Am<num>/9:36 aM<num>/9:36 am<num>$
+      2 #9:31 PM\<num\>\/9:31 Pm\<num\>\/9:31 pM\<num\>\/9:31 pm\<num\>	^9:31 PM<num>/9:31 Pm<num>/9:31 pM<num>/9:31 pm<num>$
+      2 #9:28 AM.\<num\>\/9:28 Am.\<num\>\/9:28 aM.\<num\>\/9:28 am.\<num\>	^9:28 AM.<num>/9:28 Am.<num>/9:28 aM.<num>/9:28 am.<num>$
+      2 #9:22 AM.\<num\>\/9:22 Am.\<num\>\/9:22 aM.\<num\>\/9:22 am.\<num\>	^9:22 AM.<num>/9:22 Am.<num>/9:22 aM.<num>/9:22 am.<num>$
+      2 #9:21 PM\<num\>\/9:21 Pm\<num\>\/9:21 pM\<num\>\/9:21 pm\<num\>	^9:21 PM<num>/9:21 Pm<num>/9:21 pM<num>/9:21 pm<num>$
+      2 #9:21 AM.\<num\>\/9:21 Am.\<num\>\/9:21 aM.\<num\>\/9:21 am.\<num\>	^9:21 AM.<num>/9:21 Am.<num>/9:21 aM.<num>/9:21 am.<num>$
+      2 #9:20 AM.\<num\>\/9:20 Am.\<num\>\/9:20 aM.\<num\>\/9:20 am.\<num\>	^9:20 AM.<num>/9:20 Am.<num>/9:20 aM.<num>/9:20 am.<num>$
+      2 #9:16 AM.\<num\>\/9:16 Am.\<num\>\/9:16 aM.\<num\>\/9:16 am.\<num\>	^9:16 AM.<num>/9:16 Am.<num>/9:16 aM.<num>/9:16 am.<num>$
+      2 #9:15 AM.\<num\>\/9:15 Am.\<num\>\/9:15 aM.\<num\>\/9:15 am.\<num\>	^9:15 AM.<num>/9:15 Am.<num>/9:15 aM.<num>/9:15 am.<num>$
+      2 #9:10 AM.\<num\>\/9:10 Am.\<num\>\/9:10 aM.\<num\>\/9:10 am.\<num\>	^9:10 AM.<num>/9:10 Am.<num>/9:10 aM.<num>/9:10 am.<num>$
+      2 #9:09 AM\<num\>\/9:09 Am\<num\>\/9:09 aM\<num\>\/9:09 am\<num\>	^9:09 AM<num>/9:09 Am<num>/9:09 aM<num>/9:09 am<num>$
+      2 #9:02 AM.\<num\>\/9:02 Am.\<num\>\/9:02 aM.\<num\>\/9:02 am.\<num\>	^9:02 AM.<num>/9:02 Am.<num>/9:02 aM.<num>/9:02 am.<num>$
+      2 #8:58 PM.\<num\>\/8:58 Pm.\<num\>\/8:58 pM.\<num\>\/8:58 pm.\<num\>	^8:58 PM.<num>/8:58 Pm.<num>/8:58 pM.<num>/8:58 pm.<num>$
+      2 #8:54 AM.\<num\>\/8:54 Am.\<num\>\/8:54 aM.\<num\>\/8:54 am.\<num\>	^8:54 AM.<num>/8:54 Am.<num>/8:54 aM.<num>/8:54 am.<num>$
+      2 #8:49 AM\<num\>\/8:49 Am\<num\>\/8:49 aM\<num\>\/8:49 am\<num\>	^8:49 AM<num>/8:49 Am<num>/8:49 aM<num>/8:49 am<num>$
+      2 #8:48 PM.\<num\>\/8:48 Pm.\<num\>\/8:48 pM.\<num\>\/8:48 pm.\<num\>	^8:48 PM.<num>/8:48 Pm.<num>/8:48 pM.<num>/8:48 pm.<num>$
+      2 #8:41 AM\<num\>\/8:41 Am\<num\>\/8:41 aM\<num\>\/8:41 am\<num\>	^8:41 AM<num>/8:41 Am<num>/8:41 aM<num>/8:41 am<num>$
+      2 #8:26 AM\<num\>\/8:26 Am\<num\>\/8:26 aM\<num\>\/8:26 am\<num\>	^8:26 AM<num>/8:26 Am<num>/8:26 aM<num>/8:26 am<num>$
+      2 #8:22 PM\<num\>\/8:22 Pm\<num\>\/8:22 pM\<num\>\/8:22 pm\<num\>	^8:22 PM<num>/8:22 Pm<num>/8:22 pM<num>/8:22 pm<num>$
+      2 #8:00 PM\<num\>\/8:00 Pm\<num\>\/8:00 pM\<num\>\/8:00 pm\<num\>	^8:00 PM<num>/8:00 Pm<num>/8:00 pM<num>/8:00 pm<num>$
+      2 #7:22 PM.\<num\>\/7:22 Pm.\<num\>\/7:22 pM.\<num\>\/7:22 pm.\<num\>	^7:22 PM.<num>/7:22 Pm.<num>/7:22 pM.<num>/7:22 pm.<num>$
+      2 #7:22 AM.\<num\>\/7:22 Am.\<num\>\/7:22 aM.\<num\>\/7:22 am.\<num\>	^7:22 AM.<num>/7:22 Am.<num>/7:22 aM.<num>/7:22 am.<num>$
+      2 #7:20 AM.\<num\>\/7:20 Am.\<num\>\/7:20 aM.\<num\>\/7:20 am.\<num\>	^7:20 AM.<num>/7:20 Am.<num>/7:20 aM.<num>/7:20 am.<num>$
+      2 #7:17 AM.\<num\>\/7:17 Am.\<num\>\/7:17 aM.\<num\>\/7:17 am.\<num\>	^7:17 AM.<num>/7:17 Am.<num>/7:17 aM.<num>/7:17 am.<num>$
+      2 #6:45 PM\<num\>\/6:45 Pm\<num\>\/6:45 pM\<num\>\/6:45 pm\<num\>	^6:45 PM<num>/6:45 Pm<num>/6:45 pM<num>/6:45 pm<num>$
+      2 #6:44 PM.\<num\>\/6:44 Pm.\<num\>\/6:44 pM.\<num\>\/6:44 pm.\<num\>	^6:44 PM.<num>/6:44 Pm.<num>/6:44 pM.<num>/6:44 pm.<num>$
+      2 #6:30 PM.\<num\>\/6:30 Pm.\<num\>\/6:30 pM.\<num\>\/6:30 pm.\<num\>	^6:30 PM.<num>/6:30 Pm.<num>/6:30 pM.<num>/6:30 pm.<num>$
+      2 #6:29 PM\<num\>\/6:29 Pm\<num\>\/6:29 pM\<num\>\/6:29 pm\<num\>	^6:29 PM<num>/6:29 Pm<num>/6:29 pM<num>/6:29 pm<num>$
+      2 #6:24 AM.\<num\>\/6:24 Am.\<num\>\/6:24 aM.\<num\>\/6:24 am.\<num\>	^6:24 AM.<num>/6:24 Am.<num>/6:24 aM.<num>/6:24 am.<num>$
+      2 #5:53 AM.\<num\>\/5:53 Am.\<num\>\/5:53 aM.\<num\>\/5:53 am.\<num\>	^5:53 AM.<num>/5:53 Am.<num>/5:53 aM.<num>/5:53 am.<num>$
+      2 #5:48 AM.\<num\>\/5:48 Am.\<num\>\/5:48 aM.\<num\>\/5:48 am.\<num\>	^5:48 AM.<num>/5:48 Am.<num>/5:48 aM.<num>/5:48 am.<num>$
+      2 #5:42 AM.\<num\>\/5:42 Am.\<num\>\/5:42 aM.\<num\>\/5:42 am.\<num\>	^5:42 AM.<num>/5:42 Am.<num>/5:42 aM.<num>/5:42 am.<num>$
+      2 #5:28 PM.\<num\>\/5:28 Pm.\<num\>\/5:28 pM.\<num\>\/5:28 pm.\<num\>	^5:28 PM.<num>/5:28 Pm.<num>/5:28 pM.<num>/5:28 pm.<num>$
+      2 #5:26 PM.\<num\>\/5:26 Pm.\<num\>\/5:26 pM.\<num\>\/5:26 pm.\<num\>	^5:26 PM.<num>/5:26 Pm.<num>/5:26 pM.<num>/5:26 pm.<num>$
+      2 #5:22 PM.\<num\>\/5:22 Pm.\<num\>\/5:22 pM.\<num\>\/5:22 pm.\<num\>	^5:22 PM.<num>/5:22 Pm.<num>/5:22 pM.<num>/5:22 pm.<num>$
+      2 #5:16 PM.\<num\>\/5:16 Pm.\<num\>\/5:16 pM.\<num\>\/5:16 pm.\<num\>	^5:16 PM.<num>/5:16 Pm.<num>/5:16 pM.<num>/5:16 pm.<num>$
+      2 #5:11 AM.\<num\>\/5:11 Am.\<num\>\/5:11 aM.\<num\>\/5:11 am.\<num\>	^5:11 AM.<num>/5:11 Am.<num>/5:11 aM.<num>/5:11 am.<num>$
+      2 #4:58 PM.\<num\>\/4:58 Pm.\<num\>\/4:58 pM.\<num\>\/4:58 pm.\<num\>	^4:58 PM.<num>/4:58 Pm.<num>/4:58 pM.<num>/4:58 pm.<num>$
+      2 #4:42 PM.\<num\>\/4:42 Pm.\<num\>\/4:42 pM.\<num\>\/4:42 pm.\<num\>	^4:42 PM.<num>/4:42 Pm.<num>/4:42 pM.<num>/4:42 pm.<num>$
+      2 #4:35 PM.\<num\>\/4:35 Pm.\<num\>\/4:35 pM.\<num\>\/4:35 pm.\<num\>	^4:35 PM.<num>/4:35 Pm.<num>/4:35 pM.<num>/4:35 pm.<num>$
+      2 #4:27 AM.\<num\>\/4:27 Am.\<num\>\/4:27 aM.\<num\>\/4:27 am.\<num\>	^4:27 AM.<num>/4:27 Am.<num>/4:27 aM.<num>/4:27 am.<num>$
+      2 #4:26 PM.\<num\>\/4:26 Pm.\<num\>\/4:26 pM.\<num\>\/4:26 pm.\<num\>	^4:26 PM.<num>/4:26 Pm.<num>/4:26 pM.<num>/4:26 pm.<num>$
+      2 #4:19 AM.\<num\>\/4:19 Am.\<num\>\/4:19 aM.\<num\>\/4:19 am.\<num\>	^4:19 AM.<num>/4:19 Am.<num>/4:19 aM.<num>/4:19 am.<num>$
+      2 #4:18 PM.\<num\>\/4:18 Pm.\<num\>\/4:18 pM.\<num\>\/4:18 pm.\<num\>	^4:18 PM.<num>/4:18 Pm.<num>/4:18 pM.<num>/4:18 pm.<num>$
+      2 #4:11 AM\<num\>\/4:11 Am\<num\>\/4:11 aM\<num\>\/4:11 am\<num\>	^4:11 AM<num>/4:11 Am<num>/4:11 aM<num>/4:11 am<num>$
+      2 #3:55 PM.\<num\>\/3:55 Pm.\<num\>\/3:55 pM.\<num\>\/3:55 pm.\<num\>	^3:55 PM.<num>/3:55 Pm.<num>/3:55 pM.<num>/3:55 pm.<num>$
+      2 #3:46 AM.\<num\>\/3:46 Am.\<num\>\/3:46 aM.\<num\>\/3:46 am.\<num\>	^3:46 AM.<num>/3:46 Am.<num>/3:46 aM.<num>/3:46 am.<num>$
+      2 #3:39 PM\<num\>\/3:39 Pm\<num\>\/3:39 pM\<num\>\/3:39 pm\<num\>	^3:39 PM<num>/3:39 Pm<num>/3:39 pM<num>/3:39 pm<num>$
+      2 #3:34 PM.\<num\>\/3:34 Pm.\<num\>\/3:34 pM.\<num\>\/3:34 pm.\<num\>	^3:34 PM.<num>/3:34 Pm.<num>/3:34 pM.<num>/3:34 pm.<num>$
+      2 #3:10 AM.\<num\>\/3:10 Am.\<num\>\/3:10 aM.\<num\>\/3:10 am.\<num\>	^3:10 AM.<num>/3:10 Am.<num>/3:10 aM.<num>/3:10 am.<num>$
+      2 #3:01 PM.\<num\>\/3:01 Pm.\<num\>\/3:01 pM.\<num\>\/3:01 pm.\<num\>	^3:01 PM.<num>/3:01 Pm.<num>/3:01 pM.<num>/3:01 pm.<num>$
+      2 #2:52 PM.\<num\>\/2:52 Pm.\<num\>\/2:52 pM.\<num\>\/2:52 pm.\<num\>	^2:52 PM.<num>/2:52 Pm.<num>/2:52 pM.<num>/2:52 pm.<num>$
+      2 #2:42 AM.\<num\>\/2:42 Am.\<num\>\/2:42 aM.\<num\>\/2:42 am.\<num\>	^2:42 AM.<num>/2:42 Am.<num>/2:42 aM.<num>/2:42 am.<num>$
+      2 #2:40 PM.\<num\>\/2:40 Pm.\<num\>\/2:40 pM.\<num\>\/2:40 pm.\<num\>	^2:40 PM.<num>/2:40 Pm.<num>/2:40 pM.<num>/2:40 pm.<num>$
+      2 #2:33 PM.\<num\>\/2:33 Pm.\<num\>\/2:33 pM.\<num\>\/2:33 pm.\<num\>	^2:33 PM.<num>/2:33 Pm.<num>/2:33 pM.<num>/2:33 pm.<num>$
+      2 #2:25 PM.\<num\>\/2:25 Pm.\<num\>\/2:25 pM.\<num\>\/2:25 pm.\<num\>	^2:25 PM.<num>/2:25 Pm.<num>/2:25 pM.<num>/2:25 pm.<num>$
+      2 #2:21 AM\<num\>\/2:21 Am\<num\>\/2:21 aM\<num\>\/2:21 am\<num\>	^2:21 AM<num>/2:21 Am<num>/2:21 aM<num>/2:21 am<num>$
+      2 #2:16 PM.\<num\>\/2:16 Pm.\<num\>\/2:16 pM.\<num\>\/2:16 pm.\<num\>	^2:16 PM.<num>/2:16 Pm.<num>/2:16 pM.<num>/2:16 pm.<num>$
+      2 #2:11 PM.\<num\>\/2:11 Pm.\<num\>\/2:11 pM.\<num\>\/2:11 pm.\<num\>	^2:11 PM.<num>/2:11 Pm.<num>/2:11 pM.<num>/2:11 pm.<num>$
+      2 #1:58 PM\<num\>\/1:58 Pm\<num\>\/1:58 pM\<num\>\/1:58 pm\<num\>	^1:58 PM<num>/1:58 Pm<num>/1:58 pM<num>/1:58 pm<num>$
+      2 #1:57 PM.\<num\>\/1:57 Pm.\<num\>\/1:57 pM.\<num\>\/1:57 pm.\<num\>	^1:57 PM.<num>/1:57 Pm.<num>/1:57 pM.<num>/1:57 pm.<num>$
+      2 #1:53 PM\<num\>\/1:53 Pm\<num\>\/1:53 pM\<num\>\/1:53 pm\<num\>	^1:53 PM<num>/1:53 Pm<num>/1:53 pM<num>/1:53 pm<num>$
+      2 #1:51 AM.\<num\>\/1:51 Am.\<num\>\/1:51 aM.\<num\>\/1:51 am.\<num\>	^1:51 AM.<num>/1:51 Am.<num>/1:51 aM.<num>/1:51 am.<num>$
+      2 #1:49 PM.\<num\>\/1:49 Pm.\<num\>\/1:49 pM.\<num\>\/1:49 pm.\<num\>	^1:49 PM.<num>/1:49 Pm.<num>/1:49 pM.<num>/1:49 pm.<num>$
+      2 #1:48 PM.\<num\>\/1:48 Pm.\<num\>\/1:48 pM.\<num\>\/1:48 pm.\<num\>	^1:48 PM.<num>/1:48 Pm.<num>/1:48 pM.<num>/1:48 pm.<num>$
+      2 #1:38 PM.\<num\>\/1:38 Pm.\<num\>\/1:38 pM.\<num\>\/1:38 pm.\<num\>	^1:38 PM.<num>/1:38 Pm.<num>/1:38 pM.<num>/1:38 pm.<num>$
+      2 #1:32 PM\<num\>\/1:32 Pm\<num\>\/1:32 pM\<num\>\/1:32 pm\<num\>	^1:32 PM<num>/1:32 Pm<num>/1:32 pM<num>/1:32 pm<num>$
+      2 #1:32 AM.\<num\>\/1:32 Am.\<num\>\/1:32 aM.\<num\>\/1:32 am.\<num\>	^1:32 AM.<num>/1:32 Am.<num>/1:32 aM.<num>/1:32 am.<num>$
+      2 #12:54 AM.\<num\>\/12:54 Am.\<num\>\/12:54 aM.\<num\>\/12:54 am.\<num\>	^12:54 AM.<num>/12:54 Am.<num>/12:54 aM.<num>/12:54 am.<num>$
+      2 #12:49 PM.\<num\>\/12:49 Pm.\<num\>\/12:49 pM.\<num\>\/12:49 pm.\<num\>	^12:49 PM.<num>/12:49 Pm.<num>/12:49 pM.<num>/12:49 pm.<num>$
+      2 #12:31 PM\<num\>\/12:31 Pm\<num\>\/12:31 pM\<num\>\/12:31 pm\<num\>	^12:31 PM<num>/12:31 Pm<num>/12:31 pM<num>/12:31 pm<num>$
+      2 #12:29 PM.\<num\>\/12:29 Pm.\<num\>\/12:29 pM.\<num\>\/12:29 pm.\<num\>	^12:29 PM.<num>/12:29 Pm.<num>/12:29 pM.<num>/12:29 pm.<num>$
+      2 #12:25 AM\<num\>\/12:25 Am\<num\>\/12:25 aM\<num\>\/12:25 am\<num\>	^12:25 AM<num>/12:25 Am<num>/12:25 aM<num>/12:25 am<num>$
+      2 #12:23 AM.\<num\>\/12:23 Am.\<num\>\/12:23 aM.\<num\>\/12:23 am.\<num\>	^12:23 AM.<num>/12:23 Am.<num>/12:23 aM.<num>/12:23 am.<num>$
+      2 #12:22 AM.\<num\>\/12:22 Am.\<num\>\/12:22 aM.\<num\>\/12:22 am.\<num\>	^12:22 AM.<num>/12:22 Am.<num>/12:22 aM.<num>/12:22 am.<num>$
+      2 #12:17 PM.\<num\>\/12:17 Pm.\<num\>\/12:17 pM.\<num\>\/12:17 pm.\<num\>	^12:17 PM.<num>/12:17 Pm.<num>/12:17 pM.<num>/12:17 pm.<num>$
+      2 #11:58 PM\<num\>\/11:58 Pm\<num\>\/11:58 pM\<num\>\/11:58 pm\<num\>	^11:58 PM<num>/11:58 Pm<num>/11:58 pM<num>/11:58 pm<num>$
+      2 #11:52 AM\<num\>\/11:52 Am\<num\>\/11:52 aM\<num\>\/11:52 am\<num\>	^11:52 AM<num>/11:52 Am<num>/11:52 aM<num>/11:52 am<num>$
+      2 #11:46 PM.\<num\>\/11:46 Pm.\<num\>\/11:46 pM.\<num\>\/11:46 pm.\<num\>	^11:46 PM.<num>/11:46 Pm.<num>/11:46 pM.<num>/11:46 pm.<num>$
+      2 #11:46 AM.\<num\>\/11:46 Am.\<num\>\/11:46 aM.\<num\>\/11:46 am.\<num\>	^11:46 AM.<num>/11:46 Am.<num>/11:46 aM.<num>/11:46 am.<num>$
+      2 #11:44 AM.\<num\>\/11:44 Am.\<num\>\/11:44 aM.\<num\>\/11:44 am.\<num\>	^11:44 AM.<num>/11:44 Am.<num>/11:44 aM.<num>/11:44 am.<num>$
+      2 #11:38 AM\<num\>\/11:38 Am\<num\>\/11:38 aM\<num\>\/11:38 am\<num\>	^11:38 AM<num>/11:38 Am<num>/11:38 aM<num>/11:38 am<num>$
+      2 #11:35 AM\<num\>\/11:35 Am\<num\>\/11:35 aM\<num\>\/11:35 am\<num\>	^11:35 AM<num>/11:35 Am<num>/11:35 aM<num>/11:35 am<num>$
+      2 #11:34 PM.\<num\>\/11:34 Pm.\<num\>\/11:34 pM.\<num\>\/11:34 pm.\<num\>	^11:34 PM.<num>/11:34 Pm.<num>/11:34 pM.<num>/11:34 pm.<num>$
+      2 #11:33 AM.\<num\>\/11:33 Am.\<num\>\/11:33 aM.\<num\>\/11:33 am.\<num\>	^11:33 AM.<num>/11:33 Am.<num>/11:33 aM.<num>/11:33 am.<num>$
+      2 #11:31 AM.\<num\>\/11:31 Am.\<num\>\/11:31 aM.\<num\>\/11:31 am.\<num\>	^11:31 AM.<num>/11:31 Am.<num>/11:31 aM.<num>/11:31 am.<num>$
+      2 #11:30 PM\<num\>\/11:30 Pm\<num\>\/11:30 pM\<num\>\/11:30 pm\<num\>	^11:30 PM<num>/11:30 Pm<num>/11:30 pM<num>/11:30 pm<num>$
+      2 #11:28 AM\<num\>\/11:28 Am\<num\>\/11:28 aM\<num\>\/11:28 am\<num\>	^11:28 AM<num>/11:28 Am<num>/11:28 aM<num>/11:28 am<num>$
+      2 #11:22 AM.\<num\>\/11:22 Am.\<num\>\/11:22 aM.\<num\>\/11:22 am.\<num\>	^11:22 AM.<num>/11:22 Am.<num>/11:22 aM.<num>/11:22 am.<num>$
+      2 #11:09 PM.\<num\>\/11:09 Pm.\<num\>\/11:09 pM.\<num\>\/11:09 pm.\<num\>	^11:09 PM.<num>/11:09 Pm.<num>/11:09 pM.<num>/11:09 pm.<num>$
+      2 #11:07 AM\<num\>\/11:07 Am\<num\>\/11:07 aM\<num\>\/11:07 am\<num\>	^11:07 AM<num>/11:07 Am<num>/11:07 aM<num>/11:07 am<num>$
+      2 #11:05 AM.\<num\>\/11:05 Am.\<num\>\/11:05 aM.\<num\>\/11:05 am.\<num\>	^11:05 AM.<num>/11:05 Am.<num>/11:05 aM.<num>/11:05 am.<num>$
+      2 #11:04 AM.\<num\>\/11:04 Am.\<num\>\/11:04 aM.\<num\>\/11:04 am.\<num\>	^11:04 AM.<num>/11:04 Am.<num>/11:04 aM.<num>/11:04 am.<num>$
+      2 #11:01 AM.\<num\>\/11:01 Am.\<num\>\/11:01 aM.\<num\>\/11:01 am.\<num\>	^11:01 AM.<num>/11:01 Am.<num>/11:01 aM.<num>/11:01 am.<num>$
+      2 #10:58 AM.\<num\>\/10:58 Am.\<num\>\/10:58 aM.\<num\>\/10:58 am.\<num\>	^10:58 AM.<num>/10:58 Am.<num>/10:58 aM.<num>/10:58 am.<num>$
+      2 #10:56 AM\<num\>\/10:56 Am\<num\>\/10:56 aM\<num\>\/10:56 am\<num\>	^10:56 AM<num>/10:56 Am<num>/10:56 aM<num>/10:56 am<num>$
+      2 #10:50 AM\<num\>\/10:50 Am\<num\>\/10:50 aM\<num\>\/10:50 am\<num\>	^10:50 AM<num>/10:50 Am<num>/10:50 aM<num>/10:50 am<num>$
+      2 #10:45 PM.\<num\>\/10:45 Pm.\<num\>\/10:45 pM.\<num\>\/10:45 pm.\<num\>	^10:45 PM.<num>/10:45 Pm.<num>/10:45 pM.<num>/10:45 pm.<num>$
+      2 #10:40 AM.\<num\>\/10:40 Am.\<num\>\/10:40 aM.\<num\>\/10:40 am.\<num\>	^10:40 AM.<num>/10:40 Am.<num>/10:40 aM.<num>/10:40 am.<num>$
+      2 #10:26 AM.\<num\>\/10:26 Am.\<num\>\/10:26 aM.\<num\>\/10:26 am.\<num\>	^10:26 AM.<num>/10:26 Am.<num>/10:26 aM.<num>/10:26 am.<num>$
+      2 #10:21 PM.\<num\>\/10:21 Pm.\<num\>\/10:21 pM.\<num\>\/10:21 pm.\<num\>	^10:21 PM.<num>/10:21 Pm.<num>/10:21 pM.<num>/10:21 pm.<num>$
+      2 #10:18 AM\<num\>\/10:18 Am\<num\>\/10:18 aM\<num\>\/10:18 am\<num\>	^10:18 AM<num>/10:18 Am<num>/10:18 aM<num>/10:18 am<num>$
+      2 #10:08 AM.\<num\>\/10:08 Am.\<num\>\/10:08 aM.\<num\>\/10:08 am.\<num\>	^10:08 AM.<num>/10:08 Am.<num>/10:08 aM.<num>/10:08 am.<num>$
+      2 #10:05 PM.\<num\>\/10:05 Pm.\<num\>\/10:05 pM.\<num\>\/10:05 pm.\<num\>	^10:05 PM.<num>/10:05 Pm.<num>/10:05 pM.<num>/10:05 pm.<num>$
+      2 #10:01 AM\<num\>\/10:01 Am\<num\>\/10:01 aM\<num\>\/10:01 am\<num\>	^10:01 AM<num>/10:01 Am<num>/10:01 aM<num>/10:01 am<num>$
+      2 #10:00 AM.\<num\>\/10:00 Am.\<num\>\/10:00 aM.\<num\>\/10:00 am.\<num\>	^10:00 AM.<num>/10:00 Am.<num>/10:00 aM.<num>/10:00 am.<num>$
+      1 #9:58 PM.\<num\>\/9:58 Pm.\<num\>\/9:58 pM.\<num\>\/9:58 pm.\<num\>	^9:58 PM.<num>/9:58 Pm.<num>/9:58 pM.<num>/9:58 pm.<num>$
+      1 #9:57 PM\<num\>\/9:57 Pm\<num\>\/9:57 pM\<num\>\/9:57 pm\<num\>	^9:57 PM<num>/9:57 Pm<num>/9:57 pM<num>/9:57 pm<num>$
+      1 #9:56 PM.\<num\>\/9:56 Pm.\<num\>\/9:56 pM.\<num\>\/9:56 pm.\<num\>	^9:56 PM.<num>/9:56 Pm.<num>/9:56 pM.<num>/9:56 pm.<num>$
+      1 #9:55 PM.\<num\>\/9:55 Pm.\<num\>\/9:55 pM.\<num\>\/9:55 pm.\<num\>	^9:55 PM.<num>/9:55 Pm.<num>/9:55 pM.<num>/9:55 pm.<num>$
+      1 #9:55 PM\<num\>\/9:55 Pm\<num\>\/9:55 pM\<num\>\/9:55 pm\<num\>	^9:55 PM<num>/9:55 Pm<num>/9:55 pM<num>/9:55 pm<num>$
+      1 #9:54 PM.\<num\>\/9:54 Pm.\<num\>\/9:54 pM.\<num\>\/9:54 pm.\<num\>	^9:54 PM.<num>/9:54 Pm.<num>/9:54 pM.<num>/9:54 pm.<num>$
+      1 #9:54 AM.\<num\>\/9:54 Am.\<num\>\/9:54 aM.\<num\>\/9:54 am.\<num\>	^9:54 AM.<num>/9:54 Am.<num>/9:54 aM.<num>/9:54 am.<num>$
+      1 #9:50 AM.\<num\>\/9:50 Am.\<num\>\/9:50 aM.\<num\>\/9:50 am.\<num\>	^9:50 AM.<num>/9:50 Am.<num>/9:50 aM.<num>/9:50 am.<num>$
+      1 #9:47 AM.\<num\>\/9:47 Am.\<num\>\/9:47 aM.\<num\>\/9:47 am.\<num\>	^9:47 AM.<num>/9:47 Am.<num>/9:47 aM.<num>/9:47 am.<num>$
+      1 #9:44 PM.\<num\>\/9:44 Pm.\<num\>\/9:44 pM.\<num\>\/9:44 pm.\<num\>	^9:44 PM.<num>/9:44 Pm.<num>/9:44 pM.<num>/9:44 pm.<num>$
+      1 #9:44 AM.\<num\>\/9:44 Am.\<num\>\/9:44 aM.\<num\>\/9:44 am.\<num\>	^9:44 AM.<num>/9:44 Am.<num>/9:44 aM.<num>/9:44 am.<num>$
+      1 #9:41 AM\<num\>\/9:41 Am\<num\>\/9:41 aM\<num\>\/9:41 am\<num\>	^9:41 AM<num>/9:41 Am<num>/9:41 aM<num>/9:41 am<num>$
+      1 #9:40 PM.\<num\>\/9:40 Pm.\<num\>\/9:40 pM.\<num\>\/9:40 pm.\<num\>	^9:40 PM.<num>/9:40 Pm.<num>/9:40 pM.<num>/9:40 pm.<num>$
+      1 #9:38 AM.\<num\>\/9:38 Am.\<num\>\/9:38 aM.\<num\>\/9:38 am.\<num\>	^9:38 AM.<num>/9:38 Am.<num>/9:38 aM.<num>/9:38 am.<num>$
+      1 #9:37 AM.\<num\>\/9:37 Am.\<num\>\/9:37 aM.\<num\>\/9:37 am.\<num\>	^9:37 AM.<num>/9:37 Am.<num>/9:37 aM.<num>/9:37 am.<num>$
+      1 #9:36 PM\<num\>\/9:36 Pm\<num\>\/9:36 pM\<num\>\/9:36 pm\<num\>	^9:36 PM<num>/9:36 Pm<num>/9:36 pM<num>/9:36 pm<num>$
+      1 #9:35 PM.\<num\>\/9:35 Pm.\<num\>\/9:35 pM.\<num\>\/9:35 pm.\<num\>	^9:35 PM.<num>/9:35 Pm.<num>/9:35 pM.<num>/9:35 pm.<num>$
+      1 #9:33 AM\<num\>\/9:33 Am\<num\>\/9:33 aM\<num\>\/9:33 am\<num\>	^9:33 AM<num>/9:33 Am<num>/9:33 aM<num>/9:33 am<num>$
+      1 #9:32 AM.\<num\>\/9:32 Am.\<num\>\/9:32 aM.\<num\>\/9:32 am.\<num\>	^9:32 AM.<num>/9:32 Am.<num>/9:32 aM.<num>/9:32 am.<num>$
+      1 #9:30 PM\<num\>\/9:30 Pm\<num\>\/9:30 pM\<num\>\/9:30 pm\<num\>	^9:30 PM<num>/9:30 Pm<num>/9:30 pM<num>/9:30 pm<num>$
+      1 #9:29 PM\<num\>\/9:29 Pm\<num\>\/9:29 pM\<num\>\/9:29 pm\<num\>	^9:29 PM<num>/9:29 Pm<num>/9:29 pM<num>/9:29 pm<num>$
+      1 #9:29 AM\<num\>\/9:29 Am\<num\>\/9:29 aM\<num\>\/9:29 am\<num\>	^9:29 AM<num>/9:29 Am<num>/9:29 aM<num>/9:29 am<num>$
+      1 #9:27 PM.\<num\>\/9:27 Pm.\<num\>\/9:27 pM.\<num\>\/9:27 pm.\<num\>	^9:27 PM.<num>/9:27 Pm.<num>/9:27 pM.<num>/9:27 pm.<num>$
+      1 #9:27 PM\<num\>\/9:27 Pm\<num\>\/9:27 pM\<num\>\/9:27 pm\<num\>	^9:27 PM<num>/9:27 Pm<num>/9:27 pM<num>/9:27 pm<num>$
+      1 #9:25 PM.\<num\>\/9:25 Pm.\<num\>\/9:25 pM.\<num\>\/9:25 pm.\<num\>	^9:25 PM.<num>/9:25 Pm.<num>/9:25 pM.<num>/9:25 pm.<num>$
+      1 #9:25 PM\<num\>\/9:25 Pm\<num\>\/9:25 pM\<num\>\/9:25 pm\<num\>	^9:25 PM<num>/9:25 Pm<num>/9:25 pM<num>/9:25 pm<num>$
+      1 #9:25 AM.\<num\>\/9:25 Am.\<num\>\/9:25 aM.\<num\>\/9:25 am.\<num\>	^9:25 AM.<num>/9:25 Am.<num>/9:25 aM.<num>/9:25 am.<num>$
+      1 #9:23 PM\<num\>\/9:23 Pm\<num\>\/9:23 pM\<num\>\/9:23 pm\<num\>	^9:23 PM<num>/9:23 Pm<num>/9:23 pM<num>/9:23 pm<num>$
+      1 #9:22 PM.\<num\>\/9:22 Pm.\<num\>\/9:22 pM.\<num\>\/9:22 pm.\<num\>	^9:22 PM.<num>/9:22 Pm.<num>/9:22 pM.<num>/9:22 pm.<num>$
+      1 #9:22 PM\<num\>\/9:22 Pm\<num\>\/9:22 pM\<num\>\/9:22 pm\<num\>	^9:22 PM<num>/9:22 Pm<num>/9:22 pM<num>/9:22 pm<num>$
+      1 #9:20 PM.\<num\>\/9:20 Pm.\<num\>\/9:20 pM.\<num\>\/9:20 pm.\<num\>	^9:20 PM.<num>/9:20 Pm.<num>/9:20 pM.<num>/9:20 pm.<num>$
+      1 #9:19 AM\<num\>\/9:19 Am\<num\>\/9:19 aM\<num\>\/9:19 am\<num\>	^9:19 AM<num>/9:19 Am<num>/9:19 aM<num>/9:19 am<num>$
+      1 #9:18 PM\<num\>\/9:18 Pm\<num\>\/9:18 pM\<num\>\/9:18 pm\<num\>	^9:18 PM<num>/9:18 Pm<num>/9:18 pM<num>/9:18 pm<num>$
+      1 #9:18 AM\<num\>\/9:18 Am\<num\>\/9:18 aM\<num\>\/9:18 am\<num\>	^9:18 AM<num>/9:18 Am<num>/9:18 aM<num>/9:18 am<num>$
+      1 #9:17 AM.\<num\>\/9:17 Am.\<num\>\/9:17 aM.\<num\>\/9:17 am.\<num\>	^9:17 AM.<num>/9:17 Am.<num>/9:17 aM.<num>/9:17 am.<num>$
+      1 #9:16 PM.\<num\>\/9:16 Pm.\<num\>\/9:16 pM.\<num\>\/9:16 pm.\<num\>	^9:16 PM.<num>/9:16 Pm.<num>/9:16 pM.<num>/9:16 pm.<num>$
+      1 #9:15 PM\<num\>\/9:15 Pm\<num\>\/9:15 pM\<num\>\/9:15 pm\<num\>	^9:15 PM<num>/9:15 Pm<num>/9:15 pM<num>/9:15 pm<num>$
+      1 #9:14 AM\<num\>\/9:14 Am\<num\>\/9:14 aM\<num\>\/9:14 am\<num\>	^9:14 AM<num>/9:14 Am<num>/9:14 aM<num>/9:14 am<num>$
+      1 #9:11 PM\<num\>\/9:11 Pm\<num\>\/9:11 pM\<num\>\/9:11 pm\<num\>	^9:11 PM<num>/9:11 Pm<num>/9:11 pM<num>/9:11 pm<num>$
+      1 #9:11 AM\<num\>\/9:11 Am\<num\>\/9:11 aM\<num\>\/9:11 am\<num\>	^9:11 AM<num>/9:11 Am<num>/9:11 aM<num>/9:11 am<num>$
+      1 #9:05 PM.\<num\>\/9:05 Pm.\<num\>\/9:05 pM.\<num\>\/9:05 pm.\<num\>	^9:05 PM.<num>/9:05 Pm.<num>/9:05 pM.<num>/9:05 pm.<num>$
+      1 #9:05 PM\<num\>\/9:05 Pm\<num\>\/9:05 pM\<num\>\/9:05 pm\<num\>	^9:05 PM<num>/9:05 Pm<num>/9:05 pM<num>/9:05 pm<num>$
+      1 #9:05 AM\<num\>\/9:05 Am\<num\>\/9:05 aM\<num\>\/9:05 am\<num\>	^9:05 AM<num>/9:05 Am<num>/9:05 aM<num>/9:05 am<num>$
+      1 #9:04 PM\<num\>\/9:04 Pm\<num\>\/9:04 pM\<num\>\/9:04 pm\<num\>	^9:04 PM<num>/9:04 Pm<num>/9:04 pM<num>/9:04 pm<num>$
+      1 #9:04 AM\<num\>\/9:04 Am\<num\>\/9:04 aM\<num\>\/9:04 am\<num\>	^9:04 AM<num>/9:04 Am<num>/9:04 aM<num>/9:04 am<num>$
+      1 #9:01 PM.\<num\>\/9:01 Pm.\<num\>\/9:01 pM.\<num\>\/9:01 pm.\<num\>	^9:01 PM.<num>/9:01 Pm.<num>/9:01 pM.<num>/9:01 pm.<num>$
+      1 #9:01 AM.\<num\>\/9:01 Am.\<num\>\/9:01 aM.\<num\>\/9:01 am.\<num\>	^9:01 AM.<num>/9:01 Am.<num>/9:01 aM.<num>/9:01 am.<num>$
+      1 #8:59 PM\<num\>\/8:59 Pm\<num\>\/8:59 pM\<num\>\/8:59 pm\<num\>	^8:59 PM<num>/8:59 Pm<num>/8:59 pM<num>/8:59 pm<num>$
+      1 #8:58 AM.\<num\>\/8:58 Am.\<num\>\/8:58 aM.\<num\>\/8:58 am.\<num\>	^8:58 AM.<num>/8:58 Am.<num>/8:58 aM.<num>/8:58 am.<num>$
+      1 #8:58 AM\<num\>\/8:58 Am\<num\>\/8:58 aM\<num\>\/8:58 am\<num\>	^8:58 AM<num>/8:58 Am<num>/8:58 aM<num>/8:58 am<num>$
+      1 #8:57 AM\<num\>\/8:57 Am\<num\>\/8:57 aM\<num\>\/8:57 am\<num\>	^8:57 AM<num>/8:57 Am<num>/8:57 aM<num>/8:57 am<num>$
+      1 #8:48 PM\<num\>\/8:48 Pm\<num\>\/8:48 pM\<num\>\/8:48 pm\<num\>	^8:48 PM<num>/8:48 Pm<num>/8:48 pM<num>/8:48 pm<num>$
+      1 #8:47 AM.\<num\>\/8:47 Am.\<num\>\/8:47 aM.\<num\>\/8:47 am.\<num\>	^8:47 AM.<num>/8:47 Am.<num>/8:47 aM.<num>/8:47 am.<num>$
+      1 #8:47 AM\<num\>\/8:47 Am\<num\>\/8:47 aM\<num\>\/8:47 am\<num\>	^8:47 AM<num>/8:47 Am<num>/8:47 aM<num>/8:47 am<num>$
+      1 #8:46 PM.\<num\>\/8:46 Pm.\<num\>\/8:46 pM.\<num\>\/8:46 pm.\<num\>	^8:46 PM.<num>/8:46 Pm.<num>/8:46 pM.<num>/8:46 pm.<num>$
+      1 #8:45 PM.\<num\>\/8:45 Pm.\<num\>\/8:45 pM.\<num\>\/8:45 pm.\<num\>	^8:45 PM.<num>/8:45 Pm.<num>/8:45 pM.<num>/8:45 pm.<num>$
+      1 #8:45 AM.\<num\>\/8:45 Am.\<num\>\/8:45 aM.\<num\>\/8:45 am.\<num\>	^8:45 AM.<num>/8:45 Am.<num>/8:45 aM.<num>/8:45 am.<num>$
+      1 #8:42 PM.\<num\>\/8:42 Pm.\<num\>\/8:42 pM.\<num\>\/8:42 pm.\<num\>	^8:42 PM.<num>/8:42 Pm.<num>/8:42 pM.<num>/8:42 pm.<num>$
+      1 #8:41 PM.\<num\>\/8:41 Pm.\<num\>\/8:41 pM.\<num\>\/8:41 pm.\<num\>	^8:41 PM.<num>/8:41 Pm.<num>/8:41 pM.<num>/8:41 pm.<num>$
+      1 #8:40 PM.\<num\>\/8:40 Pm.\<num\>\/8:40 pM.\<num\>\/8:40 pm.\<num\>	^8:40 PM.<num>/8:40 Pm.<num>/8:40 pM.<num>/8:40 pm.<num>$
+      1 #8:39 PM\<num\>\/8:39 Pm\<num\>\/8:39 pM\<num\>\/8:39 pm\<num\>	^8:39 PM<num>/8:39 Pm<num>/8:39 pM<num>/8:39 pm<num>$
+      1 #8:39 AM.\<num\>\/8:39 Am.\<num\>\/8:39 aM.\<num\>\/8:39 am.\<num\>	^8:39 AM.<num>/8:39 Am.<num>/8:39 aM.<num>/8:39 am.<num>$
+      1 #8:38 AM\<num\>\/8:38 Am\<num\>\/8:38 aM\<num\>\/8:38 am\<num\>	^8:38 AM<num>/8:38 Am<num>/8:38 aM<num>/8:38 am<num>$
+      1 #8:36 AM.\<num\>\/8:36 Am.\<num\>\/8:36 aM.\<num\>\/8:36 am.\<num\>	^8:36 AM.<num>/8:36 Am.<num>/8:36 aM.<num>/8:36 am.<num>$
+      1 #8:35 PM.\<num\>\/8:35 Pm.\<num\>\/8:35 pM.\<num\>\/8:35 pm.\<num\>	^8:35 PM.<num>/8:35 Pm.<num>/8:35 pM.<num>/8:35 pm.<num>$
+      1 #8:35 AM.\<num\>\/8:35 Am.\<num\>\/8:35 aM.\<num\>\/8:35 am.\<num\>	^8:35 AM.<num>/8:35 Am.<num>/8:35 aM.<num>/8:35 am.<num>$
+      1 #8:34 PM.\<num\>\/8:34 Pm.\<num\>\/8:34 pM.\<num\>\/8:34 pm.\<num\>	^8:34 PM.<num>/8:34 Pm.<num>/8:34 pM.<num>/8:34 pm.<num>$
+      1 #8:32 PM.\<num\>\/8:32 Pm.\<num\>\/8:32 pM.\<num\>\/8:32 pm.\<num\>	^8:32 PM.<num>/8:32 Pm.<num>/8:32 pM.<num>/8:32 pm.<num>$
+      1 #8:31 PM.\<num\>\/8:31 Pm.\<num\>\/8:31 pM.\<num\>\/8:31 pm.\<num\>	^8:31 PM.<num>/8:31 Pm.<num>/8:31 pM.<num>/8:31 pm.<num>$
+      1 #8:31 AM\<num\>\/8:31 Am\<num\>\/8:31 aM\<num\>\/8:31 am\<num\>	^8:31 AM<num>/8:31 Am<num>/8:31 aM<num>/8:31 am<num>$
+      1 #8:30 PM\<num\>\/8:30 Pm\<num\>\/8:30 pM\<num\>\/8:30 pm\<num\>	^8:30 PM<num>/8:30 Pm<num>/8:30 pM<num>/8:30 pm<num>$
+      1 #8:30 AM\<num\>\/8:30 Am\<num\>\/8:30 aM\<num\>\/8:30 am\<num\>	^8:30 AM<num>/8:30 Am<num>/8:30 aM<num>/8:30 am<num>$
+      1 #8:28 PM.\<num\>\/8:28 Pm.\<num\>\/8:28 pM.\<num\>\/8:28 pm.\<num\>	^8:28 PM.<num>/8:28 Pm.<num>/8:28 pM.<num>/8:28 pm.<num>$
+      1 #8:27 PM\<num\>\/8:27 Pm\<num\>\/8:27 pM\<num\>\/8:27 pm\<num\>	^8:27 PM<num>/8:27 Pm<num>/8:27 pM<num>/8:27 pm<num>$
+      1 #8:27 AM\<num\>\/8:27 Am\<num\>\/8:27 aM\<num\>\/8:27 am\<num\>	^8:27 AM<num>/8:27 Am<num>/8:27 aM<num>/8:27 am<num>$
+      1 #8:23 AM.\<num\>\/8:23 Am.\<num\>\/8:23 aM.\<num\>\/8:23 am.\<num\>	^8:23 AM.<num>/8:23 Am.<num>/8:23 aM.<num>/8:23 am.<num>$
+      1 #8:23 AM\<num\>\/8:23 Am\<num\>\/8:23 aM\<num\>\/8:23 am\<num\>	^8:23 AM<num>/8:23 Am<num>/8:23 aM<num>/8:23 am<num>$
+      1 #8:22 AM.\<num\>\/8:22 Am.\<num\>\/8:22 aM.\<num\>\/8:22 am.\<num\>	^8:22 AM.<num>/8:22 Am.<num>/8:22 aM.<num>/8:22 am.<num>$
+      1 #8:20 PM\<num\>\/8:20 Pm\<num\>\/8:20 pM\<num\>\/8:20 pm\<num\>	^8:20 PM<num>/8:20 Pm<num>/8:20 pM<num>/8:20 pm<num>$
+      1 #8:20 AM\<num\>\/8:20 Am\<num\>\/8:20 aM\<num\>\/8:20 am\<num\>	^8:20 AM<num>/8:20 Am<num>/8:20 aM<num>/8:20 am<num>$
+      1 #8:19 PM\<num\>\/8:19 Pm\<num\>\/8:19 pM\<num\>\/8:19 pm\<num\>	^8:19 PM<num>/8:19 Pm<num>/8:19 pM<num>/8:19 pm<num>$
+      1 #8:19 AM.\<num\>\/8:19 Am.\<num\>\/8:19 aM.\<num\>\/8:19 am.\<num\>	^8:19 AM.<num>/8:19 Am.<num>/8:19 aM.<num>/8:19 am.<num>$
+      1 #8:18 PM\<num\>\/8:18 Pm\<num\>\/8:18 pM\<num\>\/8:18 pm\<num\>	^8:18 PM<num>/8:18 Pm<num>/8:18 pM<num>/8:18 pm<num>$
+      1 #8:18 AM\<num\>\/8:18 Am\<num\>\/8:18 aM\<num\>\/8:18 am\<num\>	^8:18 AM<num>/8:18 Am<num>/8:18 aM<num>/8:18 am<num>$
+      1 #8:16 AM\<num\>\/8:16 Am\<num\>\/8:16 aM\<num\>\/8:16 am\<num\>	^8:16 AM<num>/8:16 Am<num>/8:16 aM<num>/8:16 am<num>$
+      1 #8:13 PM\<num\>\/8:13 Pm\<num\>\/8:13 pM\<num\>\/8:13 pm\<num\>	^8:13 PM<num>/8:13 Pm<num>/8:13 pM<num>/8:13 pm<num>$
+      1 #8:13 AM\<num\>\/8:13 Am\<num\>\/8:13 aM\<num\>\/8:13 am\<num\>	^8:13 AM<num>/8:13 Am<num>/8:13 aM<num>/8:13 am<num>$
+      1 #8:10 AM\<num\>\/8:10 Am\<num\>\/8:10 aM\<num\>\/8:10 am\<num\>	^8:10 AM<num>/8:10 Am<num>/8:10 aM<num>/8:10 am<num>$
+      1 #8:08 AM.\<num\>\/8:08 Am.\<num\>\/8:08 aM.\<num\>\/8:08 am.\<num\>	^8:08 AM.<num>/8:08 Am.<num>/8:08 aM.<num>/8:08 am.<num>$
+      1 #8:06 AM.\<num\>\/8:06 Am.\<num\>\/8:06 aM.\<num\>\/8:06 am.\<num\>	^8:06 AM.<num>/8:06 Am.<num>/8:06 aM.<num>/8:06 am.<num>$
+      1 #8:03 PM.\<num\>\/8:03 Pm.\<num\>\/8:03 pM.\<num\>\/8:03 pm.\<num\>	^8:03 PM.<num>/8:03 Pm.<num>/8:03 pM.<num>/8:03 pm.<num>$
+      1 #8:00 PM.\<num\>\/8:00 Pm.\<num\>\/8:00 pM.\<num\>\/8:00 pm.\<num\>	^8:00 PM.<num>/8:00 Pm.<num>/8:00 pM.<num>/8:00 pm.<num>$
+      1 #8:00 AM.\<num\>\/8:00 Am.\<num\>\/8:00 aM.\<num\>\/8:00 am.\<num\>	^8:00 AM.<num>/8:00 Am.<num>/8:00 aM.<num>/8:00 am.<num>$
+      1 #7:59 AM.\<num\>\/7:59 Am.\<num\>\/7:59 aM.\<num\>\/7:59 am.\<num\>	^7:59 AM.<num>/7:59 Am.<num>/7:59 aM.<num>/7:59 am.<num>$
+      1 #7:59 AM\<num\>\/7:59 Am\<num\>\/7:59 aM\<num\>\/7:59 am\<num\>	^7:59 AM<num>/7:59 Am<num>/7:59 aM<num>/7:59 am<num>$
+      1 #7:54 AM.\<num\>\/7:54 Am.\<num\>\/7:54 aM.\<num\>\/7:54 am.\<num\>	^7:54 AM.<num>/7:54 Am.<num>/7:54 aM.<num>/7:54 am.<num>$
+      1 #7:53 PM\<num\>\/7:53 Pm\<num\>\/7:53 pM\<num\>\/7:53 pm\<num\>	^7:53 PM<num>/7:53 Pm<num>/7:53 pM<num>/7:53 pm<num>$
+      1 #7:52 PM.\<num\>\/7:52 Pm.\<num\>\/7:52 pM.\<num\>\/7:52 pm.\<num\>	^7:52 PM.<num>/7:52 Pm.<num>/7:52 pM.<num>/7:52 pm.<num>$
+      1 #7:50 AM.\<num\>\/7:50 Am.\<num\>\/7:50 aM.\<num\>\/7:50 am.\<num\>	^7:50 AM.<num>/7:50 Am.<num>/7:50 aM.<num>/7:50 am.<num>$
+      1 #7:49 PM.\<num\>\/7:49 Pm.\<num\>\/7:49 pM.\<num\>\/7:49 pm.\<num\>	^7:49 PM.<num>/7:49 Pm.<num>/7:49 pM.<num>/7:49 pm.<num>$
+      1 #7:48 PM.\<num\>\/7:48 Pm.\<num\>\/7:48 pM.\<num\>\/7:48 pm.\<num\>	^7:48 PM.<num>/7:48 Pm.<num>/7:48 pM.<num>/7:48 pm.<num>$
+      1 #7:47 PM\<num\>\/7:47 Pm\<num\>\/7:47 pM\<num\>\/7:47 pm\<num\>	^7:47 PM<num>/7:47 Pm<num>/7:47 pM<num>/7:47 pm<num>$
+      1 #7:41 PM\<num\>\/7:41 Pm\<num\>\/7:41 pM\<num\>\/7:41 pm\<num\>	^7:41 PM<num>/7:41 Pm<num>/7:41 pM<num>/7:41 pm<num>$
+      1 #7:39 AM\<num\>\/7:39 Am\<num\>\/7:39 aM\<num\>\/7:39 am\<num\>	^7:39 AM<num>/7:39 Am<num>/7:39 aM<num>/7:39 am<num>$
+      1 #7:38 PM.\<num\>\/7:38 Pm.\<num\>\/7:38 pM.\<num\>\/7:38 pm.\<num\>	^7:38 PM.<num>/7:38 Pm.<num>/7:38 pM.<num>/7:38 pm.<num>$
+      1 #7:36 PM.\<num\>\/7:36 Pm.\<num\>\/7:36 pM.\<num\>\/7:36 pm.\<num\>	^7:36 PM.<num>/7:36 Pm.<num>/7:36 pM.<num>/7:36 pm.<num>$
+      1 #7:33 AM.\<num\>\/7:33 Am.\<num\>\/7:33 aM.\<num\>\/7:33 am.\<num\>	^7:33 AM.<num>/7:33 Am.<num>/7:33 aM.<num>/7:33 am.<num>$
+      1 #7:32 PM\<num\>\/7:32 Pm\<num\>\/7:32 pM\<num\>\/7:32 pm\<num\>	^7:32 PM<num>/7:32 Pm<num>/7:32 pM<num>/7:32 pm<num>$
+      1 #7:32 AM.\<num\>\/7:32 Am.\<num\>\/7:32 aM.\<num\>\/7:32 am.\<num\>	^7:32 AM.<num>/7:32 Am.<num>/7:32 aM.<num>/7:32 am.<num>$
+      1 #7:30 AM.\<num\>\/7:30 Am.\<num\>\/7:30 aM.\<num\>\/7:30 am.\<num\>	^7:30 AM.<num>/7:30 Am.<num>/7:30 aM.<num>/7:30 am.<num>$
+      1 #7:28 AM.\<num\>\/7:28 Am.\<num\>\/7:28 aM.\<num\>\/7:28 am.\<num\>	^7:28 AM.<num>/7:28 Am.<num>/7:28 aM.<num>/7:28 am.<num>$
+      1 #7:25 PM\<num\>\/7:25 Pm\<num\>\/7:25 pM\<num\>\/7:25 pm\<num\>	^7:25 PM<num>/7:25 Pm<num>/7:25 pM<num>/7:25 pm<num>$
+      1 #7:24 PM.\<num\>\/7:24 Pm.\<num\>\/7:24 pM.\<num\>\/7:24 pm.\<num\>	^7:24 PM.<num>/7:24 Pm.<num>/7:24 pM.<num>/7:24 pm.<num>$
+      1 #7:24 PM\<num\>\/7:24 Pm\<num\>\/7:24 pM\<num\>\/7:24 pm\<num\>	^7:24 PM<num>/7:24 Pm<num>/7:24 pM<num>/7:24 pm<num>$
+      1 #7:23 PM.\<num\>\/7:23 Pm.\<num\>\/7:23 pM.\<num\>\/7:23 pm.\<num\>	^7:23 PM.<num>/7:23 Pm.<num>/7:23 pM.<num>/7:23 pm.<num>$
+      1 #7:21 AM.\<num\>\/7:21 Am.\<num\>\/7:21 aM.\<num\>\/7:21 am.\<num\>	^7:21 AM.<num>/7:21 Am.<num>/7:21 aM.<num>/7:21 am.<num>$
+      1 #7:17 PM\<num\>\/7:17 Pm\<num\>\/7:17 pM\<num\>\/7:17 pm\<num\>	^7:17 PM<num>/7:17 Pm<num>/7:17 pM<num>/7:17 pm<num>$
+      1 #7:16 PM.\<num\>\/7:16 Pm.\<num\>\/7:16 pM.\<num\>\/7:16 pm.\<num\>	^7:16 PM.<num>/7:16 Pm.<num>/7:16 pM.<num>/7:16 pm.<num>$
+      1 #7:16 PM\<num\>\/7:16 Pm\<num\>\/7:16 pM\<num\>\/7:16 pm\<num\>	^7:16 PM<num>/7:16 Pm<num>/7:16 pM<num>/7:16 pm<num>$
+      1 #7:15 PM.\<num\>\/7:15 Pm.\<num\>\/7:15 pM.\<num\>\/7:15 pm.\<num\>	^7:15 PM.<num>/7:15 Pm.<num>/7:15 pM.<num>/7:15 pm.<num>$
+      1 #7:14 PM\<num\>\/7:14 Pm\<num\>\/7:14 pM\<num\>\/7:14 pm\<num\>	^7:14 PM<num>/7:14 Pm<num>/7:14 pM<num>/7:14 pm<num>$
+      1 #7:13 AM\<num\>\/7:13 Am\<num\>\/7:13 aM\<num\>\/7:13 am\<num\>	^7:13 AM<num>/7:13 Am<num>/7:13 aM<num>/7:13 am<num>$
+      1 #7:12 PM\<num\>\/7:12 Pm\<num\>\/7:12 pM\<num\>\/7:12 pm\<num\>	^7:12 PM<num>/7:12 Pm<num>/7:12 pM<num>/7:12 pm<num>$
+      1 #7:10 AM.\<num\>\/7:10 Am.\<num\>\/7:10 aM.\<num\>\/7:10 am.\<num\>	^7:10 AM.<num>/7:10 Am.<num>/7:10 aM.<num>/7:10 am.<num>$
+      1 #7:09 PM.\<num\>\/7:09 Pm.\<num\>\/7:09 pM.\<num\>\/7:09 pm.\<num\>	^7:09 PM.<num>/7:09 Pm.<num>/7:09 pM.<num>/7:09 pm.<num>$
+      1 #7:08 PM\<num\>\/7:08 Pm\<num\>\/7:08 pM\<num\>\/7:08 pm\<num\>	^7:08 PM<num>/7:08 Pm<num>/7:08 pM<num>/7:08 pm<num>$
+      1 #7:08 AM\<num\>\/7:08 Am\<num\>\/7:08 aM\<num\>\/7:08 am\<num\>	^7:08 AM<num>/7:08 Am<num>/7:08 aM<num>/7:08 am<num>$
+      1 #7:06 PM.\<num\>\/7:06 Pm.\<num\>\/7:06 pM.\<num\>\/7:06 pm.\<num\>	^7:06 PM.<num>/7:06 Pm.<num>/7:06 pM.<num>/7:06 pm.<num>$
+      1 #7:05 PM.\<num\>\/7:05 Pm.\<num\>\/7:05 pM.\<num\>\/7:05 pm.\<num\>	^7:05 PM.<num>/7:05 Pm.<num>/7:05 pM.<num>/7:05 pm.<num>$
+      1 #7:05 PM\<num\>\/7:05 Pm\<num\>\/7:05 pM\<num\>\/7:05 pm\<num\>	^7:05 PM<num>/7:05 Pm<num>/7:05 pM<num>/7:05 pm<num>$
+      1 #6:58 PM.\<num\>\/6:58 Pm.\<num\>\/6:58 pM.\<num\>\/6:58 pm.\<num\>	^6:58 PM.<num>/6:58 Pm.<num>/6:58 pM.<num>/6:58 pm.<num>$
+      1 #6:56 PM\<num\>\/6:56 Pm\<num\>\/6:56 pM\<num\>\/6:56 pm\<num\>	^6:56 PM<num>/6:56 Pm<num>/6:56 pM<num>/6:56 pm<num>$
+      1 #6:55 PM.\<num\>\/6:55 Pm.\<num\>\/6:55 pM.\<num\>\/6:55 pm.\<num\>	^6:55 PM.<num>/6:55 Pm.<num>/6:55 pM.<num>/6:55 pm.<num>$
+      1 #6:52 PM.\<num\>\/6:52 Pm.\<num\>\/6:52 pM.\<num\>\/6:52 pm.\<num\>	^6:52 PM.<num>/6:52 Pm.<num>/6:52 pM.<num>/6:52 pm.<num>$
+      1 #6:51 PM.\<num\>\/6:51 Pm.\<num\>\/6:51 pM.\<num\>\/6:51 pm.\<num\>	^6:51 PM.<num>/6:51 Pm.<num>/6:51 pM.<num>/6:51 pm.<num>$
+      1 #6:51 PM\<num\>\/6:51 Pm\<num\>\/6:51 pM\<num\>\/6:51 pm\<num\>	^6:51 PM<num>/6:51 Pm<num>/6:51 pM<num>/6:51 pm<num>$
+      1 #6:45 PM.\<num\>\/6:45 Pm.\<num\>\/6:45 pM.\<num\>\/6:45 pm.\<num\>	^6:45 PM.<num>/6:45 Pm.<num>/6:45 pM.<num>/6:45 pm.<num>$
+      1 #6:43 PM\<num\>\/6:43 Pm\<num\>\/6:43 pM\<num\>\/6:43 pm\<num\>	^6:43 PM<num>/6:43 Pm<num>/6:43 pM<num>/6:43 pm<num>$
+      1 #6:42 PM.\<num\>\/6:42 Pm.\<num\>\/6:42 pM.\<num\>\/6:42 pm.\<num\>	^6:42 PM.<num>/6:42 Pm.<num>/6:42 pM.<num>/6:42 pm.<num>$
+      1 #6:41 PM.\<num\>\/6:41 Pm.\<num\>\/6:41 pM.\<num\>\/6:41 pm.\<num\>	^6:41 PM.<num>/6:41 Pm.<num>/6:41 pM.<num>/6:41 pm.<num>$
+      1 #6:40 PM.\<num\>\/6:40 Pm.\<num\>\/6:40 pM.\<num\>\/6:40 pm.\<num\>	^6:40 PM.<num>/6:40 Pm.<num>/6:40 pM.<num>/6:40 pm.<num>$
+      1 #6:36 PM.\<num\>\/6:36 Pm.\<num\>\/6:36 pM.\<num\>\/6:36 pm.\<num\>	^6:36 PM.<num>/6:36 Pm.<num>/6:36 pM.<num>/6:36 pm.<num>$
+      1 #6:35 AM.\<num\>\/6:35 Am.\<num\>\/6:35 aM.\<num\>\/6:35 am.\<num\>	^6:35 AM.<num>/6:35 Am.<num>/6:35 aM.<num>/6:35 am.<num>$
+      1 #6:30 PM\<num\>\/6:30 Pm\<num\>\/6:30 pM\<num\>\/6:30 pm\<num\>	^6:30 PM<num>/6:30 Pm<num>/6:30 pM<num>/6:30 pm<num>$
+      1 #6:29 AM.\<num\>\/6:29 Am.\<num\>\/6:29 aM.\<num\>\/6:29 am.\<num\>	^6:29 AM.<num>/6:29 Am.<num>/6:29 aM.<num>/6:29 am.<num>$
+      1 #6:28 PM.\<num\>\/6:28 Pm.\<num\>\/6:28 pM.\<num\>\/6:28 pm.\<num\>	^6:28 PM.<num>/6:28 Pm.<num>/6:28 pM.<num>/6:28 pm.<num>$
+      1 #6:25 PM.\<num\>\/6:25 Pm.\<num\>\/6:25 pM.\<num\>\/6:25 pm.\<num\>	^6:25 PM.<num>/6:25 Pm.<num>/6:25 pM.<num>/6:25 pm.<num>$
+      1 #6:25 PM\<num\>\/6:25 Pm\<num\>\/6:25 pM\<num\>\/6:25 pm\<num\>	^6:25 PM<num>/6:25 Pm<num>/6:25 pM<num>/6:25 pm<num>$
+      1 #6:24 PM\<num\>\/6:24 Pm\<num\>\/6:24 pM\<num\>\/6:24 pm\<num\>	^6:24 PM<num>/6:24 Pm<num>/6:24 pM<num>/6:24 pm<num>$
+      1 #6:20 PM\<num\>\/6:20 Pm\<num\>\/6:20 pM\<num\>\/6:20 pm\<num\>	^6:20 PM<num>/6:20 Pm<num>/6:20 pM<num>/6:20 pm<num>$
+      1 #6:18 AM.\<num\>\/6:18 Am.\<num\>\/6:18 aM.\<num\>\/6:18 am.\<num\>	^6:18 AM.<num>/6:18 Am.<num>/6:18 aM.<num>/6:18 am.<num>$
+      1 #6:13 PM\<num\>\/6:13 Pm\<num\>\/6:13 pM\<num\>\/6:13 pm\<num\>	^6:13 PM<num>/6:13 Pm<num>/6:13 pM<num>/6:13 pm<num>$
+      1 #6:13 AM.\<num\>\/6:13 Am.\<num\>\/6:13 aM.\<num\>\/6:13 am.\<num\>	^6:13 AM.<num>/6:13 Am.<num>/6:13 aM.<num>/6:13 am.<num>$
+      1 #6:12 AM\<num\>\/6:12 Am\<num\>\/6:12 aM\<num\>\/6:12 am\<num\>	^6:12 AM<num>/6:12 Am<num>/6:12 aM<num>/6:12 am<num>$
+      1 #6:11 PM.\<num\>\/6:11 Pm.\<num\>\/6:11 pM.\<num\>\/6:11 pm.\<num\>	^6:11 PM.<num>/6:11 Pm.<num>/6:11 pM.<num>/6:11 pm.<num>$
+      1 #6:10 PM.\<num\>\/6:10 Pm.\<num\>\/6:10 pM.\<num\>\/6:10 pm.\<num\>	^6:10 PM.<num>/6:10 Pm.<num>/6:10 pM.<num>/6:10 pm.<num>$
+      1 #6:09 AM.\<num\>\/6:09 Am.\<num\>\/6:09 aM.\<num\>\/6:09 am.\<num\>	^6:09 AM.<num>/6:09 Am.<num>/6:09 aM.<num>/6:09 am.<num>$
+      1 #6:09 AM\<num\>\/6:09 Am\<num\>\/6:09 aM\<num\>\/6:09 am\<num\>	^6:09 AM<num>/6:09 Am<num>/6:09 aM<num>/6:09 am<num>$
+      1 #6:05 PM.\<num\>\/6:05 Pm.\<num\>\/6:05 pM.\<num\>\/6:05 pm.\<num\>	^6:05 PM.<num>/6:05 Pm.<num>/6:05 pM.<num>/6:05 pm.<num>$
+      1 #6:05 PM\<num\>\/6:05 Pm\<num\>\/6:05 pM\<num\>\/6:05 pm\<num\>	^6:05 PM<num>/6:05 Pm<num>/6:05 pM<num>/6:05 pm<num>$
+      1 #6:05 AM.\<num\>\/6:05 Am.\<num\>\/6:05 aM.\<num\>\/6:05 am.\<num\>	^6:05 AM.<num>/6:05 Am.<num>/6:05 aM.<num>/6:05 am.<num>$
+      1 #6:04 AM.\<num\>\/6:04 Am.\<num\>\/6:04 aM.\<num\>\/6:04 am.\<num\>	^6:04 AM.<num>/6:04 Am.<num>/6:04 aM.<num>/6:04 am.<num>$
+      1 #6:02 PM.\<num\>\/6:02 Pm.\<num\>\/6:02 pM.\<num\>\/6:02 pm.\<num\>	^6:02 PM.<num>/6:02 Pm.<num>/6:02 pM.<num>/6:02 pm.<num>$
+      1 #6:01 AM.\<num\>\/6:01 Am.\<num\>\/6:01 aM.\<num\>\/6:01 am.\<num\>	^6:01 AM.<num>/6:01 Am.<num>/6:01 aM.<num>/6:01 am.<num>$
+      1 #6:00 PM\<num\>\/6:00 Pm\<num\>\/6:00 pM\<num\>\/6:00 pm\<num\>	^6:00 PM<num>/6:00 Pm<num>/6:00 pM<num>/6:00 pm<num>$
+      1 #5:58 PM.\<num\>\/5:58 Pm.\<num\>\/5:58 pM.\<num\>\/5:58 pm.\<num\>	^5:58 PM.<num>/5:58 Pm.<num>/5:58 pM.<num>/5:58 pm.<num>$
+      1 #5:49 PM.\<num\>\/5:49 Pm.\<num\>\/5:49 pM.\<num\>\/5:49 pm.\<num\>	^5:49 PM.<num>/5:49 Pm.<num>/5:49 pM.<num>/5:49 pm.<num>$
+      1 #5:48 PM\<num\>\/5:48 Pm\<num\>\/5:48 pM\<num\>\/5:48 pm\<num\>	^5:48 PM<num>/5:48 Pm<num>/5:48 pM<num>/5:48 pm<num>$
+      1 #5:45 PM\<num\>\/5:45 Pm\<num\>\/5:45 pM\<num\>\/5:45 pm\<num\>	^5:45 PM<num>/5:45 Pm<num>/5:45 pM<num>/5:45 pm<num>$
+      1 #5:40 PM.\<num\>\/5:40 Pm.\<num\>\/5:40 pM.\<num\>\/5:40 pm.\<num\>	^5:40 PM.<num>/5:40 Pm.<num>/5:40 pM.<num>/5:40 pm.<num>$
+      1 #5:34 PM.\<num\>\/5:34 Pm.\<num\>\/5:34 pM.\<num\>\/5:34 pm.\<num\>	^5:34 PM.<num>/5:34 Pm.<num>/5:34 pM.<num>/5:34 pm.<num>$
+      1 #5:32 PM.\<num\>\/5:32 Pm.\<num\>\/5:32 pM.\<num\>\/5:32 pm.\<num\>	^5:32 PM.<num>/5:32 Pm.<num>/5:32 pM.<num>/5:32 pm.<num>$
+      1 #5:31 PM.\<num\>\/5:31 Pm.\<num\>\/5:31 pM.\<num\>\/5:31 pm.\<num\>	^5:31 PM.<num>/5:31 Pm.<num>/5:31 pM.<num>/5:31 pm.<num>$
+      1 #5:30 AM.\<num\>\/5:30 Am.\<num\>\/5:30 aM.\<num\>\/5:30 am.\<num\>	^5:30 AM.<num>/5:30 Am.<num>/5:30 aM.<num>/5:30 am.<num>$
+      1 #5:29 AM.\<num\>\/5:29 Am.\<num\>\/5:29 aM.\<num\>\/5:29 am.\<num\>	^5:29 AM.<num>/5:29 Am.<num>/5:29 aM.<num>/5:29 am.<num>$
+      1 #5:25 PM\<num\>\/5:25 Pm\<num\>\/5:25 pM\<num\>\/5:25 pm\<num\>	^5:25 PM<num>/5:25 Pm<num>/5:25 pM<num>/5:25 pm<num>$
+      1 #5:25 AM.\<num\>\/5:25 Am.\<num\>\/5:25 aM.\<num\>\/5:25 am.\<num\>	^5:25 AM.<num>/5:25 Am.<num>/5:25 aM.<num>/5:25 am.<num>$
+      1 #5:18 PM\<num\>\/5:18 Pm\<num\>\/5:18 pM\<num\>\/5:18 pm\<num\>	^5:18 PM<num>/5:18 Pm<num>/5:18 pM<num>/5:18 pm<num>$
+      1 #5:18 AM.\<num\>\/5:18 Am.\<num\>\/5:18 aM.\<num\>\/5:18 am.\<num\>	^5:18 AM.<num>/5:18 Am.<num>/5:18 aM.<num>/5:18 am.<num>$
+      1 #5:14 AM.\<num\>\/5:14 Am.\<num\>\/5:14 aM.\<num\>\/5:14 am.\<num\>	^5:14 AM.<num>/5:14 Am.<num>/5:14 aM.<num>/5:14 am.<num>$
+      1 #5:11 PM.\<num\>\/5:11 Pm.\<num\>\/5:11 pM.\<num\>\/5:11 pm.\<num\>	^5:11 PM.<num>/5:11 Pm.<num>/5:11 pM.<num>/5:11 pm.<num>$
+      1 #5:10 PM.\<num\>\/5:10 Pm.\<num\>\/5:10 pM.\<num\>\/5:10 pm.\<num\>	^5:10 PM.<num>/5:10 Pm.<num>/5:10 pM.<num>/5:10 pm.<num>$
+      1 #5:07 PM\<num\>\/5:07 Pm\<num\>\/5:07 pM\<num\>\/5:07 pm\<num\>	^5:07 PM<num>/5:07 Pm<num>/5:07 pM<num>/5:07 pm<num>$
+      1 #5:06 AM.\<num\>\/5:06 Am.\<num\>\/5:06 aM.\<num\>\/5:06 am.\<num\>	^5:06 AM.<num>/5:06 Am.<num>/5:06 aM.<num>/5:06 am.<num>$
+      1 #5:05 PM\<num\>\/5:05 Pm\<num\>\/5:05 pM\<num\>\/5:05 pm\<num\>	^5:05 PM<num>/5:05 Pm<num>/5:05 pM<num>/5:05 pm<num>$
+      1 #5:04 PM.\<num\>\/5:04 Pm.\<num\>\/5:04 pM.\<num\>\/5:04 pm.\<num\>	^5:04 PM.<num>/5:04 Pm.<num>/5:04 pM.<num>/5:04 pm.<num>$
+      1 #5:00 AM.\<num\>\/5:00 Am.\<num\>\/5:00 aM.\<num\>\/5:00 am.\<num\>	^5:00 AM.<num>/5:00 Am.<num>/5:00 aM.<num>/5:00 am.<num>$
+      1 #4:59 PM.\<num\>\/4:59 Pm.\<num\>\/4:59 pM.\<num\>\/4:59 pm.\<num\>	^4:59 PM.<num>/4:59 Pm.<num>/4:59 pM.<num>/4:59 pm.<num>$
+      1 #4:55 AM\<num\>\/4:55 Am\<num\>\/4:55 aM\<num\>\/4:55 am\<num\>	^4:55 AM<num>/4:55 Am<num>/4:55 aM<num>/4:55 am<num>$
+      1 #4:53 PM\<num\>\/4:53 Pm\<num\>\/4:53 pM\<num\>\/4:53 pm\<num\>	^4:53 PM<num>/4:53 Pm<num>/4:53 pM<num>/4:53 pm<num>$
+      1 #4:52 PM.\<num\>\/4:52 Pm.\<num\>\/4:52 pM.\<num\>\/4:52 pm.\<num\>	^4:52 PM.<num>/4:52 Pm.<num>/4:52 pM.<num>/4:52 pm.<num>$
+      1 #4:50 PM\<num\>\/4:50 Pm\<num\>\/4:50 pM\<num\>\/4:50 pm\<num\>	^4:50 PM<num>/4:50 Pm<num>/4:50 pM<num>/4:50 pm<num>$
+      1 #4:49 PM\<num\>\/4:49 Pm\<num\>\/4:49 pM\<num\>\/4:49 pm\<num\>	^4:49 PM<num>/4:49 Pm<num>/4:49 pM<num>/4:49 pm<num>$
+      1 #4:47 AM.\<num\>\/4:47 Am.\<num\>\/4:47 aM.\<num\>\/4:47 am.\<num\>	^4:47 AM.<num>/4:47 Am.<num>/4:47 aM.<num>/4:47 am.<num>$
+      1 #4:46 PM\<num\>\/4:46 Pm\<num\>\/4:46 pM\<num\>\/4:46 pm\<num\>	^4:46 PM<num>/4:46 Pm<num>/4:46 pM<num>/4:46 pm<num>$
+      1 #4:45 PM.\<num\>\/4:45 Pm.\<num\>\/4:45 pM.\<num\>\/4:45 pm.\<num\>	^4:45 PM.<num>/4:45 Pm.<num>/4:45 pM.<num>/4:45 pm.<num>$
+      1 #4:45 PM\<num\>\/4:45 Pm\<num\>\/4:45 pM\<num\>\/4:45 pm\<num\>	^4:45 PM<num>/4:45 Pm<num>/4:45 pM<num>/4:45 pm<num>$
+      1 #4:44 PM.\<num\>\/4:44 Pm.\<num\>\/4:44 pM.\<num\>\/4:44 pm.\<num\>	^4:44 PM.<num>/4:44 Pm.<num>/4:44 pM.<num>/4:44 pm.<num>$
+      1 #4:44 PM\<num\>\/4:44 Pm\<num\>\/4:44 pM\<num\>\/4:44 pm\<num\>	^4:44 PM<num>/4:44 Pm<num>/4:44 pM<num>/4:44 pm<num>$
+      1 #4:44 AM.\<num\>\/4:44 Am.\<num\>\/4:44 aM.\<num\>\/4:44 am.\<num\>	^4:44 AM.<num>/4:44 Am.<num>/4:44 aM.<num>/4:44 am.<num>$
+      1 #4:43 PM.\<num\>\/4:43 Pm.\<num\>\/4:43 pM.\<num\>\/4:43 pm.\<num\>	^4:43 PM.<num>/4:43 Pm.<num>/4:43 pM.<num>/4:43 pm.<num>$
+      1 #4:40 PM.\<num\>\/4:40 Pm.\<num\>\/4:40 pM.\<num\>\/4:40 pm.\<num\>	^4:40 PM.<num>/4:40 Pm.<num>/4:40 pM.<num>/4:40 pm.<num>$
+      1 #4:40 PM\<num\>\/4:40 Pm\<num\>\/4:40 pM\<num\>\/4:40 pm\<num\>	^4:40 PM<num>/4:40 Pm<num>/4:40 pM<num>/4:40 pm<num>$
+      1 #4:38 PM\<num\>\/4:38 Pm\<num\>\/4:38 pM\<num\>\/4:38 pm\<num\>	^4:38 PM<num>/4:38 Pm<num>/4:38 pM<num>/4:38 pm<num>$
+      1 #4:36 PM\<num\>\/4:36 Pm\<num\>\/4:36 pM\<num\>\/4:36 pm\<num\>	^4:36 PM<num>/4:36 Pm<num>/4:36 pM<num>/4:36 pm<num>$
+      1 #4:35 PM\<num\>\/4:35 Pm\<num\>\/4:35 pM\<num\>\/4:35 pm\<num\>	^4:35 PM<num>/4:35 Pm<num>/4:35 pM<num>/4:35 pm<num>$
+      1 #4:33 AM.\<num\>\/4:33 Am.\<num\>\/4:33 aM.\<num\>\/4:33 am.\<num\>	^4:33 AM.<num>/4:33 Am.<num>/4:33 aM.<num>/4:33 am.<num>$
+      1 #4:31 PM.\<num\>\/4:31 Pm.\<num\>\/4:31 pM.\<num\>\/4:31 pm.\<num\>	^4:31 PM.<num>/4:31 Pm.<num>/4:31 pM.<num>/4:31 pm.<num>$
+      1 #4:30 PM.\<num\>\/4:30 Pm.\<num\>\/4:30 pM.\<num\>\/4:30 pm.\<num\>	^4:30 PM.<num>/4:30 Pm.<num>/4:30 pM.<num>/4:30 pm.<num>$
+      1 #4:27 PM.\<num\>\/4:27 Pm.\<num\>\/4:27 pM.\<num\>\/4:27 pm.\<num\>	^4:27 PM.<num>/4:27 Pm.<num>/4:27 pM.<num>/4:27 pm.<num>$
+      1 #4:25 AM\<num\>\/4:25 Am\<num\>\/4:25 aM\<num\>\/4:25 am\<num\>	^4:25 AM<num>/4:25 Am<num>/4:25 aM<num>/4:25 am<num>$
+      1 #4:23 AM.\<num\>\/4:23 Am.\<num\>\/4:23 aM.\<num\>\/4:23 am.\<num\>	^4:23 AM.<num>/4:23 Am.<num>/4:23 aM.<num>/4:23 am.<num>$
+      1 #4:22 PM.\<num\>\/4:22 Pm.\<num\>\/4:22 pM.\<num\>\/4:22 pm.\<num\>	^4:22 PM.<num>/4:22 Pm.<num>/4:22 pM.<num>/4:22 pm.<num>$
+      1 #4:21 AM.\<num\>\/4:21 Am.\<num\>\/4:21 aM.\<num\>\/4:21 am.\<num\>	^4:21 AM.<num>/4:21 Am.<num>/4:21 aM.<num>/4:21 am.<num>$
+      1 #4:20 PM.\<num\>\/4:20 Pm.\<num\>\/4:20 pM.\<num\>\/4:20 pm.\<num\>	^4:20 PM.<num>/4:20 Pm.<num>/4:20 pM.<num>/4:20 pm.<num>$
+      1 #4:20 AM.\<num\>\/4:20 Am.\<num\>\/4:20 aM.\<num\>\/4:20 am.\<num\>	^4:20 AM.<num>/4:20 Am.<num>/4:20 aM.<num>/4:20 am.<num>$
+      1 #4:19 PM\<num\>\/4:19 Pm\<num\>\/4:19 pM\<num\>\/4:19 pm\<num\>	^4:19 PM<num>/4:19 Pm<num>/4:19 pM<num>/4:19 pm<num>$
+      1 #4:17 PM.\<num\>\/4:17 Pm.\<num\>\/4:17 pM.\<num\>\/4:17 pm.\<num\>	^4:17 PM.<num>/4:17 Pm.<num>/4:17 pM.<num>/4:17 pm.<num>$
+      1 #4:17 PM\<num\>\/4:17 Pm\<num\>\/4:17 pM\<num\>\/4:17 pm\<num\>	^4:17 PM<num>/4:17 Pm<num>/4:17 pM<num>/4:17 pm<num>$
+      1 #4:16 AM.\<num\>\/4:16 Am.\<num\>\/4:16 aM.\<num\>\/4:16 am.\<num\>	^4:16 AM.<num>/4:16 Am.<num>/4:16 aM.<num>/4:16 am.<num>$
+      1 #4:13 AM.\<num\>\/4:13 Am.\<num\>\/4:13 aM.\<num\>\/4:13 am.\<num\>	^4:13 AM.<num>/4:13 Am.<num>/4:13 aM.<num>/4:13 am.<num>$
+      1 #4:12 PM.\<num\>\/4:12 Pm.\<num\>\/4:12 pM.\<num\>\/4:12 pm.\<num\>	^4:12 PM.<num>/4:12 Pm.<num>/4:12 pM.<num>/4:12 pm.<num>$
+      1 #4:12 AM.\<num\>\/4:12 Am.\<num\>\/4:12 aM.\<num\>\/4:12 am.\<num\>	^4:12 AM.<num>/4:12 Am.<num>/4:12 aM.<num>/4:12 am.<num>$
+      1 #4:11 AM.\<num\>\/4:11 Am.\<num\>\/4:11 aM.\<num\>\/4:11 am.\<num\>	^4:11 AM.<num>/4:11 Am.<num>/4:11 aM.<num>/4:11 am.<num>$
+      1 #4:10 AM\<num\>\/4:10 Am\<num\>\/4:10 aM\<num\>\/4:10 am\<num\>	^4:10 AM<num>/4:10 Am<num>/4:10 aM<num>/4:10 am<num>$
+      1 #4:08 PM.\<num\>\/4:08 Pm.\<num\>\/4:08 pM.\<num\>\/4:08 pm.\<num\>	^4:08 PM.<num>/4:08 Pm.<num>/4:08 pM.<num>/4:08 pm.<num>$
+      1 #4:08 PM\<num\>\/4:08 Pm\<num\>\/4:08 pM\<num\>\/4:08 pm\<num\>	^4:08 PM<num>/4:08 Pm<num>/4:08 pM<num>/4:08 pm<num>$
+      1 #4:05 PM.\<num\>\/4:05 Pm.\<num\>\/4:05 pM.\<num\>\/4:05 pm.\<num\>	^4:05 PM.<num>/4:05 Pm.<num>/4:05 pM.<num>/4:05 pm.<num>$
+      1 #4:04 AM.\<num\>\/4:04 Am.\<num\>\/4:04 aM.\<num\>\/4:04 am.\<num\>	^4:04 AM.<num>/4:04 Am.<num>/4:04 aM.<num>/4:04 am.<num>$
+      1 #4:03 PM.\<num\>\/4:03 Pm.\<num\>\/4:03 pM.\<num\>\/4:03 pm.\<num\>	^4:03 PM.<num>/4:03 Pm.<num>/4:03 pM.<num>/4:03 pm.<num>$
+      1 #4:02 PM.\<num\>\/4:02 Pm.\<num\>\/4:02 pM.\<num\>\/4:02 pm.\<num\>	^4:02 PM.<num>/4:02 Pm.<num>/4:02 pM.<num>/4:02 pm.<num>$
+      1 #3:59 AM.\<num\>\/3:59 Am.\<num\>\/3:59 aM.\<num\>\/3:59 am.\<num\>	^3:59 AM.<num>/3:59 Am.<num>/3:59 aM.<num>/3:59 am.<num>$
+      1 #3:57 AM\<num\>\/3:57 Am\<num\>\/3:57 aM\<num\>\/3:57 am\<num\>	^3:57 AM<num>/3:57 Am<num>/3:57 aM<num>/3:57 am<num>$
+      1 #3:51 PM.\<num\>\/3:51 Pm.\<num\>\/3:51 pM.\<num\>\/3:51 pm.\<num\>	^3:51 PM.<num>/3:51 Pm.<num>/3:51 pM.<num>/3:51 pm.<num>$
+      1 #3:51 AM\<num\>\/3:51 Am\<num\>\/3:51 aM\<num\>\/3:51 am\<num\>	^3:51 AM<num>/3:51 Am<num>/3:51 aM<num>/3:51 am<num>$
+      1 #3:50 PM.\<num\>\/3:50 Pm.\<num\>\/3:50 pM.\<num\>\/3:50 pm.\<num\>	^3:50 PM.<num>/3:50 Pm.<num>/3:50 pM.<num>/3:50 pm.<num>$
+      1 #3:49 AM.\<num\>\/3:49 Am.\<num\>\/3:49 aM.\<num\>\/3:49 am.\<num\>	^3:49 AM.<num>/3:49 Am.<num>/3:49 aM.<num>/3:49 am.<num>$
+      1 #3:48 PM\<num\>\/3:48 Pm\<num\>\/3:48 pM\<num\>\/3:48 pm\<num\>	^3:48 PM<num>/3:48 Pm<num>/3:48 pM<num>/3:48 pm<num>$
+      1 #3:43 PM.\<num\>\/3:43 Pm.\<num\>\/3:43 pM.\<num\>\/3:43 pm.\<num\>	^3:43 PM.<num>/3:43 Pm.<num>/3:43 pM.<num>/3:43 pm.<num>$
+      1 #3:39 PM.\<num\>\/3:39 Pm.\<num\>\/3:39 pM.\<num\>\/3:39 pm.\<num\>	^3:39 PM.<num>/3:39 Pm.<num>/3:39 pM.<num>/3:39 pm.<num>$
+      1 #3:38 PM.\<num\>\/3:38 Pm.\<num\>\/3:38 pM.\<num\>\/3:38 pm.\<num\>	^3:38 PM.<num>/3:38 Pm.<num>/3:38 pM.<num>/3:38 pm.<num>$
+      1 #3:36 PM.\<num\>\/3:36 Pm.\<num\>\/3:36 pM.\<num\>\/3:36 pm.\<num\>	^3:36 PM.<num>/3:36 Pm.<num>/3:36 pM.<num>/3:36 pm.<num>$
+      1 #3:33 PM\<num\>\/3:33 Pm\<num\>\/3:33 pM\<num\>\/3:33 pm\<num\>	^3:33 PM<num>/3:33 Pm<num>/3:33 pM<num>/3:33 pm<num>$
+      1 #3:33 AM.\<num\>\/3:33 Am.\<num\>\/3:33 aM.\<num\>\/3:33 am.\<num\>	^3:33 AM.<num>/3:33 Am.<num>/3:33 aM.<num>/3:33 am.<num>$
+      1 #3:29 PM\<num\>\/3:29 Pm\<num\>\/3:29 pM\<num\>\/3:29 pm\<num\>	^3:29 PM<num>/3:29 Pm<num>/3:29 pM<num>/3:29 pm<num>$
+      1 #3:27 PM\<num\>\/3:27 Pm\<num\>\/3:27 pM\<num\>\/3:27 pm\<num\>	^3:27 PM<num>/3:27 Pm<num>/3:27 pM<num>/3:27 pm<num>$
+      1 #3:27 AM.\<num\>\/3:27 Am.\<num\>\/3:27 aM.\<num\>\/3:27 am.\<num\>	^3:27 AM.<num>/3:27 Am.<num>/3:27 aM.<num>/3:27 am.<num>$
+      1 #3:26 AM.\<num\>\/3:26 Am.\<num\>\/3:26 aM.\<num\>\/3:26 am.\<num\>	^3:26 AM.<num>/3:26 Am.<num>/3:26 aM.<num>/3:26 am.<num>$
+      1 #3:25 PM.\<num\>\/3:25 Pm.\<num\>\/3:25 pM.\<num\>\/3:25 pm.\<num\>	^3:25 PM.<num>/3:25 Pm.<num>/3:25 pM.<num>/3:25 pm.<num>$
+      1 #3:23 PM.\<num\>\/3:23 Pm.\<num\>\/3:23 pM.\<num\>\/3:23 pm.\<num\>	^3:23 PM.<num>/3:23 Pm.<num>/3:23 pM.<num>/3:23 pm.<num>$
+      1 #3:22 PM.\<num\>\/3:22 Pm.\<num\>\/3:22 pM.\<num\>\/3:22 pm.\<num\>	^3:22 PM.<num>/3:22 Pm.<num>/3:22 pM.<num>/3:22 pm.<num>$
+      1 #3:22 PM\<num\>\/3:22 Pm\<num\>\/3:22 pM\<num\>\/3:22 pm\<num\>	^3:22 PM<num>/3:22 Pm<num>/3:22 pM<num>/3:22 pm<num>$
+      1 #3:21 PM.\<num\>\/3:21 Pm.\<num\>\/3:21 pM.\<num\>\/3:21 pm.\<num\>	^3:21 PM.<num>/3:21 Pm.<num>/3:21 pM.<num>/3:21 pm.<num>$
+      1 #3:21 AM.\<num\>\/3:21 Am.\<num\>\/3:21 aM.\<num\>\/3:21 am.\<num\>	^3:21 AM.<num>/3:21 Am.<num>/3:21 aM.<num>/3:21 am.<num>$
+      1 #3:19 PM\<num\>\/3:19 Pm\<num\>\/3:19 pM\<num\>\/3:19 pm\<num\>	^3:19 PM<num>/3:19 Pm<num>/3:19 pM<num>/3:19 pm<num>$
+      1 #3:18 PM.\<num\>\/3:18 Pm.\<num\>\/3:18 pM.\<num\>\/3:18 pm.\<num\>	^3:18 PM.<num>/3:18 Pm.<num>/3:18 pM.<num>/3:18 pm.<num>$
+      1 #3:17 AM.\<num\>\/3:17 Am.\<num\>\/3:17 aM.\<num\>\/3:17 am.\<num\>	^3:17 AM.<num>/3:17 Am.<num>/3:17 aM.<num>/3:17 am.<num>$
+      1 #3:17 AM\<num\>\/3:17 Am\<num\>\/3:17 aM\<num\>\/3:17 am\<num\>	^3:17 AM<num>/3:17 Am<num>/3:17 aM<num>/3:17 am<num>$
+      1 #3:16 PM\<num\>\/3:16 Pm\<num\>\/3:16 pM\<num\>\/3:16 pm\<num\>	^3:16 PM<num>/3:16 Pm<num>/3:16 pM<num>/3:16 pm<num>$
+      1 #3:15 PM\<num\>\/3:15 Pm\<num\>\/3:15 pM\<num\>\/3:15 pm\<num\>	^3:15 PM<num>/3:15 Pm<num>/3:15 pM<num>/3:15 pm<num>$
+      1 #3:14 AM.\<num\>\/3:14 Am.\<num\>\/3:14 aM.\<num\>\/3:14 am.\<num\>	^3:14 AM.<num>/3:14 Am.<num>/3:14 aM.<num>/3:14 am.<num>$
+      1 #3:12 AM\<num\>\/3:12 Am\<num\>\/3:12 aM\<num\>\/3:12 am\<num\>	^3:12 AM<num>/3:12 Am<num>/3:12 aM<num>/3:12 am<num>$
+      1 #3:11 AM.\<num\>\/3:11 Am.\<num\>\/3:11 aM.\<num\>\/3:11 am.\<num\>	^3:11 AM.<num>/3:11 Am.<num>/3:11 aM.<num>/3:11 am.<num>$
+      1 #3:10 PM\<num\>\/3:10 Pm\<num\>\/3:10 pM\<num\>\/3:10 pm\<num\>	^3:10 PM<num>/3:10 Pm<num>/3:10 pM<num>/3:10 pm<num>$
+      1 #3:07 PM.\<num\>\/3:07 Pm.\<num\>\/3:07 pM.\<num\>\/3:07 pm.\<num\>	^3:07 PM.<num>/3:07 Pm.<num>/3:07 pM.<num>/3:07 pm.<num>$
+      1 #3:07 PM\<num\>\/3:07 Pm\<num\>\/3:07 pM\<num\>\/3:07 pm\<num\>	^3:07 PM<num>/3:07 Pm<num>/3:07 pM<num>/3:07 pm<num>$
+      1 #3:06 AM.\<num\>\/3:06 Am.\<num\>\/3:06 aM.\<num\>\/3:06 am.\<num\>	^3:06 AM.<num>/3:06 Am.<num>/3:06 aM.<num>/3:06 am.<num>$
+      1 #3:04 AM.\<num\>\/3:04 Am.\<num\>\/3:04 aM.\<num\>\/3:04 am.\<num\>	^3:04 AM.<num>/3:04 Am.<num>/3:04 aM.<num>/3:04 am.<num>$
+      1 #3:03 PM.\<num\>\/3:03 Pm.\<num\>\/3:03 pM.\<num\>\/3:03 pm.\<num\>	^3:03 PM.<num>/3:03 Pm.<num>/3:03 pM.<num>/3:03 pm.<num>$
+      1 #3:02 AM\<num\>\/3:02 Am\<num\>\/3:02 aM\<num\>\/3:02 am\<num\>	^3:02 AM<num>/3:02 Am<num>/3:02 aM<num>/3:02 am<num>$
+      1 #2:59 PM.\<num\>\/2:59 Pm.\<num\>\/2:59 pM.\<num\>\/2:59 pm.\<num\>	^2:59 PM.<num>/2:59 Pm.<num>/2:59 pM.<num>/2:59 pm.<num>$
+      1 #2:58 PM.\<num\>\/2:58 Pm.\<num\>\/2:58 pM.\<num\>\/2:58 pm.\<num\>	^2:58 PM.<num>/2:58 Pm.<num>/2:58 pM.<num>/2:58 pm.<num>$
+      1 #2:57 AM.\<num\>\/2:57 Am.\<num\>\/2:57 aM.\<num\>\/2:57 am.\<num\>	^2:57 AM.<num>/2:57 Am.<num>/2:57 aM.<num>/2:57 am.<num>$
+      1 #2:57 AM\<num\>\/2:57 Am\<num\>\/2:57 aM\<num\>\/2:57 am\<num\>	^2:57 AM<num>/2:57 Am<num>/2:57 aM<num>/2:57 am<num>$
+      1 #2:56 AM.\<num\>\/2:56 Am.\<num\>\/2:56 aM.\<num\>\/2:56 am.\<num\>	^2:56 AM.<num>/2:56 Am.<num>/2:56 aM.<num>/2:56 am.<num>$
+      1 #2:55 AM.\<num\>\/2:55 Am.\<num\>\/2:55 aM.\<num\>\/2:55 am.\<num\>	^2:55 AM.<num>/2:55 Am.<num>/2:55 aM.<num>/2:55 am.<num>$
+      1 #2:54 PM.\<num\>\/2:54 Pm.\<num\>\/2:54 pM.\<num\>\/2:54 pm.\<num\>	^2:54 PM.<num>/2:54 Pm.<num>/2:54 pM.<num>/2:54 pm.<num>$
+      1 #2:51 PM\<num\>\/2:51 Pm\<num\>\/2:51 pM\<num\>\/2:51 pm\<num\>	^2:51 PM<num>/2:51 Pm<num>/2:51 pM<num>/2:51 pm<num>$
+      1 #2:51 AM\<num\>\/2:51 Am\<num\>\/2:51 aM\<num\>\/2:51 am\<num\>	^2:51 AM<num>/2:51 Am<num>/2:51 aM<num>/2:51 am<num>$
+      1 #2:49 AM.\<num\>\/2:49 Am.\<num\>\/2:49 aM.\<num\>\/2:49 am.\<num\>	^2:49 AM.<num>/2:49 Am.<num>/2:49 aM.<num>/2:49 am.<num>$
+      1 #2:48 AM.\<num\>\/2:48 Am.\<num\>\/2:48 aM.\<num\>\/2:48 am.\<num\>	^2:48 AM.<num>/2:48 Am.<num>/2:48 aM.<num>/2:48 am.<num>$
+      1 #2:47 PM\<num\>\/2:47 Pm\<num\>\/2:47 pM\<num\>\/2:47 pm\<num\>	^2:47 PM<num>/2:47 Pm<num>/2:47 pM<num>/2:47 pm<num>$
+      1 #2:46 AM.\<num\>\/2:46 Am.\<num\>\/2:46 aM.\<num\>\/2:46 am.\<num\>	^2:46 AM.<num>/2:46 Am.<num>/2:46 aM.<num>/2:46 am.<num>$
+      1 #2:43 AM.\<num\>\/2:43 Am.\<num\>\/2:43 aM.\<num\>\/2:43 am.\<num\>	^2:43 AM.<num>/2:43 Am.<num>/2:43 aM.<num>/2:43 am.<num>$
+      1 #2:41 AM\<num\>\/2:41 Am\<num\>\/2:41 aM\<num\>\/2:41 am\<num\>	^2:41 AM<num>/2:41 Am<num>/2:41 aM<num>/2:41 am<num>$
+      1 #2:40 AM.\<num\>\/2:40 Am.\<num\>\/2:40 aM.\<num\>\/2:40 am.\<num\>	^2:40 AM.<num>/2:40 Am.<num>/2:40 aM.<num>/2:40 am.<num>$
+      1 #2:38 PM.\<num\>\/2:38 Pm.\<num\>\/2:38 pM.\<num\>\/2:38 pm.\<num\>	^2:38 PM.<num>/2:38 Pm.<num>/2:38 pM.<num>/2:38 pm.<num>$
+      1 #2:37 PM\<num\>\/2:37 Pm\<num\>\/2:37 pM\<num\>\/2:37 pm\<num\>	^2:37 PM<num>/2:37 Pm<num>/2:37 pM<num>/2:37 pm<num>$
+      1 #2:34 PM.\<num\>\/2:34 Pm.\<num\>\/2:34 pM.\<num\>\/2:34 pm.\<num\>	^2:34 PM.<num>/2:34 Pm.<num>/2:34 pM.<num>/2:34 pm.<num>$
+      1 #2:34 PM\<num\>\/2:34 Pm\<num\>\/2:34 pM\<num\>\/2:34 pm\<num\>	^2:34 PM<num>/2:34 Pm<num>/2:34 pM<num>/2:34 pm<num>$
+      1 #2:34 AM.\<num\>\/2:34 Am.\<num\>\/2:34 aM.\<num\>\/2:34 am.\<num\>	^2:34 AM.<num>/2:34 Am.<num>/2:34 aM.<num>/2:34 am.<num>$
+      1 #2:33 AM.\<num\>\/2:33 Am.\<num\>\/2:33 aM.\<num\>\/2:33 am.\<num\>	^2:33 AM.<num>/2:33 Am.<num>/2:33 aM.<num>/2:33 am.<num>$
+      1 #2:32 PM.\<num\>\/2:32 Pm.\<num\>\/2:32 pM.\<num\>\/2:32 pm.\<num\>	^2:32 PM.<num>/2:32 Pm.<num>/2:32 pM.<num>/2:32 pm.<num>$
+      1 #2:31 PM.\<num\>\/2:31 Pm.\<num\>\/2:31 pM.\<num\>\/2:31 pm.\<num\>	^2:31 PM.<num>/2:31 Pm.<num>/2:31 pM.<num>/2:31 pm.<num>$
+      1 #2:29 PM\<num\>\/2:29 Pm\<num\>\/2:29 pM\<num\>\/2:29 pm\<num\>	^2:29 PM<num>/2:29 Pm<num>/2:29 pM<num>/2:29 pm<num>$
+      1 #2:27 PM.\<num\>\/2:27 Pm.\<num\>\/2:27 pM.\<num\>\/2:27 pm.\<num\>	^2:27 PM.<num>/2:27 Pm.<num>/2:27 pM.<num>/2:27 pm.<num>$
+      1 #2:27 AM\<num\>\/2:27 Am\<num\>\/2:27 aM\<num\>\/2:27 am\<num\>	^2:27 AM<num>/2:27 Am<num>/2:27 aM<num>/2:27 am<num>$
+      1 #2:25 PM\<num\>\/2:25 Pm\<num\>\/2:25 pM\<num\>\/2:25 pm\<num\>	^2:25 PM<num>/2:25 Pm<num>/2:25 pM<num>/2:25 pm<num>$
+      1 #2:24 AM.\<num\>\/2:24 Am.\<num\>\/2:24 aM.\<num\>\/2:24 am.\<num\>	^2:24 AM.<num>/2:24 Am.<num>/2:24 aM.<num>/2:24 am.<num>$
+      1 #2:23 PM\<num\>\/2:23 Pm\<num\>\/2:23 pM\<num\>\/2:23 pm\<num\>	^2:23 PM<num>/2:23 Pm<num>/2:23 pM<num>/2:23 pm<num>$
+      1 #2:23 AM.\<num\>\/2:23 Am.\<num\>\/2:23 aM.\<num\>\/2:23 am.\<num\>	^2:23 AM.<num>/2:23 Am.<num>/2:23 aM.<num>/2:23 am.<num>$
+      1 #2:22 PM.\<num\>\/2:22 Pm.\<num\>\/2:22 pM.\<num\>\/2:22 pm.\<num\>	^2:22 PM.<num>/2:22 Pm.<num>/2:22 pM.<num>/2:22 pm.<num>$
+      1 #2:22 PM\<num\>\/2:22 Pm\<num\>\/2:22 pM\<num\>\/2:22 pm\<num\>	^2:22 PM<num>/2:22 Pm<num>/2:22 pM<num>/2:22 pm<num>$
+      1 #2:21 AM.\<num\>\/2:21 Am.\<num\>\/2:21 aM.\<num\>\/2:21 am.\<num\>	^2:21 AM.<num>/2:21 Am.<num>/2:21 aM.<num>/2:21 am.<num>$
+      1 #2:20 PM.\<num\>\/2:20 Pm.\<num\>\/2:20 pM.\<num\>\/2:20 pm.\<num\>	^2:20 PM.<num>/2:20 Pm.<num>/2:20 pM.<num>/2:20 pm.<num>$
+      1 #2:19 PM.\<num\>\/2:19 Pm.\<num\>\/2:19 pM.\<num\>\/2:19 pm.\<num\>	^2:19 PM.<num>/2:19 Pm.<num>/2:19 pM.<num>/2:19 pm.<num>$
+      1 #2:18 PM.\<num\>\/2:18 Pm.\<num\>\/2:18 pM.\<num\>\/2:18 pm.\<num\>	^2:18 PM.<num>/2:18 Pm.<num>/2:18 pM.<num>/2:18 pm.<num>$
+      1 #2:18 PM\<num\>\/2:18 Pm\<num\>\/2:18 pM\<num\>\/2:18 pm\<num\>	^2:18 PM<num>/2:18 Pm<num>/2:18 pM<num>/2:18 pm<num>$
+      1 #2:18 AM\<num\>\/2:18 Am\<num\>\/2:18 aM\<num\>\/2:18 am\<num\>	^2:18 AM<num>/2:18 Am<num>/2:18 aM<num>/2:18 am<num>$
+      1 #2:17 AM.\<num\>\/2:17 Am.\<num\>\/2:17 aM.\<num\>\/2:17 am.\<num\>	^2:17 AM.<num>/2:17 Am.<num>/2:17 aM.<num>/2:17 am.<num>$
+      1 #2:17 AM\<num\>\/2:17 Am\<num\>\/2:17 aM\<num\>\/2:17 am\<num\>	^2:17 AM<num>/2:17 Am<num>/2:17 aM<num>/2:17 am<num>$
+      1 #2:16 AM.\<num\>\/2:16 Am.\<num\>\/2:16 aM.\<num\>\/2:16 am.\<num\>	^2:16 AM.<num>/2:16 Am.<num>/2:16 aM.<num>/2:16 am.<num>$
+      1 #2:15 AM.\<num\>\/2:15 Am.\<num\>\/2:15 aM.\<num\>\/2:15 am.\<num\>	^2:15 AM.<num>/2:15 Am.<num>/2:15 aM.<num>/2:15 am.<num>$
+      1 #2:13 PM\<num\>\/2:13 Pm\<num\>\/2:13 pM\<num\>\/2:13 pm\<num\>	^2:13 PM<num>/2:13 Pm<num>/2:13 pM<num>/2:13 pm<num>$
+      1 #2:12 AM.\<num\>\/2:12 Am.\<num\>\/2:12 aM.\<num\>\/2:12 am.\<num\>	^2:12 AM.<num>/2:12 Am.<num>/2:12 aM.<num>/2:12 am.<num>$
+      1 #2:10 PM\<num\>\/2:10 Pm\<num\>\/2:10 pM\<num\>\/2:10 pm\<num\>	^2:10 PM<num>/2:10 Pm<num>/2:10 pM<num>/2:10 pm<num>$
+      1 #2:10 AM\<num\>\/2:10 Am\<num\>\/2:10 aM\<num\>\/2:10 am\<num\>	^2:10 AM<num>/2:10 Am<num>/2:10 aM<num>/2:10 am<num>$
+      1 #2:08 PM\<num\>\/2:08 Pm\<num\>\/2:08 pM\<num\>\/2:08 pm\<num\>	^2:08 PM<num>/2:08 Pm<num>/2:08 pM<num>/2:08 pm<num>$
+      1 #2:07 PM.\<num\>\/2:07 Pm.\<num\>\/2:07 pM.\<num\>\/2:07 pm.\<num\>	^2:07 PM.<num>/2:07 Pm.<num>/2:07 pM.<num>/2:07 pm.<num>$
+      1 #2:06 PM.\<num\>\/2:06 Pm.\<num\>\/2:06 pM.\<num\>\/2:06 pm.\<num\>	^2:06 PM.<num>/2:06 Pm.<num>/2:06 pM.<num>/2:06 pm.<num>$
+      1 #2:06 AM.\<num\>\/2:06 Am.\<num\>\/2:06 aM.\<num\>\/2:06 am.\<num\>	^2:06 AM.<num>/2:06 Am.<num>/2:06 aM.<num>/2:06 am.<num>$
+      1 #2:05 PM.\<num\>\/2:05 Pm.\<num\>\/2:05 pM.\<num\>\/2:05 pm.\<num\>	^2:05 PM.<num>/2:05 Pm.<num>/2:05 pM.<num>/2:05 pm.<num>$
+      1 #2:04 PM.\<num\>\/2:04 Pm.\<num\>\/2:04 pM.\<num\>\/2:04 pm.\<num\>	^2:04 PM.<num>/2:04 Pm.<num>/2:04 pM.<num>/2:04 pm.<num>$
+      1 #2:04 AM.\<num\>\/2:04 Am.\<num\>\/2:04 aM.\<num\>\/2:04 am.\<num\>	^2:04 AM.<num>/2:04 Am.<num>/2:04 aM.<num>/2:04 am.<num>$
+      1 #2:03 AM\<num\>\/2:03 Am\<num\>\/2:03 aM\<num\>\/2:03 am\<num\>	^2:03 AM<num>/2:03 Am<num>/2:03 aM<num>/2:03 am<num>$
+      1 #2:02 AM\<num\>\/2:02 Am\<num\>\/2:02 aM\<num\>\/2:02 am\<num\>	^2:02 AM<num>/2:02 Am<num>/2:02 aM<num>/2:02 am<num>$
+      1 #1:58 AM.\<num\>\/1:58 Am.\<num\>\/1:58 aM.\<num\>\/1:58 am.\<num\>	^1:58 AM.<num>/1:58 Am.<num>/1:58 aM.<num>/1:58 am.<num>$
+      1 #1:55 PM\<num\>\/1:55 Pm\<num\>\/1:55 pM\<num\>\/1:55 pm\<num\>	^1:55 PM<num>/1:55 Pm<num>/1:55 pM<num>/1:55 pm<num>$
+      1 #1:54 PM\<num\>\/1:54 Pm\<num\>\/1:54 pM\<num\>\/1:54 pm\<num\>	^1:54 PM<num>/1:54 Pm<num>/1:54 pM<num>/1:54 pm<num>$
+      1 #1:52 PM\<num\>\/1:52 Pm\<num\>\/1:52 pM\<num\>\/1:52 pm\<num\>	^1:52 PM<num>/1:52 Pm<num>/1:52 pM<num>/1:52 pm<num>$
+      1 #1:51 PM.\<num\>\/1:51 Pm.\<num\>\/1:51 pM.\<num\>\/1:51 pm.\<num\>	^1:51 PM.<num>/1:51 Pm.<num>/1:51 pM.<num>/1:51 pm.<num>$
+      1 #1:50 AM\<num\>\/1:50 Am\<num\>\/1:50 aM\<num\>\/1:50 am\<num\>	^1:50 AM<num>/1:50 Am<num>/1:50 aM<num>/1:50 am<num>$
+      1 #1:49 PM\<num\>\/1:49 Pm\<num\>\/1:49 pM\<num\>\/1:49 pm\<num\>	^1:49 PM<num>/1:49 Pm<num>/1:49 pM<num>/1:49 pm<num>$
+      1 #1:48 PM\<num\>\/1:48 Pm\<num\>\/1:48 pM\<num\>\/1:48 pm\<num\>	^1:48 PM<num>/1:48 Pm<num>/1:48 pM<num>/1:48 pm<num>$
+      1 #1:47 PM\<num\>\/1:47 Pm\<num\>\/1:47 pM\<num\>\/1:47 pm\<num\>	^1:47 PM<num>/1:47 Pm<num>/1:47 pM<num>/1:47 pm<num>$
+      1 #1:47 AM.\<num\>\/1:47 Am.\<num\>\/1:47 aM.\<num\>\/1:47 am.\<num\>	^1:47 AM.<num>/1:47 Am.<num>/1:47 aM.<num>/1:47 am.<num>$
+      1 #1:47 AM\<num\>\/1:47 Am\<num\>\/1:47 aM\<num\>\/1:47 am\<num\>	^1:47 AM<num>/1:47 Am<num>/1:47 aM<num>/1:47 am<num>$
+      1 #1:45 AM.\<num\>\/1:45 Am.\<num\>\/1:45 aM.\<num\>\/1:45 am.\<num\>	^1:45 AM.<num>/1:45 Am.<num>/1:45 aM.<num>/1:45 am.<num>$
+      1 #1:44 AM.\<num\>\/1:44 Am.\<num\>\/1:44 aM.\<num\>\/1:44 am.\<num\>	^1:44 AM.<num>/1:44 Am.<num>/1:44 aM.<num>/1:44 am.<num>$
+      1 #1:41 PM.\<num\>\/1:41 Pm.\<num\>\/1:41 pM.\<num\>\/1:41 pm.\<num\>	^1:41 PM.<num>/1:41 Pm.<num>/1:41 pM.<num>/1:41 pm.<num>$
+      1 #1:41 AM.\<num\>\/1:41 Am.\<num\>\/1:41 aM.\<num\>\/1:41 am.\<num\>	^1:41 AM.<num>/1:41 Am.<num>/1:41 aM.<num>/1:41 am.<num>$
+      1 #1:40 PM.\<num\>\/1:40 Pm.\<num\>\/1:40 pM.\<num\>\/1:40 pm.\<num\>	^1:40 PM.<num>/1:40 Pm.<num>/1:40 pM.<num>/1:40 pm.<num>$
+      1 #1:40 PM\<num\>\/1:40 Pm\<num\>\/1:40 pM\<num\>\/1:40 pm\<num\>	^1:40 PM<num>/1:40 Pm<num>/1:40 pM<num>/1:40 pm<num>$
+      1 #1:40 AM\<num\>\/1:40 Am\<num\>\/1:40 aM\<num\>\/1:40 am\<num\>	^1:40 AM<num>/1:40 Am<num>/1:40 aM<num>/1:40 am<num>$
+      1 #1:39 PM.\<num\>\/1:39 Pm.\<num\>\/1:39 pM.\<num\>\/1:39 pm.\<num\>	^1:39 PM.<num>/1:39 Pm.<num>/1:39 pM.<num>/1:39 pm.<num>$
+      1 #1:39 AM.\<num\>\/1:39 Am.\<num\>\/1:39 aM.\<num\>\/1:39 am.\<num\>	^1:39 AM.<num>/1:39 Am.<num>/1:39 aM.<num>/1:39 am.<num>$
+      1 #1:37 PM.\<num\>\/1:37 Pm.\<num\>\/1:37 pM.\<num\>\/1:37 pm.\<num\>	^1:37 PM.<num>/1:37 Pm.<num>/1:37 pM.<num>/1:37 pm.<num>$
+      1 #1:37 AM.\<num\>\/1:37 Am.\<num\>\/1:37 aM.\<num\>\/1:37 am.\<num\>	^1:37 AM.<num>/1:37 Am.<num>/1:37 aM.<num>/1:37 am.<num>$
+      1 #1:36 PM\<num\>\/1:36 Pm\<num\>\/1:36 pM\<num\>\/1:36 pm\<num\>	^1:36 PM<num>/1:36 Pm<num>/1:36 pM<num>/1:36 pm<num>$
+      1 #1:34 AM.\<num\>\/1:34 Am.\<num\>\/1:34 aM.\<num\>\/1:34 am.\<num\>	^1:34 AM.<num>/1:34 Am.<num>/1:34 aM.<num>/1:34 am.<num>$
+      1 #1:34 AM\<num\>\/1:34 Am\<num\>\/1:34 aM\<num\>\/1:34 am\<num\>	^1:34 AM<num>/1:34 Am<num>/1:34 aM<num>/1:34 am<num>$
+      1 #1:33 AM.\<num\>\/1:33 Am.\<num\>\/1:33 aM.\<num\>\/1:33 am.\<num\>	^1:33 AM.<num>/1:33 Am.<num>/1:33 aM.<num>/1:33 am.<num>$
+      1 #1:32 PM.\<num\>\/1:32 Pm.\<num\>\/1:32 pM.\<num\>\/1:32 pm.\<num\>	^1:32 PM.<num>/1:32 Pm.<num>/1:32 pM.<num>/1:32 pm.<num>$
+      1 #1:31 PM.\<num\>\/1:31 Pm.\<num\>\/1:31 pM.\<num\>\/1:31 pm.\<num\>	^1:31 PM.<num>/1:31 Pm.<num>/1:31 pM.<num>/1:31 pm.<num>$
+      1 #1:31 PM\<num\>\/1:31 Pm\<num\>\/1:31 pM\<num\>\/1:31 pm\<num\>	^1:31 PM<num>/1:31 Pm<num>/1:31 pM<num>/1:31 pm<num>$
+      1 #1:29 PM.\<num\>\/1:29 Pm.\<num\>\/1:29 pM.\<num\>\/1:29 pm.\<num\>	^1:29 PM.<num>/1:29 Pm.<num>/1:29 pM.<num>/1:29 pm.<num>$
+      1 #1:28 PM.\<num\>\/1:28 Pm.\<num\>\/1:28 pM.\<num\>\/1:28 pm.\<num\>	^1:28 PM.<num>/1:28 Pm.<num>/1:28 pM.<num>/1:28 pm.<num>$
+      1 #1:28 AM.\<num\>\/1:28 Am.\<num\>\/1:28 aM.\<num\>\/1:28 am.\<num\>	^1:28 AM.<num>/1:28 Am.<num>/1:28 aM.<num>/1:28 am.<num>$
+      1 #1:27 AM.\<num\>\/1:27 Am.\<num\>\/1:27 aM.\<num\>\/1:27 am.\<num\>	^1:27 AM.<num>/1:27 Am.<num>/1:27 aM.<num>/1:27 am.<num>$
+      1 #1:25 PM.\<num\>\/1:25 Pm.\<num\>\/1:25 pM.\<num\>\/1:25 pm.\<num\>	^1:25 PM.<num>/1:25 Pm.<num>/1:25 pM.<num>/1:25 pm.<num>$
+      1 #1:25 PM\<num\>\/1:25 Pm\<num\>\/1:25 pM\<num\>\/1:25 pm\<num\>	^1:25 PM<num>/1:25 Pm<num>/1:25 pM<num>/1:25 pm<num>$
+      1 #1:25 AM.\<num\>\/1:25 Am.\<num\>\/1:25 aM.\<num\>\/1:25 am.\<num\>	^1:25 AM.<num>/1:25 Am.<num>/1:25 aM.<num>/1:25 am.<num>$
+      1 #1:25 AM\<num\>\/1:25 Am\<num\>\/1:25 aM\<num\>\/1:25 am\<num\>	^1:25 AM<num>/1:25 Am<num>/1:25 aM<num>/1:25 am<num>$
+      1 #12:59 PM.\<num\>\/12:59 Pm.\<num\>\/12:59 pM.\<num\>\/12:59 pm.\<num\>	^12:59 PM.<num>/12:59 Pm.<num>/12:59 pM.<num>/12:59 pm.<num>$
+      1 #12:57 AM\<num\>\/12:57 Am\<num\>\/12:57 aM\<num\>\/12:57 am\<num\>	^12:57 AM<num>/12:57 Am<num>/12:57 aM<num>/12:57 am<num>$
+      1 #12:56 PM\<num\>\/12:56 Pm\<num\>\/12:56 pM\<num\>\/12:56 pm\<num\>	^12:56 PM<num>/12:56 Pm<num>/12:56 pM<num>/12:56 pm<num>$
+      1 #12:56 AM.\<num\>\/12:56 Am.\<num\>\/12:56 aM.\<num\>\/12:56 am.\<num\>	^12:56 AM.<num>/12:56 Am.<num>/12:56 aM.<num>/12:56 am.<num>$
+      1 #12:55 PM\<num\>\/12:55 Pm\<num\>\/12:55 pM\<num\>\/12:55 pm\<num\>	^12:55 PM<num>/12:55 Pm<num>/12:55 pM<num>/12:55 pm<num>$
+      1 #12:55 AM.\<num\>\/12:55 Am.\<num\>\/12:55 aM.\<num\>\/12:55 am.\<num\>	^12:55 AM.<num>/12:55 Am.<num>/12:55 aM.<num>/12:55 am.<num>$
+      1 #12:51 PM.\<num\>\/12:51 Pm.\<num\>\/12:51 pM.\<num\>\/12:51 pm.\<num\>	^12:51 PM.<num>/12:51 Pm.<num>/12:51 pM.<num>/12:51 pm.<num>$
+      1 #12:50 PM\<num\>\/12:50 Pm\<num\>\/12:50 pM\<num\>\/12:50 pm\<num\>	^12:50 PM<num>/12:50 Pm<num>/12:50 pM<num>/12:50 pm<num>$
+      1 #12:49 AM\<num\>\/12:49 Am\<num\>\/12:49 aM\<num\>\/12:49 am\<num\>	^12:49 AM<num>/12:49 Am<num>/12:49 aM<num>/12:49 am<num>$
+      1 #12:48 PM\<num\>\/12:48 Pm\<num\>\/12:48 pM\<num\>\/12:48 pm\<num\>	^12:48 PM<num>/12:48 Pm<num>/12:48 pM<num>/12:48 pm<num>$
+      1 #12:46 AM.\<num\>\/12:46 Am.\<num\>\/12:46 aM.\<num\>\/12:46 am.\<num\>	^12:46 AM.<num>/12:46 Am.<num>/12:46 aM.<num>/12:46 am.<num>$
+      1 #12:45 AM.\<num\>\/12:45 Am.\<num\>\/12:45 aM.\<num\>\/12:45 am.\<num\>	^12:45 AM.<num>/12:45 Am.<num>/12:45 aM.<num>/12:45 am.<num>$
+      1 #12:45 AM\<num\>\/12:45 Am\<num\>\/12:45 aM\<num\>\/12:45 am\<num\>	^12:45 AM<num>/12:45 Am<num>/12:45 aM<num>/12:45 am<num>$
+      1 #12:43 PM.\<num\>\/12:43 Pm.\<num\>\/12:43 pM.\<num\>\/12:43 pm.\<num\>	^12:43 PM.<num>/12:43 Pm.<num>/12:43 pM.<num>/12:43 pm.<num>$
+      1 #12:42 AM.\<num\>\/12:42 Am.\<num\>\/12:42 aM.\<num\>\/12:42 am.\<num\>	^12:42 AM.<num>/12:42 Am.<num>/12:42 aM.<num>/12:42 am.<num>$
+      1 #12:41 PM.\<num\>\/12:41 Pm.\<num\>\/12:41 pM.\<num\>\/12:41 pm.\<num\>	^12:41 PM.<num>/12:41 Pm.<num>/12:41 pM.<num>/12:41 pm.<num>$
+      1 #12:41 AM.\<num\>\/12:41 Am.\<num\>\/12:41 aM.\<num\>\/12:41 am.\<num\>	^12:41 AM.<num>/12:41 Am.<num>/12:41 aM.<num>/12:41 am.<num>$
+      1 #1:23 AM\<num\>\/1:23 Am\<num\>\/1:23 aM\<num\>\/1:23 am\<num\>	^1:23 AM<num>/1:23 Am<num>/1:23 aM<num>/1:23 am<num>$
+      1 #12:38 PM.\<num\>\/12:38 Pm.\<num\>\/12:38 pM.\<num\>\/12:38 pm.\<num\>	^12:38 PM.<num>/12:38 Pm.<num>/12:38 pM.<num>/12:38 pm.<num>$
+      1 #12:38 AM\<num\>\/12:38 Am\<num\>\/12:38 aM\<num\>\/12:38 am\<num\>	^12:38 AM<num>/12:38 Am<num>/12:38 aM<num>/12:38 am<num>$
+      1 #12:37 PM\<num\>\/12:37 Pm\<num\>\/12:37 pM\<num\>\/12:37 pm\<num\>	^12:37 PM<num>/12:37 Pm<num>/12:37 pM<num>/12:37 pm<num>$
+      1 #12:36 AM.\<num\>\/12:36 Am.\<num\>\/12:36 aM.\<num\>\/12:36 am.\<num\>	^12:36 AM.<num>/12:36 Am.<num>/12:36 aM.<num>/12:36 am.<num>$
+      1 #12:35 AM.\<num\>\/12:35 Am.\<num\>\/12:35 aM.\<num\>\/12:35 am.\<num\>	^12:35 AM.<num>/12:35 Am.<num>/12:35 aM.<num>/12:35 am.<num>$
+      1 #12:34 PM\<num\>\/12:34 Pm\<num\>\/12:34 pM\<num\>\/12:34 pm\<num\>	^12:34 PM<num>/12:34 Pm<num>/12:34 pM<num>/12:34 pm<num>$
+      1 #12:33 AM\<num\>\/12:33 Am\<num\>\/12:33 aM\<num\>\/12:33 am\<num\>	^12:33 AM<num>/12:33 Am<num>/12:33 aM<num>/12:33 am<num>$
+      1 #12:31 PM.\<num\>\/12:31 Pm.\<num\>\/12:31 pM.\<num\>\/12:31 pm.\<num\>	^12:31 PM.<num>/12:31 Pm.<num>/12:31 pM.<num>/12:31 pm.<num>$
+      1 #12:31 AM\<num\>\/12:31 Am\<num\>\/12:31 aM\<num\>\/12:31 am\<num\>	^12:31 AM<num>/12:31 Am<num>/12:31 aM<num>/12:31 am<num>$
+      1 #12:29 AM.\<num\>\/12:29 Am.\<num\>\/12:29 aM.\<num\>\/12:29 am.\<num\>	^12:29 AM.<num>/12:29 Am.<num>/12:29 aM.<num>/12:29 am.<num>$
+      1 #12:27 PM.\<num\>\/12:27 Pm.\<num\>\/12:27 pM.\<num\>\/12:27 pm.\<num\>	^12:27 PM.<num>/12:27 Pm.<num>/12:27 pM.<num>/12:27 pm.<num>$
+      1 #12:26 AM\<num\>\/12:26 Am\<num\>\/12:26 aM\<num\>\/12:26 am\<num\>	^12:26 AM<num>/12:26 Am<num>/12:26 aM<num>/12:26 am<num>$
+      1 #12:24 PM\<num\>\/12:24 Pm\<num\>\/12:24 pM\<num\>\/12:24 pm\<num\>	^12:24 PM<num>/12:24 Pm<num>/12:24 pM<num>/12:24 pm<num>$
+      1 #12:22 PM\<num\>\/12:22 Pm\<num\>\/12:22 pM\<num\>\/12:22 pm\<num\>	^12:22 PM<num>/12:22 Pm<num>/12:22 pM<num>/12:22 pm<num>$
+      1 #12:22 AM\<num\>\/12:22 Am\<num\>\/12:22 aM\<num\>\/12:22 am\<num\>	^12:22 AM<num>/12:22 Am<num>/12:22 aM<num>/12:22 am<num>$
+      1 #12:21 PM\<num\>\/12:21 Pm\<num\>\/12:21 pM\<num\>\/12:21 pm\<num\>	^12:21 PM<num>/12:21 Pm<num>/12:21 pM<num>/12:21 pm<num>$
+      1 #12:21 AM.\<num\>\/12:21 Am.\<num\>\/12:21 aM.\<num\>\/12:21 am.\<num\>	^12:21 AM.<num>/12:21 Am.<num>/12:21 aM.<num>/12:21 am.<num>$
+      1 #12:19 PM\<num\>\/12:19 Pm\<num\>\/12:19 pM\<num\>\/12:19 pm\<num\>	^12:19 PM<num>/12:19 Pm<num>/12:19 pM<num>/12:19 pm<num>$
+      1 #12:19 AM\<num\>\/12:19 Am\<num\>\/12:19 aM\<num\>\/12:19 am\<num\>	^12:19 AM<num>/12:19 Am<num>/12:19 aM<num>/12:19 am<num>$
+      1 #12:15 PM\<num\>\/12:15 Pm\<num\>\/12:15 pM\<num\>\/12:15 pm\<num\>	^12:15 PM<num>/12:15 Pm<num>/12:15 pM<num>/12:15 pm<num>$
+      1 #12:15 AM\<num\>\/12:15 Am\<num\>\/12:15 aM\<num\>\/12:15 am\<num\>	^12:15 AM<num>/12:15 Am<num>/12:15 aM<num>/12:15 am<num>$
+      1 #12:14 PM.\<num\>\/12:14 Pm.\<num\>\/12:14 pM.\<num\>\/12:14 pm.\<num\>	^12:14 PM.<num>/12:14 Pm.<num>/12:14 pM.<num>/12:14 pm.<num>$
+      1 #12:13 PM.\<num\>\/12:13 Pm.\<num\>\/12:13 pM.\<num\>\/12:13 pm.\<num\>	^12:13 PM.<num>/12:13 Pm.<num>/12:13 pM.<num>/12:13 pm.<num>$
+      1 #12:13 AM.\<num\>\/12:13 Am.\<num\>\/12:13 aM.\<num\>\/12:13 am.\<num\>	^12:13 AM.<num>/12:13 Am.<num>/12:13 aM.<num>/12:13 am.<num>$
+      1 #12:12 PM.\<num\>\/12:12 Pm.\<num\>\/12:12 pM.\<num\>\/12:12 pm.\<num\>	^12:12 PM.<num>/12:12 Pm.<num>/12:12 pM.<num>/12:12 pm.<num>$
+      1 #12:10 AM.\<num\>\/12:10 Am.\<num\>\/12:10 aM.\<num\>\/12:10 am.\<num\>	^12:10 AM.<num>/12:10 Am.<num>/12:10 aM.<num>/12:10 am.<num>$
+      1 #1:20 PM\<num\>\/1:20 Pm\<num\>\/1:20 pM\<num\>\/1:20 pm\<num\>	^1:20 PM<num>/1:20 Pm<num>/1:20 pM<num>/1:20 pm<num>$
+      1 #12:03 AM.\<num\>\/12:03 Am.\<num\>\/12:03 aM.\<num\>\/12:03 am.\<num\>	^12:03 AM.<num>/12:03 Am.<num>/12:03 aM.<num>/12:03 am.<num>$
+      1 #12:02 PM.\<num\>\/12:02 Pm.\<num\>\/12:02 pM.\<num\>\/12:02 pm.\<num\>	^12:02 PM.<num>/12:02 Pm.<num>/12:02 pM.<num>/12:02 pm.<num>$
+      1 #12:01 PM\<num\>\/12:01 Pm\<num\>\/12:01 pM\<num\>\/12:01 pm\<num\>	^12:01 PM<num>/12:01 Pm<num>/12:01 pM<num>/12:01 pm<num>$
+      1 #12:00 PM.\<num\>\/12:00 Pm.\<num\>\/12:00 pM.\<num\>\/12:00 pm.\<num\>	^12:00 PM.<num>/12:00 Pm.<num>/12:00 pM.<num>/12:00 pm.<num>$
+      1 #1:19 AM.\<num\>\/1:19 Am.\<num\>\/1:19 aM.\<num\>\/1:19 am.\<num\>	^1:19 AM.<num>/1:19 Am.<num>/1:19 aM.<num>/1:19 am.<num>$
+      1 #1:19 AM\<num\>\/1:19 Am\<num\>\/1:19 aM\<num\>\/1:19 am\<num\>	^1:19 AM<num>/1:19 Am<num>/1:19 aM<num>/1:19 am<num>$
+      1 #1:18 AM.\<num\>\/1:18 Am.\<num\>\/1:18 aM.\<num\>\/1:18 am.\<num\>	^1:18 AM.<num>/1:18 Am.<num>/1:18 aM.<num>/1:18 am.<num>$
+      1 #1:16 PM\<num\>\/1:16 Pm\<num\>\/1:16 pM\<num\>\/1:16 pm\<num\>	^1:16 PM<num>/1:16 Pm<num>/1:16 pM<num>/1:16 pm<num>$
+      1 #1:15 AM\<num\>\/1:15 Am\<num\>\/1:15 aM\<num\>\/1:15 am\<num\>	^1:15 AM<num>/1:15 Am<num>/1:15 aM<num>/1:15 am<num>$
+      1 #11:57 AM.\<num\>\/11:57 Am.\<num\>\/11:57 aM.\<num\>\/11:57 am.\<num\>	^11:57 AM.<num>/11:57 Am.<num>/11:57 aM.<num>/11:57 am.<num>$
+      1 #11:56 PM.\<num\>\/11:56 Pm.\<num\>\/11:56 pM.\<num\>\/11:56 pm.\<num\>	^11:56 PM.<num>/11:56 Pm.<num>/11:56 pM.<num>/11:56 pm.<num>$
+      1 #11:54 PM.\<num\>\/11:54 Pm.\<num\>\/11:54 pM.\<num\>\/11:54 pm.\<num\>	^11:54 PM.<num>/11:54 Pm.<num>/11:54 pM.<num>/11:54 pm.<num>$
+      1 #11:54 AM\<num\>\/11:54 Am\<num\>\/11:54 aM\<num\>\/11:54 am\<num\>	^11:54 AM<num>/11:54 Am<num>/11:54 aM<num>/11:54 am<num>$
+      1 #11:52 PM.\<num\>\/11:52 Pm.\<num\>\/11:52 pM.\<num\>\/11:52 pm.\<num\>	^11:52 PM.<num>/11:52 Pm.<num>/11:52 pM.<num>/11:52 pm.<num>$
+      1 #11:52 PM\<num\>\/11:52 Pm\<num\>\/11:52 pM\<num\>\/11:52 pm\<num\>	^11:52 PM<num>/11:52 Pm<num>/11:52 pM<num>/11:52 pm<num>$
+      1 #11:52 AM.\<num\>\/11:52 Am.\<num\>\/11:52 aM.\<num\>\/11:52 am.\<num\>	^11:52 AM.<num>/11:52 Am.<num>/11:52 aM.<num>/11:52 am.<num>$
+      1 #11:50 PM.\<num\>\/11:50 Pm.\<num\>\/11:50 pM.\<num\>\/11:50 pm.\<num\>	^11:50 PM.<num>/11:50 Pm.<num>/11:50 pM.<num>/11:50 pm.<num>$
+      1 #1:14 PM\<num\>\/1:14 Pm\<num\>\/1:14 pM\<num\>\/1:14 pm\<num\>	^1:14 PM<num>/1:14 Pm<num>/1:14 pM<num>/1:14 pm<num>$
+      1 #11:47 PM\<num\>\/11:47 Pm\<num\>\/11:47 pM\<num\>\/11:47 pm\<num\>	^11:47 PM<num>/11:47 Pm<num>/11:47 pM<num>/11:47 pm<num>$
+      1 #11:45 AM.\<num\>\/11:45 Am.\<num\>\/11:45 aM.\<num\>\/11:45 am.\<num\>	^11:45 AM.<num>/11:45 Am.<num>/11:45 aM.<num>/11:45 am.<num>$
+      1 #11:44 PM\<num\>\/11:44 Pm\<num\>\/11:44 pM\<num\>\/11:44 pm\<num\>	^11:44 PM<num>/11:44 Pm<num>/11:44 pM<num>/11:44 pm<num>$
+      1 #11:43 AM.\<num\>\/11:43 Am.\<num\>\/11:43 aM.\<num\>\/11:43 am.\<num\>	^11:43 AM.<num>/11:43 Am.<num>/11:43 aM.<num>/11:43 am.<num>$
+      1 #11:42 PM.\<num\>\/11:42 Pm.\<num\>\/11:42 pM.\<num\>\/11:42 pm.\<num\>	^11:42 PM.<num>/11:42 Pm.<num>/11:42 pM.<num>/11:42 pm.<num>$
+      1 #11:42 AM.\<num\>\/11:42 Am.\<num\>\/11:42 aM.\<num\>\/11:42 am.\<num\>	^11:42 AM.<num>/11:42 Am.<num>/11:42 aM.<num>/11:42 am.<num>$
+      1 #11:41 PM.\<num\>\/11:41 Pm.\<num\>\/11:41 pM.\<num\>\/11:41 pm.\<num\>	^11:41 PM.<num>/11:41 Pm.<num>/11:41 pM.<num>/11:41 pm.<num>$
+      1 #11:41 PM\<num\>\/11:41 Pm\<num\>\/11:41 pM\<num\>\/11:41 pm\<num\>	^11:41 PM<num>/11:41 Pm<num>/11:41 pM<num>/11:41 pm<num>$
+      1 #11:41 AM.\<num\>\/11:41 Am.\<num\>\/11:41 aM.\<num\>\/11:41 am.\<num\>	^11:41 AM.<num>/11:41 Am.<num>/11:41 aM.<num>/11:41 am.<num>$
+      1 #11:39 AM.\<num\>\/11:39 Am.\<num\>\/11:39 aM.\<num\>\/11:39 am.\<num\>	^11:39 AM.<num>/11:39 Am.<num>/11:39 aM.<num>/11:39 am.<num>$
+      1 #11:39 AM\<num\>\/11:39 Am\<num\>\/11:39 aM\<num\>\/11:39 am\<num\>	^11:39 AM<num>/11:39 Am<num>/11:39 aM<num>/11:39 am<num>$
+      1 #11:36 AM.\<num\>\/11:36 Am.\<num\>\/11:36 aM.\<num\>\/11:36 am.\<num\>	^11:36 AM.<num>/11:36 Am.<num>/11:36 aM.<num>/11:36 am.<num>$
+      1 #11:34 AM.\<num\>\/11:34 Am.\<num\>\/11:34 aM.\<num\>\/11:34 am.\<num\>	^11:34 AM.<num>/11:34 Am.<num>/11:34 aM.<num>/11:34 am.<num>$
+      1 #11:34 AM\<num\>\/11:34 Am\<num\>\/11:34 aM\<num\>\/11:34 am\<num\>	^11:34 AM<num>/11:34 Am<num>/11:34 aM<num>/11:34 am<num>$
+      1 #11:33 PM\<num\>\/11:33 Pm\<num\>\/11:33 pM\<num\>\/11:33 pm\<num\>	^11:33 PM<num>/11:33 Pm<num>/11:33 pM<num>/11:33 pm<num>$
+      1 #1:12 PM\<num\>\/1:12 Pm\<num\>\/1:12 pM\<num\>\/1:12 pm\<num\>	^1:12 PM<num>/1:12 Pm<num>/1:12 pM<num>/1:12 pm<num>$
+      1 #1:12 AM.\<num\>\/1:12 Am.\<num\>\/1:12 aM.\<num\>\/1:12 am.\<num\>	^1:12 AM.<num>/1:12 Am.<num>/1:12 aM.<num>/1:12 am.<num>$
+      1 #11:29 AM\<num\>\/11:29 Am\<num\>\/11:29 aM\<num\>\/11:29 am\<num\>	^11:29 AM<num>/11:29 Am<num>/11:29 aM<num>/11:29 am<num>$
+      1 #11:27 PM\<num\>\/11:27 Pm\<num\>\/11:27 pM\<num\>\/11:27 pm\<num\>	^11:27 PM<num>/11:27 Pm<num>/11:27 pM<num>/11:27 pm<num>$
+      1 #11:27 AM\<num\>\/11:27 Am\<num\>\/11:27 aM\<num\>\/11:27 am\<num\>	^11:27 AM<num>/11:27 Am<num>/11:27 aM<num>/11:27 am<num>$
+      1 #11:26 PM.\<num\>\/11:26 Pm.\<num\>\/11:26 pM.\<num\>\/11:26 pm.\<num\>	^11:26 PM.<num>/11:26 Pm.<num>/11:26 pM.<num>/11:26 pm.<num>$
+      1 #11:26 AM\<num\>\/11:26 Am\<num\>\/11:26 aM\<num\>\/11:26 am\<num\>	^11:26 AM<num>/11:26 Am<num>/11:26 aM<num>/11:26 am<num>$
+      1 #11:24 AM\<num\>\/11:24 Am\<num\>\/11:24 aM\<num\>\/11:24 am\<num\>	^11:24 AM<num>/11:24 Am<num>/11:24 aM<num>/11:24 am<num>$
+      1 #1:11 AM.\<num\>\/1:11 Am.\<num\>\/1:11 aM.\<num\>\/1:11 am.\<num\>	^1:11 AM.<num>/1:11 Am.<num>/1:11 aM.<num>/1:11 am.<num>$
+      1 #11:19 PM.\<num\>\/11:19 Pm.\<num\>\/11:19 pM.\<num\>\/11:19 pm.\<num\>	^11:19 PM.<num>/11:19 Pm.<num>/11:19 pM.<num>/11:19 pm.<num>$
+      1 #11:19 PM\<num\>\/11:19 Pm\<num\>\/11:19 pM\<num\>\/11:19 pm\<num\>	^11:19 PM<num>/11:19 Pm<num>/11:19 pM<num>/11:19 pm<num>$
+      1 #11:19 AM.\<num\>\/11:19 Am.\<num\>\/11:19 aM.\<num\>\/11:19 am.\<num\>	^11:19 AM.<num>/11:19 Am.<num>/11:19 aM.<num>/11:19 am.<num>$
+      1 #11:18 PM.\<num\>\/11:18 Pm.\<num\>\/11:18 pM.\<num\>\/11:18 pm.\<num\>	^11:18 PM.<num>/11:18 Pm.<num>/11:18 pM.<num>/11:18 pm.<num>$
+      1 #11:18 AM.\<num\>\/11:18 Am.\<num\>\/11:18 aM.\<num\>\/11:18 am.\<num\>	^11:18 AM.<num>/11:18 Am.<num>/11:18 aM.<num>/11:18 am.<num>$
+      1 #11:17 AM.\<num\>\/11:17 Am.\<num\>\/11:17 aM.\<num\>\/11:17 am.\<num\>	^11:17 AM.<num>/11:17 Am.<num>/11:17 aM.<num>/11:17 am.<num>$
+      1 #11:17 AM\<num\>\/11:17 Am\<num\>\/11:17 aM\<num\>\/11:17 am\<num\>	^11:17 AM<num>/11:17 Am<num>/11:17 aM<num>/11:17 am<num>$
+      1 #11:16 AM\<num\>\/11:16 Am\<num\>\/11:16 aM\<num\>\/11:16 am\<num\>	^11:16 AM<num>/11:16 Am<num>/11:16 aM<num>/11:16 am<num>$
+      1 #11:15 PM\<num\>\/11:15 Pm\<num\>\/11:15 pM\<num\>\/11:15 pm\<num\>	^11:15 PM<num>/11:15 Pm<num>/11:15 pM<num>/11:15 pm<num>$
+      1 #11:13 PM.\<num\>\/11:13 Pm.\<num\>\/11:13 pM.\<num\>\/11:13 pm.\<num\>	^11:13 PM.<num>/11:13 Pm.<num>/11:13 pM.<num>/11:13 pm.<num>$
+      1 #11:13 PM\<num\>\/11:13 Pm\<num\>\/11:13 pM\<num\>\/11:13 pm\<num\>	^11:13 PM<num>/11:13 Pm<num>/11:13 pM<num>/11:13 pm<num>$
+      1 #11:13 AM\<num\>\/11:13 Am\<num\>\/11:13 aM\<num\>\/11:13 am\<num\>	^11:13 AM<num>/11:13 Am<num>/11:13 aM<num>/11:13 am<num>$
+      1 #11:12 AM.\<num\>\/11:12 Am.\<num\>\/11:12 aM.\<num\>\/11:12 am.\<num\>	^11:12 AM.<num>/11:12 Am.<num>/11:12 aM.<num>/11:12 am.<num>$
+      1 #11:12 AM\<num\>\/11:12 Am\<num\>\/11:12 aM\<num\>\/11:12 am\<num\>	^11:12 AM<num>/11:12 Am<num>/11:12 aM<num>/11:12 am<num>$
+      1 #11:11 AM.\<num\>\/11:11 Am.\<num\>\/11:11 aM.\<num\>\/11:11 am.\<num\>	^11:11 AM.<num>/11:11 Am.<num>/11:11 aM.<num>/11:11 am.<num>$
+      1 #11:10 AM\<num\>\/11:10 Am\<num\>\/11:10 aM\<num\>\/11:10 am\<num\>	^11:10 AM<num>/11:10 Am<num>/11:10 aM<num>/11:10 am<num>$
+      1 #1:10 PM\<num\>\/1:10 Pm\<num\>\/1:10 pM\<num\>\/1:10 pm\<num\>	^1:10 PM<num>/1:10 Pm<num>/1:10 pM<num>/1:10 pm<num>$
+      1 #11:09 AM.\<num\>\/11:09 Am.\<num\>\/11:09 aM.\<num\>\/11:09 am.\<num\>	^11:09 AM.<num>/11:09 Am.<num>/11:09 aM.<num>/11:09 am.<num>$
+      1 #11:08 PM.\<num\>\/11:08 Pm.\<num\>\/11:08 pM.\<num\>\/11:08 pm.\<num\>	^11:08 PM.<num>/11:08 Pm.<num>/11:08 pM.<num>/11:08 pm.<num>$
+      1 #11:08 AM.\<num\>\/11:08 Am.\<num\>\/11:08 aM.\<num\>\/11:08 am.\<num\>	^11:08 AM.<num>/11:08 Am.<num>/11:08 aM.<num>/11:08 am.<num>$
+      1 #11:07 PM\<num\>\/11:07 Pm\<num\>\/11:07 pM\<num\>\/11:07 pm\<num\>	^11:07 PM<num>/11:07 Pm<num>/11:07 pM<num>/11:07 pm<num>$
+      1 #11:07 AM.\<num\>\/11:07 Am.\<num\>\/11:07 aM.\<num\>\/11:07 am.\<num\>	^11:07 AM.<num>/11:07 Am.<num>/11:07 aM.<num>/11:07 am.<num>$
+      1 #11:05 PM.\<num\>\/11:05 Pm.\<num\>\/11:05 pM.\<num\>\/11:05 pm.\<num\>	^11:05 PM.<num>/11:05 Pm.<num>/11:05 pM.<num>/11:05 pm.<num>$
+      1 #11:03 AM.\<num\>\/11:03 Am.\<num\>\/11:03 aM.\<num\>\/11:03 am.\<num\>	^11:03 AM.<num>/11:03 Am.<num>/11:03 aM.<num>/11:03 am.<num>$
+      1 #11:02 PM.\<num\>\/11:02 Pm.\<num\>\/11:02 pM.\<num\>\/11:02 pm.\<num\>	^11:02 PM.<num>/11:02 Pm.<num>/11:02 pM.<num>/11:02 pm.<num>$
+      1 #11:02 AM.\<num\>\/11:02 Am.\<num\>\/11:02 aM.\<num\>\/11:02 am.\<num\>	^11:02 AM.<num>/11:02 Am.<num>/11:02 aM.<num>/11:02 am.<num>$
+      1 #11:01 PM.\<num\>\/11:01 Pm.\<num\>\/11:01 pM.\<num\>\/11:01 pm.\<num\>	^11:01 PM.<num>/11:01 Pm.<num>/11:01 pM.<num>/11:01 pm.<num>$
+      1 #11:00 PM\<num\>\/11:00 Pm\<num\>\/11:00 pM\<num\>\/11:00 pm\<num\>	^11:00 PM<num>/11:00 Pm<num>/11:00 pM<num>/11:00 pm<num>$
+      1 #11:00 AM.\<num\>\/11:00 Am.\<num\>\/11:00 aM.\<num\>\/11:00 am.\<num\>	^11:00 AM.<num>/11:00 Am.<num>/11:00 aM.<num>/11:00 am.<num>$
+      1 #1:08 AM.\<num\>\/1:08 Am.\<num\>\/1:08 aM.\<num\>\/1:08 am.\<num\>	^1:08 AM.<num>/1:08 Am.<num>/1:08 aM.<num>/1:08 am.<num>$
+      1 #1:07 AM\<num\>\/1:07 Am\<num\>\/1:07 aM\<num\>\/1:07 am\<num\>	^1:07 AM<num>/1:07 Am<num>/1:07 aM<num>/1:07 am<num>$
+      1 #1:06 PM.\<num\>\/1:06 Pm.\<num\>\/1:06 pM.\<num\>\/1:06 pm.\<num\>	^1:06 PM.<num>/1:06 Pm.<num>/1:06 pM.<num>/1:06 pm.<num>$
+      1 #1:05 PM\<num\>\/1:05 Pm\<num\>\/1:05 pM\<num\>\/1:05 pm\<num\>	^1:05 PM<num>/1:05 Pm<num>/1:05 pM<num>/1:05 pm<num>$
+      1 #1:05 AM.\<num\>\/1:05 Am.\<num\>\/1:05 aM.\<num\>\/1:05 am.\<num\>	^1:05 AM.<num>/1:05 Am.<num>/1:05 aM.<num>/1:05 am.<num>$
+      1 #10:59 PM.\<num\>\/10:59 Pm.\<num\>\/10:59 pM.\<num\>\/10:59 pm.\<num\>	^10:59 PM.<num>/10:59 Pm.<num>/10:59 pM.<num>/10:59 pm.<num>$
+      1 #10:59 PM\<num\>\/10:59 Pm\<num\>\/10:59 pM\<num\>\/10:59 pm\<num\>	^10:59 PM<num>/10:59 Pm<num>/10:59 pM<num>/10:59 pm<num>$
+      1 #10:58 AM\<num\>\/10:58 Am\<num\>\/10:58 aM\<num\>\/10:58 am\<num\>	^10:58 AM<num>/10:58 Am<num>/10:58 aM<num>/10:58 am<num>$
+      1 #10:57 AM.\<num\>\/10:57 Am.\<num\>\/10:57 aM.\<num\>\/10:57 am.\<num\>	^10:57 AM.<num>/10:57 Am.<num>/10:57 aM.<num>/10:57 am.<num>$
+      1 #10:53 AM\<num\>\/10:53 Am\<num\>\/10:53 aM\<num\>\/10:53 am\<num\>	^10:53 AM<num>/10:53 Am<num>/10:53 aM<num>/10:53 am<num>$
+      1 #10:52 AM\<num\>\/10:52 Am\<num\>\/10:52 aM\<num\>\/10:52 am\<num\>	^10:52 AM<num>/10:52 Am<num>/10:52 aM<num>/10:52 am<num>$
+      1 #10:50 PM.\<num\>\/10:50 Pm.\<num\>\/10:50 pM.\<num\>\/10:50 pm.\<num\>	^10:50 PM.<num>/10:50 Pm.<num>/10:50 pM.<num>/10:50 pm.<num>$
+      1 #10:50 AM.\<num\>\/10:50 Am.\<num\>\/10:50 aM.\<num\>\/10:50 am.\<num\>	^10:50 AM.<num>/10:50 Am.<num>/10:50 aM.<num>/10:50 am.<num>$
+      1 #10:49 PM.\<num\>\/10:49 Pm.\<num\>\/10:49 pM.\<num\>\/10:49 pm.\<num\>	^10:49 PM.<num>/10:49 Pm.<num>/10:49 pM.<num>/10:49 pm.<num>$
+      1 #10:47 AM.\<num\>\/10:47 Am.\<num\>\/10:47 aM.\<num\>\/10:47 am.\<num\>	^10:47 AM.<num>/10:47 Am.<num>/10:47 aM.<num>/10:47 am.<num>$
+      1 #10:46 AM\<num\>\/10:46 Am\<num\>\/10:46 aM\<num\>\/10:46 am\<num\>	^10:46 AM<num>/10:46 Am<num>/10:46 aM<num>/10:46 am<num>$
+      1 #10:44 AM\<num\>\/10:44 Am\<num\>\/10:44 aM\<num\>\/10:44 am\<num\>	^10:44 AM<num>/10:44 Am<num>/10:44 aM<num>/10:44 am<num>$
+      1 #10:42 PM.\<num\>\/10:42 Pm.\<num\>\/10:42 pM.\<num\>\/10:42 pm.\<num\>	^10:42 PM.<num>/10:42 Pm.<num>/10:42 pM.<num>/10:42 pm.<num>$
+      1 #10:41 PM\<num\>\/10:41 Pm\<num\>\/10:41 pM\<num\>\/10:41 pm\<num\>	^10:41 PM<num>/10:41 Pm<num>/10:41 pM<num>/10:41 pm<num>$
+      1 #10:40 PM\<num\>\/10:40 Pm\<num\>\/10:40 pM\<num\>\/10:40 pm\<num\>	^10:40 PM<num>/10:40 Pm<num>/10:40 pM<num>/10:40 pm<num>$
+      1 #1:03 AM.\<num\>\/1:03 Am.\<num\>\/1:03 aM.\<num\>\/1:03 am.\<num\>	^1:03 AM.<num>/1:03 Am.<num>/1:03 aM.<num>/1:03 am.<num>$
+      1 #10:39 AM\<num\>\/10:39 Am\<num\>\/10:39 aM\<num\>\/10:39 am\<num\>	^10:39 AM<num>/10:39 Am<num>/10:39 aM<num>/10:39 am<num>$
+      1 #10:35 PM.\<num\>\/10:35 Pm.\<num\>\/10:35 pM.\<num\>\/10:35 pm.\<num\>	^10:35 PM.<num>/10:35 Pm.<num>/10:35 pM.<num>/10:35 pm.<num>$
+      1 #10:35 AM.\<num\>\/10:35 Am.\<num\>\/10:35 aM.\<num\>\/10:35 am.\<num\>	^10:35 AM.<num>/10:35 Am.<num>/10:35 aM.<num>/10:35 am.<num>$
+      1 #10:33 PM.\<num\>\/10:33 Pm.\<num\>\/10:33 pM.\<num\>\/10:33 pm.\<num\>	^10:33 PM.<num>/10:33 Pm.<num>/10:33 pM.<num>/10:33 pm.<num>$
+      1 #10:32 AM.\<num\>\/10:32 Am.\<num\>\/10:32 aM.\<num\>\/10:32 am.\<num\>	^10:32 AM.<num>/10:32 Am.<num>/10:32 aM.<num>/10:32 am.<num>$
+      1 #10:32 AM\<num\>\/10:32 Am\<num\>\/10:32 aM\<num\>\/10:32 am\<num\>	^10:32 AM<num>/10:32 Am<num>/10:32 aM<num>/10:32 am<num>$
+      1 #10:31 AM\<num\>\/10:31 Am\<num\>\/10:31 aM\<num\>\/10:31 am\<num\>	^10:31 AM<num>/10:31 Am<num>/10:31 aM<num>/10:31 am<num>$
+      1 #1:02 PM.\<num\>\/1:02 Pm.\<num\>\/1:02 pM.\<num\>\/1:02 pm.\<num\>	^1:02 PM.<num>/1:02 Pm.<num>/1:02 pM.<num>/1:02 pm.<num>$
+      1 #10:29 PM.\<num\>\/10:29 Pm.\<num\>\/10:29 pM.\<num\>\/10:29 pm.\<num\>	^10:29 PM.<num>/10:29 Pm.<num>/10:29 pM.<num>/10:29 pm.<num>$
+      1 #10:29 AM.\<num\>\/10:29 Am.\<num\>\/10:29 aM.\<num\>\/10:29 am.\<num\>	^10:29 AM.<num>/10:29 Am.<num>/10:29 aM.<num>/10:29 am.<num>$
+      1 #10:28 AM\<num\>\/10:28 Am\<num\>\/10:28 aM\<num\>\/10:28 am\<num\>	^10:28 AM<num>/10:28 Am<num>/10:28 aM<num>/10:28 am<num>$
+      1 #10:27 PM.\<num\>\/10:27 Pm.\<num\>\/10:27 pM.\<num\>\/10:27 pm.\<num\>	^10:27 PM.<num>/10:27 Pm.<num>/10:27 pM.<num>/10:27 pm.<num>$
+      1 #10:26 PM\<num\>\/10:26 Pm\<num\>\/10:26 pM\<num\>\/10:26 pm\<num\>	^10:26 PM<num>/10:26 Pm<num>/10:26 pM<num>/10:26 pm<num>$
+      1 #10:24 PM\<num\>\/10:24 Pm\<num\>\/10:24 pM\<num\>\/10:24 pm\<num\>	^10:24 PM<num>/10:24 Pm<num>/10:24 pM<num>/10:24 pm<num>$
+      1 #10:24 AM.\<num\>\/10:24 Am.\<num\>\/10:24 aM.\<num\>\/10:24 am.\<num\>	^10:24 AM.<num>/10:24 Am.<num>/10:24 aM.<num>/10:24 am.<num>$
+      1 #10:24 AM\<num\>\/10:24 Am\<num\>\/10:24 aM\<num\>\/10:24 am\<num\>	^10:24 AM<num>/10:24 Am<num>/10:24 aM<num>/10:24 am<num>$
+      1 #10:23 AM\<num\>\/10:23 Am\<num\>\/10:23 aM\<num\>\/10:23 am\<num\>	^10:23 AM<num>/10:23 Am<num>/10:23 aM<num>/10:23 am<num>$
+      1 #10:22 PM.\<num\>\/10:22 Pm.\<num\>\/10:22 pM.\<num\>\/10:22 pm.\<num\>	^10:22 PM.<num>/10:22 Pm.<num>/10:22 pM.<num>/10:22 pm.<num>$
+      1 #10:19 PM\<num\>\/10:19 Pm\<num\>\/10:19 pM\<num\>\/10:19 pm\<num\>	^10:19 PM<num>/10:19 Pm<num>/10:19 pM<num>/10:19 pm<num>$
+      1 #10:19 AM.\<num\>\/10:19 Am.\<num\>\/10:19 aM.\<num\>\/10:19 am.\<num\>	^10:19 AM.<num>/10:19 Am.<num>/10:19 aM.<num>/10:19 am.<num>$
+      1 #10:16 AM.\<num\>\/10:16 Am.\<num\>\/10:16 aM.\<num\>\/10:16 am.\<num\>	^10:16 AM.<num>/10:16 Am.<num>/10:16 aM.<num>/10:16 am.<num>$
+      1 #10:15 PM\<num\>\/10:15 Pm\<num\>\/10:15 pM\<num\>\/10:15 pm\<num\>	^10:15 PM<num>/10:15 Pm<num>/10:15 pM<num>/10:15 pm<num>$
+      1 #10:15 AM.\<num\>\/10:15 Am.\<num\>\/10:15 aM.\<num\>\/10:15 am.\<num\>	^10:15 AM.<num>/10:15 Am.<num>/10:15 aM.<num>/10:15 am.<num>$
+      1 #10:14 AM.\<num\>\/10:14 Am.\<num\>\/10:14 aM.\<num\>\/10:14 am.\<num\>	^10:14 AM.<num>/10:14 Am.<num>/10:14 aM.<num>/10:14 am.<num>$
+      1 #10:13 PM\<num\>\/10:13 Pm\<num\>\/10:13 pM\<num\>\/10:13 pm\<num\>	^10:13 PM<num>/10:13 Pm<num>/10:13 pM<num>/10:13 pm<num>$
+      1 #10:11 PM.\<num\>\/10:11 Pm.\<num\>\/10:11 pM.\<num\>\/10:11 pm.\<num\>	^10:11 PM.<num>/10:11 Pm.<num>/10:11 pM.<num>/10:11 pm.<num>$
+      1 #10:11 AM.\<num\>\/10:11 Am.\<num\>\/10:11 aM.\<num\>\/10:11 am.\<num\>	^10:11 AM.<num>/10:11 Am.<num>/10:11 aM.<num>/10:11 am.<num>$
+      1 #1:00 PM.\<num\>\/1:00 Pm.\<num\>\/1:00 pM.\<num\>\/1:00 pm.\<num\>	^1:00 PM.<num>/1:00 Pm.<num>/1:00 pM.<num>/1:00 pm.<num>$
+      1 #10:09 PM.\<num\>\/10:09 Pm.\<num\>\/10:09 pM.\<num\>\/10:09 pm.\<num\>	^10:09 PM.<num>/10:09 Pm.<num>/10:09 pM.<num>/10:09 pm.<num>$
+      1 #10:07 PM.\<num\>\/10:07 Pm.\<num\>\/10:07 pM.\<num\>\/10:07 pm.\<num\>	^10:07 PM.<num>/10:07 Pm.<num>/10:07 pM.<num>/10:07 pm.<num>$
+      1 #10:04 AM\<num\>\/10:04 Am\<num\>\/10:04 aM\<num\>\/10:04 am\<num\>	^10:04 AM<num>/10:04 Am<num>/10:04 aM<num>/10:04 am<num>$
+      1 #10:03 AM.\<num\>\/10:03 Am.\<num\>\/10:03 aM.\<num\>\/10:03 am.\<num\>	^10:03 AM.<num>/10:03 Am.<num>/10:03 aM.<num>/10:03 am.<num>$
+      1 #10:00 PM.\<num\>\/10:00 Pm.\<num\>\/10:00 pM.\<num\>\/10:00 pm.\<num\>	^10:00 PM.<num>/10:00 Pm.<num>/10:00 pM.<num>/10:00 pm.<num>$
 
 
 ===============================================================================
@@ -4771,24 +5443,23 @@ Tag mismatch between transfer and generation
       1 #) \^*thallew	^) ^*thallew$
       1 #\^*swt	^^*swt$
       1 #”\^.\<sent\>	^”^.<sent>$
-      1 #.\<f\>\<sg\>	^.<sent
-      1 #\{\{\^*rm	^*Robba$
-      1 #\^*P	^*padronanza$
-      1 #\^*lover	^*lproġett$
-      1 #\^*Head	^*Hedoram$
-      1 #\^ \^*has	^*ħassarha$
-      1 #\^\@Forsi\<adv\>	^*fossati$
-      1 #\^*F	^*Facta$
-      1 #\^*borg	^*Bosnjaċi$
-      1 #\^*babe	^*Badadakharida$
-      1 #- \^*aw	^*Awstralasja$
-      1 #\^21\<num\>	^2223<num>$
+      1 #\{\{\^*rm	^{{\^*rm$
+      1 #\^*P	^^*P$
+      1 #\^*lover	^^*lover$
+      1 #\^*Head	^^*Head$
+      1 #\^ \^*has	^^ ^*has$
+      1 #\^\@Forsi\<adv\>	^ ^@Forsi<adv>$
+      1 #\^*F	^^*F$
+      1 #\^*borg	^^*borg$
+      1 #\^*babe	^^*babe$
+      1 #- \^*aw	^ - ^*aw$
+      1 #\^21\<num\>	^^21<num>$
 
 
 ===============================================================================
 Summary
 ===============================================================================
-   435 /tmp/mt-he.multiform
-     1 /tmp/mt-he.multibidix
-  4335 /tmp/mt-he.tagmismatch
-  4771 total
+   387 /tmp/mt-he.multiform
+   721 /tmp/mt-he.multibidix
+  4334 /tmp/mt-he.tagmismatch
+  5442 total
