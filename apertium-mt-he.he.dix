@@ -71,6 +71,22 @@
       <e><p>          <l>,</l><r>,<s n="cm"/></r></p></e>
     </pardef>
     
+    <pardef n="urls">
+    <e>
+      <re>(http://|https://|ftp://)?[áéíóúàèìòùäëïöüñça-z0-9](([\-_])?[áéíóúàèìòùäëïöüñça-z0-9])*(.[áéíóúàèìòùäëïöüñça-z0-9](([\-_])?[áéíóúàèìòùäëïöüñça-z0-9])*)*(.[a-z][a-z]|.aero|.asia|.biz|.cat|.com|.coop|.edu|.gov|.info|.int|.jobs|.mil|.mobi|.museum|.name|.net|.org|.pro|.tel|.travel)(/([áéíóúàèìòùäëïöüñça-z0-9\-_\?=&amp;\*,]+(.[áéíóúàèìòùäëïöüñça-z0-9\-_\?=&amp;\*,]+)*/)*([áéíóúàèìòùäëïöüñça-z0-9\-_\?=&amp;\*,]+(.[áéíóúàèìòùäëïöüñça-z0-9\-_\?=&amp;\*,]+)*)?)?</re><p><l></l> <r><s n="num"/></r> </p>
+    </e>
+    </pardef>
+
+    <pardef n="numeros">
+      <e><re>(Lm|€|£) ?.?[0-9]+([.,][0-9]+)?</re><p><l></l><r><s n="num"/></r></p></e>
+      <e><re>[0-9]+([.,][0-9]+)?</re><p><l></l><r><s n="num"/></r></p></e>
+      <e><re>[0-9]+([.,][0-9]+)? ?%</re><p><l></l><r><s n="num"/></r></p></e>
+      <e><re>[0-9]+([.,][0-9]+)?</re><i>-</i><re>[0-9]+([.,][0-9]+)?%?</re><p><l></l><r><s n="num"/></r></p></e>
+      <e><re>[0-9]+([.,][0-9]+)?[:.][0-9]+([.,][0-9]+)?</re><p><l></l><r><s n="num"/></r></p></e>
+      <e><re>[0-9]+([.,][0-9]+)?[:.][0-9]+([.,][0-9]+)? ?(a|p|A|P).?(m|M).?</re><p><l></l><r><s n="num"/></r></p></e>
+    </pardef>
+
+
     <!-- SECTION: Conjunctions -->
     <pardef n="ו__cnjcoo">
       <e><p><l/><r><s n="cnjcoo"/></r></p></e>
@@ -20669,5 +20685,7 @@
   <section id="final" type="inconditional">
     <e><par n="separa"/></e>
     <e><par n="coma"/></e>
+    <e><par n="numeros"/></e>
+    <e><par n="urls"/></e>
   </section>
 </dictionary>
