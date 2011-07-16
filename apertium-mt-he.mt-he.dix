@@ -516,10 +516,45 @@
      <e><p><l>qasir<s n="adj"/></l><r>קצר<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>speċjali<s n="adj"/></l><r>מיוחד<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>naturali<s n="adj"/></l><r>טבעי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>elettorali<s n="adj"/></l><r>אלקטורלי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>baxx<s n="adj"/></l><r>נמוך<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>possibbli<s n="adj"/></l><r>אפשרי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>cert<s n="adj"/></l><r>בטוח<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>aħmar<s n="adj"/></l><r>אדום<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>komuni<s n="adj"/></l><r>משותף<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>kwadru<s n="adj"/></l><r>מרובע<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>faċli<s n="adj"/></l><r>קל<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>eżatt<s n="adj"/></l><r>מדויק<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>sempliċi<s n="adj"/></l><r>פשוט<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>responsabbli<s n="adj"/></l><r>אחראי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>sinjur<s n="adj"/></l><r>עשיר<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>vojt<s n="adj"/></l><r>ריק<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>attakk<s n="adj"/></l><r>מותקף<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>fqir<s n="adj"/></l><r>עני<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>pastorali<s n="adj"/></l><r>פסטורלי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>simili<s n="adj"/></l><r>דומה<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>kmieni<s n="adj"/></l><r>מוקדם<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>kuntent<s n="adj"/></l><r>שמח<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>anzjani<s n="adj"/></l><r>ישן<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>modern<s n="adj"/></l><r>מודרני<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>nisrani<s n="adj"/></l><r>נוצרי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>prinċipali<s n="adj"/></l><r>עקרוני<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>iebes<s n="adj"/></l><r>קשה<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>spiritwali<s n="adj"/></l><r>רוחני<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>gravi<s n="adj"/></l><r>רציני<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>kwiet<s n="adj"/></l><r>שקט<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>oriġinali<s n="adj"/></l><r>מקורי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>pożittiv<s n="adj"/></l><r>חיובי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>ruman<s n="adj"/></l><r>רומי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>dirett<s n="adj"/></l><r>ישיר<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>ħajj<s n="adj"/></l><r>חי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>involut<s n="adj"/></l><r>מעורב<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>mużikali<s n="adj"/></l><r>מוזיקלי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>stramb<s n="adj"/></l><r>משונה<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>legali<s n="adj"/></l><r>משפטי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>informat<s n="adj"/></l><r>מושכל<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      
 
-
-      
      <!-- SECTION: Adverbs -->
 
      <e><p><l>biss<s n="adv"/></l><r>רק<s n="adv"/></r></p></e>
