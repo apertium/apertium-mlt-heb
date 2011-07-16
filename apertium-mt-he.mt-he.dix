@@ -270,6 +270,7 @@
      <e><p><l>ħabta<s n="n"/><s n="f"/></l><r>חבטה<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>kumment<s n="n"/><s n="m"/></l><r>הערה<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>poet<s n="n"/></l><r>משורר<s n="n"/></r></p></e>
+     <e><p><l>rumanz<s n="n"/><s n="m"/></l><r>רומאן<s n="n"/><s n="m"/></r></p></e>
 
      <!-- SECTION: Proper nouns -->
 
@@ -502,6 +503,21 @@
      <e><p><l>antik<s n="adj"/></l><r>עתיק<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>klassifikat<s n="adj"/></l><r>מסווג<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>Laburista<s n="adj"/></l><r>העבודה<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e> <!-- TODO -->
+     <e><p><l>privat<s n="adj"/></l><r>פרטי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>nazzjonalista<s n="adj"/></l><r>לאומי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>kapaċi<s n="adj"/></l><r>מסוגל<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>serju<s n="adj"/></l><r>רציני<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>abjad<s n="adj"/></l><r>לבן<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>iswed<s n="adj"/></l><r>שחור<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>kulturali<s n="adj"/></l><r>תרבותי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>ħelu<s n="adj"/></l><r>מתוק<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>amerikan<s n="adj"/></l><r>אמריקאי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>popolari<s n="adj"/></l><r>פופולרי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>qasir<s n="adj"/></l><r>קצר<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>speċjali<s n="adj"/></l><r>מיוחד<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>naturali<s n="adj"/></l><r>טבעי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     
+
 
       
      <!-- SECTION: Adverbs -->
