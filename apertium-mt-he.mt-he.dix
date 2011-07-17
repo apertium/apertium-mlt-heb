@@ -7,7 +7,7 @@
      <sdef n="prn"/>
      <sdef n="pr"/>
      <sdef n="vblex"/>
-     <sdef n="vaux"        c="Auxilliary verb"/>
+     <sdef n="vaux"/>
      <sdef n="rel"/>
      <sdef n="cnjsub"/>
      <sdef n="det"/>
@@ -34,6 +34,8 @@
 
      <sdef n="top"/>
      <sdef n="al"/>
+     <sdef n="ant"/>
+     <sdef n="cog"/>
      <sdef n="num"/>
 
      <sdef n="GD"/>
@@ -184,9 +186,8 @@
 
      <e><p><l>l<s n="det"/><s n="def"/></l><r>ה<s n="det"/><s n="def"/></r></p></e>
      <e r="LR"><p><l>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></l><r>ה<s n="det"/><s n="def"/></r></p></e>
-     <!-- TODO: check tags on the hebrew side -->
-     <e><p><l>dan<s n="det"/><s n="dem"/><s n="m"/><s n="sg"/></l><r>זה<s n="det"/><s n="sg"/></r></p></e>
-     <e><p><l>dan<s n="det"/><s n="dem"/><s n="f"/><s n="sg"/></l><r>זה<s n="det"/><s n="sg"/></r></p></e>
+     <e><p><l>dan<s n="det"/><s n="dem"/><s n="m"/><s n="sg"/></l><r>זה<s n="det"/><s n="m"/><s n="sg"/></r></p></e>
+     <e><p><l>dan<s n="det"/><s n="dem"/><s n="f"/><s n="sg"/></l><r>זו<s n="det"/><s n="f"/><s n="sg"/></r></p></e>
      <e><p><l>dan<s n="det"/><s n="dem"/><s n="mf"/><s n="pl"/></l><r>אלה<s n="det"/><s n="pl"/></r></p></e>
 
      <!-- SECTION: Numerals -->
@@ -392,7 +393,30 @@
      <e><p><l>Tas-Sliema<s n="np"/><s n="top"/><s n="f"/></l><r>סליאמה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
      <e><p><l>Ta'<b/>Xbiex<s n="np"/><s n="top"/><s n="m"/></l><r>טא'<b/>שביאש<s n="np"/><s n="top"/><s n="f"/></r></p></e>
      <e><p><l>Varsavja<s n="np"/><s n="top"/><s n="f"/></l><r>ורשה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Vatikan<s n="np"/><s n="top"/><s n="m"/></l><r>קריית<b/>הוותיקן<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Vatikan<s n="np"/><s n="top"/><s n="m"/></l><r>וותיקן<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+
+     <e><p><l>Iżrael<s n="np"/><s n="top"/><s n="m"/></l><r>ישראל<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Austin<s n="np"/><s n="top"/><s n="m"/></l><r>אוסטין<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Babel<s n="np"/><s n="cog"/><s n="mf"/></l><r>בבל<s n="np"/><s n="cog"/><s n="f"/></r></p></e>
+     <e><p><l>Berkeley<s n="np"/><s n="cog"/><s n="mf"/></l><r>ברקלי<s n="np"/><s n="cog"/><s n="f"/></r></p></e>
+     <e><p><l>Cape<b/>Town<s n="np"/><s n="top"/><s n="m"/></l><r>קייפ<b/>טאון<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Chelsea<s n="np"/><s n="top"/><s n="m"/></l><r>צ'לסי'<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Dublin<s n="np"/><s n="top"/><s n="m"/></l><r>דאבלין<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Ekwador<s n="np"/><s n="top"/><s n="m"/></l><r>אקוודור<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Frankfurt<s n="np"/><s n="top"/><s n="m"/></l><r>פרנקפורט<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Kosovo<s n="np"/><s n="top"/><s n="m"/></l><r>קוסובו<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Leeds<s n="np"/><s n="top"/><s n="m"/></l><r>לידס<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Libja<s n="np"/><s n="top"/><s n="f"/></l><r>לוב<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Liverpool<s n="np"/><s n="top"/><s n="m"/></l><r>ליברפול<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Manchester<s n="np"/><s n="top"/><s n="m"/></l><r>מנצ'סטר<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Munich<s n="np"/><s n="top"/><s n="m"/></l><r>מינכן<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Portugall<s n="np"/><s n="top"/><s n="m"/></l><r>פורטוגל<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Salvador<s n="np"/><s n="ant"/><s n="m"/></l><r>סלבדור<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Sheffield<s n="np"/><s n="top"/><s n="m"/></l><r>שפילד<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Simshar<s n="np"/><s n="top"/><s n="f"/></l><r>סימשאר<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Stamford<s n="np"/><s n="top"/><s n="m"/></l><r>סטאמפורד<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Tottenham<s n="np"/><s n="top"/><s n="m"/></l><r>טוטנהאם<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>York<s n="np"/><s n="top"/><s n="m"/></l><r>יורק<s n="np"/><s n="top"/><s n="f"/></r></p></e>
      
      <e><p><l>Olimpjadi<s n="np"/><s n="al"/><s n="m"/></l><r>אולימפיאדה<s n="np"/><s n="al"/><s n="f"/></r></p></e>
 
