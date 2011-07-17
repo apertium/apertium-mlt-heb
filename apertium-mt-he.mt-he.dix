@@ -90,10 +90,24 @@
      <e><p><l>mentri<s n="cnjcoo"/></l><r>תוך<s n="cnjcoo"/></r></p></e>
      <e><p><l>ġaladarba<s n="cnjcoo"/></l><r>מאז<s n="cnjcoo"/></r></p></e>
      <e><p><l>sija<s n="cnjcoo"/></l><r>גם<s n="cnjcoo"/></r></p></e>
+     <e><p><l>kiff<b/>ukoll<s n="cnjcoo"/></l><r>כמו<b/>גם<s n="cnjcoo"/></r></p></e>
+     <e><p><l>bhalli<b/>kieku<s n="cnjcoo"/></l><r>כאילו<s n="cnjcoo"/></r></p></e>
+     <e><p><l>kieku<s n="cnjcoo"/></l><r>אם<s n="cnjcoo"/></r></p></e> <!-- TODO -->
+     <e><p><l>mela<s n="cnjcoo"/></l><r>אז<s n="cnjcoo"/></r></p></e>
+     <e><p><l>imma<s n="cnjcoo"/></l><r>אבל<s n="cnjcoo"/></r></p></e>
+     <e><p><l>iżda<s n="cnjcoo"/></l><r>אולם<s n="cnjcoo"/></r></p></e>
 
      <e><p><l>li<s n="cnjsub"/></l><r>ל<s n="cnjsub"/></r></p></e>
      <e><p><l>għax<s n="cnjsub"/></l><r>כי<s n="cnjsub"/></r></p></e>
      <e><p><l>bħalma<s n="cnjsub"/></l><r>כ<s n="cnjsub"/></r></p></e>
+     <e><p><l>sabiex<s n="cnjsub"/></l><r>בשביל<s n="cnjsub"/></r></p></e>
+     <e><p><l>illi<s n="cnjsub"/></l><r>ש<s n="cnjsub"/></r></p></e>
+     <e><p><l>però<s n="cnjsub"/></l><r>אבל<s n="cnjsub"/></r></p></e>
+
+     <e><p><l>għalhekk<s n="cnjadv"/></l><r>לכן<s n="cnjadv"/></r></p></e>
+     <e><p><l>billi<s n="cnjadv"/></l><r>בעוד<b/>ש<s n="cnjadv"/></r></p></e>
+     <e><p><l>filwaqt<s n="cnjadv"/></l><r>בזמן<b/>ש<s n="cnjadv"/></r></p></e>
+     <e><p><l>daqshekk<s n="cnjadb"/></l><r>כל<b/>כך<s n="cnjadv"/></r></p></e>
 
      <!-- SECTION: Prepositions -->
      <e><p><l>kontra<s n="pr"/></l><r>נגד<s n="pr"/></r></p></e>
