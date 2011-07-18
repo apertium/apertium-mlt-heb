@@ -13,6 +13,7 @@
      <sdef n="det"/>
      <sdef n="dem"/>
      <sdef n="cnjcoo"/>
+     <sdef n="cnjadv"/>
      <sdef n="adv"/>
      <sdef n="adj"/>
 
@@ -107,7 +108,7 @@
      <e><p><l>għalhekk<s n="cnjadv"/></l><r>לכן<s n="cnjadv"/></r></p></e>
      <e><p><l>billi<s n="cnjadv"/></l><r>בעוד<b/>ש<s n="cnjadv"/></r></p></e>
      <e><p><l>filwaqt<s n="cnjadv"/></l><r>בזמן<b/>ש<s n="cnjadv"/></r></p></e>
-     <e><p><l>daqshekk<s n="cnjadb"/></l><r>כל<b/>כך<s n="cnjadv"/></r></p></e>
+     <e><p><l>daqshekk<s n="cnjadv"/></l><r>כל<b/>כך<s n="cnjadv"/></r></p></e>
 
      <!-- SECTION: Prepositions -->
      <e><p><l>kontra<s n="pr"/></l><r>נגד<s n="pr"/></r></p></e>
