@@ -458,6 +458,7 @@
      <e c="  0"><p><l>kor<s n="n"/><s n="m"/></l><r>מקהלה<s n="n"/><s n="f"/></r></p></e>
      <e slr="1"><p><l>kor<s n="n"/><s n="m"/></l><r>פזמון<s n="n"/><s n="m"/></r></p></e>
      <e><p><l>istaġun<s n="n"/><s n="m"/></l><r>עונה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>staġun<s n="n"/><s n="m"/></l><r>עונה<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>suċċess<s n="n"/><s n="m"/></l><r>הצלחה<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>gost<s n="n"/><s n="m"/></l><r>כיף<s n="n"/><s n="m"/></r></p></e>
      <e><p><l>mezz<s n="n"/><s n="m"/></l><r>מכשיר<s n="n"/><s n="m"/></r></p></e>
@@ -608,6 +609,108 @@
      <e><p><l>pittur<s n="n"/><s n="m"/></l><r>צייר<s n="n"/><s n="m"/></r></p></e>
      <e><p><l>qamar<s n="n"/><s n="m"/></l><r>ירח<s n="n"/><s n="m"/></r></p></e>
      <e><p><l>partitarju<s n="n"/><s n="m"/></l><r>תומך<s n="n"/><s n="m"/></r></p></e>
+     <e c="  0"><p><l>negozju<s n="n"/><s n="m"/></l><r>עסק<s n="n"/><s n="m"/></r></p></e>
+     <e slr="1"><p><l>negozju<s n="n"/><s n="m"/></l><r>מסחר<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>vantaġġ<s n="n"/><s n="m"/></l><r>יתרון<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>ilment<s n="n"/><s n="m"/></l><r>תלונה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>inkwet<s n="n"/><s n="m"/></l><r>דאגה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>mutur<s n="n"/><s n="m"/></l><r>מנוע<s n="n"/><s n="m"/></r></p></e>
+     <e c="  0"><p><l>istil<s n="n"/><s n="m"/></l><r>סגנון<b/>חיים<s n="n"/><s n="m"/></r></p></e>
+     <e slr="1"><p><l>istil<s n="n"/><s n="m"/></l><r>סגנון<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>website<s n="n"/><s n="m"/></l><r>אתר<b/>אינטרנט<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>konsumatur<s n="n"/><s n="m"/></l><r>צרכן<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>arċisqof<s n="n"/><s n="m"/></l><r>ארכיבישוף<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>żiemel<s n="n"/><s n="m"/></l><r>סוס<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>tifsir<s n="n"/><s n="m"/></l><r>הגדרה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>misteru<s n="n"/><s n="m"/></l><r>מסתורין<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>mudell<s n="n"/><s n="m"/></l><r>דגם<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>ajruport<s n="n"/><s n="m"/></l><r>נמל<b/>תעופה<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>kurrent<s n="n"/><s n="m"/></l><r>זרם<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>riskju<s n="n"/><s n="m"/></l><r>סיכון<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>intervent<s n="n"/><s n="m"/></l><r>התערבות<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>għasfur<s n="n"/><s n="m"/></l><r>ציפור<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>turiżmu<s n="n"/><s n="m"/></l><r>תיירות<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>xifer<s n="n"/><s n="m"/></l><r>קצה<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>limitu<s n="n"/><s n="m"/></l><r>גבול<s n="n"/><s n="m"/></r></p></e>
+     <e c="  0"><p><l>trab<s n="n"/><s n="m"/></l><r>אבק<s n="n"/><s n="m"/></r></p></e>
+     <e slr="1"><p><l>trab<s n="n"/><s n="m"/></l><r>אבקה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>esperiment<s n="n"/><s n="m"/></l><r>ניסוי<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>dibattitu<s n="n"/><s n="m"/></l><r>דיון<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>metodu<s n="n"/><s n="m"/></l><r>שיטה<s n="n"/><s n="f"/></r></p></e>
+     <e c="  0"><p><l>iskop<s n="n"/><s n="m"/></l><r>תחום<s n="n"/><s n="m"/></r></p></e>
+     <e slr="1"><p><l>iskop<s n="n"/><s n="m"/></l><r>מטרה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>skiet<s n="n"/><s n="m"/></l><r>שקט<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>gass<s n="n"/><s n="m"/></l><r>גז<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>kaptan<s n="n"/><s n="m"/></l><r>קפטן<s n="n"/><s n="m"/></r></p></e>
+     <e c="  0"><p><l>dramm<s n="n"/><s n="m"/></l><r>דרמה<s n="n"/><s n="f"/></r></p></e>
+     <e slr="1"><p><l>dramm<s n="n"/><s n="m"/></l><r>מחזה<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>garaxx<s n="n"/><s n="m"/></l><r>מוסך<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>simbolu<s n="n"/><s n="m"/></l><r>סמל<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>monument<s n="n"/><s n="m"/></l><r>אנדרטה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>sussidju<s n="n"/><s n="m"/></l><r>סובסידיה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>fenek<s n="n"/><s n="m"/></l><r>ארנב<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>bidwi<s n="n"/><s n="m"/></l><r>חוואי<s n="n"/><s n="m"/></r></p></e>
+     <e c="  0"><p><l>sess<s n="n"/><s n="m"/></l><r>מין<s n="n"/><s n="m"/></r></p></e>
+     <e slr="1"><p><l>sess<s n="n"/><s n="m"/></l><r>סקס<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>dejn<s n="n"/><s n="m"/></l><r>חוב<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>fdal<s n="n"/><s n="m"/></l><r>משקע<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>regolament<s n="n"/><s n="m"/></l><r>תקנה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>funeral<s n="n"/><s n="m"/></l><r>הלוויה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>altar<s n="n"/><s n="m"/></l><r>מזבח<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>trasport<s n="n"/><s n="m"/></l><r>תחבורה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>emigrant<s n="n"/><s n="m"/></l><r>מהגר<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>flokk<s n="n"/><s n="m"/></l><r>חולצה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>kulleġġ<s n="n"/><s n="m"/></l><r>מכללה<s n="n"/><s n="f"/></r></p></e>
+     <e c="  0"><p><l>kunċett<s n="n"/><s n="m"/></l><r>מושג<s n="n"/><s n="m"/></r></p></e>
+     <e slr="1"><p><l>kunċett<s n="n"/><s n="m"/></l><r>רעיון<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>assistent<s n="n"/><s n="m"/></l><r>עוזר<s n="n"/><s n="m"/></r></p></e>
+     <e c="  0"><p><l>rekord<s n="n"/><s n="m"/></l><r>שיא<s n="n"/><s n="m"/></r></p></e>
+     <e slr="1"><p><l>rekord<s n="n"/><s n="m"/></l><r>רשומה<s n="n"/><s n="f"/></r></p></e>
+     <e slr="1"><p><l>rekord<s n="n"/><s n="m"/></l><r>תקליט<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>qabar<s n="n"/><s n="m"/></l><r>קבר<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>difensur<s n="n"/><s n="m"/></l><r>נאשםן<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>djalogu<s n="n"/><s n="m"/></l><r>דיאלוג<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>kontenut<s n="n"/><s n="m"/></l><r>תוכן<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>ispazju<s n="n"/><s n="m"/></l><r>חלל<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>gwardjan<s n="n"/><s n="m"/></l><r>אפוטרופוס<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>pakkett<s n="n"/><s n="m"/></l><r>חבילה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>grad<s n="n"/><s n="m"/></l><r>ציון<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>avversarju<s n="n"/><s n="m"/></l><r>יריב<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>driegħ<s n="n"/><s n="m"/></l><r>זרוע<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>televixin<s n="n"/><s n="m"/></l><r>טלויזיה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>fenomenu<s n="n"/><s n="m"/></l><r>תופעה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>obbligu<s n="n"/><s n="m"/></l><r>התחייבות<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>traduttur<s n="n"/><s n="m"/></l><r>מתרגם<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>ġermaniż<s n="n"/><s n="m"/></l><r>גרמני<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>bastiment<s n="n"/><s n="m"/></l><r>כלי<b/>שיט<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>kardinal<s n="n"/><s n="m"/></l><r>קרדינל<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>bir<s n="n"/><s n="m"/></l><r>באר<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>rawnd<s n="n"/><s n="m"/></l><r>סיבוב<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>ideal<s n="n"/><s n="m"/></l><r>אידאל<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>vann<s n="n"/><s n="m"/></l><r>ואן<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>rit<s n="n"/><s n="m"/></l><r>טקס<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>sentiment<s n="n"/><s n="m"/></l><r>רגש<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>trakk<s n="n"/><s n="m"/></l><r>משאית<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>ritmu<s n="n"/><s n="m"/></l><r>קצב<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>kunvent<s n="n"/><s n="m"/></l><r>מנזר<s n="n"/><s n="m"/></r></p></e>
+     <e c="  0"><p><l>kwartier<s n="n"/><s n="m"/></l><r>רבע<s n="n"/><s n="m"/></r></p></e>
+     <e slr="1"><p><l>kwartier<s n="n"/><s n="m"/></l><r>רובע<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>filmat<s n="n"/><s n="m"/></l><r>צילום<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>serp<s n="n"/><s n="m"/></l><r>נחש<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>liebru<s n="n"/><s n="m"/></l><r>ארנב<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>flixkun<s n="n"/><s n="m"/></l><r>בקבוק<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>cittadin<s n="n"/><s n="m"/></l><r>אזרח<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>xokk<s n="n"/><s n="m"/></l><r>הלם<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>strument<s n="n"/><s n="m"/></l><r>כלי<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>terroriżmu<s n="n"/><s n="m"/></l><r>טרור<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>ezami<s n="n"/><s n="m"/></l><r>בדיקה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>karru<s n="n"/><s n="m"/></l><r>קרוואן<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>kumplament<s n="n"/><s n="m"/></l><r>השלמה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>farfett<s n="n"/><s n="m"/></l><r>פרפר<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>delegat<s n="n"/><s n="m"/></l><r>נציג<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>divertiment<s n="n"/><s n="m"/></l><r>בידור<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>mertu<s n="n"/><s n="m"/></l><r>חומר<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>lingwaġġ<s n="n"/><s n="m"/></l><r>שפה<s n="n"/><s n="f"/></r></p></e>
 
      <e><p><l>jannar<s n="n"/><s n="m"/></l><r>ינואר<s n="n"/><s n="m"/></r></p></e>
      <e><p><l>frar<s n="n"/><s n="m"/></l><r>פברואר<s n="n"/><s n="m"/></r></p></e>
