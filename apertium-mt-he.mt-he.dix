@@ -32,6 +32,9 @@
      <sdef n="ind"/>
      <sdef n="pos"/>
      <sdef n="itg"/>
+     <sdef n="ind"/>
+     <sdef n="qnt"/>
+
 
      <sdef n="top"/>
      <sdef n="al"/>
@@ -80,7 +83,7 @@
 
    <section id="main" type="standard">
 
-         <!-- SECTION: Numerals -->
+     <!-- SECTION: Numerals -->
 
      <!-- SECTION: Conjunctions -->
 
@@ -204,6 +207,15 @@
      <e><p><l>dan<s n="det"/><s n="dem"/><s n="m"/><s n="sg"/></l><r>זה<s n="det"/><s n="m"/><s n="sg"/></r></p></e>
      <e><p><l>dan<s n="det"/><s n="dem"/><s n="f"/><s n="sg"/></l><r>זו<s n="det"/><s n="f"/><s n="sg"/></r></p></e>
      <e><p><l>dan<s n="det"/><s n="dem"/><s n="mf"/><s n="pl"/></l><r>אלה<s n="det"/><s n="pl"/></r></p></e>
+     <e><p><l>aktar<s n="det"/><s n="qnt"/><s n="mf"/><s n="sp"/></l><r>יותר<s n="det"/><s n="qnt"/><s n="mf"/><s n="sp"/></r></p></e>
+     <e><p><l>iktar<s n="det"/><s n="qnt"/><s n="mf"/><s n="sp"/></l><r>יותר<s n="det"/><s n="qnt"/><s n="mf"/><s n="sp"/></r></p></e>
+     <e><p><l>anqas<s n="det"/><s n="qnt"/><s n="mf"/><s n="sp"/></l><r>פחות<s n="det"/><s n="qnt"/><s n="mf"/><s n="sp"/></r></p></e>
+     <e><p><l>tant<s n="det"/><s n="qnt"/><s n="mf"/><s n="sp"/></l><r>כל<b/>כך<b/>הרבה<s n="det"/><s n="qnt"/><s n="mf"/><s n="sp"/></r></p></e>
+     <e><p><l>kollu<s n="det"/><s n="qnt"/><s n="mf"/><s n="mf"/></l><r>כל<s n="det"/><s n="qnt"/><s n="mf"/></r></p></e>
+     <e><p><l>ħafna<s n="det"/><s n="qnt"/><s n="mf"/><s n="mf"/></l><r>הרבה<s n="det"/><s n="qnt"/><s n="mf"/></r></p></e>
+     <e><p><l>ebda<s n="det"/><s n="ind"/><s n="mf"/><s n="sp"/></l><r>אין<s n="det"/><s n="ind"/><s n="sp"/></r></p></e> <!-- TODO -->
+     <e><p><l>oħra<s n="det"/><s n="ind"/><s n="mf"/></l><r>אחרים<s n="det"/><s n="ind"/><s n="mf"/></r></p></e>
+     <e><p><l>diversi<s n="det"/><s n="ind"/><s n="mf"/></l><r>כמה<s n="det"/><s n="ind"/><s n="mf"/></r></p></e>
 
      <!-- SECTION: Numerals -->
      
