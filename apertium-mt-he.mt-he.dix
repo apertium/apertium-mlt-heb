@@ -555,7 +555,7 @@
      <e><p><l>ġurnalist<s n="n"/><s n="m"/></l><r>עיתונאי<s n="n"/><s n="m"/></r></p></e>
      <e><p><l>istazzjon<s n="n"/><s n="m"/></l><r>תחנה<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>katidral<s n="n"/><s n="m"/></l><r>קתדרלה<s n="n"/><s n="f"/></r></p></e>
-     <e><p><l>sieq<s n="n"/><s n="m"/></l><r>רגל<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>sieq<s n="n"/><s n="m"/></l><r>כף<b/>רגל<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>mil<s n="n"/><s n="m"/></l><r>מייל<s n="n"/><s n="m"/></r></p></e>
      <e><p><l>patt<s n="n"/><s n="m"/></l><r>הסכם<s n="n"/><s n="m"/></r></p></e>
      <e><p><l>sid<s n="n"/><s n="m"/></l><r>בעל<s n="n"/><s n="m"/></r></p></e>
@@ -603,6 +603,7 @@
      <e><p><l>sajjied<s n="n"/><s n="m"/></l><r>דייג<s n="n"/><s n="m"/></r></p></e>
      <e><p><l>tnaqqis<s n="n"/><s n="m"/></l><r>פחיתה<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>inbid<s n="n"/><s n="m"/></l><r>יין<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>nbid<s n="n"/><s n="m"/></l><r>יין<s n="n"/><s n="m"/></r></p></e>
      <e><p><l>kompjuter<s n="n"/><s n="m"/></l><r>מחשב<s n="n"/><s n="m"/></r></p></e>
      <e><p><l>konfront<s n="n"/><s n="m"/></l><r>השוואה<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>grawnd<s n="n"/><s n="m"/></l><r>מגרש<b/>משחקים<s n="n"/><s n="m"/></r></p></e>
@@ -672,6 +673,7 @@
      <e><p><l>djalogu<s n="n"/><s n="m"/></l><r>דיאלוג<s n="n"/><s n="m"/></r></p></e>
      <e><p><l>kontenut<s n="n"/><s n="m"/></l><r>תוכן<s n="n"/><s n="m"/></r></p></e>
      <e><p><l>ispazju<s n="n"/><s n="m"/></l><r>חלל<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>spazu<s n="n"/><s n="m"/></l><r>חלל<s n="n"/><s n="m"/></r></p></e>
      <e><p><l>gwardjan<s n="n"/><s n="m"/></l><r>אפוטרופוס<s n="n"/><s n="m"/></r></p></e>
      <e><p><l>pakkett<s n="n"/><s n="m"/></l><r>חבילה<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>grad<s n="n"/><s n="m"/></l><r>ציון<s n="n"/><s n="m"/></r></p></e>
@@ -711,6 +713,186 @@
      <e><p><l>divertiment<s n="n"/><s n="m"/></l><r>בידור<s n="n"/><s n="m"/></r></p></e>
      <e><p><l>mertu<s n="n"/><s n="m"/></l><r>חומר<s n="n"/><s n="m"/></r></p></e>
      <e><p><l>lingwaġġ<s n="n"/><s n="m"/></l><r>שפה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>riġel<s n="n"/><s n="m"/></l><r>רגל<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>team<s n="n"/><s n="m"/></l><r>צוות<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>stadju<s n="n"/><s n="m"/></l><r>במה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>gvernatur<s n="n"/><s n="m"/></l><r>מושל<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>aġġornament<s n="n"/><s n="m"/></l><r>עדכון<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>vizzju<s n="n"/><s n="m"/></l><r>התמכרות<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>platt<s n="n"/><s n="m"/></l><r>צלחת<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>kuntrast<s n="n"/><s n="m"/></l><r>ניגוד<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>difett<s n="n"/><s n="m"/></l><r>פגם<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>lewn<s n="n"/><s n="m"/></l><r>גוון<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>appuntament<s n="n"/><s n="m"/></l><r>פגישה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>korriment<s n="n"/><s n="m"/></l><r>הפלה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>preżentatur<s n="n"/><s n="m"/></l><r>מגיש<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>attur<s n="n"/><s n="m"/></l><r>שחקן<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>fundatur<s n="n"/><s n="m"/></l><r>מייסד<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>sider<s n="n"/><s n="m"/></l><r>חזה<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>villaġġ<s n="n"/><s n="m"/></l><r>כפר<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>kuntrattur<s n="n"/><s n="m"/></l><r>קבלן<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>isforz<s n="n"/><s n="m"/></l><r>מאמץ<s n="n"/><s n="m"/></r></p></e>
+     <e c="  0"><p><l>falliment<s n="n"/><s n="m"/></l><r>התמוטטות<s n="n"/><s n="f"/></r></p></e>
+     <e slr="1"><p><l>falliment<s n="n"/><s n="m"/></l><r>פשיטת<b/>רגל<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>qattus<s n="n"/><s n="m"/></l><r>חתול<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>avvelenament<s n="n"/><s n="m"/></l><r>הרעלה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>kriterju<s n="n"/><s n="m"/></l><r>קריטריון<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>ġurnaliżmu<s n="n"/><s n="m"/></l><r>עיתונאות<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>negozjant<s n="n"/><s n="m"/></l><r>סוחר<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>votant<s n="n"/><s n="m"/></l><r>מצביע<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>kult<s n="n"/><s n="m"/></l><r>כת<s n="n"/><s n="f"/></r></p></e>
+     <e c="  0"><p><l>territorju<s n="n"/><s n="m"/></l><r>טריטוריה<s n="n"/><s n="f"/></r></p></e>
+     <e slr="1"><p><l>territorju<s n="n"/><s n="m"/></l><r>שטח<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>operatur<s n="n"/><s n="m"/></l><r>מפעיל<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>filosofu<s n="n"/><s n="m"/></l><r>פילוסוף<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>trasferiment<s n="n"/><s n="m"/></l><r>העברה<s n="n"/><s n="f"/></r></p></e>
+     <e c="  0"><p><l>sejf<s n="n"/><s n="m"/></l><r>חרב<s n="n"/><s n="m"/></r></p></e>
+     <e slr="1"><p><l>sejf<s n="n"/><s n="m"/></l><r>כספת<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>gowlkiper<s n="n"/><s n="m"/></l><r>שוער<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>mekkaniżmu<s n="n"/><s n="m"/></l><r>מנגנון<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>imperatur<s n="n"/><s n="m"/></l><r>קיסר<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>maltemp<s n="n"/><s n="m"/></l><r>סערה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>segretarjat<s n="n"/><s n="m"/></l><r>מזכירות<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>involviment<s n="n"/><s n="m"/></l><r>מעורבות<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>petrol<s n="n"/><s n="m"/></l><r>בנזין<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>diżastru<s n="n"/><s n="m"/></l><r>אסון<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>meeting<s n="n"/><s n="m"/></l><r>פגישה<s n="n"/><s n="f"/></r></p></e>
+     <e c="  0"><p><l>zokk<s n="n"/><s n="m"/></l><r>גזע<s n="n"/><s n="m"/></r></p></e>
+     <e slr="1"><p><l>zokk<s n="n"/><s n="m"/></l><r>בול<b/>עץ<s n="n"/><s n="m"/></r></p></e>
+     <e c="  0"><p><l>kampnar<s n="n"/><s n="m"/></l><r>צריח<s n="n"/><s n="m"/></r></p></e>
+     <e slr="1"><p><l>kampnar<s n="n"/><s n="m"/></l><r>מגדל<b/>פעמון<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>prigunier<s n="n"/><s n="m"/></l><r>אסיר<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>għarus<s n="n"/></l><r>ארוס<s n="n"/></r></p></e>
+     <e><p><l>ambaxxatur<s n="n"/><s n="m"/></l><r>שגריר<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>istabbiliment<s n="n"/><s n="m"/></l><r>מוסד<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>bodbod<s n="n"/><s n="m"/></l><r>טיפש<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>tapit<s n="n"/><s n="m"/></l><r>שטיח<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>profitt<s n="n"/><s n="m"/></l><r>רווח<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>iskandlu<s n="n"/><s n="m"/></l><r>סקנדל<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>prokuratur<s n="n"/><s n="m"/></l><r>תובע<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>tajn<s n="n"/><s n="m"/></l><r>בוץ<s n="n"/><s n="m"/></r></p></e>
+     <e c="  0"><p><l>bastun<s n="n"/><s n="m"/></l><r>מקל<s n="n"/><s n="m"/></r></p></e>
+     <e slr="1"><p><l>bastun<s n="n"/><s n="m"/></l><r>קנה<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>champion<s n="n"/><s n="m"/></l><r>אלוף<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>maktur<s n="n"/><s n="m"/></l><r>מטפחת<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>passaport<s n="n"/><s n="m"/></l><r>דרכון<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>arkanġlu<s n="n"/><s n="m"/></l><r>מלאך<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>sillabu<s n="n"/><s n="m"/></l><r>סילבוס<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>benefattur<s n="n"/><s n="m"/></l><r>מטיב<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>baħri<s n="n"/><s n="m"/></l><r>מלח<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l><s n="n"/><s n="m"/></l><r><s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>egoiżmu<s n="n"/><s n="m"/></l><r>אנוכיות<s n="n"/><s n="f"/></r></p></e>
+     <e c="  0"><p><l>show<s n="n"/><s n="m"/></l><r>מופע<s n="n"/><s n="m"/></r></p></e>
+     <e slr="1"><p><l>show<s n="n"/><s n="m"/></l><r>תצוגה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>gendus<s n="n"/><s n="m"/></l><r>שור<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>ristorant<s n="n"/><s n="m"/></l><r>מסעדה<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>muntun<s n="n"/><s n="m"/></l><r>איל<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>jott<s n="n"/><s n="m"/></l><r>יאכטה<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>plural<s n="n"/><s n="m"/></l><r>לשון<b/>רבים<s n="n"/><s n="m"/></r></p></e> <!-- TODO -->
+     <e c="  0"><p><l>għonq<s n="n"/><s n="m"/></l><r>צוואר<s n="n"/><s n="m"/></r></p></e>
+     <e slr="1"><p><l>għonq<s n="n"/><s n="m"/></l><r>קולר<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>xjenzat<s n="n"/><s n="m"/></l><r>מדען<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>timbru<s n="n"/><s n="m"/></l><r>חותמת<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>nassab<s n="n"/><s n="m"/></l><r>ציד<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>avvanz<s n="n"/><s n="m"/></l><r>התקדמות<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>subborg<s n="n"/><s n="m"/></l><r>פרבר<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>osservatur<s n="n"/><s n="m"/></l><r>משקיף<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>esponent<s n="n"/><s n="m"/></l><r>מעריך<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>investitur<s n="n"/><s n="m"/></l><r>משקיע<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>narratur<s n="n"/><s n="m"/></l><r>מספר<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>partnerשותף<s n="n"/><s n="m"/></l><r><s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>tebut<s n="n"/><s n="m"/></l><r>ארון<b/>מתים<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>kappell<s n="n"/><s n="m"/></l><r>כובע<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>antenat<s n="n"/><s n="m"/></l><r>קדמון<s n="n"/><s n="m"/></r></p></e>
+     <e c="  0"><p><l>dominju<s n="n"/><s n="m"/></l><r>תחום<s n="n"/><s n="m"/></r></p></e>
+     <e slr="1"><p><l>dominju<s n="n"/><s n="m"/></l><r>דומיין<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>iskultur<s n="n"/><s n="m"/></l><r>פסל<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>kexxun<s n="n"/><s n="m"/></l><r>צייר<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>amministratur<s n="n"/><s n="m"/></l><r>מנהל<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>romantiċiżmu<s n="n"/><s n="m"/></l><r>רומנטיקה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>lupu<s n="n"/><s n="m"/></l><r>זאב<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>komponent<s n="n"/><s n="m"/></l><r>רכיב<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>musmar<s n="n"/><s n="m"/></l><r>מסמר<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>angolu<s n="n"/><s n="m"/></l><r>זוית<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>istint<s n="n"/><s n="m"/></l><r>אינסטינקט<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>kompozitur<s n="n"/><s n="m"/></l><r>מלחין<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>kollaboratur<s n="n"/><s n="m"/></l><r>משתף<b/>פעולה<s n="n"/><s n="m"/></r></p></e>
+     <e c="  0"><p><l>regolatur<s n="n"/><s n="m"/></l><r>רגולטור<s n="n"/><s n="m"/></r></p></e>
+     <e slr="1"><p><l>regolatur<s n="n"/><s n="m"/></l><r>וסת<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>animatur<s n="n"/><s n="m"/></l><r>אנימטור<s n="n"/><s n="m"/></r></p></e>
+     <e c="  0"><p><l>xaqq<s n="n"/><s n="m"/></l><r>סדק<s n="n"/><s n="m"/></r></p></e>
+     <e slr="1"><p><l>xaqq<s n="n"/><s n="m"/></l><r>קרע<s n="n"/><s n="m"/></r></p></e>
+     <e slr="2"><p><l>xaqq<s n="n"/><s n="m"/></l><r>כוס<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>soċjaliżmu<s n="n"/><s n="m"/></l><r>סוציאליזם<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>pinzell<s n="n"/><s n="m"/></l><r>מברשת<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>edukatur<s n="n"/><s n="m"/></l><r>מחנך<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>iżviluppatur<s n="n"/><s n="m"/></l><r>מפתח<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>barmil<s n="n"/><s n="m"/></l><r>דלי<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>millenju<s n="n"/><s n="m"/></l><r>מילניום<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>dittatur<s n="n"/><s n="m"/></l><r>דיקטטור<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>ottimiżmu<s n="n"/><s n="m"/></l><r>אופטימיות<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>nazzjonaliżmu<s n="n"/><s n="m"/></l><r>לאומיות<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>sellum<s n="n"/><s n="m"/></l><r>סולם<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>fanatiżmu<s n="n"/><s n="m"/></l><r>קנאות<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>patrijott<s n="n"/><s n="m"/></l><r>פטריוט<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>medjatur<s n="n"/><s n="m"/></l><r>מתווך<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>għanqud<s n="n"/><s n="m"/></l><r>צרור<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>vjal<s n="n"/><s n="m"/></l><r>שדרה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>martell<s n="n"/><s n="m"/></l><r>פטיש<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>spettatur<s n="n"/><s n="m"/></l><r>צופה<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>materjaliżmu<s n="n"/><s n="m"/></l><r>חומרנות<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>ispettatur<s n="n"/><s n="m"/></l><r>צופה<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>kondom<s n="n"/><s n="m"/></l><r>קונדום<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>kolonjaliżmu<s n="n"/><s n="m"/></l><r>קולוניאליזם<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>plott<s n="n"/><s n="m"/></l><r>עלילה<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>patrijottiżmu<s n="n"/><s n="m"/></l><r>פטריוטיות<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>ċerv<s n="n"/><s n="m"/></l><r>צבי<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>fardal<s n="n"/><s n="m"/></l><r>סינור<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>pluraliżmu<s n="n"/><s n="m"/></l><r>פלורליזם<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>kattoliċiżmu<s n="n"/><s n="m"/></l><r>קתוליות<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>sensazzjonaliżmu<s n="n"/><s n="m"/></l><r>סנסציה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>dublett<s n="n"/><s n="m"/></l><r>חצאית<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>barkun<s n="n"/><s n="m"/></l><r>דוברה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>relattiviżmu<s n="n"/><s n="m"/></l><r>רלטיביזם<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>żrinġ<s n="n"/><s n="m"/></l><r>צפרדע<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>żrinġ<s n="n"/><s n="m"/></l><r>קרפדה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>gallun<s n="n"/><s n="m"/></l><r>גלון<s n="n"/><s n="m"/></r></p></e>
+     <e c="  0"><p><l>fellus<s n="n"/><s n="m"/></l><r>תרנגול<s n="n"/><s n="m"/></r></p></e>
+     <e slr="1"><p><l>fellus<s n="n"/><s n="m"/></l><r>אפרוח<s n="n"/><s n="m"/></r></p></e>
+     <e c="  0"><p><l>geddum<s n="n"/><s n="m"/></l><r>סנטר<s n="n"/><s n="m"/></r></p></e>
+     <e slr="1"><p><l>geddum<s n="n"/><s n="m"/></l><r>לסת<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>individwaliżmu<s n="n"/><s n="m"/></l><r>אינדיבידואליזם<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>dinamiżmu<s n="n"/><s n="m"/></l><r>דינמיות<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>seqer<s n="n"/><s n="m"/></l><r>בז<b/>גמדי<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>fundamentaliżmu<s n="n"/><s n="m"/></l><r>פונדמנטליזם<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>pessimiżmu<s n="n"/><s n="m"/></l><r>פסימיות<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>serduq<s n="n"/><s n="m"/></l><r>תרנגול<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>opportuniżmu<s n="n"/><s n="m"/></l><r>אופורטוניזם<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>buffu<s n="n"/><s n="m"/></l><r>בלון<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>arċipelagu<s n="n"/><s n="m"/></l><r>ארכיפלג<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>sommarju<s n="n"/><s n="m"/></l><r>תקציר<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>kubiżmu<s n="n"/><s n="m"/></l><r>קוביזם<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>kowt<s n="n"/><s n="m"/></l><r>מעיל<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>pragmatiżmu<s n="n"/><s n="m"/></l><r>פרגמטיות<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>kartell<s n="n"/><s n="m"/></l><r>קרטל<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>estremiżmu<s n="n"/><s n="m"/></l><r>קיצוניות<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>isvilupp<s n="n"/><s n="m"/></l><r>פיתוח<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>attiviżmu<s n="n"/><s n="m"/></l><r>אקטיביזם<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>qanfud<s n="n"/><s n="m"/></l><r>קיפוד<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>għafrid<s n="n"/><s n="m"/></l><r>שד<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>skont<s n="n"/><s n="m"/></l><r>הנחה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>skarpan<s n="n"/><s n="m"/></l><r>סנדלר<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>serrieq<s n="n"/><s n="m"/></l><r>מסור<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>nepotiżmu<s n="n"/><s n="m"/></l><r>פרוטקציה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>pexxun<s n="n"/><s n="m"/></l><r>עגל<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>opponent<s n="n"/><s n="m"/></l><r>יריב<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>radikaliżmu<s n="n"/><s n="m"/></l><r>רדיקליות<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>anakroniżmu<s n="n"/><s n="m"/></l><r>אנכרוניזם<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>xall<s n="n"/><s n="m"/></l><r>צעיף<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>razzjonaliżmu<s n="n"/><s n="m"/></l><r>רציונליות<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>edoniżmu<s n="n"/><s n="m"/></l><r>נהנתנות<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>federaliżmu<s n="n"/><s n="m"/></l><r>פדרליזם<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>bipolariżmu<s n="n"/><s n="m"/></l><r>דו<b/>קוטביות<s n="n"/><s n="f"/></r></p></e>
 
      <e><p><l>jannar<s n="n"/><s n="m"/></l><r>ינואר<s n="n"/><s n="m"/></r></p></e>
      <e><p><l>frar<s n="n"/><s n="m"/></l><r>פברואר<s n="n"/><s n="m"/></r></p></e>
