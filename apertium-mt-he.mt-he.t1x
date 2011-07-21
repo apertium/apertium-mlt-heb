@@ -234,6 +234,19 @@
          <pattern-item n="vrb"/>
        </pattern>
        <action>
+         <let>
+           <var n="genero"/><lit-tag v="m"/>
+         </let>
+         <choose><when c="infinitives and first-persons have no gender">
+           <test><or>
+             <equal><clip pos="1" side="tl" part="temps"/><lit-tag v="inf"/></equal>
+             <equal><clip pos="1" side="tl" part="pers"/><lit-tag v="p1"/></equal>
+           </or></test>
+           <let>
+             <var n="genero"/><lit v=""/>             
+           </let>
+         </when></choose>
+         
          <choose><when c="Hebrew present tense verbs have no person distinction">
            <test><equal>
              <clip pos="1" side="tl" part="temps"/><lit-tag v="pres"/>
@@ -242,6 +255,7 @@
              <clip pos="1" side="tl" part="pers"/><lit v=""/>
            </let>
          </when></choose>
+         
          <out>
            <lu>
              <clip pos="1" side="tl" part="lemh"/>
@@ -249,6 +263,7 @@
              <clip pos="1" side="tl" part="temps"/>
              <clip pos="1" side="tl" part="pers"/>
              <clip pos="1" side="tl" part="nbr"/>
+             <var n="genero"/>
              <clip pos="1" side="tl" part="lemq"/>
            </lu>
          </out>
