@@ -54,7 +54,7 @@ while c: #{
 
 os.remove(TEMPDIR + mode + '.gentest.raw');
 
-command = 'cat ' + TEMPDIR + mode + '.gentest.transfer | sort -f | uniq -c | sort -gr > ' + TEMPDIR + mode + '.gentest.stripped'; 
+command = 'cat ' + TEMPDIR + mode + '.gentest.transfer | grep -v "@" | sort -f | uniq -c | sort -gr > ' + TEMPDIR + mode + '.gentest.stripped'; 
 commands.getstatusoutput(command);
 
 command = 'cat ' + TEMPDIR + mode + '.gentest.stripped | lt-proc -d ../' + mode + '.autogen.bin > ' + TEMPDIR + mode + '.gentest.surface';
