@@ -126,7 +126,7 @@
      <e><p><l>ma'<s n="pr"/></l><r>עם<s n="pr"/></r></p></e>
      <e><p><l>ta'<s n="pr"/></l><r>של<s n="pr"/></r></p></e>
      <e><p><l>kif<s n="pr"/></l><r>כ<s n="pr"/></r></p></e>
-     <e><p><l>matul<s n="pr"/></l><r>בזמן ש<s n="pr"/></r></p></e>
+     <e><p><l>matul<s n="pr"/></l><r>בזמן<b/>ש<s n="pr"/></r></p></e>
      <e><p><l>bi<s n="pr"/></l><r>עם<s n="pr"/></r></p></e>
      <e><p><l>għand<s n="pr"/></l><r>ב<s n="pr"/></r></p></e>
      <e><p><l>sa<s n="pr"/></l><r>אל<s n="pr"/></r></p></e>
@@ -134,7 +134,7 @@
      <e><p><l>bejn<s n="pr"/></l><r>בין<s n="pr"/></r></p></e>
      <e><p><l>fost<s n="pr"/></l><r>בין<s n="pr"/></r></p></e>
      <e><p><l>minħabba<s n="pr"/></l><r>בגלל<s n="pr"/></r></p></e>
-     <e><p><l>waqt<s n="pr"/></l><r>בזמן ש<s n="pr"/></r></p></e>
+     <e><p><l>waqt<s n="pr"/></l><r>בזמן<b/>ש<s n="pr"/></r></p></e>
      <e><p><l>qabel<s n="pr"/></l><r>לפני<s n="pr"/></r></p></e>
      <e><p><l>nhar<s n="pr"/></l><r>ב<s n="pr"/></r></p></e>
      <e><p><l>taħt<s n="pr"/></l><r>תחת<s n="pr"/></r></p></e>
@@ -159,8 +159,8 @@
      <e><p><l>jew<s n="prn"/></l><r>או<s n="prn"/></r></p></e>
 
      <e><p><l>iehor<s n="prn"/></l><r>אחר<s n="prn"/></r></p></e>
-     <e><p><l>kwalunkwe haga<s n="prn"/></l><r>כל דבר<s n="prn"/></r></p></e>
-     <e><p><l>xi ħadd<s n="prn"/></l><r>כל אחד<s n="prn"/></r></p></e>
+     <e><p><l>kwalunkwe haga<s n="prn"/></l><r>כל<b/>דבר<s n="prn"/></r></p></e>
+     <e><p><l>xi ħadd<s n="prn"/></l><r>כל<b/>אחד<s n="prn"/></r></p></e>
      <e><p><l>kulhadd<s n="prn"/></l><r>כולם<s n="prn"/></r></p></e>
      <e><p><l>kollox<s n="prn"/></l><r>הכל<s n="prn"/></r></p></e>
      <e><p><l>ħadd<s n="prn"/></l><r>אף<b/>אחד<s n="prn"/></r></p></e>
@@ -1330,6 +1330,9 @@
      <e slr="1"><p><l>lixx<s n="adj"/></l><r>פשוט<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e c="  0"><p><l>intrinsiku<s n="adj"/></l><r>מהותי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e slr="1"><p><l>intrinsiku<s n="adj"/></l><r>פנימי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e c="  0"><p><l>ħażin<s n="adj"/></l><r>רע<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e slr="1"><p><l>ħażin<s n="adj"/></l><r>לא<b/>נכון<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e slr="2"><p><l>ħażin<s n="adj"/></l><r>רשע<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
 
      <!-- These were automatically guessed to be mf_pl_m_f_pl. Pretty good guess I think but testing is needed -->
      <e><p><l>uniti<s n="adj"/></l><r>מאוחד<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
@@ -1361,7 +1364,7 @@
      <e><p><l>kumpless<s n="adj"/></l><r>מסובך<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>dilettant<s n="adj"/></l><r>חובבני<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>relatat<s n="adj"/></l><r>קשור<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
-     <e><p><l>żbaljat<s n="adj"/></l><r>לא נכון<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>żbaljat<s n="adj"/></l><r>לא<b/>נכון<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>latin<s n="adj"/></l><r>לטיני<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>effettiv<s n="adj"/></l><r>אפקטיבי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>ddedikat<s n="adj"/></l><r>מוקדש<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
@@ -1619,7 +1622,7 @@
      <e><p><l>parallel<s n="adj"/></l><r>מקביל<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>kwadrat<s n="adj"/></l><r>מרובע<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>awstrijaku<s n="adj"/></l><r>אוסטרי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
-     <e><p><l>rinomat<s n="adj"/></l><r>בעל שם<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>rinomat<s n="adj"/></l><r>בעל<b/>שם<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>mielaħ<s n="adj"/></l><r>מלוח<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>manjetiku<s n="adj"/></l><r>מגנטי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>entużjast<s n="adj"/></l><r>נלהב<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
@@ -1639,7 +1642,7 @@
      <e><p><l>poġġut<s n="adj"/></l><r>ממוקם<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>metaforiku<s n="adj"/></l><r>מטאפורי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>implikat<s n="adj"/></l><r>מעורב<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
-     <e><p><l>grat<s n="adj"/></l><r>אסיר תודה<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>grat<s n="adj"/></l><r>אסיר<b/>תודה<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>awtobijografiku<s n="adj"/></l><r>אוטוביוגרפי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>perjodiku<s n="adj"/></l><r>תקופתי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>loġistiku<s n="adj"/></l><r>לוגיסטי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
