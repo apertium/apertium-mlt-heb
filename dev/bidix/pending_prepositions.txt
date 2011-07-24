@@ -1,23 +1,2 @@
-  95988 ^@bi<pr>$
-  33798 ^@għand<pr>$
-  14398 ^@sa<pr>$
-  13258 ^@lejn<pr>$
-  10237 ^@bejn<pr>$
-   8618 ^@fost<pr>$
-   7376 ^@minħabba<pr>$
-   6871 ^@waqt<pr>$
-   6748 ^@qabel<pr>$
    6602 ^@bla<pr>$
-   5465 ^@nhar<pr>$
-   5208 ^@taħt<pr>$
-   4516 ^@mingħajr<pr>$
-   4192 ^@permezz<pr>$
-   3733 ^@milli<pr>$
-   3490 ^@minkejja<pr>$
-   3184 ^@skond<pr>$
-   2914 ^@qrib<pr>$
-   2370 ^@ġo<pr>$
-   2049 ^@skont<pr>$
-    621 ^@fil<pr>$
     102 ^@bil<pr>$
-     43 ^@ħlief għal<pr>$

@@ -1,499 +1,56 @@
   11430 ^@istess<adj><sp>$
-   6394 ^@tajjeb<adj>$
-   4308 ^@nazzjonali<adj><sp>$
-   3852 ^@differenti<adj><sp>$
-   3608 ^@kbir<adj>$
-   3353 ^@lokali<adj><sp>$
-   3116 ^@importanti<adj><sp>$
-   2895 ^@soċjali<adj><sp>$
-   2696 ^@ġenerali<adj><sp>$
-   2223 ^@biżżejjed<adj><sp>$
    2051 ^@qawwi<adj>$
-   1880 ^@laburista<adj>$
-   1861 ^@suppost<adj><sp>$
-   1840 ^@internazzjonali<adj><sp>$
-   1647 ^@parlamentari<adj><sp>$
-   1611 ^@personali<adj><sp>$
-   1596 ^@partikolari<adj><sp>$
-   1579 ^@kuljum<adj><sp>$
-   1426 ^@ċivili<adj><sp>$
-   1399 ^@diffiċli<adj><sp>$
-   1398 ^@interessanti<adj><sp>$
    1248 ^@nazzjonalista<adj>$
-   1246 ^@kapaċi<adj><sp>$
-   1227 ^@kulturali<adj><sp>$
-   1191 ^@popolari<adj><sp>$
-   1174 ^@speċjali<adj><sp>$
-   1155 ^@naturali<adj><sp>$
-   1145 ^@elettorali<adj><sp>$
    1113 ^@għoli<adj>$
-   1101 ^@possibbli<adj><sp>$
-   1038 ^@komuni<adj><sp>$
-   1034 ^@faċli<adj><sp>$
-    968 ^@sempliċi<adj><sp>$
-    949 ^@responsabbli<adj><sp>$
-    880 ^@pastorali<adj><sp>$
-    876 ^@simili<adj><sp>$
-    854 ^@kmieni<adj><sp>$
-    822 ^@anzjani<adj><sp>$
-    798 ^@nisrani<adj>$
-    785 ^@prinċipali<adj><sp>$
-    747 ^@gravi<adj><sp>$
-    739 ^@spiritwali<adj><sp>$
-    735 ^@oriġinali<adj><sp>$
     717 ^@kantant<adj>$
-    676 ^@mużikali<adj><sp>$
-    667 ^@legali<adj><sp>$
     649 ^@illegali<adj><sp>$
-    643 ^@professjonali<adj><sp>$
-    639 ^@uniti<adj>$
-    635 ^@miftuħa<adj><sp>$
-    631 ^@ċentrali<adj><sp>$
-    625 ^@arrestat<adj>$
-    622 ^@qadim<adj>$
-    621 ^@sportiv<adj>$
-    611 ^@ippubblikat<adj>$
-    601 ^@organizzat<adj>$
     589 ^@falz<adj>$
-    570 ^@negattiv<adj>$
-    559 ^@elett<adj>$
-    558 ^@użat<adj>$
-    553 ^@edukattiv<adj>$
-    552 ^@estint<adj>$
-    545 ^@parrokkjali<adj><sp>$
-    542 ^@normali<adj><sp>$
-    540 ^@xiħ<adj>$
-    536 ^@perikoluż<adj>$
-    536 ^@assoċjat<adj>$
-    532 ^@fidil<adj>$
     523 ^@morali<adj><sp>$
-    506 ^@attiv<adj>$
     505 ^@salvat<adj>$
-    505 ^@alternattiv<adj>$
-    498 ^@awstraljan<adj>$
-    498 ^@akkużat<adj>$
-    481 ^@kriminali<adj><sp>$
-    472 ^@tradizzjonali<adj><sp>$
-    466 ^@trijonfali<adj><sp>$
-    466 ^@enormi<adj><sp>$
-    462 ^@superjur<adj>$
-    459 ^@attwali<adj><sp>$
-    457 ^@tqil<adj>$
     447 ^@llegali<adj><sp>$
-    441 ^@rari<adj><sp>$
-    438 ^@spanjol<adj>$
-    435 ^@stabbilit<adj>$
-    429 ^@fatali<adj><sp>$
-    428 ^@konvint<adj>$
-    428 ^@frisk<adj>$
-    423 ^@kollettiv<adj>$
-    423 ^@dgħajjef<adj>$
-    414 ^@kumpless<adj>$
-    409 ^@dilettant<adj>$
-    407 ^@relatat<adj>$
-    401 ^@żbaljat<adj>$
-    399 ^@latin<adj>$
-    397 ^@reċenti<adj><sp>$
-    395 ^@effettiv<adj>$
-    395 ^@ddedikat<adj>$
-    395 ^@afrikan<adj>$
-    394 ^@industrijali<adj><sp>$
-    393 ^@essenzjali<adj><sp>$
-    389 ^@liberali<adj><sp>$
-    388 ^@grieg<adj>$
-    387 ^@reali<adj><sp>$
-    382 ^@għarbi<adj>$
-    379 ^@regolari<adj><sp>$
-    379 ^@libjan<adj>$
-    377 ^@religjuz<adj>$
-    377 ^@assolut<adj>$
-    377 ^@aħdar<adj>$
     375 ^@televiżiv<adj>$
-    374 ^@indipendenti<adj><sp>$
-    372 ^@permanent<adj>$
-    372 ^@intellettwali<adj><sp>$
-    370 ^@ppubblikat<adj>$
-    363 ^@aċċettat<adj>$
-    355 ^@kummerċjali<adj><sp>$
-    353 ^@ambjentali<adj><sp>$
     352 ^@kontemporanju<adj>$
-    340 ^@limitat<adj>$
-    340 ^@elettriku<adj>$
-    339 ^@separat<adj>$
-    336 ^@eġizzjan<adj>$
-    330 ^@ġenwin<adj>$
-    327 ^@familjari<adj><sp>$
-    322 ^@nadif<adj>$
-    319 ^@sostanzjali<adj><sp>$
-    318 ^@favorit<adj>$
-    314 ^@akkademiku<adj>$
-    312 ^@fundamentali<adj><sp>$
-    311 ^@profond<adj>$
-    310 ^@tond<adj>$
-    308 ^@isfar<adj>$
-    308 ^@diskuss<adj>$
-    306 ^@tipiku<adj>$
-    305 ^@blu<adj><sp>$
-    294 ^@sesswali<adj><sp>$
-    290 ^@totali<adj><sp>$
-    289 ^@iddedikat<adj>$
-    286 ^@konkret<adj>$
-    281 ^@adult<adj>$
-    278 ^@individwali<adj><sp>$
-    278 ^@bbażat<adj>$
-    276 ^@loġiku<adj>$
     274 ^@nobbli<adj><sp>$
-    274 ^@deċiż<adj>$
-    271 ^@kreattiv<adj>$
-    262 ^@żviluppat<adj>$
-    261 ^@universali<adj><sp>$
     259 ^@indirizz<adj>$
-    258 ^@mgħaġġel<adj>$
-    256 ^@ċċelebrat<adj>$
-    255 ^@kruċjali<adj><sp>$
-    254 ^@pollakk<adj>$
-    254 ^@immedjat<adj>$
-    253 ^@amministrattiv<adj>$
-    249 ^@kapitali<adj><sp>$
-    249 ^@indirizzat<adj>$
-    249 ^@ibbażat<adj>$
     246 ^@ewkaristiku<adj>$
-    243 ^@korrett<adj>$
-    240 ^@wiesgħa<adj>$
-    240 ^@reġistrat<adj>$
+    239 ^@wiesgħa<adj>$
     238 ^@akkwist<adj>$
-    236 ^@palestinjan<adj>$
-    235 ^@determinat<adj>$
-    232 ^@solvut<adj>$
-    230 ^@protett<adj>$
-    229 ^@approvat<adj>$
-    224 ^@kroniku<adj>$
-    223 ^@preċiż<adj>$
-    219 ^@rikonoxxut<adj>$
-    217 ^@sensittiv<adj>$
-    217 ^@satiriku<adj>$
     217 ^@għani<adj>$
-    217 ^@espost<adj>$
-    216 ^@mondjali<adj><sp>$
-    216 ^@kontroversjali<adj><sp>$
-    214 ^@liturġiku<adj>$
-    212 ^@sospiż<adj>$
-    209 ^@abbandunat<adj>$
-    208 ^@mentali<adj><sp>$
-    207 ^@musulman<adj>$
-    206 ^@globali<adj><sp>$
-    202 ^@identifikat<adj>$
-    201 ^@serb<adj>$
     201 ^@segwit<adj>$
-    199 ^@konservattiv<adj>$
-    199 ^@esaġerat<adj>$
-    198 ^@wżat<adj>$
-    198 ^@formali<adj><sp>$
-    194 ^@strett<adj>$
-    190 ^@offrut<adj>$
-    188 ^@moderat<adj>$
     188 ^@ħafif<adj>$
-    188 ^@dejjaq<adj>$
-    185 ^@progressiv<adj>$
     183 ^@sħun<adj>$
-    182 ^@tradott<adj>$
-    182 ^@sigriet<adj>$
-    182 ^@indjan<adj>$
-    182 ^@apprezzat<adj>$
-    180 ^@ċiniku<adj>$
-    178 ^@irregolari<adj><sp>$
-    178 ^@estensiv<adj>$
-    176 ^@dedikat<adj>$
-    175 ^@sodisfatt<adj>$
-    172 ^@glorjuż<adj>$
-    172 ^@deskritt<adj>$
-    172 ^@applikat<adj>$
     171 ^@ispirat<adj>$
-    168 ^@italian<adj>$
-    167 ^@awtentiku<adj>$
-    166 ^@selvaġġ<adj>$
-    166 ^@rifless<adj>$
-    165 ^@qarrieq<adj>$
     165 ^@pulit<adj>$
-    164 ^@ristrett<adj>$
-    164 ^@prominent<adj>$
-    162 ^@ppreżentat<adj>$
-    161 ^@rappreżentat<adj>$
-    159 ^@mudlam<adj>$
-    159 ^@adattat<adj>$
-    158 ^@addattat<adj>$
-    155 ^@vast<adj>$
-    155 ^@kompetittiv<adj>$
-    154 ^@rispettat<adj>$
-    154 ^@radikali<adj><sp>$
     150 ^@bhal<adj>$
-    149 ^@appostoliku<adj>$
-    149 ^@akkumpanjat<adj>$
-    146 ^@oħxon<adj>$
-    146 ^@ġeneruż<adj>$
-    146 ^@filantropiku<adj>$
-    146 ^@dettaljat<adj>$
-    146 ^@definit<adj>$
-    145 ^@konċernat<adj>$
-    145 ^@kompost<adj>$
     143 ^@introdott<adj>$
-    143 ^@estern<adj>$
-    143 ^@attakkat<adj>$
-    142 ^@mekkaniku<adj>$
-    140 ^@ġgant<adj>$
-    138 ^@kannella<adj><sp>$
-    137 ^@ferrieħ<adj>$
-    135 ^@ikkonfermat<adj>$
-    134 ^@rħis<adj>$
-    134 ^@impost<adj>$
-    134 ^@belġjan<adj>$
-    131 ^@spjegat<adj>$
-    131 ^@skoċċiż<adj>$
-    131 ^@relattiv<adj>$
-    130 ^@nvolut<adj>$
-    130 ^@kkunsidrat<adj>$
-    129 ^@tropikali<adj><sp>$
-    129 ^@konness<adj>$
-    128 ^@notturn<adj>$
-    127 ^@infinit<adj>$
-    126 ^@xott<adj>$
     126 ^@rispettiv<adj>$
-    126 ^@affettwat<adj>$
-    125 ^@simboliku<adj>$
-    125 ^@offensiv<adj>$
-    124 ^@komplut<adj>$
-    123 ^@influwenzat<adj>$
-    121 ^@eżaminat<adj>$
-    120 ^@ffirmat<adj>$
-    120 ^@delikat<adj>$
-    119 ^@distint<adj>$
-    118 ^@kroat<adj>$
-    118 ^@bibliku<adj>$
-    117 ^@brażiljan<adj>$
-    116 ^@intiż<adj>$
-    115 ^@sovran<adj>$
-    115 ^@fdat<adj>$
-    115 ^@allokat<adj>$
-    114 ^@nattiv<adj>$
-    114 ^@maħmuġ<adj>$
-    114 ^@fiskali<adj><sp>$
     114 ^@apostoliku<adj>$
     113 ^@speċjalizzat<adj>$
-    113 ^@ikkundannat<adj>$
     112 ^@skopert<adj>$
-    112 ^@okkupat<adj>$
-    111 ^@estiż<adj>$
-    110 ^@xettiku<adj>$
     109 ^@osservat<adj>$
-    109 ^@kuraġġuż<adj>$
-    108 ^@griż<adj>$
-    106 ^@qares<adj>$
-    106 ^@kkontrollat<adj>$
-    105 ^@morr<adj>$
-    105 ^@konsekuttiv<adj>$
-    104 ^@nominat<adj>$
     104 ^@komunista<adj>$
-    104 ^@intenzjonat<adj>$
-    103 ^@kkonsagrat<adj>$
-    103 ^@dumnikan<adj>$
-    102 ^@ttrattat<adj>$
-    102 ^@paċifiku<adj>$
-    102 ^@ikkunsidrat<adj>$
-    101 ^@ppublikat<adj>$
-    101 ^@ideoloġiku<adj>$
-    100 ^@rivedut<adj>$
-    100 ^@interpretat<adj>$
-    100 ^@indirett<adj>$
-     99 ^@preparat<adj>$
-     97 ^@riprodott<adj>$
      96 ^@qasir<adj>$
-     96 ^@onorat<adj>$
-     94 ^@mistiku<adj>$
-     94 ^@ikkawżat<adj>$
      94 ^@akkanit<adj>$
-     93 ^@iffurmat<adj>$
      92 ^@qalil<adj>$
-     92 ^@atletiku<adj>$
-     91 ^@kliniku<adj>$
-     90 ^@suspettat<adj>$
-     90 ^@rqiq<adj>$
-     89 ^@novizz<adj>$
-     89 ^@komiku<adj>$
-     89 ^@grafiku<adj>$
-     89 ^@artab<adj>$
-     88 ^@passiv<adj>$
      88 ^@immirat<adj>$
-     88 ^@awtorizzat<adj>$
-     87 ^@provdut<adj>$
-     87 ^@newtrali<adj><sp>$
-     86 ^@ungeriż<adj>$
-     86 ^@garantit<adj>$
-     86 ^@elevat<adj>$
-     86 ^@ażjatiku<adj>$
-     85 ^@ddikjarat<adj>$
-     84 ^@rranġat<adj>$
-     84 ^@kklassifikat<adj>$
-     84 ^@adegwat<adj>$
      83 ^@skurjat<adj>$
-     83 ^@ppruvat<adj>$
-     83 ^@korean<adj>$
-     83 ^@assigurat<adj>$
-     81 ^@kwalifikat<adj>$
-     81 ^@innovattiv<adj>$
      80 ^@protettiv<adj>$
      80 ^@ottoman<adj>$
-     80 ^@ortodoss<adj>$
-     80 ^@iżolat<adj>$
-     79 ^@numeruż<adj>$
-     78 ^@simpatiku<adj>$
-     78 ^@arkitettoniku<adj>$
      77 ^@aggressiv<adj>$
-     74 ^@organiku<adj>$
      73 ^@soċjalista<adj>$
-     73 ^@produttiv<adj>$
-     72 ^@primittiv<adj>$
-     72 ^@ippjanat<adj>$
-     72 ^@difensiv<adj>$
-     71 ^@teoloġiku<adj>$
-     71 ^@suċċessiv<adj>$
-     70 ^@tossiku<adj>$
-     70 ^@stipulat<adj>$
-     70 ^@sfurzat<adj>$
      70 ^@blokka<adj>$
-     68 ^@restawrat<adj>$
-     68 ^@nativ<adj>$
-     68 ^@ironiku<adj>$
-     68 ^@ekoloġiku<adj>$
-     67 ^@suprem<adj>$
-     67 ^@statiku<adj>$
-     67 ^@puniku<adj>$
-     67 ^@alkoħoliku<adj>$
-     66 ^@filarmoniku<adj>$
-     66 ^@derivat<adj>$
-     65 ^@attribwit<adj>$
-     65 ^@arkeoloġiku<adj>$
-     64 ^@subtropikali<adj><sp>$
-     64 ^@repubblikan<adj>$
-     64 ^@preżentat<adj>$
-     64 ^@bijoloġiku<adj>$
-     63 ^@profetiku<adj>$
-     62 ^@teknoloġiku<adj>$
-     62 ^@irrekordjat<adj>$
-     62 ^@edukat<adj>$
      62 ^@baħnan<adj>$
-     61 ^@franċiż<adj>$
-     60 ^@infettat<adj>$
-     60 ^@bilanċjat<adj>$
-     59 ^@pubblikat<adj>$
-     59 ^@pprovdut<adj>$
-     59 ^@lixx<adj>$
-     59 ^@fantastiku<adj>$
-     57 ^@sloven<adj>$
-     57 ^@iżraeljan<adj>$
-     56 ^@metriku<adj>$
-     53 ^@sirjan<adj>$
-     53 ^@kkalkulat<adj>$
-     52 ^@modest<adj>$
-     52 ^@akkwistat<adj>$
-     51 ^@umoristiku<adj>$
-     51 ^@persjan<adj>$
-     51 ^@atlantiku<adj>$
      50 ^@imminent<adj>$
-     50 ^@bilmod<adj><sp>$
-     49 ^@viżiv<adj>$
-     48 ^@rikk<adj>$
-     48 ^@pariġin<adj>$
      48 ^@ohxon<adj>$
-     47 ^@sostitwit<adj>$
-     47 ^@rtirat<adj>$
-     47 ^@emendat<adj>$
      47 ^@ċibernetiku<adj>$
-     46 ^@prussjan<adj>$
-     46 ^@jugoslav<adj>$
-     46 ^@immarkat<adj>$
+     46 ^@permanent<adj>$
      46 ^@imbuttat<adj>$
-     46 ^@ċiprijott<adj>$
-     45 ^@massiv<adj>$
-     45 ^@kulurit<adj>$
      45 ^@ħajj<adj>$
-     44 ^@islamiku<adj>$
-     44 ^@ekklesjastiku<adj>$
-     44 ^@benedittin<adj>$
-     43 ^@soċjoloġiku<adj>$
-     43 ^@parallel<adj>$
-     43 ^@kwadrat<adj>$
-     43 ^@awstrijaku<adj>$
-     42 ^@rinomat<adj>$
-     42 ^@mielaħ<adj>$
-     42 ^@manjetiku<adj>$
-     42 ^@entużjast<adj>$
-     42 ^@biżantin<adj>$
-     41 ^@skedat<adj>$
-     41 ^@objettiv<adj>$
-     41 ^@kompatt<adj>$
-     41 ^@analizzat<adj>$
-     40 ^@iranjan<adj>$
-     40 ^@erotiku<adj>$
-     39 ^@unifikat<adj>$
-     39 ^@slovakk<adj>$
-     39 ^@klerikali<adj><sp>$
      38 ^@trasformat<adj>$
-     38 ^@toskan<adj>$
-     38 ^@imxarrab<adj>$
-     37 ^@riferut<adj>$
      37 ^@oċeaniku<adj>$
-     37 ^@intrinsiku<adj>$
-     36 ^@storbjuż<adj>$
-     36 ^@poġġut<adj>$
-     36 ^@metaforiku<adj>$
-     36 ^@implikat<adj>$
-     36 ^@grat<adj>$
-     36 ^@awtobijografiku<adj>$
-     35 ^@perjodiku<adj>$
-     35 ^@loġistiku<adj>$
-     35 ^@ikkritikat<adj>$
-     35 ^@ġermaniż<adj>$
-     34 ^@rrekordjat<adj>$
-     34 ^@gotiku<adj>$
-     34 ^@anglikan<adj>$
-     33 ^@suġġettiv<adj>$
-     33 ^@sinottiku<adj>$
-     33 ^@previst<adj>$
-     33 ^@burokratiku<adj>$
      33 ^@assistit<adj>$
-     32 ^@katalan<adj>$
-     32 ^@ġgantesk<adj>$
-     32 ^@folt<adj>$
-     31 ^@mitiku<adj>$
-     31 ^@finit<adj>$
-     31 ^@epiku<adj>$
-     31 ^@aritmetiku<adj>$
-     30 ^@norveġiż<adj>$
-     30 ^@ħolistiku<adj>$
-     30 ^@ċilen<adj>$
-     30 ^@assedjat<adj>$
-     29 ^@preferit<adj>$
-     29 ^@patrijarkali<adj><sp>$
-     29 ^@kuban<adj>$
-     29 ^@armen<adj>$
-     28 ^@sintetiku<adj>$
-     28 ^@eżotiku<adj>$
      28 ^@enerġetiku<adj>$
-     28 ^@elaborat<adj>$
-     28 ^@amministrat<adj>$
-     27 ^@relativistiku<adj>$
-     27 ^@figurattiv<adj>$
-     27 ^@espressiv<adj>$
-     26 ^@verifikat<adj>$
-     26 ^@speċifikat<adj>$
-     26 ^@pożizzjonat<adj>$
-     26 ^@monastiku<adj>$
      26 ^@modifikat<adj>$
-     25 ^@vertikali<adj><sp>$
-     25 ^@tragiku<adj>$
-     25 ^@teoretiku<adj>$
-     25 ^@kariżmatiku<adj>$
-     25 ^@invażiv<adj>$
      25 ^@imponent<adj>$
      25 ^@esegwit<adj>$
      25 ^@ddisinjat<adj>$
@@ -585,6 +142,7 @@
      11 ^@invitat<adj>$
      11 ^@generiku<adj>$
      11 ^@ffortifikat<adj>$
+     11 ^@dejjaq<adj>$
      11 ^@balkaniku<adj>$
      11 ^@approprjat<adj>$
      11 ^@anatomiku<adj>$
@@ -646,14 +204,13 @@
       4 ^@simbjotiku<adj>$
       3 ^@stilizzat<adj>$
       3 ^@standardizzat<adj>$
-      3 ^@multilingwali<adj><sp>$
       3 ^@kastiljan<adj>$
       3 ^@inserit<adj>$
       3 ^@erojku<adj>$
       3 ^@dijabetiku<adj>$
       3 ^@anakronistiku<adj>$
-      2 ^@pikkanti<adj><sp>$
       2 ^@ħażin<adj>$
       2 ^@attivat<adj>$
+      1 ^@prominent<adj>$
       1 ^@ħobla<adj>$
       1 ^@darsa<adj>$

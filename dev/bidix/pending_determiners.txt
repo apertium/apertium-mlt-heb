@@ -1,41 +1,22 @@
-  20357 ^@aktar<det><qnt><mf><sp>$
-  19587 ^@oħra<det><ind><mf>$
   18565 ^@ħafna<det><qnt><mf>$
   13963 ^@kollu<det><qnt><mf>$
   13387 ^@aħħar<det><ord><mf><sp>$
-   6019 ^@iktar<det><qnt><mf><sp>$
    5832 ^@kollu<det><qnt><m>$
-   5427 ^@ebda<det><ind><mf><sp>$
-   4604 ^@tant<det><qnt><mf><sp>$
-   3468 ^@diversi<det><ind><mf>$
    1975 ^@dak<det><dem><mf>$
-   1524 ^@anqas<det><qnt><mf><sp>$
    1186 ^@Ħafna<det><qnt><mf>$
-   1069 ^@Aktar<det><qnt><mf><sp>$
    1003 ^@dak<det><dem><m>$
-    863 ^@Iktar<det><qnt><mf><sp>$
     793 ^@dak<det><dem><f>$
-    382 ^@Tant<det><qnt><mf><sp>$
     377 ^@izjed<det><qnt><mf><sp>$
-    367 ^@Oħra<det><ind><mf>$
     161 ^@Kollu<det><qnt><mf>$
     130 ^@Dak<det><dem><mf>$
     119 ^@Aħħar<det><ord><mf><sp>$
     115 ^@Dak<det><dem><m>$
-    110 ^@Ebda<det><ind><mf><sp>$
-     82 ^@Anqas<det><qnt><mf><sp>$
-     75 ^@OĦRA<det><ind><mf>$
      71 ^@KOLLU<det><qnt><mf>$
-     56 ^@Diversi<det><ind><mf>$
      55 ^@Dak<det><dem><f>$
      38 ^@DAK<det><dem><f>$
      37 ^@AĦĦAR<det><ord><mf><sp>$
      31 ^@Kollu<det><qnt><m>$
      30 ^@ĦAFNA<det><qnt><mf>$
-     26 ^@AKTAR<det><qnt><mf><sp>$
-     13 ^@IKTAR<det><qnt><mf><sp>$
       6 ^@KOLLU<det><qnt><m>$
-      6 ^@EBDA<det><ind><mf><sp>$
       3 ^@Izjed<det><qnt><mf><sp>$
       3 ^@DAK<det><dem><mf>$
-      2 ^@TANT<det><qnt><mf><sp>$

@@ -1,38 +1,16 @@
   12196 ^@nies<n><mf>$
   10902 ^@żmien<n><f>$
-   9013 ^@pajjiż<n><m>$
-   8784 ^@post<n><m>$
    8542 ^@pulizija<n><f><ND>$
-   8517 ^@xogħol<n><m>$
    8068 ^@ħajja<n><f>$
-   7970 ^@bniedem<n><m>$
-   7553 ^@poplu<n><m>$
    7364 ^@triq<n><f>$
-   6974 ^@jum<n><m>$
-   6703 ^@fatt<n><m>$
    6639 ^@persuna<n><f>$
-   6568 ^@tifel<n><m>$
    6396 ^@familja<n><f>$
    6375 ^@mara<n><f>$
-   6104 ^@parti<n><m>$
-   5835 ^@ministru<n><m>$
-   5229 ^@isem<n><m>$
-   5184 ^@tim<n><m>$
-   4814 ^@membru<n><m>$
-   4791 ^@raġel<n><m>$
-   4572 ^@nofs<n><m>$
    4505 ^@bżonn<n><m><ND>$
    4367 ^@ħsieb<n><m>$
-   4325 ^@qalb<n><m>$
    4248 ^@ġimgħa<n><f>$
-   4223 ^@arkivju<n><m>$
-   4148 ^@pajjiż<n><m><>$
-   4063 ^@partit<n><m>$
-   4035 ^@punt<n><m>$
-   3977 ^@xahar<n><m>$
    3976 ^@affari<n><f>$
    3941 ^@problema<n><f>$
-   3883 ^@ħin<n><m>$
    3862 ^@ilma<n><f>$
    3846 ^@numru<n><f>$
    3830 ^@hin<n><m>$
@@ -42,273 +20,136 @@
    3711 ^@festa<n><f>$
    3710 ^@istorja<n><f>$
    3681 ^@poeżija<n><f>$
-   3649 ^@dawl<n><m>$
-   3644 ^@ħabib<n><m>$
-   3590 ^@ħaddiem<n><m>$
-   3575 ^@servizz<n><m>$
-   3567 ^@kittieb<n><m>$
    3531 ^@id<n><f>$
-   3405 ^@kunsill<n><m>$
    3330 ^@intervista<n><f>$
-   3267 ^@futbol<n><m>$
-   3251 ^@każ<n><m>$
    3236 ^@karozza<n><f>$
-   3233 ^@plejer<n><m>$
    3182 ^@baħar<n><GD>$
-   3098 ^@programm<n><m>$
-   3091 ^@bidu<n><m>$
    3069 ^@sistema<n><f>$
-   3050 ^@sultan<n><m>$
    3016 ^@ħaġa<n><f>$
    2962 ^@kappella<n><f>$
    2957 ^@gazzetta<n><f>$
-   2935 ^@awtur<n><m>$
    2916 ^@kaz<n><m>$
-   2912 ^@april<n><m>$
-   2884 ^@sens<n><m>$
-   2880 ^@missier<n><m>$
-   2856 ^@ġunju<n><m>$
-   2833 ^@qorti<n><m>$
-   2832 ^@nar<n><m>$
    2825 ^@elezzjoni<n><f>$
    2784 ^@liġi<n><f>$
-   2754 ^@ritratt<n><m>$
    2734 ^@ordni<n><f>$
-   2714 ^@isqof<n><m>$
-   2708 ^@president<n><m>$
-   2682 ^@missier<n><m><>$
    2672 ^@ġurnata<n><f>$
    2645 ^@kamra<n><f>$
    2602 ^@sitwazzjoni<n><f>$
    2588 ^@soċjetà<n><f>$
    2544 ^@għajnuna<n><f><ND>$
-   2533 ^@artiklu<n><m>$
-   2481 ^@qalb<n><m><>$
    2479 ^@mużika<n><f>$
-   2443 ^@rapport<n><m>$
    2436 ^@gwerra<n><f>$
    2432 ^@iskola<n><f>$
-   2429 ^@sema<n><m>$
-   2424 ^@nuqqas<n><m>$
    2402 ^@ruħ<n><f>$
-   2386 ^@sit<n><m>$
    2362 ^@klandestin<n><m>$
-   2358 ^@parlament<n><m>$
    2351 ^@darba<n><f>$
-   2349 ^@lulju<n><m>$
    2339 ^@awtorità<n><f>$
    2337 ^@raġuni<n><f>$
-   2320 ^@mument<n><m>$
    2304 ^@minuta<n><f>$
-   2302 ^@dritt<n><m>$
    2267 ^@unjoni<n><f>$
-   2240 ^@marzu<n><m>$
    2232 ^@kultura<n><f>$
-   2220 ^@settembru<n><m>$
-   2192 ^@interess<n><m>$
    2188 ^@tip<n><GD>$
    2184 ^@ras<n><f><>$
-   2182 ^@ċentru<n><m>$
-   2176 ^@klabb<n><m>$
    2149 ^@droga<n><mf>$
-   2144 ^@mejju<n><m>$
-   2144 ^@livell<n><m>$
-   2134 ^@istat<n><m>$
    2110 ^@bieb<n><m><ND>$
-   2092 ^@proġett<n><m>$
-   2055 ^@jannar<n><m>$
    2054 ^@ottubru<n><m>$
    2052 ^@tazza<n><f>$
-   2049 ^@sors<n><m>$
    2037 ^@mistoqsija<n><f>$
    2037 ^@idea<n><f>$
    2016 ^@xemx<n><f>$
-   2013 ^@pass<n><m>$
    1996 ^@imħabba<n><f>$
-   1995 ^@diċembru<n><m>$
    1992 ^@omm<n><f>$
-   1990 ^@isptar<n><m>$
-   1953 ^@novembru<n><m>$
    1942 ^@informazzjoni<n><f>$
    1937 ^@sur<n><m>$
    1924 ^@kumpanija<n><f>$
    1923 ^@deċiżjoni<n><f>$
-   1922 ^@radju<n><m>$
-   1917 ^@ġid<n><m>$
-   1916 ^@lejl<n><m>$
-   1895 ^@frar<n><m>$
    1891 ^@gżira<n><f>$
    1887 ^@daqq<n><m>$
    1881 ^@storja<n><f>$
-   1877 ^@eżempju<n><m>$
    1863 ^@forma<n><f>$
-   1860 ^@riżultat<n><m>$
-   1849 ^@gowl<n><m>$
    1848 ^@attività<n><f>$
    1828 ^@kwistjoni<n><f>$
-   1820 ^@qassis<n><m>$
-   1818 ^@ministeru<n><m>$
-   1812 ^@ambjent<n><m>$
    1806 ^@seklu<n><f>$
    1805 ^@ħidma<n><f>$
-   1776 ^@kampjonat<n><m>$
-   1775 ^@vot<n><m>$
    1766 ^@verità<n><f>$
-   1765 ^@ħabs<n><m>$
    1751 ^@ħsara<n><f>$
-   1746 ^@diskors<n><m>$
-   1734 ^@messaġġ<n><m>$
-   1724 ^@titlu<n><m>$
    1710 ^@pittura<n><f>$
-   1710 ^@ispirtu<n><m>$
-   1701 ^@ġeneru<n><m>$
-   1698 ^@<n><m>$
    1696 ^@ufficjal<n><m>$
    1690 ^@speċi<n><f>$
    1683 ^@edukazzjoni<n><f>$
    1661 ^@ras<n><f>$
    1658 ^@raħal<n><m><ND>$
-   1657 ^@denb<n><m>$
    1651 ^@letteratura<n><f>$
-   1650 ^@korp<n><m>$
-   1638 ^@valur<n><m>$
    1623 ^@wiċċ<n><m><ND>$
    1599 ^@vittma<n><f>$
-   1592 ^@periklu<n><m>$
-   1581 ^@demm<n><m>$
    1580 ^@komunità<n><f>$
    1579 ^@għassa<n><f>$
    1562 ^@kummissjoni<n><f>$
-   1551 ^@taljan<n><m>$
    1551 ^@ligi<n><f>$
-   1542 ^@segretarju<n><m>$
    1541 ^@ġustizzja<n><f>$
    1540 ^@qawwa<n><f>$
    1534 ^@siegħa<n><f><ND>$
    1534 ^@kampanja<n><f>$
-   1524 ^@kumitat<n><m>$
    1519 ^@bidla<n><f>$
    1511 ^@accident<n><GD>$
    1506 ^@opinjoni<n><f>$
    1498 ^@linja<n><f>$
-   1496 ^@dubju<n><m>$
    1495 ^@klassi<n><f>$
-   1478 ^@kandidat<n><m>$
-   1477 ^@dipartiment<n><m>$
-   1452 ^@att<n><m>$
-   1451 ^@blogg<n><m>$
    1450 ^@il-ħadd<n><m>$
-   1449 ^@proċess<n><m>$
-   1440 ^@prezz<n><m>$
    1436 ^@tfajla<n><f>$
    1423 ^@għajn<n><f>$
-   1422 ^@suldat<n><m>$
    1411 ^@università<n><f>$
-   1384 ^@pjan<n><m>$
-   1375 ^@sinjal<n><m>$
-   1374 ^@kor<n><m>$
-   1368 ^@istaġun<n><m>$
    1348 ^@milied<n><m><ND>$
    1347 ^@patri<n><m>$
    1344 ^@omm<n><f><>$
-   1341 ^@ħabib<n><f>$
    1330 ^@għerf<n><m><ND>$
    1325 ^@realtà<n><f>$
-   1314 ^@suċċess<n><m>$
    1313 ^@natura<n><f>$
    1311 ^@okkażjoni<n><f>$
-   1308 ^@gost<n><m>$
    1303 ^@ġermaniż<n><f>$
-   1303 ^@awwissu<n><m>$
    1300 ^@kanzunetta<n><f>$
-   1299 ^@mezz<n><m>$
-   1294 ^@uffiċjal<n><m>$
    1288 ^@pożizzjoni<n><f>$
    1284 ^@partita<n><f>$
-   1279 ^@ċans<n><m>$
-   1269 ^@wied<n><m>$
-   1269 ^@użu<n><m>$
-   1269 ^@deputat<n><m>$
-   1257 ^@xitan<n><m>$
    1257 ^@lista<n><f>$
    1256 ^@taxxa<n><f>$
    1249 ^@azzjoni<n><f>$
    1248 ^@artista<n><f>$
-   1247 ^@suġġett<n><m>$
-   1243 ^@biża<n><m>$
    1241 ^@tama<n><f>$
    1240 ^@sentejn<n><f>$
-   1232 ^@temp<n><m>$
    1216 ^@relazzjoni<n><f>$
    1211 ^@frott<n><m><ND>$
-   1202 ^@deheb<n><m>$
-   1194 ^@tempju<n><m>$
-   1177 ^@moviment<n><m>$
    1177 ^@il-sibt<n><m>$
-   1170 ^@espert<n><m>$
    1169 ^@differenza<n><f>$
-   1168 ^@pjaċir<n><m>$
-   1168 ^@karattru<n><m>$
-   1154 ^@orizzont<n><m>$
    1152 ^@taljan<n><mf>$
    1151 ^@libertà<n><f>$
-   1149 ^@mexxej<n><m>$
    1145 ^@opportunità<n><f>$
-   1141 ^@argument<n><m>$
-   1140 ^@dokument<n><m>$
-   1139 ^@salib<n><m>$
-   1139 ^@kuntratt<n><m>$
    1133 ^@moħħ<n><GD>$
-   1133 ^@effett<n><m>$
-   1132 ^@riħ<n><m>$
-   1125 ^@sajf<n><m>$
-   1123 ^@kuntatt<n><m>$
    1109 ^@xewqa<n><f>$
-   1109 ^@bank<n><m>$
-   1107 ^@permess<n><m>$
-   1106 ^@immigrant<n><m>$
-   1106 ^@avveniment<n><m>$
    1105 ^@sigurtà<n><f>$
    1105 ^@istituzzjoni<n><f>$
    1103 ^@tema<n><f>$
-   1102 ^@suq<n><m>$
-   1096 ^@distrett<n><m>$
-   1094 ^@rispett<n><m>$
    1093 ^@ħanut<n><GD>$
-   1091 ^@aspett<n><m>$
-   1089 ^@settur<n><m>$
    1088 ^@ħalla<n><f>$
-   1088 ^@film<n><m>$
    1084 ^@ekonomija<n><f>$
    1081 ^@protezzjoni<n><f>$
    1081 ^@oppożizzjoni<n><f>$
    1080 ^@iben<n><m><ND>$
-   1075 ^@vjaġġ<n><m>$
    1075 ^@poezija<n><f>$
-   1073 ^@uffiċċju<n><m>$
-   1069 ^@bażi<n><m>$
    1068 ^@paġna<n><f><ND>$
-   1065 ^@avukat<n><m>$
    1061 ^@repubblika<n><f>$
    1060 ^@karta<n><f>$
    1054 ^@tarbija<n><f>$
    1054 ^@it-tnejn<n><m>$
-   1051 ^@leħen<n><m>$
    1050 ^@il-ġimgħa<n><m>$
    1043 ^@laqgha<n><f>$
    1043 ^@kriżi<n><f>$
    1041 ^@kwalità<n><f>$
    1041 ^@divorzju<n><m><ND>$
-   1037 ^@rwol<n><m>$
    1036 ^@direzzjoni<n><f>$
    1031 ^@offerta<n><f>$
    1031 ^@kundizzjoni<n><f>$
    1031 ^@forza<n><f>$
    1028 ^@dgħajsa<n><f>$
-   1017 ^@ħlas<n><m>$
-   1016 ^@prodott<n><m>$
-   1008 ^@element<n><m>$
-   1008 ^@annimal<n><m>$
    1003 ^@ghaqda<n><f>$
     994 ^@id<n><f><>$
     987 ^@diskussjoni<n><f>$
@@ -319,167 +160,96 @@
     962 ^@nazzjonalist<n><GD>$
     959 ^@rata<n><f>$
     957 ^@bomba<n><f>$
-    954 ^@ammont<n><m>$
     953 ^@importanza<n><f>$
-    952 ^@individwu<n><m>$
     951 ^@regola<n><f>$
-    950 ^@direttur<n><m>$
     942 ^@ispettur<n><mf>$
     942 ^@grazzja<n><f>$
     940 ^@re<n><m>$
     938 ^@ħajja<n><f><>$
     937 ^@maġġoranza<n><f>$
-    933 ^@piż<n><m>$
     929 ^@għanja<n><f>$
-    928 ^@iżvilupp<n><m>$
-    925 ^@poter<n><m>$
-    925 ^@kelliem<n><m>$
     923 ^@lvant<n><m><ND>$
-    922 ^@kors<n><m>$
     920 ^@prova<n><f>$
     908 ^@lejla<n><f><ND>$
     908 ^@banda<n><f>$
-    904 ^@artist<n><m>$
     903 ^@paċi<n><f>$
-    900 ^@perjodu<n><m>$
     897 ^@rabta<n><f>$
     893 ^@internet<n><f>$
     893 ^@għalqa<n><f>$
     888 ^@nota<n><f>$
     886 ^@operazzjoni<n><f>$
-    885 ^@materjal<n><m>$
     881 ^@ħajt<n><GD>$
-    878 ^@teatru<n><m>$
     876 ^@siġra<n><f>$
     874 ^@konferenza<n><f>$
-    873 ^@kulur<n><m>$
-    872 ^@mammiferu<n><m>$
-    871 ^@kalendarju<n><m>$
     869 ^@konsegwenza<n><f>$
     867 ^@risposta<n><f>$
-    865 ^@ballun<n><m>$
-    863 ^@tabib<n><m>$
     862 ^@riforma<n><f>$
     862 ^@enerġija<n><f><ND>$
-    859 ^@vapur<n><m>$
-    855 ^@alla<n><m>$
     853 ^@fehma<n><f><ND>$
     852 ^@ambulanza<n><f>$
-    849 ^@kontinent<n><m>$
     844 ^@opra<n><f>$
     840 ^@kompetizzjoni<n><f>$
     839 ^@anġlu<n><m><ND>$
     818 ^@edizzjoni<n><f>$
-    813 ^@isem<n><m><>$
-    812 ^@pont<n><m>$
-    811 ^@prinċipju<n><m>$
-    811 ^@perit<n><m>$
     810 ^@tieqa<n><f>$
     810 ^@identità<n><f>$
-    809 ^@ajruplan<n><m>$
-    808 ^@parir<n><m>$
     803 ^@tribù<n><GD>$
     802 ^@pubblikazzjoni<n><f>$
-    801 ^@żejt<n><m>$
-    801 ^@port<n><m>$
-    800 ^@traffiku<n><m>$
     799 ^@data<n><f>$
-    795 ^@istudju<n><m>$
-    794 ^@ġurnalist<n><m>$
     793 ^@silta<n><f>$
     792 ^@traġedja<n><f>$
     790 ^@figura<n><f>$
-    787 ^@istazzjon<n><m>$
     778 ^@traduzzjoni<n><f>$
     778 ^@kariga<n><f>$
     774 ^@tifkira<n><f>$
     771 ^@proprjetà<n><f>$
-    769 ^@katidral<n><m>$
-    768 ^@sieq<n><m>$
     765 ^@skola<n><f>$
-    765 ^@mil<n><m>$
     763 ^@mejda<n><f>$
-    761 ^@patt<n><m>$
     748 ^@kuxjenza<n><f>$
-    747 ^@sid<n><m>$
-    746 ^@premju<n><m>$
-    745 ^@appartament<n><m>$
-    743 ^@dmir<n><m>$
-    742 ^@test<n><m>$
     740 ^@missjoni<n><f>$
     738 ^@ħafif<n><GD>$
     736 ^@punent<n><m><ND>$
     731 ^@tradizzjoni<n><f>$
     731 ^@sptar<n><m><ND>$
-    730 ^@sagrificcju<n><m>$
-    728 ^@kummissarju<n><m>$
-    722 ^@tarf<n><m>$
-    722 ^@kelb<n><m>$
-    720 ^@sindku<n><m>$
-    720 ^@santwarju<n><m>$
     714 ^@tifla<n><f><ND>$
-    714 ^@investiment<n><m>$
     713 ^@ikrah<n><GD>$
     713 ^@ġranet<n><GD><ND>$
     712 ^@tbatija<n><f>$
-    712 ^@stil<n><m>$
     711 ^@vat<n><f>$
     711 ^@mara<n><f><>$
     710 ^@żjara<n><f>$
     710 ^@wirja<n><f>$
-    709 ^@terminu<n><m>$
     707 ^@preżenza<n><f>$
     705 ^@popolazzjoni<n><f>$
-    705 ^@kuraġġ<n><m>$
     705 ^@ambaxxata<n><f>$
-    704 ^@appostlu<n><m>$
     700 ^@verżjoni<n><f>$
     697 ^@memorja<n><f>$
     694 ^@sieħeb<n><GD>$
-    693 ^@sieq<n><m><>$
-    692 ^@żball<n><m>$
     692 ^@emerġenza<n><f>$
     691 ^@viżjoni<n><f>$
     689 ^@qarib<n><GD>$
     688 ^@riċerka<n><f>$
-    687 ^@turist<n><m>$
-    687 ^@editur<n><m>$
-    685 ^@but<n><m>$
     683 ^@bint<n><f>$
     677 ^@ċelebrazzjoni<n><f>$
     675 ^@diviżjoni<n><f>$
     674 ^@soluzzjoni<n><f>$
-    674 ^@professur<n><m>$
     674 ^@bhima<n><f>$
     673 ^@pjazza<n><f>$
     670 ^@sodda<n><f>$
-    664 ^@għerq<n><m>$
-    661 ^@deżert<n><m>$
-    659 ^@saqaf<n><m>$
-    659 ^@marsupjal<n><m>$
-    658 ^@bord<n><m>$
     657 ^@televiżjoni<n><f>$
     654 ^@vjolenza<n><f>$
-    654 ^@impatt<n><m>$
     653 ^@ħodon<n><GD>$
     652 ^@impressjoni<n><f>$
-    651 ^@salm<n><m>$
     650 ^@koppja<n><f>$
     648 ^@espressjoni<n><f>$
-    646 ^@palazz<n><m>$
     646 ^@funzjoni<n><f>$
     644 ^@kaxxa<n><f>$
     643 ^@reazzjoni<n><f>$
-    640 ^@unur<n><m>$
     639 ^@lokalità<n><f>$
-    637 ^@abbuż<n><m>$
-    636 ^@sewwieq<n><m>$
     635 ^@spiża<n><f>$
-    635 ^@siġġu<n><m>$
     632 ^@paga<n><f>$
     631 ^@filosofija<n><f><ND>$
     627 ^@diska<n><f>$
-    624 ^@kontroll<n><m>$
     622 ^@taljan<n><f>$
     618 ^@pressjoni<n><f>$
     616 ^@demokrazija<n><f>$
@@ -492,152 +262,89 @@
     606 ^@sala<n><f>$
     606 ^@ġenerazzjoni<n><f>$
     605 ^@xatt<n><GD>$
-    605 ^@rigal<n><m>$
     605 ^@ghazla<n><f>$
     603 ^@bandiera<n><f>$
-    597 ^@talent<n><m>$
     597 ^@ħsieb<n><m><>$
     596 ^@bibbja<n><f>$
-    595 ^@sajjied<n><m>$
     594 ^@tramuntana<n><f>$
-    594 ^@tnaqqis<n><m>$
-    594 ^@inbid<n><m>$
     591 ^@arma<n><f>$
     589 ^@vuċi<n><f>$
     587 ^@referenza<n><f>$
     585 ^@kategorija<n><f>$
-    583 ^@kompjuter<n><m>$
     580 ^@teorija<n><f>$
     576 ^@industrija<n><f>$
     572 ^@serq<n><f>$
-    572 ^@konfront<n><m>$
     570 ^@grajja<n><f>$
     569 ^@organizzazzjoni<n><f>$
     569 ^@marid<n><GD>$
-    568 ^@grawnd<n><m>$
     563 ^@qiegħ<n><f>$
-    563 ^@pittur<n><m>$
     562 ^@inizjattiva<n><f>$
     562 ^@blata<n><f>$
-    560 ^@qamar<n><m>$
-    560 ^@partitarju<n><m>$
-    559 ^@negozju<n><m>$
     559 ^@laħam<n><f>$
     558 ^@immigrazzjoni<n><f>$
-    556 ^@vantaġġ<n><m>$
     556 ^@investigazzjoni<n><f>$
     554 ^@par<n><m>$
     554 ^@fidda<n><f><ND>$
-    553 ^@ilment<n><m>$
     552 ^@dixxipla<n><f>$
-    551 ^@inkwet<n><m>$
     551 ^@detenzjoni<n><f>$
-    548 ^@mutur<n><m>$
     548 ^@korruzzjoni<n><f>$
-    547 ^@istil<n><m>$
-    544 ^@website<n><m>$
-    538 ^@konsumatur<n><m>$
-    538 ^@arċisqof<n><m>$
-    536 ^@żiemel<n><m>$
-    536 ^@tifsir<n><m>$
-    536 ^@misteru<n><m>$
-    532 ^@mudell<n><m>$
-    531 ^@ajruport<n><m>$
-    529 ^@kurrent<n><m>$
-    527 ^@riskju<n><m>$
     525 ^@indipendenza<n><f>$
     523 ^@sezzjoni<n><f>$
     522 ^@rebbiegħa<n><f><ND>$
-    521 ^@intervent<n><m>$
     515 ^@għodda<n><f>$
     514 ^@teknoloġija<n><f>$
     514 ^@ikla<n><f>$
-    512 ^@għasfur<n><m>$
     508 ^@ħaxix<n><GD>$
-    506 ^@turiżmu<n><m>$
     506 ^@il-hamis<n><m>$
     505 ^@somma<n><f>$
-    502 ^@xifer<n><m>$
     502 ^@karikatura<n><f>$
-    501 ^@limitu<n><m>$
-    501 ^@july<n><m>$
-    500 ^@trab<n><m>$
     500 ^@stqarrija<n><f>$
-    500 ^@esperiment<n><m>$
-    499 ^@dibattitu<n><m>$
     498 ^@avventura<n><f>$
-    496 ^@metodu<n><m>$
-    488 ^@iskop<n><m>$
     486 ^@assoċjazzjoni<n><f>$
     484 ^@xjenza<n><f>$
-    482 ^@skiet<n><m>$
-    480 ^@gass<n><m>$
     479 ^@produzzjoni<n><f>$
-    479 ^@kaptan<n><m>$
     478 ^@tobba<n><GD><ND>$
-    476 ^@sultan<n><mf>$
-    474 ^@dramm<n><m>$
-    471 ^@garaxx<n><m>$
     469 ^@fondazzjoni<n><f>$
-    468 ^@simbolu<n><m>$
     467 ^@editorjal<n><GD>$
-    465 ^@monument<n><m>$
     465 ^@ħadid<n><m><ND>$
-    464 ^@sussidju<n><m>$
     464 ^@applikazzjoni<n><f>$
     463 ^@xibka<n><f>$
     463 ^@sħubija<n><f>$
     462 ^@vers<n><m>$
-    462 ^@fenek<n><m>$
-    461 ^@bidwi<n><m>$
-    460 ^@sess<n><m>$
     460 ^@qalba<n><f>$
     460 ^@devozzjoni<n><f>$
     459 ^@tork<n><GD>$
     458 ^@xabla<n><f>$
     458 ^@kostituzzjoni<n><f>$
-    458 ^@dejn<n><m>$
     456 ^@tinda<n><f>$
     455 ^@riflessjoni<n><f>$
     455 ^@pjanta<n><f>$
-    455 ^@fdal<n><m>$
-    453 ^@staġun<n><m>$
-    453 ^@regolament<n><m>$
     453 ^@ħoss<n><GD>$
-    453 ^@funeral<n><m>$
     452 ^@ġebla<n><f><ND>$
     444 ^@diversità<n><f>$
     440 ^@tariffa<n><f>$
     440 ^@influwenza<n><f>$
     434 ^@qormi<n><GD>$
     433 ^@salvazzjoni<n><f>$
-    433 ^@altar<n><m>$
     432 ^@residenza<n><f>$
     431 ^@passjoni<n><f>$
     431 ^@muntanja<n><f><ND>$
     430 ^@istatwa<n><f>$
-    425 ^@trasport<n><m>$
     423 ^@xitwa<n><f>$
     423 ^@sejba<n><f>$
-    423 ^@emigrant<n><m>$
     420 ^@introduzzjoni<n><f>$
     418 ^@klassifika<n><f>$
     417 ^@sottoklassi<n><f>$
     417 ^@konnessjoni<n><f>$
     417 ^@ħabel<n><GD>$
     416 ^@klima<n><f>$
-    415 ^@flokk<n><m>$
-    413 ^@kulleġġ<n><m>$
     413 ^@grieg<n><m><ND>$
     413 ^@fjura<n><f>$
     412 ^@kera<n><f>$
     411 ^@sengħa<n><f>$
     410 ^@żebbuġ<n><m><ND>$
     410 ^@għaref<n><GD>$
-    409 ^@kunċett<n><m>$
     408 ^@kapaċità<n><f>$
-    408 ^@assistent<n><m>$
-    406 ^@rekord<n><m>$
     404 ^@isfida<n><f>$
     403 ^@hila<n><f>$
     402 ^@xutt<n><m>$
@@ -648,103 +355,65 @@
     398 ^@nikta<n><f>$
     398 ^@magna<n><f>$
     395 ^@infraklassi<n><f>$
-    393 ^@qabar<n><m>$
     393 ^@istruttura<n><f>$
     392 ^@temperatura<n><f>$
     391 ^@zopp<n><m>$
     390 ^@karità<n><f>$
-    387 ^@difensur<n><m>$
-    386 ^@djalogu<n><m>$
-    385 ^@kontenut<n><m>$
     384 ^@kumbinazzjoni<n><f>$
-    384 ^@ispazju<n><m>$
     384 ^@folla<n><f>$
-    383 ^@gwardjan<n><m>$
     381 ^@dinjità<n><f>$
     380 ^@bitħa<n><GD>$
     378 ^@sid<n><mf>$
-    378 ^@riġel<n><m><>$
-    377 ^@pakkett<n><m>$
     377 ^@ħaruf<n><GD>$
-    377 ^@grad<n><m>$
     376 ^@istqarrija<n><f>$
     376 ^@formazzjoni<n><f>$
     375 ^@tendenza<n><f>$
-    373 ^@avversarju<n><m>$
-    372 ^@driegħ<n><m>$
     371 ^@mozzjoni<n><f>$
     371 ^@marka<n><f>$
     370 ^@xmara<n><f><ND>$
-    369 ^@televixin<n><m>$
-    369 ^@fenomenu<n><m>$
     368 ^@attitudni<n><f>$
     367 ^@riħa<n><GD>$
-    367 ^@obbligu<n><m>$
     366 ^@interpretazzjoni<n><f>$
     362 ^@udjenza<n><f>$
     361 ^@prijorità<n><f>$
     361 ^@dawra<n><f>$
-    360 ^@traduttur<n><m>$
     360 ^@diskriminazzjoni<n><f>$
     360 ^@disinn<n><m><ND>$
-    359 ^@ġermaniż<n><m>$
-    359 ^@bastiment<n><m>$
     358 ^@fruntiera<n><f>$
     357 ^@provinċja<n><f>$
-    357 ^@kardinal<n><m>$
     356 ^@toqba<n><f>$
     356 ^@drawwa<n><f>$
-    356 ^@bir<n><m>$
     355 ^@distanza<n><f>$
     354 ^@spluzjoni<n><f>$
     354 ^@lezzjoni<n><f>$
     353 ^@umanità<n><f>$
-    351 ^@rawnd<n><m>$
-    350 ^@ideal<n><m>$
     349 ^@razza<n><f>$
-    348 ^@vann<n><m>$
     348 ^@solidarjetà<n><f>$
     345 ^@xirja<n><f>$
     344 ^@mentalità<n><f>$
     343 ^@pjaneta<n><mf>$
     342 ^@qoxra<n><f>$
     342 ^@kwalifikazzjoni<n><f>$
-    341 ^@rit<n><m>$
     339 ^@ħmar<n><GD>$
-    337 ^@sentiment<n><m>$
-    335 ^@trakk<n><m>$
     335 ^@kumpannija<n><f>$
-    334 ^@ritmu<n><m>$
-    333 ^@kunvent<n><m>$
     331 ^@purċissjoni<n><f>$
     331 ^@munita<n><f>$
     330 ^@ħalib<n><m><ND>$
     330 ^@bejt<n><GD>$
-    326 ^@kwartier<n><m>$
     325 ^@liċenzja<n><f>$
-    325 ^@filmat<n><m>$
     324 ^@votazzjoni<n><f>$
-    324 ^@serp<n><m>$
     324 ^@intenzjoni<n><f>$
     323 ^@qamħ<n><GD>$
     323 ^@ponta<n><f>$
-    321 ^@liebru<n><m>$
-    321 ^@flixkun<n><m>$
     320 ^@nagħġa<n><f>$
-    319 ^@cittadin<n><m>$
     317 ^@sinna<n><f>$
     317 ^@mera<n><f>$
-    315 ^@xokk<n><m>$
-    315 ^@strument<n><m>$
     313 ^@sustanza<n><f>$
     313 ^@dikjarazzjoni<n><f>$
     312 ^@sottofamilja<n><f>$
-    310 ^@terroriżmu<n><m>$
     306 ^@lsien<n><m><ND>$
-    306 ^@ezami<n><m>$
     304 ^@parteċipazzjoni<n><f>$
     304 ^@ilbies<n><m><ND>$
-    303 ^@karru<n><m>$
     302 ^@presidenza<n><f>$
     301 ^@dieta<n><f>$
     299 ^@fabbrika<n><f>$
@@ -752,13 +421,10 @@
     298 ^@baqra<n><f>$
     297 ^@superordni<n><f>$
     293 ^@triq<n><f><>$
-    293 ^@kumplament<n><m>$
     292 ^@aljenazzjoni<n><f>$
     288 ^@norma<n><f>$
     287 ^@veloċità<n><f>$
     287 ^@ħofra<n><GD>$
-    286 ^@farfett<n><m>$
-    284 ^@delegat<n><m>$
     282 ^@ħalq<n><GD>$
     280 ^@sikkina<n><f>$
     280 ^@duħħan<n><GD>$
@@ -766,53 +432,31 @@
     278 ^@ġermaniż<n><mf>$
     277 ^@librerija<n><f><ND>$
     276 ^@dimensjoni<n><f>$
-    274 ^@divertiment<n><m>$
     273 ^@konsultazzjoni<n><f>$
-    271 ^@mertu<n><m>$
     270 ^@direttiva<n><f>$
     268 ^@tibna<n><GD>$
-    268 ^@lingwaġġ<n><m>$
     268 ^@aħrax<n><GD>$
-    267 ^@riġel<n><m>$
-    264 ^@team<n><m>$
-    264 ^@stadju<n><m>$
     264 ^@pensjoni<n><f>$
-    264 ^@gvernatur<n><m>$
     264 ^@distinzjoni<n><f>$
-    264 ^@aġġornament<n><m>$
-    261 ^@vizzju<n><m>$
-    261 ^@platt<n><m>$
     261 ^@emozzjoni<n><f>$
     260 ^@sbuħija<n><f><ND>$
     258 ^@rivoluzzjoni<n><f>$
     258 ^@riferenza<n><f>$
     258 ^@prestazzjoni<n><f>$
-    258 ^@kuntrast<n><m>$
     257 ^@korporazzjoni<n><f>$
     256 ^@bozza<n><GD>$
     255 ^@qatta<n><f>$
-    254 ^@difett<n><m>$
     252 ^@estensjoni<n><f>$
     252 ^@aggressjoni<n><f>$
-    251 ^@lewn<n><m>$
     251 ^@kuntrabandu<n><m>$
     251 ^@katina<n><f>$
-    251 ^@appuntament<n><m>$
-    248 ^@korriment<n><m>$
-    247 ^@sultan<n><f>$
     246 ^@villa<n><f>$
     245 ^@firda<n><f>$
-    243 ^@preżentatur<n><m>$
     243 ^@iblah<n><GD>$
-    242 ^@attur<n><m>$
     241 ^@maratona<n><f>$
-    241 ^@fundatur<n><m>$
-    240 ^@sider<n><m>$
     240 ^@rivelazzjoni<n><f>$
     239 ^@ċiviltà<n><f>$
-    236 ^@villaġġ<n><m>$
     236 ^@kollezzjoni<n><f>$
-    235 ^@kuntrattur<n><m>$
     235 ^@ispirazzjoni<n><f>$
     234 ^@stilla<n><f>$
     234 ^@gibda<n><f>$
@@ -821,22 +465,15 @@
     230 ^@tolleranza<n><f>$
     230 ^@tabella<n><f>$
     230 ^@konvenzjoni<n><f>$
-    229 ^@isforz<n><m>$
     229 ^@ġurdien<n><GD><ND>$
     229 ^@destinazzjoni<n><f>$
-    228 ^@falliment<n><m>$
     227 ^@ħliqa<n><GD>$
     227 ^@duttrina<n><f>$
-    226 ^@qattus<n><m>$
     224 ^@għamara<n><f>$
     223 ^@borma<n><f>$
-    223 ^@avvelenament<n><m>$
     222 ^@rappreżentazzjoni<n><f>$
-    222 ^@kriterju<n><m>$
-    222 ^@ġurnaliżmu<n><m>$
     221 ^@manutenzjoni<n><f>$
     221 ^@epoka<n><f>$
-    220 ^@negozjant<n><m>$
     218 ^@barriera<n><f>$
     217 ^@pinna<n><f>$
     217 ^@osservazzjoni<n><f>$
@@ -847,27 +484,19 @@
     213 ^@reġistrazzjoni<n><f>$
     212 ^@rotta<n><f>$
     212 ^@kuncett<n><m>$
-    208 ^@votant<n><m>$
     208 ^@għadira<n><f>$
     207 ^@minoranza<n><f>$
     206 ^@birra<n><f>$
-    205 ^@kult<n><m>$
     205 ^@deskrizzjoni<n><f>$
-    204 ^@territorju<n><m>$
     204 ^@miskin<n><GD>$
-    203 ^@operatur<n><m>$
-    203 ^@filosfu<n><m>$
-    202 ^@trasferiment<n><m>$
     202 ^@professjoni<n><f>$
     202 ^@faxxa<n><f>$
-    200 ^@sejf<n><m>$
     200 ^@misraħ<n><GD>$
     199 ^@evoluzzjoni<n><f>$
     196 ^@nies<n><mf><>$
     196 ^@nazzjonalità<n><f>$
     195 ^@abilità<n><f>$
     194 ^@privatizzazzjoni<n><f>$
-    194 ^@gowlkiper<n><m>$
     194 ^@ċeka<n><f><ND>$
     193 ^@kostruzzjoni<n><f>$
     193 ^@ħuta<n><f><ND>$
@@ -876,19 +505,12 @@
     191 ^@qaħba<n><GD>$
     190 ^@senter<n><GD>$
     189 ^@tajra<n><GD>$
-    189 ^@mekkaniżmu<n><m>$
-    189 ^@imperatur<n><m>$
     189 ^@għama<n><GD>$
     183 ^@ubbidjenza<n><f>$
     183 ^@popolarità<n><f>$
-    183 ^@maltemp<n><m>$
-    182 ^@segretarjat<n><m>$
     182 ^@istilla<n><f>$
     181 ^@varjetà<n><f>$
-    181 ^@involviment<n><m>$
-    180 ^@petrol<n><m>$
     180 ^@farsa<n><f>$
-    180 ^@diżastru<n><m>$
     177 ^@ditta<n><f>$
     175 ^@kolonja<n><f>$
     175 ^@klikka<n><f>$
@@ -897,40 +519,29 @@
     174 ^@fwieħa<n><GD>$
     173 ^@xejra<n><f>$
     173 ^@qanpiena<n><f>$
-    173 ^@meeting<n><m>$
     173 ^@konvinzjoni<n><f>$
     172 ^@konfederazzjoni<n><f>$
     172 ^@kompożizzjoni<n><f>$
-    171 ^@zokk<n><m>$
     170 ^@manifestazzjoni<n><f>$
     170 ^@forn<n><GD>$
     168 ^@dedikazzjoni<n><f>$
-    167 ^@kampnar<n><m>$
     167 ^@assistenza<n><f>$
     166 ^@providenza<n><f>$
     165 ^@superfamilja<n><f>$
-    165 ^@prigunier<n><m>$
     163 ^@melħ<n><GD>$
     163 ^@ħrafa<n><GD>$
     163 ^@bolla<n><f>$
     162 ^@mappa<n><f>$
     160 ^@razzett<n><GD>$
     157 ^@griż<n><m><ND>$
-    157 ^@għarus<n><m>$
-    157 ^@ambaxxatur<n><m>$
     156 ^@trasparenza<n><f>$
     156 ^@qmis<n><f>$
-    154 ^@istabbiliment<n><m>$
-    154 ^@bodbod<n><m>$
     153 ^@polza<n><GD>$
     150 ^@tavla<n><GD>$
-    150 ^@tapit<n><m>$
     150 ^@arroganza<n><f>$
     149 ^@żaqq<n><f><ND>$
     148 ^@formola<n><f>$
-    147 ^@profitt<n><m>$
     146 ^@pompa<n><f>$
-    146 ^@iskandlu<n><m>$
     146 ^@ekwazzjoni<n><f>$
     145 ^@bxara<n><f>$
     144 ^@korrispondenza<n><f>$
@@ -938,11 +549,8 @@
     142 ^@soċjalist<n><GD>$
     142 ^@flotta<n><f>$
     142 ^@abitat<n><m><ND>$
-    141 ^@prokuratur<n><m>$
     141 ^@balla<n><f>$
-    139 ^@tajn<n><m>$
     139 ^@fakultà<n><f>$
-    139 ^@bastun<n><m>$
     138 ^@xkora<n><f>$
     138 ^@borża<n><f><ND>$
     137 ^@injoranza<n><f>$
@@ -952,42 +560,20 @@
     135 ^@distribuzzjoni<n><f>$
     134 ^@tarġa<n><GD>$
     134 ^@klassifikazzjoni<n><f>$
-    134 ^@champion<n><m>$
-    133 ^@maktur<n><m>$
-    132 ^@passaport<n><m>$
     132 ^@lsir<n><GD>$
     132 ^@idjoma<n><f>$
     130 ^@oħt<n><f><ND>$
     130 ^@integrazzjoni<n><f>$
-    129 ^@arkanġlu<n><m>$
-    128 ^@sillabu<n><m>$
-    127 ^@għarusa<n><f><ND>$
-    127 ^@benefattur<n><m>$
+    127 ^@għarusa<n><f>$
     125 ^@invażjoni<n><f>$
-    125 ^@baħri<n><m>$
     123 ^@xewka<n><f>$
-    123 ^@nbid<n><m>$
-    123 ^@egoiżmu<n><m>$
-    122 ^@show<n><m>$
     122 ^@preferenza<n><f>$
     122 ^@ħabba<n><GD>$
-    122 ^@gendus<n><m>$
-    121 ^@ristorant<n><m>$
-    121 ^@muntun<n><m>$
-    120 ^@jott<n><m>$
-    119 ^@plural<n><m>$
-    119 ^@għonq<n><m>$
-    118 ^@xjenzat<n><m>$
-    118 ^@timbru<n><m>$
-    118 ^@nassab<n><m>$
     116 ^@denfil<n><GD>$
     116 ^@ċrieki<n><GD><ND>$
     115 ^@spalla<n><f>$
-    115 ^@avvanz<n><m>$
     115 ^@apparenza<n><f>$
     114 ^@tebgħa<n><f>$
-    114 ^@subborg<n><m>$
-    114 ^@osservatur<n><m>$
     113 ^@sawt<n><GD>$
     113 ^@motivazzjoni<n><f>$
     113 ^@invenzjoni<n><f>$
@@ -1001,13 +587,10 @@
     109 ^@ċomb<n><m><ND>$
     108 ^@zokkor<n><m><ND>$
     108 ^@insistenza<n><f>$
-    108 ^@esponent<n><m>$
-    107 ^@investitur<n><m>$
     106 ^@lanza<n><f>$
     106 ^@awla<n><f>$
     105 ^@ħarifa<n><f><ND>$
     104 ^@varjazzjoni<n><f>$
-    104 ^@narratur<n><m>$
     103 ^@partner<n><m>$
     102 ^@psikoloġija<n><f><ND>$
     102 ^@ċifra<n><f><ND>$
@@ -1015,10 +598,7 @@
     100 ^@oċean<n><m><ND>$
     100 ^@innovazzjoni<n><f>$
     100 ^@attivist<n><GD>$
-     99 ^@tebut<n><m>$
      98 ^@trasformazzjoni<n><f>$
-     98 ^@kappell<n><m>$
-     98 ^@antenat<n><m>$
      97 ^@tikka<n><f>$
      96 ^@penitenza<n><f>$
      96 ^@ftira<n><f>$
@@ -1026,27 +606,21 @@
      91 ^@tila<n><f>$
      91 ^@sekwenza<n><f>$
      91 ^@labra<n><f>$
-     91 ^@dominju<n><m>$
      90 ^@urgenza<n><f>$
      90 ^@konsistenza<n><f>$
      90 ^@kompetenza<n><f>$
-     89 ^@iskultur<n><m>$
      88 ^@nannakola<n><f>$
      88 ^@mogħża<n><f>$
-     88 ^@kexxun<n><m>$
      88 ^@ħolqa<n><GD>$
-     88 ^@amministratur<n><m>$
      87 ^@trux<n><GD>$
      87 ^@banka<n><f>$
      85 ^@saħħar<n><GD>$
-     85 ^@romantiċiżmu<n><m>$
      85 ^@pretensjoni<n><f>$
      85 ^@omosesswalità<n><f>$
      85 ^@istrixxa<n><f>$
      85 ^@diskursata<n><f>$
      85 ^@dehra<n><f>$
      85 ^@attriċi<n><f>$
-     84 ^@lupu<n><m>$
      84 ^@kunfidenza<n><f>$
      84 ^@indifferenza<n><f>$
      84 ^@indiċi<n><m><ND>$
@@ -1056,21 +630,16 @@
      82 ^@maskra<n><f>$
      82 ^@bieqja<n><GD>$
      81 ^@għadma<n><f><ND>$
-     81 ^@driegħ<n><m><>$
      80 ^@riefnu<n><m>$
      79 ^@prudenza<n><f>$
      79 ^@komponenti<n><m>$
      78 ^@rivalità<n><f>$
      78 ^@ment<n><m>$
-     77 ^@musmar<n><m>$
      76 ^@eccellenza<n><f>$
-     76 ^@angolu<n><m>$
      75 ^@tanbur<n><GD>$
-     75 ^@istint<n><m>$
      74 ^@fossa<n><GD>$
      73 ^@pangolin<n><m>$
      73 ^@moralità<n><f>$
-     72 ^@kompozitur<n><m>$
      72 ^@iskoperta<n><f>$
      71 ^@qaws<n><GD>$
      71 ^@mula<n><GD>$
@@ -1078,55 +647,38 @@
      71 ^@keffa<n><f>$
      70 ^@skuna<n><f>$
      70 ^@mus<n><m>$
-     70 ^@kollaboratur<n><m>$
      70 ^@ikħal<n><GD>$
      70 ^@dipendenza<n><f>$
      69 ^@densità<n><f>$
-     68 ^@regolatur<n><m>$
      68 ^@ingravata<n><GD>$
-     68 ^@filosofu<n><m>$
      68 ^@demla<n><f>$
-     68 ^@animatur<n><m>$
-     67 ^@xaqq<n><m>$
      67 ^@kappa<n><f>$
      67 ^@inkwiżizzjoni<n><f>$
      66 ^@nassa<n><f>$
      66 ^@grotta<n><f>$
      65 ^@musbieħ<n><GD>$
-     64 ^@soċjaliżmu<n><m>$
      64 ^@prominenza<n><f>$
      64 ^@komma<n><f>$
      64 ^@gżira<n><f><>$
-     63 ^@pinzell<n><m>$
      63 ^@assenza<n><f>$
      63 ^@armel<n><m>$
-     62 ^@edukatur<n><m>$
      61 ^@selezzjoni<n><f>$
      60 ^@kobba<n><f>$
      60 ^@idroġenu<n><m><ND>$
      60 ^@diverġenza<n><f>$
      59 ^@superstizzjoni<n><f>$
      59 ^@relegazzjoni<n><f>$
-     59 ^@iżviluppatur<n><m>$
-     59 ^@barmil<n><m>$
      58 ^@xafra<n><f>$
      58 ^@povru<n><m>$
      58 ^@latrina<n><f>$
      58 ^@infezzjoni<n><f>$
-     57 ^@millenju<n><m>$
-     57 ^@dittatur<n><m>$
-     56 ^@ottimiżmu<n><m>$
      56 ^@interazzjoni<n><f>$
-     55 ^@nazzjonaliżmu<n><m>$
      55 ^@għoqda<n><f>$
      55 ^@burdell<n><m>$
-     54 ^@sellum<n><m>$
      54 ^@matematiku<n><m><ND>$
-     54 ^@fanatiżmu<n><m>$
      54 ^@divinità<n><f>$
      53 ^@sikka<n><f>$
      53 ^@qasrija<n><GD>$
-     53 ^@patrijott<n><m>$
      53 ^@bust<n><m>$
      53 ^@balluta<n><f><ND>$
      52 ^@nemla<n><f>$
@@ -1135,9 +687,7 @@
      51 ^@karbonju<n><m><ND>$
      50 ^@xoffa<n><f>$
      50 ^@pizza<n><f>$
-     50 ^@medjatur<n><m>$
      50 ^@koxxa<n><f>$
-     49 ^@għanqud<n><m>$
      48 ^@soppa<n><f>$
      48 ^@abbundanza<n><f>$
      46 ^@morsa<n><GD>$
@@ -1145,9 +695,7 @@
      45 ^@xiber<n><GD>$
      44 ^@sunnara<n><GD>$
      44 ^@ltim<n><GD>$
-     43 ^@vjal<n><m>$
      43 ^@qorq<n><GD>$
-     43 ^@martell<n><m>$
      43 ^@klassifikazjoni<n><f>$
      42 ^@terra<n><f>$
      42 ^@pjanura<n><f>$
@@ -1155,8 +703,6 @@
      42 ^@loqma<n><f>$
      42 ^@enċiklopedija<n><f>$
      42 ^@basla<n><f>$
-     41 ^@spettatur<n><m>$
-     41 ^@materjaliżmu<n><m>$
      41 ^@konkatidral<n><m>$
      40 ^@sqalli<n><m><ND>$
      40 ^@qamla<n><f>$
@@ -1164,30 +710,21 @@
      40 ^@dubbiena<n><f>$
      40 ^@astroloġija<n><f><ND>$
      39 ^@umbrella<n><f>$
-     38 ^@ispettatur<n><m>$
      37 ^@trinka<n><f>$
-     37 ^@kondom<n><m>$
      36 ^@mazza<n><f>$
-     36 ^@kolonjaliżmu<n><m>$
      36 ^@fortifikazzjoni<n><f>$
      36 ^@forka<n><f>$
      35 ^@praspura<n><GD>$
-     35 ^@plott<n><m>$
      33 ^@xedaq<n><GD>$
      33 ^@sarvetta<n><f>$
      33 ^@proporzjoni<n><f>$
-     33 ^@patrijottiżmu<n><m>$
      33 ^@nominazzjoni<n><f>$
      33 ^@mara<n><f># żienja$
-     33 ^@ċerv<n><m>$
      32 ^@kostellazzjoni<n><f>$
      32 ^@għoxx<n><GD>$
      32 ^@ġeografija<n><f><ND>$
      31 ^@maqdes<n><GD>$
-     31 ^@fardal<n><m>$
      30 ^@sorm<n><m>$
-     30 ^@pluraliżmu<n><m>$
-     30 ^@kattoliċiżmu<n><m>$
      30 ^@fużjoni<n><f>$
      29 ^@xatba<n><GD>$
      29 ^@tomna<n><GD>$
@@ -1199,43 +736,28 @@
      28 ^@stikka<n><f>$
      28 ^@ħotba<n><f>$
      27 ^@ċivilizzazzjoni<n><f>$
-     26 ^@sensazzjonaliżmu<n><m>$
      26 ^@gaffa<n><f>$
-     26 ^@dublett<n><m>$
-     26 ^@barkun<n><m>$
-     25 ^@relattiviżmu<n><m>$
      25 ^@qotna<n><GD>$
-     24 ^@żrinġ<n><m>$
      24 ^@suffara<n><f>$
      24 ^@sorra<n><GD>$
      24 ^@moffa<n><GD>$
      24 ^@kantun<n><GD>$
-     24 ^@gallun<n><m>$
-     24 ^@fellus<n><m>$
      23 ^@konnotazzjoni<n><f>$
-     23 ^@geddum<n><m>$
      23 ^@feniċju<n><m><ND>$
      22 ^@terħa<n><GD>$
      22 ^@serra<n><f>$
      22 ^@pezza<n><f>$
-     22 ^@individwaliżmu<n><m>$
      22 ^@furketta<n><f>$
-     22 ^@dinamiżmu<n><m>$
      22 ^@darsa<n><GD>$
      22 ^@aġġettiv<n><m><ND>$
      21 ^@xkaffa<n><f>$
      21 ^@setta<n><f>$
-     21 ^@seqer<n><m>$
      21 ^@senduq<n><GD>$
      21 ^@oranġjo<n><m><ND>$
      21 ^@moħriet<n><GD>$
-     21 ^@fundamentaliżmu<n><m>$
      20 ^@trażmissjoni<n><f>$
      20 ^@rassa<n><f>$
      20 ^@poema<n><f>$
-     20 ^@pessimiżmu<n><m>$
-     19 ^@serduq<n><m>$
-     19 ^@opportuniżmu<n><m>$
      19 ^@gelgul<n><GD>$
      19 ^@fekruna<n><f>$
      18 ^@zalza<n><f>$
@@ -1247,12 +769,7 @@
      17 ^@raddiena<n><GD>$
      17 ^@muftieħ<n><GD>$
      17 ^@diġestjoni<n><f>$
-     17 ^@buffu<n><m>$
-     17 ^@arċipelagu<n><m>$
-     16 ^@sommarju<n><m>$
      16 ^@partiġġaniżmu<n><m>$
-     16 ^@kubiżmu<n><m>$
-     16 ^@kowt<n><m>$
      16 ^@ismar<n><GD>$
      16 ^@iljunfant<n><m><ND>$
      16 ^@dundjan<n><m><ND>$
@@ -1265,7 +782,6 @@
      13 ^@tertuqa<n><GD>$
      13 ^@sidrija<n><f>$
      13 ^@serbut<n><GD>$
-     13 ^@pragmatiżmu<n><m>$
      13 ^@newl<n><GD>$
      13 ^@mezza<n><f>$
      13 ^@kitla<n><f>$
@@ -1275,17 +791,13 @@
      12 ^@lokomozjoni<n><f>$
      12 ^@linfa<n><f>$
      12 ^@kazzola<n><f>$
-     12 ^@kartell<n><m>$
-     12 ^@estremiżmu<n><m>$
      11 ^@trejdunjoniżmu<n><m>$
      11 ^@mat<n><m>$
-     11 ^@isvilupp<n><m>$
      11 ^@ħanek<n><GD>$
      11 ^@girna<n><GD>$
      11 ^@dixx<n><m>$
      10 ^@qolla<n><f>$
      10 ^@borka<n><f>$
-     10 ^@attiviżmu<n><m>$
       9 ^@torta<n><f>$
       9 ^@staffa<n><f>$
       9 ^@skrun<n><GD>$
@@ -1294,18 +806,13 @@
       9 ^@difer<n><m><ND>$
       9 ^@beżżula<n><f>$
       8 ^@tregwa<n><f>$
-      8 ^@qanfud<n><m>$
       8 ^@papra<n><f><ND>$
       8 ^@nuffata<n><f>$
       8 ^@molla<n><f>$
       8 ^@mħadda<n><f>$
       8 ^@mansab<n><GD>$
       8 ^@ingassa<n><f>$
-      8 ^@għafrid<n><m>$
       8 ^@fartas<n><GD>$
-      7 ^@skont<n><m>$
-      7 ^@skarpan<n><m>$
-      7 ^@serrieq<n><m>$
       7 ^@qartalla<n><GD>$
       7 ^@inkursjoni<n><f>$
       7 ^@immigranta<n><f>$
@@ -1314,27 +821,20 @@
       7 ^@baqqun<n><GD>$
       6 ^@xifajk<n><GD>$
       6 ^@tentufa<n><GD>$
-      6 ^@ottobru<n><m>$
-      6 ^@nepotiżmu<n><m>$
       6 ^@maqrut<n><GD>$
       6 ^@fawra<n><f>$
       5 ^@stanga<n><f>$
       5 ^@semifinalist<n><m>$
-      5 ^@pexxun<n><m>$
       5 ^@personaliżmu<n><m>$
-      5 ^@opponent<n><m>$
       5 ^@moqdief<n><m>$
       5 ^@bixkilla<n><GD>$
       4 ^@zjarja<n><f>$
       4 ^@xalla<n><f>$
-      4 ^@radikaliżmu<n><m>$
       4 ^@karkur<n><GD>$
       4 ^@kappun<n><GD>$
       4 ^@dramma<n><f>$
       4 ^@dokkiena<n><GD>$
       4 ^@bezzun<n><GD>$
-      4 ^@anakroniżmu<n><m>$
-      3 ^@xall<n><m>$
       3 ^@kurpett<n><GD>$
       3 ^@konka<n><f>$
       3 ^@karfusa<n><f>$
@@ -1342,14 +842,11 @@
       3 ^@ħarpun<n><GD>$
       2 ^@troffa<n><GD>$
       2 ^@trijonfaliżmu<n><m>$
-      2 ^@spazu<n><m>$
       2 ^@russett<n><GD>$
       2 ^@rukkell<n><GD>$
-      2 ^@razzjonaliżmu<n><m>$
       2 ^@palla<n><f>$
       2 ^@lenza<n><f>$
       2 ^@gerfux<n><GD>$
-      2 ^@edoniżmu<n><m>$
       2 ^@burqax<n><GD>$
       1 ^@verdun<n><GD>$
       1 ^@tokka<n><f>$
@@ -1358,6 +855,4 @@
       1 ^@qallut<n><m>$
       1 ^@iblaq<n><GD>$
       1 ^@fixxa<n><f>$
-      1 ^@federaliżmu<n><m>$
-      1 ^@bipolariżmu<n><m>$
       1 ^@antikamra<n><f>$
