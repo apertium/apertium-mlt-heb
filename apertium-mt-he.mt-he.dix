@@ -1830,6 +1830,110 @@
      <e><p><l>biss<s n="adv"/></l><r>רק<s n="adv"/></r></p></e>
      <e><p><l>internazzjonalment<s n="adv"/></l><r>באופן<b/>בינלאומי<s n="adv"/></r></p></e>
      <e><p><l>anki<s n="adv"/></l><r>אפילו<s n="adv"/></r></p></e>
+     <e><p><l>ma<s n="adv"/></l><r>לא<s n="adv"/></r></p></e>
+     <e><p><l>ukoll<s n="adv"/></l><r>גם<s n="adv"/></r></p></e>
+     <e><p><l>hekk<s n="adv"/></l><r>כך<s n="adv"/></r></p></e>
+     <e><p><l>issa<s n="adv"/></l><r>עכשיו<s n="adv"/></r></p></e>
+     <e><p><l>dejjem<s n="adv"/></l><r>תמיד<s n="adv"/></r></p></e>
+     <e><p><l>hawn<s n="adv"/></l><r>כאן<s n="adv"/></r></p></e>
+     <e><p><l>qatt<s n="adv"/></l><r>אף<b/>פעם<s n="adv"/></r></p></e>
+     <e><p><l>darba<s n="adv"/></l><r>פעם<s n="adv"/></r></p></e> <!-- TODO -->
+     <e><p><l>quddiem<s n="adv"/></l><r>קדימה<s n="adv"/></r></p></e> <!-- TODO -->
+     <e><p><l>barra<s n="adv"/></l><r>החוצה<s n="adv"/></r></p></e>
+     <e><p><l>il<b/>barra<s n="adv"/></l><r>החוצה<s n="adv"/></r></p></e>
+     <e><p><l>imbagħad<s n="adv"/></l><r>אז<s n="adv"/></r></p></e> <!-- TODO -->
+     <e><p><l>illum<s n="adv"/></l><r>היום<s n="adv"/></r></p></e>
+     <e><p><l>llum<s n="adv"/></l><r>היום<s n="adv"/></r></p></e>
+     <e><p><l>lura<s n="adv"/></l><r>אחורה<s n="adv"/></r></p></e>
+     <e><p><l>tajjeb<s n="adv"/></l><r>טוב<s n="adv"/></r></p></e>
+     <e><p><l>flimkien<s n="adv"/></l><r>ביחד<s n="adv"/></r></p></e>
+     <e><p><l>forsi<s n="adv"/></l><r>אולי<s n="adv"/></r></p></e>
+     <e><p><l>madwar<s n="adv"/></l><r>על<s n="adv"/></r></p></e>
+     <e><p><l>wisq<s n="adv"/></l><r>מדי<s n="adv"/></r></p></e>
+     <e><p><l>allura<s n="adv"/></l><r>אז<s n="adv"/></r></p></e>
+     <e><p><l>diġà<s n="adv"/></l><r>כבר<s n="adv"/></r></p></e>
+     <e><p><l>sew<s n="adv"/></l><r>טוב<s n="adv"/></r></p></e> <!-- TODO -->
+     <e><p><l>qabel<s n="adv"/></l><r>לפני<s n="adv"/></r></p></e><!-- TODO -->
+     <e><p><l>iżjed<s n="adv"/></l><r>יותר<s n="adv"/></r></p></e>
+     <e c="  0"><p><l>aktarx<s n="adv"/></l><r>כנראה<s n="adv"/></r></p></e>
+     <e slr="1"><p><l>aktarx<s n="adv"/></l><r>סביר<s n="adv"/></r></p></e>
+     <e><p><l>inqas<s n="adv"/></l><r>פחות<s n="adv"/></r></p></e>
+     <e c="  0"><p><l>ġewwa<s n="adv"/></l><r>פנימה<s n="adv"/></r></p></e>
+     <e slr="1"><p><l>ġewwa<s n="adv"/></l><r>בתוך<s n="adv"/></r></p></e>
+     <e slr="2"><p><l>ġewwa<s n="adv"/></l><r>בפנים<s n="adv"/></r></p></e>
+     <e><p><l>'l<b/>ġewwa<s n="adv"/></l><r>פנימה<s n="adv"/></r></p></e>
+     <e><p><l>kważi<s n="adv"/></l><r>כמעט<s n="adv"/></r></p></e>
+     <e c="  0"><p><l>tassew<s n="adv"/></l><r>אכן<s n="adv"/></r></p></e>
+     <e slr="1"><p><l>tassew<s n="adv"/></l><r>באמת<s n="adv"/></r></p></e>
+     <e><p><l>għada<s n="adv"/></l><r>מחר<s n="adv"/></r></p></e>
+     <e><p><l>minflok<s n="adv"/></l><r>במקום<s n="adv"/></r></p></e>
+     <e><p><l>tard<s n="adv"/></l><r>מאוחר<s n="adv"/></r></p></e>
+     <e><p><l>iva<s n="adv"/></l><r>כן<s n="adv"/></r></p></e>
+     <e><p><l>il-bogħod<s n="adv"/></l><r>הרחק<s n="adv"/></r></p></e>
+     <e><p><l>speċjalment<s n="adv"/></l><r>במיוחד<s n="adv"/></r></p></e>
+     <e><p><l>anzi<s n="adv"/></l><r>ליתר<b/>דיוק<s n="adv"/></r></p></e><!-- TODO -->
+     <e><p><l>isfel<s n="adv"/></l><r>למטה<s n="adv"/></r></p></e>
+     <e><p><l>'l isfel<s n="adv"/></l><r>למטה<s n="adv"/></r></p></e>
+     <e><p><l>kultant<s n="adv"/></l><r>לפעמים<s n="adv"/></r></p></e>
+     <e><p><l>soltu<s n="adv"/></l><r>לרוב<s n="adv"/></r></p></e>
+     <e><p><l>madankollu<s n="adv"/></l><r>אולם<s n="adv"/></r></p></e>
+     <e c="  0"><p><l>malajr<s n="adv"/></l><r>מיד<s n="adv"/></r></p></e>
+     <e slr="1"><p><l>malajr<s n="adv"/></l><r>מהר<s n="adv"/></r></p></e>
+     <e slr="2"><p><l>malajr<s n="adv"/></l><r>פתאום<s n="adv"/></r></p></e>
+     <e slr="3"><p><l>malajr<s n="adv"/></l><r>בקרוב<s n="adv"/></r></p></e>
+     <e><p><l>il-bieraħ<s n="adv"/></l><r>אתמול<s n="adv"/></r></p></e>
+     <e><p><l>sfortunatament<s n="adv"/></l><r>למרבה<b/>הצער<s n="adv"/></r></p></e>
+     <e><p><l>ovvjament<s n="adv"/></l><r>ברור<s n="adv"/></r></p></e>
+     <e><p><l>'l hawn<s n="adv"/></l><r>קדימה<s n="adv"/></r></p></e>
+     <e><p><l>sempliċiment<s n="adv"/></l><r>בפשטות<s n="adv"/></r></p></e><!-- TODO -->
+     <e><p><l>taħt<s n="adv"/></l><r>מתחת<s n="adv"/></r></p></e>
+     <e><p><l>ilu<s n="adv"/></l><r>לפני<s n="adv"/></r></p></e>
+     <e><p><l>ġeneralment<s n="adv"/></l><r>בדרך<b/>כלל<s n="adv"/></r></p></e>
+     <e><p><l>naturalment<s n="adv"/></l><r>אופן<b/>טבעי<s n="adv"/></r></p></e>
+     <e><p><l>eżattament<s n="adv"/></l><r>בדיוק<s n="adv"/></r></p></e>
+     <e><p><l>normalment<s n="adv"/></l><r>לרוב<s n="adv"/></r></p></e>
+     <e><p><l>il fuq<s n="adv"/></l><r>למעלה<s n="adv"/></r></p></e>
+     <e><p><l>direttament<s n="adv"/></l><r>ישירות<s n="adv"/></r></p></e>
+     <e><p><l>personalment<s n="adv"/></l><r>אישית<s n="adv"/></r></p></e>
+     <e><p><l>kompletament<s n="adv"/></l><r>לגמרי<s n="adv"/></r></p></e>
+     <e><p><l>allegatament<s n="adv"/></l><r>לכאורה<s n="adv"/></r></p></e>
+     <e><p><l>probabbilment<s n="adv"/></l><r>כנראה<s n="adv"/></r></p></e>
+     <e><p><l>eventwalment<s n="adv"/></l><r>לבסוף<s n="adv"/></r></p></e>
+     <e><p><l>minkejja<s n="adv"/></l><r>למרות<s n="adv"/></r></p></e>
+     <e><p><l>partikolarment<s n="adv"/></l><r>במיוחד<s n="adv"/></r></p></e>
+     <e><p><l>kontinwament<s n="adv"/></l><r>ברציפות<s n="adv"/></r></p></e>
+     <e><p><l>uffiċjalment<s n="adv"/></l><r>רשמית<s n="adv"/></r></p></e>
+     <e><p><l>faċilment<s n="adv"/></l><r>בקלות<s n="adv"/></r></p></e>
+     <e><p><l>totalment<s n="adv"/></l><r>לגמרי<s n="adv"/></r></p></e>
+     <e><p><l>assolutament<s n="adv"/></l><r>בהחלט<s n="adv"/></r></p></e>
+     <e><p><l>litteralment<s n="adv"/></l><r>מילולית<s n="adv"/></r></p></e>
+     <e><p><l>prattikament<s n="adv"/></l><r>למעשה<s n="adv"/></r></p></e>
+     <e><p><l>regolarment<s n="adv"/></l><r>בקביעות<s n="adv"/></r></p></e>
+     <e><p><l>oriġinarjament<s n="adv"/></l><r>במקור<s n="adv"/></r></p></e>
+     <e><p><l>immedjatament<s n="adv"/></l><r>מיד<s n="adv"/></r></p></e>
+     <e><p><l>politikament<s n="adv"/></l><r>מבחינה<b/>פוליטית<s n="adv"/></r></p></e>
+     <e><p><l>xjentifikament<s n="adv"/></l><r>מבחינה<b/>מדעית<s n="adv"/></r></p></e>
+     <e><p><l>attwalment<s n="adv"/></l><r>למעשה<s n="adv"/></r></p></e>
+     <e><p><l>pubblikament<s n="adv"/></l><r>בפומבי<s n="adv"/></r></p></e>
+     <e><p><l>primarjament<s n="adv"/></l><r>בעיקר<s n="adv"/></r></p></e>
+     <e><p><l>bażikament<s n="adv"/></l><r>בעצם<s n="adv"/></r></p></e>
+     <e><p><l>rispettivament<s n="adv"/></l><r>בהתאמה<s n="adv"/></r></p></e>
+     <e><p><l>prinċipalment<s n="adv"/></l><r>בעיקר<s n="adv"/></r></p></e>
+     <e><p><l>speċifikament<s n="adv"/></l><r>במיוחד<s n="adv"/></r></p></e>
+     <e><p><l>tradizzjonalment<s n="adv"/></l><r>מסורתית<s n="adv"/></r></p></e>
+     <e><p><l>lokalment<s n="adv"/></l><r>מקומית<s n="adv"/></r></p></e>
+     <e><p><l>possibilment<s n="adv"/></l><r>יתכן<s n="adv"/></r></p></e>
+     <e><p><l>strettament<s n="adv"/></l><r>בדיוק<s n="adv"/></r></p></e><!-- TODO -->
+     <e><p><l>essenzjalment<s n="adv"/></l><r>למעשה<s n="adv"/></r></p></e>
+     <e><p><l>storikament<s n="adv"/></l><r>היסטורית<s n="adv"/></r></p></e>
+     <e><p><l>sesswalment<s n="adv"/></l><r>מינית<s n="adv"/></r></p></e>
+     <e><p><l>tipikament<s n="adv"/></l><r>בדרך<b/>כלל<s n="adv"/></r></p></e>
+     <e><p><l>parzjalment<s n="adv"/></l><r>חלקית<s n="adv"/></r></p></e>
+     <e><p><l>hekk<b/>u<b/>hekk<s n="adv"/></l><r>כך<b/>וכך<s n="adv"/></r></p></e>
+     <e><p><l>indipendentement<s n="adv"/></l><r>עצמאית<s n="adv"/></r></p></e>
+     <e><p><l>suċċessivament<s n="adv"/></l><r>ברציפות<s n="adv"/></r></p></e>
+     <e><p><l>esklużivament<s n="adv"/></l><r>אך<b/>ורק<s n="adv"/></r></p></e><!-- TODO -->
+
      <e><p><l>kif<s n="adv"/><s n="itg"/></l><r>איך<s n="adv"/><s n="itg"/></r></p></e>
      <e><p><l>biex<s n="adv"/><s n="itg"/></l><r>עם<b/>מה<s n="adv"/><s n="itg"/></r></p></e>
      <e><p><l>għala<s n="adv"/><s n="itg"/></l><r>למה<s n="adv"/><s n="itg"/></r></p></e>
@@ -1840,6 +1944,8 @@
      <e><p><l>safejn<s n="adv"/><s n="itg"/></l><r>עד<b/>לאן<s n="adv"/><s n="itg"/></r></p></e>
      <e><p><l>minn<b/>sa<b/>fejn<s n="adv"/><s n="itg"/></l><r>באיזו<b/>זכות<s n="adv"/><s n="itg"/></r></p></e>
      <e><p><l>għaliex<s n="adv"/><s n="itg"/></l><r>למה<s n="adv"/><s n="itg"/></r></p></e>
+     <e><p><l>fejn<s n="adv"/><s n="itg"/></l><r>איפה<s n="adv"/><s n="itg"/></r></p></e>
+     <e><p><l>xiex<s n="adv"/><s n="itg"/></l><r>מה<s n="adv"/><s n="itg"/></r></p></e>
 
      <!-- SECTION: Verbs -->
        <!-- Generated on: 2011-06-22 15:13 IDT -->
@@ -1912,7 +2018,7 @@
 
       <e><re>(http://|https://|ftp://)?[áéíóúàèìòùäëïöüñça-z0-9](([\-_])?[áéíóúàèìòùäëïöüñça-z0-9])*(.[áéíóúàèìòùäëïöüñça-z0-9](([\-_])?[áéíóúàèìòùäëïöüñça-z0-9])*)*(.[a-z][a-z]|.aero|.asia|.biz|.cat|.com|.coop|.edu|.gov|.info|.int|.jobs|.mil|.mobi|.museum|.name|.net|.org|.pro|.tel|.travel)(/([áéíóúàèìòùäëïöüñça-z0-9\-_\?=&amp;\*,]+(.[áéíóúàèìòùäëïöüñça-z0-9\-_\?=&amp;\*,]+)*/)*([áéíóúàèìòùäëïöüñça-z0-9\-_\?=&amp;\*,]+(.[áéíóúàèìòùäëïöüñça-z0-9\-_\?=&amp;\*,]+)*)?)?</re><p><l><s n="num"/></l> <r><s n="num"/></r> </p></e>
 
- 
+
 
    </section>
 </dictionary>
