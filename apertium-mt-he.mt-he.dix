@@ -1016,7 +1016,219 @@
      <e><p><l>Stamford<s n="np"/><s n="top"/><s n="m"/></l><r>סטאמפורד<s n="np"/><s n="top"/><s n="f"/></r></p></e>
      <e><p><l>Tottenham<s n="np"/><s n="top"/><s n="m"/></l><r>טוטנהאם<s n="np"/><s n="top"/><s n="f"/></r></p></e>
      <e><p><l>York<s n="np"/><s n="top"/><s n="m"/></l><r>יורק<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     
+
+     <e c="  0"><p><l>Mary<s n="np"/><s n="ant"/><s n="f"/></l><r>מארי<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+     <e slr="1"><p><l>Mary<s n="np"/><s n="ant"/><s n="f"/></l><r>מרים<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+     <e><p><l>Anna<s n="np"/><s n="ant"/><s n="f"/></l><r>אנה<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+     <e><p><l>Antoine<s n="np"/><s n="ant"/><s n="f"/></l><r>אנטואן<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+     <e><p><l>Barbara<s n="np"/><s n="ant"/><s n="f"/></l><r>ברברה<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+     <e><p><l>Claudette<s n="np"/><s n="ant"/><s n="f"/></l><r>קלודט<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+     <e><p><l>Ebba<s n="np"/><s n="ant"/><s n="f"/></l><r>אבה<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+     <e><p><l>Eva<s n="np"/><s n="ant"/><s n="f"/></l><r>אווה<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+     <e><p><l>Floriana<s n="np"/><s n="ant"/><s n="f"/></l><r>פלורינה<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+     <e><p><l>Franica<s n="np"/><s n="ant"/><s n="f"/></l><r>פרניצ'ה<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+     <e><p><l>Giovanna<s n="np"/><s n="ant"/><s n="f"/></l><r>ג'יובאנה<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+     <e><p><l>Jeni<s n="np"/><s n="ant"/><s n="f"/></l><r>ג'ני<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+     <e><p><l>Josie<s n="np"/><s n="ant"/><s n="f"/></l><r>ג'וזי<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+     <e><p><l>Julia<s n="np"/><s n="ant"/><s n="f"/></l><r>ג'וליה<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+     <e><p><l>Klara<s n="np"/><s n="ant"/><s n="f"/></l><r>קלרה<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+     <e><p><l>Madonna<s n="np"/><s n="ant"/><s n="f"/></l><r>מדונה<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+     <e><p><l>Maria<s n="np"/><s n="ant"/><s n="f"/></l><r>מריה<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+     <e><p><l>Marie<s n="np"/><s n="ant"/><s n="f"/></l><r>מארי<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+     <e><p><l><s n="np"/><s n="ant"/><s n="f"/></l><r><s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+     <e><p><l>Marija<s n="np"/><s n="ant"/><s n="f"/></l><r>מריה<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+     <e><p><l>Nadia<s n="np"/><s n="ant"/><s n="f"/></l><r>נדיה<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+     <e><p><l>Odette<s n="np"/><s n="ant"/><s n="f"/></l><r>אודט<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+     <e><p><l>Peppi<s n="np"/><s n="ant"/><s n="f"/></l><r>פפי<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+     <e><p><l>Ruth<s n="np"/><s n="ant"/><s n="f"/></l><r>רות<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+     <e><p><l>Sharon<s n="np"/><s n="ant"/><s n="f"/></l><r>שרון<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+     <e><p><l>Sophie<s n="np"/><s n="ant"/><s n="f"/></l><r>סופי<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+     <e><p><l>Tereża<s n="np"/><s n="ant"/><s n="f"/></l><r>תרזה<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+     <e><p><l>Tess<s n="np"/><s n="ant"/><s n="f"/></l><r>טס<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+     <e><p><l>Therese<s n="np"/><s n="ant"/><s n="f"/></l><r>תרזה<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+     <e><p><l>Victoria<s n="np"/><s n="ant"/><s n="f"/></l><r>ויקטוריה<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+     <e><p><l>Yvonne<s n="np"/><s n="ant"/><s n="f"/></l><r>איבון<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+
+     <e c="  0"><p><l>Joseph<s n="np"/><s n="ant"/><s n="m"/></l><r>ג'וזף<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e slr="1"><p><l>Joseph<s n="np"/><s n="ant"/><s n="m"/></l><r>יוסף<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e c="  0"><p><l>David<s n="np"/><s n="ant"/><s n="m"/></l><r>דוד<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e slr="1"><p><l>David<s n="np"/><s n="ant"/><s n="m"/></l><r>דייויד<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e c="  0"><p><l>Michael<s n="np"/><s n="ant"/><s n="m"/></l><r>מייקל<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e slr="1"><p><l>Michael<s n="np"/><s n="ant"/><s n="m"/></l><r>מיכאל<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e c="  0"><p><l>Stephen<s n="np"/><s n="ant"/><s n="m"/></l><r>סטיבן<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e slr="1"><p><l>Stephen<s n="np"/><s n="ant"/><s n="m"/></l><r>סטפן<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e c="  0"><p><l>Simon<s n="np"/><s n="ant"/><s n="m"/></l><r>סיימון<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e slr="1"><p><l>Simon<s n="np"/><s n="ant"/><s n="m"/></l><r>שמעון<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e c="  0"><p><l>Ġużeppi<s n="np"/><s n="ant"/><s n="m"/></l><r>יוסף<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e slr="1"><p><l>Ġużeppi<s n="np"/><s n="ant"/><s n="m"/></l><r>ג'וזף'<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e c="  0"><p><l>Ġużepp<s n="np"/><s n="ant"/><s n="m"/></l><r>יוסף<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e slr="1"><p><l>Ġużepp<s n="np"/><s n="ant"/><s n="m"/></l><r>ג'וזף'<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e c="  0"><p><l>Mikiel<s n="np"/><s n="ant"/><s n="m"/></l><r>מיכאל<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e slr="1"><p><l>Mikiel<s n="np"/><s n="ant"/><s n="m"/></l><r>מייקל<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e c="  0"><p><l>Ġakobb<s n="np"/><s n="ant"/><s n="m"/></l><r>ג'ייקוב<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e slr="1"><p><l>Ġakobb<s n="np"/><s n="ant"/><s n="m"/></l><r>יעקב<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e c="  0"><p><l>Bejnamin<s n="np"/><s n="ant"/><s n="m"/></l><r>בנימין<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e slr="1"><p><l>Benjamin<s n="np"/><s n="ant"/><s n="m"/></l><r>בנג'מין<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e c="  0"><p><l>Jonathan<s n="np"/><s n="ant"/><s n="m"/></l><r>ג'ונתן<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e slr="1"><p><l>Jonathan<s n="np"/><s n="ant"/><s n="m"/></l><r>יונתן<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e c="  0"><p><l>Pawlu<s n="np"/><s n="ant"/><s n="m"/></l><r>פול<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e slr="1"><p><l>Pawlu<s n="np"/><s n="ant"/><s n="m"/></l><r>פאולו<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Abraham<s n="np"/><s n="ant"/><s n="m"/></l><r>אברהם<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Adam<s n="np"/><s n="ant"/><s n="m"/></l><r>אדם<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Adrian<s n="np"/><s n="ant"/><s n="m"/></l><r>אדריאן<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Adrien<s n="np"/><s n="ant"/><s n="m"/></l><r>אדריאן<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Alan<s n="np"/><s n="ant"/><s n="m"/></l><r>אלן<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Albert<s n="np"/><s n="ant"/><s n="m"/></l><r>אלברט<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Alex<s n="np"/><s n="ant"/><s n="m"/></l><r>אלכס<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Alfons<s n="np"/><s n="ant"/><s n="m"/></l><r>אלפונס<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Alfred<s n="np"/><s n="ant"/><s n="m"/></l><r>אלפרד<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Alla<s n="np"/><s n="ant"/><s n="m"/></l><r>אלוהים<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Andrew<s n="np"/><s n="ant"/><s n="m"/></l><r>אנדרו<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Anthony<s n="np"/><s n="ant"/><s n="m"/></l><r>אנתוני<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Anton<s n="np"/><s n="ant"/><s n="m"/></l><r>אנטון<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Antonio<s n="np"/><s n="ant"/><s n="m"/></l><r>אנטוניו<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Arċibald<s n="np"/><s n="ant"/><s n="m"/></l><r>ארצ'יבלד<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Arnold<s n="np"/><s n="ant"/><s n="m"/></l><r>ארנולד<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Aron<s n="np"/><s n="ant"/><s n="m"/></l><r>ארון<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Austin<s n="np"/><s n="ant"/><s n="m"/></l><r>אוסטין<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Bastjan<s n="np"/><s n="ant"/><s n="m"/></l><r>סבסטיאן<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Bernard<s n="np"/><s n="ant"/><s n="m"/></l><r>ברנרד<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Brian<s n="np"/><s n="ant"/><s n="m"/></l><r>בריאן<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Carlos<s n="np"/><s n="ant"/><s n="m"/></l><r>קרלוס<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Carmelo<s n="np"/><s n="ant"/><s n="m"/></l><r>כרמלו<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Ċelestinu<s n="np"/><s n="ant"/><s n="m"/></l><r>סלסטין<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Charles<s n="np"/><s n="ant"/><s n="m"/></l><r>צ'רלס<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Chris<s n="np"/><s n="ant"/><s n="m"/></l><r>כריס<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>CHRIS<s n="np"/><s n="ant"/><s n="m"/></l><r>כריס<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Clemente<s n="np"/><s n="ant"/><s n="m"/></l><r>קלמנט<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Cristóbal<s n="np"/><s n="ant"/><s n="m"/></l><r>קריסטובל<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Daniel<s n="np"/><s n="ant"/><s n="m"/></l><r>דניאל<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Danjel<s n="np"/><s n="ant"/><s n="m"/></l><r>דניאל<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>DANJEL<s n="np"/><s n="ant"/><s n="m"/></l><r>דניאל<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Duminku<s n="np"/><s n="ant"/><s n="m"/></l><r>דומיניק<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Eddie<s n="np"/><s n="ant"/><s n="m"/></l><r>אדי<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Edward<s n="np"/><s n="ant"/><s n="m"/></l><r>אדוארד<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Edwin<s n="np"/><s n="ant"/><s n="m"/></l><r>אדווין<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Efrajm<s n="np"/><s n="ant"/><s n="m"/></l><r>אפריים<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Elija<s n="np"/><s n="ant"/><s n="m"/></l><r>אליהו<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Ellis<s n="np"/><s n="ant"/><s n="m"/></l><r>אליס<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Emmanuel<s n="np"/><s n="ant"/><s n="m"/></l><r>עמונאל<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Federiku<s n="np"/><s n="ant"/><s n="m"/></l><r>פדריקו<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Fernando<s n="np"/><s n="ant"/><s n="m"/></l><r>פרננדו<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Francesco<s n="np"/><s n="ant"/><s n="m"/></l><r>פרנסקו<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Francis<s n="np"/><s n="ant"/><s n="m"/></l><r>פרנסיס<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Franġisk<s n="np"/><s n="ant"/><s n="m"/></l><r>פרנסיס<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Frank<s n="np"/><s n="ant"/><s n="m"/></l><r>פרנק<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Freddie<s n="np"/><s n="ant"/><s n="m"/></l><r>פרדי<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Gabrijel<s n="np"/><s n="ant"/><s n="m"/></l><r>גבריאל<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>George<s n="np"/><s n="ant"/><s n="m"/></l><r>ג'ורג'<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Geraldu<s n="np"/><s n="ant"/><s n="m"/></l><r>ג'ראלדו<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Ġeremija<s n="np"/><s n="ant"/><s n="m"/></l><r>ירמיה<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Ġesù<s n="np"/><s n="ant"/><s n="m"/></l><r>ישו<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Ġiljan<s n="np"/><s n="ant"/><s n="m"/></l><r>ג'וליאן<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Ġilormu<s n="np"/><s n="ant"/><s n="m"/></l><r>ג'רום<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Giovanni<s n="np"/><s n="ant"/><s n="m"/></l><r>ג'יובאני<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Girgor<s n="np"/><s n="ant"/><s n="m"/></l><r>גרגור<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Giuliano<s n="np"/><s n="ant"/><s n="m"/></l><r>ג'וליאנו<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Gordon<s n="np"/><s n="ant"/><s n="m"/></l><r>גורדון<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Ġorġ<s n="np"/><s n="ant"/><s n="m"/></l><r>ג'ורג'<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Graham<s n="np"/><s n="ant"/><s n="m"/></l><r>גרהאם<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Ġwann<s n="np"/><s n="ant"/><s n="m"/></l><r>ג'ון<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Ġwanni<s n="np"/><s n="ant"/><s n="m"/></l><r>ג'ון<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Harry<s n="np"/><s n="ant"/><s n="m"/></l><r>הארי<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Hilbert<s n="np"/><s n="ant"/><s n="m"/></l><r>הילברט<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Ian<s n="np"/><s n="ant"/><s n="m"/></l><r>איאן<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Immanuel<s n="np"/><s n="ant"/><s n="m"/></l><r>עמנואל<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Ivan<s n="np"/><s n="ant"/><s n="m"/></l><r>איוואן<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Jacques<s n="np"/><s n="ant"/><s n="m"/></l><r>ז'ק<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>James<s n="np"/><s n="ant"/><s n="m"/></l><r>ג'יימס<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Jan<s n="np"/><s n="ant"/><s n="m"/></l><r>יאן<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Jason<s n="np"/><s n="ant"/><s n="m"/></l><r>ג'ייסון<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Jean<s n="np"/><s n="ant"/><s n="m"/></l><r>ג'ין<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Jeffrey<s n="np"/><s n="ant"/><s n="m"/></l><r>ג'פרי<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Joe<s n="np"/><s n="ant"/><s n="m"/></l><r>ג'ו<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>John<s n="np"/><s n="ant"/><s n="m"/></l><r>ג'ון<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Josh<s n="np"/><s n="ant"/><s n="m"/></l><r>ג'וש<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Juan<s n="np"/><s n="ant"/><s n="m"/></l><r>ז'ואן<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Kallistu<s n="np"/><s n="ant"/><s n="m"/></l><r>קאליסטו<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Karl<s n="np"/><s n="ant"/><s n="m"/></l><r>קרל<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Karlu<s n="np"/><s n="ant"/><s n="m"/></l><r>צ'רלס<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Karol<s n="np"/><s n="ant"/><s n="m"/></l><r>קרול<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Kenneth<s n="np"/><s n="ant"/><s n="m"/></l><r>קנת'<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Kevin<s n="np"/><s n="ant"/><s n="m"/></l><r>קווין<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Klement<s n="np"/><s n="ant"/><s n="m"/></l><r>קלמנט<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Kornelju<s n="np"/><s n="ant"/><s n="m"/></l><r>קורנליוס<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Kristoforu<s n="np"/><s n="ant"/><s n="m"/></l><r>כריסטופר<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Kristu<s n="np"/><s n="ant"/><s n="m"/></l><r>ישו<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Kurt<s n="np"/><s n="ant"/><s n="m"/></l><r>קורט<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Lawrence<s n="np"/><s n="ant"/><s n="m"/></l><r>לורנס<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Ljun<s n="np"/><s n="ant"/><s n="m"/></l><r>ליאו<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Lorenzo<s n="np"/><s n="ant"/><s n="m"/></l><r>לורנזו<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Louis<s n="np"/><s n="ant"/><s n="m"/></l><r>לואיס<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Luke<s n="np"/><s n="ant"/><s n="m"/></l><r>לוק<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Luqa<s n="np"/><s n="ant"/><s n="m"/></l><r>לוק<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Malcolm<s n="np"/><s n="ant"/><s n="m"/></l><r>מלקולם<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Manuel<s n="np"/><s n="ant"/><s n="m"/></l><r>מנואל<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Marċellu<s n="np"/><s n="ant"/><s n="m"/></l><r>מרסלו<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Marco<s n="np"/><s n="ant"/><s n="m"/></l><r>מרקו<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Marino<s n="np"/><s n="ant"/><s n="m"/></l><r>מארינו<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Mario<s n="np"/><s n="ant"/><s n="m"/></l><r>מריו<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Mark<s n="np"/><s n="ant"/><s n="m"/></l><r>מרק<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Martin<s n="np"/><s n="ant"/><s n="m"/></l><r>מרטין<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Mattew<s n="np"/><s n="ant"/><s n="m"/></l><r>מת'יו<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Maurice<s n="np"/><s n="ant"/><s n="m"/></l><r>מוריס<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Max<s n="np"/><s n="ant"/><s n="m"/></l><r>מקס<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Miguel<s n="np"/><s n="ant"/><s n="m"/></l><r>מיגל<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Mike<s n="np"/><s n="ant"/><s n="m"/></l><r>מייק<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Mosè<s n="np"/><s n="ant"/><s n="m"/></l><r>משה<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Neville<s n="np"/><s n="ant"/><s n="m"/></l><r>נוויל<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Nicholas<s n="np"/><s n="ant"/><s n="m"/></l><r>ניקולאס<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Nikodemu<s n="np"/><s n="ant"/><s n="m"/></l><r>ניקודמוס<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Noel<s n="np"/><s n="ant"/><s n="m"/></l><r>נואל<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Oliver<s n="np"/><s n="ant"/><s n="m"/></l><r>אוליבר<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Olivier<s n="np"/><s n="ant"/><s n="m"/></l><r>אוליביה<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Owen<s n="np"/><s n="ant"/><s n="m"/></l><r>אוון<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Patrick<s n="np"/><s n="ant"/><s n="m"/></l><r>פטריק<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Paul<s n="np"/><s n="ant"/><s n="m"/></l><r>פול<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Pawl<s n="np"/><s n="ant"/><s n="m"/></l><r>פאול<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Pawlu<s n="np"/><s n="ant"/><s n="m"/></l><r>פאול<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Peter<s n="np"/><s n="ant"/><s n="m"/></l><r>פיטר<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Philip<s n="np"/><s n="ant"/><s n="m"/></l><r>פיליפ<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Pierre<s n="np"/><s n="ant"/><s n="m"/></l><r>פייר<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Pietru<s n="np"/><s n="ant"/><s n="m"/></l><r>פיטר<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Piju<s n="np"/><s n="ant"/><s n="m"/></l><r>פיוס<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Rafel<s n="np"/><s n="ant"/><s n="m"/></l><r>רפאל<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Ray<s n="np"/><s n="ant"/><s n="m"/></l><r>ריי<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Raymond<s n="np"/><s n="ant"/><s n="m"/></l><r>ריימונד<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>René<s n="np"/><s n="ant"/><s n="m"/></l><r>רנה<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Richard<s n="np"/><s n="ant"/><s n="m"/></l><r>ריצ'ארד<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Robert<s n="np"/><s n="ant"/><s n="m"/></l><r>רוברט<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Robertu<s n="np"/><s n="ant"/><s n="m"/></l><r>רוברטו<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Rod<s n="np"/><s n="ant"/><s n="m"/></l><r>רוד<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Roderick<s n="np"/><s n="ant"/><s n="m"/></l><r>רודריק<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Ryan<s n="np"/><s n="ant"/><s n="m"/></l><r>ריאן<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Said<s n="np"/><s n="ant"/><s n="m"/></l><r>סעיד<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Sam<s n="np"/><s n="ant"/><s n="m"/></l><r>סאם<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Sebastjan<s n="np"/><s n="ant"/><s n="m"/></l><r>סבסטיאן<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Sergio<s n="np"/><s n="ant"/><s n="m"/></l><r>סרג'יו<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Silvestru<s n="np"/><s n="ant"/><s n="m"/></l><r>סילסבסטר<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Silvio<s n="np"/><s n="ant"/><s n="m"/></l><r>סילביו<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Sistu<s n="np"/><s n="ant"/><s n="m"/></l><r>סיקטוס<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Stefano<s n="np"/><s n="ant"/><s n="m"/></l><r>סטפאנו<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Stuart<s n="np"/><s n="ant"/><s n="m"/></l><r>סטוארט<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Thomas<s n="np"/><s n="ant"/><s n="m"/></l><r>תומאס<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Timotju<s n="np"/><s n="ant"/><s n="m"/></l><r>טימוטי<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Titu<s n="np"/><s n="ant"/><s n="m"/></l><r>טיטוס<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Toni<s n="np"/><s n="ant"/><s n="m"/></l><r>טוני<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Tonio<s n="np"/><s n="ant"/><s n="m"/></l><r>טוניו<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Tony<s n="np"/><s n="ant"/><s n="m"/></l><r>טוני<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Tumas<s n="np"/><s n="ant"/><s n="m"/></l><r>תומס<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Victor<s n="np"/><s n="ant"/><s n="m"/></l><r>ויקטור<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Vince<s n="np"/><s n="ant"/><s n="m"/></l><r>וינס<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Vincenzo<s n="np"/><s n="ant"/><s n="m"/></l><r>וינצ'נזו<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>William<s n="np"/><s n="ant"/><s n="m"/></l><r>ויליאם<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Żakkarija<s n="np"/><s n="ant"/><s n="m"/></l><r>זכריה<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+
      <e><p><l>Olimpjadi<s n="np"/><s n="al"/><s n="m"/></l><r>אולימפיאדה<s n="np"/><s n="al"/><s n="f"/></r></p></e>
 
      <!-- SECTION: Adjectives -->
