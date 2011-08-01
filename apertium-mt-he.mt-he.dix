@@ -1124,6 +1124,27 @@
      <e><p><l>Ħal Far<s n="np"/><s n="top"/><s n="GD"/></l><r>חאל פאר<s n="np"/><s n="top"/><s n="f"/></r></p></e>
      <e><p><l>Ġerusalemm<s n="np"/><s n="top"/><s n="GD"/></l><r>ירושלים<s n="np"/><s n="top"/><s n="f"/></r></p></e>
 
+     <e><p><l>Air Malta<s n="np"/><s n="al"/><s n="m"/></l><r>אייר מלטה<s n="np"/><s n="al"/><s n="f"/></r></p></e>
+     <e><p><l>Alternattiva Demokratika<s n="np"/><s n="al"/><s n="m"/></l><r>מפלגת האלטרנטיבה הדמוקרטית<s n="np"/><s n="al"/><s n="f"/></r></p></e>
+     <e><p><l>Champions League<s n="np"/><s n="al"/><s n="m"/></l><r>ליגת האלופות<s n="np"/><s n="al"/><s n="f"/></r></p></e>
+     <e><p><l>Eurovision<s n="np"/><s n="al"/><s n="m"/></l><r>אירוויזיון<s n="np"/><s n="al"/><s n="m"/></r></p></e>
+     <e><p><l>Facebook<s n="np"/><s n="al"/><s n="m"/></l><r>פייסבוק<s n="np"/><s n="al"/><s n="m"/></r></p></e>
+     <e><p><l>FIFA<s n="np"/><s n="al"/><s n="m"/></l><r>"פיפ"א"<s n="np"/><s n="al"/><s n="f"/></r></p></e>
+     <e><p><l>Forzi Armati ta' Malta<s n="np"/><s n="al"/><s n="m"/></l><r>צבא מלטה<s n="np"/><s n="al"/><s n="m"/></r></p></e>
+     <e><p><l>Google<s n="np"/><s n="al"/><s n="m"/></l><r>גוגל<s n="np"/><s n="al"/><s n="f"/></r></p></e>
+     <e><p><l>Linux<s n="np"/><s n="al"/><s n="m"/></l><r>לינוקס<s n="np"/><s n="al"/><s n="f"/></r></p></e>
+     <e><p><l>Manchester United<s n="np"/><s n="al"/><s n="m"/></l><r>מנצ'סטר יונייטד<s n="np"/><s n="al"/><s n="f"/></r></p></e>
+     <e><p><l>Partit Laburista<s n="np"/><s n="al"/><s n="m"/></l><r>מפלגת העבודה<s n="np"/><s n="al"/><s n="f"/></r></p></e>
+     <e><p><l>Partit Nazzjonalista<s n="np"/><s n="al"/><s n="m"/></l><r>מפלגת הלאום<s n="np"/><s n="al"/><s n="f"/></r></p></e>
+     <e><p><l>Partnership for Peace<s n="np"/><s n="al"/><s n="m"/></l><r>"יוזמת "שותפות לשלום""<s n="np"/><s n="al"/><s n="f"/></r></p></e>
+     <e><p><l>Premier League<s n="np"/><s n="al"/><s n="m"/></l><r>ליגת העל<s n="np"/><s n="al"/><s n="f"/></r></p></e>
+     <e><p><l>The Green Party<s n="np"/><s n="al"/><s n="m"/></l><r>המפלגה הירוקה<s n="np"/><s n="al"/><s n="f"/></r></p></e>
+     <e><p><l>UEFA<s n="np"/><s n="al"/><s n="m"/></l><r>UEFA<s n="np"/><s n="al"/><s n="f"/></r></p></e>
+     <e><p><l>UEFA Champions League<s n="np"/><s n="al"/><s n="m"/></l><r>ליגת האלופות<s n="np"/><s n="al"/><s n="f"/></r></p></e>
+     <e><p><l>UEFA Europa League<s n="np"/><s n="al"/><s n="m"/></l><r>ליגת האלופות<s n="np"/><s n="al"/><s n="f"/></r></p></e>
+     <e><p><l>United<s n="np"/><s n="al"/><s n="m"/></l><r>יונייטד<s n="np"/><s n="al"/><s n="f"/></r></p></e>
+     <e><p><l>Wikipedija<s n="np"/><s n="al"/><s n="m"/></l><r>וויקיפדיה<s n="np"/><s n="al"/><s n="f"/></r></p></e>
+
      <e c="  0"><p><l>Mary<s n="np"/><s n="ant"/><s n="f"/></l><r>מארי<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
      <e slr="1"><p><l>Mary<s n="np"/><s n="ant"/><s n="f"/></l><r>מרים<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
      <e><p><l>Anna<s n="np"/><s n="ant"/><s n="f"/></l><r>אנה<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
