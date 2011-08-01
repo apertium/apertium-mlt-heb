@@ -49,6 +49,7 @@ dev/he.verbs.dix -text
 dev/hitparade.80.txt -text
 dev/hspell-to-dix.sh -text
 dev/inconsistency-summary.sh -text
+dev/missing-bidix-freq.sh -text
 dev/mt-he.inconsistency.sh -text
 dev/mt-he.interwiki.xml -text
 dev/mt_adj/adj_loops.sh -text
