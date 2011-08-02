@@ -1,19 +1,19 @@
-  32191 ġie<vblex><past><p3><m><sg>
-  30145 kellu<vaux><inf>/kellu<vaux><pres><p3><m><sg>
-  27509 għax<vblex><past><p3><m><sg>
-  23083 sar<vblex><past><p3><m><sg>
+  32192 ġie<vblex><past><p3><m><sg>
+  30147 kellu<vaux><inf>/kellu<vaux><pres><p3><m><sg>
+  27441 għax<vblex><past><p3><m><sg>
+  23084 sar<vblex><past><p3><m><sg>
   22940 seta<vblex><past><p3><m><sg>
   18969 ried<vblex><past><p3><m><sg>
   16489 beda<vblex><past><p3><m><sg>
-  16059 qagħad<vblex><past><p3><m><sg>
+  16000 qagħad<vblex><past><p3><m><sg>
   15973 jaf<vblex><inf>/jaf<vblex><pres><p3><m><sg>
-  11728 sab<vblex><past><p3><m><sg>
+  11729 sab<vblex><past><p3><m><sg>
   11475 mar<vblex><past><p3><m><sg>
-   9453 deher<vblex><past><p3><m><sg>
+   9454 deher<vblex><past><p3><m><sg>
    8562 dar<vblex><past><p3><m><sg>
-   7696 baqa'<vblex><past><p3><m><sg>
+   7688 baqa'<vblex><past><p3><m><sg>
    7308 ħareġ<vblex><past><p3><m><sg>
-   6723 daħal<vblex><past><p3><m><sg>
+   6724 daħal<vblex><past><p3><m><sg>
    6160 tkellem<vblex><past><p3><m><sg>
    5489 ħass<vblex><past><p3><m><sg>
    5272 qara<vblex><past><p3><m><sg>
@@ -23,25 +23,25 @@
    4730 ġab<vblex><past><p3><m><sg>
    4411 żamm<vblex><past><p3><m><sg>
    4207 miet<vblex><past><p3><m><sg>
-   4130 għan<vblex><past><p3><m><sg>
+   4103 għan<vblex><past><p3><m><sg>
    3543 fehem<vblex><past><p3><m><sg>
    3519 saħħ<vblex><past><p3><m><sg>
    3161 rabat<vblex><past><p3><m><sg>
-   3090 bagħat<vblex><past><p3><m><sg>
    3086 telaq<vblex><past><p3><m><sg>
+   3082 bagħat<vblex><past><p3><m><sg>
    3064 haseb<vblex><past><p3><m><sg>
    3042 qabad<vblex><past><p3><m><sg>
    2961 tilef<vblex><past><p3><m><sg>
    2886 mexa<vblex><past><p3><m><sg>
    2868 rebaħ<vblex><past><p3><m><sg>
-   2695 lagħab<vblex><past><p3><m><sg>
+   2685 lagħab<vblex><past><p3><m><sg>
    2652 mess<vblex><past><p3><m><sg>
    2429 ħabat<vblex><past><p3><m><sg>
    2385 ġara<vblex><past><p3><m><sg>
    2362 qam<vblex><past><p3><m><sg>
    2308 kiseb<vblex><past><p3><m><sg>
    2198 ħoloq<vblex><past><p3><m><sg>
-   2124 għalaq<vblex><past><p3><m><sg>
+   2118 għalaq<vblex><past><p3><m><sg>
    2102 qabel<vblex><past><p3><m><sg>
    2091 kiel<vblex><past><p3><m><sg>
    2028 żied<vblex><past><p3><m><sg>
@@ -87,7 +87,7 @@
     605 ċaħad<vblex><past><p3><m><sg>
     603 hatar<vblex><past><p3><m><sg>
     595 ikkonsista<vblex><past><p3><m><sg>
-    563 għar<vblex><past><p3><m><sg>
+    551 għar<vblex><past><p3><m><sg>
     549 ħolom<vblex><past><p3><m><sg>
     540 kixef<vblex><past><p3><m><sg>
     524 rebah<vblex><past><p3><m><sg>/rebaħ<vblex><past><p3><m><sg>
@@ -95,14 +95,14 @@
     485 ħeba<vblex><past><p3><m><sg>
     480 nizel<vblex><past><p3><m><sg>/niżel<vblex><past><p3><m><sg>
     467 gideb<vblex><past><p3><m><sg>
-    433 għam<vblex><past><p3><m><sg>
+    431 għam<vblex><past><p3><m><sg>
     418 nefaq<vblex><past><p3><m><sg>
     403 biegħ<vblex><past><p3><m><sg>
     394 ħalaq<vblex><past><p3><m><sg>
     377 far<vblex><past><p3><m><sg>
     360 lemaħ<vblex><past><p3><m><sg>
     339 għereq<vblex><past><p3><m><sg>
-    331 bagħad<vblex><past><p3><m><sg>
+    326 bagħad<vblex><past><p3><m><sg>
     308 ġieb<vblex><past><p3><m><sg>
     305 qabez<vblex><past><p3><m><sg>/qabeż<vblex><past><p3><m><sg>
     303 ħafer<vblex><past><p3><m><sg>
@@ -110,8 +110,8 @@
     265 fieq<vblex><past><p3><m><sg>
     259 għażż<vblex><past><p3><m><sg>
     257 qorob<vblex><past><p3><m><sg>
-    255 lahaq<vblex><past><p3><m><sg>/laħaq<vblex><past><p3><m><sg>
     255 ħalef<vblex><past><p3><m><sg>
+    255 lahaq<vblex><past><p3><m><sg>/laħaq<vblex><past><p3><m><sg>
     255 dendel<vblex><past><p3><m><sg>
     218 daq<vblex><past><p3><m><sg>
     217 refa<vblex><past><p3><m><sg>
@@ -134,12 +134,12 @@
     123 saħan<vblex><past><p3><m><sg>
     122 rass<vblex><past><p3><m><sg>
     120 żelaq<vblex><past><p3><m><sg>
-    117 għasar<vblex><past><p3><m><sg>
     116 siker<vblex><past><p3><m><sg>
+    116 għasar<vblex><past><p3><m><sg>
     113 beżaq<vblex><past><p3><m><sg>
     112 bela'<vblex><past><p3><m><sg>
-    110 ikkonsidra<vblex><past><p3><m><sg>
     110 ħatt<vblex><past><p3><m><sg>
+    110 ikkonsidra<vblex><past><p3><m><sg>
     108 marad<vblex><past><p3><m><sg>
     107 nidem<vblex><past><p3><m><sg>
     105 ċapċap<vblex><past><p3><m><sg>
@@ -155,12 +155,12 @@
      76 sadd<vblex><past><p3><m><sg>
      69 gidem<vblex><past><p3><m><sg>
      66 għodos<vblex><past><p3><m><sg>
+     62 dilek<vblex><past><p3><m><sg>
      57 reħa<vblex><past><p3><m><sg>
      56 kesaħ<vblex><past><p3><m><sg>
      54 dardar<vblex><past><p3><m><sg>
      51 mesaħ<vblex><past><p3><m><sg>
      51 bell<vblex><past><p3><m><sg>
-     50 dilek<vblex><past><p3><m><sg>
      49 xeher<vblex><past><p3><m><sg>
      49 iżviluppa<vblex><past><p3><m><sg>
      48 qarr<vblex><past><p3><m><sg>
@@ -188,9 +188,9 @@
      11 sogħol<vblex><past><p3><m><sg>
      10 temtem<vblex><past><p3><m><sg>
      10 giref<vblex><past><p3><m><sg>
-      7 wiżen<vblex><past><p3><m><sg>
       7 ħebel<vblex><past><p3><m><sg>
       7 ċaflas<vblex><past><p3><m><sg>
+      7 wiżen<vblex><past><p3><m><sg>
       7 bandal<vblex><past><p3><m><sg>
       6 għalef<vblex><past><p3><m><sg>
       4 qaħqaħ<vblex><past><p3><m><sg>
@@ -198,11 +198,11 @@
       4 hemeż<vblex><past><p3><m><sg>
       4 fetaq<vblex><past><p3><m><sg>
       3 ġeżż<vblex><past><p3><m><sg>
+      2 ġema<vblex><past><p3><m><sg>
       2 reżaħ<vblex><past><p3><m><sg>
       2 raqq<vblex><past><p3><m><sg>
-      2 ġema<vblex><past><p3><m><sg>
-      1 maxat<vblex><past><p3><m><sg>
-      1 każbar<vblex><past><p3><m><sg>
       1 ħemer<vblex><past><p3><m><sg>
       1 ħawtel<vblex><past><p3><m><sg>
+      1 maxat<vblex><past><p3><m><sg>
+      1 każbar<vblex><past><p3><m><sg>
       1 għolob<vblex><past><p3><m><sg>

@@ -1,119 +1,25 @@
-  97783 ^@ma<adv>$
   36472 ^@hemm<adv>$
-  25378 ^@ukoll<adv>$
   23697 ^@qed<adv>$
   23662 ^@se<adv>$
-  21550 ^@fejn<adv><itg>$
   21043 ^@mhux<adv>$
-  13777 ^@hekk<adv>$
-   9615 ^@issa<adv>$
-   9535 ^@dejjem<adv>$
-   9144 ^@hawn<adv>$
-   8775 ^@qatt<adv>$
-   7862 ^@darba<adv>$
-   7375 ^@quddiem<adv>$
-   6891 ^@barra<adv>$
-   6864 ^@imbagħad<adv>$
-   6692 ^@illum<adv>$
-   6182 ^@lura<adv>$
-   5753 ^@tajjeb<adv>$
-   5735 ^@llum<adv>$
-   5434 ^@ħa<adv>$
-   5380 ^@flimkien<adv>$
    5291 ^@anke<adv>$
-   5206 ^@forsi<adv>$
-   4334 ^@madwar<adv>$
+   4619 ^@ħa<adv>$
    4259 ^@lanqas<adv>$
-   3909 ^@wisq<adv>$
-   3544 ^@allura<adv>$
-   3520 ^@diġà<adv>$
-   3357 ^@sew<adv>$
-   3338 ^@għad<adv>$
    3326 ^@ser<adv>$
-   3200 ^@qabel<adv>$
+   3314 ^@għad<adv>$
    3110 ^@xorta<adv>$
-   2971 ^@iżjed<adv>$
-   2817 ^@aktarx<adv>$
-   2725 ^@inqas<adv>$
-   2645 ^@ġewwa<adv>$
-   2223 ^@kważi<adv>$
-   2202 ^@tassew<adv>$
-   1881 ^@għada<adv>$
-   1812 ^@minflok<adv>$
-   1730 ^@tard<adv>$
-   1723 ^@iva<adv>$
-   1697 ^@il-bogħod<adv>$
-   1641 ^@speċjalment<adv>$
-   1571 ^@mħix<adv>$
    1570 ^@hawnhekk<adv>$
-   1560 ^@anzi<adv>$
-   1531 ^@isfel<adv>$
-   1349 ^@kultant<adv>$
-   1290 ^@soltu<adv>$
-   1213 ^@madankollu<adv>$
-   1142 ^@malajr<adv>$
-   1086 ^@mħumiex<adv>$
+   1567 ^@mħix<adv>$
+   1085 ^@mħumiex<adv>$
    1032 ^@verament<adv>$
-   1008 ^@il-bieraħ<adv>$
     997 ^@hemmhekk<adv>$
-    777 ^@sfortunatament<adv>$
-    764 ^@ovvjament<adv>$
-    634 ^@'l hawn<adv>$
-    630 ^@sempliċiment<adv>$
-    604 ^@taħt<adv>$
-    593 ^@ilu<adv>$
-    581 ^@ġeneralment<adv>$
-    543 ^@naturalment<adv>$
-    522 ^@eżattament<adv>$
+    844 ^@Ħa<adv>$
     521 ^@'l hemm<adv>$
-    519 ^@normalment<adv>$
-    466 ^@il fuq<adv>$
-    431 ^@direttament<adv>$
-    425 ^@personalment<adv>$
     423 ^@dalwaqt<adv>$
-    400 ^@'l isfel<adv>$
-    373 ^@kompletament<adv>$
-    369 ^@allegatament<adv>$
-    355 ^@probabbilment<adv>$
-    332 ^@il barra<adv>$
     328 ^@ringrazzjament<adv>$
-    324 ^@xiex<adv><itg>$
-    322 ^@eventwalment<adv>$
-    318 ^@minkejja<adv>$
-    291 ^@partikolarment<adv>$
-    290 ^@kontinwament<adv>$
-    277 ^@uffiċjalment<adv>$
-    273 ^@faċilment<adv>$
-    259 ^@totalment<adv>$
-    243 ^@assolutament<adv>$
-    235 ^@litteralment<adv>$
-    232 ^@prattikament<adv>$
-    208 ^@regolarment<adv>$
-    198 ^@oriġinarjament<adv>$
-    195 ^@immedjatament<adv>$
-    179 ^@politikament<adv>$
-    176 ^@xjentifikament<adv>$
-    176 ^@attwalment<adv>$
-    165 ^@pubblikament<adv>$
-    161 ^@primarjament<adv>$
-    161 ^@bażikament<adv>$
-    120 ^@rispettivament<adv>$
-    117 ^@prinċipalment<adv>$
     116 ^@tant kemm<adv>$
-    112 ^@speċifikament<adv>$
-    110 ^@tradizzjonalment<adv>$
-     95 ^@lokalment<adv>$
-     70 ^@possibilment<adv>$
-     61 ^@strettament<adv>$
-     61 ^@essenzjalment<adv>$
-     58 ^@storikament<adv>$
-     55 ^@sesswalment<adv>$
-     54 ^@tipikament<adv>$
-     54 ^@parzjalment<adv>$
-     51 ^@'l ġewwa<adv>$
-     30 ^@hekk u hekk<adv>$
-     29 ^@indipendentement<adv>$
-     28 ^@suċċessivament<adv>$
-     16 ^@esklużivament<adv>$
+     14 ^@gĦad<adv>$
      10 ^@astronomikament<adv>$
+      4 ^@mĦix<adv>$
+      1 ^@mĦumiex<adv>$
       1 ^@hemm# żienja<adv>$

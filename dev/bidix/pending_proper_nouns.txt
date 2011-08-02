@@ -1,705 +1,190 @@
-  11738 ^@Alla<np><ant><m>$
    9724 ^@Mulej<np><al><m>$
-   5205 ^@San<np><al><m>$
-   4640 ^@Ġesù<np><ant><m>$
+   5206 ^@San<np><al><m>$
    4102 ^@Balzan<np><top><f>$
-   4057 ^@Kristu<np><ant><m>$
-   2954 ^@Joe<np><ant><m>$
-   2732 ^@Bonnici<np><cog><mf>$
-   2729 ^@Mifsud<np><cog><mf>$
-   2621 ^@Gonzi<np><cog><mf>$
-   2418 ^@Joseph<np><ant><m>$
-   2418 ^@Grech<np><cog><mf>$
-   2372 ^@Mintoff<np><cog><mf>$
-   2344 ^@Ebba<np><ant><f>$
-   2301 ^@von Fersen<np><cog><mf>$
-   2236 ^@Micallef<np><cog><mf>$
-   2220 ^@Sant<np><cog><mf>$
-   2219 ^@Mario<np><ant><m>$
-   2218 ^@Zammit<np><cog><mf>$
-   2194 ^@Azzopardi<np><cog><mf>$
-   2170 ^@Toni<np><ant><m>$
-   2138 ^@David<np><ant><m>$
    2102 ^@Dun<np><al><m>$
-   2077 ^@Farrugia<np><cog><mf>$
-   2074 ^@Muscat<np><cog><mf>$
-   2064 ^@Abela<np><cog><mf>$
-   2028 ^@Vella<np><cog><mf>$
    2008 ^@Papa<np><al><m>$
-   2008 ^@Carmelo<np><ant><m>$
-   1972 ^@Caruana<np><cog><mf>$
-   1959 ^@Partit Laburista<np><al><m>$
    1905 ^@PN<np><al><m>$
    1834 ^@TVM<np><al><m>$
-   1831 ^@Fenech<np><cog><mf>$
-   1796 ^@Ġorġ<np><ant><m>$
-   1792 ^@Marija<np><ant><f>$
    1792 ^@FAM<np><al><m>$
    1758 ^@Saviour<np><ant><m>$
-   1757 ^@Borg<np><cog><mf>$
-   1756 ^@John<np><ant><m>$
    1745 ^@Sir<np><al><m>$
    1729 ^@Reporter<np><al><m>$
-   1664 ^@Sam<np><ant><m>$
-   1621 ^@Pawlu<np><ant><m>$
-   1553 ^@Cassar<np><cog><mf>$
-   1446 ^@Emmanuel<np><ant><m>$
-   1418 ^@Michael<np><ant><m>$
    1415 ^@Wenzu<np><ant><m>$
-   1400 ^@Nicholas<np><ant><m>$
-   1399 ^@Madonna<np><ant><f>$
    1349 ^@UE<np><al><m>$
-   1343 ^@Camilleri<np><cog><mf>$
-   1320 ^@Galea<np><cog><mf>$
-   1300 ^@Pawl<np><ant><m>$
    1245 ^@Onor.<np><al><m>$
-   1179 ^@Ellis<np><ant><m>$
-   1177 ^@Charles<np><ant><m>$
-   1167 ^@Jeni<np><ant><f>$
-   1162 ^@Sammut<np><cog><mf>$
-   1162 ^@Paul<np><ant><m>$
-   1148 ^@Mark<np><ant><m>$
-   1146 ^@PULIS<np><cog><mf>$
-   1146 ^@FRANICA<np><ant><f>$
-   1118 ^@Alfred<np><ant><m>$
-   1098 ^@Stephen<np><ant><m>$
-   1078 ^@Google<np><al><m>$
    1077 ^@Ġerusalemm<np><top><m>$
-   1061 ^@Lawrence<np><ant><m>$
-   1059 ^@Maria<np><ant><f>$
    1045 ^@San Ġwann<np><top><m>$
    1040 ^@Kronaka f'Malta<np><al><m>$
-   1015 ^@Dimech<np><cog><mf>$
-   1006 ^@Simon<np><ant><m>$
-    997 ^@Mary<np><ant><f>$
-    942 ^@Mosè<np><ant><m>$
-    928 ^@Ġwanni<np><ant><m>$
-    914 ^@Immanuel<np><ant><m>$
     908 ^@PL<np><al><m>$
-    885 ^@Pietru<np><ant><m>$
-    877 ^@George<np><ant><m>$
-    862 ^@Partit Nazzjonalista<np><al><m>$
     818 ^@MFA<np><al><m>$
-    799 ^@Julia<np><ant><f>$
-    786 ^@Luqa<np><ant><m>$
-    759 ^@Said<np><ant><m>$
     750 ^@AD<np><al><m>$
-    744 ^@Pulis<np><cog><mf>$
-    719 ^@Antoine<np><ant><f>$
     710 ^@Ħal Qormi<np><top><m>$
-    707 ^@Ġużeppi<np><ant><m>$
-    689 ^@Mikiel<np><ant><m>$
-    686 ^@Josh<np><ant><m>$
-    684 ^@Chris<np><ant><m>$
-    683 ^@Anthony<np><ant><m>$
-    680 ^@Franica<np><ant><f>$
     670 ^@MLP<np><al><m>$
-    668 ^@Debono<np><cog><mf>$
-    667 ^@Tonio<np><ant><m>$
     666 ^@MEPA<np><al><m>$
-    659 ^@Franġisk<np><ant><m>$
-    630 ^@Peppi<np><ant><f>$
     628 ^@Paceville<np><top><m>$
-    624 ^@Eurovision<np><al><m>$
-    622 ^@Anton<np><ant><m>$
-    612 ^@Karl<np><ant><m>$
     611 ^@San Ġiljan<np><top><m>$
     589 ^@GWU<np><al><m>$
-    586 ^@Victor<np><ant><m>$
-    572 ^@Patrick<np><ant><m>$
-    560 ^@Tony<np><ant><m>$
-    539 ^@James<np><ant><m>$
-    522 ^@Victoria<np><ant><f>$
     517 ^@St<np><al><m>$
-    506 ^@Noel<np><ant><m>$
-    505 ^@Pierre<np><ant><m>$
     498 ^@Marsaxlokk<np><top><m>$
-    491 ^@Adrian<np><ant><m>$
-    473 ^@Robert<np><ant><m>$
-    471 ^@Freddie<np><ant><m>$
-    467 ^@Air Malta<np><al><m>$
-    466 ^@Ġakobb<np><ant><m>$
-    463 ^@Jacques<np><ant><m>$
-    457 ^@Albert<np><ant><m>$
     455 ^@Ta' Qali<np><top><m>$
     452 ^@Bormla<np><top><f>$
-    451 ^@Louis<np><ant><m>$
-    440 ^@Floriana<np><ant><f>$
-    427 ^@Sergio<np><ant><m>$
-    425 ^@Giovanni<np><ant><m>$
-    423 ^@UEFA<np><al><m>$
-    420 ^@Anna<np><ant><f>$
-    417 ^@Richard<np><ant><m>$
-    415 ^@Alex<np><ant><m>$
-    413 ^@Martin<np><ant><m>$
-    408 ^@Edward<np><ant><m>$
-    397 ^@Kevin<np><ant><m>$
-    396 ^@Abraham<np><ant><m>$
-    389 ^@United<np><al><m>$
-    373 ^@Thomas<np><ant><m>$
-    372 ^@Sophie<np><ant><f>$
-    371 ^@Peter<np><ant><m>$
-    366 ^@Aron<np><ant><m>$
-    359 ^@Manchester United<np><al><m>$
-    359 ^@Austin<np><ant><m>$
-    356 ^@Sharon<np><ant><f>$
-    356 ^@Raymond<np><ant><m>$
-    355 ^@Premier League<np><al><m>$
     355 ^@Preca<np><cog><mf>$
     337 ^@PBS<np><al><m>$
-    334 ^@Francis<np><ant><m>$
-    331 ^@Cremona<np><cog><mf>$
-    327 ^@Klara<np><ant><f>$
     327 ^@ERT<np><al><m>$
-    322 ^@Ray<np><ant><m>$
-    321 ^@Jan<np><ant><m>$
-    320 ^@Kenneth<np><ant><m>$
     319 ^@San Ġużepp<np><top><m>$
-    311 ^@Vincenzo<np><ant><m>$
     311 ^@Paola<np><top><m>$
-    307 ^@Antonio<np><ant><m>$
-    306 ^@Kurt<np><ant><m>$
-    304 ^@Marco<np><ant><m>$
-    302 ^@Arnold<np><ant><m>$
     298 ^@RTK<np><al><m>$
-    297 ^@Ryan<np><ant><m>$
-    297 ^@FIFA<np><al><m>$
-    296 ^@Harry<np><ant><m>$
-    291 ^@Roderick<np><ant><m>$
-    290 ^@Mike<np><ant><m>$
-    290 ^@Franco<np><cog><mf>$
-    286 ^@Brian<np><ant><m>$
-    285 ^@Olivier<np><ant><m>$
-    283 ^@Owen<np><ant><m>$
-    282 ^@Frank<np><ant><m>$
-    282 ^@Adam<np><ant><m>$
-    279 ^@Obama<np><cog><mf>$
-    278 ^@Daniel<np><ant><m>$
     275 ^@Schengen<np><top><m>$
-    271 ^@Vince<np><ant><m>$
-    270 ^@Ġwann<np><ant><m>$
-    267 ^@Manuel<np><ant><m>$
     266 ^@San Lawrenz<np><top><m>$
-    266 ^@Ian<np><ant><m>$
-    263 ^@Benjamin<np><ant><m>$
-    262 ^@Malcolm<np><ant><m>$
-    261 ^@Ruth<np><ant><f>$
     261 ^@ALE<np><al><m>$
     255 ^@Ħaż-Żebbuġ<np><top><m>$
-    253 ^@René<np><ant><m>$
-    252 ^@Partnership for Peace<np><al><m>$
-    251 ^@Mattew<np><ant><m>$
-    249 ^@Jean<np><ant><m>$
-    245 ^@Silvio<np><ant><m>$
-    245 ^@Arċibald<np><ant><m>$
-    240 ^@Bambina<np><cog><mf>$
-    239 ^@Jason<np><ant><m>$
     239 ^@Ħal Luqa<np><top><f>$
     238 ^@GRTU<np><al><m>$
-    236 ^@Nadia<np><ant><f>$
     233 ^@Il-Ġens<np><al><m>$
-    229 ^@William<np><ant><m>$
-    229 ^@Barbara<np><ant><f>$
-    227 ^@Therese<np><ant><f>$
-    225 ^@Eddie<np><ant><m>$
-    224 ^@Josie<np><ant><f>$
     224 ^@Ħaż-Żabbar<np><top><m>$
     224 ^@Birżebbuġa<np><top><f>$
-    220 ^@Yvonne<np><ant><f>$
-    220 ^@Oliver<np><ant><m>$
-    219 ^@Jeffrey<np><ant><m>$
-    219 ^@Andrew<np><ant><m>$
     218 ^@IL-ĠENS<np><al><m>$
     212 ^@Messiku<np><top><m>$
-    212 ^@Jonathan<np><ant><m>$
-    208 ^@Giovanna<np><ant><f>$
     207 ^@Santa Luċija<np><top><m>$
-    207 ^@JOE<np><ant><m>$
     207 ^@Għajnsielem<np><top><m>$
-    206 ^@Rod<np><ant><m>$
-    206 ^@Piju<np><ant><m>$
-    205 ^@Bernard<np><ant><m>$
-    205 ^@Alan<np><ant><m>$
     201 ^@Ta' Pinu<np><top><m>$
-    201 ^@Buhagiar<np><cog><mf>$
-    199 ^@Claudette<np><ant><f>$
-    197 ^@Odette<np><ant><f>$
-    196 ^@Mejlak<np><cog><mf>$
-    196 ^@Ġeremija<np><ant><m>$
-    195 ^@Ħ'Attard<np><top><m>$
     195 ^@Ħal Safi<np><top><m>$
-    194 ^@Eva<np><ant><f>$
-    193 ^@Tess<np><ant><f>$
-    192 ^@SAMMUT<np><cog><mf>$
-    191 ^@Max<np><ant><m>$
-    191 ^@Efrajm<np><ant><m>$
+    195 ^@Ħ'Attard<np><top><m>$
     190 ^@Ħal Tarxien<np><top><m>$
-    189 ^@Neville<np><ant><m>$
-    189 ^@Battista<np><cog><mf>$
-    187 ^@Philip<np><ant><m>$
     183 ^@Zurrieq<np><top><m>$
-    182 ^@Karol<np><ant><m>$
     175 ^@San Pawl il-Bahar<np><top><m>$
-    174 ^@Elija<np><ant><m>$
-    173 ^@Ivan<np><ant><m>$
-    172 ^@Frendo<np><cog><mf>$
-    172 ^@Francesco<np><ant><m>$
-    171 ^@Danjel<np><ant><m>$
     170 ^@Santa Venera<np><top><m>$
-    167 ^@Marie<np><ant><f>$
-    163 ^@Hitler<np><cog><mf>$
-    161 ^@Champions League<np><al><m>$
-    158 ^@Ronaldo<np><cog><mf>$
-    157 ^@Shakespeare<np><cog><mf>$
     157 ^@Ħal Far<np><top><m>$
-    157 ^@Bismarck<np><cog><mf>$
     156 ^@Ħal Lija<np><top><f>$
-    151 ^@Newton<np><cog><mf>$
-    151 ^@ĠESÙ<np><ant><m>$
-    151 ^@ALLA<np><ant><m>$
     148 ^@Xerri<np><cog><mf>$
-    148 ^@Ġużepp<np><ant><m>$
     147 ^@Ħal Balzan<np><top><m>$
-    146 ^@UEFA Champions League<np><al><m>$
     145 ^@Pembroke<np><top><m>$
-    144 ^@Facebook<np><al><m>$
     143 ^@Santa Katerina<np><top><m>$
     143 ^@San Ġakbu<np><top><m>$
-    142 ^@Alternattiva Demokratika<np><al><m>$
     140 ^@Marsaskala<np><top><m>$
-    140 ^@Brown<np><cog><mf>$
-    136 ^@Forzi Armati ta' Malta<np><al><m>$
     135 ^@Ġakbu<np><ant><m>$
-    133 ^@Beethoven<np><cog><mf>$
-    132 ^@Dylan<np><cog><mf>$
-    131 ^@ALBERT<np><ant><m>$
-    124 ^@Morris<np><cog><mf>$
-    124 ^@Edwin<np><ant><m>$
-    123 ^@CARUANA<np><cog><mf>$
-    117 ^@Żakkarija<np><ant><m>$
-    116 ^@Tumas<np><ant><m>$
-    115 ^@PETER<np><ant><m>$
-    115 ^@JOSEPH<np><ant><m>$
-    115 ^@Girgor<np><ant><m>$
-    115 ^@Best<np><cog><mf>$
     114 ^@Buġibba<np><top><f>$
-    113 ^@Duminku<np><ant><m>$
-    110 ^@Ferguson<np><cog><mf>$
-    109 ^@Bastjan<np><ant><m>$
-    108 ^@Lorenzo<np><ant><m>$
-    107 ^@Timotju<np><ant><m>$
-    106 ^@Boffa<np><cog><mf>$
-    105 ^@Maurice<np><ant><m>$
-    102 ^@Tereża<np><ant><f>$
-    100 ^@FARRUGIA<np><cog><mf>$
      99 ^@Marsalforn<np><top><m>$
      96 ^@San Tumas<np><top><m>$
-     95 ^@Linux<np><al><m>$
-     94 ^@KRISTU<np><ant><m>$
-     94 ^@Carlos<np><ant><m>$
-     93 ^@Saydon<np><cog><mf>$
-     93 ^@AUSTIN<np><ant><m>$
-     91 ^@CHARLES<np><ant><m>$
-     89 ^@TONI<np><ant><m>$
-     88 ^@MIFSUD<np><cog><mf>$
      86 ^@Tal-Pietà<np><top><f>$
-     82 ^@PEPPI<np><ant><f>$
-     81 ^@Nobel<np><cog><mf>$
      80 ^@Ħal Għaxaq<np><top><m>$
-     78 ^@PAUL<np><ant><m>$
      78 ^@Burmarrad<np><top><m>$
-     77 ^@Giggs<np><cog><mf>$
-     75 ^@Karlu<np><ant><m>$
      74 ^@San Blas<np><top><m>$
-     72 ^@Luke<np><ant><m>$
      72 ^@Ħad-Dingli<np><top><m>$
-     72 ^@ĠUŻEPPI<np><ant><m>$
-     71 ^@Juan<np><ant><m>$
-     70 ^@Ġiljan<np><ant><m>$
-     69 ^@Cervantes<np><cog><mf>$
-     68 ^@Rafel<np><ant><m>$
-     68 ^@Lewis<np><cog><mf>$
-     67 ^@Smith<np><cog><mf>$
-     67 ^@MARTIN<np><ant><m>$
      67 ^@Gejtanu<np><ant><m>$
-     63 ^@Rooney<np><cog><mf>$
-     63 ^@Mill<np><cog><mf>$
-     63 ^@GALEA<np><cog><mf>$
-     61 ^@Mozart<np><cog><mf>$
-     61 ^@Goethe<np><cog><mf>$
-     60 ^@LAWRENCE<np><ant><m>$
-     60 ^@Jackson<np><cog><mf>$
-     60 ^@GONZI<np><cog><mf>$
-     58 ^@MARIO<np><ant><m>$
-     57 ^@MANUEL<np><ant><m>$
      56 ^@Baħar iċ-Ċagħaq<np><top><m>$
-     55 ^@LOUIS<np><ant><m>$
-     55 ^@GRECH<np><cog><mf>$
      54 ^@Manoel Island<np><top><m>$
-     54 ^@CASSAR<np><cog><mf>$
-     53 ^@Klement<np><ant><m>$
-     52 ^@Taylor<np><cog><mf>$
-     52 ^@Edgar<np><cog><mf>$
-     51 ^@Escher<np><cog><mf>$
-     50 ^@Gordon<np><ant><m>$
      48 ^@Santa Margerita<np><top><m>$
-     48 ^@PIERRE<np><ant><m>$
-     48 ^@Ljun<np><ant><m>$
      47 ^@Wied iż-Żurrieq<np><top><m>$
      47 ^@SAN<np><al><m>$
      47 ^@Il-Belt Valletta<np><top><f>$
-     47 ^@ALFRED<np><ant><m>$
-     45 ^@Miguel<np><ant><m>$
-     44 ^@SHAKESPEARE<np><cog><mf>$
-     44 ^@Berlioz<np><cog><mf>$
-     43 ^@TONIO<np><ant><m>$
-     43 ^@JULIA<np><ant><f>$
-     42 ^@Beckham<np><cog><mf>$
      41 ^@ST<np><al><m>$
-     40 ^@MIKE<np><ant><m>$
-     39 ^@Stefano<np><ant><m>$
-     39 ^@Graham<np><ant><m>$
-     39 ^@Giuliano<np><ant><m>$
      39 ^@Fulham<np><top><m>$
-     39 ^@Federiku<np><ant><m>$
-     38 ^@ZAMMIT<np><cog><mf>$
-     38 ^@BORG<np><cog><mf>$
-     36 ^@PAWL<np><ant><m>$
      36 ^@MULEJ<np><al><m>$
-     36 ^@JOHN<np><ant><m>$
      36 ^@Għajn Tuffieħa<np><top><f>$
-     36 ^@Cromwell<np><cog><mf>$
-     35 ^@WILLIAM<np><ant><m>$
-     35 ^@MICHAEL<np><ant><m>$
-     35 ^@Fernando<np><ant><m>$
-     34 ^@BLAKE<np><cog><mf>$
-     32 ^@Schumann<np><cog><mf>$
      32 ^@Bolton<np><top><m>$
-     31 ^@Ġilormu<np><ant><m>$
-     31 ^@FRANCO<np><cog><mf>$
-     30 ^@Alfons<np><ant><m>$
-     29 ^@Foucault<np><cog><mf>$
-     29 ^@FENECH<np><cog><mf>$
      29 ^@Coventry<np><top><m>$
      27 ^@Onor<np><al><m>$
-     26 ^@Nikodemu<np><ant><m>$
-     26 ^@Hargreaves<np><cog><mf>$
      26 ^@DUN<np><al><m>$
-     26 ^@Dickens<np><cog><mf>$
-     26 ^@Clemente<np><ant><m>$
-     25 ^@Wikipedija<np><al><m>$
-     25 ^@Titu<np><ant><m>$
-     25 ^@Sebastjan<np><ant><m>$
-     25 ^@PIETRU<np><ant><m>$
-     25 ^@Il-Munxar<np><top><m>$
      25 ^@Ħal Għargħur<np><top><m>$
-     25 ^@CREMONA<np><cog><mf>$
-     24 ^@UEFA Europa League<np><al><m>$
-     24 ^@Stuart<np><ant><m>$
-     24 ^@SANT<np><cog><mf>$
-     24 ^@MARIJA<np><ant><f>$
-     23 ^@ĠORĠ<np><ant><m>$
-     23 ^@Gabrijel<np><ant><m>$
+     25 ^@Il-Munxar<np><top><m>$
      23 ^@Bromwich<np><top><m>$
-     23 ^@ADRIAN<np><ant><m>$
      22 ^@Siro<np><ant><m>$
-     22 ^@Savona<np><cog><mf>$
      22 ^@San Pietruburgu<np><top><m>$
-     22 ^@Hume<np><cog><mf>$
-     22 ^@GEORGE<np><ant><m>$
      22 ^@Fleur de Lys<np><top><m>$
-     21 ^@Orwell<np><cog><mf>$
-     21 ^@Lavigne<np><cog><mf>$
-     21 ^@Keane<np><cog><mf>$
-     20 ^@Hughes<np><cog><mf>$
      20 ^@ĦAL TARXIEN<np><top><m>$
-     20 ^@DANIEL<np><ant><m>$
-     19 ^@PATRICK<np><ant><m>$
-     19 ^@DAVID<np><ant><m>$
-     19 ^@Blake<np><cog><mf>$
-     18 ^@VELLA<np><cog><mf>$
-     18 ^@SILVIO<np><ant><m>$
      18 ^@PAPA<np><al><m>$
-     18 ^@NOEL<np><ant><m>$
      18 ^@IL-FURJANA<np><top><f>$
-     17 ^@O'Shea<np><cog><mf>$
-     17 ^@Hilbert<np><ant><m>$
-     17 ^@FRANCIS<np><ant><m>$
-     16 ^@MICALLEF<np><cog><mf>$
      16 ^@Il-Ħamrun<np><top><m>$
-     16 ^@EUROVISION<np><al><m>$
-     16 ^@Edwards<np><cog><mf>$
-     16 ^@CAMILLERI<np><cog><mf>$
-     16 ^@BONNICI<np><cog><mf>$
      15 ^@San Martin<np><top><m>$
-     15 ^@RAY<np><ant><m>$
-     15 ^@MARCO<np><ant><m>$
-     15 ^@MADONNA<np><ant><f>$
-     15 ^@Hart<np><cog><mf>$
-     14 ^@OLIVER<np><ant><m>$
-     14 ^@IMMANUEL<np><ant><m>$
      14 ^@Il-Birgu<np><top><m>$
-     14 ^@BUHAGIAR<np><cog><mf>$
-     14 ^@ABELA<np><cog><mf>$
-     13 ^@Scholes<np><cog><mf>$
-     13 ^@DIMECH<np><cog><mf>$
-     13 ^@BASTJAN<np><ant><m>$
      12 ^@SAN ĠWANN<np><top><m>$
-     12 ^@PHILIP<np><ant><m>$
-     12 ^@Neal<np><cog><mf>$
-     12 ^@Kornelju<np><ant><m>$
      12 ^@Ir-Rabat<np><top><m>$
      12 ^@Il-Qrendi<np><top><m>$
      12 ^@Il-Fgura<np><top><f>$
-     12 ^@ĠWANNI<np><ant><m>$
-     12 ^@Galli<np><cog><mf>$
-     12 ^@BATTISTA<np><cog><mf>$
-     11 ^@Sistu<np><ant><m>$
-     11 ^@SERGIO<np><ant><m>$
-     11 ^@PAWLU<np><ant><m>$
-     11 ^@Laparelli<np><cog><mf>$
      11 ^@In-Nadur<np><top><m>$
      11 ^@Il-Mistra<np><top><f>$
-     10 ^@Snow<np><cog><mf>$
-     10 ^@Schwarzer<np><cog><mf>$
-     10 ^@RYAN<np><ant><m>$
-     10 ^@ROBERT<np><ant><m>$
      10 ^@ONOR<np><al><m>$
-     10 ^@Mears<np><cog><mf>$
      10 ^@L-Imdina<np><top><f>$
-     10 ^@KURT<np><ant><m>$
-     10 ^@CARMELO<np><ant><m>$
-     10 ^@Bowie<np><cog><mf>$
      10 ^@Bidnija<np><top><f>$
       9 ^@Ta' Sannat<np><top><m>$
-      9 ^@Silvestru<np><ant><m>$
       9 ^@San Pawl tat-Tarġa<np><top><f>$
-      9 ^@KARL<np><ant><m>$
       9 ^@Gwardamanġa<np><top><f>$
-      9 ^@FLORIANA<np><ant><f>$
       9 ^@Bubaqra<np><top><f>$
-      9 ^@AZZOPARDI<np><cog><mf>$
-      8 ^@Zuckerberg<np><cog><mf>$
-      8 ^@VINCE<np><ant><m>$
+      8 ^@Ħ'ATTARD<np><top><m>$
       8 ^@Ta' Kerċem<np><top><m>$
-      8 ^@Lagrange<np><cog><mf>$
       8 ^@Iż-Żejtun<np><top><m>$
       8 ^@Il-Mellieħa<np><top><f>$
-      8 ^@Ħ'ATTARD<np><top><m>$
-      8 ^@Dirac<np><cog><mf>$
-      8 ^@Carrick<np><cog><mf>$
       7 ^@TA' QALI<np><top><m>$
       7 ^@San Pawl il-Belt<np><top><m>$
-      7 ^@Rodríguez<np><cog><mf>$
-      7 ^@RODERICK<np><ant><m>$
-      7 ^@NIKODEMU<np><ant><m>$
-      7 ^@McBride<np><cog><mf>$
       7 ^@L-Imqabba<np><top><f>$
       7 ^@Il-Furjana<np><top><f>$
-      7 ^@Hollins<np><cog><mf>$
-      7 ^@CHRIS<np><ant><m>$
-      7 ^@Ċelestinu<np><ant><m>$
-      7 ^@Carachi<np><cog><mf>$
-      7 ^@ANDREW<np><ant><m>$
       6 ^@Tal-Virtù<np><top><m>$
-      6 ^@SIMON<np><ant><m>$
-      6 ^@López<np><cog><mf>$
-      6 ^@Locke<np><cog><mf>$
-      6 ^@LINUX<np><al><m>$
-      6 ^@JAMES<np><ant><m>$
       6 ^@Iż-Żurrieq<np><top><m>$
       6 ^@Is-Siġġiewi<np><top><m>$
       6 ^@Il-Mosta<np><top><f>$
       6 ^@Il-Marsa<np><top><f>$
       6 ^@Il-Gudja<np><top><f>$
-      6 ^@Gounod<np><cog><mf>$
-      6 ^@GIOVANNI<np><ant><m>$
-      6 ^@EDDIE<np><ant><m>$
       6 ^@BIRŻEBBUĠA<np><top><f>$
-      5 ^@STEPHEN<np><ant><m>$
-      5 ^@SANTA VENERA<np><top><m>$
+      5 ^@Ħal-Balzan<np><top><f>$
+      5 ^@ĦAŻ-ŻEBBUĠ<np><top><m>$
       5 ^@Santa Liberata<np><top><m>$
-      5 ^@Rubinstein<np><cog><mf>$
+      5 ^@SANTA VENERA<np><top><m>$
       5 ^@PRECA<np><cog><mf>$
-      5 ^@PARTIT LABURISTA<np><al><m>$
       5 ^@MARSAXLOKK<np><top><m>$
-      5 ^@MARIE<np><ant><f>$
-      5 ^@KEVIN<np><ant><m>$
       5 ^@Ix-Xewkija<np><top><f>$
       5 ^@Il-Fontana<np><top><m>$
-      5 ^@ĦAŻ-ŻEBBUĠ<np><top><m>$
-      5 ^@Ħal-Balzan<np><top><f>$
-      5 ^@CLEMENTE<np><ant><m>$
-      5 ^@Cézanne<np><cog><mf>$
-      4 ^@YVONNE<np><ant><f>$
-      4 ^@TUMAS<np><ant><m>$
-      4 ^@THOMAS<np><ant><m>$
+      4 ^@ĠERUSALEMM<np><top><m>$
+      4 ^@ĦAL GĦAXAQ<np><top><m>$
+      4 ^@ĠAKBU<np><ant><m>$
       4 ^@TA' PINU<np><top><m>$
       4 ^@SAN ĠAKBU<np><top><m>$
       4 ^@MARSASKALA<np><top><m>$
-      4 ^@MARK<np><ant><m>$
       4 ^@L-Għarb<np><top><m>$
-      4 ^@Kallistu<np><ant><m>$
-      4 ^@JEAN<np><ant><m>$
-      4 ^@IŻ-ŻURRIEQ<np><top><m>$
       4 ^@Iż-Żebbuġ<np><top><m>$
+      4 ^@IŻ-ŻURRIEQ<np><top><m>$
+      4 ^@Il-Gżira<np><top><f>$
       4 ^@IX-XGĦAJRA<np><top><f>$
       4 ^@IS-SWIEQI<np><top><m>$
-      4 ^@Il-Gżira<np><top><f>$
       4 ^@IL-BELT VALLETTA<np><top><f>$
-      4 ^@ĦAL GĦAXAQ<np><top><m>$
-      4 ^@ĠERUSALEMM<np><top><m>$
-      4 ^@ĠAKBU<np><ant><m>$
-      4 ^@FRENDO<np><cog><mf>$
-      4 ^@Endrich<np><cog><mf>$
-      4 ^@DEBONO<np><cog><mf>$
       4 ^@Damasu<np><ant><m>$
-      4 ^@Cristóbal<np><ant><m>$
-      4 ^@Constable<np><cog><mf>$
-      4 ^@ALEX<np><ant><m>$
-      4 ^@Adrien<np><ant><m>$
-      3 ^@Von Neumann<np><cog><mf>$
-      3 ^@Suárez<np><cog><mf>$
-      3 ^@Steele<np><cog><mf>$
-      3 ^@Speedie<np><cog><mf>$
+      3 ^@Ċiprijanu<np><ant><m>$
       3 ^@SAN ĠILJAN<np><top><m>$
-      3 ^@Saha<np><cog><mf>$
-      3 ^@Rocastle<np><cog><mf>$
-      3 ^@Robins<np><cog><mf>$
-      3 ^@Pirès<np><cog><mf>$
-      3 ^@MILL<np><cog><mf>$
-      3 ^@MIKIEL<np><ant><m>$
-      3 ^@MIGUEL<np><ant><m>$
-      3 ^@MEJLAK<np><cog><mf>$
-      3 ^@McGrath<np><cog><mf>$
-      3 ^@MALCOLM<np><ant><m>$
-      3 ^@LUKE<np><ant><m>$
-      3 ^@L-Imtarfa<np><top><f>$
       3 ^@L-Imtaħleb<np><top><m>$
+      3 ^@L-Imtarfa<np><top><f>$
       3 ^@L-Imsida<np><top><f>$
       3 ^@L-Iklin<np><top><m>$
       3 ^@L-Għasri<np><top><m>$
       3 ^@L-Għadira<np><top><f>$
-      3 ^@Levy<np><cog><mf>$
-      3 ^@Kristoforu<np><ant><m>$
-      3 ^@KAROL<np><ant><m>$
-      3 ^@JONATHAN<np><ant><m>$
-      3 ^@JACKSON<np><cog><mf>$
       3 ^@Is-Swieqi<np><top><m>$
       3 ^@In-Naxxar<np><top><m>$
-      3 ^@IN-NADUR<np><top><m>$
       3 ^@Il-Qala<np><top><f>$
       3 ^@Il-Kalkara<np><top><f>$
-      3 ^@Hardy<np><cog><mf>$
-      3 ^@Geraldu<np><ant><m>$
-      3 ^@FERNANDO<np><ant><m>$
-      3 ^@EDWIN<np><ant><m>$
-      3 ^@Drexler<np><cog><mf>$
-      3 ^@Ċiprijanu<np><ant><m>$
-      3 ^@CARLOS<np><ant><m>$
-      3 ^@Bresciano<np><cog><mf>$
-      3 ^@ANTHONY<np><ant><m>$
+      3 ^@IN-NADUR<np><top><m>$
       3 ^@Alwigi<np><ant><m>$
+      2 ^@ĦAL QORMI<np><top><m>$
       2 ^@XERRI<np><cog><mf>$
-      2 ^@Wordsworth<np><cog><mf>$
-      2 ^@TIMOTJU<np><ant><m>$
-      2 ^@The Green Party<np><al><m>$
-      2 ^@SAM<np><ant><m>$
-      2 ^@Salomè<np><cog><mf>$
-      2 ^@Robertu<np><ant><m>$
       2 ^@REPORTER<np><al><m>$
-      2 ^@Ramsey<np><cog><mf>$
-      2 ^@Priestley<np><cog><mf>$
-      2 ^@O'Leary<np><cog><mf>$
-      2 ^@MUSCAT<np><cog><mf>$
-      2 ^@MATTEW<np><ant><m>$
-      2 ^@MARIA<np><ant><f>$
       2 ^@L-Imġarr<np><top><m>$
-      2 ^@Koch<np><cog><mf>$
       2 ^@IŻ-ŻEJTUN<np><top><m>$
       2 ^@Ix-Xlendi<np><top><m>$
       2 ^@Ix-Xgħajra<np><top><f>$
       2 ^@Ix-Xagħra<np><top><f>$
+      2 ^@Il-Baħrija<np><top><f>$
       2 ^@IR-RABAT<np><top><m>$
       2 ^@IN-NAXXAR<np><top><m>$
-      2 ^@IL-MELLIEĦA<np><top><f>$
       2 ^@IL-ĦAMRUN<np><top><m>$
+      2 ^@IL-MELLIEĦA<np><top><f>$
       2 ^@IL-GŻIRA<np><top><f>$
-      2 ^@Il-Baħrija<np><top><f>$
-      2 ^@IAN<np><ant><m>$
-      2 ^@ĦAL QORMI<np><top><m>$
-      2 ^@ĠWANN<np><ant><m>$
-      2 ^@Guérin<np><cog><mf>$
-      2 ^@EMMANUEL<np><ant><m>$
-      2 ^@Eliot<np><cog><mf>$
-      2 ^@Chamberlain<np><cog><mf>$
-      2 ^@BROWN<np><cog><mf>$
-      2 ^@Branchel<np><cog><mf>$
-      2 ^@Bellini<np><cog><mf>$
-      2 ^@Barbarossa<np><cog><mf>$
-      2 ^@BARBARA<np><ant><f>$
-      2 ^@Ayer<np><cog><mf>$
-      2 ^@ANTON<np><ant><m>$
-      1 ^@ŻAKKARIJA<np><ant><m>$
-      1 ^@WENZU<np><ant><m>$
       1 ^@von Neumann<np><cog><mf>$
-      1 ^@von Lobkowitz<np><cog><mf>$
-      1 ^@VICTOR<np><ant><m>$
-      1 ^@Veronesi<np><cog><mf>$
-      1 ^@TONY<np><ant><m>$
-      1 ^@TITU<np><ant><m>$
-      1 ^@SHARON<np><ant><f>$
-      1 ^@SEBASTJAN<np><ant><m>$
+      1 ^@WENZU<np><ant><m>$
       1 ^@SAVIOUR<np><ant><m>$
       1 ^@SAN ĠUŻEPP<np><top><m>$
-      1 ^@RICHARD<np><ant><m>$
-      1 ^@Poinsot<np><cog><mf>$
-      1 ^@PARTIT NAZZJONALISTA<np><al><m>$
       1 ^@PAOLA<np><top><m>$
-      1 ^@MINTOFF<np><cog><mf>$
-      1 ^@McShane<np><cog><mf>$
-      1 ^@MARINO<np><ant><m>$
-      1 ^@Marino<np><ant><m>$
-      1 ^@Marċellu<np><ant><m>$
-      1 ^@Malory<np><cog><mf>$
-      1 ^@LUQA<np><ant><m>$
       1 ^@L-GĦARB<np><top><m>$
-      1 ^@LEVY<np><cog><mf>$
-      1 ^@Leiva<np><cog><mf>$
-      1 ^@JASON<np><ant><m>$
-      1 ^@JAN<np><ant><m>$
       1 ^@Il-Qawra<np><top><f>$
       1 ^@Il-Pwales<np><top><m>$
-      1 ^@Hockney<np><cog><mf>$
-      1 ^@Hilsdon<np><cog><mf>$
-      1 ^@Guiscard<np><cog><mf>$
-      1 ^@GORDON<np><ant><m>$
-      1 ^@Goodall<np><cog><mf>$
-      1 ^@GIRGOR<np><ant><m>$
-      1 ^@GIOVANNA<np><ant><f>$
-      1 ^@ĠEREMIJA<np><ant><m>$
-      1 ^@Gainsborough<np><cog><mf>$
-      1 ^@FREDDIE<np><ant><m>$
-      1 ^@Frayn<np><cog><mf>$
-      1 ^@FRANK<np><ant><m>$
-      1 ^@FRANCESCO<np><ant><m>$
-      1 ^@ELIJA<np><ant><m>$
       1 ^@Eliġju<np><ant><m>$
-      1 ^@EDWARD<np><ant><m>$
-      1 ^@DUMINKU<np><ant><m>$
-      1 ^@Dufresne<np><cog><mf>$
-      1 ^@DANJEL<np><ant><m>$
-      1 ^@Dalaras<np><cog><mf>$
-      1 ^@Codino<np><cog><mf>$
-      1 ^@CLAUDETTE<np><ant><f>$
       1 ^@Cianciolo<np><cog><mf>$
-      1 ^@Cañedo<np><cog><mf>$
-      1 ^@BRIAN<np><ant><m>$
-      1 ^@Brdaric<np><cog><mf>$
       1 ^@BORMLA<np><top><f>$
-      1 ^@Boldini<np><cog><mf>$
       1 ^@BALZAN<np><top><f>$
-      1 ^@Artell<np><cog><mf>$
-      1 ^@ANTONIO<np><ant><m>$
-      1 ^@ANTOINE<np><ant><f>$
-      1 ^@ALTERNATTIVA DEMOKRATIKA<np><al><m>$

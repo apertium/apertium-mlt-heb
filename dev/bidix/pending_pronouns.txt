@@ -1,33 +1,33 @@
-  87764 ^@u<prn><p3><m>$
-  35249 ^@hom<prn><p3><mf>$
-  23255 ^@ha<prn><p3><f>$
-  23226 ^@prpers<prn><obj><p3><m>$
-  21808 ^@na<prn><p1><mf>$
-  21698 ^@i<prn><p1><mf>$
+  87605 ^@u<prn><p3><m>$
+  35195 ^@hom<prn><p3><mf>$
+  23233 ^@ha<prn><p3><f>$
+  23182 ^@prpers<prn><obj><p3><m>$
+  21698 ^@na<prn><p1><mf>$
+  21643 ^@i<prn><p1><mf>$
   13117 ^@dak<prn><dem><mf>$
-  12682 ^@ek<prn><p2><mf>$
-  10006 ^@wieħed<prn><ind><mf>$
-   8960 ^@ieħor<prn><ind><m>$
-   8847 ^@dak<prn><dem><m>$
+  12633 ^@ek<prn><p2><mf>$
+   9993 ^@wieħed<prn><ind><mf>$
+   8952 ^@ieħor<prn><ind><m>$
+   8850 ^@dak<prn><dem><m>$
    7396 ^@dak<prn><dem><f>$
-   4366 ^@u<prn><p1><mf>$
-   4093 ^@kulħadd<prn><ind><m>$
-   4011 ^@xi ħaġa<prn><ind><mf>$
-   3883 ^@lu<prn><p3><m>$
+   4361 ^@u<prn><p1><mf>$
+   4057 ^@kulħadd<prn><ind><m>$
+   3994 ^@xi ħaġa<prn><ind><mf>$
+   3882 ^@lu<prn><p3><m>$
    3823 ^@stess<prn><ref>$
-   3695 ^@kom<prn><p2><mf>$
-   3557 ^@u<prn><p3><f>$
-   3504 ^@u<prn><p3><mf>$
+   3685 ^@kom<prn><p2><mf>$
+   3556 ^@u<prn><p3><f>$
+   3495 ^@u<prn><p3><mf>$
    2906 ^@bosta<prn><ind><mf>$
-   2470 ^@ħafna<prn><ind><mf>$
+   2385 ^@ħafna<prn><ind><mf>$
    1984 ^@xulxin<prn><recip><mf><sp>$
-   1659 ^@lu<prn><p1><mf>$
-   1495 ^@prpers<prn><obj><p3><f>$
-    999 ^@prpers<prn><obj><p1>$
-    894 ^@u<prn><p2><mf>$
-    728 ^@wieħed<prn><ind><mf><px3sg_m>$
+   1658 ^@lu<prn><p1><mf>$
+   1479 ^@prpers<prn><obj><p3><f>$
+    996 ^@prpers<prn><obj><p1>$
+    892 ^@u<prn><p2><mf>$
+    727 ^@wieħed<prn><ind><mf><px3sg_m>$
     639 ^@lu<prn><p2><mf>$
-    530 ^@prpers<prn><obj><p3>$
+    524 ^@prpers<prn><obj><p3>$
     414 ^@wieħed<prn><ind><mf><px1sg>$
     288 ^@lu<prn><p3><mf>$
     217 ^@prpers<prn><obj><p2>$
@@ -35,6 +35,12 @@
     152 ^@wieħed<prn><ind><mf><px2sg>$
     106 ^@wieħed<prn><ind><mf><px3pl>$
      97 ^@wieħed<prn><ind><mf><px3sg_f>$
+     85 ^@Ħafna<prn><ind><mf>$
+     36 ^@kulĦadd<prn><ind><m>$
      26 ^@wieħed<prn><ind><mf><px1pl>$
+     18 ^@xi ĦaĠa<prn><ind><mf>$
      14 ^@kwalunkwe ħaġa<prn><ind><m>$
+     13 ^@wieĦed<prn><ind><mf>$
       8 ^@wieħed<prn><ind><mf><px2pl>$
+      8 ^@ieĦor<prn><ind><m>$
+      1 ^@wieĦed<prn><ind><mf><px3sg_m>$
