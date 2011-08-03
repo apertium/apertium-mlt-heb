@@ -1,5 +1,5 @@
 INPUT=/tmp/mt-he.gentest.transfer
-DEV=/home/fran/source/apertium/incubator/apertium-mt-he/dev/bidix/
+DEV=`pwd`/bidix
 
 echo "SECTION
 
