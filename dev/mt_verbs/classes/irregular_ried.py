@@ -23,10 +23,10 @@ def add_probjs(feats, form, short_form=None):
 	if not short_form:
 		short_form = form
 	return {
-		feats + '.+probj.p1.pl' : None if '.p1.' in feats else probj_p1_pl(form),
-		feats + '.+probj.p1.sg' : None if '.p1.' in feats else probj_p1_sg(form),
-		feats + '.+probj.p2.pl' : None if '.p2.' in feats else probj_p2_pl(form),
-		feats + '.+probj.p2.sg' : None if '.p2.' in feats else probj_p2_sg(short_form),
+		feats + '.+probj.p1.mf.pl' : None if '.p1.' in feats else probj_p1_pl(form),
+		feats + '.+probj.p1.mf.sg' : None if '.p1.' in feats else probj_p1_sg(form),
+		feats + '.+probj.p2.mf.pl' : None if '.p2.' in feats else probj_p2_pl(form),
+		feats + '.+probj.p2.mf.sg' : None if '.p2.' in feats else probj_p2_sg(short_form),
 		feats + '.+probj.p3.f.sg' : probj_p3_f_sg(form),
 		feats + '.+probj.p3.m.sg' : probj_p3_m_sg(short_form),
 		feats + '.+probj.p3.pl' : probj_p3_pl(form),
