@@ -1857,7 +1857,7 @@
      <e><p><l>professjonista<s n="adj"/></l><r>מקצועי<s n="adj"/></r></p></e>
      <e><p><l>stalla<s n="adj"/></l><r>דחוי<s n="adj"/></r></p></e>
      <e><p><l>dejjaq<s n="adj"/></l><r>צר<s n="adj"/></r></p></e>
-     <e><p><l>morali<s n="adj"/></l><r>מוסרי<s n="adj"/></r></p>adj</e><!-- TODO -->
+     <e><p><l>morali<s n="adj"/></l><r>מוסרי<s n="adj"/></r></p></e><!-- TODO -->
 
      <!-- These were automatically guessed to be mf_pl_m_f_pl. Pretty good guess I think but testing is needed -->
      <e><p><l>uniti<s n="adj"/></l><r>מאוחד<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
