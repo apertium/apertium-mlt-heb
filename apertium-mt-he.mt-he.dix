@@ -2454,6 +2454,207 @@
      <e><p><l>xiex<s n="adv"/><s n="itg"/></l><r>מה<s n="adv"/><s n="itg"/></r></p></e>
 
      <!-- SECTION: Verbs -->
+       <e><p><l>jaf<s n="vblex"/></l><r>ידע<s n="vblex"/></r></p></e>
+       <e><p><l>ġie<s n="vblex"/></l><r>בא<s n="vblex"/></r></p></e>
+       <e c="  0"><p><l>għax<s n="vblex"/></l><r>חי<s n="vblex"/></r></p></e>
+       <e slr="1"><p><l>għax<s n="vblex"/></l><r>קיים<s n="vblex"/></r></p></e>
+       <e><p><l>sar<s n="vblex"/></l><r>הפך<s n="vblex"/></r></p></e>
+       <e><p><l>seta<s n="vblex"/></l><r>יכל<s n="vblex"/></r></p></e>
+       <e><p><l>ried<s n="vblex"/></l><r>רצה<s n="vblex"/></r></p></e>
+       <e><p><l>beda<s n="vblex"/></l><r>התחיל<s n="vblex"/></r></p></e>
+       <e><p><l>qagħad<s n="vblex"/></l><r>ישב<s n="vblex"/></r></p></e>
+       <e><p><l>sab<s n="vblex"/></l><r>מצא<s n="vblex"/></r></p></e>
+       <e><p><l>mar<s n="vblex"/></l><r>הלך<s n="vblex"/></r></p></e>
+       <e><p><l>deher<s n="vblex"/></l><r>נראה<s n="vblex"/></r></p></e>
+       <e><p><l>dar<s n="vblex"/></l><r>פנה<s n="vblex"/></r></p></e>
+       <e><p><l>baqa''<s n="vblex"/></l><r>נשאר<s n="vblex"/></r></p></e>
+       <e><p><l>ħareġ<s n="vblex"/></l><r>יצא<s n="vblex"/></r></p></e>
+       <e><p><l>dahal<s n="vblex"/></l><r>נכנס<s n="vblex"/></r></p></e>
+       <e><p><l>tkellem<s n="vblex"/></l><r>דיבר<s n="vblex"/></r></p></e>
+       <e><p><l>ħass<s n="vblex"/></l><r>הרגיש<s n="vblex"/></r></p></e>
+       <e><p><l>qara<s n="vblex"/></l><r>קרא<s n="vblex"/></r></p></e>
+       <e><p><l>xtaq<s n="vblex"/></l><r>רצה<s n="vblex"/></r></p></e>
+       <e c="  0"><p><l>wera<s n="vblex"/></l><r>הראה<s n="vblex"/></r></p></e>
+       <e slr="1"><p><l>wera<s n="vblex"/></l><r>הציג<s n="vblex"/></r></p></e>
+       <e><p><l>wasal<s n="vblex"/></l><r>הגיע<s n="vblex"/></r></p></e>
+       <e><p><l>ġab<s n="vblex"/></l><r>הביא<s n="vblex"/></r></p></e>
+       <e><p><l>żamm<s n="vblex"/></l><r>החזיק<s n="vblex"/></r></p></e>
+       <e><p><l>miet<s n="vblex"/></l><r>מת<s n="vblex"/></r></p></e>
+       <e><p><l>għan<s n="vblex"/></l><r>עזר<s n="vblex"/></r></p></e>
+       <e><p><l>fehem<s n="vblex"/></l><r>הבין<s n="vblex"/></r></p></e>
+       <e><p><l>saħħ<s n="vblex"/></l><r>התגשם<s n="vblex"/></r></p></e>
+       <e><p><l>rabat<s n="vblex"/></l><r>קשר<s n="vblex"/></r></p></e>
+       <e><p><l>telaq<s n="vblex"/></l><r>עזב<s n="vblex"/></r></p></e>
+       <e><p><l>bagħat<s n="vblex"/></l><r>שלח<s n="vblex"/></r></p></e>
+       <e><p><l>haseb<s n="vblex"/></l><r>חשב<s n="vblex"/></r></p></e>
+       <e><p><l>qabad<s n="vblex"/></l><r>תפס<s n="vblex"/></r></p></e>
+       <e c="  0"><p><l>tilef<s n="vblex"/></l><r>הפסיד<s n="vblex"/></r></p></e>
+       <e slr="1"><p><l>tilef<s n="vblex"/></l><r>פספס<s n="vblex"/></r></p></e>
+       <e><p><l>mexa<s n="vblex"/></l><r>הלך<s n="vblex"/></r></p></e>
+       <e><p><l>rebah<s n="vblex"/></l><r>זכה<s n="vblex"/></r></p></e>
+       <e><p><l>lagħab<s n="vblex"/></l><r>שיחק<s n="vblex"/></r></p></e>
+       <e><p><l>mess<s n="vblex"/></l><r>נגע<s n="vblex"/></r></p></e>
+       <e><p><l>ħabat<s n="vblex"/></l><r>התנגש<s n="vblex"/></r></p></e>
+       <e><p><l>ġara<s n="vblex"/></l><r>קרה<s n="vblex"/></r></p></e>
+       <e><p><l>qam<s n="vblex"/></l><r>קם<s n="vblex"/></r></p></e>
+       <e><p><l>kiseb<s n="vblex"/></l><r>השיג<s n="vblex"/></r></p></e>
+       <e><p><l>ħoloq<s n="vblex"/></l><r>יצר<s n="vblex"/></r></p></e>
+       <e><p><l>għalaq<s n="vblex"/></l><r>סגר<s n="vblex"/></r></p></e>
+       <e><p><l>qabel<s n="vblex"/></l><r>הסכים<s n="vblex"/></r></p></e>
+       <e><p><l>kiel<s n="vblex"/></l><r>אכל<s n="vblex"/></r></p></e>
+       <e><p><l>żied<s n="vblex"/></l><r>הגדיל<s n="vblex"/></r></p></e>
+       <e c="  0"><p><l>fisser<s n="vblex"/></l><r>התכוון<s n="vblex"/></r></p></e>
+       <e slr="1"><p><l>fisser<s n="vblex"/></l><r>הגדיר<s n="vblex"/></r></p></e>
+       <e><p><l>għażel<s n="vblex"/></l><r>בחר<s n="vblex"/></r></p></e>
+       <e><p><l>dahal<s n="vblex"/></l><r>נכנס<s n="vblex"/></r></p></e>
+       <e><p><l>dam<s n="vblex"/></l><r>ארך<s n="vblex"/></r></p></e>
+       <e><p><l>kiber<s n="vblex"/></l><r>גדל<s n="vblex"/></r></p></e>
+       <e><p><l>qatel<s n="vblex"/></l><r>הרג<s n="vblex"/></r></p></e>
+       <e><p><l>ġabar<s n="vblex"/></l><r>אסף<s n="vblex"/></r></p></e>
+       <e><p><l>laħaq<s n="vblex"/></l><r>הגיע<s n="vblex"/></r></p></e>
+       <e><p><l>mela<s n="vblex"/></l><r>מילא<s n="vblex"/></r></p></e>
+       <e><p><l>resaq<s n="vblex"/></l><r>ניגש<s n="vblex"/></r></p></e>
+       <e><p><l>qies<s n="vblex"/></l><r>מדד<s n="vblex"/></r></p></e>
+       <e><p><l>niżel<s n="vblex"/></l><r>ירד<s n="vblex"/></r></p></e>
+       <e><p><l>daqq<s n="vblex"/></l><r>שיחק<s n="vblex"/></r></p></e>
+       <e c="  0"><p><l>ħeles<s n="vblex"/></l><r>מסר<s n="vblex"/></r></p></e>
+       <e slr="1"><p><l>ħeles<s n="vblex"/></l><r>נשא<s n="vblex"/></r></p></e>
+       <e slr="2"><p><l>ħeles<s n="vblex"/></l><r>גאל<s n="vblex"/></r></p></e>
+       <e><p><l>ħall<s n="vblex"/></l><r>שחרר<s n="vblex"/></r></p></e>
+       <e><p><l>laqat<s n="vblex"/></l><r>פגע<s n="vblex"/></r></p></e>
+       <e><p><l>sebaħ<s n="vblex"/></l><r>זרח<s n="vblex"/></r></p></e>
+       <e><p><l>żar<s n="vblex"/></l><r>ביקר<s n="vblex"/></r></p></e>
+       <e><p><l>raqad<s n="vblex"/></l><r>ישן<s n="vblex"/></r></p></e>
+       <e><p><l>rema<s n="vblex"/></l><r>זרק<s n="vblex"/></r></p></e>
+       <e><p><l>seraq<s n="vblex"/></l><r>גנב<s n="vblex"/></r></p></e>
+       <e><p><l>harab<s n="vblex"/></l><r>ברח<s n="vblex"/></r></p></e>
+       <e><p><l>ġarr<s n="vblex"/></l><r>נשא<s n="vblex"/></r></p></e>
+       <e><p><l>ġibed<s n="vblex"/></l><r>משך<s n="vblex"/></r></p></e>
+       <e><p><l>temm<s n="vblex"/></l><r>סיים<s n="vblex"/></r></p></e>
+       <e><p><l>waqaf<s n="vblex"/></l><r>עצר<s n="vblex"/></r></p></e>
+       <e><p><l>ċempel<s n="vblex"/></l><r>צלצל<s n="vblex"/></r></p></e>
+       <e><p><l>fadal<s n="vblex"/></l><r>נשאר<s n="vblex"/></r></p></e>
+       <e><p><l>felaħ<s n="vblex"/></l><r>התחזק<s n="vblex"/></r></p></e>
+       <e><p><l>bidel<s n="vblex"/></l><r>שינה<s n="vblex"/></r></p></e>
+       <e><p><l>biddel<s n="vblex"/></l><r>שינה<s n="vblex"/></r></p></e>
+       <e><p><l>tar<s n="vblex"/></l><r>עף<s n="vblex"/></r></p></e>
+       <e><p><l>naqas<s n="vblex"/></l><r>דעך<s n="vblex"/></r></p></e>
+       <e><p><l>irrappreżenta<s n="vblex"/></l><r>ייצג<s n="vblex"/></r></p></e>
+       <e><p><l>ħela<s n="vblex"/></l><r>בזבז<s n="vblex"/></r></p></e>
+       <e><p><l>radd<s n="vblex"/></l><r>שחזר<s n="vblex"/></r></p></e>
+       <e><p><l>xorob<s n="vblex"/></l><r>שתה<s n="vblex"/></r></p></e>
+       <e><p><l>qabeż<s n="vblex"/></l><r>קפץ<s n="vblex"/></r></p></e>
+       <e><p><l>feraħ<s n="vblex"/></l><r>שמח<s n="vblex"/></r></p></e>
+       <e><p><l>ċaħad<s n="vblex"/></l><r>הכחיש<s n="vblex"/></r></p></e>
+       <e><p><l>hatar<s n="vblex"/></l><r>בחר<s n="vblex"/></r></p></e>
+       <e><p><l>ikkonsista<s n="vblex"/></l><r>הכיל<s n="vblex"/></r></p></e>
+       <e><p><l>għar<s n="vblex"/></l><r>קינא<s n="vblex"/></r></p></e>
+       <e><p><l>ħolom<s n="vblex"/></l><r>חלם<s n="vblex"/></r></p></e>
+       <e><p><l>kixef<s n="vblex"/></l><r>חשף<s n="vblex"/></r></p></e>
+       <e><p><l>daħak<s n="vblex"/></l><r>צחק<s n="vblex"/></r></p></e>
+       <e><p><l>ħeba<s n="vblex"/></l><r>החביא<s n="vblex"/></r></p></e>
+       <e><p><l>gideb<s n="vblex"/></l><r>שיקר<s n="vblex"/></r></p></e>
+       <e><p><l>għam<s n="vblex"/></l><r>שחה<s n="vblex"/></r></p></e>
+       <e><p><l>nefaq<s n="vblex"/></l><r>בזבז<s n="vblex"/></r></p></e>
+       <e><p><l>biegħ<s n="vblex"/></l><r>מכר<s n="vblex"/></r></p></e>
+       <e><p><l>ħalaq<s n="vblex"/></l><r>יצר<s n="vblex"/></r></p></e>
+       <e><p><l>far<s n="vblex"/></l><r>רתח<s n="vblex"/></r></p></e>
+       <e><p><l>lemaħ<s n="vblex"/></l><r>תפס<s n="vblex"/></r></p></e>
+       <e><p><l>għereq<s n="vblex"/></l><r>סרח<s n="vblex"/></r></p></e>
+       <e><p><l>bagħad<s n="vblex"/></l><r>שנא<s n="vblex"/></r></p></e>
+       <e><p><l>ġieb<s n="vblex"/></l><r>הביא<s n="vblex"/></r></p></e>
+       <e><p><l>ħafer<s n="vblex"/></l><r>סלח<s n="vblex"/></r></p></e>
+       <e><p><l>ħasel<s n="vblex"/></l><r>שטף<s n="vblex"/></r></p></e>
+       <e><p><l>fieq<s n="vblex"/></l><r>החלים<s n="vblex"/></r></p></e>
+       <e><p><l>għażż<s n="vblex"/></l><r>הוקיר<s n="vblex"/></r></p></e>
+       <e><p><l>qorob<s n="vblex"/></l><r>קרב<s n="vblex"/></r></p></e>
+       <e><p><l>ħalef<s n="vblex"/></l><r>נשבע<s n="vblex"/></r></p></e>
+       <e><p><l>dendel<s n="vblex"/></l><r>תלה<s n="vblex"/></r></p></e>
+       <e><p><l>daq<s n="vblex"/></l><r>טעם<s n="vblex"/></r></p></e>
+       <e><p><l>refa<s n="vblex"/></l><r>העלה<s n="vblex"/></r></p></e>
+       <e><p><l>ħarbat<s n="vblex"/></l><r>הרס<s n="vblex"/></r></p></e>
+       <e><p><l>ċaħħad<s n="vblex"/></l><r>שלל<s n="vblex"/></r></p></e>
+       <e><p><l>siket<s n="vblex"/></l><r>שקט<s n="vblex"/></r></p></e>
+       <e><p><l>għab<s n="vblex"/></l><r>נעלם<s n="vblex"/></r></p></e>
+       <e><p><l>firex<s n="vblex"/></l><r>התפשט<s n="vblex"/></r></p></e>
+       <e><p><l>xegħel<s n="vblex"/></l><r>האיר<s n="vblex"/></r></p></e>
+       <e><p><l>nefaħ<s n="vblex"/></l><r>ניפח<s n="vblex"/></r></p></e>
+       <e><p><l>leqq<s n="vblex"/></l><r>נצץ<s n="vblex"/></r></p></e>
+       <e><p><l>fired<s n="vblex"/></l><r>הפריד<s n="vblex"/></r></p></e>
+       <e><p><l>fixkel<s n="vblex"/></l><r>חסם<s n="vblex"/></r></p></e>
+       <e><p><l>ċaqlaq<s n="vblex"/></l><r>רעד<s n="vblex"/></r></p></e>
+       <e><p><l>difen<s n="vblex"/></l><r>קבר<s n="vblex"/></r></p></e>
+       <e><p><l>kotor<s n="vblex"/></l><r>שרץ<s n="vblex"/></r></p></e>
+       <e><p><l>ħaqar<s n="vblex"/></l><r>עשק<s n="vblex"/></r></p></e>
+       <e><p><l>ċanfar<s n="vblex"/></l><r>נזף<s n="vblex"/></r></p></e>
+       <e><p><l>sam<s n="vblex"/></l><r>מיהר<s n="vblex"/></r></p></e>
+       <e><p><l>saħan<s n="vblex"/></l><r>התחמם<s n="vblex"/></r></p></e>
+       <e><p><l>rass<s n="vblex"/></l><r>לחץ<s n="vblex"/></r></p></e>
+       <e><p><l>werżaq<s n="vblex"/></l><r>צעק<s n="vblex"/></r></p></e>
+       <e><p><l>siker<s n="vblex"/></l><r>השתכר<s n="vblex"/></r></p></e>
+       <e c="  0"><p><l>għasar<s n="vblex"/></l><r>סחט<s n="vblex"/></r></p></e>
+       <e slr="1"><p><l>għasar<s n="vblex"/></l><r>דחס<s n="vblex"/></r></p></e>
+       <e><p><l>beżaq<s n="vblex"/></l><r>ירק<s n="vblex"/></r></p></e>
+       <e><p><l>bela'<s n="vblex"/></l><r>בלע<s n="vblex"/></r></p></e>
+       <e><p><l>ħatt<s n="vblex"/></l><r>פרק<s n="vblex"/></r></p></e>
+       <e><p><l>ikkonsidra<s n="vblex"/></l><r>התחשב<s n="vblex"/></r></p></e>
+       <e><p><l>marad<s n="vblex"/></l><r>חלה<s n="vblex"/></r></p></e>
+       <e><p><l>nidem<s n="vblex"/></l><r>התחרט<s n="vblex"/></r></p></e>
+       <e><p><l>ċapċap<s n="vblex"/></l><r>מחא<b/>כפיים<s n="vblex"/></r></p></e>
+       <e><p><l>sahar<s n="vblex"/></l><r>עבד<b/>שעות<b/>נוספות<s n="vblex"/></r></p></e><!-- TODO -->
+       <e><p><l>dilek<s n="vblex"/></l><r>מרח<s n="vblex"/></r></p></e>
+       <e><p><l>reħa<s n="vblex"/></l><r>עזב<s n="vblex"/></r></p></e>
+       <e><p><l>kesaħ<s n="vblex"/></l><r>התקרר<s n="vblex"/></r></p></e>
+       <e><p><l>dardar<s n="vblex"/></l><r>עכר<s n="vblex"/></r></p></e>
+       <e><p><l>mesaħ<s n="vblex"/></l><r>ניגב<s n="vblex"/></r></p></e>
+       <e><p><l>bell<s n="vblex"/></l><r>הרטיב<s n="vblex"/></r></p></e>
+       <e><p><l>xeher<s n="vblex"/></l><r>קונן<s n="vblex"/></r></p></e>
+       <e><p><l>iżviluppa<s n="vblex"/></l><r>פיתח<s n="vblex"/></r></p></e>
+       <e><p><l>qarr<s n="vblex"/></l><r>התוודה<s n="vblex"/></r></p></e><!-- TODO -->
+       <e><p><l>korob<s n="vblex"/></l><r>גנח<s n="vblex"/></r></p></e>
+       <e><p><l>silef<s n="vblex"/></l><r>הלווה<s n="vblex"/></r></p></e>
+       <e><p><l>selaħ<s n="vblex"/></l><r>פשט<s n="vblex"/></r></p></e>
+       <e><p><l>tertaq<s n="vblex"/></l><r>ניפץ<s n="vblex"/></r></p></e>
+       <e><p><l>kines<s n="vblex"/></l><r>טאטא<s n="vblex"/></r></p></e>
+       <e><p><l>għorok<s n="vblex"/></l><r>שפשף<s n="vblex"/></r></p></e>
+       <e><p><l>petpet<s n="vblex"/></l><r>מצמץ<s n="vblex"/></r></p></e>
+       <e><p><l>baram<s n="vblex"/></l><r>פתל<s n="vblex"/></r></p></e>
+       <e><p><l>xengel<s n="vblex"/></l><r>התנדנד<s n="vblex"/></r></p></e>
+       <e><p><l>għażaq<s n="vblex"/></l><r>חפר<s n="vblex"/></r></p></e>
+       <e><p><l>taħan<s n="vblex"/></l><r>טחן<s n="vblex"/></r></p></e>
+       <e><p><l>sebaq<s n="vblex"/></l><r>הצליח<s n="vblex"/></r></p></e>
+       <e><p><l>kexkex<s n="vblex"/></l><r>זעזע<s n="vblex"/></r></p></e>
+       <e><p><l>gerbeb<s n="vblex"/></l><r>גלגל<s n="vblex"/></r></p></e>
+       <e><p><l>ħaleb<s n="vblex"/></l><r>חלב<s n="vblex"/></r></p></e>
+       <e><p><l>damm<s n="vblex"/></l><r>חבר<s n="vblex"/></r></p></e>
+       <e><p><l>berbaq<s n="vblex"/></l><r>בזבז<s n="vblex"/></r></p></e>
+       <e><p><l>kedd<s n="vblex"/></l><r>הקניט<s n="vblex"/></r></p></e>
+       <e><p><l>sogħob<s n="vblex"/></l><r>הצטער<s n="vblex"/></r></p></e>
+       <e><p><l>qaras<s n="vblex"/></l><r>צבט<s n="vblex"/></r></p></e>
+       <e><p><l>bexx<s n="vblex"/></l><r>הזליף<s n="vblex"/></r></p></e>
+       <e><p><l>sogħol<s n="vblex"/></l><r>השתעל<s n="vblex"/></r></p></e>
+       <e><p><l>temtem<s n="vblex"/></l><r>גמגם<s n="vblex"/></r></p></e>
+       <e><p><l>giref<s n="vblex"/></l><r>גרד<s n="vblex"/></r></p></e>
+       <e><p><l>ħebel<s n="vblex"/></l><r>השתולל<s n="vblex"/></r></p></e>
+       <e><p><l>ċaflas<s n="vblex"/></l><r>השפריץ<s n="vblex"/></r></p></e>
+       <e c="  0"><p><l>qaħqaħ<s n="vblex"/></l><r>קצץ<s n="vblex"/></r></p></e>
+       <e slr="1"><p><l>qaħqaħ<s n="vblex"/></l><r>פרץ<s n="vblex"/></r></p></e>
+       <e><p><l>wiżen<s n="vblex"/></l><r>שקל<s n="vblex"/></r></p></e>
+       <e><p><l>bandal<s n="vblex"/></l><r>התנדנד<s n="vblex"/></r></p></e>
+       <e><p><l>għalef<s n="vblex"/></l><r>האכיל<s n="vblex"/></r></p></e>
+       <e><p><l>heres<s n="vblex"/></l><r>טחן<s n="vblex"/></r></p></e>
+       <e><p><l>hemeż<s n="vblex"/></l><r>איבטח<s n="vblex"/></r></p></e>
+       <e><p><l>fetaq<s n="vblex"/></l><r>פרם<s n="vblex"/></r></p></e>
+       <e><p><l>ġeżż<s n="vblex"/></l><r>גזז<s n="vblex"/></r></p></e>
+       <e><p><l>ġema<s n="vblex"/></l><r>ליקט<s n="vblex"/></r></p></e>
+       <e><p><l>reżaħ<s n="vblex"/></l><r>רעד<s n="vblex"/></r></p></e>
+       <e><p><l>raqq<s n="vblex"/></l><r>רזה<s n="vblex"/></r></p></e>
+       <e><p><l>ħemer<s n="vblex"/></l><r>תסס<s n="vblex"/></r></p></e>
+       <e><p><l>ħawtel<s n="vblex"/></l><r>התמיד<s n="vblex"/></r></p></e>
+       <e><p><l>maxat<s n="vblex"/></l><r>סירק<s n="vblex"/></r></p></e>
+       <e><p><l>każbar<s n="vblex"/></l><r>גדף<s n="vblex"/></r></p></e>
+       <e><p><l>għolob<s n="vblex"/></l><r>רזה<s n="vblex"/></r></p></e>
+
        <!-- Generated on: 2011-06-22 15:13 IDT -->
        <e><p><l>kiteb<s n="vblex"/></l><r>כתב<s n="vblex"/></r></p></e>
        <e><p><l>rikeb<s n="vblex"/></l><r>רכב<s n="vblex"/></r></p></e>
