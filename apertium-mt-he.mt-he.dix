@@ -1622,8 +1622,6 @@
      <e><p><l>vjolent<s n="adj"/></l><r>אלים<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>dubbjuż<s n="adj"/></l><r>מפוקפק<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
 
-     <e><p><l>ħażin<s n="adj"/></l><r>רע<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
-
      <e><p><l>etniċ<s n="adj"/></l><r>אתני<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>pposedut<s n="adj"/></l><r>שייך<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
 
@@ -1652,14 +1650,14 @@
      <e><p><l>barrani<s n="adj"/></l><r>זר<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>malti<s n="adj"/></l><r>מלטזי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>kbir<s n="adj"/></l><r>גדול<s n="adj"/></r></p></e>
-     <e><p><l>istess<s n="adj"/><s n="sp"/></l><r>אותו<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e> <!-- TODO -->
+     <e><p><l>istess<s n="adj"/></l><r>אותו<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e> <!-- TODO -->
      <e><p><l>tajjeb<s n="adj"/></l><r>טוב<s n="adj"/></r></p></e>
      <e><p><l>ġdid<s n="adj"/></l><r>חדש<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>ewropew<s n="adj"/></l><r>אירופאי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>żgħir<s n="adj"/></l><r>קטן<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>qawwi<s n="adj"/></l><r>חזק<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>nazzjonali<s n="adj"/></l><r>לאומי<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
-     <e><p><l>għoli<s n="adj"/></l><r>גבוה<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>għoli<s n="adj"/></l><r>גבוה<s n="adj"/></r></p></e>
      <e><p><l>differenti<s n="adj"/></l><r>שונה<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
      <e><p><l>magħruf<s n="adj"/></l><r>מפורסם<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>sabiħ<s n="adj"/></l><r>יפהפה<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
@@ -1696,7 +1694,7 @@
      <e><p><l>klassifikat<s n="adj"/></l><r>מסווג<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>Laburista<s n="adj"/></l><r>העבודה<s n="adj"/></r></p><par n="mf_sg_m_f_sg"/></e> <!-- TODO -->
      <e><p><l>privat<s n="adj"/></l><r>פרטי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
-     <e><p><l>nazzjonalista<s n="adj"/></l><r>לאומי<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
+     <e><p><l>nazzjonalista<s n="adj"/></l><r>לאומי<s n="adj"/></r></p><par n="mf_sg_m_f_sg"/></e>
      <e><p><l>kapaċi<s n="adj"/></l><r>מסוגל<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
      <e><p><l>serju<s n="adj"/></l><r>רציני<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>abjad<s n="adj"/></l><r>לבן<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
@@ -1722,7 +1720,6 @@
      <e><p><l>sinjur<s n="adj"/></l><r>עשיר<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>vojt<s n="adj"/></l><r>ריק<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>attakk<s n="adj"/></l><r>מותקף<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
-     <e><p><l>fqir<s n="adj"/></l><r>עני<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>pastorali<s n="adj"/></l><r>פסטורלי<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
      <e><p><l>simili<s n="adj"/></l><r>דומה<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
      <e><p><l>kmieni<s n="adj"/></l><r>מוקדם<s n="adj"/></r></p><par n="mf_sp_m_f_sg_pl"/></e>
@@ -1809,7 +1806,6 @@
      <e c="  0"><p><l>aċċettat<s n="adj"/></l><r>מקובל<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e slr="1"><p><l>aċċettat<s n="adj"/></l><r>מוסכם<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e c="  0"><p><l>adult<s n="adj"/></l><r>מבוגר<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
-     <e slr="1"><p><l>adult<s n="adj"/></l><r>בוגר<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e c="  0"><p><l>ċċelebrat<s n="adj"/></l><r>מהולל<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e slr="1"><p><l>ċċelebrat<s n="adj"/></l><r>מפורסם<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e c="  0"><p><l>solvut<s n="adj"/></l><r>פתור<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
@@ -1846,6 +1842,22 @@
      <e slr="1"><p><l>fqir<s n="adj"/></l><r>עלוב<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e c="  0"><p><l>fondat<s n="adj"/></l><r>מבוסס<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e slr="1"><p><l>fondat<s n="adj"/></l><r>מושתת<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>għani<s n="adj"/></l><r>עשיר<s n="adj"/></r></p></e>
+     <e><p><l>falz<s n="adj"/></l><r>שקרי<s n="adj"/></r></p></e>
+     <e><p><l>prominent<s n="adj"/></l><r>בולט<s n="adj"/></r></p></e>
+     <e><p><l>ħobla<s n="adj"/></l><r>הרה<s n="adj"/></r></p></e>
+     <e><p><l>ħajj<s n="adj"/></l><r>חי<s n="adj"/></r></p></e>
+     <e><p><l>qalil<s n="adj"/></l><r>סגרירי<s n="adj"/></r></p></e>
+     <e><p><l>soċjalista<s n="adj"/></l><r>סוציאליסטי<s n="adj"/></r></p></e>
+     <e><p><l>komunista<s n="adj"/></l><r>קומוניסטי<s n="adj"/></r></p></e>
+     <e><p><l>qasir<s n="adj"/></l><r>קצר<s n="adj"/></r></p></e>
+     <e><p><l>baħnan<s n="adj"/></l><r>פתי<s n="adj"/></r></p></e>
+     <e><p><l>permanent<s n="adj"/></l><r>קבוע<s n="adj"/></r></p></e>
+     <e><p><l>fqir<s n="adj"/></l><r>עני<s n="adj"/></r></p></e>
+     <e><p><l>professjonista<s n="adj"/></l><r>מקצועי<s n="adj"/></r></p></e>
+     <e><p><l>stalla<s n="adj"/></l><r>דחוי<s n="adj"/></r></p></e>
+     <e><p><l>dejjaq<s n="adj"/></l><r>צר<s n="adj"/></r></p></e>
+     <e><p><l>morali<s n="adj"/></l><r>מוסרי<s n="adj"/></r></p>adj</e><!-- TODO -->
 
      <!-- These were automatically guessed to be mf_pl_m_f_pl. Pretty good guess I think but testing is needed -->
      <e><p><l>uniti<s n="adj"/></l><r>מאוחד<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
@@ -1854,7 +1866,6 @@
      <e><p><l>sportiv<s n="adj"/></l><r>ספורטיבי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>ippubblikat<s n="adj"/></l><r>מפורסם<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>organizzat<s n="adj"/></l><r>מאורגן<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
-     <e><p><l>falz<s n="adj"/></l><r>שקרי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>negattiv<s n="adj"/></l><r>שלילי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>elett<s n="adj"/></l><r>נבחר<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>użat<s n="adj"/></l><r>משומש<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
@@ -1888,7 +1899,6 @@
      <e><p><l>religjuz<s n="adj"/></l><r>דתי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>assolut<s n="adj"/></l><r>מוחלט<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>aħdar<s n="adj"/></l><r>ירוק<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
-     <e><p><l>permanent<s n="adj"/></l><r>קבוע<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>ppubblikat<s n="adj"/></l><r>מפורסם<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>limitat<s n="adj"/></l><r>מוגבל<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>elettriku<s n="adj"/></l><r>חשמלי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
@@ -1941,7 +1951,6 @@
      <e><p><l>wżat<s n="adj"/></l><r>משומש<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>offrut<s n="adj"/></l><r>מוצע<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>moderat<s n="adj"/></l><r>בינוני<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
-     <e><p><l>dejjaq<s n="adj"/></l><r>צר<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>progressiv<s n="adj"/></l><r>מתקדם<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>sħun<s n="adj"/></l><r>חם<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>tradott<s n="adj"/></l><r>מתורגם<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
@@ -1961,7 +1970,6 @@
      <e><p><l>rifless<s n="adj"/></l><r>משתקף<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>qarrieq<s n="adj"/></l><r>מטעה<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>ristrett<s n="adj"/></l><r>מוגבל<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
-     <e><p><l>prominent<s n="adj"/></l><r>בולט<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>ppreżentat<s n="adj"/></l><r>מוצג<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>rappreżentat<s n="adj"/></l><r>מייוצג<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>mudlam<s n="adj"/></l><r>חשוך<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
@@ -2022,7 +2030,6 @@
      <e><p><l>morr<s n="adj"/></l><r>מר<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>konsekuttiv<s n="adj"/></l><r>רצוף<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>nominat<s n="adj"/></l><r>מיועד<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
-     <e><p><l>komunista<s n="adj"/></l><r>קומוניסטי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>intenzjonat<s n="adj"/></l><r>מכוון<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>kkonsagrat<s n="adj"/></l><r>מקודש<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>dumnikan<s n="adj"/></l><r>דומיניקני<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
@@ -2036,12 +2043,10 @@
      <e><p><l>indirett<s n="adj"/></l><r>עקיף<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>preparat<s n="adj"/></l><r>מוכן<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>riprodott<s n="adj"/></l><r>משוכפל<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
-     <e><p><l>qasir<s n="adj"/></l><r>קצר<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>onorat<s n="adj"/></l><r>מכובד<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>mistiku<s n="adj"/></l><r>מיסטי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>ikkawżat<s n="adj"/></l><r>נגרם<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>iffurmat<s n="adj"/></l><r>נוצר<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
-     <e><p><l>qalil<s n="adj"/></l><r>סגרירי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>atletiku<s n="adj"/></l><r>אתלטי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>kliniku<s n="adj"/></l><r>קליני<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>suspettat<s n="adj"/></l><r>חשוד<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
@@ -2071,7 +2076,6 @@
      <e><p><l>simpatiku<s n="adj"/></l><r>אוהד<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>arkitettoniku<s n="adj"/></l><r>ארכיטקטי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>organiku<s n="adj"/></l><r>אורגני<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
-     <e><p><l>soċjalista<s n="adj"/></l><r>סוציאליסטי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>produttiv<s n="adj"/></l><r>יעיל<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>primittiv<s n="adj"/></l><r>פרימיטיבי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>ippjanat<s n="adj"/></l><r>מתוכנן<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
@@ -2099,7 +2103,6 @@
      <e><p><l>teknoloġiku<s n="adj"/></l><r>טכנולוגי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>irrekordjat<s n="adj"/></l><r>מוקלט<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>edukat<s n="adj"/></l><r>מנומס<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
-     <e><p><l>baħnan<s n="adj"/></l><r>פתי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>franċiż<s n="adj"/></l><r>צרפתי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>bilanċjat<s n="adj"/></l><r>מאוזן<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>pubblikat<s n="adj"/></l><r>מפורסם<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
@@ -2127,7 +2130,6 @@
      <e><p><l>ċiprijott<s n="adj"/></l><r>קפריסאי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>massiv<s n="adj"/></l><r>מסיבי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>kulurit<s n="adj"/></l><r>צבוע<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
-     <e><p><l>ħajj<s n="adj"/></l><r>חי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>islamiku<s n="adj"/></l><r>איסלאמי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>ekklesjastiku<s n="adj"/></l><r>כנסייתי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>benedittin<s n="adj"/></l><r>בנדיקטי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
@@ -2235,7 +2237,6 @@
      <e><p><l>sinjifikattiv<s n="adj"/></l><r>משמעותי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>ritmiku<s n="adj"/></l><r>קצבי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>rilaxxat<s n="adj"/></l><r>משוחרר<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
-     <e><p><l>professjonista<s n="adj"/></l><r>מקצועי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>mitoloġiku<s n="adj"/></l><r>מיתולוגי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>materjalistiku<s n="adj"/></l><r>חומרני<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>kronoloġiku<s n="adj"/></l><r>כרונולוגי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
@@ -2246,7 +2247,6 @@
      <e><p><l>ddeterminat<s n="adj"/></l><r>נחוש<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>baltiku<s n="adj"/></l><r>בלטי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>vulkaniku<s n="adj"/></l><r>וולקני<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
-     <e><p><l>stalla<s n="adj"/></l><r>דחוי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>norvegiz<s n="adj"/></l><r>נורבגי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>eminent<s n="adj"/></l><r>דגול<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>asjatiku<s n="adj"/></l><r>אסיאתי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
@@ -2330,7 +2330,6 @@
      <e><p><l>dijabetiku<s n="adj"/></l><r>סוכרתי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>anakronistiku<s n="adj"/></l><r>אנכרוניסטי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>attivat<s n="adj"/></l><r>מופעל<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
-     <e><p><l>ħobla<s n="adj"/></l><r>הרה<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
 
      <!-- SECTION: Adverbs -->
 
