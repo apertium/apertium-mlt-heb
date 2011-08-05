@@ -55,7 +55,7 @@ def format_entry(FORMAT, stem, form, pos, feat, restriction = None):
         tags = ''.join(['<s n="%s"/>' % tag
                 for tag in [pos] + feat.split('.')])
         tags = tags.replace('<s n="+neg"/>', '<j/>x<s n="neg"/>'); # TODO: what should the negative lemma be?
-        tags = tags.replace('<s n="+probj"/>', '<j/>prpers<s n="prn"/><s n="obj"/>')
+        tags = tags.replace('<s n="+probj"/>', '<j/>u<s n="prn"/>')
 
         res = "    <e" + (' r="%s"' % restriction if restriction else '') + ">"
         res+= "<p><l>" + ("<a/>" if restriction == 'RL' else '')
