@@ -26,7 +26,7 @@ def add_probjs(feats, form, short_form=None):
 		feats + '.+probj.p2.mf.sg' : None if '.p2.' in feats else probj_p2_sg(short_form),
 		feats + '.+probj.p3.f.sg' : probj_p3_f_sg(form),
 		feats + '.+probj.p3.m.sg' : probj_p3_m_sg(short_form),
-		feats + '.+probj.p3.pl' : probj_p3_pl(form),
+		feats + '.+probj.p3.mf.pl' : probj_p3_pl(form),
 		}
 		
 def past_p1_sg(stem, root, vowels):
