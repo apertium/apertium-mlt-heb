@@ -81,6 +81,11 @@
         <e r="RL"><p><l><s n="mf"/><s n="sg"/></l><r><s n="f"/><s n="sg"/></r></p></e>
      </pardef>
 
+     <pardef n="gd_m_f">
+        <e r="LR"><p><l><s n="GD"/></l><r><s n="m"/></r></p></e>
+        <e r="LR"><p><l><s n="GD"/></l><r><s n="f"/></r></p></e>
+     </pardef>
+
    </pardefs>
 
    <section id="main" type="standard">
@@ -1033,6 +1038,125 @@
      <e><p><l>il-Hamis<s n="n"/><s n="m"/></l><r>יום<b/>חמישי<s n="n"/><s n="m"/></r></p></e>
      <e><p><l>il-ġimgħa<s n="n"/><s n="m"/></l><r>יום<b/>שישי<s n="n"/><s n="m"/></r></p></e>
      <e><p><l>Sibt<s n="n"/><s n="m"/></l><r>יום<b/>שבת<s n="n"/><s n="m"/></r></p></e>
+
+     <e><p><l>ġranet<s n="n"/><s n="GD"/></l><r>יום<s n="n"/><s n="m"/></r></p></e><!-- TODO -->
+     <e c="  0"><p><l>tobba<s n="n"/><s n="GD"/></l><r>רופא<s n="n"/><s n="m"/></r></p></e>
+     <e slr="1"><p><l>tobba<s n="n"/><s n="GD"/></l><r>רופא<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>ġurdien<s n="n"/><s n="GD"/></l><r>עכבר<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>ċrieki<s n="n"/><s n="GD"/></l><r>טבעת<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>mewt<s n="n"/><s n="GD"/></l><r>מוות<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>baħar<s n="n"/><s n="GD"/></l><r>ים<s n="n"/><s n="m"/></r></p></e>
+     <e c="  0"><p><l>tip<s n="n"/><s n="GD"/></l><r>טיפוס<s n="n"/><s n="m"/></r></p></e>
+     <e slr="1"><p><l>tip<s n="n"/><s n="GD"/></l><r>סוג<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>accident<s n="n"/><s n="GD"/></l><r>תאונה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>moħħ<s n="n"/><s n="GD"/></l><r>מוח<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>ħanut<s n="n"/><s n="GD"/></l><r>חנות<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>nazzjonalist<s n="n"/><s n="GD"/></l><r>לאומני<s n="n"/><s n="m"/></r></p></e>
+     <e c="  0"><p><l>ħajt<s n="n"/><s n="GD"/></l><r>חומה<s n="n"/><s n="f"/></r></p></e>
+     <e slr="1"><p><l>ħajt<s n="n"/><s n="GD"/></l><r>קיר<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>tribù<s n="n"/><s n="GD"/></l><r>שבט<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>xatt<s n="n"/><s n="GD"/></l><r>חוף<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>ħafif<s n="n"/><s n="GD"/></l><r>אור<s n="n"/><s n="m"/></r></p></e>
+     <e c="  0"><p><l>ħafif<s n="n"/><s n="GD"/></l><r>דשא<s n="n"/><s n="m"/></r></p></e>
+     <e slr="1"><p><l>ħafif<s n="n"/><s n="GD"/></l><r>עשב<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>editorjal<s n="n"/><s n="GD"/></l><r>טור<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>bitħa<s n="n"/><s n="GD"/></l><r>מגרש<b/>משחקים<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>riħa<s n="n"/><s n="GD"/></l><r>ריח<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>ħoss<s n="n"/><s n="GD"/></l><r>צליל<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>bejt<s n="n"/><s n="GD"/></l><r>גג<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>qamħ<s n="n"/><s n="GD"/></l><r>קמח<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>duħħan<s n="n"/><s n="GD"/></l><r>עשן<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>ħalq<s n="n"/><s n="GD"/></l><r>פה<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>ħofra<s n="n"/><s n="GD"/></l><r>חור<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>tibna<s n="n"/><s n="GD"/></l><r>קשית<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>bozza<s n="n"/><s n="GD"/></l><r>נורה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>ħabel<s n="n"/><s n="GD"/></l><r>חבל<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>tellieqa<s n="n"/><s n="GD"/></l><r>מירוץ<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>miskin<s n="n"/><s n="GD"/></l><r>מושק<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>misraħ<s n="n"/><s n="GD"/></l><r>כיכר<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>qaħba<s n="n"/><s n="GD"/></l><r>זונה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>qawl<s n="n"/><s n="GD"/></l><r>פתגם<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>senter<s n="n"/><s n="GD"/></l><r>רובה<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>tajra<s n="n"/><s n="GD"/></l><r>ציפור<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>għama<s n="n"/><s n="GD"/></l><r>עיוורון<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>forn<s n="n"/><s n="GD"/></l><r>תנור<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>fwieħa<s n="n"/><s n="GD"/></l><r>בושם<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>melħ<s n="n"/><s n="GD"/></l><r>מלח<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>razzett<s n="n"/><s n="GD"/></l><r>חווה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>polza<s n="n"/><s n="GD"/></l><r>שטר<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>polza<s n="n"/><s n="GD"/></l><r>הצעת<b/>חוק<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>tavla<s n="n"/><s n="GD"/></l><r>לוח<s n="n"/><s n="m"/></r></p></e>
+     <e c="  0"><p><l>ħrafa<s n="n"/><s n="GD"/></l><r>מיתוס<s n="n"/><s n="m"/></r></p></e>
+     <e slr="1"><p><l>ħrafa<s n="n"/><s n="GD"/></l><r>סיפור<s n="n"/><s n="m"/></r></p></e>
+     <e slr="2"><p><l>ħrafa<s n="n"/><s n="GD"/></l><r>אגדה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>soċjalist<s n="n"/><s n="GD"/></l><r>סוציאליסט<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>tarġa<s n="n"/><s n="GD"/></l><r>צעד<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>denfil<s n="n"/><s n="GD"/></l><r>דולפין<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>ħabba<s n="n"/><s n="GD"/></l><r>גרגר<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>gozz<s n="n"/><s n="GD"/></l><r>ערימה<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>ħolqa<s n="n"/><s n="GD"/></l><r>קישור<s n="n"/><s n="m"/></r></p></e>
+     <e c="  0"><p><l>saħħar<s n="n"/><s n="GD"/></l><r>מכשף<s n="n"/><s n="m"/></r></p></e>
+     <e slr="1"><p><l>saħħar<s n="n"/><s n="GD"/></l><r>קוסם<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>qoffa<s n="n"/><s n="GD"/></l><r>סל<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>bieqja<s n="n"/><s n="GD"/></l><r>קערה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>tanbur<s n="n"/><s n="GD"/></l><r>תוף<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>fossa<s n="n"/><s n="GD"/></l><r>בור<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>ikħal<s n="n"/><s n="GD"/></l><r>כחול<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>musbieħ<s n="n"/><s n="GD"/></l><r>מנורה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>qasrija<s n="n"/><s n="GD"/></l><r>סיר<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>xriek<s n="n"/><s n="GD"/></l><r>גילדה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>morsa<s n="n"/><s n="GD"/></l><r>מהדק<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>sunnara<s n="n"/><s n="GD"/></l><r>וו<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>kanna<s n="n"/><s n="GD"/></l><r>קנה<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>xedaq<s n="n"/><s n="GD"/></l><r>לסת<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>għoxx<s n="n"/><s n="GD"/></l><r>כוס<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>xatba<s n="n"/><s n="GD"/></l><r>שער<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>tomna<s n="n"/><s n="GD"/></l><r>אקר<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>perpura<s n="n"/><s n="GD"/></l><r>כנף<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>sorra<s n="n"/><s n="GD"/></l><r>צרור<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>moffa<s n="n"/><s n="GD"/></l><r>עובש<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>kantun<s n="n"/><s n="GD"/></l><r>מחוז<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>darsa<s n="n"/><s n="GD"/></l><r>שן<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>senduq<s n="n"/><s n="GD"/></l><r>מטען<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>moħriet<s n="n"/><s n="GD"/></l><r>מחרשה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>gelgul<s n="n"/><s n="GD"/></l><r>אשד<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>raddiena<s n="n"/><s n="GD"/></l><r>טחנת<b/>רוח<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>muftieħ<s n="n"/><s n="GD"/></l><r>מפתח<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>ismar<s n="n"/><s n="GD"/></l><r>חום<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>dabra<s n="n"/><s n="GD"/></l><r>טלאי<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>qartas<s n="n"/><s n="GD"/></l><r>שקיק<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>tertuqa<s n="n"/><s n="GD"/></l><r>סרט<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>serbut<s n="n"/><s n="GD"/></l><r>מערך<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>newl<s n="n"/><s n="GD"/></l><r>נול<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>bilbla<s n="n"/><s n="GD"/></l><r>עפרוני<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>ħanek<s n="n"/><s n="GD"/></l><r>חניכיים<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>skrun<s n="n"/><s n="GD"/></l><r>מדחף<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>ntiena<s n="n"/><s n="GD"/></l><r>צחנה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>fartas<s n="n"/><s n="GD"/></l><r>קירח<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>qartalla<s n="n"/><s n="GD"/></l><r>סל<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>grossa<s n="n"/><s n="GD"/></l><r>ברוטו<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>maqrut<s n="n"/><s n="GD"/></l><r>יהלום<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>kappun<s n="n"/><s n="GD"/></l><r>ברדס<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>ħarpun<s n="n"/><s n="GD"/></l><r>צלצל<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>kurpett<s n="n"/><s n="GD"/></l><r>מחוך<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>inforra<s n="n"/><s n="GD"/></l><r>בטנה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>troffa<s n="n"/><s n="GD"/></l><r>ציצית<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>russett<s n="n"/><s n="GD"/></l><r>אנפה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>rukkell<s n="n"/><s n="GD"/></l><r>סליל<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>skarpell<s n="n"/><s n="GD"/></l><r>אזמל<s n="n"/><s n="m"/></r></p></e>
+
+     <e><p><l>ikrah<s n="n"/><s n="GD"/></l><r>מכוער<s n="n"/><s n="m"/></r></p></e> <!-- TODO GD -->
+     <e><p><l>sieħeb<s n="n"/><s n="GD"/></l><r>שותף<s n="n"/><s n="m"/></r></p></e> <!-- TODO GD -->
+     <e><p><l>qarib<s n="n"/><s n="GD"/></l><r>קרוב<s n="n"/><s n="m"/></r></p></e> <!-- TODO GD -->
+     <e><p><l>marid<s n="n"/><s n="GD"/></l><r>חולה<s n="n"/><s n="m"/></r></p></e> <!-- TODO GD -->
+     <e><p><l>tork<s n="n"/><s n="GD"/></l><r>טורקי<s n="n"/><s n="m"/></r></p></e> <!-- TODO GD -->
+     <e><p><l>għaref<s n="n"/><s n="GD"/></l><r>חכם<s n="n"/><s n="m"/></r></p></e> <!-- TODO GD -->
+     <e><p><l>ħmar<s n="n"/><s n="GD"/></l><r>חמור<s n="n"/><s n="m"/></r></p></e> <!-- TODO GD -->
+     <e><p><l>ħaruf<s n="n"/><s n="GD"/></l><r>טלה<s n="n"/><s n="m"/></r></p></e> <!-- TODO GD -->
+     <e><p><l>lsir<s n="n"/><s n="GD"/></l><r>עבד<s n="n"/><s n="m"/></r></p></e> <!-- TODO GD -->
+     <e><p><l>attivist<s n="n"/><s n="GD"/></l><r>אקטיביסט<s n="n"/><s n="m"/></r></p></e> <!-- TODO GD -->
+     <e><p><l>trux<s n="n"/><s n="GD"/></l><r>חירש<s n="n"/><s n="m"/></r></p></e> <!-- TODO GD -->
+     <e><p><l>ltim<s n="n"/><s n="GD"/></l><r>יתום<s n="n"/><s n="m"/></r></p></e> <!-- TODO GD -->
 
      <!-- SECTION: Proper nouns -->
 
