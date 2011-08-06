@@ -707,6 +707,7 @@
      <e><p><l>obbligu<s n="n"/><s n="m"/></l><r>התחייבות<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>traduttur<s n="n"/><s n="m"/></l><r>מתרגם<s n="n"/><s n="m"/></r></p></e>
      <e><p><l>ġermaniż<s n="n"/><s n="m"/></l><r>גרמני<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>taljan<s n="n"/><s n="m"/></l><r>איטלקי<s n="n"/><s n="m"/></r></p></e>
      <e><p><l>bastiment<s n="n"/><s n="m"/></l><r>כלי<b/>שיט<s n="n"/><s n="m"/></r></p></e>
      <e><p><l>kardinal<s n="n"/><s n="m"/></l><r>קרדינל<s n="n"/><s n="m"/></r></p></e>
      <e><p><l>bir<s n="n"/><s n="m"/></l><r>באר<s n="n"/><s n="f"/></r></p></e>
@@ -930,6 +931,17 @@
      <e><p><l>ottobru<s n="n"/><s n="m"/></l><r>אוקטובר<s n="n"/><s n="m"/></r></p></e>
      <e><p><l>novembru<s n="n"/><s n="m"/></l><r>נובמבר<s n="n"/><s n="m"/></r></p></e>
      <e><p><l>diċembru<s n="n"/><s n="m"/></l><r>דצמבר<s n="n"/><s n="m"/></r></p></e>
+
+     <e><p><l>nies<s n="n"/><s n="mf"/></l><r>אנשים<s n="n"/><s n="mf"/></r></p></e>
+     <e><p><l>flus<s n="n"/><s n="mf"/></l><r>כסף<s n="n"/><s n="m"/></r></p></e>
+     <e c="  0"><p><l>sid<s n="n"/><s n="mf"/></l><r>אדון<s n="n"/><s n="m"/></r></p></e>
+     <e slr="1"><p><l>sid<s n="n"/><s n="mf"/></l><r>גברת<s n="n"/><s n="f"/></r></p></e>
+     <e slr="2"><p><l>sid<s n="n"/><s n="mf"/></l><r>מאסטר<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>kaptan<s n="n"/><s n="mf"/></l><r>קפטן<s n="n"/><s n="mf"/></r></p></e>
+     <e><p><l>pjaneta<s n="n"/><s n="mf"/></l><r>כוכב<b/>לכת<s n="n"/><s n="m"/></r></p></e>
+     <e c="  0"><p><l>ispettur<s n="n"/><s n="mf"/></l><r>מפקח<s n="n"/><s n="m"/></r></p></e>
+     <e slr="1"><p><l>ispettur<s n="n"/><s n="mf"/></l><r>מפקחת<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>droga<s n="n"/><s n="mf"/></l><r>סם<s n="n"/><s n="m"/></r></p></e>
 
      <!-- SECTION: Proper nouns -->
 
