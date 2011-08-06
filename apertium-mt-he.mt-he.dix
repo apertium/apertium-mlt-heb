@@ -928,7 +928,7 @@
      <e><p><l>lulju<s n="n"/><s n="m"/></l><r>יולי<s n="n"/><s n="m"/></r></p></e>
      <e><p><l>awwissu<s n="n"/><s n="m"/></l><r>אוגוסט<s n="n"/><s n="m"/></r></p></e>
      <e><p><l>settembru<s n="n"/><s n="m"/></l><r>ספטמבר<s n="n"/><s n="m"/></r></p></e>
-     <e><p><l>ottobru<s n="n"/><s n="m"/></l><r>אוקטובר<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>ottubru<s n="n"/><s n="m"/></l><r>אוקטובר<s n="n"/><s n="m"/></r></p></e>
      <e><p><l>novembru<s n="n"/><s n="m"/></l><r>נובמבר<s n="n"/><s n="m"/></r></p></e>
      <e><p><l>diċembru<s n="n"/><s n="m"/></l><r>דצמבר<s n="n"/><s n="m"/></r></p></e>
 
@@ -985,6 +985,53 @@
      <e><p><l>ġenitali<s n="n"/><s n="m"/></l><r>איבר<b/>רבייה<s n="n"/><s n="m"/></r></p></e>
      <e c="  0"><p><l>difer<s n="n"/><s n="m"/></l><r>ציפורן<s n="n"/><s n="m"/></r></p></e>
      <e slr="1"><p><l>difer<s n="n"/><s n="m"/></l><r>טופר<s n="n"/><s n="m"/></r></p></e>
+     <e c="  0"><p><l>ħsieb<s n="n"/><s n="m"/></l><r>מחשבה<s n="n"/><s n="f"/></r></p></e>
+     <e slr="1"><p><l>ħsieb<s n="n"/><s n="m"/></l><r>רעיון<s n="n"/><s n="m"/></r></p></e>
+     <e slr="2"><p><l>ħsieb<s n="n"/><s n="m"/></l><r>תודעה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>hin<s n="n"/><s n="m"/></l><r>זמן<s n="n"/><s n="m"/></r></p></e>
+     <e c="  0"><p><l>kaz<s n="n"/><s n="m"/></l><r>תיק<s n="n"/><s n="m"/></r></p></e>
+     <e slr="1"><p><l>kaz<s n="n"/><s n="m"/></l><r>מזוודה<s n="n"/><s n="f"/></r></p></e>
+     <e slr="2"><p><l>kaz<s n="n"/><s n="m"/></l><r>מקרה<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>sur<s n="n"/><s n="m"/></l><r>מבצר<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>daqq<s n="n"/><s n="m"/></l><r>שעתוק<s n="n"/><s n="m"/></r></p></e><!-- TODO -->
+     <e c="  0"><p><l>ufficjal<s n="n"/><s n="m"/></l><r>קצין<s n="n"/><s n="m"/></r></p></e>
+     <e slr="1"><p><l>ufficjal<s n="n"/><s n="m"/></l><r>שוטר<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>patri<s n="n"/><s n="m"/></l><r>נזיר<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>re<s n="n"/><s n="m"/></l><r>מלך<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>par<s n="n"/><s n="m"/></l><r>זוג<s n="n"/><s n="m"/></r></p></e>
+     <e c="  0"><p><l>vers<s n="n"/><s n="m"/></l><r>פסוק<s n="n"/><s n="m"/></r></p></e>
+     <e slr="1"><p><l>vers<s n="n"/><s n="m"/></l><r>שירה<s n="n"/><s n="f"/></r></p></e>
+     <e slr="2"><p><l>vers<s n="n"/><s n="m"/></l><r>בית<s n="n"/><s n="m"/></r></p></e>
+     <e c="  0"><p><l>zopp<s n="n"/><s n="m"/></l><r>נכה<s n="n"/><s n="m"/></r></p></e>
+     <e slr="1"><p><l>zopp<s n="n"/><s n="m"/></l><r>עלוב<s n="n"/><s n="m"/></r></p></e>
+     <e slr="2"><p><l>zopp<s n="n"/><s n="m"/></l><r>זין<s n="n"/><s n="m"/></r></p></e>
+     <e c="  0"><p><l>kuncett<s n="n"/><s n="m"/></l><r>קונספט<s n="n"/><s n="m"/></r></p></e>
+     <e slr="1"><p><l>kuncett<s n="n"/><s n="m"/></l><r>רעיון<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>partner<s n="n"/><s n="m"/></l><r>שותף<s n="n"/><s n="m"/></r></p></e>
+     <e c="  0"><p><l>riefnu<s n="n"/><s n="m"/></l><r>מערבולת<s n="n"/><s n="f"/></r></p></e>
+     <e slr="1"><p><l>riefnu<s n="n"/><s n="m"/></l><r>הוריקן<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>komponent<s n="n"/><s n="m"/></l><r>רכיב<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>mus<s n="n"/><s n="m"/></l><r>אולר<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>armel<s n="n"/><s n="m"/></l><r>אלמן<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>povru<s n="n"/><s n="m"/></l><r>עני<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>burdell<s n="n"/><s n="m"/></l><r>בית<b/>בושת<s n="n"/><s n="m"/></r></p></e>
+     <e c="  0"><p><l>bust<s n="n"/><s n="m"/></l><r>חזה<s n="n"/><s n="m"/></r></p></e>
+     <e slr="1"><p><l>bust<s n="n"/><s n="m"/></l><r>פסל<s n="n"/><s n="m"/></r></p></e>
+     <e slr="2"><p><l>bust<s n="n"/><s n="m"/></l><r>פיצוץ<s n="n"/><s n="m"/></r></p></e>
+     <e c="  0"><p><l>sorm<s n="n"/><s n="m"/></l><r>ישבן<s n="n"/><s n="m"/></r></p></e>
+     <e slr="1"><p><l>sorm<s n="n"/><s n="m"/></l><r>תחת<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>semifinalist<s n="n"/><s n="m"/></l><r>שחקן<b/>בחצי<b/>גמר<s n="n"/><s n="m"/></r></p></e><!-- TODO -->
+     <e><p><l>moqdief<s n="n"/><s n="m"/></l><r>משוט<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>qallut<s n="n"/><s n="m"/></l><r>גלל<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>ateiżmu<s n="n"/><s n="m"/></l><r>אתאיזם<s n="n"/><s n="m"/></r></p></e>
+
+     <e><p><l>il-Ħadd<s n="n"/><s n="m"/></l><r>יום<b/>ראשון<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>it-Tnejn<s n="n"/><s n="m"/></l><r>יום<b/>שני<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>it-Tlieta<s n="n"/><s n="m"/></l><r>יום<b/>שלישי<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>i-Erbgħa<s n="n"/><s n="m"/></l><r>יום<b/>רביעי<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>il-Hamis<s n="n"/><s n="m"/></l><r>יום<b/>חמישי<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>il-ġimgħa<s n="n"/><s n="m"/></l><r>יום<b/>שישי<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>Sibt<s n="n"/><s n="m"/></l><r>יום<b/>שבת<s n="n"/><s n="m"/></r></p></e>
 
      <!-- SECTION: Proper nouns -->
 
@@ -2304,6 +2351,7 @@
      <e><p><l>vulkaniku<s n="adj"/></l><r>וולקני<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>norvegiz<s n="adj"/></l><r>נורבגי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>eminent<s n="adj"/></l><r>דגול<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
+     <e><p><l>klandestin<s n="adj"/></l><r>חשאי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>asjatiku<s n="adj"/></l><r>אסיאתי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>artiku<s n="adj"/></l><r>ארקטי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
      <e><p><l>armonjuż<s n="adj"/></l><r>הרמוני<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
