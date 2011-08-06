@@ -1158,6 +1158,44 @@
      <e><p><l>trux<s n="n"/><s n="GD"/></l><r>חירש<s n="n"/><s n="m"/></r></p></e> <!-- TODO GD -->
      <e><p><l>ltim<s n="n"/><s n="GD"/></l><r>יתום<s n="n"/><s n="m"/></r></p></e> <!-- TODO GD -->
 
+     <e><p><l>pulizija<s n="n"/><s n="f"/></l><r>משטרה<s n="n"/><s n="f"/></r></p></e>
+     <e c="  0"><p><l>għajnuna<s n="n"/><s n="f"/></l><r>עזרה<s n="n"/><s n="f"/></r></p></e>
+     <e slr="1"><p><l>għajnuna<s n="n"/><s n="f"/></l><r>תמיכה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>siegħa<s n="n"/><s n="f"/></l><r>שעה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>paġna<s n="n"/><s n="f"/></l><r>עמוד<s n="n"/><s n="m"/></r></p></e>עמוד
+     <e><p><l>lejla<s n="n"/><s n="f"/></l><r>לילה<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>enerġija<s n="n"/><s n="f"/></l><r>אנרגיה<s n="n"/><s n="f"/></r></p></e>
+     <e c="  0"><p><l>fehma<s n="n"/><s n="f"/></l><r>נוף<s n="n"/><s n="m"/></r></p></e>
+     <e slr="1"><p><l>fehma<s n="n"/><s n="f"/></l><r>דעה<s n="n"/><s n="f"/></r></p></e>
+     <e slr="2"><p><l>fehma<s n="n"/><s n="f"/></l><r>עמדה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>tifla<s n="n"/><s n="f"/></l><r>ילדה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>filosofija<s n="n"/><s n="f"/></l><r>פילוסופיה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>akkademja<s n="n"/><s n="f"/></l><r>אקדמיה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>fidda<s n="n"/><s n="f"/></l><r>כסף<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>rebbiegħa<s n="n"/><s n="f"/></l><r>אביב<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>ġebla<s n="n"/><s n="f"/></l><r>אבן<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>muntanja<s n="n"/><s n="f"/></l><r>הר<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>xmara<s n="n"/><s n="f"/></l><r>נחל<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>librerija<s n="n"/><s n="f"/></l><r>ספריה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>sbuħija<s n="n"/><s n="f"/></l><r>יופי<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>Ċeka<s n="n"/><s n="f"/></l><r>צ'כית<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>ħuta<s n="n"/><s n="f"/></l><r>דג<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>żaqq<s n="n"/><s n="f"/></l><r>בטן<s n="n"/><s n="f"/></r></p></e>
+     <e c="  0"><p><l>borża<s n="n"/><s n="f"/></l><r>שקית<s n="n"/><s n="f"/></r></p></e>
+     <e slr="1"><p><l>borża<s n="n"/><s n="f"/></l><r>בורסה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>oħt<s n="n"/><s n="f"/></l><r>אחות<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>widna<s n="n"/><s n="f"/></l><r>אוזן<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>psikoloġija<s n="n"/><s n="f"/></l><r>פסיכולוגיה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>ċifra<s n="n"/><s n="f"/></l><r>ספרה<s n="n"/><s n="f"/></r></p></e><!-- TODO -->
+     <e><p><l>għadma<s n="n"/><s n="f"/></l><r>עצם<s n="n"/><s n="f"/></r></p></e>
+     <e c="  0"><p><l>ħarifa<s n="n"/><s n="f"/></l><r>חורף<s n="n"/><s n="m"/></r></p></e>
+     <e slr="1"><p><l>ħarifa<s n="n"/><s n="f"/></l><r>סתיו<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>balluta<s n="n"/><s n="f"/></l><r>אלון<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>astroloġija<s n="n"/><s n="f"/></l><r>אסטרולוגיה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>ġeografija<s n="n"/><s n="f"/></l><r>גיאוגרפיה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>ringiela<s n="n"/><s n="f"/></l><r>שורה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>papra<s n="n"/><s n="f"/></l><r>ברווז<s n="n"/><s n="m"/></r></p></e>
+
      <!-- SECTION: Proper nouns -->
 
      <e><p><l>Ċina<s n="np"/><s n="top"/><s n="f"/></l><r>סין<s n="np"/><s n="top"/><s n="f"/></r></p></e>
