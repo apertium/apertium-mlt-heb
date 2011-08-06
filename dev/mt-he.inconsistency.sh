@@ -26,8 +26,8 @@ lt-expand $ANADIX |\
         lt-proc -d $GENBIN  >     $TMP/${PREFIX}_testvoc3
 
 # Output:
-paste -d _ $TMP/${PREFIX}_testvoc1 $TMP/${PREFIX}_testvoc2 $TMP/${PREFIX}_testvoc3 |\
-        sed 's/\^.<sent>\$//g' | sed 's/_/   --------->  /g' | sed 's/\\//g' | sed 's/ \.$//'
+paste $TMP/${PREFIX}_testvoc1 $TMP/${PREFIX}_testvoc2 $TMP/${PREFIX}_testvoc3 |\
+        sed 's/\^.<sent>\$//g' | sed 's/\t/   --------->  /g' | sed 's/\\//g' | sed 's/ \.$//'
 
 # Remove temp files:
-rm -f $TMP/${PREFIX}_testvoc1 $TMP/${PREFIX}_testvoc2 $TMP/${PREFIX}_testvoc3
+#rm -f $TMP/${PREFIX}_testvoc1 $TMP/${PREFIX}_testvoc2 $TMP/${PREFIX}_testvoc3
