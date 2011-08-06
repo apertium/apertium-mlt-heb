@@ -942,6 +942,49 @@
      <e c="  0"><p><l>ispettur<s n="n"/><s n="mf"/></l><r>מפקח<s n="n"/><s n="m"/></r></p></e>
      <e slr="1"><p><l>ispettur<s n="n"/><s n="mf"/></l><r>מפקחת<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>droga<s n="n"/><s n="mf"/></l><r>סם<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>bżonn<s n="n"/><s n="m"/></l><r>צורך<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>bieb<s n="n"/><s n="m"/></l><r>דלת<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>raħal<s n="n"/><s n="m"/></l><r>כפר<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>wiċċ<s n="n"/><s n="m"/></l><r>פנים<s n="n"/><s n="f"/></r></p></e><!-- TODO pl -->
+     <e><p><l>milied<s n="n"/><s n="m"/></l><r>חג<b/>מולד<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>għerf<s n="n"/><s n="m"/></l><r>חכמה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>frott<s n="n"/><s n="m"/></l><r>פרי<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>iben<s n="n"/><s n="m"/></l><r>בן<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>divorzju<s n="n"/><s n="m"/></l><r>גירושין<s n="n"/><s n="m"/></r></p></e><!-- TODO pl -->
+     <e><p><l>lvant<s n="n"/><s n="m"/></l><r>מזרח<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>anġlu<s n="n"/><s n="m"/></l><r>מלאך<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>punent<s n="n"/><s n="m"/></l><r>מערב<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>sptar<s n="n"/><s n="m"/></l><r>בית<b/>חולים<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>ħadid<s n="n"/><s n="m"/></l><r>ברזל<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>grieg<s n="n"/><s n="m"/></l><r>יווני<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>ħġieġ<s n="n"/><s n="m"/></l><r>זכוכית<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>disinn<s n="n"/><s n="m"/></l><r>עיצוב<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>ħalib<s n="n"/><s n="m"/></l><r>חלב<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>lsien<s n="n"/><s n="m"/></l><r>שפה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>ilbies<s n="n"/><s n="m"/></l><r>לבוש<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>żebbuġa<s n="n"/><s n="m"/></l><r>זית<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>griż<s n="n"/><s n="m"/></l><r>אפור<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>abitat<s n="n"/><s n="m"/></l><r>בית<b/>גידול<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>zokkor<s n="n"/><s n="m"/></l><r>סוכר<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>ċomb<s n="n"/><s n="m"/></l><r>עופרת<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>oċean<s n="n"/><s n="m"/></l><r>אוקיינוס<s n="n"/><s n="m"/></r></p></e>
+     <e c="  0"><p><l>indiċi<s n="n"/><s n="m"/></l><r>אינדקס<s n="n"/><s n="m"/></r></p></e>
+     <e slr="1"><p><l>indiċi<s n="n"/><s n="m"/></l><r>מדד<s n="n"/><s n="m"/></r></p></e>
+     <e slr="2"><p><l>indiċi<s n="n"/><s n="m"/></l><r>מפתח<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>idroġenu<s n="n"/><s n="m"/></l><r>מימן<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>matematiku<s n="n"/><s n="m"/></l><r>מתמטיקה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>karbonju<s n="n"/><s n="m"/></l><r>פחמן<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>sqalli<s n="n"/><s n="m"/></l><r>סיציליאני<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>feniċju<s n="n"/><s n="m"/></l><r>כנעני<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>aġġettiv<s n="n"/><s n="m"/></l><r>שם<b/>תואר<s n="n"/><s n="m"/></r></p></e>
+     <e c="  0"><p><l>oranġjo<s n="n"/><s n="m"/></l><r>תפוז<s n="n"/><s n="m"/></r></p></e>
+     <e slr="1"><p><l>oranġjo<s n="n"/><s n="m"/></l><r>כתום<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>iljunfant<s n="n"/><s n="m"/></l><r>פיל<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>dundjan<s n="n"/><s n="m"/></l><r>תרנגול<b/>הודו<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>kimiku<s n="n"/><s n="m"/></l><r>כמיקל<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>ġenitali<s n="n"/><s n="m"/></l><r>איבר<b/>רבייה<s n="n"/><s n="m"/></r></p></e>
+     <e c="  0"><p><l>difer<s n="n"/><s n="m"/></l><r>ציפורן<s n="n"/><s n="m"/></r></p></e>
+     <e slr="1"><p><l>difer<s n="n"/><s n="m"/></l><r>טופר<s n="n"/><s n="m"/></r></p></e>
 
      <!-- SECTION: Proper nouns -->
 
