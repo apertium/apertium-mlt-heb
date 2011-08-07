@@ -33,6 +33,7 @@
      <sdef n="def"/>
      <sdef n="ind"/>
      <sdef n="pos"/>
+     <sdef n="neg"/>
      <sdef n="itg"/>
      <sdef n="qnt"/>
      <sdef n="ref"/>
@@ -89,6 +90,8 @@
    </pardefs>
 
    <section id="main" type="standard">
+
+     <e><p><l>x<s n="neg"/></l><r>לא<s n="adv"/></r></p></e>
 
      <!-- SECTION: Numerals -->
 
@@ -161,7 +164,8 @@
 
      <e><p><l>free<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
 
-     <e><p><l>u<s n="prn"/><s n="p3"/><s n="m"/></l><r>prpers<s n="prn"/><s n="p3"/><s n="m"/></r></p></e>
+     <e><p><l>u<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
+     <e><p><l>lu<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
 
      <e><p><l>li<s n="rel"/></l><r>כי<s n="rel"/></r></p></e>
 
