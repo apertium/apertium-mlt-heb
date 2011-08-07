@@ -93,8 +93,6 @@
 
      <e><p><l>x<s n="neg"/></l><r>לא<s n="adv"/></r></p></e>
 
-     <!-- SECTION: Numerals -->
-
      <!-- SECTION: Conjunctions -->
 
      <e><p><l>u<s n="cnjcoo"/></l><r>ו<s n="cnjcoo"/></r></p></e>
@@ -289,6 +287,28 @@
      <e><p><l>biljuni<s n="num"/></l><r>מיליארדים<s n="num"/></r></p></e>
      <e><p><l>triljun<s n="num"/></l><r>טריליון<s n="num"/></r></p></e>
      <e><p><l>triljuni<s n="num"/></l><r>טריליונים<s n="num"/></r></p></e>
+
+     <e><p><l>żewġ<s n="num"/></l><r>זוג<s n="num"/></r></p></e><!-- TODO -->
+     <e><p><l>erba<s n="num"/></l><r>ארבעה<s n="num"/></r></p></e>
+     <e><p><l>sitt<s n="num"/></l><r>שישה<s n="num"/></r></p></e>
+     <e><p><l>ewwel<s n="num"/></l><r>ראשון<s n="num"/></r></p></e>
+     <e><p><l>tieni<s n="num"/></l><r>שני<s n="num"/></r></p></e>
+     <e><p><l>tielet<s n="num"/></l><r>שלישי<s n="num"/></r></p></e>
+     <e><p><l>raba<s n="num"/></l><r>רביעי<s n="num"/></r></p></e>
+     <e><p><l>hames<s n="num"/></l><r>חמישי<s n="num"/></r></p></e>
+     <e><p><l>sitt<s n="num"/></l><r>שישי<s n="num"/></r></p></e>
+     <e><p><l>seba<s n="num"/></l><r>שביעי<s n="num"/></r></p></e>
+     <e><p><l>tmien<s n="num"/></l><r>שמיני<s n="num"/></r></p></e>
+     <e><p><l>disa<s n="num"/></l><r>תשיעי<s n="num"/></r></p></e>
+     <e><p><l>għaxar<s n="num"/></l><r>עשירי<s n="num"/></r></p></e>
+     <e><p><l>mitt<s n="num"/></l><r>מאה<s n="num"/></r></p></e><!-- TODO -->
+     <e><p><l>XVI<s n="num"/></l><r>XVI<s n="num"/></r></p></e>
+     <e><p><l>II<s n="num"/></l><r>II<s n="num"/></r></p></e>
+     <e><p><l>III<s n="num"/></l><r>III<s n="num"/></r></p></e>
+     <e><p><l>IV<s n="num"/></l><r>IV<s n="num"/></r></p></e>
+     <e><p><l>VI<s n="num"/></l><r>VI<s n="num"/></r></p></e>
+     <e><p><l>XXIII<s n="num"/></l><r>XXIII<s n="num"/></r></p></e>
+     <e><p><l>XII<s n="num"/></l><r>XII<s n="num"/></r></p></e>
 
      <!-- SECTION: Nouns -->
 
