@@ -24,9 +24,9 @@ for i in $POS; do
 	"preadv" ) IGNORE='<adj>\|<adv>' ;;
 	"adv" ) IGNORE='<adj>\|<v' ;;
 	"cnjsub" ) IGNORE='<v' ;;
-	"prn" ) IGNORE='<pr>\|<v' ;;
+	"prn" ) IGNORE='<pr>' ;;
 	"vbhaver" ) IGNORE='<pp' ;;
-	"vblex" ) IGNORE='<adv' ;;
+	"vblex" ) IGNORE='<prn\|<adv' ;;
 	"pr" ) IGNORE='<prn\|<ger\|<det' ;;
 	"rel" ) IGNORE='<pr' ;;
 	* ) IGNORE='__REGEXP__' ;;
