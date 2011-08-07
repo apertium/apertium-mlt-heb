@@ -11,6 +11,9 @@
     <def-cat n="adj">
       <cat-item tags="adj.*"/>
     </def-cat>
+    <def-cat n="pron">
+      <cat-item tags="prn.*"/>
+    </def-cat>
     <def-cat n="vrb">
       <cat-item tags="vblex.*"/>
     </def-cat>
@@ -185,6 +188,28 @@
              <clip pos="1" side="tl" part="lemh"/>
              <clip pos="1" side="tl" part="a_adj"/>
              <clip pos="1" side="tl" part="grau"/>
+             <clip pos="1" side="tl" part="gen"/>
+             <clip pos="1" side="tl" part="nbr"/>
+             <clip pos="1" side="tl" part="lemq"/>
+           </lu>
+         </out>
+       </action>
+    </rule>
+
+
+    <rule comment="rule: pron">
+       <pattern>
+         <pattern-item n="pron"/>
+       </pattern>
+       <action>
+         <call-macro n="f_concord1">
+           <with-param pos="1"/>
+         </call-macro>
+         <out>
+           <lu>
+             <clip pos="1" side="tl" part="lemh"/>
+             <clip pos="1" side="tl" part="a_prn"/>
+             <clip pos="1" side="tl" part="pers"/>
              <clip pos="1" side="tl" part="gen"/>
              <clip pos="1" side="tl" part="nbr"/>
              <clip pos="1" side="tl" part="lemq"/>
