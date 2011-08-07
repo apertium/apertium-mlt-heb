@@ -61,6 +61,7 @@
        <attr-item tags="p3"/>
     </def-attr>
     <def-attr n="a_prn">
+       <attr-item tags="prn"/>
        <attr-item tags="prn.ref"/>
        <attr-item tags="prn.ind"/>
        <attr-item tags="prn.dem"/>
