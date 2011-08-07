@@ -10,6 +10,7 @@
 /apertium-mt-he.mt-he.t1x -text
 /apertium-mt-he.mt.acx -text
 /apertium-mt-he.mt.dix -text
+/apertium-mt-he.mt.tsx -text
 /autogen.sh -text
 /configure.ac -text
 dev/bidix-verbs-to-he.dix.sh -text
