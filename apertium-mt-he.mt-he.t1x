@@ -57,6 +57,13 @@
        <attr-item tags="p2"/>
        <attr-item tags="p3"/>
     </def-attr>
+    <def-attr n="a_prn">
+       <attr-item tags="prn.ref"/>
+       <attr-item tags="prn.ind"/>
+       <attr-item tags="prn.dem"/>
+       <attr-item tags="prn.itg"/>
+       <attr-item tags="prn.pers"/>
+    </def-attr>
     <def-attr n="a_verb">
        <attr-item tags="vblex"/>
     </def-attr>

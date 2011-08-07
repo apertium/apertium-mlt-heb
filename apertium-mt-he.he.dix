@@ -113,9 +113,9 @@
     <!-- SECTION: Pronouns -->
 
     <pardef n="prsubj__prn">
-      <e><p><l>אני</l><r>prpers<s n="prn"/><s n="p1"/><s n="sg"/></r></p></e>
-      <e><p><l>אנחנו</l><r>prpers<s n="prn"/><s n="p1"/><s n="pl"/></r></p></e>
-      <e r="LR"><p><l>אנו</l><r>prpers<s n="prn"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p><l>אני</l><r>prpers<s n="prn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e><p><l>אנחנו</l><r>prpers<s n="prn"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
+      <e r="LR"><p><l>אנו</l><r>prpers<s n="prn"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
       <e><p><l>אתה</l><r>prpers<s n="prn"/><s n="p2"/><s n="m"/><s n="sg"/></r></p></e>
       <e><p><l>את</l><r>prpers<s n="prn"/><s n="p2"/><s n="f"/><s n="sg"/></r></p></e>
       <e><p><l>אתם</l><r>prpers<s n="prn"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
