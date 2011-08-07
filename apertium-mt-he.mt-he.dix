@@ -3444,9 +3444,17 @@
 
      <e><p><l>hemm<s n="adv"/></l><r>שם<s n="adv"/></r></p></e>
      <e><p><l>hemmhekk<s n="adv"/></l><r>שם<s n="adv"/></r></p></e>
+     <e><p><l>'l<b/>hemm<s n="adv"/></l><r>שם<s n="adv"/></r></p></e>
      <e c="  0"><p><l>għad<s n="adv"/></l><r>ל<s n="adv"/></r></p></e>
      <e slr="1"><p><l>għad<s n="adv"/></l><r>על<s n="adv"/></r></p></e>
      <e slr="2"><p><l>għad<s n="adv"/></l><r>עדיין<s n="adv"/></r></p></e>
+     <e c="  0"><p><l>xorta<s n="adv"/></l><r>עדיין<s n="adv"/></r></p></e>
+     <e slr="1"><p><l>xorta<s n="adv"/></l><r>אותו<s n="adv"/></r></p></e>
+     <e><p><l>verament<s n="adv"/></l><r>באמת<s n="adv"/></r></p></e>
+     <e><p><l>tant<b/>kemm<s n="adv"/></l><r>כל<b/>כך<b/>הרבה<s n="adv"/></r></p></e>
+     <e><p><l>anke<s n="adv"/></l><r>אפילו<s n="adv"/></r></p></e><!-- TODO -->
+     <e><p><l>astronomikament<s n="adv"/></l><r>אסטרונומי<s n="adv"/></r></p></e><!-- TODO -->
+     <e><p><l>hawnhekk<s n="adv"/></l><r>כאן<s n="adv"/></r></p></e>
 
      <!-- SECTION: Verbs -->
      <e><p><l>jaf<s n="vblex"/></l><r>ידע<s n="vblex"/></r></p></e>
