@@ -115,6 +115,11 @@
      <e><p><l>sabiex<s n="cnjsub"/></l><r>בשביל<s n="cnjsub"/></r></p></e>
      <e><p><l>illi<s n="cnjsub"/></l><r>ש<s n="cnjsub"/></r></p></e>
      <e><p><l>però<s n="cnjsub"/></l><r>אבל<s n="cnjsub"/></r></p></e>
+     <e><p><l>minkejja<b/>li<s n="cnjsub"/></l><r>למרות<s n="cnjsub"/></r></p></e>
+     <e><p><l>minkejja<s n="cnjsub"/></l><r>למרות<s n="cnjsub"/></r></p></e>
+     <e><p><l>biex<s n="cnjsub"/></l><r>בשביל<s n="cnjsub"/></r></p></e><!-- TODO -->
+     <e c="  0"><p><l>kieku<s n="cnjsub"/></l><r>כאילו<s n="cnjsub"/></r></p></e><!-- TODO -->
+     <e slr="1"><p><l>kieku<s n="cnjsub"/></l><r>אם<s n="cnjsub"/></r></p></e><!-- TODO -->
 
      <e><p><l>għalhekk<s n="cnjadv"/></l><r>לכן<s n="cnjadv"/></r></p></e>
      <e><p><l>billi<s n="cnjadv"/></l><r>בעוד<b/>ש<s n="cnjadv"/></r></p></e>
