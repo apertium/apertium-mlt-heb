@@ -3396,7 +3396,7 @@
      <e><p><l>mar<s n="vblex"/></l><r>הלך<s n="vblex"/></r></p></e>
      <e><p><l>deher<s n="vblex"/></l><r>נראה<s n="vblex"/></r></p></e>
      <e><p><l>dar<s n="vblex"/></l><r>פנה<s n="vblex"/></r></p></e>
-     <e><p><l>baqa''<s n="vblex"/></l><r>נשאר<s n="vblex"/></r></p></e>
+     <e><p><l>baqa'<s n="vblex"/></l><r>נשאר<s n="vblex"/></r></p></e>
      <e><p><l>ħareġ<s n="vblex"/></l><r>יצא<s n="vblex"/></r></p></e>
      <e><p><l>dahal<s n="vblex"/></l><r>נכנס<s n="vblex"/></r></p></e>
      <e><p><l>tkellem<s n="vblex"/></l><r>דיבר<s n="vblex"/></r></p></e>
@@ -3635,6 +3635,33 @@
      <e><p><l>ta<s n="vblex"/></l><r>נתן<s n="vblex"/></r></p></e>
      <e><p><l>ħa<s n="vblex"/></l><r>לקח<s n="vblex"/></r></p></e>
      <e><p><l>kien<s n="vaux"/></l><r>היה<s n="vaux"/></r></p></e>
+
+     <e><p><l>bixkel<s n="vblex"/></l><r>רימה<s n="vblex"/></r></p></e>
+     <e><p><l>ċappas<s n="vblex"/></l><r>מרח<s n="vblex"/></r></p></e>
+     <e><p><l>daħal<s n="vblex"/></l><r>נכנס<s n="vblex"/></r></p></e>
+     <e><p><l>dalam<s n="vblex"/></l><r>החשיך<s n="vblex"/></r></p></e>
+     <e><p><l>dieq<s n="vblex"/></l><r>טעם<s n="vblex"/></r></p></e>
+     <e><p><l>farfar<s n="vblex"/></l><r>ניער<s n="vblex"/></r></p></e>
+     <e><p><l>fasad<s n="vblex"/></l><r>דימם<s n="vblex"/></r></p></e>
+     <e><p><l>fesdaq<s n="vblex"/></l><r>קילף<s n="vblex"/></r></p></e><!-- TODO -->
+     <e><p><l>forogħ<s n="vblex"/></l><r>הסג<s n="vblex"/></r></p></e><!-- TODO -->
+     <e><p><l>għodos<s n="vblex"/></l><r>צלל<s n="vblex"/></r></p></e>
+     <e><p><l>għokos<s n="vblex"/></l><r>הרקיב<s n="vblex"/></r></p></e>
+     <e><p><l>gidem<s n="vblex"/></l><r>נשך<s n="vblex"/></r></p></e>
+     <e><p><l>ħakk<s n="vblex"/></l><r>גרד<s n="vblex"/></r></p></e>
+     <e><p><l>hebeż<s n="vblex"/></l><r>נסוג<s n="vblex"/></r></p></e>
+     <e><p><l>heġem<s n="vblex"/></l><r>טרף<s n="vblex"/></r></p></e>
+     <e><p><l>ħerek<s n="vblex"/></l><r>השכים<s n="vblex"/></r></p></e>
+     <e><p><l>lagħaq<s n="vblex"/></l><r>ליקק<s n="vblex"/></r></p></e>
+     <e><p><l>lahaq<s n="vblex"/></l><r>הגיע<s n="vblex"/></r></p></e>
+     <e><p><l>qiem<s n="vblex"/></l><r>הוקיר<s n="vblex"/></r></p></e>
+     <e><p><l>rebaħ<s n="vblex"/></l><r>ניצח<s n="vblex"/></r></p></e>
+     <e><p><l>sadd<s n="vblex"/></l><r>סתם<s n="vblex"/></r></p></e>
+     <e><p><l>xaħħ<s n="vblex"/></l><r>התקמצן<s n="vblex"/></r></p></e>
+     <e c="  0"><p><l>xaqq<s n="vblex"/></l><r>סדק<s n="vblex"/></r></p></e>
+     <e slr="1"><p><l>xaqq<s n="vblex"/></l><r>פיצח<s n="vblex"/></r></p></e>
+     <e><p><l>żebagħ<s n="vblex"/></l><r>צבע<s n="vblex"/></r></p></e>
+     <e><p><l>żelaq<s n="vblex"/></l><r>החליק<s n="vblex"/></r></p></e>
      <!-- END SECTION -->
 
 
