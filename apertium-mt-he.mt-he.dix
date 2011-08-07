@@ -1250,7 +1250,8 @@
      <e><p><l>kumpanija<s n="n"/><s n="f"/></l><r>חברה<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>deċiżjoni<s n="n"/><s n="f"/></l><r>החלטה<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>gżira<s n="n"/><s n="f"/></l><r>אי<s n="n"/><s n="m"/></r></p></e>
-     <e><p><l>forma<s n="n"/><s n="f"/></l><r>צורה<s n="n"/><s n="f"/></r></p></e>
+     <e c="  0"><p><l>forma<s n="n"/><s n="f"/></l><r>צורה<s n="n"/><s n="f"/></r></p></e>
+     <e slr="1"><p><l>forma<s n="n"/><s n="f"/></l><r>טופס<s n="n"/><s n="m"/></r></p></e>
      <e><p><l>attività<s n="n"/><s n="f"/></l><r>פעילות<s n="n"/><s n="f"/></r></p></e>
      <e c="  0"><p><l>kwistjoni<s n="n"/><s n="f"/></l><r>בעיה<s n="n"/><s n="f"/></r></p></e>
      <e slr="1"><p><l>kwistjoni<s n="n"/><s n="f"/></l><r>שאלה<s n="n"/><s n="f"/></r></p></e>
@@ -1620,6 +1621,125 @@
      <e><p><l>farsa<s n="n"/><s n="f"/></l><r>מהתלה<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>ditta<s n="n"/><s n="f"/></l><r>פירמה<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>kolonja<s n="n"/><s n="f"/></l><r>מושבה<s n="n"/><s n="f"/></r></p></e>
+
+     <e><p><l>klikka<s n="n"/><s n="f"/></l><r>קליקה<s n="n"/><s n="f"/></r></p></e>
+     <e c="  0"><p><l>xejra<s n="n"/><s n="f"/></l><r>טרנד<s n="n"/><s n="m"/></r></p></e>
+     <e slr="1"><p><l>xejra<s n="n"/><s n="f"/></l><r>טון<s n="n"/><s n="m"/></r></p></e>
+     <e slr="2"><p><l>xejra<s n="n"/><s n="f"/></l><r>מגמה<s n="n"/><s n="f"/></r></p></e>
+     <e slr="3"><p><l>xejra<s n="n"/><s n="f"/></l><r>מזג<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>definizzjoni<s n="n"/><s n="f"/></l><r>הגדרה<s n="n"/><s n="f"/></r></p></e>
+     <e c="  0"><p><l>intelliġenza<s n="n"/><s n="f"/></l><r>אינטליגנציה<s n="n"/><s n="f"/></r></p></e>
+     <e slr="1"><p><l>intelliġenza<s n="n"/><s n="f"/></l><r>מודיעין<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>qanpiena<s n="n"/><s n="f"/></l><r>פעמון<s n="n"/><s n="m"/></r></p></e>
+     <e c="  0"><p><l>konvinzjoni<s n="n"/><s n="f"/></l><r>הרשעה<s n="n"/><s n="f"/></r></p></e>
+     <e slr="1"><p><l>konvinzjoni<s n="n"/><s n="f"/></l><r>שכנוע<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>konfederazzjoni<s n="n"/><s n="f"/></l><r>התאחדות<s n="n"/><s n="f"/></r></p></e>
+     <e c="  0"><p><l>kompożizzjoni<s n="n"/><s n="f"/></l><r>הרכב<s n="n"/><s n="m"/></r></p></e>
+     <e slr="1"><p><l>kompożizzjoni<s n="n"/><s n="f"/></l><r>קומפוזיציה<s n="n"/><s n="f"/></r></p></e>
+     <e slr="2"><p><l>kompożizzjoni<s n="n"/><s n="f"/></l><r>יצירה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>manifestazzjoni<s n="n"/><s n="f"/></l><r>תופעה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>dedikazzjoni<s n="n"/><s n="f"/></l><r>הקדשה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>assistenza<s n="n"/><s n="f"/></l><r>סיוע<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>providenza<s n="n"/><s n="f"/></l><r>השגחה<b/>עליונה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>superfamilja<s n="n"/><s n="f"/></l><r>משפחה<s n="n"/><s n="f"/></r></p></e><!-- TODO -->
+     <e><p><l>bolla<s n="n"/><s n="f"/></l><r>בול<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>mappa<s n="n"/><s n="f"/></l><r>מפה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>trasparenza<s n="n"/><s n="f"/></l><r>שקיפות<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>qmis<s n="n"/><s n="f"/></l><r>חולצה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>arroganza<s n="n"/><s n="f"/></l><r>יהירות<s n="n"/><s n="f"/></r></p></e>
+     <e c="  0"><p><l>formola<s n="n"/><s n="f"/></l><r>נוסחה<s n="n"/><s n="f"/></r></p></e>
+     <e slr="1"><p><l>formola<s n="n"/><s n="f"/></l><r>טופס<s n="n"/><s n="m"/></r></p></e>
+     <e slr="2"><p><l>formola<s n="n"/><s n="f"/></l><r>צורה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>pompa<s n="n"/><s n="f"/></l><r>משאבה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>ekwazzjoni<s n="n"/><s n="f"/></l><r>משוואה<s n="n"/><s n="f"/></r></p></e>
+     <e c="  0"><p><l>bxara<s n="n"/><s n="f"/></l><r>הודעה<s n="n"/><s n="f"/></r></p></e>
+     <e slr="1"><p><l>bxara<s n="n"/><s n="f"/></l><r>ידיעה<s n="n"/><s n="f"/></r></p></e>
+     <e c="  0"><p><l>korrispondenza<s n="n"/><s n="f"/></l><r>התכתבות<s n="n"/><s n="f"/></r></p></e>
+     <e slr="1"><p><l>korrispondenza<s n="n"/><s n="f"/></l><r>כתבה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>reżistenza<s n="n"/><s n="f"/></l><r>התנגדות<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>flotta<s n="n"/><s n="f"/></l><r>צי<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>balla<s n="n"/><s n="f"/></l><r>חבילה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>fakultà<s n="n"/><s n="f"/></l><r>פקולטה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>fakultà<s n="n"/><s n="f"/></l><r>סגל<s n="m"/><s n="f"/></r></p></e>
+     <e><p><l>xkora<s n="n"/><s n="f"/></l><r>שק<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>preparazzjoni<s n="n"/><s n="f"/></l><r>הכנה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>injoranza<s n="n"/><s n="f"/></l><r>בורות<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>kewkba<s n="n"/><s n="f"/></l><r>כוכב<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>firma<s n="n"/><s n="f"/></l><r>חתימה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>distribuzzjoni<s n="n"/><s n="f"/></l><r>הפצה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>klassifikazzjoni<s n="n"/><s n="f"/></l><r>סיווג<s n="n"/><s n="m"/></r></p></e>
+     <e c="  0"><p><l>idjoma<s n="n"/><s n="f"/></l><r>ניב<s n="n"/><s n="f"/></r></p></e>
+     <e slr="1"><p><l>idjoma<s n="n"/><s n="f"/></l><r>מטבע<b/>לשון<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>integrazzjoni<s n="n"/><s n="f"/></l><r>השתלבות<s n="n"/><s n="f"/></r></p></e>
+     <e c="  0"><p><l>għarusa<s n="n"/><s n="f"/></l><r>כלה<s n="n"/><s n="f"/></r></p></e>
+     <e slr="1"><p><l>għarusa<s n="n"/><s n="f"/></l><r>ארוסה<s n="n"/><s n="f"/></r></p></e>
+     <e slr="2"><p><l>għarusa<s n="n"/><s n="f"/></l><r>בת<b/>זוג<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>invażjoni<s n="n"/><s n="f"/></l><r>פלישה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>xewka<s n="n"/><s n="f"/></l><r>קוץ<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>preferenza<s n="n"/><s n="f"/></l><r>העדפה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>spalla<s n="n"/><s n="f"/></l><r>כתף<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>apparenza<s n="n"/><s n="f"/></l><r>הופעה<s n="n"/><s n="f"/></r></p></e>
+     <e c="  0"><p><l>tebgħa<s n="n"/><s n="f"/></l><r>כתם<s n="n"/><s n="m"/></r></p></e>
+     <e slr="1"><p><l>tebgħa<s n="n"/><s n="f"/></l><r>פגם<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>motivazzjoni<s n="n"/><s n="f"/></l><r>מוטיבציה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>invenzjoni<s n="n"/><s n="f"/></l><r>המצאה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>frekwenza<s n="n"/><s n="f"/></l><r>תדירות<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>ugwaljanza<s n="n"/><s n="f"/></l><r>שוויון<s n="n"/><s n="m"/></r></p></e>
+     <e c="  0"><p><l>evidenza<s n="n"/><s n="f"/></l><r>ראיה<s n="n"/><s n="f"/></r></p></e>
+     <e slr="1"><p><l>evidenza<s n="n"/><s n="f"/></l><r>עדות<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>attendenza<s n="n"/><s n="f"/></l><r>נוכחות<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>insistenza<s n="n"/><s n="f"/></l><r>התעקשות<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>lanza<s n="n"/><s n="f"/></l><r>חנית<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>awla<s n="n"/><s n="f"/></l><r>בית<b/>משפט<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>varjazzjoni<s n="n"/><s n="f"/></l><r>וריאציה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>delegazzjoni<s n="n"/><s n="f"/></l><r>משלחת<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>innovazzjoni<s n="n"/><s n="f"/></l><r>חידוש<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>trasformazzjoni<s n="n"/><s n="f"/></l><r>טרנספורמציה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>tikka<s n="n"/><s n="f"/></l><r>נקודה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>penitenza<s n="n"/><s n="f"/></l><r>תשובה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>maturità<s n="n"/><s n="f"/></l><r>בגרות<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>tila<s n="n"/><s n="f"/></l><r>בד<s n="n"/><s n="f"/></r></p></e><!-- TODO -->
+     <e><p><l>sekwenza<s n="n"/><s n="f"/></l><r>רצף<s n="n"/><s n="f"/></r></p></e>
+     <e c="  0"><p><l>labra<s n="n"/><s n="f"/></l><r>מחט<s n="n"/><s n="f"/></r></p></e>
+     <e slr="1"><p><l>labra<s n="n"/><s n="f"/></l><r>סיכה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>urgenza<s n="n"/><s n="f"/></l><r>דחיפות<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>konsistenza<s n="n"/><s n="f"/></l><r>עקביות<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>kompetenza<s n="n"/><s n="f"/></l><r>מומחיות<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>mogħża<s n="n"/><s n="f"/></l><r>עז<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>pretensjoni<s n="n"/><s n="f"/></l><r>טענה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>omosesswalità<s n="n"/><s n="f"/></l><r>הומוסקסואליות<s n="n"/><s n="f"/></r></p></e>
+     <e c="  0"><p><l>istrixxa<s n="n"/><s n="f"/></l><r>רצועה<s n="n"/><s n="f"/></r></p></e>
+     <e slr="1"><p><l>istrixxa<s n="n"/><s n="f"/></l><r>התערטלות<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>diskursata<s n="n"/><s n="f"/></l><r>שיחה<s n="n"/><s n="f"/></r></p></e>
+     <e c="  0"><p><l>dehra<s n="n"/><s n="f"/></l><r>הופעה<s n="n"/><s n="f"/></r></p></e>
+     <e slr="1"><p><l>dehra<s n="n"/><s n="f"/></l><r>חזון<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>attriċi<s n="n"/><s n="f"/></l><rשחקנית><s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>kunfidenza<s n="n"/><s n="f"/></l><r>אמון<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>indifferenza<s n="n"/><s n="f"/></l><r>אדישות<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>iskultura<s n="n"/><s n="f"/></l><r>פסל<s n="n"/><s n="m"/></r></p></e>
+     <e c="  0"><p><l>sospensjoni<s n="n"/><s n="f"/></l><r>השעיה<s n="n"/><s n="f"/></r></p></e>
+     <e slr="1"><p><l>sospensjoni<s n="n"/><s n="f"/></l><r>תליה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>maskra<s n="n"/><s n="f"/></l><r>מסיכה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>prudenza<s n="n"/><s n="f"/></l><r>זהירות<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>rivalità<s n="n"/><s n="f"/></l><r>יריבות<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>eccellenza<s n="n"/><s n="f"/></l><r>הצטיינות<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>moralità<s n="n"/><s n="f"/></l><r>מוראליות<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>iskoperta<s n="n"/><s n="f"/></l><r>תגלית<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>landa<s n="n"/><s n="f"/></l><r>פחית<s n="n"/><s n="f"/></r></p></e>
+     <e c="  0"><p><l>keffa<s n="n"/><s n="f"/></l><r>מכפלת<s n="n"/><s n="f"/></r></p></e>
+     <e slr="1"><p><l>keffa<s n="n"/><s n="f"/></l><r>קפל<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>skuna<s n="n"/><s n="f"/></l><r>מפרשית<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>dipendenza<s n="n"/><s n="f"/></l><r>תלות<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>densità<s n="n"/><s n="f"/></l><r>צפיפות<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>kappa<s n="n"/><s n="f"/></l><r>גלימה<s n="n"/><s n="f"/></r></p></e>
+     <e c="  0"><p><l>nassa<s n="n"/><s n="f"/></l><r>מוקש<s n="n"/><s n="m"/></r></p></e>
+     <e slr="1"><p><l>f<s n="n"/><s n="f"/></l><r>מלכודת<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>grotta<s n="n"/><s n="f"/></l><r>מערה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>nannakola<s n="n"/><s n="f"/></l><r>פרת<b/>משה<b/>רבנו<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>inkwiżizzjoni<s n="n"/><s n="f"/></l><r>אינקוויזיציה<s n="n"/><s n="f"/></r></p></e>
+     <e c="  0"><p><l>kappa<s n="n"/><s n="f"/></l><r>מכסה<s n="n"/><s n="m"/></r></p></e>
+     <e slr="1"><p><l>kappa<s n="n"/><s n="f"/></l><r>כובע<s n="n"/><s n="m"/></r></p></e>
+     <e slr="2"><p><l>kappa<s n="n"/><s n="f"/></l><r>ראש<s n="n"/><s n="m"/></r></p></e>
 
      <!-- SECTION: Proper nouns -->
 
