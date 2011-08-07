@@ -117,6 +117,7 @@ dev/verb_lists/allmalteseverbs17apr.xls -text
 dev/verb_lists/hspell5jun.speling -text
 dev/wiktionary/extract_wiki_inflections.py -text
 dev/wiktionary/extract_wiki_translations.py -text
+/lexchoicebil.xsl -text
 /modes.xml -text
 /mt-he-unsupervised.make -text
 /mt-he.prob -text svneol=unset#unset
