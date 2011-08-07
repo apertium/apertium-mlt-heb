@@ -32,6 +32,7 @@
 
      <sdef n="def"/>
      <sdef n="ind"/>
+     <sdef n="ord"/>
      <sdef n="pos"/>
      <sdef n="neg"/>
      <sdef n="itg"/>
@@ -280,6 +281,11 @@
      <e><p><l>ebda<s n="det"/><s n="ind"/><s n="mf"/><s n="sp"/></l><r>אין<s n="det"/><s n="ind"/><s n="sp"/></r></p></e> <!-- TODO -->
      <e><p><l>oħra<s n="det"/><s n="ind"/><s n="mf"/></l><r>אחרים<s n="det"/><s n="ind"/><s n="mf"/></r></p></e>
      <e><p><l>diversi<s n="det"/><s n="ind"/><s n="mf"/></l><r>כמה<s n="det"/><s n="ind"/><s n="mf"/></r></p></e>
+
+     <e><p><l>kollu<s n="det"/><s n="qnt"/></l><r>כל<s n="det"/><s n="qnt"/></r></p></e>
+     <e><p><l>izjed<s n="det"/><s n="qnt"/><s n="mf"/></l><r>עוד<s n="det"/><s n="qnt"/><s n="mf"/></r></p></e>
+     <e><p><l>dak<s n="det"/><s n="dem"/></l><r>זה<s n="det"/><s n="dem"/></r></p></e>
+     <e><p><l>aħħar<s n="det"/><s n="ord"/><s n="mf"/></l><r>אחרון<s n="det"/><s n="ord"/><s n="mf"/></r></p></e><!-- TODO -->
 
      <!-- SECTION: Numerals -->
 
