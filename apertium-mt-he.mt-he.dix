@@ -194,10 +194,6 @@
      <e r="RL"><p><l>u<s n="prn"/><s n="p3"/><s n="mf"/><s n="pl"/></l><r>prpers<s n="prn"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
      <e r="RL"><p><l>u<s n="prn"/><s n="p3"/><s n="mf"/><s n="pl"/></l><r>prpers<s n="prn"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
 
-
-
-
-
      <e><p><l>li<s n="rel"/></l><r>כי<s n="rel"/></r></p></e>
 
      <e><p><l>kollu<s n="prn"/></l><r>כל<s n="prn"/></r></p></e>
@@ -260,12 +256,15 @@
 
      <e><p><l>xulxin<s n="prn"/><s n="recip"/></l><r>אחד<b/>את<b/>השני<s n="prn"/><s n="recip"/></r></p></e><!-- TODO -->
 
+     <!-- TODO I used this because Hebrew doesn't have a form for a generic "one" subject -->
+     <e><p><l>wieħed<s n="prn"/><s n="ind"/></l><r>מי<s n="prn"/><s n="ind"/></r></p></e>
+
      <!-- SECTION: Possessive pronouns -->
      <e><p><l>tiegħi<s n="prn"/><s n="pos"/></l><r>שלי<s n="prn"/><s n="pos"/></r></p></e>
      <e><p><l>tagħna<s n="prn"/><s n="pos"/></l><r>שלנו<s n="prn"/><s n="pos"/></r></p></e>
      <e><p><l>tiegħek<s n="prn"/><s n="pos"/></l><r>שלך<s n="prn"/><s n="pos"/></r></p></e>
      <e><p><l>tagħkom<s n="prn"/><s n="pos"/></l><r>שלך<s n="prn"/><s n="pos"/></r></p></e>
-     <e><p><l>tieghu<s n="prn"/><s n="pos"/></l><r>שלו<s n="prn"/><s n="pos"/></r></p></e>
+     <e><p><l>tiegħu<s n="prn"/><s n="pos"/></l><r>שלו<s n="prn"/><s n="pos"/></r></p></e>
      <e><p><l>tagħha<s n="prn"/><s n="pos"/></l><r>שלה<s n="prn"/><s n="pos"/></r></p></e>
      <e><p><l>tagħhom<s n="prn"/><s n="pos"/></l><r>שלהם<s n="prn"/><s n="pos"/></r></p></e>
 
