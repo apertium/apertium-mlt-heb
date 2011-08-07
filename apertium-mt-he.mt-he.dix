@@ -3402,6 +3402,16 @@
      <e><p><l>fejn<s n="adv"/><s n="itg"/></l><r>איפה<s n="adv"/><s n="itg"/></r></p></e>
      <e><p><l>xiex<s n="adv"/><s n="itg"/></l><r>מה<s n="adv"/><s n="itg"/></r></p></e>
 
+     <e><p><l>mhux<s n="adv"/></l><r>בלתי<s n="adv"/></r></p></e><!-- TODO -->
+     <e><p><l>mħumiex<s n="adv"/></l><r>לא<s n="adv"/></r></p></e><!-- TODO -->
+     <e><p><l>mħix<s n="adv"/></l><r>לא<s n="adv"/></r></p></e><!-- TODO -->
+
+     <e><p><l>hemm<s n="adv"/></l><r>שם<s n="adv"/></r></p></e>
+     <e><p><l>hemmhekk<s n="adv"/></l><r>שם<s n="adv"/></r></p></e>
+     <e c="  0"><p><l>għad<s n="adv"/></l><r>ל<s n="adv"/></r></p></e>
+     <e slr="1"><p><l>għad<s n="adv"/></l><r>על<s n="adv"/></r></p></e>
+     <e slr="2"><p><l>għad<s n="adv"/></l><r>עדיין<s n="adv"/></r></p></e>
+
      <!-- SECTION: Verbs -->
      <e><p><l>jaf<s n="vblex"/></l><r>ידע<s n="vblex"/></r></p></e>
      <e><p><l>ġie<s n="vblex"/></l><r>בא<s n="vblex"/></r></p></e>
