@@ -1930,7 +1930,7 @@
      <e><p><l>Liverpool<s n="np"/><s n="top"/><s n="f"/></l><r>ליברפול<s n="np"/><s n="top"/><s n="f"/></r></p></e>
      <e><p><l>Madrid<s n="np"/><s n="top"/><s n="f"/></l><r>מדריד<s n="np"/><s n="top"/><s n="f"/></r></p></e>
      <e><p><l>Manchester<s n="np"/><s n="top"/><s n="f"/></l><r>מנצ'סטר<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Marsaxlokk<s n="np"/><s n="top"/><s n="f"/></l><r>מרסקסלוק<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Marsaxlokk<s n="np"/><s n="top"/><s n="m"/></l><r>מרסקסלוק<s n="np"/><s n="top"/><s n="f"/></r></p></e>
      <e><p><l>Messiku<s n="np"/><s n="top"/><s n="f"/></l><r>מקסיקו<s n="np"/><s n="top"/><s n="f"/></r></p></e>
      <e><p><l>Montenegro<s n="np"/><s n="top"/><s n="f"/></l><r>מונטנגרו<s n="np"/><s n="top"/><s n="f"/></r></p></e>
      <e><p><l>Munich<s n="np"/><s n="top"/><s n="f"/></l><r>מינכן<s n="np"/><s n="top"/><s n="f"/></r></p></e>
@@ -1988,112 +1988,114 @@
      <e><p><l>Tottenham<s n="np"/><s n="top"/><s n="m"/></l><r>טוטנהאם<s n="np"/><s n="top"/><s n="f"/></r></p></e>
      <e><p><l>York<s n="np"/><s n="top"/><s n="m"/></l><r>יורק<s n="np"/><s n="top"/><s n="f"/></r></p></e>
 
-     <e><p><l>Ħ'Attard<s n="np"/><s n="top"/><s n="GD"/></l><r>אטארד<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Balzan<s n="np"/><s n="top"/><s n="GD"/></l><r>בלזן<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Ħal<b/>Balzan<s n="np"/><s n="top"/><s n="GD"/></l><r>בלזן<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Il-Birgu<s n="np"/><s n="top"/><s n="GD"/></l><r>בירגו<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Birkirkara<s n="np"/><s n="top"/><s n="GD"/></l><r>בירקירקארה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Birżebbuġa<s n="np"/><s n="top"/><s n="GD"/></l><r>בירזבוג'ה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Bormla<s n="np"/><s n="top"/><s n="GD"/></l><r>בורמלה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Ħad-Dingli<s n="np"/><s n="top"/><s n="GD"/></l><r>דינגלי<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Il-Fgura<s n="np"/><s n="top"/><s n="GD"/></l><r>פגורה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Il-Furjana<s n="np"/><s n="top"/><s n="GD"/></l><r>פלוריאנה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Ħal<b/>Għargħur<s n="np"/><s n="top"/><s n="GD"/></l><r>אראור<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Ħal<b/>Għaxaq<s n="np"/><s n="top"/><s n="GD"/></l><r>אשאק<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Il-Gudja<s n="np"/><s n="top"/><s n="GD"/></l><r>גודיה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Il-Gżira<s n="np"/><s n="top"/><s n="GD"/></l><r>גזירה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Il-Ħamrun<s n="np"/><s n="top"/><s n="GD"/></l><r>חמרון<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>L-Iklin<s n="np"/><s n="top"/><s n="GD"/></l><r>איקלין<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Senglea,<b/>L-Isla<s n="np"/><s n="top"/><s n="GD"/></l><r>סנגלאה,<b/>ל-איסלה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Il-Kalkara<s n="np"/><s n="top"/><s n="GD"/></l><r>קלקארה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Ħ'Attard<s n="np"/><s n="top"/><s n="m"/></l><r>אטארד<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Balzan<s n="np"/><s n="top"/><s n="f"/></l><r>בלזן<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Ħal<b/>Balzan<s n="np"/><s n="top"/><s n="f"/></l><r>בלזן<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Il-Birgu<s n="np"/><s n="top"/><s n="m"/></l><r>בירגו<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Birkirkara<s n="np"/><s n="top"/><s n="f"/></l><r>בירקירקארה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Birżebbuġa<s n="np"/><s n="top"/><s n="f"/></l><r>בירזבוג'ה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Bormla<s n="np"/><s n="top"/><s n="f"/></l><r>בורמלה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Ħad-Dingli<s n="np"/><s n="top"/><s n="m"/></l><r>דינגלי<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Il-Fgura<s n="np"/><s n="top"/><s n="f"/></l><r>פגורה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Il-Furjana<s n="np"/><s n="top"/><s n="f"/></l><r>פלוריאנה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Ħal<b/>Għargħur<s n="np"/><s n="top"/><s n="m"/></l><r>אראור<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Ħal<b/>Għaxaq<s n="np"/><s n="top"/><s n="m"/></l><r>אשאק<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Il-Gudja<s n="np"/><s n="top"/><s n="f"/></l><r>גודיה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Il-Gżira<s n="np"/><s n="top"/><s n="f"/></l><r>גזירה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Il-Ħamrun<s n="np"/><s n="top"/><s n="m"/></l><r>חמרון<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>L-Iklin<s n="np"/><s n="top"/><s n="m"/></l><r>איקלין<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>L-Isla<s n="np"/><s n="top"/><s n="f"/></l><r>ל-איסלה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Il-Kalkara<s n="np"/><s n="top"/><s n="f"/></l><r>קלקארה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
      <e><p><l>Ħal<b/>Kirkop<s n="np"/><s n="top"/><s n="GD"/></l><r>קירקופ<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Ħal<b/>Lija<s n="np"/><s n="top"/><s n="GD"/></l><r>לייה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Ħal<b/>Luqa<s n="np"/><s n="top"/><s n="GD"/></l><r>לואה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Il-Marsa<s n="np"/><s n="top"/><s n="GD"/></l><r>מארסה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Marsaskala<s n="np"/><s n="top"/><s n="GD"/></l><r>מארסאסקאלה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Ħal<b/>Lija<s n="np"/><s n="top"/><s n="f"/></l><r>לייה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Ħal<b/>Luqa<s n="np"/><s n="top"/><s n="f"/></l><r>לואה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Il-Marsa<s n="np"/><s n="top"/><s n="f"/></l><r>מארסה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Marsaskala<s n="np"/><s n="top"/><s n="m"/></l><r>מארסאסקאלה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
      <e><p><l>Wied<b/>il-Għajn<s n="np"/><s n="top"/><s n="GD"/></l><r>וויד<b/>איל-איי<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Marsaxlokk<s n="np"/><s n="top"/><s n="GD"/></l><r>מרסשלוק<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>L-Imdina<s n="np"/><s n="top"/><s n="GD"/></l><r>מדינה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Il-Mellieħa<s n="np"/><s n="top"/><s n="GD"/></l><r>מליאחה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>L-Imġarr<s n="np"/><s n="top"/><s n="GD"/></l><r>מג'אר<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Il-Mosta<s n="np"/><s n="top"/><s n="GD"/></l><r>מוסטה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>L-Imqabba<s n="np"/><s n="top"/><s n="GD"/></l><r>מאבה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>L-Imsida<s n="np"/><s n="top"/><s n="GD"/></l><r>מסידה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>L-Imtarfa<s n="np"/><s n="top"/><s n="GD"/></l><r>מטארפה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>In-Naxxar<s n="np"/><s n="top"/><s n="GD"/></l><r>נשאר<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Paola<s n="np"/><s n="top"/><s n="GD"/></l><r>פאולה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Pembroke<s n="np"/><s n="top"/><s n="GD"/></l><r>פמברוק<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Pietà<s n="np"/><s n="top"/><s n="GD"/></l><r>פיאטה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Ħal<b/>Qormi<s n="np"/><s n="top"/><s n="GD"/></l><r>אורמי<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Il-Qrendi<s n="np"/><s n="top"/><s n="GD"/></l><r>ארנדי<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Ir-Rabat<s n="np"/><s n="top"/><s n="GD"/></l><r>רבאט<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Ħal<b/>Safi<s n="np"/><s n="top"/><s n="GD"/></l><r>סאפי<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>San<b/>Ġiljan<s n="np"/><s n="top"/><s n="GD"/></l><r>סאן<b/>ג'יליאן<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>San<b/>Ġwann<s n="np"/><s n="top"/><s n="GD"/></l><r>סאן<b/>ג'ואן<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>San Pawl<b/>il-Baħar<s n="np"/><s n="top"/><s n="GD"/></l><r>סאן פוול<b/>איל-בחר<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Santa<b/>Luċija<s n="np"/><s n="top"/><s n="GD"/></l><r>סנטה<b/>לוצ'יה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Santa<b/>Venera<s n="np"/><s n="top"/><s n="GD"/></l><r>סנטה<b/>וונרה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Is-Siġġiewi<s n="np"/><s n="top"/><s n="GD"/></l><r>סיג'יווי<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Tas-Sliema<s n="np"/><s n="top"/><s n="GD"/></l><r>סליאמה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Is-Swieqi<s n="np"/><s n="top"/><s n="GD"/></l><r>סוויאי<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Ħal<b/>Tarxien<s n="np"/><s n="top"/><s n="GD"/></l><r>טרשין<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Ta'<b/>Xbiex<s n="np"/><s n="top"/><s n="GD"/></l><r>טא'<b/>שביאש<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Il-Belt<b/>Valletta<s n="np"/><s n="top"/><s n="GD"/></l><r>ולטה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Ix-Xgħajra<s n="np"/><s n="top"/><s n="GD"/></l><r>שאיירה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Ħaż-Żabbar<s n="np"/><s n="top"/><s n="GD"/></l><r>זאבאר<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Ħaż-Żebbuġ<s n="np"/><s n="top"/><s n="GD"/></l><r>זבוג'<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Iż-Żejtun<s n="np"/><s n="top"/><s n="GD"/></l><r>זייטון<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Iż-Żurrieq<s n="np"/><s n="top"/><s n="GD"/></l><r>זוריי<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Il-Fontana<s n="np"/><s n="top"/><s n="GD"/></l><r>פונטאנה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Għajnsielem<s n="np"/><s n="top"/><s n="GD"/></l><r>איינסילם<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>L-Għarb<s n="np"/><s n="top"/><s n="GD"/></l><r>ארב<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>L-Għasri<s n="np"/><s n="top"/><s n="GD"/></l><r>אסרי<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Ta'<b/>Kerċem<s n="np"/><s n="top"/><s n="GD"/></l><r>טא'<b/>קרצ'ם<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Il-Munxar<s n="np"/><s n="top"/><s n="GD"/></l><r>מונשאר<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>In-Nadur<s n="np"/><s n="top"/><s n="GD"/></l><r>נדור<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Il-Qala<s n="np"/><s n="top"/><s n="GD"/></l><r>אלה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>San<b/>Lawrenz<s n="np"/><s n="top"/><s n="GD"/></l><r>סאן<b/>לורנץ<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Ta'<b/>Sannat<s n="np"/><s n="top"/><s n="GD"/></l><r>טא'<b/>סנאט<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Marsaxlokk<s n="np"/><s n="top"/><s n="m"/></l><r>מרסשלוק<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>L-Imdina<s n="np"/><s n="top"/><s n="f"/></l><r>מדינה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Il-Mellieħa<s n="np"/><s n="top"/><s n="f"/></l><r>מליאחה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>L-Imġarr<s n="np"/><s n="top"/><s n="m"/></l><r>מג'אר<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Il-Mosta<s n="np"/><s n="top"/><s n="f"/></l><r>מוסטה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>L-Imqabba<s n="np"/><s n="top"/><s n="f"/></l><r>מאבה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>L-Imsida<s n="np"/><s n="top"/><s n="f"/></l><r>מסידה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>L-Imtarfa<s n="np"/><s n="top"/><s n="f"/></l><r>מטארפה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>In-Naxxar<s n="np"/><s n="top"/><s n="m"/></l><r>נשאר<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Paola<s n="np"/><s n="top"/><s n="m"/></l><r>פאולה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Pembroke<s n="np"/><s n="top"/><s n="m"/></l><r>פמברוק<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Pietà<s n="np"/><s n="top"/><s n="f"/></l><r>פיאטה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Ħal<b/>Qormi<s n="np"/><s n="top"/><s n="m"/></l><r>אורמי<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Il-Qrendi<s n="np"/><s n="top"/><s n="m"/></l><r>ארנדי<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Ir-Rabat<s n="np"/><s n="top"/><s n="m"/></l><r>רבאט<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Ħal<b/>Safi<s n="np"/><s n="top"/><s n="m"/></l><r>סאפי<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>San<b/>Ġiljan<s n="np"/><s n="top"/><s n="m"/></l><r>סאן<b/>ג'יליאן<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>San<b/>Ġwann<s n="np"/><s n="top"/><s n="m"/></l><r>סאן<b/>ג'ואן<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>San Pawl<b/>il-Baħar<s n="np"/><s n="top"/><s n="m"/></l><r>סאן פוול<b/>איל-בחר<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Santa<b/>Luċija<s n="np"/><s n="top"/><s n="m"/></l><r>סנטה<b/>לוצ'יה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Santa<b/>Luċija<s n="np"/><s n="top"/><s n="f"/></l><r>סנטה<b/>לוצ'יה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Santa<b/>Venera<s n="np"/><s n="top"/><s n="m"/></l><r>סנטה<b/>וונרה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Santa<b/>Venera<s n="np"/><s n="top"/><s n="f"/></l><r>סנטה<b/>וונרה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Is-Siġġiewi<s n="np"/><s n="top"/><s n="m"/></l><r>סיג'יווי<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Tas-Sliema<s n="np"/><s n="top"/><s n="f"/></l><r>סליאמה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Is-Swieqi<s n="np"/><s n="top"/><s n="m"/></l><r>סוויאי<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Ħal<b/>Tarxien<s n="np"/><s n="top"/><s n="m"/></l><r>טרשין<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Ta'<b/>Xbiex<s n="np"/><s n="top"/><s n="m"/></l><r>טא'<b/>שביאש<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Il-Belt<b/>Valletta<s n="np"/><s n="top"/><s n="f"/></l><r>ולטה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Ix-Xgħajra<s n="np"/><s n="top"/><s n="f"/></l><r>שאיירה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Ħaż-Żabbar<s n="np"/><s n="top"/><s n="m"/></l><r>זאבאר<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Ħaż-Żebbuġ<s n="np"/><s n="top"/><s n="m"/></l><r>זבוג'<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Iż-Żejtun<s n="np"/><s n="top"/><s n="m"/></l><r>זייטון<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Iż-Żurrieq<s n="np"/><s n="top"/><s n="m"/></l><r>זוריי<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Il-Fontana<s n="np"/><s n="top"/><s n="m"/></l><r>פונטאנה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Għajnsielem<s n="np"/><s n="top"/><s n="m"/></l><r>איינסילם<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>L-Għarb<s n="np"/><s n="top"/><s n="m"/></l><r>ארב<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>L-Għasri<s n="np"/><s n="top"/><s n="m"/></l><r>אסרי<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Ta'<b/>Kerċem<s n="np"/><s n="top"/><s n="m"/></l><r>טא'<b/>קרצ'ם<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Il-Munxar<s n="np"/><s n="top"/><s n="m"/></l><r>מונשאר<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>In-Nadur<s n="np"/><s n="top"/><s n="m"/></l><r>נדור<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Il-Qala<s n="np"/><s n="top"/><s n="f"/></l><r>אלה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>San<b/>Lawrenz<s n="np"/><s n="top"/><s n="m"/></l><r>סאן<b/>לורנץ<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Ta'<b/>Sannat<s n="np"/><s n="top"/><s n="m"/></l><r>טא'<b/>סנאט<s n="np"/><s n="top"/><s n="f"/></r></p></e>
      <e><p><l>Victoria<s n="np"/><s n="top"/><s n="GD"/></l><r>ויקטוריה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>ir-Rabat<s n="np"/><s n="top"/><s n="GD"/></l><r>רבאט<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Ix-Xagħra<s n="np"/><s n="top"/><s n="GD"/></l><r>שארה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Ix-Xewkija<s n="np"/><s n="top"/><s n="GD"/></l><r>שווקייה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Iż-Żebbuġ<b/>Għawdex<s n="np"/><s n="top"/><s n="GD"/></l><r>זבוג'<b/>אוודש<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Bidnija<s n="np"/><s n="top"/><s n="GD"/></l><r>בידנייה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Bolton<s n="np"/><s n="top"/><s n="GD"/></l><r>בולטון<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Bromwich<s n="np"/><s n="top"/><s n="GD"/></l><r>ברומוויץ'<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Bubaqra<s n="np"/><s n="top"/><s n="GD"/></l><r>בובאקרה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Burmarrad<s n="np"/><s n="top"/><s n="GD"/></l><r>בורמראד<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Buġibba<s n="np"/><s n="top"/><s n="GD"/></l><r>בוג'יבה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Coventry<s n="np"/><s n="top"/><s n="GD"/></l><r>קובנטרי<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Fleur de<b/>Lys<s n="np"/><s n="top"/><s n="GD"/></l><r>פלר דה<b/>ליס<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Fulham<s n="np"/><s n="top"/><s n="GD"/></l><r>פולהאם<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Gwardamanġa<s n="np"/><s n="top"/><s n="GD"/></l><r>גווארדמנג'ה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Il-Baħrija<s n="np"/><s n="top"/><s n="GD"/></l><r>באחריה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Il-Mistra<s n="np"/><s n="top"/><s n="GD"/></l><r>מיסטרה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Iż-Żebbuġ<s n="np"/><s n="top"/><s n="GD"/></l><r>זבוג<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Marsalforn<s n="np"/><s n="top"/><s n="GD"/></l><r>מרסלפורן<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Messiku<s n="np"/><s n="top"/><s n="GD"/></l><r>מסיקו<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Paceville<s n="np"/><s n="top"/><s n="GD"/></l><r>פייסוויל<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>San<b/>Blas<s n="np"/><s n="top"/><s n="GD"/></l><r>סיינט<b/>בלאס<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>San<b/>Martin<s n="np"/><s n="top"/><s n="GD"/></l><r>סיינט<b/>מארטין<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>San<b/>Pietruburgu<s n="np"/><s n="top"/><s n="GD"/></l><r>סיינט<b/>פיטרסבורג<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>San<b/>Tumas<s n="np"/><s n="top"/><s n="GD"/></l><r>סיינט<b/>תומאס<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>San<b/>Ġakbu<s n="np"/><s n="top"/><s n="GD"/></l><r>סיינט<b/>ג'ייקוב<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>San<b/>Ġiljan<s n="np"/><s n="top"/><s n="GD"/></l><r>סיינט<b/>ג'יליאן<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>San<b/>Ġużepp<s n="np"/><s n="top"/><s n="GD"/></l><r>סיינט<b/>ג'וזף<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Santa<b/>Katerina<s n="np"/><s n="top"/><s n="GD"/></l><r>סנטה<b/>קטרינה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Santa<b/>Liberata<s n="np"/><s n="top"/><s n="GD"/></l><r>סנטה<b/>ליברטה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Santa<b/>Margerita<s n="np"/><s n="top"/><s n="GD"/></l><r>סנטה<b/>מרגריטה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Schengen<s n="np"/><s n="top"/><s n="GD"/></l><r>שנגן<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Ta'<b/>Pinu<s n="np"/><s n="top"/><s n="GD"/></l><r>טא'<b/>פינו<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Ta'<b/>Qali<s n="np"/><s n="top"/><s n="GD"/></l><r>טא'<b/>אלי<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Tal-Pietà<s n="np"/><s n="top"/><s n="GD"/></l><r>טא'<b/>פיאטה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Tal-Virtù<s n="np"/><s n="top"/><s n="GD"/></l><r>טאל<b/>וירטו<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Wied<b/>iż-Żurrieq<s n="np"/><s n="top"/><s n="GD"/></l><r>וויד<b/>איז-זוריק<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Zurrieq<s n="np"/><s n="top"/><s n="GD"/></l><r>זוריק<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Ħal<b/>Far<s n="np"/><s n="top"/><s n="GD"/></l><r>חאל<b/>פאר<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Ġerusalemm<s n="np"/><s n="top"/><s n="GD"/></l><r>ירושלים<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>ir-Rabat<s n="np"/><s n="top"/><s n="m"/></l><r>רבאט<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Ix-Xagħra<s n="np"/><s n="top"/><s n="f"/></l><r>שארה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Ix-Xewkija<s n="np"/><s n="top"/><s n="f"/></l><r>שווקייה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Għawdex<s n="np"/><s n="top"/><s n="f"/></l><r>אוודש<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Bidnija<s n="np"/><s n="top"/><s n="f"/></l><r>בידנייה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Bolton<s n="np"/><s n="top"/><s n="m"/></l><r>בולטון<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Bromwich<s n="np"/><s n="top"/><s n="m"/></l><r>ברומוויץ'<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Bubaqra<s n="np"/><s n="top"/><s n="f"/></l><r>בובאקרה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Burmarrad<s n="np"/><s n="top"/><s n="m"/></l><r>בורמראד<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Buġibba<s n="np"/><s n="top"/><s n="f"/></l><r>בוג'יבה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Coventry<s n="np"/><s n="top"/><s n="m"/></l><r>קובנטרי<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Fleur<b/>de<b/>Lys<s n="np"/><s n="top"/><s n="m"/></l><r>פלר<b/>דה<b/>ליס<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Fulham<s n="np"/><s n="top"/><s n="m"/></l><r>פולהאם<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Gwardamanġa<s n="np"/><s n="top"/><s n="f"/></l><r>גווארדמנג'ה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Il-Baħrija<s n="np"/><s n="top"/><s n="f"/></l><r>באחריה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Il-Mistra<s n="np"/><s n="top"/><s n="f"/></l><r>מיסטרה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Iż-Żebbuġ<s n="np"/><s n="top"/><s n="m"/></l><r>זבוג<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Marsalforn<s n="np"/><s n="top"/><s n="m"/></l><r>מרסלפורן<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Messiku<s n="np"/><s n="top"/><s n="m"/></l><r>מסיקו<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Paceville<s n="np"/><s n="top"/><s n="m"/></l><r>פייסוויל<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>San<b/>Blas<s n="np"/><s n="top"/><s n="m"/></l><r>סיינט<b/>בלאס<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>San<b/>Martin<s n="np"/><s n="top"/><s n="m"/></l><r>סיינט<b/>מארטין<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>San<b/>Pietruburgu<s n="np"/><s n="top"/><s n="m"/></l><r>סיינט<b/>פיטרסבורג<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>San<b/>Tumas<s n="np"/><s n="top"/><s n="m"/></l><r>סיינט<b/>תומאס<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>San<b/>Ġakbu<s n="np"/><s n="top"/><s n="m"/></l><r>סיינט<b/>ג'ייקוב<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>San<b/>Ġiljan<s n="np"/><s n="top"/><s n="m"/></l><r>סיינט<b/>ג'יליאן<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>San<b/>Ġużepp<s n="np"/><s n="top"/><s n="m"/></l><r>סיינט<b/>ג'וזף<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Santa<b/>Katerina<s n="np"/><s n="top"/><s n="m"/></l><r>סנטה<b/>קטרינה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Santa<b/>Liberata<s n="np"/><s n="top"/><s n="m"/></l><r>סנטה<b/>ליברטה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Santa<b/>Margerita<s n="np"/><s n="top"/><s n="m"/></l><r>סנטה<b/>מרגריטה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Schengen<s n="np"/><s n="top"/><s n="m"/></l><r>שנגן<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Ta'<b/>Pinu<s n="np"/><s n="top"/><s n="m"/></l><r>טא'<b/>פינו<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Ta'<b/>Qali<s n="np"/><s n="top"/><s n="m"/></l><r>טא'<b/>אלי<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Tal-Pietà<s n="np"/><s n="top"/><s n="f"/></l><r>טא'<b/>פיאטה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Tal-Virtù<s n="np"/><s n="top"/><s n="m"/></l><r>טאל<b/>וירטו<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Wied<b/>iż-Żurrieq<s n="np"/><s n="top"/><s n="m"/></l><r>וויד<b/>איז-זוריק<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Zurrieq<s n="np"/><s n="top"/><s n="m"/></l><r>זוריק<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Ħal<b/>Far<s n="np"/><s n="top"/><s n="m"/></l><r>חאל<b/>פאר<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Ġerusalemm<s n="np"/><s n="top"/><s n="m"/></l><r>ירושלים<s n="np"/><s n="top"/><s n="f"/></r></p></e>
 
      <e><p><l>Air<b/>Malta<s n="np"/><s n="al"/><s n="m"/></l><r>אייר<b/>מלטה<s n="np"/><s n="al"/><s n="f"/></r></p></e>
      <e><p><l>Alternattiva<b/>Demokratika<s n="np"/><s n="al"/><s n="m"/></l><r>מפלגת האלטרנטיבה<b/>הדמוקרטית<s n="np"/><s n="al"/><s n="f"/></r></p></e>
@@ -2473,6 +2475,7 @@
      <e><p><l>Żakkarija<s n="np"/><s n="ant"/><s n="m"/></l><r>זכריה<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 
      <e><p><l>Olimpjadi<s n="np"/><s n="al"/><s n="m"/></l><r>אולימפיאדה<s n="np"/><s n="al"/><s n="f"/></r></p></e>
+     <e><p><l>Kronaka<b/>f'Malta<s n="np"/><s n="al"/><s n="m"/><s n="sssgg"/></l><r>דברי<b/>מלטה<s n="np"/><s n="al"/><s n="m"/><s n="pl"/></r></p></e>
 
      <!-- SECTION: Adjectives -->
      <e><p><l>politiku<s n="adj"/></l><r>פוליטי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
