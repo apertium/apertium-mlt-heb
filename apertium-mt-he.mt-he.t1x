@@ -14,6 +14,9 @@
     <def-cat n="pron">
       <cat-item tags="prn.*"/>
     </def-cat>
+    <def-cat n="qed">
+      <cat-item lemma="qed" tags="adv"/>
+    </def-cat>
     <def-cat n="se">
       <cat-item lemma="se" tags="adv"/>
       <cat-item lemma="ser" tags="adv"/>
@@ -267,6 +270,29 @@
          </out>
        </action>
     </rule>
+
+    <rule comment="rule: qed">
+       <pattern>
+         <pattern-item n="qed"/>
+       </pattern>
+       <action>
+         <out c="Delete 'qed' when followed by unknown">
+           <b/>
+         </out>
+       </action>
+    </rule>
+
+    <rule comment="rule: se">
+       <pattern>
+         <pattern-item n="se"/>
+       </pattern>
+       <action>
+         <out c="Delete 'se' when followed by unknown">
+           <b/>
+         </out>
+       </action>
+    </rule>
+
 
     <rule comment="rule: se verb">
        <pattern>
