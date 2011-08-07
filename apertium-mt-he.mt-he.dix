@@ -167,7 +167,6 @@
      <e><p><l>jew<s n="prn"/></l><r>או<s n="prn"/></r></p></e>
 
      <e><p><l>iehor<s n="prn"/></l><r>אחר<s n="prn"/></r></p></e>
-     <e><p><l>kwalunkwe<b/>haga<s n="prn"/></l><r>כל<b/>דבר<s n="prn"/></r></p></e>
      <e><p><l>xi<b/>ħadd<s n="prn"/></l><r>כל<b/>אחד<s n="prn"/></r></p></e>
      <e><p><l>kulhadd<s n="prn"/></l><r>כולם<s n="prn"/></r></p></e>
      <e><p><l>kollox<s n="prn"/></l><r>הכל<s n="prn"/></r></p></e>
@@ -1300,7 +1299,8 @@
      <e><p><l>xewqa<s n="n"/><s n="f"/></l><r>תשוקה<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>istituzzjoni<s n="n"/><s n="f"/></l><r>מוסד<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>tema<s n="n"/><s n="f"/></l><r>נושא<s n="n"/><s n="m"/></r></p></e>
-     <e><p><l>sigurtà<s n="n"/><s n="f"/></l><r>בטחון<s n="n"/><s n="m"/></r></p></e>
+     <e c="  0"><p><l>sigurtà<s n="n"/><s n="f"/></l><r>בטחון<s n="n"/><s n="m"/></r></p></e>
+     <e slr="1"><p><l>sigurtà<s n="n"/><s n="f"/></l><r>אבטחה<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>ekonomija<s n="n"/><s n="f"/></l><r>כלכלה<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>protezzjoni<s n="n"/><s n="f"/></l><r>הגנה<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>oppożizzjoni<s n="n"/><s n="f"/></l><r>התנגדות<s n="n"/><s n="f"/></r></p></e>
@@ -1838,6 +1838,20 @@
      <e c="  0"><p><l>nuffata<s n="n"/><s n="f"/></l><r>שלפוחית<s n="n"/><s n="f"/></r></p></e>
      <e slr="1"><p><l>nuffata<s n="n"/><s n="f"/></l><r>יבלת<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>mħadda<s n="n"/><s n="f"/></l><r>כרית<s n="n"/><s n="f"/></r></p></e>
+
+     <e c="  0"><p><l>molla<s n="n"/><s n="f"/></l><r>מהדק<s n="n"/><s n="m"/></r></p></e>
+     <e slr="1"><p><l>molla<s n="n"/><s n="f"/></l><r>קפיץ<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>ingassa<s n="n"/><s n="f"/></l><r>לולאה<s n="n"/><s n="f"/></r></p></e><!-- TODO -->
+     <e><p><l>inkursjoni<s n="n"/><s n="f"/></l><r>פלישה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>immigranta<s n="n"/><s n="f"/></l><r>מהגרת<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>fawra<s n="n"/><s n="f"/></l><r>הסמקה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>stanga<s n="n"/><s n="f"/></l><r>באר<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>xalla<s n="n"/><s n="f"/></l><r>צעיף<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>dramma<s n="n"/><s n="f"/></l><r>דרמה<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>umanità<s n="n"/><s n="f"/></l><r>אנושות<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>karfusa<s n="n"/><s n="f"/></l><r>סלרי<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>lenza<s n="n"/><s n="f"/></l><r>שורה<s n="n"/><s n="f"/></r></p></e><!-- TODO -->
+     <e><p><l>antikamra<s n="n"/><s n="f"/></l><r>לובי<s n="n"/><s n="m"/></r></p></e><!-- TODO -->
 
      <!-- SECTION: Proper nouns -->
 
