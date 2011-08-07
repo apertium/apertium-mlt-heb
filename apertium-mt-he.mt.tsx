@@ -8,6 +8,10 @@
   <def-label name="ABBR">
     <tags-item tags="abbr"/>
   </def-label>
+  <def-label name="VBLEX-PPRS">
+    <tags-item tags="vblex.pprs"/>
+    <tags-item tags="vblex.pprs.*"/>
+  </def-label>
   <def-label name="ADJ-COMP">
     <tags-item tags="adj.comp"/>
   </def-label>
@@ -47,7 +51,7 @@
   <def-label name="ADV-ITG" closed="true">
     <tags-item tags="adv.itg"/>
   </def-label>
-  <def-label name="cm" closed="true">
+  <def-label name="COMMA" closed="true">
     <tags-item tags="cm"/>
   </def-label>
   <def-label name="CNJADV" closed="true">
@@ -224,25 +228,13 @@
   <def-label name="prn.ind.mf.sg" closed="true">
     <tags-item tags="prn.ind.mf.sg"/>
   </def-label>
-  <def-label name="prn.ind.mf.sg.px1pl" closed="true">
+  <def-label name="PRON-IND-MF-SG-POSS" closed="true">
     <tags-item tags="prn.ind.mf.sg.px1pl"/>
-  </def-label>
-  <def-label name="prn.ind.mf.sg.px1sg" closed="true">
     <tags-item tags="prn.ind.mf.sg.px1sg"/>
-  </def-label>
-  <def-label name="prn.ind.mf.sg.px2pl" closed="true">
     <tags-item tags="prn.ind.mf.sg.px2pl"/>
-  </def-label>
-  <def-label name="prn.ind.mf.sg.px2sg" closed="true">
     <tags-item tags="prn.ind.mf.sg.px2sg"/>
-  </def-label>
-  <def-label name="prn.ind.mf.sg.px3pl" closed="true">
     <tags-item tags="prn.ind.mf.sg.px3pl"/>
-  </def-label>
-  <def-label name="prn.ind.mf.sg.px3sg_f" closed="true">
     <tags-item tags="prn.ind.mf.sg.px3sg_f"/>
-  </def-label>
-  <def-label name="prn.ind.mf.sg.px3sg_m" closed="true">
     <tags-item tags="prn.ind.mf.sg.px3sg_m"/>
   </def-label>
   <def-label name="prn.ind.mf.sp" closed="true">
@@ -371,58 +363,16 @@
       <tags-item tags="det.def.mf.sp"/>
     </sequence>
   </def-mult>
-  <def-mult name="pr+n.m.pl">
+  <def-mult name="pr+n">
     <sequence>
       <tags-item tags="pr"/>
-      <tags-item tags="n.m.pl"/>
+      <tags-item tags="n.*"/>
     </sequence>
   </def-mult>
-  <def-mult name="pr+n.m.sg">
+  <def-mult name="pr+prn" closed="true">
     <sequence>
       <tags-item tags="pr"/>
-      <tags-item tags="n.m.sg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="pr+prn.p1.mf.pl" closed="true">
-    <sequence>
-      <tags-item tags="pr"/>
-      <tags-item tags="prn.p1.mf.pl"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="pr+prn.p1.mf.sg" closed="true">
-    <sequence>
-      <tags-item tags="pr"/>
-      <tags-item tags="prn.p1.mf.sg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="pr+prn.p2.mf.pl" closed="true">
-    <sequence>
-      <tags-item tags="pr"/>
-      <tags-item tags="prn.p2.mf.pl"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="pr+prn.p2.mf.sg" closed="true">
-    <sequence>
-      <tags-item tags="pr"/>
-      <tags-item tags="prn.p2.mf.sg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="pr+prn.p3.f.sg" closed="true">
-    <sequence>
-      <tags-item tags="pr"/>
-      <tags-item tags="prn.p3.f.sg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="pr+prn.p3.mf.pl" closed="true">
-    <sequence>
-      <tags-item tags="pr"/>
-      <tags-item tags="prn.p3.mf.pl"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="pr+prn.p3.m.sg" closed="true">
-    <sequence>
-      <tags-item tags="pr"/>
-      <tags-item tags="prn.p3.m.sg"/>
+      <tags-item tags="prn.*"/>
     </sequence>
   </def-mult>
   <def-mult name="vaux.inf+neg" closed="true">
@@ -431,48 +381,49 @@
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vaux.past.p1.pl+neg" closed="true">
+  <def-mult name="vaux.p1.pl+neg" closed="true">
     <sequence>
-      <tags-item tags="vaux.past.p1.pl"/>
+      <tags-item tags="vaux.*.p1.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vaux.past.p1.sg+neg" closed="true">
+  <def-mult name="vaux.p1.sg+neg" closed="true">
     <sequence>
-      <tags-item tags="vaux.past.p1.sg"/>
+      <tags-item tags="vaux.*.p1.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vaux.past.p2.pl+neg" closed="true">
+  <def-mult name="vaux.p2.pl+neg" closed="true">
     <sequence>
-      <tags-item tags="vaux.past.p2.pl"/>
+      <tags-item tags="vaux.*.p2.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vaux.past.p2.sg+neg" closed="true">
+  <def-mult name="vaux.p2.sg+neg" closed="true">
     <sequence>
-      <tags-item tags="vaux.past.p2.sg"/>
+      <tags-item tags="vaux.*.p2.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vaux.past.p3.f.sg+neg" closed="true">
+  <def-mult name="vaux.p3.f.sg+neg" closed="true">
     <sequence>
-      <tags-item tags="vaux.past.p3.f.sg"/>
+      <tags-item tags="vaux.*.p3.f.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vaux.past.p3.m.sg+neg" closed="true">
+  <def-mult name="vaux.p3.m.sg+neg" closed="true">
     <sequence>
-      <tags-item tags="vaux.past.p3.m.sg"/>
+      <tags-item tags="vaux.*.p3.m.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vaux.past.p3.pl+neg" closed="true">
+  <def-mult name="vaux.p3.pl+neg" closed="true">
     <sequence>
-      <tags-item tags="vaux.past.p3.pl"/>
+      <tags-item tags="vaux.*.p3.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
+<!--
   <def-mult name="vaux.pres.p1.pl+neg" closed="true">
     <sequence>
       <tags-item tags="vaux.pres.p1.pl"/>
@@ -515,6 +466,7 @@
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
+-->
   <def-mult name="vblex.ger+neg">
     <sequence>
       <tags-item tags="vblex.ger"/>
@@ -2191,6 +2143,7 @@
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
+<!--
   <def-mult name="vblex.past.p1.pl+neg">
     <sequence>
       <tags-item tags="vblex.past.p1.pl"/>
@@ -8014,7 +7967,7 @@
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="neg"/>
     </sequence>
-  </def-mult>
+  </def-mult> -->
   <def-mult name="vblex.pp.f.sg+neg">
     <sequence>
       <tags-item tags="vblex.pp.f.sg"/>
@@ -10517,8327 +10470,6664 @@
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+neg">
+  <def-mult name="vblex.pprs+neg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p1.mf.pl">
+  <def-mult name="vblex.pprs+prn.p1.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p1.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p1.mf.pl+neg">
+  <def-mult name="vblex.pprs+prn.p1.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p1.mf.pl+prn.p1.mf.pl">
+  <def-mult name="vblex.pprs+prn.p1.mf.pl+prn.p1.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p1.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p1.mf.pl+prn.p1.mf.pl+neg">
+  <def-mult name="vblex.pprs+prn.p1.mf.pl+prn.p1.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p1.mf.pl+prn.p1.mf.sg">
+  <def-mult name="vblex.pprs+prn.p1.mf.pl+prn.p1.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p1.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p1.mf.pl+prn.p1.mf.sg+neg">
+  <def-mult name="vblex.pprs+prn.p1.mf.pl+prn.p1.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p1.mf.pl+prn.p2.mf.pl">
+  <def-mult name="vblex.pprs+prn.p1.mf.pl+prn.p2.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p2.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p1.mf.pl+prn.p2.mf.pl+neg">
+  <def-mult name="vblex.pprs+prn.p1.mf.pl+prn.p2.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p1.mf.pl+prn.p2.mf.sg">
+  <def-mult name="vblex.pprs+prn.p1.mf.pl+prn.p2.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p2.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p1.mf.pl+prn.p2.mf.sg+neg">
+  <def-mult name="vblex.pprs+prn.p1.mf.pl+prn.p2.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p1.mf.pl+prn.p3.f.sg">
+  <def-mult name="vblex.pprs+prn.p1.mf.pl+prn.p3.f.sg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p3.f.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p1.mf.pl+prn.p3.f.sg+neg">
+  <def-mult name="vblex.pprs+prn.p1.mf.pl+prn.p3.f.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p1.mf.pl+prn.p3.mf.pl">
+  <def-mult name="vblex.pprs+prn.p1.mf.pl+prn.p3.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p3.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p1.mf.pl+prn.p3.mf.pl+neg">
+  <def-mult name="vblex.pprs+prn.p1.mf.pl+prn.p3.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p1.mf.pl+prn.p3.m.sg">
+  <def-mult name="vblex.pprs+prn.p1.mf.pl+prn.p3.m.sg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p3.m.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p1.mf.pl+prn.p3.m.sg+neg">
+  <def-mult name="vblex.pprs+prn.p1.mf.pl+prn.p3.m.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p1.mf.sg">
+  <def-mult name="vblex.pprs+prn.p1.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p1.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p1.mf.sg+neg">
+  <def-mult name="vblex.pprs+prn.p1.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p1.mf.sg+prn.p1.mf.pl">
+  <def-mult name="vblex.pprs+prn.p1.mf.sg+prn.p1.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p1.mf.sg+prn.p1.mf.pl+neg">
+  <def-mult name="vblex.pprs+prn.p1.mf.sg+prn.p1.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p1.mf.sg+prn.p1.mf.sg">
+  <def-mult name="vblex.pprs+prn.p1.mf.sg+prn.p1.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p1.mf.sg+prn.p1.mf.sg+neg">
+  <def-mult name="vblex.pprs+prn.p1.mf.sg+prn.p1.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p1.mf.sg+prn.p2.mf.pl">
+  <def-mult name="vblex.pprs+prn.p1.mf.sg+prn.p2.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p1.mf.sg+prn.p2.mf.pl+neg">
+  <def-mult name="vblex.pprs+prn.p1.mf.sg+prn.p2.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p1.mf.sg+prn.p2.mf.sg">
+  <def-mult name="vblex.pprs+prn.p1.mf.sg+prn.p2.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p1.mf.sg+prn.p2.mf.sg+neg">
+  <def-mult name="vblex.pprs+prn.p1.mf.sg+prn.p2.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p1.mf.sg+prn.p3.f.sg">
+  <def-mult name="vblex.pprs+prn.p1.mf.sg+prn.p3.f.sg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p1.mf.sg+prn.p3.f.sg+neg">
+  <def-mult name="vblex.pprs+prn.p1.mf.sg+prn.p3.f.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p1.mf.sg+prn.p3.mf.pl">
+  <def-mult name="vblex.pprs+prn.p1.mf.sg+prn.p3.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p1.mf.sg+prn.p3.mf.pl+neg">
+  <def-mult name="vblex.pprs+prn.p1.mf.sg+prn.p3.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p1.mf.sg+prn.p3.m.sg">
+  <def-mult name="vblex.pprs+prn.p1.mf.sg+prn.p3.m.sg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p1.mf.sg+prn.p3.m.sg+neg">
+  <def-mult name="vblex.pprs+prn.p1.mf.sg+prn.p3.m.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p2.mf.pl">
+  <def-mult name="vblex.pprs+prn.p2.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p2.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p2.mf.pl+neg">
+  <def-mult name="vblex.pprs+prn.p2.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p2.mf.pl+prn.p1.mf.pl">
+  <def-mult name="vblex.pprs+prn.p2.mf.pl+prn.p1.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p1.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p2.mf.pl+prn.p1.mf.pl+neg">
+  <def-mult name="vblex.pprs+prn.p2.mf.pl+prn.p1.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p2.mf.pl+prn.p1.mf.sg">
+  <def-mult name="vblex.pprs+prn.p2.mf.pl+prn.p1.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p1.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p2.mf.pl+prn.p1.mf.sg+neg">
+  <def-mult name="vblex.pprs+prn.p2.mf.pl+prn.p1.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p2.mf.pl+prn.p2.mf.pl">
+  <def-mult name="vblex.pprs+prn.p2.mf.pl+prn.p2.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p2.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p2.mf.pl+prn.p2.mf.pl+neg">
+  <def-mult name="vblex.pprs+prn.p2.mf.pl+prn.p2.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p2.mf.pl+prn.p2.mf.sg">
+  <def-mult name="vblex.pprs+prn.p2.mf.pl+prn.p2.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p2.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p2.mf.pl+prn.p2.mf.sg+neg">
+  <def-mult name="vblex.pprs+prn.p2.mf.pl+prn.p2.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p2.mf.pl+prn.p3.f.sg">
+  <def-mult name="vblex.pprs+prn.p2.mf.pl+prn.p3.f.sg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p3.f.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p2.mf.pl+prn.p3.f.sg+neg">
+  <def-mult name="vblex.pprs+prn.p2.mf.pl+prn.p3.f.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p2.mf.pl+prn.p3.mf.pl">
+  <def-mult name="vblex.pprs+prn.p2.mf.pl+prn.p3.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p3.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p2.mf.pl+prn.p3.mf.pl+neg">
+  <def-mult name="vblex.pprs+prn.p2.mf.pl+prn.p3.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p2.mf.pl+prn.p3.m.sg">
+  <def-mult name="vblex.pprs+prn.p2.mf.pl+prn.p3.m.sg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p3.m.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p2.mf.pl+prn.p3.m.sg+neg">
+  <def-mult name="vblex.pprs+prn.p2.mf.pl+prn.p3.m.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p2.mf.sg">
+  <def-mult name="vblex.pprs+prn.p2.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p2.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p2.mf.sg+neg">
+  <def-mult name="vblex.pprs+prn.p2.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p2.mf.sg+prn.p1.mf.pl">
+  <def-mult name="vblex.pprs+prn.p2.mf.sg+prn.p1.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p2.mf.sg+prn.p1.mf.pl+neg">
+  <def-mult name="vblex.pprs+prn.p2.mf.sg+prn.p1.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p2.mf.sg+prn.p1.mf.sg">
+  <def-mult name="vblex.pprs+prn.p2.mf.sg+prn.p1.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p2.mf.sg+prn.p1.mf.sg+neg">
+  <def-mult name="vblex.pprs+prn.p2.mf.sg+prn.p1.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p2.mf.sg+prn.p2.mf.pl">
+  <def-mult name="vblex.pprs+prn.p2.mf.sg+prn.p2.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p2.mf.sg+prn.p2.mf.pl+neg">
+  <def-mult name="vblex.pprs+prn.p2.mf.sg+prn.p2.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p2.mf.sg+prn.p2.mf.sg">
+  <def-mult name="vblex.pprs+prn.p2.mf.sg+prn.p2.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p2.mf.sg+prn.p2.mf.sg+neg">
+  <def-mult name="vblex.pprs+prn.p2.mf.sg+prn.p2.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p2.mf.sg+prn.p3.f.sg">
+  <def-mult name="vblex.pprs+prn.p2.mf.sg+prn.p3.f.sg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p2.mf.sg+prn.p3.f.sg+neg">
+  <def-mult name="vblex.pprs+prn.p2.mf.sg+prn.p3.f.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p2.mf.sg+prn.p3.mf.pl">
+  <def-mult name="vblex.pprs+prn.p2.mf.sg+prn.p3.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p2.mf.sg+prn.p3.mf.pl+neg">
+  <def-mult name="vblex.pprs+prn.p2.mf.sg+prn.p3.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p2.mf.sg+prn.p3.m.sg">
+  <def-mult name="vblex.pprs+prn.p2.mf.sg+prn.p3.m.sg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p2.mf.sg+prn.p3.m.sg+neg">
+  <def-mult name="vblex.pprs+prn.p2.mf.sg+prn.p3.m.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p3.f.sg">
+  <def-mult name="vblex.pprs+prn.p3.f.sg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p3.f.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p3.f.sg+neg">
+  <def-mult name="vblex.pprs+prn.p3.f.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p3.f.sg+prn.p1.mf.pl">
+  <def-mult name="vblex.pprs+prn.p3.f.sg+prn.p1.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p3.f.sg+prn.p1.mf.pl+neg">
+  <def-mult name="vblex.pprs+prn.p3.f.sg+prn.p1.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p3.f.sg+prn.p1.mf.sg">
+  <def-mult name="vblex.pprs+prn.p3.f.sg+prn.p1.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p3.f.sg+prn.p1.mf.sg+neg">
+  <def-mult name="vblex.pprs+prn.p3.f.sg+prn.p1.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p3.f.sg+prn.p2.mf.pl">
+  <def-mult name="vblex.pprs+prn.p3.f.sg+prn.p2.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p3.f.sg+prn.p2.mf.pl+neg">
+  <def-mult name="vblex.pprs+prn.p3.f.sg+prn.p2.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p3.f.sg+prn.p2.mf.sg">
+  <def-mult name="vblex.pprs+prn.p3.f.sg+prn.p2.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p3.f.sg+prn.p2.mf.sg+neg">
+  <def-mult name="vblex.pprs+prn.p3.f.sg+prn.p2.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p3.f.sg+prn.p3.f.sg">
+  <def-mult name="vblex.pprs+prn.p3.f.sg+prn.p3.f.sg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p3.f.sg+prn.p3.f.sg+neg">
+  <def-mult name="vblex.pprs+prn.p3.f.sg+prn.p3.f.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p3.f.sg+prn.p3.mf.pl">
+  <def-mult name="vblex.pprs+prn.p3.f.sg+prn.p3.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p3.f.sg+prn.p3.mf.pl+neg">
+  <def-mult name="vblex.pprs+prn.p3.f.sg+prn.p3.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p3.f.sg+prn.p3.m.sg">
+  <def-mult name="vblex.pprs+prn.p3.f.sg+prn.p3.m.sg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p3.f.sg+prn.p3.m.sg+neg">
+  <def-mult name="vblex.pprs+prn.p3.f.sg+prn.p3.m.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p3.mf.pl">
+  <def-mult name="vblex.pprs+prn.p3.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p3.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p3.mf.pl+neg">
+  <def-mult name="vblex.pprs+prn.p3.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p3.mf.pl+prn.p1.mf.pl">
+  <def-mult name="vblex.pprs+prn.p3.mf.pl+prn.p1.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p1.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p3.mf.pl+prn.p1.mf.pl+neg">
+  <def-mult name="vblex.pprs+prn.p3.mf.pl+prn.p1.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p3.mf.pl+prn.p1.mf.sg">
+  <def-mult name="vblex.pprs+prn.p3.mf.pl+prn.p1.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p1.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p3.mf.pl+prn.p1.mf.sg+neg">
+  <def-mult name="vblex.pprs+prn.p3.mf.pl+prn.p1.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p3.mf.pl+prn.p2.mf.pl">
+  <def-mult name="vblex.pprs+prn.p3.mf.pl+prn.p2.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p2.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p3.mf.pl+prn.p2.mf.pl+neg">
+  <def-mult name="vblex.pprs+prn.p3.mf.pl+prn.p2.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p3.mf.pl+prn.p2.mf.sg">
+  <def-mult name="vblex.pprs+prn.p3.mf.pl+prn.p2.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p2.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p3.mf.pl+prn.p2.mf.sg+neg">
+  <def-mult name="vblex.pprs+prn.p3.mf.pl+prn.p2.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p3.mf.pl+prn.p3.f.sg">
+  <def-mult name="vblex.pprs+prn.p3.mf.pl+prn.p3.f.sg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p3.f.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p3.mf.pl+prn.p3.f.sg+neg">
+  <def-mult name="vblex.pprs+prn.p3.mf.pl+prn.p3.f.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p3.mf.pl+prn.p3.mf.pl">
+  <def-mult name="vblex.pprs+prn.p3.mf.pl+prn.p3.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p3.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p3.mf.pl+prn.p3.mf.pl+neg">
+  <def-mult name="vblex.pprs+prn.p3.mf.pl+prn.p3.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p3.mf.pl+prn.p3.m.sg">
+  <def-mult name="vblex.pprs+prn.p3.mf.pl+prn.p3.m.sg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p3.m.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p3.mf.pl+prn.p3.m.sg+neg">
+  <def-mult name="vblex.pprs+prn.p3.mf.pl+prn.p3.m.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p3.m.sg">
+  <def-mult name="vblex.pprs+prn.p3.m.sg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p3.m.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p3.m.sg+neg">
+  <def-mult name="vblex.pprs+prn.p3.m.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p3.m.sg+prn.p1.mf.pl">
+  <def-mult name="vblex.pprs+prn.p3.m.sg+prn.p1.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p3.m.sg+prn.p1.mf.pl+neg">
+  <def-mult name="vblex.pprs+prn.p3.m.sg+prn.p1.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p3.m.sg+prn.p1.mf.sg">
+  <def-mult name="vblex.pprs+prn.p3.m.sg+prn.p1.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p3.m.sg+prn.p1.mf.sg+neg">
+  <def-mult name="vblex.pprs+prn.p3.m.sg+prn.p1.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p3.m.sg+prn.p2.mf.pl">
+  <def-mult name="vblex.pprs+prn.p3.m.sg+prn.p2.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p3.m.sg+prn.p2.mf.pl+neg">
+  <def-mult name="vblex.pprs+prn.p3.m.sg+prn.p2.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p3.m.sg+prn.p2.mf.sg">
+  <def-mult name="vblex.pprs+prn.p3.m.sg+prn.p2.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p3.m.sg+prn.p2.mf.sg+neg">
+  <def-mult name="vblex.pprs+prn.p3.m.sg+prn.p2.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p3.m.sg+prn.p3.f.sg">
+  <def-mult name="vblex.pprs+prn.p3.m.sg+prn.p3.f.sg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p3.m.sg+prn.p3.f.sg+neg">
+  <def-mult name="vblex.pprs+prn.p3.m.sg+prn.p3.f.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p3.m.sg+prn.p3.mf.pl">
+  <def-mult name="vblex.pprs+prn.p3.m.sg+prn.p3.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p3.m.sg+prn.p3.mf.pl+neg">
+  <def-mult name="vblex.pprs+prn.p3.m.sg+prn.p3.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p3.m.sg+prn.p3.m.sg">
+  <def-mult name="vblex.pprs+prn.p3.m.sg+prn.p3.m.sg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.f.sg+prn.p3.m.sg+prn.p3.m.sg+neg">
+  <def-mult name="vblex.pprs+prn.p3.m.sg+prn.p3.m.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pprs.f.sg"/>
+      <label-item label="VBLEX-PPRS"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p1.mf.pl">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p1.mf.pl"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p1.mf.pl+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p1.mf.pl"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p1.mf.pl+prn.p1.mf.pl">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p1.mf.pl"/>
-      <tags-item tags="prn.p1.mf.pl"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p1.mf.pl+prn.p1.mf.pl+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p1.mf.pl"/>
-      <tags-item tags="prn.p1.mf.pl"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p1.mf.pl+prn.p1.mf.sg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p1.mf.pl"/>
-      <tags-item tags="prn.p1.mf.sg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p1.mf.pl+prn.p1.mf.sg+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p1.mf.pl"/>
-      <tags-item tags="prn.p1.mf.sg"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p1.mf.pl+prn.p2.mf.pl">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p1.mf.pl"/>
-      <tags-item tags="prn.p2.mf.pl"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p1.mf.pl+prn.p2.mf.pl+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p1.mf.pl"/>
-      <tags-item tags="prn.p2.mf.pl"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p1.mf.pl+prn.p2.mf.sg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p1.mf.pl"/>
-      <tags-item tags="prn.p2.mf.sg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p1.mf.pl+prn.p2.mf.sg+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p1.mf.pl"/>
-      <tags-item tags="prn.p2.mf.sg"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p1.mf.pl+prn.p3.f.sg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p1.mf.pl"/>
-      <tags-item tags="prn.p3.f.sg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p1.mf.pl+prn.p3.f.sg+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p1.mf.pl"/>
-      <tags-item tags="prn.p3.f.sg"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p1.mf.pl+prn.p3.mf.pl">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p1.mf.pl"/>
-      <tags-item tags="prn.p3.mf.pl"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p1.mf.pl+prn.p3.mf.pl+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p1.mf.pl"/>
-      <tags-item tags="prn.p3.mf.pl"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p1.mf.pl+prn.p3.m.sg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p1.mf.pl"/>
-      <tags-item tags="prn.p3.m.sg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p1.mf.pl+prn.p3.m.sg+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p1.mf.pl"/>
-      <tags-item tags="prn.p3.m.sg"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p1.mf.sg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p1.mf.sg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p1.mf.sg+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p1.mf.sg"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p1.mf.sg+prn.p1.mf.pl">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p1.mf.sg"/>
-      <tags-item tags="prn.p1.mf.pl"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p1.mf.sg+prn.p1.mf.pl+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p1.mf.sg"/>
-      <tags-item tags="prn.p1.mf.pl"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p1.mf.sg+prn.p1.mf.sg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p1.mf.sg"/>
-      <tags-item tags="prn.p1.mf.sg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p1.mf.sg+prn.p1.mf.sg+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p1.mf.sg"/>
-      <tags-item tags="prn.p1.mf.sg"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p1.mf.sg+prn.p2.mf.pl">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p1.mf.sg"/>
-      <tags-item tags="prn.p2.mf.pl"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p1.mf.sg+prn.p2.mf.pl+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p1.mf.sg"/>
-      <tags-item tags="prn.p2.mf.pl"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p1.mf.sg+prn.p2.mf.sg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p1.mf.sg"/>
-      <tags-item tags="prn.p2.mf.sg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p1.mf.sg+prn.p2.mf.sg+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p1.mf.sg"/>
-      <tags-item tags="prn.p2.mf.sg"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p1.mf.sg+prn.p3.f.sg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p1.mf.sg"/>
-      <tags-item tags="prn.p3.f.sg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p1.mf.sg+prn.p3.f.sg+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p1.mf.sg"/>
-      <tags-item tags="prn.p3.f.sg"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p1.mf.sg+prn.p3.mf.pl">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p1.mf.sg"/>
-      <tags-item tags="prn.p3.mf.pl"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p1.mf.sg+prn.p3.mf.pl+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p1.mf.sg"/>
-      <tags-item tags="prn.p3.mf.pl"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p1.mf.sg+prn.p3.m.sg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p1.mf.sg"/>
-      <tags-item tags="prn.p3.m.sg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p1.mf.sg+prn.p3.m.sg+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p1.mf.sg"/>
-      <tags-item tags="prn.p3.m.sg"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p2.mf.pl">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p2.mf.pl"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p2.mf.pl+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p2.mf.pl"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p2.mf.pl+prn.p1.mf.pl">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p2.mf.pl"/>
-      <tags-item tags="prn.p1.mf.pl"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p2.mf.pl+prn.p1.mf.pl+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p2.mf.pl"/>
-      <tags-item tags="prn.p1.mf.pl"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p2.mf.pl+prn.p1.mf.sg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p2.mf.pl"/>
-      <tags-item tags="prn.p1.mf.sg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p2.mf.pl+prn.p1.mf.sg+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p2.mf.pl"/>
-      <tags-item tags="prn.p1.mf.sg"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p2.mf.pl+prn.p2.mf.pl">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p2.mf.pl"/>
-      <tags-item tags="prn.p2.mf.pl"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p2.mf.pl+prn.p2.mf.pl+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p2.mf.pl"/>
-      <tags-item tags="prn.p2.mf.pl"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p2.mf.pl+prn.p2.mf.sg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p2.mf.pl"/>
-      <tags-item tags="prn.p2.mf.sg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p2.mf.pl+prn.p2.mf.sg+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p2.mf.pl"/>
-      <tags-item tags="prn.p2.mf.sg"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p2.mf.pl+prn.p3.f.sg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p2.mf.pl"/>
-      <tags-item tags="prn.p3.f.sg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p2.mf.pl+prn.p3.f.sg+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p2.mf.pl"/>
-      <tags-item tags="prn.p3.f.sg"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p2.mf.pl+prn.p3.mf.pl">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p2.mf.pl"/>
-      <tags-item tags="prn.p3.mf.pl"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p2.mf.pl+prn.p3.mf.pl+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p2.mf.pl"/>
-      <tags-item tags="prn.p3.mf.pl"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p2.mf.pl+prn.p3.m.sg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p2.mf.pl"/>
-      <tags-item tags="prn.p3.m.sg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p2.mf.pl+prn.p3.m.sg+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p2.mf.pl"/>
-      <tags-item tags="prn.p3.m.sg"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p2.mf.sg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p2.mf.sg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p2.mf.sg+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p2.mf.sg"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p2.mf.sg+prn.p1.mf.pl">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p2.mf.sg"/>
-      <tags-item tags="prn.p1.mf.pl"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p2.mf.sg+prn.p1.mf.pl+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p2.mf.sg"/>
-      <tags-item tags="prn.p1.mf.pl"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p2.mf.sg+prn.p1.mf.sg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p2.mf.sg"/>
-      <tags-item tags="prn.p1.mf.sg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p2.mf.sg+prn.p1.mf.sg+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p2.mf.sg"/>
-      <tags-item tags="prn.p1.mf.sg"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p2.mf.sg+prn.p2.mf.pl">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p2.mf.sg"/>
-      <tags-item tags="prn.p2.mf.pl"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p2.mf.sg+prn.p2.mf.pl+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p2.mf.sg"/>
-      <tags-item tags="prn.p2.mf.pl"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p2.mf.sg+prn.p2.mf.sg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p2.mf.sg"/>
-      <tags-item tags="prn.p2.mf.sg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p2.mf.sg+prn.p2.mf.sg+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p2.mf.sg"/>
-      <tags-item tags="prn.p2.mf.sg"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p2.mf.sg+prn.p3.f.sg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p2.mf.sg"/>
-      <tags-item tags="prn.p3.f.sg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p2.mf.sg+prn.p3.f.sg+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p2.mf.sg"/>
-      <tags-item tags="prn.p3.f.sg"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p2.mf.sg+prn.p3.mf.pl">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p2.mf.sg"/>
-      <tags-item tags="prn.p3.mf.pl"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p2.mf.sg+prn.p3.mf.pl+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p2.mf.sg"/>
-      <tags-item tags="prn.p3.mf.pl"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p2.mf.sg+prn.p3.m.sg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p2.mf.sg"/>
-      <tags-item tags="prn.p3.m.sg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p2.mf.sg+prn.p3.m.sg+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p2.mf.sg"/>
-      <tags-item tags="prn.p3.m.sg"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p3.f.sg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p3.f.sg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p3.f.sg+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p3.f.sg"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p3.f.sg+prn.p1.mf.pl">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p3.f.sg"/>
-      <tags-item tags="prn.p1.mf.pl"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p3.f.sg+prn.p1.mf.pl+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p3.f.sg"/>
-      <tags-item tags="prn.p1.mf.pl"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p3.f.sg+prn.p1.mf.sg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p3.f.sg"/>
-      <tags-item tags="prn.p1.mf.sg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p3.f.sg+prn.p1.mf.sg+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p3.f.sg"/>
-      <tags-item tags="prn.p1.mf.sg"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p3.f.sg+prn.p2.mf.pl">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p3.f.sg"/>
-      <tags-item tags="prn.p2.mf.pl"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p3.f.sg+prn.p2.mf.pl+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p3.f.sg"/>
-      <tags-item tags="prn.p2.mf.pl"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p3.f.sg+prn.p2.mf.sg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p3.f.sg"/>
-      <tags-item tags="prn.p2.mf.sg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p3.f.sg+prn.p2.mf.sg+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p3.f.sg"/>
-      <tags-item tags="prn.p2.mf.sg"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p3.f.sg+prn.p3.f.sg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p3.f.sg"/>
-      <tags-item tags="prn.p3.f.sg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p3.f.sg+prn.p3.f.sg+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p3.f.sg"/>
-      <tags-item tags="prn.p3.f.sg"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p3.f.sg+prn.p3.mf.pl">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p3.f.sg"/>
-      <tags-item tags="prn.p3.mf.pl"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p3.f.sg+prn.p3.mf.pl+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p3.f.sg"/>
-      <tags-item tags="prn.p3.mf.pl"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p3.f.sg+prn.p3.m.sg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p3.f.sg"/>
-      <tags-item tags="prn.p3.m.sg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p3.f.sg+prn.p3.m.sg+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p3.f.sg"/>
-      <tags-item tags="prn.p3.m.sg"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p3.mf.pl">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p3.mf.pl"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p3.mf.pl+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p3.mf.pl"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p3.mf.pl+prn.p1.mf.pl">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p3.mf.pl"/>
-      <tags-item tags="prn.p1.mf.pl"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p3.mf.pl+prn.p1.mf.pl+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p3.mf.pl"/>
-      <tags-item tags="prn.p1.mf.pl"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p3.mf.pl+prn.p1.mf.sg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p3.mf.pl"/>
-      <tags-item tags="prn.p1.mf.sg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p3.mf.pl+prn.p1.mf.sg+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p3.mf.pl"/>
-      <tags-item tags="prn.p1.mf.sg"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p3.mf.pl+prn.p2.mf.pl">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p3.mf.pl"/>
-      <tags-item tags="prn.p2.mf.pl"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p3.mf.pl+prn.p2.mf.pl+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p3.mf.pl"/>
-      <tags-item tags="prn.p2.mf.pl"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p3.mf.pl+prn.p2.mf.sg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p3.mf.pl"/>
-      <tags-item tags="prn.p2.mf.sg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p3.mf.pl+prn.p2.mf.sg+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p3.mf.pl"/>
-      <tags-item tags="prn.p2.mf.sg"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p3.mf.pl+prn.p3.f.sg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p3.mf.pl"/>
-      <tags-item tags="prn.p3.f.sg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p3.mf.pl+prn.p3.f.sg+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p3.mf.pl"/>
-      <tags-item tags="prn.p3.f.sg"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p3.mf.pl+prn.p3.mf.pl">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p3.mf.pl"/>
-      <tags-item tags="prn.p3.mf.pl"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p3.mf.pl+prn.p3.mf.pl+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p3.mf.pl"/>
-      <tags-item tags="prn.p3.mf.pl"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p3.mf.pl+prn.p3.m.sg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p3.mf.pl"/>
-      <tags-item tags="prn.p3.m.sg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p3.mf.pl+prn.p3.m.sg+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p3.mf.pl"/>
-      <tags-item tags="prn.p3.m.sg"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p3.m.sg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p3.m.sg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p3.m.sg+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p3.m.sg"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p3.m.sg+prn.p1.mf.pl">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p3.m.sg"/>
-      <tags-item tags="prn.p1.mf.pl"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p3.m.sg+prn.p1.mf.pl+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p3.m.sg"/>
-      <tags-item tags="prn.p1.mf.pl"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p3.m.sg+prn.p1.mf.sg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p3.m.sg"/>
-      <tags-item tags="prn.p1.mf.sg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p3.m.sg+prn.p1.mf.sg+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p3.m.sg"/>
-      <tags-item tags="prn.p1.mf.sg"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p3.m.sg+prn.p2.mf.pl">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p3.m.sg"/>
-      <tags-item tags="prn.p2.mf.pl"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p3.m.sg+prn.p2.mf.pl+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p3.m.sg"/>
-      <tags-item tags="prn.p2.mf.pl"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p3.m.sg+prn.p2.mf.sg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p3.m.sg"/>
-      <tags-item tags="prn.p2.mf.sg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p3.m.sg+prn.p2.mf.sg+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p3.m.sg"/>
-      <tags-item tags="prn.p2.mf.sg"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p3.m.sg+prn.p3.f.sg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p3.m.sg"/>
-      <tags-item tags="prn.p3.f.sg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p3.m.sg+prn.p3.f.sg+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p3.m.sg"/>
-      <tags-item tags="prn.p3.f.sg"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p3.m.sg+prn.p3.mf.pl">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p3.m.sg"/>
-      <tags-item tags="prn.p3.mf.pl"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p3.m.sg+prn.p3.mf.pl+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p3.m.sg"/>
-      <tags-item tags="prn.p3.mf.pl"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p3.m.sg+prn.p3.m.sg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p3.m.sg"/>
-      <tags-item tags="prn.p3.m.sg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.mf.pl+prn.p3.m.sg+prn.p3.m.sg+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.mf.pl"/>
-      <tags-item tags="prn.p3.m.sg"/>
-      <tags-item tags="prn.p3.m.sg"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p1.mf.pl">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p1.mf.pl"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p1.mf.pl+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p1.mf.pl"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p1.mf.pl+prn.p1.mf.pl">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p1.mf.pl"/>
-      <tags-item tags="prn.p1.mf.pl"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p1.mf.pl+prn.p1.mf.pl+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p1.mf.pl"/>
-      <tags-item tags="prn.p1.mf.pl"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p1.mf.pl+prn.p1.mf.sg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p1.mf.pl"/>
-      <tags-item tags="prn.p1.mf.sg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p1.mf.pl+prn.p1.mf.sg+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p1.mf.pl"/>
-      <tags-item tags="prn.p1.mf.sg"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p1.mf.pl+prn.p2.mf.pl">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p1.mf.pl"/>
-      <tags-item tags="prn.p2.mf.pl"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p1.mf.pl+prn.p2.mf.pl+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p1.mf.pl"/>
-      <tags-item tags="prn.p2.mf.pl"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p1.mf.pl+prn.p2.mf.sg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p1.mf.pl"/>
-      <tags-item tags="prn.p2.mf.sg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p1.mf.pl+prn.p2.mf.sg+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p1.mf.pl"/>
-      <tags-item tags="prn.p2.mf.sg"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p1.mf.pl+prn.p3.f.sg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p1.mf.pl"/>
-      <tags-item tags="prn.p3.f.sg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p1.mf.pl+prn.p3.f.sg+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p1.mf.pl"/>
-      <tags-item tags="prn.p3.f.sg"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p1.mf.pl+prn.p3.mf.pl">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p1.mf.pl"/>
-      <tags-item tags="prn.p3.mf.pl"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p1.mf.pl+prn.p3.mf.pl+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p1.mf.pl"/>
-      <tags-item tags="prn.p3.mf.pl"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p1.mf.pl+prn.p3.m.sg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p1.mf.pl"/>
-      <tags-item tags="prn.p3.m.sg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p1.mf.pl+prn.p3.m.sg+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p1.mf.pl"/>
-      <tags-item tags="prn.p3.m.sg"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p1.mf.sg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p1.mf.sg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p1.mf.sg+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p1.mf.sg"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p1.mf.sg+prn.p1.mf.pl">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p1.mf.sg"/>
-      <tags-item tags="prn.p1.mf.pl"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p1.mf.sg+prn.p1.mf.pl+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p1.mf.sg"/>
-      <tags-item tags="prn.p1.mf.pl"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p1.mf.sg+prn.p1.mf.sg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p1.mf.sg"/>
-      <tags-item tags="prn.p1.mf.sg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p1.mf.sg+prn.p1.mf.sg+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p1.mf.sg"/>
-      <tags-item tags="prn.p1.mf.sg"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p1.mf.sg+prn.p2.mf.pl">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p1.mf.sg"/>
-      <tags-item tags="prn.p2.mf.pl"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p1.mf.sg+prn.p2.mf.pl+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p1.mf.sg"/>
-      <tags-item tags="prn.p2.mf.pl"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p1.mf.sg+prn.p2.mf.sg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p1.mf.sg"/>
-      <tags-item tags="prn.p2.mf.sg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p1.mf.sg+prn.p2.mf.sg+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p1.mf.sg"/>
-      <tags-item tags="prn.p2.mf.sg"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p1.mf.sg+prn.p3.f.sg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p1.mf.sg"/>
-      <tags-item tags="prn.p3.f.sg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p1.mf.sg+prn.p3.f.sg+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p1.mf.sg"/>
-      <tags-item tags="prn.p3.f.sg"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p1.mf.sg+prn.p3.mf.pl">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p1.mf.sg"/>
-      <tags-item tags="prn.p3.mf.pl"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p1.mf.sg+prn.p3.mf.pl+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p1.mf.sg"/>
-      <tags-item tags="prn.p3.mf.pl"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p1.mf.sg+prn.p3.m.sg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p1.mf.sg"/>
-      <tags-item tags="prn.p3.m.sg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p1.mf.sg+prn.p3.m.sg+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p1.mf.sg"/>
-      <tags-item tags="prn.p3.m.sg"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p2.mf.pl">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p2.mf.pl"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p2.mf.pl+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p2.mf.pl"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p2.mf.pl+prn.p1.mf.pl">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p2.mf.pl"/>
-      <tags-item tags="prn.p1.mf.pl"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p2.mf.pl+prn.p1.mf.pl+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p2.mf.pl"/>
-      <tags-item tags="prn.p1.mf.pl"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p2.mf.pl+prn.p1.mf.sg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p2.mf.pl"/>
-      <tags-item tags="prn.p1.mf.sg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p2.mf.pl+prn.p1.mf.sg+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p2.mf.pl"/>
-      <tags-item tags="prn.p1.mf.sg"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p2.mf.pl+prn.p2.mf.pl">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p2.mf.pl"/>
-      <tags-item tags="prn.p2.mf.pl"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p2.mf.pl+prn.p2.mf.pl+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p2.mf.pl"/>
-      <tags-item tags="prn.p2.mf.pl"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p2.mf.pl+prn.p2.mf.sg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p2.mf.pl"/>
-      <tags-item tags="prn.p2.mf.sg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p2.mf.pl+prn.p2.mf.sg+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p2.mf.pl"/>
-      <tags-item tags="prn.p2.mf.sg"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p2.mf.pl+prn.p3.f.sg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p2.mf.pl"/>
-      <tags-item tags="prn.p3.f.sg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p2.mf.pl+prn.p3.f.sg+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p2.mf.pl"/>
-      <tags-item tags="prn.p3.f.sg"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p2.mf.pl+prn.p3.mf.pl">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p2.mf.pl"/>
-      <tags-item tags="prn.p3.mf.pl"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p2.mf.pl+prn.p3.mf.pl+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p2.mf.pl"/>
-      <tags-item tags="prn.p3.mf.pl"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p2.mf.pl+prn.p3.m.sg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p2.mf.pl"/>
-      <tags-item tags="prn.p3.m.sg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p2.mf.pl+prn.p3.m.sg+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p2.mf.pl"/>
-      <tags-item tags="prn.p3.m.sg"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p2.mf.sg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p2.mf.sg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p2.mf.sg+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p2.mf.sg"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p2.mf.sg+prn.p1.mf.pl">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p2.mf.sg"/>
-      <tags-item tags="prn.p1.mf.pl"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p2.mf.sg+prn.p1.mf.pl+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p2.mf.sg"/>
-      <tags-item tags="prn.p1.mf.pl"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p2.mf.sg+prn.p1.mf.sg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p2.mf.sg"/>
-      <tags-item tags="prn.p1.mf.sg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p2.mf.sg+prn.p1.mf.sg+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p2.mf.sg"/>
-      <tags-item tags="prn.p1.mf.sg"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p2.mf.sg+prn.p2.mf.pl">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p2.mf.sg"/>
-      <tags-item tags="prn.p2.mf.pl"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p2.mf.sg+prn.p2.mf.pl+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p2.mf.sg"/>
-      <tags-item tags="prn.p2.mf.pl"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p2.mf.sg+prn.p2.mf.sg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p2.mf.sg"/>
-      <tags-item tags="prn.p2.mf.sg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p2.mf.sg+prn.p2.mf.sg+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p2.mf.sg"/>
-      <tags-item tags="prn.p2.mf.sg"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p2.mf.sg+prn.p3.f.sg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p2.mf.sg"/>
-      <tags-item tags="prn.p3.f.sg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p2.mf.sg+prn.p3.f.sg+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p2.mf.sg"/>
-      <tags-item tags="prn.p3.f.sg"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p2.mf.sg+prn.p3.mf.pl">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p2.mf.sg"/>
-      <tags-item tags="prn.p3.mf.pl"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p2.mf.sg+prn.p3.mf.pl+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p2.mf.sg"/>
-      <tags-item tags="prn.p3.mf.pl"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p2.mf.sg+prn.p3.m.sg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p2.mf.sg"/>
-      <tags-item tags="prn.p3.m.sg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p2.mf.sg+prn.p3.m.sg+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p2.mf.sg"/>
-      <tags-item tags="prn.p3.m.sg"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p3.f.sg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p3.f.sg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p3.f.sg+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p3.f.sg"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p3.f.sg+prn.p1.mf.pl">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p3.f.sg"/>
-      <tags-item tags="prn.p1.mf.pl"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p3.f.sg+prn.p1.mf.pl+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p3.f.sg"/>
-      <tags-item tags="prn.p1.mf.pl"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p3.f.sg+prn.p1.mf.sg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p3.f.sg"/>
-      <tags-item tags="prn.p1.mf.sg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p3.f.sg+prn.p1.mf.sg+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p3.f.sg"/>
-      <tags-item tags="prn.p1.mf.sg"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p3.f.sg+prn.p2.mf.pl">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p3.f.sg"/>
-      <tags-item tags="prn.p2.mf.pl"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p3.f.sg+prn.p2.mf.pl+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p3.f.sg"/>
-      <tags-item tags="prn.p2.mf.pl"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p3.f.sg+prn.p2.mf.sg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p3.f.sg"/>
-      <tags-item tags="prn.p2.mf.sg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p3.f.sg+prn.p2.mf.sg+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p3.f.sg"/>
-      <tags-item tags="prn.p2.mf.sg"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p3.f.sg+prn.p3.f.sg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p3.f.sg"/>
-      <tags-item tags="prn.p3.f.sg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p3.f.sg+prn.p3.f.sg+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p3.f.sg"/>
-      <tags-item tags="prn.p3.f.sg"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p3.f.sg+prn.p3.mf.pl">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p3.f.sg"/>
-      <tags-item tags="prn.p3.mf.pl"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p3.f.sg+prn.p3.mf.pl+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p3.f.sg"/>
-      <tags-item tags="prn.p3.mf.pl"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p3.f.sg+prn.p3.m.sg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p3.f.sg"/>
-      <tags-item tags="prn.p3.m.sg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p3.f.sg+prn.p3.m.sg+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p3.f.sg"/>
-      <tags-item tags="prn.p3.m.sg"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p3.mf.pl">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p3.mf.pl"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p3.mf.pl+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p3.mf.pl"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p3.mf.pl+prn.p1.mf.pl">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p3.mf.pl"/>
-      <tags-item tags="prn.p1.mf.pl"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p3.mf.pl+prn.p1.mf.pl+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p3.mf.pl"/>
-      <tags-item tags="prn.p1.mf.pl"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p3.mf.pl+prn.p1.mf.sg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p3.mf.pl"/>
-      <tags-item tags="prn.p1.mf.sg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p3.mf.pl+prn.p1.mf.sg+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p3.mf.pl"/>
-      <tags-item tags="prn.p1.mf.sg"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p3.mf.pl+prn.p2.mf.pl">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p3.mf.pl"/>
-      <tags-item tags="prn.p2.mf.pl"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p3.mf.pl+prn.p2.mf.pl+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p3.mf.pl"/>
-      <tags-item tags="prn.p2.mf.pl"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p3.mf.pl+prn.p2.mf.sg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p3.mf.pl"/>
-      <tags-item tags="prn.p2.mf.sg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p3.mf.pl+prn.p2.mf.sg+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p3.mf.pl"/>
-      <tags-item tags="prn.p2.mf.sg"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p3.mf.pl+prn.p3.f.sg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p3.mf.pl"/>
-      <tags-item tags="prn.p3.f.sg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p3.mf.pl+prn.p3.f.sg+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p3.mf.pl"/>
-      <tags-item tags="prn.p3.f.sg"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p3.mf.pl+prn.p3.mf.pl">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p3.mf.pl"/>
-      <tags-item tags="prn.p3.mf.pl"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p3.mf.pl+prn.p3.mf.pl+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p3.mf.pl"/>
-      <tags-item tags="prn.p3.mf.pl"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p3.mf.pl+prn.p3.m.sg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p3.mf.pl"/>
-      <tags-item tags="prn.p3.m.sg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p3.mf.pl+prn.p3.m.sg+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p3.mf.pl"/>
-      <tags-item tags="prn.p3.m.sg"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p3.m.sg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p3.m.sg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p3.m.sg+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p3.m.sg"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p3.m.sg+prn.p1.mf.pl">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p3.m.sg"/>
-      <tags-item tags="prn.p1.mf.pl"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p3.m.sg+prn.p1.mf.pl+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p3.m.sg"/>
-      <tags-item tags="prn.p1.mf.pl"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p3.m.sg+prn.p1.mf.sg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p3.m.sg"/>
-      <tags-item tags="prn.p1.mf.sg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p3.m.sg+prn.p1.mf.sg+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p3.m.sg"/>
-      <tags-item tags="prn.p1.mf.sg"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p3.m.sg+prn.p2.mf.pl">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p3.m.sg"/>
-      <tags-item tags="prn.p2.mf.pl"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p3.m.sg+prn.p2.mf.pl+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p3.m.sg"/>
-      <tags-item tags="prn.p2.mf.pl"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p3.m.sg+prn.p2.mf.sg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p3.m.sg"/>
-      <tags-item tags="prn.p2.mf.sg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p3.m.sg+prn.p2.mf.sg+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p3.m.sg"/>
-      <tags-item tags="prn.p2.mf.sg"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p3.m.sg+prn.p3.f.sg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p3.m.sg"/>
-      <tags-item tags="prn.p3.f.sg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p3.m.sg+prn.p3.f.sg+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p3.m.sg"/>
-      <tags-item tags="prn.p3.f.sg"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p3.m.sg+prn.p3.mf.pl">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p3.m.sg"/>
-      <tags-item tags="prn.p3.mf.pl"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p3.m.sg+prn.p3.mf.pl+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p3.m.sg"/>
-      <tags-item tags="prn.p3.mf.pl"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p3.m.sg+prn.p3.m.sg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p3.m.sg"/>
-      <tags-item tags="prn.p3.m.sg"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="vblex.pprs.m.sg+prn.p3.m.sg+prn.p3.m.sg+neg">
-    <sequence>
-      <tags-item tags="vblex.pprs.m.sg"/>
-      <tags-item tags="prn.p3.m.sg"/>
-      <tags-item tags="prn.p3.m.sg"/>
-      <tags-item tags="neg"/>
-    </sequence>
-  </def-mult>
+
   <def-mult name="vblex.pp.sg+neg">
     <sequence>
       <tags-item tags="vblex.pp.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+neg">
+  <def-mult name="vblex.p1.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <tags-item tags="vblex.*.p1.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p1.mf.pl">
+  <def-mult name="vblex.p1.pl+prn.p1.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <tags-item tags="vblex.*.p1.pl"/>
       <tags-item tags="prn.p1.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p1.mf.pl+neg">
+  <def-mult name="vblex.p1.pl+prn.p1.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <tags-item tags="vblex.*.p1.pl"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p1.mf.pl+prn.p1.mf.pl">
+  <def-mult name="vblex.p1.pl+prn.p1.mf.pl+prn.p1.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <tags-item tags="vblex.*.p1.pl"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p1.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p1.mf.pl+prn.p1.mf.pl+neg">
+  <def-mult name="vblex.p1.pl+prn.p1.mf.pl+prn.p1.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <tags-item tags="vblex.*.p1.pl"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p1.mf.pl+prn.p1.mf.sg">
+  <def-mult name="vblex.p1.pl+prn.p1.mf.pl+prn.p1.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <tags-item tags="vblex.*.p1.pl"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p1.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p1.mf.pl+prn.p1.mf.sg+neg">
+  <def-mult name="vblex.p1.pl+prn.p1.mf.pl+prn.p1.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <tags-item tags="vblex.*.p1.pl"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p1.mf.pl+prn.p2.mf.pl">
+  <def-mult name="vblex.p1.pl+prn.p1.mf.pl+prn.p2.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <tags-item tags="vblex.*.p1.pl"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p2.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p1.mf.pl+prn.p2.mf.pl+neg">
+  <def-mult name="vblex.p1.pl+prn.p1.mf.pl+prn.p2.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <tags-item tags="vblex.*.p1.pl"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p1.mf.pl+prn.p2.mf.sg">
+  <def-mult name="vblex.p1.pl+prn.p1.mf.pl+prn.p2.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p2.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p1.mf.pl+prn.p2.mf.sg+neg">
+  <def-mult name="vblex.p1.pl+prn.p1.mf.pl+prn.p2.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p1.mf.pl+prn.p3.f.sg">
+  <def-mult name="vblex.p1.pl+prn.p1.mf.pl+prn.p3.f.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p3.f.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p1.mf.pl+prn.p3.f.sg+neg">
+  <def-mult name="vblex.p1.pl+prn.p1.mf.pl+prn.p3.f.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p1.mf.pl+prn.p3.mf.pl">
+  <def-mult name="vblex.p1.pl+prn.p1.mf.pl+prn.p3.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p3.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p1.mf.pl+prn.p3.mf.pl+neg">
+  <def-mult name="vblex.p1.pl+prn.p1.mf.pl+prn.p3.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p1.mf.pl+prn.p3.m.sg">
+  <def-mult name="vblex.p1.pl+prn.p1.mf.pl+prn.p3.m.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p3.m.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p1.mf.pl+prn.p3.m.sg+neg">
+  <def-mult name="vblex.p1.pl+prn.p1.mf.pl+prn.p3.m.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p1.mf.sg">
+  <def-mult name="vblex.p1.pl+prn.p1.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p1.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p1.mf.sg+neg">
+  <def-mult name="vblex.p1.pl+prn.p1.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p1.mf.sg+prn.p1.mf.pl">
+  <def-mult name="vblex.p1.pl+prn.p1.mf.sg+prn.p1.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p1.mf.sg+prn.p1.mf.pl+neg">
+  <def-mult name="vblex.p1.pl+prn.p1.mf.sg+prn.p1.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p1.mf.sg+prn.p1.mf.sg">
+  <def-mult name="vblex.p1.pl+prn.p1.mf.sg+prn.p1.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p1.mf.sg+prn.p1.mf.sg+neg">
+  <def-mult name="vblex.p1.pl+prn.p1.mf.sg+prn.p1.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p1.mf.sg+prn.p2.mf.pl">
+  <def-mult name="vblex.p1.pl+prn.p1.mf.sg+prn.p2.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p1.mf.sg+prn.p2.mf.pl+neg">
+  <def-mult name="vblex.p1.pl+prn.p1.mf.sg+prn.p2.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p1.mf.sg+prn.p2.mf.sg">
+  <def-mult name="vblex.p1.pl+prn.p1.mf.sg+prn.p2.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p1.mf.sg+prn.p2.mf.sg+neg">
+  <def-mult name="vblex.p1.pl+prn.p1.mf.sg+prn.p2.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p1.mf.sg+prn.p3.f.sg">
+  <def-mult name="vblex.p1.pl+prn.p1.mf.sg+prn.p3.f.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p1.mf.sg+prn.p3.f.sg+neg">
+  <def-mult name="vblex.p1.pl+prn.p1.mf.sg+prn.p3.f.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p1.mf.sg+prn.p3.mf.pl">
+  <def-mult name="vblex.p1.pl+prn.p1.mf.sg+prn.p3.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p1.mf.sg+prn.p3.mf.pl+neg">
+  <def-mult name="vblex.p1.pl+prn.p1.mf.sg+prn.p3.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p1.mf.sg+prn.p3.m.sg">
+  <def-mult name="vblex.p1.pl+prn.p1.mf.sg+prn.p3.m.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p1.mf.sg+prn.p3.m.sg+neg">
+  <def-mult name="vblex.p1.pl+prn.p1.mf.sg+prn.p3.m.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p2.mf.pl">
+  <def-mult name="vblex.p1.pl+prn.p2.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p2.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p2.mf.pl+neg">
+  <def-mult name="vblex.p1.pl+prn.p2.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p2.mf.pl+prn.p1.mf.pl">
+  <def-mult name="vblex.p1.pl+prn.p2.mf.pl+prn.p1.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p1.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p2.mf.pl+prn.p1.mf.pl+neg">
+  <def-mult name="vblex.p1.pl+prn.p2.mf.pl+prn.p1.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p2.mf.pl+prn.p1.mf.sg">
+  <def-mult name="vblex.p1.pl+prn.p2.mf.pl+prn.p1.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p1.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p2.mf.pl+prn.p1.mf.sg+neg">
+  <def-mult name="vblex.p1.pl+prn.p2.mf.pl+prn.p1.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p2.mf.pl+prn.p2.mf.pl">
+  <def-mult name="vblex.p1.pl+prn.p2.mf.pl+prn.p2.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p2.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p2.mf.pl+prn.p2.mf.pl+neg">
+  <def-mult name="vblex.p1.pl+prn.p2.mf.pl+prn.p2.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p2.mf.pl+prn.p2.mf.sg">
+  <def-mult name="vblex.p1.pl+prn.p2.mf.pl+prn.p2.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p2.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p2.mf.pl+prn.p2.mf.sg+neg">
+  <def-mult name="vblex.p1.pl+prn.p2.mf.pl+prn.p2.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p2.mf.pl+prn.p3.f.sg">
+  <def-mult name="vblex.p1.pl+prn.p2.mf.pl+prn.p3.f.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p3.f.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p2.mf.pl+prn.p3.f.sg+neg">
+  <def-mult name="vblex.p1.pl+prn.p2.mf.pl+prn.p3.f.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p2.mf.pl+prn.p3.mf.pl">
+  <def-mult name="vblex.p1.pl+prn.p2.mf.pl+prn.p3.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p3.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p2.mf.pl+prn.p3.mf.pl+neg">
+  <def-mult name="vblex.p1.pl+prn.p2.mf.pl+prn.p3.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p2.mf.pl+prn.p3.m.sg">
+  <def-mult name="vblex.p1.pl+prn.p2.mf.pl+prn.p3.m.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p3.m.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p2.mf.pl+prn.p3.m.sg+neg">
+  <def-mult name="vblex.p1.pl+prn.p2.mf.pl+prn.p3.m.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p2.mf.sg">
+  <def-mult name="vblex.p1.pl+prn.p2.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p2.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p2.mf.sg+neg">
+  <def-mult name="vblex.p1.pl+prn.p2.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p2.mf.sg+prn.p1.mf.pl">
+  <def-mult name="vblex.p1.pl+prn.p2.mf.sg+prn.p1.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p2.mf.sg+prn.p1.mf.pl+neg">
+  <def-mult name="vblex.p1.pl+prn.p2.mf.sg+prn.p1.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p2.mf.sg+prn.p1.mf.sg">
+  <def-mult name="vblex.p1.pl+prn.p2.mf.sg+prn.p1.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p2.mf.sg+prn.p1.mf.sg+neg">
+  <def-mult name="vblex.p1.pl+prn.p2.mf.sg+prn.p1.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p2.mf.sg+prn.p2.mf.pl">
+  <def-mult name="vblex.p1.pl+prn.p2.mf.sg+prn.p2.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p2.mf.sg+prn.p2.mf.pl+neg">
+  <def-mult name="vblex.p1.pl+prn.p2.mf.sg+prn.p2.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p2.mf.sg+prn.p2.mf.sg">
+  <def-mult name="vblex.p1.pl+prn.p2.mf.sg+prn.p2.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p2.mf.sg+prn.p2.mf.sg+neg">
+  <def-mult name="vblex.p1.pl+prn.p2.mf.sg+prn.p2.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p2.mf.sg+prn.p3.f.sg">
+  <def-mult name="vblex.p1.pl+prn.p2.mf.sg+prn.p3.f.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p2.mf.sg+prn.p3.f.sg+neg">
+  <def-mult name="vblex.p1.pl+prn.p2.mf.sg+prn.p3.f.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p2.mf.sg+prn.p3.mf.pl">
+  <def-mult name="vblex.p1.pl+prn.p2.mf.sg+prn.p3.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p2.mf.sg+prn.p3.mf.pl+neg">
+  <def-mult name="vblex.p1.pl+prn.p2.mf.sg+prn.p3.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p2.mf.sg+prn.p3.m.sg">
+  <def-mult name="vblex.p1.pl+prn.p2.mf.sg+prn.p3.m.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p2.mf.sg+prn.p3.m.sg+neg">
+  <def-mult name="vblex.p1.pl+prn.p2.mf.sg+prn.p3.m.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p3.f.sg">
+  <def-mult name="vblex.p1.pl+prn.p3.f.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p3.f.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p3.f.sg+neg">
+  <def-mult name="vblex.p1.pl+prn.p3.f.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p3.f.sg+prn.p1.mf.pl">
+  <def-mult name="vblex.p1.pl+prn.p3.f.sg+prn.p1.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p3.f.sg+prn.p1.mf.pl+neg">
+  <def-mult name="vblex.p1.pl+prn.p3.f.sg+prn.p1.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p3.f.sg+prn.p1.mf.sg">
+  <def-mult name="vblex.p1.pl+prn.p3.f.sg+prn.p1.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p3.f.sg+prn.p1.mf.sg+neg">
+  <def-mult name="vblex.p1.pl+prn.p3.f.sg+prn.p1.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p3.f.sg+prn.p2.mf.pl">
+  <def-mult name="vblex.p1.pl+prn.p3.f.sg+prn.p2.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p3.f.sg+prn.p2.mf.pl+neg">
+  <def-mult name="vblex.p1.pl+prn.p3.f.sg+prn.p2.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p3.f.sg+prn.p2.mf.sg">
+  <def-mult name="vblex.p1.pl+prn.p3.f.sg+prn.p2.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p3.f.sg+prn.p2.mf.sg+neg">
+  <def-mult name="vblex.p1.pl+prn.p3.f.sg+prn.p2.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p3.f.sg+prn.p3.f.sg">
+  <def-mult name="vblex.p1.pl+prn.p3.f.sg+prn.p3.f.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p3.f.sg+prn.p3.f.sg+neg">
+  <def-mult name="vblex.p1.pl+prn.p3.f.sg+prn.p3.f.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p3.f.sg+prn.p3.mf.pl">
+  <def-mult name="vblex.p1.pl+prn.p3.f.sg+prn.p3.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p3.f.sg+prn.p3.mf.pl+neg">
+  <def-mult name="vblex.p1.pl+prn.p3.f.sg+prn.p3.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p3.f.sg+prn.p3.m.sg">
+  <def-mult name="vblex.p1.pl+prn.p3.f.sg+prn.p3.m.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p3.f.sg+prn.p3.m.sg+neg">
+  <def-mult name="vblex.p1.pl+prn.p3.f.sg+prn.p3.m.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p3.mf.pl">
+  <def-mult name="vblex.p1.pl+prn.p3.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p3.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p3.mf.pl+neg">
+  <def-mult name="vblex.p1.pl+prn.p3.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p3.mf.pl+prn.p1.mf.pl">
+  <def-mult name="vblex.p1.pl+prn.p3.mf.pl+prn.p1.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p1.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p3.mf.pl+prn.p1.mf.pl+neg">
+  <def-mult name="vblex.p1.pl+prn.p3.mf.pl+prn.p1.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p3.mf.pl+prn.p1.mf.sg">
+  <def-mult name="vblex.p1.pl+prn.p3.mf.pl+prn.p1.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p1.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p3.mf.pl+prn.p1.mf.sg+neg">
+  <def-mult name="vblex.p1.pl+prn.p3.mf.pl+prn.p1.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p3.mf.pl+prn.p2.mf.pl">
+  <def-mult name="vblex.p1.pl+prn.p3.mf.pl+prn.p2.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p2.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p3.mf.pl+prn.p2.mf.pl+neg">
+  <def-mult name="vblex.p1.pl+prn.p3.mf.pl+prn.p2.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p3.mf.pl+prn.p2.mf.sg">
+  <def-mult name="vblex.p1.pl+prn.p3.mf.pl+prn.p2.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p2.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p3.mf.pl+prn.p2.mf.sg+neg">
+  <def-mult name="vblex.p1.pl+prn.p3.mf.pl+prn.p2.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p3.mf.pl+prn.p3.f.sg">
+  <def-mult name="vblex.p1.pl+prn.p3.mf.pl+prn.p3.f.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p3.f.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p3.mf.pl+prn.p3.f.sg+neg">
+  <def-mult name="vblex.p1.pl+prn.p3.mf.pl+prn.p3.f.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p3.mf.pl+prn.p3.mf.pl">
+  <def-mult name="vblex.p1.pl+prn.p3.mf.pl+prn.p3.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p3.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p3.mf.pl+prn.p3.mf.pl+neg">
+  <def-mult name="vblex.p1.pl+prn.p3.mf.pl+prn.p3.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p3.mf.pl+prn.p3.m.sg">
+  <def-mult name="vblex.p1.pl+prn.p3.mf.pl+prn.p3.m.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p3.m.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p3.mf.pl+prn.p3.m.sg+neg">
+  <def-mult name="vblex.p1.pl+prn.p3.mf.pl+prn.p3.m.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p3.m.sg">
+  <def-mult name="vblex.p1.pl+prn.p3.m.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p3.m.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p3.m.sg+neg">
+  <def-mult name="vblex.p1.pl+prn.p3.m.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p3.m.sg+prn.p1.mf.pl">
+  <def-mult name="vblex.p1.pl+prn.p3.m.sg+prn.p1.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p3.m.sg+prn.p1.mf.pl+neg">
+  <def-mult name="vblex.p1.pl+prn.p3.m.sg+prn.p1.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p3.m.sg+prn.p1.mf.sg">
+  <def-mult name="vblex.p1.pl+prn.p3.m.sg+prn.p1.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p3.m.sg+prn.p1.mf.sg+neg">
+  <def-mult name="vblex.p1.pl+prn.p3.m.sg+prn.p1.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p3.m.sg+prn.p2.mf.pl">
+  <def-mult name="vblex.p1.pl+prn.p3.m.sg+prn.p2.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p3.m.sg+prn.p2.mf.pl+neg">
+  <def-mult name="vblex.p1.pl+prn.p3.m.sg+prn.p2.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p3.m.sg+prn.p2.mf.sg">
+  <def-mult name="vblex.p1.pl+prn.p3.m.sg+prn.p2.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p3.m.sg+prn.p2.mf.sg+neg">
+  <def-mult name="vblex.p1.pl+prn.p3.m.sg+prn.p2.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p3.m.sg+prn.p3.f.sg">
+  <def-mult name="vblex.p1.pl+prn.p3.m.sg+prn.p3.f.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p3.m.sg+prn.p3.f.sg+neg">
+  <def-mult name="vblex.p1.pl+prn.p3.m.sg+prn.p3.f.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p3.m.sg+prn.p3.mf.pl">
+  <def-mult name="vblex.p1.pl+prn.p3.m.sg+prn.p3.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p3.m.sg+prn.p3.mf.pl+neg">
+  <def-mult name="vblex.p1.pl+prn.p3.m.sg+prn.p3.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p3.m.sg+prn.p3.m.sg">
+  <def-mult name="vblex.p1.pl+prn.p3.m.sg+prn.p3.m.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.pl+prn.p3.m.sg+prn.p3.m.sg+neg">
+  <def-mult name="vblex.p1.pl+prn.p3.m.sg+prn.p3.m.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.pl"/>
+      <label-item label="VBLEX-PL1"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+neg">
+  <def-mult name="vblex.p1.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p1.mf.pl">
+  <def-mult name="vblex.p1.sg+prn.p1.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p1.mf.pl+neg">
+  <def-mult name="vblex.p1.sg+prn.p1.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p1.mf.pl+prn.p1.mf.pl">
+  <def-mult name="vblex.p1.sg+prn.p1.mf.pl+prn.p1.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p1.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p1.mf.pl+prn.p1.mf.pl+neg">
+  <def-mult name="vblex.p1.sg+prn.p1.mf.pl+prn.p1.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p1.mf.pl+prn.p1.mf.sg">
+  <def-mult name="vblex.p1.sg+prn.p1.mf.pl+prn.p1.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p1.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p1.mf.pl+prn.p1.mf.sg+neg">
+  <def-mult name="vblex.p1.sg+prn.p1.mf.pl+prn.p1.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p1.mf.pl+prn.p2.mf.pl">
+  <def-mult name="vblex.p1.sg+prn.p1.mf.pl+prn.p2.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p2.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p1.mf.pl+prn.p2.mf.pl+neg">
+  <def-mult name="vblex.p1.sg+prn.p1.mf.pl+prn.p2.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p1.mf.pl+prn.p2.mf.sg">
+  <def-mult name="vblex.p1.sg+prn.p1.mf.pl+prn.p2.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p2.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p1.mf.pl+prn.p2.mf.sg+neg">
+  <def-mult name="vblex.p1.sg+prn.p1.mf.pl+prn.p2.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p1.mf.pl+prn.p3.f.sg">
+  <def-mult name="vblex.p1.sg+prn.p1.mf.pl+prn.p3.f.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p3.f.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p1.mf.pl+prn.p3.f.sg+neg">
+  <def-mult name="vblex.p1.sg+prn.p1.mf.pl+prn.p3.f.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p1.mf.pl+prn.p3.mf.pl">
+  <def-mult name="vblex.p1.sg+prn.p1.mf.pl+prn.p3.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p3.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p1.mf.pl+prn.p3.mf.pl+neg">
+  <def-mult name="vblex.p1.sg+prn.p1.mf.pl+prn.p3.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p1.mf.pl+prn.p3.m.sg">
+  <def-mult name="vblex.p1.sg+prn.p1.mf.pl+prn.p3.m.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p3.m.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p1.mf.pl+prn.p3.m.sg+neg">
+  <def-mult name="vblex.p1.sg+prn.p1.mf.pl+prn.p3.m.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p1.mf.sg">
+  <def-mult name="vblex.p1.sg+prn.p1.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p1.mf.sg+neg">
+  <def-mult name="vblex.p1.sg+prn.p1.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p1.mf.sg+prn.p1.mf.pl">
+  <def-mult name="vblex.p1.sg+prn.p1.mf.sg+prn.p1.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p1.mf.sg+prn.p1.mf.pl+neg">
+  <def-mult name="vblex.p1.sg+prn.p1.mf.sg+prn.p1.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p1.mf.sg+prn.p1.mf.sg">
+  <def-mult name="vblex.p1.sg+prn.p1.mf.sg+prn.p1.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p1.mf.sg+prn.p1.mf.sg+neg">
+  <def-mult name="vblex.p1.sg+prn.p1.mf.sg+prn.p1.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p1.mf.sg+prn.p2.mf.pl">
+  <def-mult name="vblex.p1.sg+prn.p1.mf.sg+prn.p2.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p1.mf.sg+prn.p2.mf.pl+neg">
+  <def-mult name="vblex.p1.sg+prn.p1.mf.sg+prn.p2.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p1.mf.sg+prn.p2.mf.sg">
+  <def-mult name="vblex.p1.sg+prn.p1.mf.sg+prn.p2.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p1.mf.sg+prn.p2.mf.sg+neg">
+  <def-mult name="vblex.p1.sg+prn.p1.mf.sg+prn.p2.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p1.mf.sg+prn.p3.f.sg">
+  <def-mult name="vblex.p1.sg+prn.p1.mf.sg+prn.p3.f.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p1.mf.sg+prn.p3.f.sg+neg">
+  <def-mult name="vblex.p1.sg+prn.p1.mf.sg+prn.p3.f.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p1.mf.sg+prn.p3.mf.pl">
+  <def-mult name="vblex.p1.sg+prn.p1.mf.sg+prn.p3.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p1.mf.sg+prn.p3.mf.pl+neg">
+  <def-mult name="vblex.p1.sg+prn.p1.mf.sg+prn.p3.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p1.mf.sg+prn.p3.m.sg">
+  <def-mult name="vblex.p1.sg+prn.p1.mf.sg+prn.p3.m.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p1.mf.sg+prn.p3.m.sg+neg">
+  <def-mult name="vblex.p1.sg+prn.p1.mf.sg+prn.p3.m.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p2.mf.pl">
+  <def-mult name="vblex.p1.sg+prn.p2.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p2.mf.pl+neg">
+  <def-mult name="vblex.p1.sg+prn.p2.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p2.mf.pl+prn.p1.mf.pl">
+  <def-mult name="vblex.p1.sg+prn.p2.mf.pl+prn.p1.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p1.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p2.mf.pl+prn.p1.mf.pl+neg">
+  <def-mult name="vblex.p1.sg+prn.p2.mf.pl+prn.p1.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p2.mf.pl+prn.p1.mf.sg">
+  <def-mult name="vblex.p1.sg+prn.p2.mf.pl+prn.p1.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p1.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p2.mf.pl+prn.p1.mf.sg+neg">
+  <def-mult name="vblex.p1.sg+prn.p2.mf.pl+prn.p1.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p2.mf.pl+prn.p2.mf.pl">
+  <def-mult name="vblex.p1.sg+prn.p2.mf.pl+prn.p2.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p2.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p2.mf.pl+prn.p2.mf.pl+neg">
+  <def-mult name="vblex.p1.sg+prn.p2.mf.pl+prn.p2.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p2.mf.pl+prn.p2.mf.sg">
+  <def-mult name="vblex.p1.sg+prn.p2.mf.pl+prn.p2.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p2.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p2.mf.pl+prn.p2.mf.sg+neg">
+  <def-mult name="vblex.p1.sg+prn.p2.mf.pl+prn.p2.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p2.mf.pl+prn.p3.f.sg">
+  <def-mult name="vblex.p1.sg+prn.p2.mf.pl+prn.p3.f.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p3.f.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p2.mf.pl+prn.p3.f.sg+neg">
+  <def-mult name="vblex.p1.sg+prn.p2.mf.pl+prn.p3.f.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p2.mf.pl+prn.p3.mf.pl">
+  <def-mult name="vblex.p1.sg+prn.p2.mf.pl+prn.p3.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p3.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p2.mf.pl+prn.p3.mf.pl+neg">
+  <def-mult name="vblex.p1.sg+prn.p2.mf.pl+prn.p3.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p2.mf.pl+prn.p3.m.sg">
+  <def-mult name="vblex.p1.sg+prn.p2.mf.pl+prn.p3.m.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p3.m.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p2.mf.pl+prn.p3.m.sg+neg">
+  <def-mult name="vblex.p1.sg+prn.p2.mf.pl+prn.p3.m.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p2.mf.sg">
+  <def-mult name="vblex.p1.sg+prn.p2.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p2.mf.sg+neg">
+  <def-mult name="vblex.p1.sg+prn.p2.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p2.mf.sg+prn.p1.mf.pl">
+  <def-mult name="vblex.p1.sg+prn.p2.mf.sg+prn.p1.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p2.mf.sg+prn.p1.mf.pl+neg">
+  <def-mult name="vblex.p1.sg+prn.p2.mf.sg+prn.p1.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p2.mf.sg+prn.p1.mf.sg">
+  <def-mult name="vblex.p1.sg+prn.p2.mf.sg+prn.p1.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p2.mf.sg+prn.p1.mf.sg+neg">
+  <def-mult name="vblex.p1.sg+prn.p2.mf.sg+prn.p1.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p2.mf.sg+prn.p2.mf.pl">
+  <def-mult name="vblex.p1.sg+prn.p2.mf.sg+prn.p2.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p2.mf.sg+prn.p2.mf.pl+neg">
+  <def-mult name="vblex.p1.sg+prn.p2.mf.sg+prn.p2.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p2.mf.sg+prn.p2.mf.sg">
+  <def-mult name="vblex.p1.sg+prn.p2.mf.sg+prn.p2.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p2.mf.sg+prn.p2.mf.sg+neg">
+  <def-mult name="vblex.p1.sg+prn.p2.mf.sg+prn.p2.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p2.mf.sg+prn.p3.f.sg">
+  <def-mult name="vblex.p1.sg+prn.p2.mf.sg+prn.p3.f.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p2.mf.sg+prn.p3.f.sg+neg">
+  <def-mult name="vblex.p1.sg+prn.p2.mf.sg+prn.p3.f.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p2.mf.sg+prn.p3.mf.pl">
+  <def-mult name="vblex.p1.sg+prn.p2.mf.sg+prn.p3.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p2.mf.sg+prn.p3.mf.pl+neg">
+  <def-mult name="vblex.p1.sg+prn.p2.mf.sg+prn.p3.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p2.mf.sg+prn.p3.m.sg">
+  <def-mult name="vblex.p1.sg+prn.p2.mf.sg+prn.p3.m.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p2.mf.sg+prn.p3.m.sg+neg">
+  <def-mult name="vblex.p1.sg+prn.p2.mf.sg+prn.p3.m.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p3.f.sg">
+  <def-mult name="vblex.p1.sg+prn.p3.f.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p3.f.sg+neg">
+  <def-mult name="vblex.p1.sg+prn.p3.f.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p3.f.sg+prn.p1.mf.pl">
+  <def-mult name="vblex.p1.sg+prn.p3.f.sg+prn.p1.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p3.f.sg+prn.p1.mf.pl+neg">
+  <def-mult name="vblex.p1.sg+prn.p3.f.sg+prn.p1.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p3.f.sg+prn.p1.mf.sg">
+  <def-mult name="vblex.p1.sg+prn.p3.f.sg+prn.p1.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p3.f.sg+prn.p1.mf.sg+neg">
+  <def-mult name="vblex.p1.sg+prn.p3.f.sg+prn.p1.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p3.f.sg+prn.p2.mf.pl">
+  <def-mult name="vblex.p1.sg+prn.p3.f.sg+prn.p2.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p3.f.sg+prn.p2.mf.pl+neg">
+  <def-mult name="vblex.p1.sg+prn.p3.f.sg+prn.p2.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p3.f.sg+prn.p2.mf.sg">
+  <def-mult name="vblex.p1.sg+prn.p3.f.sg+prn.p2.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p3.f.sg+prn.p2.mf.sg+neg">
+  <def-mult name="vblex.p1.sg+prn.p3.f.sg+prn.p2.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p3.f.sg+prn.p3.f.sg">
+  <def-mult name="vblex.p1.sg+prn.p3.f.sg+prn.p3.f.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p3.f.sg+prn.p3.f.sg+neg">
+  <def-mult name="vblex.p1.sg+prn.p3.f.sg+prn.p3.f.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p3.f.sg+prn.p3.mf.pl">
+  <def-mult name="vblex.p1.sg+prn.p3.f.sg+prn.p3.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p3.f.sg+prn.p3.mf.pl+neg">
+  <def-mult name="vblex.p1.sg+prn.p3.f.sg+prn.p3.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p3.f.sg+prn.p3.m.sg">
+  <def-mult name="vblex.p1.sg+prn.p3.f.sg+prn.p3.m.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p3.f.sg+prn.p3.m.sg+neg">
+  <def-mult name="vblex.p1.sg+prn.p3.f.sg+prn.p3.m.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p3.mf.pl">
+  <def-mult name="vblex.p1.sg+prn.p3.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p3.mf.pl+neg">
+  <def-mult name="vblex.p1.sg+prn.p3.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p3.mf.pl+prn.p1.mf.pl">
+  <def-mult name="vblex.p1.sg+prn.p3.mf.pl+prn.p1.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p1.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p3.mf.pl+prn.p1.mf.pl+neg">
+  <def-mult name="vblex.p1.sg+prn.p3.mf.pl+prn.p1.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p3.mf.pl+prn.p1.mf.sg">
+  <def-mult name="vblex.p1.sg+prn.p3.mf.pl+prn.p1.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p1.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p3.mf.pl+prn.p1.mf.sg+neg">
+  <def-mult name="vblex.p1.sg+prn.p3.mf.pl+prn.p1.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p3.mf.pl+prn.p2.mf.pl">
+  <def-mult name="vblex.p1.sg+prn.p3.mf.pl+prn.p2.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p2.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p3.mf.pl+prn.p2.mf.pl+neg">
+  <def-mult name="vblex.p1.sg+prn.p3.mf.pl+prn.p2.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p3.mf.pl+prn.p2.mf.sg">
+  <def-mult name="vblex.p1.sg+prn.p3.mf.pl+prn.p2.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p2.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p3.mf.pl+prn.p2.mf.sg+neg">
+  <def-mult name="vblex.p1.sg+prn.p3.mf.pl+prn.p2.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p3.mf.pl+prn.p3.f.sg">
+  <def-mult name="vblex.p1.sg+prn.p3.mf.pl+prn.p3.f.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p3.f.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p3.mf.pl+prn.p3.f.sg+neg">
+  <def-mult name="vblex.p1.sg+prn.p3.mf.pl+prn.p3.f.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p3.mf.pl+prn.p3.mf.pl">
+  <def-mult name="vblex.p1.sg+prn.p3.mf.pl+prn.p3.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p3.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p3.mf.pl+prn.p3.mf.pl+neg">
+  <def-mult name="vblex.p1.sg+prn.p3.mf.pl+prn.p3.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p3.mf.pl+prn.p3.m.sg">
+  <def-mult name="vblex.p1.sg+prn.p3.mf.pl+prn.p3.m.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p3.m.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p3.mf.pl+prn.p3.m.sg+neg">
+  <def-mult name="vblex.p1.sg+prn.p3.mf.pl+prn.p3.m.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p3.m.sg">
+  <def-mult name="vblex.p1.sg+prn.p3.m.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p3.m.sg+neg">
+  <def-mult name="vblex.p1.sg+prn.p3.m.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p3.m.sg+prn.p1.mf.pl">
+  <def-mult name="vblex.p1.sg+prn.p3.m.sg+prn.p1.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p3.m.sg+prn.p1.mf.pl+neg">
+  <def-mult name="vblex.p1.sg+prn.p3.m.sg+prn.p1.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p3.m.sg+prn.p1.mf.sg">
+  <def-mult name="vblex.p1.sg+prn.p3.m.sg+prn.p1.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p3.m.sg+prn.p1.mf.sg+neg">
+  <def-mult name="vblex.p1.sg+prn.p3.m.sg+prn.p1.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p3.m.sg+prn.p2.mf.pl">
+  <def-mult name="vblex.p1.sg+prn.p3.m.sg+prn.p2.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p3.m.sg+prn.p2.mf.pl+neg">
+  <def-mult name="vblex.p1.sg+prn.p3.m.sg+prn.p2.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p3.m.sg+prn.p2.mf.sg">
+  <def-mult name="vblex.p1.sg+prn.p3.m.sg+prn.p2.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p3.m.sg+prn.p2.mf.sg+neg">
+  <def-mult name="vblex.p1.sg+prn.p3.m.sg+prn.p2.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p3.m.sg+prn.p3.f.sg">
+  <def-mult name="vblex.p1.sg+prn.p3.m.sg+prn.p3.f.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p3.m.sg+prn.p3.f.sg+neg">
+  <def-mult name="vblex.p1.sg+prn.p3.m.sg+prn.p3.f.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p3.m.sg+prn.p3.mf.pl">
+  <def-mult name="vblex.p1.sg+prn.p3.m.sg+prn.p3.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p3.m.sg+prn.p3.mf.pl+neg">
+  <def-mult name="vblex.p1.sg+prn.p3.m.sg+prn.p3.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p3.m.sg+prn.p3.m.sg">
+  <def-mult name="vblex.p1.sg+prn.p3.m.sg+prn.p3.m.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p1.sg+prn.p3.m.sg+prn.p3.m.sg+neg">
+  <def-mult name="vblex.p1.sg+prn.p3.m.sg+prn.p3.m.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p1.sg"/>
+      <tags-item tags="vblex.*.p1.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+neg">
+  <def-mult name="vblex.p2.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p1.mf.pl">
+  <def-mult name="vblex.p2.pl+prn.p1.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p1.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p1.mf.pl+neg">
+  <def-mult name="vblex.p2.pl+prn.p1.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p1.mf.pl+prn.p1.mf.pl">
+  <def-mult name="vblex.p2.pl+prn.p1.mf.pl+prn.p1.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p1.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p1.mf.pl+prn.p1.mf.pl+neg">
+  <def-mult name="vblex.p2.pl+prn.p1.mf.pl+prn.p1.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p1.mf.pl+prn.p1.mf.sg">
+  <def-mult name="vblex.p2.pl+prn.p1.mf.pl+prn.p1.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p1.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p1.mf.pl+prn.p1.mf.sg+neg">
+  <def-mult name="vblex.p2.pl+prn.p1.mf.pl+prn.p1.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p1.mf.pl+prn.p2.mf.pl">
+  <def-mult name="vblex.p2.pl+prn.p1.mf.pl+prn.p2.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p2.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p1.mf.pl+prn.p2.mf.pl+neg">
+  <def-mult name="vblex.p2.pl+prn.p1.mf.pl+prn.p2.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p1.mf.pl+prn.p2.mf.sg">
+  <def-mult name="vblex.p2.pl+prn.p1.mf.pl+prn.p2.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p2.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p1.mf.pl+prn.p2.mf.sg+neg">
+  <def-mult name="vblex.p2.pl+prn.p1.mf.pl+prn.p2.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p1.mf.pl+prn.p3.f.sg">
+  <def-mult name="vblex.p2.pl+prn.p1.mf.pl+prn.p3.f.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p3.f.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p1.mf.pl+prn.p3.f.sg+neg">
+  <def-mult name="vblex.p2.pl+prn.p1.mf.pl+prn.p3.f.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p1.mf.pl+prn.p3.mf.pl">
+  <def-mult name="vblex.p2.pl+prn.p1.mf.pl+prn.p3.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p3.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p1.mf.pl+prn.p3.mf.pl+neg">
+  <def-mult name="vblex.p2.pl+prn.p1.mf.pl+prn.p3.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p1.mf.pl+prn.p3.m.sg">
+  <def-mult name="vblex.p2.pl+prn.p1.mf.pl+prn.p3.m.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p3.m.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p1.mf.pl+prn.p3.m.sg+neg">
+  <def-mult name="vblex.p2.pl+prn.p1.mf.pl+prn.p3.m.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p1.mf.sg">
+  <def-mult name="vblex.p2.pl+prn.p1.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p1.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p1.mf.sg+neg">
+  <def-mult name="vblex.p2.pl+prn.p1.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p1.mf.sg+prn.p1.mf.pl">
+  <def-mult name="vblex.p2.pl+prn.p1.mf.sg+prn.p1.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p1.mf.sg+prn.p1.mf.pl+neg">
+  <def-mult name="vblex.p2.pl+prn.p1.mf.sg+prn.p1.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p1.mf.sg+prn.p1.mf.sg">
+  <def-mult name="vblex.p2.pl+prn.p1.mf.sg+prn.p1.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p1.mf.sg+prn.p1.mf.sg+neg">
+  <def-mult name="vblex.p2.pl+prn.p1.mf.sg+prn.p1.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p1.mf.sg+prn.p2.mf.pl">
+  <def-mult name="vblex.p2.pl+prn.p1.mf.sg+prn.p2.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p1.mf.sg+prn.p2.mf.pl+neg">
+  <def-mult name="vblex.p2.pl+prn.p1.mf.sg+prn.p2.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p1.mf.sg+prn.p2.mf.sg">
+  <def-mult name="vblex.p2.pl+prn.p1.mf.sg+prn.p2.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p1.mf.sg+prn.p2.mf.sg+neg">
+  <def-mult name="vblex.p2.pl+prn.p1.mf.sg+prn.p2.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p1.mf.sg+prn.p3.f.sg">
+  <def-mult name="vblex.p2.pl+prn.p1.mf.sg+prn.p3.f.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p1.mf.sg+prn.p3.f.sg+neg">
+  <def-mult name="vblex.p2.pl+prn.p1.mf.sg+prn.p3.f.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p1.mf.sg+prn.p3.mf.pl">
+  <def-mult name="vblex.p2.pl+prn.p1.mf.sg+prn.p3.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p1.mf.sg+prn.p3.mf.pl+neg">
+  <def-mult name="vblex.p2.pl+prn.p1.mf.sg+prn.p3.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p1.mf.sg+prn.p3.m.sg">
+  <def-mult name="vblex.p2.pl+prn.p1.mf.sg+prn.p3.m.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p1.mf.sg+prn.p3.m.sg+neg">
+  <def-mult name="vblex.p2.pl+prn.p1.mf.sg+prn.p3.m.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p2.mf.pl">
+  <def-mult name="vblex.p2.pl+prn.p2.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p2.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p2.mf.pl+neg">
+  <def-mult name="vblex.p2.pl+prn.p2.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p2.mf.pl+prn.p1.mf.pl">
+  <def-mult name="vblex.p2.pl+prn.p2.mf.pl+prn.p1.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p1.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p2.mf.pl+prn.p1.mf.pl+neg">
+  <def-mult name="vblex.p2.pl+prn.p2.mf.pl+prn.p1.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p2.mf.pl+prn.p1.mf.sg">
+  <def-mult name="vblex.p2.pl+prn.p2.mf.pl+prn.p1.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p1.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p2.mf.pl+prn.p1.mf.sg+neg">
+  <def-mult name="vblex.p2.pl+prn.p2.mf.pl+prn.p1.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p2.mf.pl+prn.p2.mf.pl">
+  <def-mult name="vblex.p2.pl+prn.p2.mf.pl+prn.p2.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p2.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p2.mf.pl+prn.p2.mf.pl+neg">
+  <def-mult name="vblex.p2.pl+prn.p2.mf.pl+prn.p2.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p2.mf.pl+prn.p2.mf.sg">
+  <def-mult name="vblex.p2.pl+prn.p2.mf.pl+prn.p2.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p2.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p2.mf.pl+prn.p2.mf.sg+neg">
+  <def-mult name="vblex.p2.pl+prn.p2.mf.pl+prn.p2.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p2.mf.pl+prn.p3.f.sg">
+  <def-mult name="vblex.p2.pl+prn.p2.mf.pl+prn.p3.f.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p3.f.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p2.mf.pl+prn.p3.f.sg+neg">
+  <def-mult name="vblex.p2.pl+prn.p2.mf.pl+prn.p3.f.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p2.mf.pl+prn.p3.mf.pl">
+  <def-mult name="vblex.p2.pl+prn.p2.mf.pl+prn.p3.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p3.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p2.mf.pl+prn.p3.mf.pl+neg">
+  <def-mult name="vblex.p2.pl+prn.p2.mf.pl+prn.p3.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p2.mf.pl+prn.p3.m.sg">
+  <def-mult name="vblex.p2.pl+prn.p2.mf.pl+prn.p3.m.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p3.m.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p2.mf.pl+prn.p3.m.sg+neg">
+  <def-mult name="vblex.p2.pl+prn.p2.mf.pl+prn.p3.m.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p2.mf.sg">
+  <def-mult name="vblex.p2.pl+prn.p2.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p2.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p2.mf.sg+neg">
+  <def-mult name="vblex.p2.pl+prn.p2.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p2.mf.sg+prn.p1.mf.pl">
+  <def-mult name="vblex.p2.pl+prn.p2.mf.sg+prn.p1.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p2.mf.sg+prn.p1.mf.pl+neg">
+  <def-mult name="vblex.p2.pl+prn.p2.mf.sg+prn.p1.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p2.mf.sg+prn.p1.mf.sg">
+  <def-mult name="vblex.p2.pl+prn.p2.mf.sg+prn.p1.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p2.mf.sg+prn.p1.mf.sg+neg">
+  <def-mult name="vblex.p2.pl+prn.p2.mf.sg+prn.p1.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p2.mf.sg+prn.p2.mf.pl">
+  <def-mult name="vblex.p2.pl+prn.p2.mf.sg+prn.p2.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p2.mf.sg+prn.p2.mf.pl+neg">
+  <def-mult name="vblex.p2.pl+prn.p2.mf.sg+prn.p2.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p2.mf.sg+prn.p2.mf.sg">
+  <def-mult name="vblex.p2.pl+prn.p2.mf.sg+prn.p2.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p2.mf.sg+prn.p2.mf.sg+neg">
+  <def-mult name="vblex.p2.pl+prn.p2.mf.sg+prn.p2.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p2.mf.sg+prn.p3.f.sg">
+  <def-mult name="vblex.p2.pl+prn.p2.mf.sg+prn.p3.f.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p2.mf.sg+prn.p3.f.sg+neg">
+  <def-mult name="vblex.p2.pl+prn.p2.mf.sg+prn.p3.f.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p2.mf.sg+prn.p3.mf.pl">
+  <def-mult name="vblex.p2.pl+prn.p2.mf.sg+prn.p3.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p2.mf.sg+prn.p3.mf.pl+neg">
+  <def-mult name="vblex.p2.pl+prn.p2.mf.sg+prn.p3.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p2.mf.sg+prn.p3.m.sg">
+  <def-mult name="vblex.p2.pl+prn.p2.mf.sg+prn.p3.m.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p2.mf.sg+prn.p3.m.sg+neg">
+  <def-mult name="vblex.p2.pl+prn.p2.mf.sg+prn.p3.m.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p3.f.sg">
+  <def-mult name="vblex.p2.pl+prn.p3.f.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p3.f.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p3.f.sg+neg">
+  <def-mult name="vblex.p2.pl+prn.p3.f.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p3.f.sg+prn.p1.mf.pl">
+  <def-mult name="vblex.p2.pl+prn.p3.f.sg+prn.p1.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p3.f.sg+prn.p1.mf.pl+neg">
+  <def-mult name="vblex.p2.pl+prn.p3.f.sg+prn.p1.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p3.f.sg+prn.p1.mf.sg">
+  <def-mult name="vblex.p2.pl+prn.p3.f.sg+prn.p1.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p3.f.sg+prn.p1.mf.sg+neg">
+  <def-mult name="vblex.p2.pl+prn.p3.f.sg+prn.p1.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p3.f.sg+prn.p2.mf.pl">
+  <def-mult name="vblex.p2.pl+prn.p3.f.sg+prn.p2.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p3.f.sg+prn.p2.mf.pl+neg">
+  <def-mult name="vblex.p2.pl+prn.p3.f.sg+prn.p2.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p3.f.sg+prn.p2.mf.sg">
+  <def-mult name="vblex.p2.pl+prn.p3.f.sg+prn.p2.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p3.f.sg+prn.p2.mf.sg+neg">
+  <def-mult name="vblex.p2.pl+prn.p3.f.sg+prn.p2.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p3.f.sg+prn.p3.f.sg">
+  <def-mult name="vblex.p2.pl+prn.p3.f.sg+prn.p3.f.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p3.f.sg+prn.p3.f.sg+neg">
+  <def-mult name="vblex.p2.pl+prn.p3.f.sg+prn.p3.f.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p3.f.sg+prn.p3.mf.pl">
+  <def-mult name="vblex.p2.pl+prn.p3.f.sg+prn.p3.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p3.f.sg+prn.p3.mf.pl+neg">
+  <def-mult name="vblex.p2.pl+prn.p3.f.sg+prn.p3.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p3.f.sg+prn.p3.m.sg">
+  <def-mult name="vblex.p2.pl+prn.p3.f.sg+prn.p3.m.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p3.f.sg+prn.p3.m.sg+neg">
+  <def-mult name="vblex.p2.pl+prn.p3.f.sg+prn.p3.m.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p3.mf.pl">
+  <def-mult name="vblex.p2.pl+prn.p3.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p3.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p3.mf.pl+neg">
+  <def-mult name="vblex.p2.pl+prn.p3.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p3.mf.pl+prn.p1.mf.pl">
+  <def-mult name="vblex.p2.pl+prn.p3.mf.pl+prn.p1.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p1.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p3.mf.pl+prn.p1.mf.pl+neg">
+  <def-mult name="vblex.p2.pl+prn.p3.mf.pl+prn.p1.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p3.mf.pl+prn.p1.mf.sg">
+  <def-mult name="vblex.p2.pl+prn.p3.mf.pl+prn.p1.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p1.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p3.mf.pl+prn.p1.mf.sg+neg">
+  <def-mult name="vblex.p2.pl+prn.p3.mf.pl+prn.p1.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p3.mf.pl+prn.p2.mf.pl">
+  <def-mult name="vblex.p2.pl+prn.p3.mf.pl+prn.p2.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p2.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p3.mf.pl+prn.p2.mf.pl+neg">
+  <def-mult name="vblex.p2.pl+prn.p3.mf.pl+prn.p2.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p3.mf.pl+prn.p2.mf.sg">
+  <def-mult name="vblex.p2.pl+prn.p3.mf.pl+prn.p2.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p2.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p3.mf.pl+prn.p2.mf.sg+neg">
+  <def-mult name="vblex.p2.pl+prn.p3.mf.pl+prn.p2.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p3.mf.pl+prn.p3.f.sg">
+  <def-mult name="vblex.p2.pl+prn.p3.mf.pl+prn.p3.f.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p3.f.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p3.mf.pl+prn.p3.f.sg+neg">
+  <def-mult name="vblex.p2.pl+prn.p3.mf.pl+prn.p3.f.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p3.mf.pl+prn.p3.mf.pl">
+  <def-mult name="vblex.p2.pl+prn.p3.mf.pl+prn.p3.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p3.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p3.mf.pl+prn.p3.mf.pl+neg">
+  <def-mult name="vblex.p2.pl+prn.p3.mf.pl+prn.p3.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p3.mf.pl+prn.p3.m.sg">
+  <def-mult name="vblex.p2.pl+prn.p3.mf.pl+prn.p3.m.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p3.m.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p3.mf.pl+prn.p3.m.sg+neg">
+  <def-mult name="vblex.p2.pl+prn.p3.mf.pl+prn.p3.m.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p3.m.sg">
+  <def-mult name="vblex.p2.pl+prn.p3.m.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p3.m.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p3.m.sg+neg">
+  <def-mult name="vblex.p2.pl+prn.p3.m.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p3.m.sg+prn.p1.mf.pl">
+  <def-mult name="vblex.p2.pl+prn.p3.m.sg+prn.p1.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p3.m.sg+prn.p1.mf.pl+neg">
+  <def-mult name="vblex.p2.pl+prn.p3.m.sg+prn.p1.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p3.m.sg+prn.p1.mf.sg">
+  <def-mult name="vblex.p2.pl+prn.p3.m.sg+prn.p1.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p3.m.sg+prn.p1.mf.sg+neg">
+  <def-mult name="vblex.p2.pl+prn.p3.m.sg+prn.p1.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p3.m.sg+prn.p2.mf.pl">
+  <def-mult name="vblex.p2.pl+prn.p3.m.sg+prn.p2.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p3.m.sg+prn.p2.mf.pl+neg">
+  <def-mult name="vblex.p2.pl+prn.p3.m.sg+prn.p2.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p3.m.sg+prn.p2.mf.sg">
+  <def-mult name="vblex.p2.pl+prn.p3.m.sg+prn.p2.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p3.m.sg+prn.p2.mf.sg+neg">
+  <def-mult name="vblex.p2.pl+prn.p3.m.sg+prn.p2.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p3.m.sg+prn.p3.f.sg">
+  <def-mult name="vblex.p2.pl+prn.p3.m.sg+prn.p3.f.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p3.m.sg+prn.p3.f.sg+neg">
+  <def-mult name="vblex.p2.pl+prn.p3.m.sg+prn.p3.f.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p3.m.sg+prn.p3.mf.pl">
+  <def-mult name="vblex.p2.pl+prn.p3.m.sg+prn.p3.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p3.m.sg+prn.p3.mf.pl+neg">
+  <def-mult name="vblex.p2.pl+prn.p3.m.sg+prn.p3.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p3.m.sg+prn.p3.m.sg">
+  <def-mult name="vblex.p2.pl+prn.p3.m.sg+prn.p3.m.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.pl+prn.p3.m.sg+prn.p3.m.sg+neg">
+  <def-mult name="vblex.p2.pl+prn.p3.m.sg+prn.p3.m.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.pl"/>
+      <label-item label="VBLEX-PL2"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+neg">
+  <def-mult name="vblex.p2.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p1.mf.pl">
+  <def-mult name="vblex.p2.sg+prn.p1.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p1.mf.pl+neg">
+  <def-mult name="vblex.p2.sg+prn.p1.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p1.mf.pl+prn.p1.mf.pl">
+  <def-mult name="vblex.p2.sg+prn.p1.mf.pl+prn.p1.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p1.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p1.mf.pl+prn.p1.mf.pl+neg">
+  <def-mult name="vblex.p2.sg+prn.p1.mf.pl+prn.p1.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p1.mf.pl+prn.p1.mf.sg">
+  <def-mult name="vblex.p2.sg+prn.p1.mf.pl+prn.p1.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p1.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p1.mf.pl+prn.p1.mf.sg+neg">
+  <def-mult name="vblex.p2.sg+prn.p1.mf.pl+prn.p1.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p1.mf.pl+prn.p2.mf.pl">
+  <def-mult name="vblex.p2.sg+prn.p1.mf.pl+prn.p2.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p2.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p1.mf.pl+prn.p2.mf.pl+neg">
+  <def-mult name="vblex.p2.sg+prn.p1.mf.pl+prn.p2.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p1.mf.pl+prn.p2.mf.sg">
+  <def-mult name="vblex.p2.sg+prn.p1.mf.pl+prn.p2.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p2.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p1.mf.pl+prn.p2.mf.sg+neg">
+  <def-mult name="vblex.p2.sg+prn.p1.mf.pl+prn.p2.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p1.mf.pl+prn.p3.f.sg">
+  <def-mult name="vblex.p2.sg+prn.p1.mf.pl+prn.p3.f.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p3.f.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p1.mf.pl+prn.p3.f.sg+neg">
+  <def-mult name="vblex.p2.sg+prn.p1.mf.pl+prn.p3.f.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p1.mf.pl+prn.p3.mf.pl">
+  <def-mult name="vblex.p2.sg+prn.p1.mf.pl+prn.p3.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p3.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p1.mf.pl+prn.p3.mf.pl+neg">
+  <def-mult name="vblex.p2.sg+prn.p1.mf.pl+prn.p3.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p1.mf.pl+prn.p3.m.sg">
+  <def-mult name="vblex.p2.sg+prn.p1.mf.pl+prn.p3.m.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p3.m.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p1.mf.pl+prn.p3.m.sg+neg">
+  <def-mult name="vblex.p2.sg+prn.p1.mf.pl+prn.p3.m.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p1.mf.sg">
+  <def-mult name="vblex.p2.sg+prn.p1.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p1.mf.sg+neg">
+  <def-mult name="vblex.p2.sg+prn.p1.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p1.mf.sg+prn.p1.mf.pl">
+  <def-mult name="vblex.p2.sg+prn.p1.mf.sg+prn.p1.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p1.mf.sg+prn.p1.mf.pl+neg">
+  <def-mult name="vblex.p2.sg+prn.p1.mf.sg+prn.p1.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p1.mf.sg+prn.p1.mf.sg">
+  <def-mult name="vblex.p2.sg+prn.p1.mf.sg+prn.p1.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p1.mf.sg+prn.p1.mf.sg+neg">
+  <def-mult name="vblex.p2.sg+prn.p1.mf.sg+prn.p1.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p1.mf.sg+prn.p2.mf.pl">
+  <def-mult name="vblex.p2.sg+prn.p1.mf.sg+prn.p2.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p1.mf.sg+prn.p2.mf.pl+neg">
+  <def-mult name="vblex.p2.sg+prn.p1.mf.sg+prn.p2.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p1.mf.sg+prn.p2.mf.sg">
+  <def-mult name="vblex.p2.sg+prn.p1.mf.sg+prn.p2.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p1.mf.sg+prn.p2.mf.sg+neg">
+  <def-mult name="vblex.p2.sg+prn.p1.mf.sg+prn.p2.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p1.mf.sg+prn.p3.f.sg">
+  <def-mult name="vblex.p2.sg+prn.p1.mf.sg+prn.p3.f.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p1.mf.sg+prn.p3.f.sg+neg">
+  <def-mult name="vblex.p2.sg+prn.p1.mf.sg+prn.p3.f.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p1.mf.sg+prn.p3.mf.pl">
+  <def-mult name="vblex.p2.sg+prn.p1.mf.sg+prn.p3.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p1.mf.sg+prn.p3.mf.pl+neg">
+  <def-mult name="vblex.p2.sg+prn.p1.mf.sg+prn.p3.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p1.mf.sg+prn.p3.m.sg">
+  <def-mult name="vblex.p2.sg+prn.p1.mf.sg+prn.p3.m.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p1.mf.sg+prn.p3.m.sg+neg">
+  <def-mult name="vblex.p2.sg+prn.p1.mf.sg+prn.p3.m.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p2.mf.pl">
+  <def-mult name="vblex.p2.sg+prn.p2.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p2.mf.pl+neg">
+  <def-mult name="vblex.p2.sg+prn.p2.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p2.mf.pl+prn.p1.mf.pl">
+  <def-mult name="vblex.p2.sg+prn.p2.mf.pl+prn.p1.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p1.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p2.mf.pl+prn.p1.mf.pl+neg">
+  <def-mult name="vblex.p2.sg+prn.p2.mf.pl+prn.p1.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p2.mf.pl+prn.p1.mf.sg">
+  <def-mult name="vblex.p2.sg+prn.p2.mf.pl+prn.p1.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p1.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p2.mf.pl+prn.p1.mf.sg+neg">
+  <def-mult name="vblex.p2.sg+prn.p2.mf.pl+prn.p1.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p2.mf.pl+prn.p2.mf.pl">
+  <def-mult name="vblex.p2.sg+prn.p2.mf.pl+prn.p2.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p2.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p2.mf.pl+prn.p2.mf.pl+neg">
+  <def-mult name="vblex.p2.sg+prn.p2.mf.pl+prn.p2.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p2.mf.pl+prn.p2.mf.sg">
+  <def-mult name="vblex.p2.sg+prn.p2.mf.pl+prn.p2.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p2.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p2.mf.pl+prn.p2.mf.sg+neg">
+  <def-mult name="vblex.p2.sg+prn.p2.mf.pl+prn.p2.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p2.mf.pl+prn.p3.f.sg">
+  <def-mult name="vblex.p2.sg+prn.p2.mf.pl+prn.p3.f.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p3.f.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p2.mf.pl+prn.p3.f.sg+neg">
+  <def-mult name="vblex.p2.sg+prn.p2.mf.pl+prn.p3.f.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p2.mf.pl+prn.p3.mf.pl">
+  <def-mult name="vblex.p2.sg+prn.p2.mf.pl+prn.p3.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p3.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p2.mf.pl+prn.p3.mf.pl+neg">
+  <def-mult name="vblex.p2.sg+prn.p2.mf.pl+prn.p3.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p2.mf.pl+prn.p3.m.sg">
+  <def-mult name="vblex.p2.sg+prn.p2.mf.pl+prn.p3.m.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p3.m.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p2.mf.pl+prn.p3.m.sg+neg">
+  <def-mult name="vblex.p2.sg+prn.p2.mf.pl+prn.p3.m.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p2.mf.sg">
+  <def-mult name="vblex.p2.sg+prn.p2.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p2.mf.sg+neg">
+  <def-mult name="vblex.p2.sg+prn.p2.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p2.mf.sg+prn.p1.mf.pl">
+  <def-mult name="vblex.p2.sg+prn.p2.mf.sg+prn.p1.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p2.mf.sg+prn.p1.mf.pl+neg">
+  <def-mult name="vblex.p2.sg+prn.p2.mf.sg+prn.p1.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p2.mf.sg+prn.p1.mf.sg">
+  <def-mult name="vblex.p2.sg+prn.p2.mf.sg+prn.p1.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p2.mf.sg+prn.p1.mf.sg+neg">
+  <def-mult name="vblex.p2.sg+prn.p2.mf.sg+prn.p1.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p2.mf.sg+prn.p2.mf.pl">
+  <def-mult name="vblex.p2.sg+prn.p2.mf.sg+prn.p2.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p2.mf.sg+prn.p2.mf.pl+neg">
+  <def-mult name="vblex.p2.sg+prn.p2.mf.sg+prn.p2.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p2.mf.sg+prn.p2.mf.sg">
+  <def-mult name="vblex.p2.sg+prn.p2.mf.sg+prn.p2.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p2.mf.sg+prn.p2.mf.sg+neg">
+  <def-mult name="vblex.p2.sg+prn.p2.mf.sg+prn.p2.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p2.mf.sg+prn.p3.f.sg">
+  <def-mult name="vblex.p2.sg+prn.p2.mf.sg+prn.p3.f.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p2.mf.sg+prn.p3.f.sg+neg">
+  <def-mult name="vblex.p2.sg+prn.p2.mf.sg+prn.p3.f.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p2.mf.sg+prn.p3.mf.pl">
+  <def-mult name="vblex.p2.sg+prn.p2.mf.sg+prn.p3.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p2.mf.sg+prn.p3.mf.pl+neg">
+  <def-mult name="vblex.p2.sg+prn.p2.mf.sg+prn.p3.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p2.mf.sg+prn.p3.m.sg">
+  <def-mult name="vblex.p2.sg+prn.p2.mf.sg+prn.p3.m.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p2.mf.sg+prn.p3.m.sg+neg">
+  <def-mult name="vblex.p2.sg+prn.p2.mf.sg+prn.p3.m.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p3.f.sg">
+  <def-mult name="vblex.p2.sg+prn.p3.f.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p3.f.sg+neg">
+  <def-mult name="vblex.p2.sg+prn.p3.f.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p3.f.sg+prn.p1.mf.pl">
+  <def-mult name="vblex.p2.sg+prn.p3.f.sg+prn.p1.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p3.f.sg+prn.p1.mf.pl+neg">
+  <def-mult name="vblex.p2.sg+prn.p3.f.sg+prn.p1.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p3.f.sg+prn.p1.mf.sg">
+  <def-mult name="vblex.p2.sg+prn.p3.f.sg+prn.p1.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p3.f.sg+prn.p1.mf.sg+neg">
+  <def-mult name="vblex.p2.sg+prn.p3.f.sg+prn.p1.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p3.f.sg+prn.p2.mf.pl">
+  <def-mult name="vblex.p2.sg+prn.p3.f.sg+prn.p2.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p3.f.sg+prn.p2.mf.pl+neg">
+  <def-mult name="vblex.p2.sg+prn.p3.f.sg+prn.p2.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p3.f.sg+prn.p2.mf.sg">
+  <def-mult name="vblex.p2.sg+prn.p3.f.sg+prn.p2.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p3.f.sg+prn.p2.mf.sg+neg">
+  <def-mult name="vblex.p2.sg+prn.p3.f.sg+prn.p2.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p3.f.sg+prn.p3.f.sg">
+  <def-mult name="vblex.p2.sg+prn.p3.f.sg+prn.p3.f.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p3.f.sg+prn.p3.f.sg+neg">
+  <def-mult name="vblex.p2.sg+prn.p3.f.sg+prn.p3.f.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p3.f.sg+prn.p3.mf.pl">
+  <def-mult name="vblex.p2.sg+prn.p3.f.sg+prn.p3.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p3.f.sg+prn.p3.mf.pl+neg">
+  <def-mult name="vblex.p2.sg+prn.p3.f.sg+prn.p3.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p3.f.sg+prn.p3.m.sg">
+  <def-mult name="vblex.p2.sg+prn.p3.f.sg+prn.p3.m.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p3.f.sg+prn.p3.m.sg+neg">
+  <def-mult name="vblex.p2.sg+prn.p3.f.sg+prn.p3.m.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p3.mf.pl">
+  <def-mult name="vblex.p2.sg+prn.p3.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p3.mf.pl+neg">
+  <def-mult name="vblex.p2.sg+prn.p3.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p3.mf.pl+prn.p1.mf.pl">
+  <def-mult name="vblex.p2.sg+prn.p3.mf.pl+prn.p1.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p1.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p3.mf.pl+prn.p1.mf.pl+neg">
+  <def-mult name="vblex.p2.sg+prn.p3.mf.pl+prn.p1.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p3.mf.pl+prn.p1.mf.sg">
+  <def-mult name="vblex.p2.sg+prn.p3.mf.pl+prn.p1.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p1.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p3.mf.pl+prn.p1.mf.sg+neg">
+  <def-mult name="vblex.p2.sg+prn.p3.mf.pl+prn.p1.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p3.mf.pl+prn.p2.mf.pl">
+  <def-mult name="vblex.p2.sg+prn.p3.mf.pl+prn.p2.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p2.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p3.mf.pl+prn.p2.mf.pl+neg">
+  <def-mult name="vblex.p2.sg+prn.p3.mf.pl+prn.p2.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p3.mf.pl+prn.p2.mf.sg">
+  <def-mult name="vblex.p2.sg+prn.p3.mf.pl+prn.p2.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p2.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p3.mf.pl+prn.p2.mf.sg+neg">
+  <def-mult name="vblex.p2.sg+prn.p3.mf.pl+prn.p2.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p3.mf.pl+prn.p3.f.sg">
+  <def-mult name="vblex.p2.sg+prn.p3.mf.pl+prn.p3.f.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p3.f.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p3.mf.pl+prn.p3.f.sg+neg">
+  <def-mult name="vblex.p2.sg+prn.p3.mf.pl+prn.p3.f.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p3.mf.pl+prn.p3.mf.pl">
+  <def-mult name="vblex.p2.sg+prn.p3.mf.pl+prn.p3.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p3.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p3.mf.pl+prn.p3.mf.pl+neg">
+  <def-mult name="vblex.p2.sg+prn.p3.mf.pl+prn.p3.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p3.mf.pl+prn.p3.m.sg">
+  <def-mult name="vblex.p2.sg+prn.p3.mf.pl+prn.p3.m.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p3.m.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p3.mf.pl+prn.p3.m.sg+neg">
+  <def-mult name="vblex.p2.sg+prn.p3.mf.pl+prn.p3.m.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p3.m.sg">
+  <def-mult name="vblex.p2.sg+prn.p3.m.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p3.m.sg+neg">
+  <def-mult name="vblex.p2.sg+prn.p3.m.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p3.m.sg+prn.p1.mf.pl">
+  <def-mult name="vblex.p2.sg+prn.p3.m.sg+prn.p1.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p3.m.sg+prn.p1.mf.pl+neg">
+  <def-mult name="vblex.p2.sg+prn.p3.m.sg+prn.p1.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p3.m.sg+prn.p1.mf.sg">
+  <def-mult name="vblex.p2.sg+prn.p3.m.sg+prn.p1.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p3.m.sg+prn.p1.mf.sg+neg">
+  <def-mult name="vblex.p2.sg+prn.p3.m.sg+prn.p1.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p3.m.sg+prn.p2.mf.pl">
+  <def-mult name="vblex.p2.sg+prn.p3.m.sg+prn.p2.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p3.m.sg+prn.p2.mf.pl+neg">
+  <def-mult name="vblex.p2.sg+prn.p3.m.sg+prn.p2.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p3.m.sg+prn.p2.mf.sg">
+  <def-mult name="vblex.p2.sg+prn.p3.m.sg+prn.p2.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p3.m.sg+prn.p2.mf.sg+neg">
+  <def-mult name="vblex.p2.sg+prn.p3.m.sg+prn.p2.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p3.m.sg+prn.p3.f.sg">
+  <def-mult name="vblex.p2.sg+prn.p3.m.sg+prn.p3.f.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p3.m.sg+prn.p3.f.sg+neg">
+  <def-mult name="vblex.p2.sg+prn.p3.m.sg+prn.p3.f.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p3.m.sg+prn.p3.mf.pl">
+  <def-mult name="vblex.p2.sg+prn.p3.m.sg+prn.p3.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p3.m.sg+prn.p3.mf.pl+neg">
+  <def-mult name="vblex.p2.sg+prn.p3.m.sg+prn.p3.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p3.m.sg+prn.p3.m.sg">
+  <def-mult name="vblex.p2.sg+prn.p3.m.sg+prn.p3.m.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p2.sg+prn.p3.m.sg+prn.p3.m.sg+neg">
+  <def-mult name="vblex.p2.sg+prn.p3.m.sg+prn.p3.m.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p2.sg"/>
+      <tags-item tags="vblex.*.p2.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+neg">
+  <def-mult name="vblex.p3.f.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p1.mf.pl">
+  <def-mult name="vblex.p3.f.sg+prn.p1.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p1.mf.pl+neg">
+  <def-mult name="vblex.p3.f.sg+prn.p1.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p1.mf.pl+prn.p1.mf.pl">
+  <def-mult name="vblex.p3.f.sg+prn.p1.mf.pl+prn.p1.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p1.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p1.mf.pl+prn.p1.mf.pl+neg">
+  <def-mult name="vblex.p3.f.sg+prn.p1.mf.pl+prn.p1.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p1.mf.pl+prn.p1.mf.sg">
+  <def-mult name="vblex.p3.f.sg+prn.p1.mf.pl+prn.p1.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p1.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p1.mf.pl+prn.p1.mf.sg+neg">
+  <def-mult name="vblex.p3.f.sg+prn.p1.mf.pl+prn.p1.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p1.mf.pl+prn.p2.mf.pl">
+  <def-mult name="vblex.p3.f.sg+prn.p1.mf.pl+prn.p2.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p2.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p1.mf.pl+prn.p2.mf.pl+neg">
+  <def-mult name="vblex.p3.f.sg+prn.p1.mf.pl+prn.p2.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p1.mf.pl+prn.p2.mf.sg">
+  <def-mult name="vblex.p3.f.sg+prn.p1.mf.pl+prn.p2.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p2.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p1.mf.pl+prn.p2.mf.sg+neg">
+  <def-mult name="vblex.p3.f.sg+prn.p1.mf.pl+prn.p2.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p1.mf.pl+prn.p3.f.sg">
+  <def-mult name="vblex.p3.f.sg+prn.p1.mf.pl+prn.p3.f.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p3.f.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p1.mf.pl+prn.p3.f.sg+neg">
+  <def-mult name="vblex.p3.f.sg+prn.p1.mf.pl+prn.p3.f.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p1.mf.pl+prn.p3.mf.pl">
+  <def-mult name="vblex.p3.f.sg+prn.p1.mf.pl+prn.p3.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p3.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p1.mf.pl+prn.p3.mf.pl+neg">
+  <def-mult name="vblex.p3.f.sg+prn.p1.mf.pl+prn.p3.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p1.mf.pl+prn.p3.m.sg">
+  <def-mult name="vblex.p3.f.sg+prn.p1.mf.pl+prn.p3.m.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p3.m.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p1.mf.pl+prn.p3.m.sg+neg">
+  <def-mult name="vblex.p3.f.sg+prn.p1.mf.pl+prn.p3.m.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p1.mf.sg">
+  <def-mult name="vblex.p3.f.sg+prn.p1.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p1.mf.sg+neg">
+  <def-mult name="vblex.p3.f.sg+prn.p1.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p1.mf.sg+prn.p1.mf.pl">
+  <def-mult name="vblex.p3.f.sg+prn.p1.mf.sg+prn.p1.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p1.mf.sg+prn.p1.mf.pl+neg">
+  <def-mult name="vblex.p3.f.sg+prn.p1.mf.sg+prn.p1.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p1.mf.sg+prn.p1.mf.sg">
+  <def-mult name="vblex.p3.f.sg+prn.p1.mf.sg+prn.p1.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p1.mf.sg+prn.p1.mf.sg+neg">
+  <def-mult name="vblex.p3.f.sg+prn.p1.mf.sg+prn.p1.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p1.mf.sg+prn.p2.mf.pl">
+  <def-mult name="vblex.p3.f.sg+prn.p1.mf.sg+prn.p2.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p1.mf.sg+prn.p2.mf.pl+neg">
+  <def-mult name="vblex.p3.f.sg+prn.p1.mf.sg+prn.p2.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p1.mf.sg+prn.p2.mf.sg">
+  <def-mult name="vblex.p3.f.sg+prn.p1.mf.sg+prn.p2.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p1.mf.sg+prn.p2.mf.sg+neg">
+  <def-mult name="vblex.p3.f.sg+prn.p1.mf.sg+prn.p2.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p1.mf.sg+prn.p3.f.sg">
+  <def-mult name="vblex.p3.f.sg+prn.p1.mf.sg+prn.p3.f.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p1.mf.sg+prn.p3.f.sg+neg">
+  <def-mult name="vblex.p3.f.sg+prn.p1.mf.sg+prn.p3.f.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p1.mf.sg+prn.p3.mf.pl">
+  <def-mult name="vblex.p3.f.sg+prn.p1.mf.sg+prn.p3.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p1.mf.sg+prn.p3.mf.pl+neg">
+  <def-mult name="vblex.p3.f.sg+prn.p1.mf.sg+prn.p3.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p1.mf.sg+prn.p3.m.sg">
+  <def-mult name="vblex.p3.f.sg+prn.p1.mf.sg+prn.p3.m.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p1.mf.sg+prn.p3.m.sg+neg">
+  <def-mult name="vblex.p3.f.sg+prn.p1.mf.sg+prn.p3.m.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p2.mf.pl">
+  <def-mult name="vblex.p3.f.sg+prn.p2.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p2.mf.pl+neg">
+  <def-mult name="vblex.p3.f.sg+prn.p2.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p2.mf.pl+prn.p1.mf.pl">
+  <def-mult name="vblex.p3.f.sg+prn.p2.mf.pl+prn.p1.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p1.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p2.mf.pl+prn.p1.mf.pl+neg">
+  <def-mult name="vblex.p3.f.sg+prn.p2.mf.pl+prn.p1.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p2.mf.pl+prn.p1.mf.sg">
+  <def-mult name="vblex.p3.f.sg+prn.p2.mf.pl+prn.p1.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p1.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p2.mf.pl+prn.p1.mf.sg+neg">
+  <def-mult name="vblex.p3.f.sg+prn.p2.mf.pl+prn.p1.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p2.mf.pl+prn.p2.mf.pl">
+  <def-mult name="vblex.p3.f.sg+prn.p2.mf.pl+prn.p2.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p2.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p2.mf.pl+prn.p2.mf.pl+neg">
+  <def-mult name="vblex.p3.f.sg+prn.p2.mf.pl+prn.p2.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p2.mf.pl+prn.p2.mf.sg">
+  <def-mult name="vblex.p3.f.sg+prn.p2.mf.pl+prn.p2.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p2.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p2.mf.pl+prn.p2.mf.sg+neg">
+  <def-mult name="vblex.p3.f.sg+prn.p2.mf.pl+prn.p2.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p2.mf.pl+prn.p3.f.sg">
+  <def-mult name="vblex.p3.f.sg+prn.p2.mf.pl+prn.p3.f.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p3.f.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p2.mf.pl+prn.p3.f.sg+neg">
+  <def-mult name="vblex.p3.f.sg+prn.p2.mf.pl+prn.p3.f.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p2.mf.pl+prn.p3.mf.pl">
+  <def-mult name="vblex.p3.f.sg+prn.p2.mf.pl+prn.p3.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p3.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p2.mf.pl+prn.p3.mf.pl+neg">
+  <def-mult name="vblex.p3.f.sg+prn.p2.mf.pl+prn.p3.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p2.mf.pl+prn.p3.m.sg">
+  <def-mult name="vblex.p3.f.sg+prn.p2.mf.pl+prn.p3.m.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p3.m.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p2.mf.pl+prn.p3.m.sg+neg">
+  <def-mult name="vblex.p3.f.sg+prn.p2.mf.pl+prn.p3.m.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p2.mf.sg">
+  <def-mult name="vblex.p3.f.sg+prn.p2.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p2.mf.sg+neg">
+  <def-mult name="vblex.p3.f.sg+prn.p2.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p2.mf.sg+prn.p1.mf.pl">
+  <def-mult name="vblex.p3.f.sg+prn.p2.mf.sg+prn.p1.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p2.mf.sg+prn.p1.mf.pl+neg">
+  <def-mult name="vblex.p3.f.sg+prn.p2.mf.sg+prn.p1.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p2.mf.sg+prn.p1.mf.sg">
+  <def-mult name="vblex.p3.f.sg+prn.p2.mf.sg+prn.p1.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p2.mf.sg+prn.p1.mf.sg+neg">
+  <def-mult name="vblex.p3.f.sg+prn.p2.mf.sg+prn.p1.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p2.mf.sg+prn.p2.mf.pl">
+  <def-mult name="vblex.p3.f.sg+prn.p2.mf.sg+prn.p2.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p2.mf.sg+prn.p2.mf.pl+neg">
+  <def-mult name="vblex.p3.f.sg+prn.p2.mf.sg+prn.p2.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p2.mf.sg+prn.p2.mf.sg">
+  <def-mult name="vblex.p3.f.sg+prn.p2.mf.sg+prn.p2.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p2.mf.sg+prn.p2.mf.sg+neg">
+  <def-mult name="vblex.p3.f.sg+prn.p2.mf.sg+prn.p2.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p2.mf.sg+prn.p3.f.sg">
+  <def-mult name="vblex.p3.f.sg+prn.p2.mf.sg+prn.p3.f.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p2.mf.sg+prn.p3.f.sg+neg">
+  <def-mult name="vblex.p3.f.sg+prn.p2.mf.sg+prn.p3.f.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p2.mf.sg+prn.p3.mf.pl">
+  <def-mult name="vblex.p3.f.sg+prn.p2.mf.sg+prn.p3.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p2.mf.sg+prn.p3.mf.pl+neg">
+  <def-mult name="vblex.p3.f.sg+prn.p2.mf.sg+prn.p3.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p2.mf.sg+prn.p3.m.sg">
+  <def-mult name="vblex.p3.f.sg+prn.p2.mf.sg+prn.p3.m.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p2.mf.sg+prn.p3.m.sg+neg">
+  <def-mult name="vblex.p3.f.sg+prn.p2.mf.sg+prn.p3.m.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p3.f.sg">
+  <def-mult name="vblex.p3.f.sg+prn.p3.f.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p3.f.sg+neg">
+  <def-mult name="vblex.p3.f.sg+prn.p3.f.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p3.f.sg+prn.p1.mf.pl">
+  <def-mult name="vblex.p3.f.sg+prn.p3.f.sg+prn.p1.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p3.f.sg+prn.p1.mf.pl+neg">
+  <def-mult name="vblex.p3.f.sg+prn.p3.f.sg+prn.p1.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p3.f.sg+prn.p1.mf.sg">
+  <def-mult name="vblex.p3.f.sg+prn.p3.f.sg+prn.p1.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p3.f.sg+prn.p1.mf.sg+neg">
+  <def-mult name="vblex.p3.f.sg+prn.p3.f.sg+prn.p1.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p3.f.sg+prn.p2.mf.pl">
+  <def-mult name="vblex.p3.f.sg+prn.p3.f.sg+prn.p2.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p3.f.sg+prn.p2.mf.pl+neg">
+  <def-mult name="vblex.p3.f.sg+prn.p3.f.sg+prn.p2.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p3.f.sg+prn.p2.mf.sg">
+  <def-mult name="vblex.p3.f.sg+prn.p3.f.sg+prn.p2.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p3.f.sg+prn.p2.mf.sg+neg">
+  <def-mult name="vblex.p3.f.sg+prn.p3.f.sg+prn.p2.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p3.f.sg+prn.p3.f.sg">
+  <def-mult name="vblex.p3.f.sg+prn.p3.f.sg+prn.p3.f.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p3.f.sg+prn.p3.f.sg+neg">
+  <def-mult name="vblex.p3.f.sg+prn.p3.f.sg+prn.p3.f.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p3.f.sg+prn.p3.mf.pl">
+  <def-mult name="vblex.p3.f.sg+prn.p3.f.sg+prn.p3.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p3.f.sg+prn.p3.mf.pl+neg">
+  <def-mult name="vblex.p3.f.sg+prn.p3.f.sg+prn.p3.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p3.f.sg+prn.p3.m.sg">
+  <def-mult name="vblex.p3.f.sg+prn.p3.f.sg+prn.p3.m.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p3.f.sg+prn.p3.m.sg+neg">
+  <def-mult name="vblex.p3.f.sg+prn.p3.f.sg+prn.p3.m.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p3.mf.pl">
+  <def-mult name="vblex.p3.f.sg+prn.p3.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p3.mf.pl+neg">
+  <def-mult name="vblex.p3.f.sg+prn.p3.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p3.mf.pl+prn.p1.mf.pl">
+  <def-mult name="vblex.p3.f.sg+prn.p3.mf.pl+prn.p1.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p1.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p3.mf.pl+prn.p1.mf.pl+neg">
+  <def-mult name="vblex.p3.f.sg+prn.p3.mf.pl+prn.p1.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p3.mf.pl+prn.p1.mf.sg">
+  <def-mult name="vblex.p3.f.sg+prn.p3.mf.pl+prn.p1.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p1.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p3.mf.pl+prn.p1.mf.sg+neg">
+  <def-mult name="vblex.p3.f.sg+prn.p3.mf.pl+prn.p1.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p3.mf.pl+prn.p2.mf.pl">
+  <def-mult name="vblex.p3.f.sg+prn.p3.mf.pl+prn.p2.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p2.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p3.mf.pl+prn.p2.mf.pl+neg">
+  <def-mult name="vblex.p3.f.sg+prn.p3.mf.pl+prn.p2.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p3.mf.pl+prn.p2.mf.sg">
+  <def-mult name="vblex.p3.f.sg+prn.p3.mf.pl+prn.p2.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p2.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p3.mf.pl+prn.p2.mf.sg+neg">
+  <def-mult name="vblex.p3.f.sg+prn.p3.mf.pl+prn.p2.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p3.mf.pl+prn.p3.f.sg">
+  <def-mult name="vblex.p3.f.sg+prn.p3.mf.pl+prn.p3.f.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p3.f.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p3.mf.pl+prn.p3.f.sg+neg">
+  <def-mult name="vblex.p3.f.sg+prn.p3.mf.pl+prn.p3.f.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p3.mf.pl+prn.p3.mf.pl">
+  <def-mult name="vblex.p3.f.sg+prn.p3.mf.pl+prn.p3.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p3.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p3.mf.pl+prn.p3.mf.pl+neg">
+  <def-mult name="vblex.p3.f.sg+prn.p3.mf.pl+prn.p3.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p3.mf.pl+prn.p3.m.sg">
+  <def-mult name="vblex.p3.f.sg+prn.p3.mf.pl+prn.p3.m.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p3.m.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p3.mf.pl+prn.p3.m.sg+neg">
+  <def-mult name="vblex.p3.f.sg+prn.p3.mf.pl+prn.p3.m.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p3.m.sg">
+  <def-mult name="vblex.p3.f.sg+prn.p3.m.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p3.m.sg+neg">
+  <def-mult name="vblex.p3.f.sg+prn.p3.m.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p3.m.sg+prn.p1.mf.pl">
+  <def-mult name="vblex.p3.f.sg+prn.p3.m.sg+prn.p1.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p3.m.sg+prn.p1.mf.pl+neg">
+  <def-mult name="vblex.p3.f.sg+prn.p3.m.sg+prn.p1.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p3.m.sg+prn.p1.mf.sg">
+  <def-mult name="vblex.p3.f.sg+prn.p3.m.sg+prn.p1.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p3.m.sg+prn.p1.mf.sg+neg">
+  <def-mult name="vblex.p3.f.sg+prn.p3.m.sg+prn.p1.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p3.m.sg+prn.p2.mf.pl">
+  <def-mult name="vblex.p3.f.sg+prn.p3.m.sg+prn.p2.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p3.m.sg+prn.p2.mf.pl+neg">
+  <def-mult name="vblex.p3.f.sg+prn.p3.m.sg+prn.p2.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p3.m.sg+prn.p2.mf.sg">
+  <def-mult name="vblex.p3.f.sg+prn.p3.m.sg+prn.p2.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p3.m.sg+prn.p2.mf.sg+neg">
+  <def-mult name="vblex.p3.f.sg+prn.p3.m.sg+prn.p2.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p3.m.sg+prn.p3.f.sg">
+  <def-mult name="vblex.p3.f.sg+prn.p3.m.sg+prn.p3.f.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p3.m.sg+prn.p3.f.sg+neg">
+  <def-mult name="vblex.p3.f.sg+prn.p3.m.sg+prn.p3.f.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p3.m.sg+prn.p3.mf.pl">
+  <def-mult name="vblex.p3.f.sg+prn.p3.m.sg+prn.p3.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p3.m.sg+prn.p3.mf.pl+neg">
+  <def-mult name="vblex.p3.f.sg+prn.p3.m.sg+prn.p3.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p3.m.sg+prn.p3.m.sg">
+  <def-mult name="vblex.p3.f.sg+prn.p3.m.sg+prn.p3.m.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.f.sg+prn.p3.m.sg+prn.p3.m.sg+neg">
+  <def-mult name="vblex.p3.f.sg+prn.p3.m.sg+prn.p3.m.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.f.sg"/>
+      <tags-item tags="vblex.*.p3.f.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+neg">
+  <def-mult name="vblex.p3.m.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p1.mf.pl">
+  <def-mult name="vblex.p3.m.sg+prn.p1.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p1.mf.pl+neg">
+  <def-mult name="vblex.p3.m.sg+prn.p1.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p1.mf.pl+prn.p1.mf.pl">
+  <def-mult name="vblex.p3.m.sg+prn.p1.mf.pl+prn.p1.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p1.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p1.mf.pl+prn.p1.mf.pl+neg">
+  <def-mult name="vblex.p3.m.sg+prn.p1.mf.pl+prn.p1.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p1.mf.pl+prn.p1.mf.sg">
+  <def-mult name="vblex.p3.m.sg+prn.p1.mf.pl+prn.p1.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p1.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p1.mf.pl+prn.p1.mf.sg+neg">
+  <def-mult name="vblex.p3.m.sg+prn.p1.mf.pl+prn.p1.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p1.mf.pl+prn.p2.mf.pl">
+  <def-mult name="vblex.p3.m.sg+prn.p1.mf.pl+prn.p2.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p2.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p1.mf.pl+prn.p2.mf.pl+neg">
+  <def-mult name="vblex.p3.m.sg+prn.p1.mf.pl+prn.p2.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p1.mf.pl+prn.p2.mf.sg">
+  <def-mult name="vblex.p3.m.sg+prn.p1.mf.pl+prn.p2.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p2.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p1.mf.pl+prn.p2.mf.sg+neg">
+  <def-mult name="vblex.p3.m.sg+prn.p1.mf.pl+prn.p2.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p1.mf.pl+prn.p3.f.sg">
+  <def-mult name="vblex.p3.m.sg+prn.p1.mf.pl+prn.p3.f.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p3.f.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p1.mf.pl+prn.p3.f.sg+neg">
+  <def-mult name="vblex.p3.m.sg+prn.p1.mf.pl+prn.p3.f.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p1.mf.pl+prn.p3.mf.pl">
+  <def-mult name="vblex.p3.m.sg+prn.p1.mf.pl+prn.p3.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p3.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p1.mf.pl+prn.p3.mf.pl+neg">
+  <def-mult name="vblex.p3.m.sg+prn.p1.mf.pl+prn.p3.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p1.mf.pl+prn.p3.m.sg">
+  <def-mult name="vblex.p3.m.sg+prn.p1.mf.pl+prn.p3.m.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p3.m.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p1.mf.pl+prn.p3.m.sg+neg">
+  <def-mult name="vblex.p3.m.sg+prn.p1.mf.pl+prn.p3.m.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p1.mf.sg">
+  <def-mult name="vblex.p3.m.sg+prn.p1.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p1.mf.sg+neg">
+  <def-mult name="vblex.p3.m.sg+prn.p1.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p1.mf.sg+prn.p1.mf.pl">
+  <def-mult name="vblex.p3.m.sg+prn.p1.mf.sg+prn.p1.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p1.mf.sg+prn.p1.mf.pl+neg">
+  <def-mult name="vblex.p3.m.sg+prn.p1.mf.sg+prn.p1.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p1.mf.sg+prn.p1.mf.sg">
+  <def-mult name="vblex.p3.m.sg+prn.p1.mf.sg+prn.p1.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p1.mf.sg+prn.p1.mf.sg+neg">
+  <def-mult name="vblex.p3.m.sg+prn.p1.mf.sg+prn.p1.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p1.mf.sg+prn.p2.mf.pl">
+  <def-mult name="vblex.p3.m.sg+prn.p1.mf.sg+prn.p2.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p1.mf.sg+prn.p2.mf.pl+neg">
+  <def-mult name="vblex.p3.m.sg+prn.p1.mf.sg+prn.p2.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p1.mf.sg+prn.p2.mf.sg">
+  <def-mult name="vblex.p3.m.sg+prn.p1.mf.sg+prn.p2.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p1.mf.sg+prn.p2.mf.sg+neg">
+  <def-mult name="vblex.p3.m.sg+prn.p1.mf.sg+prn.p2.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p1.mf.sg+prn.p3.f.sg">
+  <def-mult name="vblex.p3.m.sg+prn.p1.mf.sg+prn.p3.f.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p1.mf.sg+prn.p3.f.sg+neg">
+  <def-mult name="vblex.p3.m.sg+prn.p1.mf.sg+prn.p3.f.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p1.mf.sg+prn.p3.mf.pl">
+  <def-mult name="vblex.p3.m.sg+prn.p1.mf.sg+prn.p3.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p1.mf.sg+prn.p3.mf.pl+neg">
+  <def-mult name="vblex.p3.m.sg+prn.p1.mf.sg+prn.p3.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p1.mf.sg+prn.p3.m.sg">
+  <def-mult name="vblex.p3.m.sg+prn.p1.mf.sg+prn.p3.m.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p1.mf.sg+prn.p3.m.sg+neg">
+  <def-mult name="vblex.p3.m.sg+prn.p1.mf.sg+prn.p3.m.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p2.mf.pl">
+  <def-mult name="vblex.p3.m.sg+prn.p2.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p2.mf.pl+neg">
+  <def-mult name="vblex.p3.m.sg+prn.p2.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p2.mf.pl+prn.p1.mf.pl">
+  <def-mult name="vblex.p3.m.sg+prn.p2.mf.pl+prn.p1.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p1.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p2.mf.pl+prn.p1.mf.pl+neg">
+  <def-mult name="vblex.p3.m.sg+prn.p2.mf.pl+prn.p1.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p2.mf.pl+prn.p1.mf.sg">
+  <def-mult name="vblex.p3.m.sg+prn.p2.mf.pl+prn.p1.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p1.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p2.mf.pl+prn.p1.mf.sg+neg">
+  <def-mult name="vblex.p3.m.sg+prn.p2.mf.pl+prn.p1.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p2.mf.pl+prn.p2.mf.pl">
+  <def-mult name="vblex.p3.m.sg+prn.p2.mf.pl+prn.p2.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p2.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p2.mf.pl+prn.p2.mf.pl+neg">
+  <def-mult name="vblex.p3.m.sg+prn.p2.mf.pl+prn.p2.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p2.mf.pl+prn.p2.mf.sg">
+  <def-mult name="vblex.p3.m.sg+prn.p2.mf.pl+prn.p2.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p2.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p2.mf.pl+prn.p2.mf.sg+neg">
+  <def-mult name="vblex.p3.m.sg+prn.p2.mf.pl+prn.p2.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p2.mf.pl+prn.p3.f.sg">
+  <def-mult name="vblex.p3.m.sg+prn.p2.mf.pl+prn.p3.f.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p3.f.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p2.mf.pl+prn.p3.f.sg+neg">
+  <def-mult name="vblex.p3.m.sg+prn.p2.mf.pl+prn.p3.f.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p2.mf.pl+prn.p3.mf.pl">
+  <def-mult name="vblex.p3.m.sg+prn.p2.mf.pl+prn.p3.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p3.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p2.mf.pl+prn.p3.mf.pl+neg">
+  <def-mult name="vblex.p3.m.sg+prn.p2.mf.pl+prn.p3.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p2.mf.pl+prn.p3.m.sg">
+  <def-mult name="vblex.p3.m.sg+prn.p2.mf.pl+prn.p3.m.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p3.m.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p2.mf.pl+prn.p3.m.sg+neg">
+  <def-mult name="vblex.p3.m.sg+prn.p2.mf.pl+prn.p3.m.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p2.mf.sg">
+  <def-mult name="vblex.p3.m.sg+prn.p2.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p2.mf.sg+neg">
+  <def-mult name="vblex.p3.m.sg+prn.p2.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p2.mf.sg+prn.p1.mf.pl">
+  <def-mult name="vblex.p3.m.sg+prn.p2.mf.sg+prn.p1.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p2.mf.sg+prn.p1.mf.pl+neg">
+  <def-mult name="vblex.p3.m.sg+prn.p2.mf.sg+prn.p1.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p2.mf.sg+prn.p1.mf.sg">
+  <def-mult name="vblex.p3.m.sg+prn.p2.mf.sg+prn.p1.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p2.mf.sg+prn.p1.mf.sg+neg">
+  <def-mult name="vblex.p3.m.sg+prn.p2.mf.sg+prn.p1.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p2.mf.sg+prn.p2.mf.pl">
+  <def-mult name="vblex.p3.m.sg+prn.p2.mf.sg+prn.p2.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p2.mf.sg+prn.p2.mf.pl+neg">
+  <def-mult name="vblex.p3.m.sg+prn.p2.mf.sg+prn.p2.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p2.mf.sg+prn.p2.mf.sg">
+  <def-mult name="vblex.p3.m.sg+prn.p2.mf.sg+prn.p2.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p2.mf.sg+prn.p2.mf.sg+neg">
+  <def-mult name="vblex.p3.m.sg+prn.p2.mf.sg+prn.p2.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p2.mf.sg+prn.p3.f.sg">
+  <def-mult name="vblex.p3.m.sg+prn.p2.mf.sg+prn.p3.f.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p2.mf.sg+prn.p3.f.sg+neg">
+  <def-mult name="vblex.p3.m.sg+prn.p2.mf.sg+prn.p3.f.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p2.mf.sg+prn.p3.mf.pl">
+  <def-mult name="vblex.p3.m.sg+prn.p2.mf.sg+prn.p3.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p2.mf.sg+prn.p3.mf.pl+neg">
+  <def-mult name="vblex.p3.m.sg+prn.p2.mf.sg+prn.p3.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p2.mf.sg+prn.p3.m.sg">
+  <def-mult name="vblex.p3.m.sg+prn.p2.mf.sg+prn.p3.m.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p2.mf.sg+prn.p3.m.sg+neg">
+  <def-mult name="vblex.p3.m.sg+prn.p2.mf.sg+prn.p3.m.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p3.f.sg">
+  <def-mult name="vblex.p3.m.sg+prn.p3.f.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p3.f.sg+neg">
+  <def-mult name="vblex.p3.m.sg+prn.p3.f.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p3.f.sg+prn.p1.mf.pl">
+  <def-mult name="vblex.p3.m.sg+prn.p3.f.sg+prn.p1.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p3.f.sg+prn.p1.mf.pl+neg">
+  <def-mult name="vblex.p3.m.sg+prn.p3.f.sg+prn.p1.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p3.f.sg+prn.p1.mf.sg">
+  <def-mult name="vblex.p3.m.sg+prn.p3.f.sg+prn.p1.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p3.f.sg+prn.p1.mf.sg+neg">
+  <def-mult name="vblex.p3.m.sg+prn.p3.f.sg+prn.p1.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p3.f.sg+prn.p2.mf.pl">
+  <def-mult name="vblex.p3.m.sg+prn.p3.f.sg+prn.p2.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p3.f.sg+prn.p2.mf.pl+neg">
+  <def-mult name="vblex.p3.m.sg+prn.p3.f.sg+prn.p2.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p3.f.sg+prn.p2.mf.sg">
+  <def-mult name="vblex.p3.m.sg+prn.p3.f.sg+prn.p2.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p3.f.sg+prn.p2.mf.sg+neg">
+  <def-mult name="vblex.p3.m.sg+prn.p3.f.sg+prn.p2.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p3.f.sg+prn.p3.f.sg">
+  <def-mult name="vblex.p3.m.sg+prn.p3.f.sg+prn.p3.f.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p3.f.sg+prn.p3.f.sg+neg">
+  <def-mult name="vblex.p3.m.sg+prn.p3.f.sg+prn.p3.f.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p3.f.sg+prn.p3.mf.pl">
+  <def-mult name="vblex.p3.m.sg+prn.p3.f.sg+prn.p3.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p3.f.sg+prn.p3.mf.pl+neg">
+  <def-mult name="vblex.p3.m.sg+prn.p3.f.sg+prn.p3.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p3.f.sg+prn.p3.m.sg">
+  <def-mult name="vblex.p3.m.sg+prn.p3.f.sg+prn.p3.m.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p3.f.sg+prn.p3.m.sg+neg">
+  <def-mult name="vblex.p3.m.sg+prn.p3.f.sg+prn.p3.m.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p3.mf.pl">
+  <def-mult name="vblex.p3.m.sg+prn.p3.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p3.mf.pl+neg">
+  <def-mult name="vblex.p3.m.sg+prn.p3.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p3.mf.pl+prn.p1.mf.pl">
+  <def-mult name="vblex.p3.m.sg+prn.p3.mf.pl+prn.p1.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p1.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p3.mf.pl+prn.p1.mf.pl+neg">
+  <def-mult name="vblex.p3.m.sg+prn.p3.mf.pl+prn.p1.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p3.mf.pl+prn.p1.mf.sg">
+  <def-mult name="vblex.p3.m.sg+prn.p3.mf.pl+prn.p1.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p1.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p3.mf.pl+prn.p1.mf.sg+neg">
+  <def-mult name="vblex.p3.m.sg+prn.p3.mf.pl+prn.p1.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p3.mf.pl+prn.p2.mf.pl">
+  <def-mult name="vblex.p3.m.sg+prn.p3.mf.pl+prn.p2.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p2.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p3.mf.pl+prn.p2.mf.pl+neg">
+  <def-mult name="vblex.p3.m.sg+prn.p3.mf.pl+prn.p2.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p3.mf.pl+prn.p2.mf.sg">
+  <def-mult name="vblex.p3.m.sg+prn.p3.mf.pl+prn.p2.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p2.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p3.mf.pl+prn.p2.mf.sg+neg">
+  <def-mult name="vblex.p3.m.sg+prn.p3.mf.pl+prn.p2.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p3.mf.pl+prn.p3.f.sg">
+  <def-mult name="vblex.p3.m.sg+prn.p3.mf.pl+prn.p3.f.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p3.f.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p3.mf.pl+prn.p3.f.sg+neg">
+  <def-mult name="vblex.p3.m.sg+prn.p3.mf.pl+prn.p3.f.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p3.mf.pl+prn.p3.mf.pl">
+  <def-mult name="vblex.p3.m.sg+prn.p3.mf.pl+prn.p3.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p3.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p3.mf.pl+prn.p3.mf.pl+neg">
+  <def-mult name="vblex.p3.m.sg+prn.p3.mf.pl+prn.p3.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p3.mf.pl+prn.p3.m.sg">
+  <def-mult name="vblex.p3.m.sg+prn.p3.mf.pl+prn.p3.m.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p3.m.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p3.mf.pl+prn.p3.m.sg+neg">
+  <def-mult name="vblex.p3.m.sg+prn.p3.mf.pl+prn.p3.m.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p3.m.sg">
+  <def-mult name="vblex.p3.m.sg+prn.p3.m.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p3.m.sg+neg">
+  <def-mult name="vblex.p3.m.sg+prn.p3.m.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p3.m.sg+prn.p1.mf.pl">
+  <def-mult name="vblex.p3.m.sg+prn.p3.m.sg+prn.p1.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p3.m.sg+prn.p1.mf.pl+neg">
+  <def-mult name="vblex.p3.m.sg+prn.p3.m.sg+prn.p1.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p3.m.sg+prn.p1.mf.sg">
+  <def-mult name="vblex.p3.m.sg+prn.p3.m.sg+prn.p1.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p3.m.sg+prn.p1.mf.sg+neg">
+  <def-mult name="vblex.p3.m.sg+prn.p3.m.sg+prn.p1.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p3.m.sg+prn.p2.mf.pl">
+  <def-mult name="vblex.p3.m.sg+prn.p3.m.sg+prn.p2.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p3.m.sg+prn.p2.mf.pl+neg">
+  <def-mult name="vblex.p3.m.sg+prn.p3.m.sg+prn.p2.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p3.m.sg+prn.p2.mf.sg">
+  <def-mult name="vblex.p3.m.sg+prn.p3.m.sg+prn.p2.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p3.m.sg+prn.p2.mf.sg+neg">
+  <def-mult name="vblex.p3.m.sg+prn.p3.m.sg+prn.p2.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p3.m.sg+prn.p3.f.sg">
+  <def-mult name="vblex.p3.m.sg+prn.p3.m.sg+prn.p3.f.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p3.m.sg+prn.p3.f.sg+neg">
+  <def-mult name="vblex.p3.m.sg+prn.p3.m.sg+prn.p3.f.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p3.m.sg+prn.p3.mf.pl">
+  <def-mult name="vblex.p3.m.sg+prn.p3.m.sg+prn.p3.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p3.m.sg+prn.p3.mf.pl+neg">
+  <def-mult name="vblex.p3.m.sg+prn.p3.m.sg+prn.p3.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p3.m.sg+prn.p3.m.sg">
+  <def-mult name="vblex.p3.m.sg+prn.p3.m.sg+prn.p3.m.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.m.sg+prn.p3.m.sg+prn.p3.m.sg+neg">
+  <def-mult name="vblex.p3.m.sg+prn.p3.m.sg+prn.p3.m.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.m.sg"/>
+      <tags-item tags="vblex.*.p3.m.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+neg">
+  <def-mult name="vblex.p3.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p1.mf.pl">
+  <def-mult name="vblex.p3.pl+prn.p1.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p1.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p1.mf.pl+neg">
+  <def-mult name="vblex.p3.pl+prn.p1.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p1.mf.pl+prn.p1.mf.pl">
+  <def-mult name="vblex.p3.pl+prn.p1.mf.pl+prn.p1.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p1.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p1.mf.pl+prn.p1.mf.pl+neg">
+  <def-mult name="vblex.p3.pl+prn.p1.mf.pl+prn.p1.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p1.mf.pl+prn.p1.mf.sg">
+  <def-mult name="vblex.p3.pl+prn.p1.mf.pl+prn.p1.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p1.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p1.mf.pl+prn.p1.mf.sg+neg">
+  <def-mult name="vblex.p3.pl+prn.p1.mf.pl+prn.p1.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p1.mf.pl+prn.p2.mf.pl">
+  <def-mult name="vblex.p3.pl+prn.p1.mf.pl+prn.p2.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p2.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p1.mf.pl+prn.p2.mf.pl+neg">
+  <def-mult name="vblex.p3.pl+prn.p1.mf.pl+prn.p2.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p1.mf.pl+prn.p2.mf.sg">
+  <def-mult name="vblex.p3.pl+prn.p1.mf.pl+prn.p2.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p2.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p1.mf.pl+prn.p2.mf.sg+neg">
+  <def-mult name="vblex.p3.pl+prn.p1.mf.pl+prn.p2.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p1.mf.pl+prn.p3.f.sg">
+  <def-mult name="vblex.p3.pl+prn.p1.mf.pl+prn.p3.f.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p3.f.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p1.mf.pl+prn.p3.f.sg+neg">
+  <def-mult name="vblex.p3.pl+prn.p1.mf.pl+prn.p3.f.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p1.mf.pl+prn.p3.mf.pl">
+  <def-mult name="vblex.p3.pl+prn.p1.mf.pl+prn.p3.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p3.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p1.mf.pl+prn.p3.mf.pl+neg">
+  <def-mult name="vblex.p3.pl+prn.p1.mf.pl+prn.p3.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p1.mf.pl+prn.p3.m.sg">
+  <def-mult name="vblex.p3.pl+prn.p1.mf.pl+prn.p3.m.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p3.m.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p1.mf.pl+prn.p3.m.sg+neg">
+  <def-mult name="vblex.p3.pl+prn.p1.mf.pl+prn.p3.m.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p1.mf.sg">
+  <def-mult name="vblex.p3.pl+prn.p1.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p1.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p1.mf.sg+neg">
+  <def-mult name="vblex.p3.pl+prn.p1.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p1.mf.sg+prn.p1.mf.pl">
+  <def-mult name="vblex.p3.pl+prn.p1.mf.sg+prn.p1.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p1.mf.sg+prn.p1.mf.pl+neg">
+  <def-mult name="vblex.p3.pl+prn.p1.mf.sg+prn.p1.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p1.mf.sg+prn.p1.mf.sg">
+  <def-mult name="vblex.p3.pl+prn.p1.mf.sg+prn.p1.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p1.mf.sg+prn.p1.mf.sg+neg">
+  <def-mult name="vblex.p3.pl+prn.p1.mf.sg+prn.p1.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p1.mf.sg+prn.p2.mf.pl">
+  <def-mult name="vblex.p3.pl+prn.p1.mf.sg+prn.p2.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p1.mf.sg+prn.p2.mf.pl+neg">
+  <def-mult name="vblex.p3.pl+prn.p1.mf.sg+prn.p2.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p1.mf.sg+prn.p2.mf.sg">
+  <def-mult name="vblex.p3.pl+prn.p1.mf.sg+prn.p2.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p1.mf.sg+prn.p2.mf.sg+neg">
+  <def-mult name="vblex.p3.pl+prn.p1.mf.sg+prn.p2.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p1.mf.sg+prn.p3.f.sg">
+  <def-mult name="vblex.p3.pl+prn.p1.mf.sg+prn.p3.f.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p1.mf.sg+prn.p3.f.sg+neg">
+  <def-mult name="vblex.p3.pl+prn.p1.mf.sg+prn.p3.f.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p1.mf.sg+prn.p3.mf.pl">
+  <def-mult name="vblex.p3.pl+prn.p1.mf.sg+prn.p3.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p1.mf.sg+prn.p3.mf.pl+neg">
+  <def-mult name="vblex.p3.pl+prn.p1.mf.sg+prn.p3.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p1.mf.sg+prn.p3.m.sg">
+  <def-mult name="vblex.p3.pl+prn.p1.mf.sg+prn.p3.m.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p1.mf.sg+prn.p3.m.sg+neg">
+  <def-mult name="vblex.p3.pl+prn.p1.mf.sg+prn.p3.m.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p2.mf.pl">
+  <def-mult name="vblex.p3.pl+prn.p2.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p2.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p2.mf.pl+neg">
+  <def-mult name="vblex.p3.pl+prn.p2.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p2.mf.pl+prn.p1.mf.pl">
+  <def-mult name="vblex.p3.pl+prn.p2.mf.pl+prn.p1.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p1.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p2.mf.pl+prn.p1.mf.pl+neg">
+  <def-mult name="vblex.p3.pl+prn.p2.mf.pl+prn.p1.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p2.mf.pl+prn.p1.mf.sg">
+  <def-mult name="vblex.p3.pl+prn.p2.mf.pl+prn.p1.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p1.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p2.mf.pl+prn.p1.mf.sg+neg">
+  <def-mult name="vblex.p3.pl+prn.p2.mf.pl+prn.p1.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p2.mf.pl+prn.p2.mf.pl">
+  <def-mult name="vblex.p3.pl+prn.p2.mf.pl+prn.p2.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p2.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p2.mf.pl+prn.p2.mf.pl+neg">
+  <def-mult name="vblex.p3.pl+prn.p2.mf.pl+prn.p2.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p2.mf.pl+prn.p2.mf.sg">
+  <def-mult name="vblex.p3.pl+prn.p2.mf.pl+prn.p2.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p2.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p2.mf.pl+prn.p2.mf.sg+neg">
+  <def-mult name="vblex.p3.pl+prn.p2.mf.pl+prn.p2.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p2.mf.pl+prn.p3.f.sg">
+  <def-mult name="vblex.p3.pl+prn.p2.mf.pl+prn.p3.f.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p3.f.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p2.mf.pl+prn.p3.f.sg+neg">
+  <def-mult name="vblex.p3.pl+prn.p2.mf.pl+prn.p3.f.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p2.mf.pl+prn.p3.mf.pl">
+  <def-mult name="vblex.p3.pl+prn.p2.mf.pl+prn.p3.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p3.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p2.mf.pl+prn.p3.mf.pl+neg">
+  <def-mult name="vblex.p3.pl+prn.p2.mf.pl+prn.p3.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p2.mf.pl+prn.p3.m.sg">
+  <def-mult name="vblex.p3.pl+prn.p2.mf.pl+prn.p3.m.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p3.m.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p2.mf.pl+prn.p3.m.sg+neg">
+  <def-mult name="vblex.p3.pl+prn.p2.mf.pl+prn.p3.m.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p2.mf.sg">
+  <def-mult name="vblex.p3.pl+prn.p2.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p2.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p2.mf.sg+neg">
+  <def-mult name="vblex.p3.pl+prn.p2.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p2.mf.sg+prn.p1.mf.pl">
+  <def-mult name="vblex.p3.pl+prn.p2.mf.sg+prn.p1.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p2.mf.sg+prn.p1.mf.pl+neg">
+  <def-mult name="vblex.p3.pl+prn.p2.mf.sg+prn.p1.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p2.mf.sg+prn.p1.mf.sg">
+  <def-mult name="vblex.p3.pl+prn.p2.mf.sg+prn.p1.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p2.mf.sg+prn.p1.mf.sg+neg">
+  <def-mult name="vblex.p3.pl+prn.p2.mf.sg+prn.p1.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p2.mf.sg+prn.p2.mf.pl">
+  <def-mult name="vblex.p3.pl+prn.p2.mf.sg+prn.p2.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p2.mf.sg+prn.p2.mf.pl+neg">
+  <def-mult name="vblex.p3.pl+prn.p2.mf.sg+prn.p2.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p2.mf.sg+prn.p2.mf.sg">
+  <def-mult name="vblex.p3.pl+prn.p2.mf.sg+prn.p2.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p2.mf.sg+prn.p2.mf.sg+neg">
+  <def-mult name="vblex.p3.pl+prn.p2.mf.sg+prn.p2.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p2.mf.sg+prn.p3.f.sg">
+  <def-mult name="vblex.p3.pl+prn.p2.mf.sg+prn.p3.f.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p2.mf.sg+prn.p3.f.sg+neg">
+  <def-mult name="vblex.p3.pl+prn.p2.mf.sg+prn.p3.f.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p2.mf.sg+prn.p3.mf.pl">
+  <def-mult name="vblex.p3.pl+prn.p2.mf.sg+prn.p3.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p2.mf.sg+prn.p3.mf.pl+neg">
+  <def-mult name="vblex.p3.pl+prn.p2.mf.sg+prn.p3.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p2.mf.sg+prn.p3.m.sg">
+  <def-mult name="vblex.p3.pl+prn.p2.mf.sg+prn.p3.m.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p2.mf.sg+prn.p3.m.sg+neg">
+  <def-mult name="vblex.p3.pl+prn.p2.mf.sg+prn.p3.m.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p3.f.sg">
+  <def-mult name="vblex.p3.pl+prn.p3.f.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p3.f.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p3.f.sg+neg">
+  <def-mult name="vblex.p3.pl+prn.p3.f.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p3.f.sg+prn.p1.mf.pl">
+  <def-mult name="vblex.p3.pl+prn.p3.f.sg+prn.p1.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p3.f.sg+prn.p1.mf.pl+neg">
+  <def-mult name="vblex.p3.pl+prn.p3.f.sg+prn.p1.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p3.f.sg+prn.p1.mf.sg">
+  <def-mult name="vblex.p3.pl+prn.p3.f.sg+prn.p1.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p3.f.sg+prn.p1.mf.sg+neg">
+  <def-mult name="vblex.p3.pl+prn.p3.f.sg+prn.p1.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p3.f.sg+prn.p2.mf.pl">
+  <def-mult name="vblex.p3.pl+prn.p3.f.sg+prn.p2.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p3.f.sg+prn.p2.mf.pl+neg">
+  <def-mult name="vblex.p3.pl+prn.p3.f.sg+prn.p2.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p3.f.sg+prn.p2.mf.sg">
+  <def-mult name="vblex.p3.pl+prn.p3.f.sg+prn.p2.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p3.f.sg+prn.p2.mf.sg+neg">
+  <def-mult name="vblex.p3.pl+prn.p3.f.sg+prn.p2.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p3.f.sg+prn.p3.f.sg">
+  <def-mult name="vblex.p3.pl+prn.p3.f.sg+prn.p3.f.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p3.f.sg+prn.p3.f.sg+neg">
+  <def-mult name="vblex.p3.pl+prn.p3.f.sg+prn.p3.f.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p3.f.sg+prn.p3.mf.pl">
+  <def-mult name="vblex.p3.pl+prn.p3.f.sg+prn.p3.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p3.f.sg+prn.p3.mf.pl+neg">
+  <def-mult name="vblex.p3.pl+prn.p3.f.sg+prn.p3.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p3.f.sg+prn.p3.m.sg">
+  <def-mult name="vblex.p3.pl+prn.p3.f.sg+prn.p3.m.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p3.f.sg+prn.p3.m.sg+neg">
+  <def-mult name="vblex.p3.pl+prn.p3.f.sg+prn.p3.m.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p3.mf.pl">
+  <def-mult name="vblex.p3.pl+prn.p3.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p3.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p3.mf.pl+neg">
+  <def-mult name="vblex.p3.pl+prn.p3.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p3.mf.pl+prn.p1.mf.pl">
+  <def-mult name="vblex.p3.pl+prn.p3.mf.pl+prn.p1.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p1.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p3.mf.pl+prn.p1.mf.pl+neg">
+  <def-mult name="vblex.p3.pl+prn.p3.mf.pl+prn.p1.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p3.mf.pl+prn.p1.mf.sg">
+  <def-mult name="vblex.p3.pl+prn.p3.mf.pl+prn.p1.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p1.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p3.mf.pl+prn.p1.mf.sg+neg">
+  <def-mult name="vblex.p3.pl+prn.p3.mf.pl+prn.p1.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p3.mf.pl+prn.p2.mf.pl">
+  <def-mult name="vblex.p3.pl+prn.p3.mf.pl+prn.p2.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p2.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p3.mf.pl+prn.p2.mf.pl+neg">
+  <def-mult name="vblex.p3.pl+prn.p3.mf.pl+prn.p2.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p3.mf.pl+prn.p2.mf.sg">
+  <def-mult name="vblex.p3.pl+prn.p3.mf.pl+prn.p2.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p2.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p3.mf.pl+prn.p2.mf.sg+neg">
+  <def-mult name="vblex.p3.pl+prn.p3.mf.pl+prn.p2.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p3.mf.pl+prn.p3.f.sg">
+  <def-mult name="vblex.p3.pl+prn.p3.mf.pl+prn.p3.f.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p3.f.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p3.mf.pl+prn.p3.f.sg+neg">
+  <def-mult name="vblex.p3.pl+prn.p3.mf.pl+prn.p3.f.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p3.mf.pl+prn.p3.mf.pl">
+  <def-mult name="vblex.p3.pl+prn.p3.mf.pl+prn.p3.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p3.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p3.mf.pl+prn.p3.mf.pl+neg">
+  <def-mult name="vblex.p3.pl+prn.p3.mf.pl+prn.p3.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p3.mf.pl+prn.p3.m.sg">
+  <def-mult name="vblex.p3.pl+prn.p3.mf.pl+prn.p3.m.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p3.m.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p3.mf.pl+prn.p3.m.sg+neg">
+  <def-mult name="vblex.p3.pl+prn.p3.mf.pl+prn.p3.m.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p3.m.sg">
+  <def-mult name="vblex.p3.pl+prn.p3.m.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p3.m.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p3.m.sg+neg">
+  <def-mult name="vblex.p3.pl+prn.p3.m.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p3.m.sg+prn.p1.mf.pl">
+  <def-mult name="vblex.p3.pl+prn.p3.m.sg+prn.p1.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p3.m.sg+prn.p1.mf.pl+neg">
+  <def-mult name="vblex.p3.pl+prn.p3.m.sg+prn.p1.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p1.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p3.m.sg+prn.p1.mf.sg">
+  <def-mult name="vblex.p3.pl+prn.p3.m.sg+prn.p1.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p3.m.sg+prn.p1.mf.sg+neg">
+  <def-mult name="vblex.p3.pl+prn.p3.m.sg+prn.p1.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p1.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p3.m.sg+prn.p2.mf.pl">
+  <def-mult name="vblex.p3.pl+prn.p3.m.sg+prn.p2.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p3.m.sg+prn.p2.mf.pl+neg">
+  <def-mult name="vblex.p3.pl+prn.p3.m.sg+prn.p2.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p2.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p3.m.sg+prn.p2.mf.sg">
+  <def-mult name="vblex.p3.pl+prn.p3.m.sg+prn.p2.mf.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p3.m.sg+prn.p2.mf.sg+neg">
+  <def-mult name="vblex.p3.pl+prn.p3.m.sg+prn.p2.mf.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p2.mf.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p3.m.sg+prn.p3.f.sg">
+  <def-mult name="vblex.p3.pl+prn.p3.m.sg+prn.p3.f.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p3.m.sg+prn.p3.f.sg+neg">
+  <def-mult name="vblex.p3.pl+prn.p3.m.sg+prn.p3.f.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p3.f.sg"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p3.m.sg+prn.p3.mf.pl">
+  <def-mult name="vblex.p3.pl+prn.p3.m.sg+prn.p3.mf.pl">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p3.m.sg+prn.p3.mf.pl+neg">
+  <def-mult name="vblex.p3.pl+prn.p3.m.sg+prn.p3.mf.pl+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p3.mf.pl"/>
       <tags-item tags="neg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p3.m.sg+prn.p3.m.sg">
+  <def-mult name="vblex.p3.pl+prn.p3.m.sg+prn.p3.m.sg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
     </sequence>
   </def-mult>
-  <def-mult name="vblex.pres.p3.pl+prn.p3.m.sg+prn.p3.m.sg+neg">
+  <def-mult name="vblex.p3.pl+prn.p3.m.sg+prn.p3.m.sg+neg">
     <sequence>
-      <tags-item tags="vblex.pres.p3.pl"/>
+      <label-item label="VBLEX-PL3"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="prn.p3.m.sg"/>
       <tags-item tags="neg"/>
