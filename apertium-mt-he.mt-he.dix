@@ -2475,7 +2475,7 @@
      <e><p><l>Żakkarija<s n="np"/><s n="ant"/><s n="m"/></l><r>זכריה<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 
      <e><p><l>Olimpjadi<s n="np"/><s n="al"/><s n="m"/></l><r>אולימפיאדה<s n="np"/><s n="al"/><s n="f"/></r></p></e>
-     <e><p><l>Kronaka<b/>f'Malta<s n="np"/><s n="al"/><s n="m"/><s n="sssgg"/></l><r>דברי<b/>מלטה<s n="np"/><s n="al"/><s n="m"/><s n="pl"/></r></p></e>
+     <e><p><l>Kronaka<b/>f'Malta<s n="np"/><s n="al"/><s n="m"/><s n="sg"/></l><r>דברי<b/>מלטה<s n="np"/><s n="al"/><s n="m"/><s n="pl"/></r></p></e>
 
      <!-- SECTION: Adjectives -->
      <e><p><l>politiku<s n="adj"/></l><r>פוליטי<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
