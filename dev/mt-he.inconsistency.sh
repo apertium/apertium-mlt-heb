@@ -27,7 +27,8 @@ lt-expand $ANADIX |\
 
 # Output:
 paste $TMP/${PREFIX}_testvoc1 $TMP/${PREFIX}_testvoc2 $TMP/${PREFIX}_testvoc3 |\
-        sed 's/\^.<sent>\$//g' | sed 's/\t/   --------->  /g' | sed 's/\\//g' | sed 's/ \.$//'
+        sed 's/\^.<sent>\$//g' | sed 's/	/   --------->  /g' | sed 's/\\//g' | sed 's/ \.$//'
+# Note: real tab in second sed, mac sed doesn't handle \t
 
 # Remove temp files:
 #rm -f $TMP/${PREFIX}_testvoc1 $TMP/${PREFIX}_testvoc2 $TMP/${PREFIX}_testvoc3
