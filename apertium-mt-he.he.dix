@@ -3,6 +3,9 @@
   <sdefs>
     <sdef n="n"           c="Noun"/>
     <sdef n="pr"          c="Preposition"/>
+    <sdef n="ij"          c="Interjection"/>
+    <sdef n="abbr"        c="Abbreviation"/>
+    <sdef n="rel"         c="Relative"/>
     <sdef n="prn"         c="Pronoun"/>
     <sdef n="det"         c="Determiner"/>
     <sdef n="np"          c="Proper noun"/>
@@ -10,6 +13,8 @@
     <sdef n="p2"          c="Second person"/>
     <sdef n="p3"          c="Third person"/>
     
+    <sdef n="an"          c="Animate / inanimate"/>
+
     <sdef n="m"           c="Masculine"/>
     <sdef n="f"           c="Feminine"/>
     <sdef n="mf"          c="Masculine / feminine"/>
@@ -84,6 +89,10 @@
       <e><re>[0-9]+([.,][0-9]+)?[:.][0-9]+([.,][0-9]+)? ?(a|p|A|P).?(m|M).?</re><p><l></l><r><s n="num"/></r></p></e>
     </pardef>
 
+    <!-- SECTION: Interjections -->
+    <pardef n="אמן__ij">
+      <e><p><l/><r><s n="ij"/></r></p></e>
+    </pardef>
 
     <!-- SECTION: Conjunctions -->
     <pardef n="ו__cnjcoo">
@@ -6315,6 +6324,7 @@
       <e><p><l>נים</l><r>ן<s n="adj"/><s n="m"/><s n="pl"/></r></p></e>
       <e><p><l>נות</l><r>ן<s n="adj"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
+ 
     
   </pardefs>
   <section id="main" type="standard">
@@ -26799,6 +26809,12 @@
     <e lm="לכן"><i>לכן</i><par n="לכן__cnjadv"/></e>
     <e lm="כל כך"><i>כל<b/>כך</i><par n="לכן__cnjadv"/></e>
     <e lm="בעוד ש"><i>בעוד<b/>ש</i><par n="לכן__cnjadv"/></e>
+
+    <!-- SECTION: Interjections -->
+
+    <e lm="אמן"><i>אמן</i><par n="אמן__ij"/></e>
+    <e lm="כן"><i>כן</i><par n="אמן__ij"/></e>
+    <e lm="לא"><i>לא</i><par n="אמן__ij"/></e>
  </section>
 
   <!-- Inconditionals -->
