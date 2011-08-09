@@ -22,6 +22,7 @@
     <sdef n="top"         c="Toponym"/>
     <sdef n="ant"         c="Anthroponym"/>
     <sdef n="cog"         c="Cognomen"/>
+    <sdef n="al"          c="Altres"/>
 
     <sdef n="ord"         c="Ordinal"/>
     <sdef n="qnt"         c="Quantative"/>
@@ -195,6 +196,10 @@
     </pardef>
     <pardef n="שלי__prn">
       <e><p><l/><r><s n="prn"/><s n="pos"/><s n="mf"/><s n="sp"/></r></p></e>
+    </pardef>
+
+    <pardef n="חלק__prn">
+      <e><p><l/><r><s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
     </pardef>
     
     <!-- SECTION: Numerals -->
@@ -6296,6 +6301,15 @@
       <e><p><l></l><r><s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
     </pardef>
 
+    <pardef n="לינוקס__np">
+      <e><p><l></l><r><s n="np"/><s n="al"/><s n="f"/><s n="sg"/></r></p></e>
+    </pardef>
+
+    <pardef n="אירוויזיון__np">
+      <e><p><l></l><r><s n="np"/><s n="al"/><s n="m"/><s n="sg"/></r></p></e>
+    </pardef>
+
+
     <!-- SECTION: Adverbs -->
     <pardef n="איך__adv">
       <e><p><l/><r><s n="adv"/><s n="itg"/></r></p></e>
@@ -6503,6 +6517,8 @@
     <e lm="כמה" c="how many"><i>כמה</i><par n="כמה__prn"/></e>
     
     <e lm="זה" c="this"><i>זה</i><par n="זה__prn"/></e>
+
+    <e lm="חלק" c=""><i>חלק</i><par n="חלק__prn"/></e>
     
     <!-- Possessive pronouns -->
     <e lm="שלי" c="mine"><i>שלי</i><par n="שלי__prn"/></e>
@@ -19504,6 +19520,27 @@
     <e lm="שרון"><i>שרון</i><par n="מריה__np"/></e>
     <e lm="תרזה"><i>תרזה</i><par n="מריה__np"/></e>
 
+
+    <e lm="אירוויזיון"><i>אירוויזיון</i><par n="אירוויזיון__np"/></e>
+    <e lm="פייסבוק"><i>פייסבוק</i><par n="אירוויזיון__np"/></e>
+    <e lm="צבא מלטה"><i>צבא<b/>מלטה</i><par n="אירוויזיון__np"/></e>
+
+    <e lm="UEFA"><i>UEFA</i><par n="לינוקס__np"/></e>
+    <e lm="אולימפיאדה"><i>אולימפיאדה</i><par n="לינוקס__np"/></e>
+    <e lm="אייר מלטה"><i>אייר<b/>מלטה</i><par n="לינוקס__np"/></e>
+    <e lm="גוגל"><i>גוגל</i><par n="לינוקס__np"/></e>
+    <e lm="המפלגה הירוקה"><i>המפלגה<b/>הירוקה</i><par n="לינוקס__np"/></e>
+    <e lm="וויקיפדיה"><i>וויקיפדיה</i><par n="לינוקס__np"/></e>
+    <e lm=""><i>"יוזמת<b/>"שותפות<b/>לשלום""</i><par n="לינוקס__np"/></e>
+    <e lm="יונייטד"><i>יונייטד</i><par n="לינוקס__np"/></e>
+    <e lm="ליגת האלופות"><i>ליגת<b/>האלופות</i><par n="לינוקס__np"/></e>
+    <e lm="ליגת העל"><i>ליגת<b/>העל</i><par n="לינוקס__np"/></e>
+    <e lm="לינוקס"><i>לינוקס</i><par n="לינוקס__np"/></e>
+    <e lm="מנצ'סטר יונייטד"><i>מנצ'סטר<b/>יונייטד</i><par n="לינוקס__np"/></e>
+    <e lm="מפלגת האלטרנטיבה הדמוקרטית"><i>מפלגת<b/>האלטרנטיבה<b/>הדמוקרטית</i><par n="לינוקס__np"/></e>
+    <e lm="מפלגת הלאום"><i>מפלגת<b/>הלאום</i><par n="לינוקס__np"/></e>
+    <e lm="מפלגת העבודה"><i>מפלגת<b/>העבודה</i><par n="לינוקס__np"/></e>
+    <e lm=""><i>"פיפ"א"</i><par n="לינוקס__np"/></e>
 
     
     <!-- SECTION: Adjectives -->

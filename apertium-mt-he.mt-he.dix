@@ -1995,7 +1995,6 @@
      <e><p><l>Kosovo<s n="np"/><s n="top"/><s n="m"/></l><r>קוסובו<s n="np"/><s n="top"/><s n="f"/></r></p></e>
      <e><p><l>Leeds<s n="np"/><s n="top"/><s n="m"/></l><r>לידס<s n="np"/><s n="top"/><s n="f"/></r></p></e>
      <e><p><l>Libja<s n="np"/><s n="top"/><s n="f"/></l><r>לוב<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>L-Isla<s n="np"/><s n="top"/><s n="f"/></l><r>סנגלאה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
      <e><p><l>Lussemburgu<s n="np"/><s n="top"/><s n="m"/></l><r>לוקסמבורג<s n="np"/><s n="top"/><s n="f"/></r></p></e>
      <e><p><l>Madrid<s n="np"/><s n="top"/><s n="m"/></l><r>מדריד<s n="np"/><s n="top"/><s n="f"/></r></p></e>
      <e><p><l>Montenegro<s n="np"/><s n="top"/><s n="m"/></l><r>מונטנגרו<s n="np"/><s n="top"/><s n="f"/></r></p></e>
@@ -2047,6 +2046,7 @@
      <e><p><l>Il-Gżira<s n="np"/><s n="top"/><s n="f"/></l><r>גזירה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
      <e><p><l>Il-Ħamrun<s n="np"/><s n="top"/><s n="m"/></l><r>חמרון<s n="np"/><s n="top"/><s n="f"/></r></p></e>
      <e><p><l>L-Iklin<s n="np"/><s n="top"/><s n="m"/></l><r>איקלין<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>L-Isla<s n="np"/><s n="top"/><s n="f"/></l><r>סנגלאה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
      <e><p><l>L-Isla<s n="np"/><s n="top"/><s n="f"/></l><r>ל-איסלה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
      <e><p><l>Il-Kalkara<s n="np"/><s n="top"/><s n="f"/></l><r>קלקארה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
      <e><p><l>Ħal<b/>Kirkop<s n="np"/><s n="top"/><s n="GD"/></l><r>קירקופ<s n="np"/><s n="top"/><s n="f"/></r></p></e>
@@ -2069,7 +2069,7 @@
      <e><p><l>Pietà<s n="np"/><s n="top"/><s n="f"/></l><r>פיאטה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
      <e><p><l>Ħal<b/>Qormi<s n="np"/><s n="top"/><s n="m"/></l><r>אורמי<s n="np"/><s n="top"/><s n="f"/></r></p></e>
      <e><p><l>Il-Qrendi<s n="np"/><s n="top"/><s n="m"/></l><r>ארנדי<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Ir-Rabat<s n="np"/><s n="top"/><s n="m"/></l><r>רבאט<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>ir-Rabat<s n="np"/><s n="top"/><s n="m"/></l><r>רבאט<s n="np"/><s n="top"/><s n="f"/></r></p></e>
      <e><p><l>Ħal<b/>Safi<s n="np"/><s n="top"/><s n="m"/></l><r>סאפי<s n="np"/><s n="top"/><s n="f"/></r></p></e>
      <e><p><l>San<b/>Ġiljan<s n="np"/><s n="top"/><s n="m"/></l><r>סאן<b/>ג'יליאן<s n="np"/><s n="top"/><s n="f"/></r></p></e>
      <e><p><l>San<b/>Ġwann<s n="np"/><s n="top"/><s n="m"/></l><r>סאן<b/>ג'ואן<s n="np"/><s n="top"/><s n="f"/></r></p></e>
@@ -2100,7 +2100,6 @@
      <e><p><l>San<b/>Lawrenz<s n="np"/><s n="top"/><s n="m"/></l><r>סאן<b/>לורנץ<s n="np"/><s n="top"/><s n="f"/></r></p></e>
      <e><p><l>Ta'<b/>Sannat<s n="np"/><s n="top"/><s n="m"/></l><r>טא'<b/>סנאט<s n="np"/><s n="top"/><s n="f"/></r></p></e>
      <e><p><l>Victoria<s n="np"/><s n="top"/><s n="GD"/></l><r>ויקטוריה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>ir-Rabat<s n="np"/><s n="top"/><s n="m"/></l><r>רבאט<s n="np"/><s n="top"/><s n="f"/></r></p></e>
      <e><p><l>Ix-Xagħra<s n="np"/><s n="top"/><s n="f"/></l><r>שארה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
      <e><p><l>Ix-Xewkija<s n="np"/><s n="top"/><s n="f"/></l><r>שווקייה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
      <e><p><l>Għawdex<s n="np"/><s n="top"/><s n="f"/></l><r>אוודש<s n="np"/><s n="top"/><s n="f"/></r></p></e>
