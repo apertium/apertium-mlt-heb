@@ -44,6 +44,7 @@
     <sdef n="subj"        c="Subject"/>
     <sdef n="obj"         c="Object"/>
     <sdef n="def"         c="Definite"/>
+    <sdef n="dem"         c="Demonstrative"/>
     <sdef n="ind"         c="Indefinite"/>
     <sdef n="pos"         c="Possesive"/>
     <sdef n="itg"         c="Interrogative"/>
@@ -52,16 +53,13 @@
     <sdef n="adj"         c="Adjective"/>
     <sdef n="cnjcoo"      c="Co-ordinating conjunction"/>
     <sdef n="cnjsub"      c="Sub-ordinating conjunction"/>
+    <sdef n="cnjadv"      c="Adverbial conjunction"/>
 
     <sdef n="cm"          c="Comma"/>
     <sdef n="sent"        c="Sentence marker"/>
   </sdefs>
   <pardefs>
 
-    <pardef n="ה__det">
-      <e><p>          <l>ה</l><r>ה<s n="det"/><s n="def"/></r></p></e>
-    </pardef>
- 
     <!-- SECTION: Punctuation -->
 
     <pardef n="separa">
@@ -95,7 +93,11 @@
     <pardef n="כאשר__cnjsub">
       <e><p><l/><r><s n="cnjsub"/></r></p></e>
     </pardef>
- 
+
+    <pardef n="לכן__cnjadv">
+      <e><p><l/><r><s n="cnjadv"/></r></p></e>
+    </pardef>
+
     <!-- SECTION: Prepositions -->
 
     <pardef n="ללא__pr">
@@ -105,7 +107,18 @@
 
     <!-- SECTION: Determiners -->
 
-    <pardef n="ה">
+    <pardef n="ה__det">
+      <e><p>          <l>ה</l><r>ה<s n="det"/><s n="def"/></r></p></e>
+    </pardef>
+    
+    <pardef n="זה__det" c="this/that">
+      <e>       <p><l>זה</l><r>זה<s n="det"/><s n="dem"/><s n="m"/><s n="sg"/></r></p></e>
+      <e>       <p><l>זו</l><r>זה<s n="det"/><s n="dem"/><s n="f"/><s n="sg"/></r></p></e>
+      <e>       <p><l>אלה</l><r>זה<s n="det"/><s n="dem"/><s n="mf"/><s n="pl"/></r></p></e>
+      <e r="LR"><p><l>אלו</l><r>זה<s n="det"/><s n="dem"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
+ 
+    <pardef n="ה" c="appears before nouns">
       <e><p>          <l></l><r></r></p></e>
       <e><p>          <l>ה</l><r>ה<s n="det"/><s n="def"/><j/></r></p></e>
     </pardef>
@@ -6306,6 +6319,7 @@
   </pardefs>
   <section id="main" type="standard">
     <e lm="ה"><i></i><par n="ה__det"/></e>
+    <e lm="זה" c="this/that"><i></i><par n="זה__det"/></e>
     <!-- SECTION: Conjunctions -->
     <e lm="וכן"><i>וכן</i><par n="ו__cnjcoo"/></e>
     <e lm="גם"><i>גם</i><par n="ו__cnjcoo"/></e>
@@ -20734,6 +20748,11 @@
 
     <!-- SECTION: Conjunctions -->
     <!--    <e r="LR"><p><l>ו</l><r>ו<s n="cnjcoo"/></r></p></e> -->
+    <e lm="כש"><i>כש</i><par n="ו__cnjcoo"/></e>
+    <e lm="אז"><i>אז</i><par n="ו__cnjcoo"/></e>
+    <e lm="תוך"><i>תוך</i><par n="ו__cnjcoo"/></e>
+    <e lm="מאז"><i>מאז</i><par n="ו__cnjcoo"/></e>
+    <e lm="כמו גם"><i>כמו גם</i><par n="ו__cnjcoo"/></e>
     <e lm="ו"><i>ו</i><par n="ו__cnjcoo"/></e>
     <e lm="כדי ש"><i>כדי ש</i><par n="ו__cnjcoo"/></e>
     <e lm="במטרה ש"><i>במטרה ש</i><par n="ו__cnjcoo"/></e>
@@ -20779,6 +20798,13 @@
     <e lm="מלבד ה"><i>מלבד ה</i><par n="ו__cnjcoo"/></e>
     <e lm="ב"><i>ב</i><par n="ו__cnjcoo"/></e>
 
+    <e lm="ל"><i>ל</i><par n="כאשר__cnjsub"/></e>
+    <e lm="ש"><i>ש</i><par n="כאשר__cnjsub"/></e>
+    <e lm="כ"><i>כ</i><par n="כאשר__cnjsub"/></e>
+    <e lm="בשביל"><i>בשביל</i><par n="כאשר__cnjsub"/></e>
+    <e lm="כאילו"><i>כאילו</i><par n="כאשר__cnjsub"/></e>
+    <e lm="בשביל"><i>בשביל</i><par n="כאשר__cnjsub"/></e>
+    <e lm="אבל"><i>אבל</i><par n="כאשר__cnjsub"/></e>
     <e lm="כש"><i>כש</i><par n="כאשר__cnjsub"/></e>
     <e lm="בשעה ש"><i>בשעה ש</i><par n="כאשר__cnjsub"/></e>
     <e lm="בזמן ש"><i>בזמן ש</i><par n="כאשר__cnjsub"/></e>
@@ -20802,6 +20828,11 @@
     <e lm="כך ש"><i>כך ש</i><par n="כאשר__cnjsub"/></e>
     <e lm="מכאן ש"><i>מכאן ש</i><par n="כאשר__cnjsub"/></e>
     <e lm="מכאן נובע ש"><i>מכאן נובע ש</i><par n="כאשר__cnjsub"/></e>
+
+    <e lm="בזמן ש"><i>בזמן<b/>ש</i><par n="לכן__cnjadv"/></e>
+    <e lm="לכן"><i>לכן</i><par n="לכן__cnjadv"/></e>
+    <e lm="כל כך"><i>כל<b/>כך</i><par n="לכן__cnjadv"/></e>
+    <e lm="בעוד ש"><i>בעוד<b/>ש</i><par n="לכן__cnjadv"/></e>
  </section>
 
   <!-- Inconditionals -->
