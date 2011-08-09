@@ -89,6 +89,11 @@
       <e><re>[0-9]+([.,][0-9]+)?[:.][0-9]+([.,][0-9]+)? ?(a|p|A|P).?(m|M).?</re><p><l></l><r><s n="num"/></r></p></e>
     </pardef>
 
+    <!-- SECTION: Abbreviations -->
+    <pardef n="abbr">
+      <e><p><l/><r><s n="abbr"/></r></p></e>
+    </pardef>
+
     <!-- SECTION: Interjections -->
     <pardef n="אמן__ij">
       <e><p><l/><r><s n="ij"/></r></p></e>
@@ -148,7 +153,11 @@
       <e><p><l>הן</l><r>prpers<s n="prn"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
     
-    <pardef n="כל_prn">
+    <pardef n="כי__rel">
+      <e><p><l/><r><s n="rel"/><s n="an"/><s n="mf"/><s n="sp"/></r></p></e>
+    </pardef>
+
+    <pardef n="כל__prn">
       <e><p><l/><r><s n="prn"/><s n="ind"/><s n="mf"/><s n="sp"/></r></p></e>
     </pardef>
     <pardef n="אחר__prn">
@@ -6414,12 +6423,13 @@
     <e lm="מתוך כך"><i>מתוך כך</i><par n="כאשר__cnjsub"/></e>
     <e lm="מכיוון שכך"><i>מכיוון שכך</i><par n="כאשר__cnjsub"/></e>
 
+
     <!-- SECTION: Pronouns -->
     <e lm="personal subject pronouns"><i/><par n="prsubj__prn"/></e>
     
-    <e lm="כל" c="all"><i>כל</i><par n="כל_prn"/></e>
-    <e lm="או" c="either"><i>או</i><par n="כל_prn"/></e>
-    <e lm="כל" c="any"><i>כל</i><par n="כל_prn"/></e>
+    <e lm="כל" c="all"><i>כל</i><par n="כל__prn"/></e>
+    <e lm="או" c="either"><i>או</i><par n="כל__prn"/></e>
+    <e lm="כל" c="any"><i>כל</i><par n="כל__prn"/></e>
     
     <e lm="אחר" c="another"><i>אחר</i><par n="אחר__prn"/></e>
     <e lm="כל דבר" c="anything"><i>כל<b/>דבר</i><par n="אחר__prn"/></e>
@@ -6461,6 +6471,8 @@
     <e lm="שלה" c="hers"><i>שלה</i><par n="שלי__prn"/></e>
     <e lm="שלהם" c="theirs (m)"><i>שלהם</i><par n="שלי__prn"/></e>
     <e lm="שלהן" c="theirs (f)"><i>שלהן</i><par n="שלי__prn"/></e>
+
+    <e lm="כי"><i>כי</i><par n="כי__rel"/></e>
 
     <!-- SECTION: Prepositions -->
 
@@ -26815,6 +26827,12 @@
     <e lm="אמן"><i>אמן</i><par n="אמן__ij"/></e>
     <e lm="כן"><i>כן</i><par n="אמן__ij"/></e>
     <e lm="לא"><i>לא</i><par n="אמן__ij"/></e>
+
+    <!-- SECTION: Abbreviations -->
+    <e lm=""><i>אחה"צ</i><par n="abbr"/></e>
+    <e lm=""><i>לפנה"צ</i><par n="abbr"/></e>
+    <e lm=""><i>אחה"צ</i><par n="abbr"/></e>
+
  </section>
 
   <!-- Inconditionals -->
