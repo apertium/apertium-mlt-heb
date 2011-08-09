@@ -22,6 +22,9 @@
     <sdef n="top"         c="Toponym"/>
     <sdef n="ant"         c="Anthroponym"/>
     <sdef n="cog"         c="Cognomen"/>
+
+    <sdef n="ord"         c="Ordinal"/>
+    <sdef n="qnt"         c="Quantative"/>
     
     <sdef n="sg"          c="Singular"/>
     <sdef n="pl"          c="Plural"/>
@@ -135,6 +138,18 @@
     <pardef n="ה" c="appears before nouns">
       <e><p>          <l></l><r></r></p></e>
       <e><p>          <l>ה</l><r>ה<s n="det"/><s n="def"/><j/></r></p></e>
+    </pardef>
+
+    <pardef n="אחרון__det">
+      <e><p>          <l></l><r><s n="det"/><s n="ord"/><s n="mf"/><s n="sp"/></r></p></e>
+    </pardef>
+
+    <pardef n="פחות__det">
+      <e><p>          <l></l><r><s n="det"/><s n="qnt"/><s n="mf"/><s n="sp"/></r></p></e>
+    </pardef>
+
+    <pardef n="אין__det">
+      <e><p>          <l></l><r><s n="det"/><s n="ind"/><s n="mf"/><s n="sp"/></r></p></e>
     </pardef>
 
     <!-- SECTION: Pronouns -->
@@ -6337,8 +6352,21 @@
     
   </pardefs>
   <section id="main" type="standard">
+
+    <!-- SECTION: Determiners -->
+
     <e lm="ה"><i></i><par n="ה__det"/></e>
     <e lm="זה" c="this/that"><i></i><par n="זה__det"/></e>
+
+    <e lm="אחרון"><i>אחרון</i><par n="אחרון__det"/></e>
+
+    <e lm="יותר"><i>יותר</i><par n="פחות__det"/></e>
+    <e lm="פחות"><i>פחות</i><par n="פחות__det"/></e>
+    <e lm="עוד"><i>עוד</i><par n="פחות__det"/></e>
+    <e lm="יותר"><i>יותר</i><par n="פחות__det"/></e>
+
+    <e lm="אין"><i>אין</i><par n="אין__det"/></e>
+
     <!-- SECTION: Conjunctions -->
     <e lm="וכן"><i>וכן</i><par n="ו__cnjcoo"/></e>
     <e lm="גם"><i>גם</i><par n="ו__cnjcoo"/></e>
