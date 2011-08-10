@@ -1973,7 +1973,6 @@
      <e><p><l>Liverpool<s n="np"/><s n="top"/><s n="f"/></l><r>ליברפול<s n="np"/><s n="top"/><s n="f"/></r></p></e>
      <e><p><l>Madrid<s n="np"/><s n="top"/><s n="f"/></l><r>מדריד<s n="np"/><s n="top"/><s n="f"/></r></p></e>
      <e><p><l>Manchester<s n="np"/><s n="top"/><s n="f"/></l><r>מנצ'סטר<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Marsaxlokk<s n="np"/><s n="top"/><s n="m"/></l><r>מרסקסלוק<s n="np"/><s n="top"/><s n="f"/></r></p></e>
      <e><p><l>Messiku<s n="np"/><s n="top"/><s n="f"/></l><r>מקסיקו<s n="np"/><s n="top"/><s n="f"/></r></p></e>
      <e><p><l>Montenegro<s n="np"/><s n="top"/><s n="f"/></l><r>מונטנגרו<s n="np"/><s n="top"/><s n="f"/></r></p></e>
      <e><p><l>Munich<s n="np"/><s n="top"/><s n="f"/></l><r>מינכן<s n="np"/><s n="top"/><s n="f"/></r></p></e>
@@ -2013,7 +2012,6 @@
      <e><p><l>Berkeley<s n="np"/><s n="cog"/><s n="mf"/></l><r>ברקלי<s n="np"/><s n="cog"/><s n="f"/></r></p></e>
      <e><p><l>Cape<b/>Town<s n="np"/><s n="top"/><s n="m"/></l><r>קייפ<b/>טאון<s n="np"/><s n="top"/><s n="f"/></r></p></e>
      <e><p><l>Chelsea<s n="np"/><s n="top"/><s n="m"/></l><r>צ'לסי'<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Dublin<s n="np"/><s n="top"/><s n="m"/></l><r>דאבלין<s n="np"/><s n="top"/><s n="f"/></r></p></e>
      <e><p><l>Ekwador<s n="np"/><s n="top"/><s n="m"/></l><r>אקוודור<s n="np"/><s n="top"/><s n="f"/></r></p></e>
      <e><p><l>Frankfurt<s n="np"/><s n="top"/><s n="m"/></l><r>פרנקפורט<s n="np"/><s n="top"/><s n="f"/></r></p></e>
      <e><p><l>Kosovo<s n="np"/><s n="top"/><s n="m"/></l><r>קוסובו<s n="np"/><s n="top"/><s n="f"/></r></p></e>
@@ -2046,7 +2044,6 @@
      <e><p><l>Il-Gżira<s n="np"/><s n="top"/><s n="f"/></l><r>גזירה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
      <e><p><l>Il-Ħamrun<s n="np"/><s n="top"/><s n="m"/></l><r>חמרון<s n="np"/><s n="top"/><s n="f"/></r></p></e>
      <e><p><l>L-Iklin<s n="np"/><s n="top"/><s n="m"/></l><r>איקלין<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>L-Isla<s n="np"/><s n="top"/><s n="f"/></l><r>סנגלאה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
      <e><p><l>L-Isla<s n="np"/><s n="top"/><s n="f"/></l><r>ל-איסלה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
      <e><p><l>Il-Kalkara<s n="np"/><s n="top"/><s n="f"/></l><r>קלקארה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
      <e><p><l>Ħal<b/>Kirkop<s n="np"/><s n="top"/><s n="GD"/></l><r>קירקופ<s n="np"/><s n="top"/><s n="f"/></r></p></e>
@@ -2102,7 +2099,6 @@
      <e><p><l>Victoria<s n="np"/><s n="top"/><s n="GD"/></l><r>ויקטוריה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
      <e><p><l>Ix-Xagħra<s n="np"/><s n="top"/><s n="f"/></l><r>שארה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
      <e><p><l>Ix-Xewkija<s n="np"/><s n="top"/><s n="f"/></l><r>שווקייה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>Għawdex<s n="np"/><s n="top"/><s n="f"/></l><r>אוודש<s n="np"/><s n="top"/><s n="f"/></r></p></e>
      <e><p><l>Bidnija<s n="np"/><s n="top"/><s n="f"/></l><r>בידנייה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
      <e><p><l>Bolton<s n="np"/><s n="top"/><s n="m"/></l><r>בולטון<s n="np"/><s n="top"/><s n="f"/></r></p></e>
      <e><p><l>Bromwich<s n="np"/><s n="top"/><s n="m"/></l><r>ברומוויץ'<s n="np"/><s n="top"/><s n="f"/></r></p></e>
@@ -2124,7 +2120,6 @@
      <e><p><l>San<b/>Pietruburgu<s n="np"/><s n="top"/><s n="m"/></l><r>סיינט<b/>פיטרסבורג<s n="np"/><s n="top"/><s n="f"/></r></p></e>
      <e><p><l>San<b/>Tumas<s n="np"/><s n="top"/><s n="m"/></l><r>סיינט<b/>תומאס<s n="np"/><s n="top"/><s n="f"/></r></p></e>
      <e><p><l>San<b/>Ġakbu<s n="np"/><s n="top"/><s n="m"/></l><r>סיינט<b/>ג'ייקוב<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-     <e><p><l>San<b/>Ġiljan<s n="np"/><s n="top"/><s n="m"/></l><r>סיינט<b/>ג'יליאן<s n="np"/><s n="top"/><s n="f"/></r></p></e>
      <e><p><l>San<b/>Ġużepp<s n="np"/><s n="top"/><s n="m"/></l><r>סיינט<b/>ג'וזף<s n="np"/><s n="top"/><s n="f"/></r></p></e>
      <e><p><l>Santa<b/>Katerina<s n="np"/><s n="top"/><s n="m"/></l><r>סנטה<b/>קטרינה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
      <e><p><l>Santa<b/>Liberata<s n="np"/><s n="top"/><s n="m"/></l><r>סנטה<b/>ליברטה<s n="np"/><s n="top"/><s n="f"/></r></p></e>
@@ -2478,7 +2473,6 @@
      <e><p><l>Patrick<s n="np"/><s n="ant"/><s n="m"/></l><r>פטריק<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
      <e><p><l>Paul<s n="np"/><s n="ant"/><s n="m"/></l><r>פול<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
      <e><p><l>Pawl<s n="np"/><s n="ant"/><s n="m"/></l><r>פאול<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
-     <e><p><l>Pawlu<s n="np"/><s n="ant"/><s n="m"/></l><r>פאול<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
      <e><p><l>Peter<s n="np"/><s n="ant"/><s n="m"/></l><r>פיטר<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
      <e><p><l>Philip<s n="np"/><s n="ant"/><s n="m"/></l><r>פיליפ<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
      <e><p><l>Pierre<s n="np"/><s n="ant"/><s n="m"/></l><r>פייר<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
