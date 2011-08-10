@@ -307,6 +307,32 @@
              </choose>
            </when>
          </choose>
+         <choose>
+           <when>
+             <test>
+               <equal>
+                 <clip pos="2" side="tl" part="nbr"/>
+                 <lit-tag v="ND"/>
+               </equal>
+             </test>
+             <let>
+               <clip pos="2" side="tl" part="nbr"/><lit-tag v="sg"/>
+             </let>
+             <choose>
+               <when>
+                 <test>
+                   <equal>
+                     <clip pos="1" side="tl" part="nbr"/>
+                     <lit-tag v="pl"/>
+                   </equal>
+                 </test>
+                 <let>
+                   <clip pos="2" side="tl" part="nbr"/><lit-tag v="pl"/>
+                 </let>
+               </when>
+             </choose>
+           </when>
+         </choose>
          <out>
            <lu>
              <clip pos="1" side="tl" part="whole"/>
@@ -334,6 +360,19 @@
              </test>
              <let>
                <clip pos="1" side="tl" part="gen"/><lit-tag v="m"/>
+             </let>
+           </when>
+         </choose>
+         <choose>
+           <when>
+             <test>
+               <equal>
+                 <clip pos="1" side="tl" part="nbr"/>
+                 <lit-tag v="ND"/>
+               </equal>
+             </test>
+             <let>
+               <clip pos="1" side="tl" part="nbr"/><lit-tag v="sg"/>
              </let>
            </when>
          </choose>

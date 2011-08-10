@@ -284,7 +284,7 @@
 
      <e><p><l>kollu<s n="det"/><s n="qnt"/></l><r>כל<s n="det"/><s n="qnt"/></r></p></e>
      <e><p><l>izjed<s n="det"/><s n="qnt"/><s n="mf"/></l><r>עוד<s n="det"/><s n="qnt"/><s n="mf"/></r></p></e>
-     <e><p><l>aħħar<s n="det"/><s n="ord"/><s n="mf"/></l><r>אחרון<s n="det"/><s n="ord"/><s n="mf"/></r></p></e><!-- TODO -->
+     <e r="LR"><p><l>aħħar<s n="det"/><s n="ord"/><s n="mf"/><s n="sp"/></l><r>אחרון<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
 
      <!-- There's no dak/dan-distinction in Hebrew: -->
      <e>       <p><l>dak<s n="det"/><s n="dem"/></l><r>זה<s n="det"/><s n="dem"/></r></p></e>

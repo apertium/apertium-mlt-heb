@@ -142,7 +142,10 @@
     </pardef>
 
     <pardef n="אחרון__det">
-      <e><p>          <l></l><r><s n="det"/><s n="ord"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e><p>          <l>ן</l><r>ן<s n="det"/><s n="ord"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>נה</l><r>ן<s n="det"/><s n="ord"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>נים</l><r>ן<s n="det"/><s n="ord"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p>          <l>נות</l><r>ן<s n="det"/><s n="ord"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
 
     <pardef n="פחות__det">
@@ -6397,7 +6400,7 @@
     <e lm="ה"><i></i><par n="ה__det"/></e>
     <e lm="זה" c="this/that"><i></i><par n="זה__det"/></e>
 
-    <e lm="אחרון"><i>אחרון</i><par n="אחרון__det"/></e>
+    <e lm="אחרון"><i>אחרו</i><par n="אחרון__det"/></e>
 
     <e lm="יותר"><i>יותר</i><par n="פחות__det"/></e>
     <e lm="פחות"><i>פחות</i><par n="פחות__det"/></e>
