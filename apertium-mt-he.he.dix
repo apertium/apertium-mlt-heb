@@ -153,6 +153,19 @@
       <e><p>          <l></l><r><s n="det"/><s n="ind"/><s n="mf"/><s n="sp"/></r></p></e>
     </pardef>
 
+    <pardef n="כל__det" c="all">
+      <e><p><l></l><r><s n="det"/><s n="qnt"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l></l><r><s n="det"/><s n="qnt"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l></l><r><s n="det"/><s n="qnt"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
+
+    <pardef n="אחר__det" c="other">
+      <e><p><l></l><r><s n="det"/><s n="ind"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>ת</l><r><s n="det"/><s n="ind"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>ים</l><r><s n="det"/><s n="ind"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p><l>ות</l><r><s n="det"/><s n="ind"/><s n="f"/><s n="pl"/></r></p></e>
+    </pardef>
+
     <!-- SECTION: Pronouns -->
 
     <pardef n="prsubj__prn">
@@ -6389,9 +6402,10 @@
     <e lm="יותר"><i>יותר</i><par n="פחות__det"/></e>
     <e lm="פחות"><i>פחות</i><par n="פחות__det"/></e>
     <e lm="עוד"><i>עוד</i><par n="פחות__det"/></e>
-    <e lm="יותר"><i>יותר</i><par n="פחות__det"/></e>
 
     <e lm="אין"><i>אין</i><par n="אין__det"/></e>
+    <e lm="כל"><i>כל</i><par n="כל__det"/></e>
+    <e lm="אחר"><i>אחר</i><par n="אחר__det"/></e>
 
     <!-- SECTION: Conjunctions -->
     <e lm="וכן"><i>וכן</i><par n="ו__cnjcoo"/></e>

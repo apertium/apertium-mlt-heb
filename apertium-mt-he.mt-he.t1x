@@ -5,6 +5,10 @@
       <cat-item tags="det.def.*"/>
       <cat-item tags="det.def"/>
     </def-cat>
+    <def-cat n="det">
+      <cat-item tags="det.*"/>
+      <cat-item tags="det"/>
+    </def-cat>
     <def-cat n="nom">
       <cat-item tags="n.*"/>
     </def-cat>
@@ -263,10 +267,80 @@
                <clip pos="2" side="tl" part="a_nom"/>
                <clip pos="2" side="tl" part="gen"/>
                <clip pos="2" side="tl" part="nbr"/>
-             <clip pos="2" side="tl" part="poss"/>
+               <clip pos="2" side="tl" part="poss"/>
                <clip pos="2" side="tl" part="lemq"/>
              </lu>
            </mlu>
+         </out>
+       </action>
+    </rule>
+
+    <rule comment="rule: nom det">
+       <pattern>
+         <pattern-item n="nom"/>
+         <pattern-item n="det"/>
+       </pattern>
+       <action>
+         <choose>
+           <when>
+             <test>
+               <equal>
+                 <clip pos="2" side="tl" part="gen"/>
+                 <lit-tag v="GD"/>
+               </equal>
+             </test>
+             <let>
+               <clip pos="2" side="tl" part="gen"/><lit-tag v="m"/>
+             </let>
+             <choose>
+               <when>
+                 <test>
+                   <equal>
+                     <clip pos="1" side="tl" part="gen"/>
+                     <lit-tag v="f"/>
+                   </equal>
+                 </test>
+                 <let>
+                   <clip pos="2" side="tl" part="gen"/><lit-tag v="f"/>
+                 </let>
+               </when>
+             </choose>
+           </when>
+         </choose>
+         <out>
+           <lu>
+             <clip pos="1" side="tl" part="whole"/>
+           </lu>
+           <b pos="1"/>
+           <lu>
+             <clip pos="2" side="tl" part="whole"/>
+           </lu>
+         </out>
+       </action>
+    </rule>
+
+    <rule comment="rule: det">
+       <pattern>
+         <pattern-item n="det"/>
+       </pattern>
+       <action>
+         <choose>
+           <when>
+             <test>
+               <equal>
+                 <clip pos="1" side="tl" part="gen"/>
+                 <lit-tag v="GD"/>
+               </equal>
+             </test>
+             <let>
+               <clip pos="1" side="tl" part="gen"/><lit-tag v="m"/>
+             </let>
+           </when>
+         </choose>
+         <out>
+           <lu>
+             <clip pos="1" side="tl" part="whole"/>
+           </lu>
          </out>
        </action>
     </rule>
