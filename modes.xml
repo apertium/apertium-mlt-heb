@@ -40,6 +40,21 @@
     </pipeline>
   </mode>
 
+  <mode name="mt-he-bidix" install="no">
+    <pipeline>
+      <program name="lt-proc">
+        <file name="mt-he.automorf.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="mt-he.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="mt-he.autobil.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
   <mode name="mt-he-transfer" install="no">
     <pipeline>
       <program name="lt-proc">
@@ -53,6 +68,26 @@
         <file name="apertium-mt-he.mt-he.t1x"/>
         <file name="mt-he.t1x.bin"/>
         <file name="mt-he.autobil.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="mt-he-dgen" install="no">
+    <pipeline>
+      <program name="lt-proc">
+        <file name="mt-he.automorf.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="mt-he.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="apertium-transfer">
+        <file name="apertium-mt-he.mt-he.t1x"/>
+        <file name="mt-he.t1x.bin"/>
+        <file name="mt-he.autobil.bin"/>
+      </program>
+      <program name="lt-proc -d">
+        <file name="mt-he.autogen.bin"/>
       </program>
     </pipeline>
   </mode>
