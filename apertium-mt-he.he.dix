@@ -128,14 +128,14 @@
     <pardef n="ה__det">
       <e><p>          <l>ה</l><r>ה<s n="det"/><s n="def"/></r></p></e>
     </pardef>
-    
+
     <pardef n="זה__det" c="this/that">
       <e>       <p><l>זה</l><r>זה<s n="det"/><s n="dem"/><s n="m"/><s n="sg"/></r></p></e>
       <e>       <p><l>זו</l><r>זה<s n="det"/><s n="dem"/><s n="f"/><s n="sg"/></r></p></e>
       <e>       <p><l>אלה</l><r>זה<s n="det"/><s n="dem"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="LR"><p><l>אלו</l><r>זה<s n="det"/><s n="dem"/><s n="mf"/><s n="pl"/></r></p></e>
     </pardef>
- 
+
     <pardef n="ה" c="appears before nouns">
       <e><p>          <l></l><r></r></p></e>
       <e><p>          <l>ה</l><r>ה<s n="det"/><s n="def"/><j/></r></p></e>
@@ -150,6 +150,14 @@
 
     <pardef n="פחות__det">
       <e><p>          <l></l><r><s n="det"/><s n="qnt"/><s n="mf"/><s n="sp"/></r></p></e>
+    </pardef>
+
+    <pardef n="הרבה__det">
+      <e><p>          <l></l><r><s n="det"/><s n="qnt"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
+
+    <pardef n="כמה__det">
+      <e><p>          <l></l><r><s n="det"/><s n="ind"/><s n="mf"/><s n="pl"/></r></p></e>
     </pardef>
 
     <pardef n="אין__det">
@@ -6407,6 +6415,11 @@
     <e lm="עוד"><i>עוד</i><par n="פחות__det"/></e>
 
     <e lm="אין"><i>אין</i><par n="אין__det"/></e>
+    <e lm="הרבה"><i>הרבה</i><par n="הרבה__det"/></e>
+    <e lm="כל כך הרבה"><i>כל<b/>כך<b/>הרבה</i><par n="הרבה__det"/></e>
+
+    <e lm="כמה"><i>כמה</i><par n="כמה__det"/></e>
+
     <e lm="כל"><i>כל</i><par n="כל__det"/></e>
     <e lm="אחר"><i>אחר</i><par n="אחר__det"/></e>
 

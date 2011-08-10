@@ -275,7 +275,7 @@
      <e><p><l>aktar<s n="det"/><s n="qnt"/><s n="mf"/><s n="sp"/></l><r>יותר<s n="det"/><s n="qnt"/><s n="mf"/><s n="sp"/></r></p></e>
      <e><p><l>iktar<s n="det"/><s n="qnt"/><s n="mf"/><s n="sp"/></l><r>יותר<s n="det"/><s n="qnt"/><s n="mf"/><s n="sp"/></r></p></e>
      <e><p><l>anqas<s n="det"/><s n="qnt"/><s n="mf"/><s n="sp"/></l><r>פחות<s n="det"/><s n="qnt"/><s n="mf"/><s n="sp"/></r></p></e>
-     <e><p><l>tant<s n="det"/><s n="qnt"/><s n="mf"/><s n="sp"/></l><r>כל<b/>כך<b/>הרבה<s n="det"/><s n="qnt"/><s n="mf"/><s n="sp"/></r></p></e>
+     <e><p><l>tant<s n="det"/><s n="qnt"/><s n="mf"/><s n="sp"/></l><r>כל<b/>כך<b/>הרבה<s n="det"/><s n="qnt"/><s n="mf"/><s n="pl"/></r></p></e>
      <e><p><l>kollu<s n="det"/><s n="qnt"/><s n="mf"/></l><r>כל<s n="det"/><s n="qnt"/><s n="mf"/></r></p></e>
      <e><p><l>ħafna<s n="det"/><s n="qnt"/><s n="mf"/></l><r>הרבה<s n="det"/><s n="qnt"/><s n="mf"/></r></p></e>
      <e><p><l>ebda<s n="det"/><s n="ind"/><s n="mf"/><s n="sp"/></l><r>אין<s n="det"/><s n="ind"/><s n="mf"/><s n="sp"/></r></p></e> <!-- TODO -->
