@@ -703,33 +703,6 @@
       <e><p>          <l>סותיהם</l><r>ס<s n="n"/><s n="m"/><s n="pl"/><s n="px3pl_m"/></r></p></e>
       <e><p>          <l>סיהם</l><r>ס<s n="n"/><s n="m"/><s n="pl"/><s n="px3pl_m"/></r></p></e>
     </pardef>
-    <pardef n="שק__n_m">
-      <!-- seems to be split into "בורר__n_f_m" and "נשא__n_m_f", TODO -->
-      <e><p>          <l></l><r><s n="n"/><s n="m"/><s n="sg"/></r></p></e>
-      <e><p>          <l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="cons"/></r></p></e>
-      <e><p>          <l>י</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="px1sg"/></r></p></e>
-      <e><p>          <l>נו</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="px1pl"/></r></p></e>
-      <e><p>          <l>ך</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="px2sg_m"/></r></p></e>
-      <e><p>          <l>ך</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="px2sg_f"/></r></p></e>
-      <e><p>          <l>כם</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="px2pl_m"/></r></p></e>
-      <e><p>          <l>כן</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="px2pl_f"/></r></p></e>
-      <e><p>          <l>ן</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="px2pl_f"/></r></p></e>
-      <e><p>          <l>ו</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="px3sg_m"/></r></p></e>
-      <e><p>          <l>ה</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="px3sg_f"/></r></p></e>
-      <e><p>          <l>ם</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="px3pl_m"/></r></p></e>
-      <e><p>          <l>ים</l><r><s n="n"/><s n="m"/><s n="pl"/></r></p></e>
-      <e><p>          <l>י</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="cons"/></r></p></e>
-      <e><p>          <l>יי</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="px1sg"/></r></p></e>
-      <e><p>          <l>ינו</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="px1pl"/></r></p></e>
-      <e><p>          <l>יך</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="px2sg_m"/></r></p></e>
-      <e><p>          <l>ייך</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="px2sg_f"/></r></p></e>
-      <e><p>          <l>יכם</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="px2pl_m"/></r></p></e>
-      <e><p>          <l>יכן</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="px2pl_f"/></r></p></e>
-      <e><p>          <l>יהן</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="px2pl_f"/></r></p></e>
-      <e><p>          <l>יו</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="px3sg_m"/></r></p></e>
-      <e><p>          <l>יה</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="px3sg_f"/></r></p></e>
-      <e><p>          <l>יהם</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="px3pl_m"/></r></p></e>
-    </pardef>
     <pardef n="סכי/ן__n_f">
       <e><p>          <l>ן</l><r>ן<s n="n"/><s n="mf"/><s n="sg"/></r></p></e>
       <e><p>          <l>ן</l><r>ן<s n="n"/><s n="mf"/><s n="sg"/><s n="cons"/></r></p></e>
@@ -771,87 +744,89 @@
       <e><p>          <l>יה</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="px3sg_f"/></r></p></e>
       <e><p>          <l>יהם</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="px3pl_m"/></r></p></e>
     </pardef>
-    <pardef n="שנת__n_f">
-      <!-- used by several _f pardefs below, TODO -->
-      <e><p>          <l></l><r><s n="n"/><s n="f"/><s n="sg"/></r></p></e>
-      <e><p>          <l></l><r><s n="n"/><s n="f"/><s n="sg"/><s n="cons"/></r></p></e>
-      <e><p>          <l>י</l><r><s n="n"/><s n="f"/><s n="sg"/><s n="px1sg"/></r></p></e>
-      <e><p>          <l>נו</l><r><s n="n"/><s n="f"/><s n="sg"/><s n="px1pl"/></r></p></e>
-      <e><p>          <l>ך</l><r><s n="n"/><s n="f"/><s n="sg"/><s n="px2sg_m"/></r></p></e>
-      <e><p>          <l>ך</l><r><s n="n"/><s n="f"/><s n="sg"/><s n="px2sg_f"/></r></p></e>
-      <e><p>          <l>כם</l><r><s n="n"/><s n="f"/><s n="sg"/><s n="px2pl_m"/></r></p></e>
-      <e><p>          <l>כן</l><r><s n="n"/><s n="f"/><s n="sg"/><s n="px2pl_f"/></r></p></e>
-      <e><p>          <l>ן</l><r><s n="n"/><s n="f"/><s n="sg"/><s n="px2pl_f"/></r></p></e>
-      <e><p>          <l>ו</l><r><s n="n"/><s n="f"/><s n="sg"/><s n="px3sg_m"/></r></p></e>
-      <e><p>          <l>ה</l><r><s n="n"/><s n="f"/><s n="sg"/><s n="px3sg_f"/></r></p></e>
-      <e><p>          <l>ם</l><r><s n="n"/><s n="f"/><s n="sg"/><s n="px3pl_m"/></r></p></e>
+    
+
+    <pardef n="S__גזזת" c="Possessive suffixes (mine, theirs, …) for feminine nouns">
+      <!-- used by several _f pardefs below, TODO check if all of the actually work with this pardef! -->
+      <e><p>          <l></l><r></r></p></e> <!-- pass-through -->
+      <e><p>          <l>י</l><r><s n="px1sg"/></r></p></e>
+      <e><p>          <l>נו</l><r><s n="px1pl"/></r></p></e>
+      <e><p>          <l>ך</l><r><s n="px2sg_m"/></r></p></e>
+      <e><p>          <l>ך</l><r><s n="px2sg_f"/></r></p></e>
+      <e><p>          <l>כם</l><r><s n="px2pl_m"/></r></p></e>
+      <e><p>          <l>כן</l><r><s n="px2pl_f"/></r></p></e>
+      <e><p>          <l>ן</l><r><s n="px2pl_f"/></r></p></e>
+      <e><p>          <l>ו</l><r><s n="px3sg_m"/></r></p></e>
+      <e><p>          <l>ה</l><r><s n="px3sg_f"/></r></p></e>
+      <e><p>          <l>ם</l><r><s n="px3pl_m"/></r></p></e>
     </pardef>
-<!-- begin new pardefs TODO -->
+    
+<!-- begin pardefs to check whether S__גזזת works TODO -->
     <pardef n="גזזת__n_f">
-      <e><p>          <l></l><r><s n="n"/><s n="f"/><s n="sg"/></r></p><par n="שנת__n_f"/></e>
-      <e><p>          <l></l><r><s n="n"/><s n="f"/><s n="sg"/><s n="cons"/></r></p><par n="שנת__n_f"/></e>
+      <e><p>          <l></l><r><s n="n"/><s n="f"/><s n="sg"/></r></p><par n="S__גזזת"/></e>
+      <e><p>          <l></l><r><s n="n"/><s n="f"/><s n="sg"/><s n="cons"/></r></p><par n="S__גזזת"/></e>
     </pardef>
     <pardef n="מגבת__n_f">
-        <e><p>          <l>ת</l><r>ת<s n="n"/><s n="f"/><s n="sg"/></r></p><par n="שנת__n_f"/></e>
-        <e><p>          <l>ת</l><r>ת<s n="n"/><s n="f"/><s n="sg"/><s n="cons"/></r></p><par n="שנת__n_f"/></e>
-        <e><p>          <l>ות</l><r>ת<s n="n"/><s n="f"/><s n="pl"/></r></p><par n="שנת__n_f"/></e>
-        <e><p>          <l>ות</l><r>ת<s n="n"/><s n="f"/><s n="pl"/><s n="cons"/></r></p><par n="שנת__n_f"/></e>  
+        <e><p>          <l>ת</l><r>ת<s n="n"/><s n="f"/><s n="sg"/></r></p><par n="S__גזזת"/></e>
+        <e><p>          <l>ת</l><r>ת<s n="n"/><s n="f"/><s n="sg"/><s n="cons"/></r></p><par n="S__גזזת"/></e>
+        <e><p>          <l>ות</l><r>ת<s n="n"/><s n="f"/><s n="pl"/></r></p><par n="S__גזזת"/></e>
+        <e><p>          <l>ות</l><r>ת<s n="n"/><s n="f"/><s n="pl"/><s n="cons"/></r></p><par n="S__גזזת"/></e>  
     </pardef>
     <pardef n="דת__n_f">
-      <e><p>          <l></l><r><s n="n"/><s n="f"/><s n="sg"/></r></p><par n="שנת__n_f"/></e>
-      <e><p>          <l></l><r><s n="n"/><s n="f"/><s n="sg"/><s n="cons"/></r></p><par n="שנת__n_f"/></e>
-      <e><p>          <l>ות</l><r><s n="n"/><s n="f"/><s n="pl"/></r></p><par n="שנת__n_f"/></e>
-      <e><p>          <l>ות</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="cons"/></r></p><par n="שנת__n_f"/></e>
+      <e><p>          <l></l><r><s n="n"/><s n="f"/><s n="sg"/></r></p><par n="S__גזזת"/></e>
+      <e><p>          <l></l><r><s n="n"/><s n="f"/><s n="sg"/><s n="cons"/></r></p><par n="S__גזזת"/></e>
+      <e><p>          <l>ות</l><r><s n="n"/><s n="f"/><s n="pl"/></r></p><par n="S__גזזת"/></e>
+      <e><p>          <l>ות</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="cons"/></r></p><par n="S__גזזת"/></e>
     </pardef>
     <pardef n="זכו/ת__n_f">
-        <e><p>          <l>ת</l><r>ת<s n="n"/><s n="f"/><s n="sg"/></r></p><par n="שנת__n_f"/></e>
-        <e><p>          <l>ת</l><r>ת<s n="n"/><s n="f"/><s n="sg"/><s n="cons"/></r></p><par n="שנת__n_f"/></e>
-        <e><p>          <l>יות</l><r>ת<s n="n"/><s n="f"/><s n="pl"/></r></p><par n="שנת__n_f"/></e>
-        <e><p>          <l>יות</l><r>ת<s n="n"/><s n="f"/><s n="pl"/><s n="cons"/></r></p><par n="שנת__n_f"/></e>
+        <e><p>          <l>ת</l><r>ת<s n="n"/><s n="f"/><s n="sg"/></r></p><par n="S__גזזת"/></e>
+        <e><p>          <l>ת</l><r>ת<s n="n"/><s n="f"/><s n="sg"/><s n="cons"/></r></p><par n="S__גזזת"/></e>
+        <e><p>          <l>יות</l><r>ת<s n="n"/><s n="f"/><s n="pl"/></r></p><par n="S__גזזת"/></e>
+        <e><p>          <l>יות</l><r>ת<s n="n"/><s n="f"/><s n="pl"/><s n="cons"/></r></p><par n="S__גזזת"/></e>
     </pardef>
     <pardef n="עז__n_f">
-        <e><p>          <l></l><r><s n="n"/><s n="f"/><s n="sg"/></r></p><par n="שנת__n_f"/></e>
-        <e><p>          <l></l><r><s n="n"/><s n="f"/><s n="sg"/><s n="cons"/></r></p><par n="שנת__n_f"/></e>
-        <e><p>          <l>ים</l><r><s n="n"/><s n="f"/><s n="pl"/></r></p><par n="שנת__n_f"/></e>
-        <e><p>          <l>ים</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="cons"/></r></p><par n="שנת__n_f"/></e>
+        <e><p>          <l></l><r><s n="n"/><s n="f"/><s n="sg"/></r></p><par n="S__גזזת"/></e>
+        <e><p>          <l></l><r><s n="n"/><s n="f"/><s n="sg"/><s n="cons"/></r></p><par n="S__גזזת"/></e>
+        <e><p>          <l>ים</l><r><s n="n"/><s n="f"/><s n="pl"/></r></p><par n="S__גזזת"/></e>
+        <e><p>          <l>ים</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="cons"/></r></p><par n="S__גזזת"/></e>
     </pardef>
     <pardef n="יד__n_f">
-        <e><p>          <l></l><r><s n="n"/><s n="f"/><s n="sg"/></r></p><par n="שנת__n_f"/></e>
-        <e><p>          <l></l><r><s n="n"/><s n="f"/><s n="sg"/><s n="cons"/></r></p><par n="שנת__n_f"/></e>
-        <e><p>          <l>יים</l><r><s n="n"/><s n="f"/><s n="pl"/></r></p><par n="שנת__n_f"/></e>
-        <e><p>          <l>יים</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="cons"/></r></p><par n="שנת__n_f"/></e>
+        <e><p>          <l></l><r><s n="n"/><s n="f"/><s n="sg"/></r></p><par n="S__גזזת"/></e>
+        <e><p>          <l></l><r><s n="n"/><s n="f"/><s n="sg"/><s n="cons"/></r></p><par n="S__גזזת"/></e>
+        <e><p>          <l>יים</l><r><s n="n"/><s n="f"/><s n="pl"/></r></p><par n="S__גזזת"/></e>
+        <e><p>          <l>יים</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="cons"/></r></p><par n="S__גזזת"/></e>
     </pardef>
     <pardef n="בת__n_f">
-        <e><p>          <l>ת</l><r>ת<s n="n"/><s n="f"/><s n="sg"/></r></p><par n="שנת__n_f"/></e>
-        <e><p>          <l>ת</l><r>ת<s n="n"/><s n="f"/><s n="sg"/><s n="cons"/></r></p><par n="שנת__n_f"/></e>
-        <e><p>          <l>נות</l><r>ת<s n="n"/><s n="f"/><s n="pl"/></r></p><par n="שנת__n_f"/></e>
-        <e><p>          <l>נות</l><r>ת<s n="n"/><s n="f"/><s n="pl"/><s n="cons"/></r></p><par n="שנת__n_f"/></e>
+        <e><p>          <l>ת</l><r>ת<s n="n"/><s n="f"/><s n="sg"/></r></p><par n="S__גזזת"/></e>
+        <e><p>          <l>ת</l><r>ת<s n="n"/><s n="f"/><s n="sg"/><s n="cons"/></r></p><par n="S__גזזת"/></e>
+        <e><p>          <l>נות</l><r>ת<s n="n"/><s n="f"/><s n="pl"/></r></p><par n="S__גזזת"/></e>
+        <e><p>          <l>נות</l><r>ת<s n="n"/><s n="f"/><s n="pl"/><s n="cons"/></r></p><par n="S__גזזת"/></e>
     </pardef>
     <pardef n="ע/יר__n_f">
-        <e><p>          <l>יר</l><r>יר<s n="n"/><s n="f"/><s n="sg"/></r></p><par n="שנת__n_f"/></e>
-        <e><p>          <l>יר</l><r>יר<s n="n"/><s n="f"/><s n="sg"/><s n="cons"/></r></p><par n="שנת__n_f"/></e>
-        <e><p>          <l>רים</l><r>יר<s n="n"/><s n="f"/><s n="pl"/></r></p><par n="שנת__n_f"/></e>
-        <e><p>          <l>רים</l><r>יר<s n="n"/><s n="f"/><s n="pl"/><s n="cons"/></r></p><par n="שנת__n_f"/></e>
+        <e><p>          <l>יר</l><r>יר<s n="n"/><s n="f"/><s n="sg"/></r></p><par n="S__גזזת"/></e>
+        <e><p>          <l>יר</l><r>יר<s n="n"/><s n="f"/><s n="sg"/><s n="cons"/></r></p><par n="S__גזזת"/></e>
+        <e><p>          <l>רים</l><r>יר<s n="n"/><s n="f"/><s n="pl"/></r></p><par n="S__גזזת"/></e>
+        <e><p>          <l>רים</l><r>יר<s n="n"/><s n="f"/><s n="pl"/><s n="cons"/></r></p><par n="S__גזזת"/></e>
     </pardef>
     <pardef n="תולעת__n_f">
-        <e><p>          <l>ת</l><r>ת<s n="n"/><s n="f"/><s n="sg"/></r></p><par n="שנת__n_f"/></e>
-        <e><p>          <l>ת</l><r>ת<s n="n"/><s n="f"/><s n="sg"/><s n="cons"/></r></p><par n="שנת__n_f"/></e>
-        <e><p>          <l>ים</l><r>ת<s n="n"/><s n="f"/><s n="pl"/></r></p><par n="שנת__n_f"/></e>
-        <e><p>          <l>ים</l><r>ת<s n="n"/><s n="f"/><s n="pl"/><s n="cons"/></r></p><par n="שנת__n_f"/></e>
+        <e><p>          <l>ת</l><r>ת<s n="n"/><s n="f"/><s n="sg"/></r></p><par n="S__גזזת"/></e>
+        <e><p>          <l>ת</l><r>ת<s n="n"/><s n="f"/><s n="sg"/><s n="cons"/></r></p><par n="S__גזזת"/></e>
+        <e><p>          <l>ים</l><r>ת<s n="n"/><s n="f"/><s n="pl"/></r></p><par n="S__גזזת"/></e>
+        <e><p>          <l>ים</l><r>ת<s n="n"/><s n="f"/><s n="pl"/><s n="cons"/></r></p><par n="S__גזזת"/></e>
     </pardef>
     <pardef n="אמת__n_f">
-        <e><p>          <l>ת</l><r>ת<s n="n"/><s n="f"/><s n="sg"/></r></p><par n="שנת__n_f"/></e>
-        <e><p>          <l>ת</l><r>ת<s n="n"/><s n="f"/><s n="sg"/><s n="cons"/></r></p><par n="שנת__n_f"/></e>
-        <e><p>          <l>יתות</l><r>ת<s n="n"/><s n="f"/><s n="pl"/></r></p><par n="שנת__n_f"/></e>
-        <e><p>          <l>יתות</l><r>ת<s n="n"/><s n="f"/><s n="pl"/><s n="cons"/></r></p><par n="שנת__n_f"/></e>
+        <e><p>          <l>ת</l><r>ת<s n="n"/><s n="f"/><s n="sg"/></r></p><par n="S__גזזת"/></e>
+        <e><p>          <l>ת</l><r>ת<s n="n"/><s n="f"/><s n="sg"/><s n="cons"/></r></p><par n="S__גזזת"/></e>
+        <e><p>          <l>יתות</l><r>ת<s n="n"/><s n="f"/><s n="pl"/></r></p><par n="S__גזזת"/></e>
+        <e><p>          <l>יתות</l><r>ת<s n="n"/><s n="f"/><s n="pl"/><s n="cons"/></r></p><par n="S__גזזת"/></e>
     </pardef>
     <pardef n="אחות__n_f">
-        <e><p>          <l>ות</l><r>ות<s n="n"/><s n="f"/><s n="sg"/></r></p><par n="שנת__n_f"/></e>
-        <e><p>          <l>ות</l><r>ות<s n="n"/><s n="f"/><s n="sg"/><s n="cons"/></r></p><par n="שנת__n_f"/></e>
-        <e><p>          <l>יות</l><r>ות<s n="n"/><s n="f"/><s n="pl"/></r></p><par n="שנת__n_f"/></e>
-        <e><p>          <l>יות</l><r>ות<s n="n"/><s n="f"/><s n="pl"/><s n="cons"/></r></p><par n="שנת__n_f"/></e>
+        <e><p>          <l>ות</l><r>ות<s n="n"/><s n="f"/><s n="sg"/></r></p><par n="S__גזזת"/></e>
+        <e><p>          <l>ות</l><r>ות<s n="n"/><s n="f"/><s n="sg"/><s n="cons"/></r></p><par n="S__גזזת"/></e>
+        <e><p>          <l>יות</l><r>ות<s n="n"/><s n="f"/><s n="pl"/></r></p><par n="S__גזזת"/></e>
+        <e><p>          <l>יות</l><r>ות<s n="n"/><s n="f"/><s n="pl"/><s n="cons"/></r></p><par n="S__גזזת"/></e>
     </pardef>
-    <!-- end new pardefs TODO -->
+<!-- end pardefs to check whether S__גזזת works TODO -->
     <pardef n="סלבריטי__n_m">
       <e><p>          <l></l><r><s n="n"/><s n="m"/><s n="sg"/></r></p></e>
       <e><p>          <l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="cons"/></r></p></e>
@@ -4896,7 +4871,7 @@
       <e><p>          <l>וקרם</l><r>וקר<s n="n"/><s n="m"/><s n="sg"/><s n="px3pl_m"/></r></p></e>
       <e><p>          <l>קרים</l><r>וקר<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
       <e><p>          <l>וקרים</l><r>וקר<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
-<!-- rest of "f" forms TODO -->
+      <!-- rest of "f" forms TODO -->
       <e><p>          <l>קרות</l><r>וקר<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
       <e><p>          <l>וקרות</l><r>וקר<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
       <e><p>          <l>וקרי</l><r>וקר<s n="n"/><s n="m"/><s n="pl"/><s n="cons"/></r></p></e>
@@ -5216,7 +5191,7 @@
     <pardef n="נ/וכח__n_f_m">
       <e><p>          <l>וכח</l><r>וכח<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
       <e><p>          <l>וכח</l><r>וכח<s n="n"/><s n="m"/><s n="sg"/><s n="cons"/></r></p></e>
-<!-- rest of "f" forms TODO -->
+      <!-- rest of "f" forms TODO -->
       <e><p>          <l>וכחת</l><r>וכח<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
       <e><p>          <l>וכחת</l><r>וכח<s n="n"/><s n="f"/><s n="sg"/><s n="cons"/></r></p></e>
       <e><p>          <l>וכחי</l><r>וכח<s n="n"/><s n="m"/><s n="sg"/><s n="px1sg"/></r></p></e>
@@ -5231,7 +5206,7 @@
       <e><p>          <l>וכחם</l><r>וכח<s n="n"/><s n="m"/><s n="sg"/><s n="px3pl_m"/></r></p></e>
       <e><p>          <l>כחים</l><r>וכח<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
       <e><p>          <l>וכחים</l><r>וכח<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
-<!-- rest of "f" forms TODO -->
+      <!-- rest of "f" forms TODO -->
       <e><p>          <l>כחות</l><r>וכח<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
       <e><p>          <l>וכחות</l><r>וכח<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
       <e><p>          <l>כחי</l><r>וכח<s n="n"/><s n="m"/><s n="pl"/><s n="cons"/></r></p></e>
@@ -5431,7 +5406,7 @@
     <pardef n="פ/ועל__n_f_m">
       <e><p>          <l>ועל</l><r>ועל<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
       <e><p>          <l>ועל</l><r>ועל<s n="n"/><s n="m"/><s n="sg"/><s n="cons"/></r></p></e>
-<!-- rest of "f" forms TODO -->
+      <!-- rest of "f" forms TODO -->
       <e><p>          <l>ועלת</l><r>ועל<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
       <e><p>          <l>ועלת</l><r>ועל<s n="n"/><s n="f"/><s n="sg"/><s n="cons"/></r></p></e>
       <e><p>          <l>ועלי</l><r>ועל<s n="n"/><s n="m"/><s n="sg"/><s n="px1sg"/></r></p></e>
@@ -6264,9 +6239,9 @@
       <e><p>          <l>נותיה</l><r>ן<s n="n"/><s n="m"/><s n="pl"/><s n="px3sg_f"/></r></p></e>
       <e><p>          <l>נותיהם</l><r>ן<s n="n"/><s n="m"/><s n="pl"/><s n="px3pl_m"/></r></p></e>
     </pardef>
-<!-- begin new pardefs TODO -->
-    <pardef n="שק__n_px">
-      <e><p>          <l></l><r></r></p></e> <!-- pass-through -->
+    <pardef n="שק__n_m">
+      <e><p>          <l></l><r><s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="cons"/></r></p></e>
       <e><p>          <l>י</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="px1sg"/></r></p></e>
       <e><p>          <l>נו</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="px1pl"/></r></p></e>
       <e><p>          <l>ך</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="px2sg_m"/></r></p></e>
@@ -6289,96 +6264,154 @@
       <e><p>          <l>יה</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="px3sg_f"/></r></p></e>
       <e><p>          <l>יהם</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="px3pl_m"/></r></p></e>
     </pardef>
-    <pardef n="שק__n_m">
-      <e><p>          <l></l><r><s n="n"/><s n="m"/><s n="sg"/></r></p><par n="שק__n_px"/></e>
-      <e><p>          <l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="cons"/></r></p><par n="שק__n_px"/></e>
-    </pardef>
-    <pardef n="בורר__n_f_m">
-      <e><p>          <l></l><r><s n="n"/><s n="m"/><s n="sg"/></r></p><par n="שק__n_px"/></e>
-      <e><p>          <l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="cons"/></r></p><par n="שק__n_px"/></e>
-      <e><p>          <l>ת</l><r><s n="n"/><s n="f"/><s n="sg"/></r></p><par n="שק__n_px"/></e>
-      <e><p>          <l>ת</l><r><s n="n"/><s n="f"/><s n="sg"/><s n="cons"/></r></p><par n="שק__n_px"/></e>
-      <e><p>          <l>ים</l><r><s n="n"/><s n="m"/><s n="pl"/></r></p><par n="שק__n_px"/></e>
-      <e><p>          <l>י</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="cons"/></r></p><par n="שק__n_px"/></e>
-      <e><p>          <l>ות</l><r><s n="n"/><s n="f"/><s n="pl"/></r></p><par n="שק__n_px"/></e>
-      <e><p>          <l>ות</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="cons"/></r></p><par n="שק__n_px"/></e>
-    </pardef>
     <pardef n="נשא__n_m_f">
-        <e><p>          <l></l><r><s n="n"/><s n="m"/><s n="sg"/></r></p><par n="שק__n_px"/></e>
-        <e><p>          <l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="cons"/></r></p><par n="שק__n_px"/></e>
-        <e><p>          <l>ית</l><r><s n="n"/><s n="f"/><s n="sg"/></r></p><par n="שק__n_px"/></e>
-        <e><p>          <l>ית</l><r><s n="n"/><s n="f"/><s n="sg"/><s n="cons"/></r></p><par n="שק__n_px"/></e>
-        <e><p>          <l>יות</l><r><s n="n"/><s n="f"/><s n="pl"/></r></p><par n="שק__n_px"/></e>
-        <e><p>          <l>יות</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="cons"/></r></p><par n="שק__n_px"/></e>
+      <e><p>          <l></l><r><s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="cons"/></r></p></e>
+      <e><p>          <l>י</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="px1sg"/></r></p></e>
+      <e><p>          <l>נו</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="px1pl"/></r></p></e>
+      <e><p>          <l>ך</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="px2sg_m"/></r></p></e>
+      <e><p>          <l>ך</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="px2sg_f"/></r></p></e>
+      <e><p>          <l>כם</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="px2pl_m"/></r></p></e>
+      <e><p>          <l>כן</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="px2pl_f"/></r></p></e>
+      <e><p>          <l>ן</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="px2pl_f"/></r></p></e>
+      <e><p>          <l>ו</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="px3sg_m"/></r></p></e>
+      <e><p>          <l>ה</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="px3sg_f"/></r></p></e>
+      <e><p>          <l>ם</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="px3pl_m"/></r></p></e>
+      <e><p>          <l>ים</l><r><s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p>          <l>י</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="cons"/></r></p></e>
+      <e><p>          <l>יי</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="px1sg"/></r></p></e>
+      <e><p>          <l>ינו</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="px1pl"/></r></p></e>
+      <e><p>          <l>יך</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="px2sg_m"/></r></p></e>
+      <e><p>          <l>ייך</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="px2sg_f"/></r></p></e>
+      <e><p>          <l>יכם</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="px2pl_m"/></r></p></e>
+      <e><p>          <l>יכן</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="px2pl_f"/></r></p></e>
+      <e><p>          <l>יהן</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="px2pl_f"/></r></p></e>
+      <e><p>          <l>יו</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="px3sg_m"/></r></p></e>
+      <e><p>          <l>יה</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="px3sg_f"/></r></p></e>
+      <e><p>          <l>יהם</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="px3pl_m"/></r></p></e>
+      <!-- rest of "f" forms TODO -->
+      <e><p>          <l>ית</l><r><s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ית</l><r><s n="n"/><s n="f"/><s n="sg"/><s n="cons"/></r></p></e>
+      <e><p>          <l>יות</l><r><s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+      <e><p>          <l>יות</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="cons"/></r></p></e>
+    </pardef>
+
+    
+    <pardef n="S__שק" c="Possessive suffixes (mine, theirs, …) for feminine(?) nouns">
+      <!-- used by several _m_f pardefs below, TODO check if all of the actually work with this pardef! -->
+      <e><p>          <l></l><r></r></p></e> <!-- pass-through -->
+      <e><p>          <l>י</l><r><s n="px1sg"/></r></p></e>
+      <e><p>          <l>נו</l><r><s n="px1pl"/></r></p></e>
+      <e><p>          <l>ך</l><r><s n="px2sg_m"/></r></p></e>
+      <e><p>          <l>ך</l><r><s n="px2sg_f"/></r></p></e>
+      <e><p>          <l>כם</l><r><s n="px2pl_m"/></r></p></e>
+      <e><p>          <l>כן</l><r><s n="px2pl_f"/></r></p></e>
+      <e><p>          <l>ו</l><r><s n="px3sg_m"/></r></p></e>
+      <e><p>          <l>ה</l><r><s n="px3sg_f"/></r></p></e>
+      <e><p>          <l>ם</l><r><s n="px3pl_m"/></r></p></e>
+    </pardef>
+    
+<!-- begin pardefs to check whether S__שק works TODO -->
+    <pardef n="בורר__n_f_m">
+      <e><p>          <l></l><r><s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="cons"/></r></p></e>
+      <e><p>          <l>י</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="px1sg"/></r></p></e>
+      <e><p>          <l>נו</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="px1pl"/></r></p></e>
+      <e><p>          <l>ך</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="px2sg_m"/></r></p></e>
+      <e><p>          <l>ך</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="px2sg_f"/></r></p></e>
+      <e><p>          <l>כם</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="px2pl_m"/></r></p></e>
+      <e><p>          <l>כן</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="px2pl_f"/></r></p></e>
+      <e><p>          <l>ן</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="px2pl_f"/></r></p></e>
+      <e><p>          <l>ו</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="px3sg_m"/></r></p></e>
+      <e><p>          <l>ה</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="px3sg_f"/></r></p></e>
+      <e><p>          <l>ם</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="px3pl_m"/></r></p></e>
+      <e><p>          <l>ים</l><r><s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p>          <l>י</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="cons"/></r></p></e>
+      <e><p>          <l>יי</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="px1sg"/></r></p></e>
+      <e><p>          <l>ינו</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="px1pl"/></r></p></e>
+      <e><p>          <l>יך</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="px2sg_m"/></r></p></e>
+      <e><p>          <l>ייך</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="px2sg_f"/></r></p></e>
+      <e><p>          <l>יכם</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="px2pl_m"/></r></p></e>
+      <e><p>          <l>יכן</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="px2pl_f"/></r></p></e>
+      <e><p>          <l>יהן</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="px2pl_f"/></r></p></e>
+      <e><p>          <l>יו</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="px3sg_m"/></r></p></e>
+      <e><p>          <l>יה</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="px3sg_f"/></r></p></e>
+      <e><p>          <l>יהם</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="px3pl_m"/></r></p></e>
+      <!-- rest of "f" forms TODO -->
+      <e><p>          <l>ת</l><r><s n="n"/><s n="f"/><s n="sg"/></r></p><par n="S__שק"/></e>
+      <e><p>          <l>ת</l><r><s n="n"/><s n="f"/><s n="sg"/><s n="cons"/></r></p><par n="S__שק"/></e>
+      <e><p>          <l>ות</l><r><s n="n"/><s n="f"/><s n="pl"/></r></p><par n="S__שק"/></e>
+      <e><p>          <l>ות</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="cons"/></r></p><par n="S__שק"/></e>
     </pardef>
     <pardef n="יוז/ם__n_f_m">
       <e><p>          <l></l><r></r></p><par n="ד/ם__n_m"/></e>
-      <e><p>          <l>מת</l><r>ם<s n="n"/><s n="f"/><s n="sg"/></r></p><par n="שק__n_px"/></e>
-      <e><p>          <l>מת</l><r>ם<s n="n"/><s n="f"/><s n="sg"/><s n="cons"/></r></p><par n="שק__n_px"/></e>
-      <e><p>          <l>מות</l><r>ם<s n="n"/><s n="f"/><s n="pl"/></r></p><par n="שק__n_px"/></e>
-      <e><p>          <l>מות</l><r>ם<s n="n"/><s n="f"/><s n="pl"/><s n="cons"/></r></p><par n="שק__n_px"/></e>
+      <e><p>          <l>מת</l><r>ם<s n="n"/><s n="f"/><s n="sg"/></r></p><par n="S__שק"/></e>
+      <e><p>          <l>מת</l><r>ם<s n="n"/><s n="f"/><s n="sg"/><s n="cons"/></r></p><par n="S__שק"/></e>
+      <e><p>          <l>מות</l><r>ם<s n="n"/><s n="f"/><s n="pl"/></r></p><par n="S__שק"/></e>
+      <e><p>          <l>מות</l><r>ם<s n="n"/><s n="f"/><s n="pl"/><s n="cons"/></r></p><par n="S__שק"/></e>
     </pardef>
     <pardef n="תומ/ך__n_f_m">
       <e><p>          <l></l><r></r></p><par n="ח/ך__n_m"/></e>
-      <e><p>          <l>כת</l><r>ך<s n="n"/><s n="f"/><s n="sg"/></r></p><par n="שק__n_px"/></e>
-      <e><p>          <l>כת</l><r>ך<s n="n"/><s n="f"/><s n="sg"/><s n="cons"/></r></p><par n="שק__n_px"/></e>
-      <e><p>          <l>כות</l><r>ך<s n="n"/><s n="f"/><s n="pl"/></r></p><par n="שק__n_px"/></e>
-      <e><p>          <l>כות</l><r>ך<s n="n"/><s n="f"/><s n="pl"/><s n="cons"/></r></p><par n="שק__n_px"/></e>
+      <e><p>          <l>כת</l><r>ך<s n="n"/><s n="f"/><s n="sg"/></r></p><par n="S__שק"/></e>
+      <e><p>          <l>כת</l><r>ך<s n="n"/><s n="f"/><s n="sg"/><s n="cons"/></r></p><par n="S__שק"/></e>
+      <e><p>          <l>כות</l><r>ך<s n="n"/><s n="f"/><s n="pl"/></r></p><par n="S__שק"/></e>
+      <e><p>          <l>כות</l><r>ך<s n="n"/><s n="f"/><s n="pl"/><s n="cons"/></r></p><par n="S__שק"/></e>
     </pardef>
     <pardef n="סוכ/ן__n_f_m">
       <e><p>          <l></l><r></r></p><par n="ת/ן__n_m"/></e>
-      <e><p>          <l>נת</l><r>ן<s n="n"/><s n="f"/><s n="sg"/></r></p><par n="שק__n_px"/></e>
-      <e><p>          <l>נת</l><r>ן<s n="n"/><s n="f"/><s n="sg"/><s n="cons"/></r></p><par n="שק__n_px"/></e>
-      <e><p>          <l>נות</l><r>ן<s n="n"/><s n="f"/><s n="pl"/></r></p><par n="שק__n_px"/></e>
-      <e><p>          <l>נות</l><r>ן<s n="n"/><s n="f"/><s n="pl"/><s n="cons"/></r></p><par n="שק__n_px"/></e>
+      <e><p>          <l>נת</l><r>ן<s n="n"/><s n="f"/><s n="sg"/></r></p><par n="S__שק"/></e>
+      <e><p>          <l>נת</l><r>ן<s n="n"/><s n="f"/><s n="sg"/><s n="cons"/></r></p><par n="S__שק"/></e>
+      <e><p>          <l>נות</l><r>ן<s n="n"/><s n="f"/><s n="pl"/></r></p><par n="S__שק"/></e>
+      <e><p>          <l>נות</l><r>ן<s n="n"/><s n="f"/><s n="pl"/><s n="cons"/></r></p><par n="S__שק"/></e>
     </pardef>
     <pardef n="אומ/ן__n_f_m">
       <e><p>          <l></l><r></r></p><par n="ת/ן__n_m"/></e>
-      <e><p>          <l>נת</l><r>ן<s n="n"/><s n="f"/><s n="sg"/></r></p><par n="שק__n_px"/></e>
-      <e><p>          <l>נת</l><r>ן<s n="n"/><s n="f"/><s n="sg"/><s n="cons"/></r></p><par n="שק__n_px"/></e>
-      <e><p>          <l>נות</l><r>ן<s n="n"/><s n="f"/><s n="pl"/></r></p><par n="שק__n_px"/></e>
-      <e><p>          <l>נות</l><r>ן<s n="n"/><s n="f"/><s n="pl"/><s n="cons"/></r></p><par n="שק__n_px"/></e>
-      <e><p>          <l>נית</l><r>ן<s n="n"/><s n="f"/><s n="sg"/></r></p><par n="שק__n_px"/></e>
-      <e><p>          <l>נית</l><r>ן<s n="n"/><s n="f"/><s n="sg"/><s n="cons"/></r></p><par n="שק__n_px"/></e>
-      <e><p>          <l>ניות</l><r>ן<s n="n"/><s n="f"/><s n="pl"/></r></p><par n="שק__n_px"/></e>
-      <e><p>          <l>ניות</l><r>ן<s n="n"/><s n="f"/><s n="pl"/><s n="cons"/></r></p><par n="שק__n_px"/></e>
+      <e><p>          <l>נת</l><r>ן<s n="n"/><s n="f"/><s n="sg"/></r></p><par n="S__שק"/></e>
+      <e><p>          <l>נת</l><r>ן<s n="n"/><s n="f"/><s n="sg"/><s n="cons"/></r></p><par n="S__שק"/></e>
+      <e><p>          <l>נות</l><r>ן<s n="n"/><s n="f"/><s n="pl"/></r></p><par n="S__שק"/></e>
+      <e><p>          <l>נות</l><r>ן<s n="n"/><s n="f"/><s n="pl"/><s n="cons"/></r></p><par n="S__שק"/></e>
+      <e><p>          <l>נית</l><r>ן<s n="n"/><s n="f"/><s n="sg"/></r></p><par n="S__שק"/></e>
+      <e><p>          <l>נית</l><r>ן<s n="n"/><s n="f"/><s n="sg"/><s n="cons"/></r></p><par n="S__שק"/></e>
+      <e><p>          <l>ניות</l><r>ן<s n="n"/><s n="f"/><s n="pl"/></r></p><par n="S__שק"/></e>
+      <e><p>          <l>ניות</l><r>ן<s n="n"/><s n="f"/><s n="pl"/><s n="cons"/></r></p><par n="S__שק"/></e>
     </pardef>
     <pardef n="חוט/ף__n_f_m">
       <e><p>          <l></l><r></r></p><par n="ר/ף__n_m"/></e>
-      <e><p>          <l>פת</l><r>ף<s n="n"/><s n="f"/><s n="sg"/></r></p><par n="שק__n_px"/></e>
-      <e><p>          <l>פת</l><r>ף<s n="n"/><s n="f"/><s n="sg"/><s n="cons"/></r></p><par n="שק__n_px"/></e>
-      <e><p>          <l>פות</l><r>ף<s n="n"/><s n="f"/><s n="pl"/></r></p><par n="שק__n_px"/></e>
-      <e><p>          <l>פות</l><r>ף<s n="n"/><s n="f"/><s n="pl"/><s n="cons"/></r></p><par n="שק__n_px"/></e>
+      <e><p>          <l>פת</l><r>ף<s n="n"/><s n="f"/><s n="sg"/></r></p><par n="S__שק"/></e>
+      <e><p>          <l>פת</l><r>ף<s n="n"/><s n="f"/><s n="sg"/><s n="cons"/></r></p><par n="S__שק"/></e>
+      <e><p>          <l>פות</l><r>ף<s n="n"/><s n="f"/><s n="pl"/></r></p><par n="S__שק"/></e>
+      <e><p>          <l>פות</l><r>ף<s n="n"/><s n="f"/><s n="pl"/><s n="cons"/></r></p><par n="S__שק"/></e>
     </pardef>
     <pardef n="שע/ן__n_f_m">
       <e><p>          <l></l><r></r></p><par n="ת/ן__n_m"/></e>
-      <e><p>          <l>נית</l><r>ן<s n="n"/><s n="f"/><s n="sg"/></r></p><par n="שק__n_px"/></e>
-      <e><p>          <l>נית</l><r>ן<s n="n"/><s n="f"/><s n="sg"/><s n="cons"/></r></p><par n="שק__n_px"/></e>
-      <e><p>          <l>ניות</l><r>ן<s n="n"/><s n="f"/><s n="pl"/></r></p><par n="שק__n_px"/></e>
-      <e><p>          <l>ניות</l><r>ן<s n="n"/><s n="f"/><s n="pl"/><s n="cons"/></r></p><par n="שק__n_px"/></e>
+      <e><p>          <l>נית</l><r>ן<s n="n"/><s n="f"/><s n="sg"/></r></p><par n="S__שק"/></e>
+      <e><p>          <l>נית</l><r>ן<s n="n"/><s n="f"/><s n="sg"/><s n="cons"/></r></p><par n="S__שק"/></e>
+      <e><p>          <l>ניות</l><r>ן<s n="n"/><s n="f"/><s n="pl"/></r></p><par n="S__שק"/></e>
+      <e><p>          <l>ניות</l><r>ן<s n="n"/><s n="f"/><s n="pl"/><s n="cons"/></r></p><par n="S__שק"/></e>
     </pardef>
     <pardef n="צל/ף__n_f_m">
       <e><p>          <l></l><r></r></p><par n="ר/ף__n_m"/></e>
-      <e><p>          <l>פית</l><r>ף<s n="n"/><s n="f"/><s n="sg"/></r></p><par n="שק__n_px"/></e>
-      <e><p>          <l>פית</l><r>ף<s n="n"/><s n="f"/><s n="sg"/><s n="cons"/></r></p><par n="שק__n_px"/></e>
-      <e><p>          <l>פיות</l><r>ף<s n="n"/><s n="f"/><s n="pl"/></r></p><par n="שק__n_px"/></e>
-      <e><p>          <l>פיות</l><r>ף<s n="n"/><s n="f"/><s n="pl"/><s n="cons"/></r></p><par n="שק__n_px"/></e>
+      <e><p>          <l>פית</l><r>ף<s n="n"/><s n="f"/><s n="sg"/></r></p><par n="S__שק"/></e>
+      <e><p>          <l>פית</l><r>ף<s n="n"/><s n="f"/><s n="sg"/><s n="cons"/></r></p><par n="S__שק"/></e>
+      <e><p>          <l>פיות</l><r>ף<s n="n"/><s n="f"/><s n="pl"/></r></p><par n="S__שק"/></e>
+      <e><p>          <l>פיות</l><r>ף<s n="n"/><s n="f"/><s n="pl"/><s n="cons"/></r></p><par n="S__שק"/></e>
     </pardef>
     <pardef n="אגרונו/ם__n_f_m">
       <e><p>          <l></l><r></r></p><par n="ד/ם__n_m"/></e>
-      <e><p>          <l>מית</l><r>ם<s n="n"/><s n="f"/><s n="sg"/></r></p><par n="שק__n_px"/></e>
-      <e><p>          <l>מית</l><r>ם<s n="n"/><s n="f"/><s n="sg"/><s n="cons"/></r></p><par n="שק__n_px"/></e>
-      <e><p>          <l>מיות</l><r>ם<s n="n"/><s n="f"/><s n="pl"/></r></p><par n="שק__n_px"/></e>
-      <e><p>          <l>מיות</l><r>ם<s n="n"/><s n="f"/><s n="pl"/><s n="cons"/></r></p><par n="שק__n_px"/></e>
+      <e><p>          <l>מית</l><r>ם<s n="n"/><s n="f"/><s n="sg"/></r></p><par n="S__שק"/></e>
+      <e><p>          <l>מית</l><r>ם<s n="n"/><s n="f"/><s n="sg"/><s n="cons"/></r></p><par n="S__שק"/></e>
+      <e><p>          <l>מיות</l><r>ם<s n="n"/><s n="f"/><s n="pl"/></r></p><par n="S__שק"/></e>
+      <e><p>          <l>מיות</l><r>ם<s n="n"/><s n="f"/><s n="pl"/><s n="cons"/></r></p><par n="S__שק"/></e>
     </pardef>
     <pardef n="מומח/ה__n_f_m">
       <e><p>          <l></l><r></r></p><par n="קנ/ה__n_m"/></e>
-      <e><p>          <l>ית</l><r>ה<s n="n"/><s n="f"/><s n="sg"/></r></p><par n="שק__n_px"/></e>
-      <e><p>          <l>ית</l><r>ה<s n="n"/><s n="f"/><s n="sg"/><s n="cons"/></r></p><par n="שק__n_px"/></e>
-      <e><p>          <l>יות</l><r>ה<s n="n"/><s n="f"/><s n="pl"/></r></p><par n="שק__n_px"/></e>
-      <e><p>          <l>יות</l><r>ה<s n="n"/><s n="f"/><s n="pl"/><s n="cons"/></r></p><par n="שק__n_px"/></e>
+      <e><p>          <l>ית</l><r>ה<s n="n"/><s n="f"/><s n="sg"/></r></p><par n="S__שק"/></e>
+      <e><p>          <l>ית</l><r>ה<s n="n"/><s n="f"/><s n="sg"/><s n="cons"/></r></p><par n="S__שק"/></e>
+      <e><p>          <l>יות</l><r>ה<s n="n"/><s n="f"/><s n="pl"/></r></p><par n="S__שק"/></e>
+      <e><p>          <l>יות</l><r>ה<s n="n"/><s n="f"/><s n="pl"/><s n="cons"/></r></p><par n="S__שק"/></e>
     </pardef>
-    <!-- end new pardefs TODO -->    
+<!-- end pardefs to check whether S__שק works TODO -->
+
     <!-- SECTION: Proper nouns -->
 
     <pardef n="מריה__np">
