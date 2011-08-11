@@ -33,16 +33,13 @@ for i in $POS; do
     esac
     grep "<$i>" $INC | grep -v -e '__REGEXP__\|'$IGNORE > $G;
     TOTAL=`grep -c . $G`;
+    if [ $TOTAL == 0 ]; then continue; fi
     AT=`grep -c '@' $G`
-    if [ $TOTAL == 0 ]; then ATCLEAN=0 ; else
-	ATCLEAN=`calc -p "100 - $AT/$TOTAL*100" | sed 's/~//g' | head -c 5`
-    fi
+    ATCLEAN=`calc -p "100 - $AT/$TOTAL*100" | sed 's/~//g' | head -c 5`
     HASH=`grep -c '>  *#' $G`;
     UNCLEAN=`grep -c -e '@' -e '>  *#' $G`;
     CLEAN=`calc -p $TOTAL-$UNCLEAN`;
-    if [ $TOTAL == 0 ]; then PERCLEAN=0; else
-	PERCLEAN=`calc -p "100 - $UNCLEAN/$TOTAL*100" | sed 's/~//g' | head -c 5`;
-    fi
+    PERCLEAN=`calc -p "100 - $UNCLEAN/$TOTAL*100" | sed 's/~//g' | head -c 5`;
     echo -e $TOTAL";"$i";"$CLEAN";"$AT";"$ATCLEAN";"$HASH";"$PERCLEAN;
 done | sort -gr | awk -F';' '{printf "%-7s\t",$2; print $1"\t"$3"\t"$4"\t"$5"\t"$6"\t"$7}' >> $OUT
 
