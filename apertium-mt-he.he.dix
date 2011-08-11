@@ -349,6 +349,7 @@
       <e><p>          <l>יותיהם</l><r>ת<s n="n"/><s n="f"/><s n="pl"/><s n="px3pl_m"/></r></p></e>
     </pardef>
     <pardef n="ריצ/ה__n_f">
+      <!-- TODO LR some forms in this pardef -->
       <e><p>          <l>ה</l><r>ה<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
       <e><p>          <l>ת</l><r>ה<s n="n"/><s n="f"/><s n="sg"/><s n="cons"/></r></p></e>
       <e><p>          <l>תי</l><r>ה<s n="n"/><s n="f"/><s n="sg"/><s n="px1sg"/></r></p></e>
@@ -763,6 +764,7 @@
     
 <!-- begin pardefs to check whether S__גזזת works TODO -->
     <pardef n="גזזת__n_f">
+      <!-- TODO complete pardef -->
       <e><p>          <l></l><r><s n="n"/><s n="f"/><s n="sg"/></r></p><par n="S__גזזת"/></e>
       <e><p>          <l></l><r><s n="n"/><s n="f"/><s n="sg"/><s n="cons"/></r></p><par n="S__גזזת"/></e>
     </pardef>
@@ -773,6 +775,7 @@
         <e><p>          <l>ות</l><r>ת<s n="n"/><s n="f"/><s n="pl"/><s n="cons"/></r></p><par n="S__גזזת"/></e>  
     </pardef>
     <pardef n="דת__n_f">
+      <!-- TODO complete pardef -->
       <e><p>          <l></l><r><s n="n"/><s n="f"/><s n="sg"/></r></p><par n="S__גזזת"/></e>
       <e><p>          <l></l><r><s n="n"/><s n="f"/><s n="sg"/><s n="cons"/></r></p><par n="S__גזזת"/></e>
       <e><p>          <l>ות</l><r><s n="n"/><s n="f"/><s n="pl"/></r></p><par n="S__גזזת"/></e>
@@ -791,6 +794,7 @@
         <e><p>          <l>ים</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="cons"/></r></p><par n="S__גזזת"/></e>
     </pardef>
     <pardef n="יד__n_f">
+      <!-- TODO complete pardef -->
         <e><p>          <l></l><r><s n="n"/><s n="f"/><s n="sg"/></r></p><par n="S__גזזת"/></e>
         <e><p>          <l></l><r><s n="n"/><s n="f"/><s n="sg"/><s n="cons"/></r></p><par n="S__גזזת"/></e>
         <e><p>          <l>יים</l><r><s n="n"/><s n="f"/><s n="pl"/></r></p><par n="S__גזזת"/></e>
@@ -803,6 +807,7 @@
         <e><p>          <l>נות</l><r>ת<s n="n"/><s n="f"/><s n="pl"/><s n="cons"/></r></p><par n="S__גזזת"/></e>
     </pardef>
     <pardef n="ע/יר__n_f">
+      <!-- TODO complete pardef -->
         <e><p>          <l>יר</l><r>יר<s n="n"/><s n="f"/><s n="sg"/></r></p><par n="S__גזזת"/></e>
         <e><p>          <l>יר</l><r>יר<s n="n"/><s n="f"/><s n="sg"/><s n="cons"/></r></p><par n="S__גזזת"/></e>
         <e><p>          <l>רים</l><r>יר<s n="n"/><s n="f"/><s n="pl"/></r></p><par n="S__גזזת"/></e>
@@ -1067,6 +1072,7 @@
       <e><p>          <l>ניהם</l><r>ן<s n="n"/><s n="m"/><s n="pl"/><s n="px3pl_m"/></r></p></e>
     </pardef>
     <pardef n="ש/ם__n_m">
+      <!-- TODO LR some forms in this pardef -->
       <e><p>          <l>ם</l><r>ם<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
       <e><p>          <l>ם</l><r>ם<s n="n"/><s n="m"/><s n="sg"/><s n="cons"/></r></p></e>
       <e><p>          <l>מי</l><r>ם<s n="n"/><s n="m"/><s n="sg"/><s n="px1sg"/></r></p></e>
@@ -1119,6 +1125,7 @@
       <e><p>          <l>ניהם</l><r>ן<s n="n"/><s n="m"/><s n="pl"/><s n="px3pl_m"/></r></p></e>
     </pardef>
     <pardef n="בו/ץ__n_m">
+      <!-- TODO complete pardef -->
       <e><p>          <l>ץ</l><r>ץ<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
       <e><p>          <l>ץ</l><r>ץ<s n="n"/><s n="m"/><s n="sg"/><s n="cons"/></r></p></e>
       <e><p>          <l>צי</l><r>ץ<s n="n"/><s n="m"/><s n="sg"/><s n="px1sg"/></r></p></e>
@@ -1213,6 +1220,7 @@
       <e><p>          <l>ם</l><r>י<s n="n"/><s n="m"/><s n="sg"/><s n="px3pl_m"/></r></p></e>
     </pardef>
     <pardef n="חו/ם__n_m">
+      <!-- TODO complete pardef -->
       <e><p>          <l>ם</l><r>ם<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
       <e><p>          <l>ם</l><r>ם<s n="n"/><s n="m"/><s n="sg"/><s n="cons"/></r></p></e>
       <e><p>          <l>מי</l><r>ם<s n="n"/><s n="m"/><s n="sg"/><s n="px1sg"/></r></p></e>
@@ -1518,6 +1526,7 @@
       <e><p>          <l>פם</l><r>ף<s n="n"/><s n="mf"/><s n="sg"/><s n="px3pl_m"/></r></p></e>
     </pardef>
     <pardef n="לס__n_m">
+      <!-- TODO complete pardef -->
       <e><p>          <l></l><r><s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     </pardef>
     <pardef n="ק/ומץ__n_m">
@@ -1599,6 +1608,7 @@
       <e><p>          <l>צאותיהם</l><r>ץ<s n="n"/><s n="m"/><s n="pl"/><s n="px3pl_m"/></r></p></e>
     </pardef>
     <pardef n="קש__n_m">
+      <!-- TODO complete pardef -->
       <e><p>          <l></l><r><s n="n"/><s n="m"/><s n="sg"/></r></p></e>
       <e><p>          <l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="cons"/></r></p></e>
       <e><p>          <l>י</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="px1sg"/></r></p></e>
@@ -2089,6 +2099,7 @@
       <e><p>          <l>איונותיהם</l><r>יאיון<s n="n"/><s n="m"/><s n="pl"/><s n="px3pl_m"/></r></p></e>
     </pardef>
     <pardef n="קמ/ה__n_f">
+      <!-- TODO complete pardef -->
       <e><p>          <l>ה</l><r>ה<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
       <e><p>          <l>ת</l><r>ה<s n="n"/><s n="f"/><s n="sg"/><s n="cons"/></r></p></e>
     </pardef>
@@ -2306,6 +2317,7 @@
       <e><p>          <l></l><r><s n="n"/><s n="f"/><s n="sg"/><s n="cons"/></r></p></e>
     </pardef>
     <pardef n="לבה__n_f">
+      <!-- TODO complete pardef -->
       <e><p>          <l></l><r><s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     </pardef>
     <pardef n="נ/ופש__n_m">
@@ -2339,6 +2351,7 @@
       <e><p>          <l>ת</l><r>ה<s n="n"/><s n="mf"/><s n="sg"/><s n="cons"/></r></p></e>
     </pardef>
     <pardef n="כס__n_m">
+      <!-- TODO complete pardef -->
       <e><p>          <l></l><r><s n="n"/><s n="m"/><s n="sg"/></r></p></e>
       <e><p>          <l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="cons"/></r></p></e>
     </pardef>
@@ -2490,6 +2503,7 @@
       <e><p>          <l>פרונותיהם</l><r>יפרון<s n="n"/><s n="m"/><s n="pl"/><s n="px3pl_m"/></r></p></e>
     </pardef>
     <pardef n="אר/ץ__n_f">
+      <!-- TODO complete pardef -->
       <e><p>          <l>ץ</l><r>ץ<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
       <e><p>          <l>ץ</l><r>ץ<s n="n"/><s n="f"/><s n="sg"/><s n="cons"/></r></p></e>
       <e><p>          <l>צי</l><r>ץ<s n="n"/><s n="f"/><s n="sg"/><s n="px1sg"/></r></p></e>
@@ -2689,6 +2703,7 @@
       <e><p>          <l>ותיהם</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="px3pl_m"/></r></p></e>
     </pardef>
     <pardef n="אב/ן__n_f">
+      <!-- TODO complete pardef -->
       <e><p>          <l>ן</l><r>ן<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
       <e><p>          <l>ן</l><r>ן<s n="n"/><s n="f"/><s n="sg"/><s n="cons"/></r></p></e>
       <e><p>          <l>ני</l><r>ן<s n="n"/><s n="f"/><s n="sg"/><s n="px1sg"/></r></p></e>
@@ -2972,6 +2987,7 @@
       <e><p>          <l>מיהם</l><r>ם<s n="n"/><s n="m"/><s n="pl"/><s n="px3pl_m"/></r></p></e>
     </pardef>
     <pardef n="עש/ן__n_m">
+      <!-- TODO complete pardef -->
       <e><p>          <l>ן</l><r>ן<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
       <e><p>          <l>ן</l><r>ן<s n="n"/><s n="m"/><s n="sg"/><s n="cons"/></r></p></e>
       <e><p>          <l>ני</l><r>ן<s n="n"/><s n="m"/><s n="sg"/><s n="px1sg"/></r></p></e>
@@ -3213,6 +3229,7 @@
       <e><p>          <l>דיהם</l><r>ד<s n="n"/><s n="m"/><s n="pl"/><s n="px3pl_m"/></r></p></e>
     </pardef>
     <pardef n="ש/ן__n_f">
+      <!-- TODO complete pardef -->
       <e><p>          <l>ן</l><r>ן<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
       <e><p>          <l>ן</l><r>ן<s n="n"/><s n="f"/><s n="sg"/><s n="cons"/></r></p></e>
       <e><p>          <l>יני</l><r>ן<s n="n"/><s n="f"/><s n="sg"/><s n="px1sg"/></r></p></e>
@@ -3440,6 +3457,7 @@
       <e><p>          <l>איהם</l><r>י<s n="n"/><s n="m"/><s n="pl"/><s n="px3pl_m"/></r></p></e>
     </pardef>
     <pardef n="יר/ך__n_f">
+      <!-- TODO complete pardef -->
       <e><p>          <l>ך</l><r>ך<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
       <e><p>          <l>ך</l><r>ך<s n="n"/><s n="f"/><s n="sg"/><s n="cons"/></r></p></e>
       <e><p>          <l>כי</l><r>ך<s n="n"/><s n="f"/><s n="sg"/><s n="px1sg"/></r></p></e>
@@ -4121,6 +4139,7 @@
       <e><p>          <l>יהם</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="px3pl_m"/></r></p></e>
     </pardef>
     <pardef n="צי__n_m">
+      <!-- TODO LR some forms in this pardef -->
       <e><p>          <l></l><r><s n="n"/><s n="m"/><s n="sg"/></r></p></e>
       <e><p>          <l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="cons"/></r></p></e>
       <e><p>          <l>י</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="px1sg"/></r></p></e>
@@ -4692,6 +4711,7 @@
       <e><p>          <l>אותיהם</l><r>ו<s n="n"/><s n="m"/><s n="pl"/><s n="px3pl_m"/></r></p></e>
     </pardef>
     <pardef n="מו/ות__n_m">
+      <!-- TODO complete pardef -->
       <e><p>          <l>ות</l><r>ות<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
       <e><p>          <l>ת</l><r>ות<s n="n"/><s n="m"/><s n="sg"/><s n="cons"/></r></p></e>
       <e><p>          <l>תי</l><r>ות<s n="n"/><s n="m"/><s n="sg"/><s n="px1sg"/></r></p></e>
@@ -4811,6 +4831,7 @@
       <e><p>          <l>ורגיהם</l><r>ורג<s n="n"/><s n="m"/><s n="pl"/><s n="px3pl_m"/></r></p></e>
     </pardef>
     <pardef n="כ/ף__n_f">
+      <!-- TODO complete pardef -->
       <e><p>          <l>ף</l><r>ף<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
       <e><p>          <l>ף</l><r>ף<s n="n"/><s n="f"/><s n="sg"/><s n="cons"/></r></p></e>
       <e><p>          <l>פי</l><r>ף<s n="n"/><s n="f"/><s n="sg"/><s n="px1sg"/></r></p></e>
@@ -4944,6 +4965,7 @@
       <e><p>          <l>אותיהם</l><r>ה<s n="n"/><s n="m"/><s n="pl"/><s n="px3pl_m"/></r></p></e>
     </pardef>
     <pardef n="לב__n_m">
+      <!-- TODO LR some forms in this pardef -->
       <e><p>          <l></l><r><s n="n"/><s n="m"/><s n="sg"/></r></p></e>
       <e><p>          <l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="cons"/></r></p></e>
       <e><p>          <l>י</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="px1sg"/></r></p></e>
@@ -5149,6 +5171,7 @@
       <e><p>          <l>אבונותיהם</l><r>יאבון<s n="n"/><s n="m"/><s n="pl"/><s n="px3pl_m"/></r></p></e>
     </pardef>
     <pardef n="חי/ה__n_f">
+      <!-- TODO complete pardef -->
       <e><p>          <l>ה</l><r>ה<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
       <e><p>          <l>ית</l><r>ה<s n="n"/><s n="f"/><s n="sg"/><s n="cons"/></r></p></e>
       <e><p>          <l>יתי</l><r>ה<s n="n"/><s n="f"/><s n="sg"/><s n="px1sg"/></r></p></e>
@@ -5444,6 +5467,7 @@
       <e><p>          <l>וים</l><r><s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     </pardef>
     <pardef n="א/ישה__n_f">
+      <!-- TODO complete pardef -->
       <e><p>          <l>ישה</l><r>ישה<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
       <e><p>          <l>שת</l><r>ישה<s n="n"/><s n="f"/><s n="sg"/><s n="cons"/></r></p></e>
       <e><p>          <l>שתי</l><r>ישה<s n="n"/><s n="f"/><s n="sg"/><s n="px1sg"/></r></p></e>
@@ -5889,6 +5913,7 @@
       <e><p>          <l>יתם</l><r>ה<s n="n"/><s n="mf"/><s n="sg"/><s n="px3pl_m"/></r></p></e>
     </pardef>
     <pardef n="א/ם__n_f">
+      <!-- TODO complete pardef -->
       <e><p>          <l>ם</l><r>ם<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
       <e><p>          <l>ם</l><r>ם<s n="n"/><s n="f"/><s n="sg"/><s n="cons"/></r></p></e>
       <e><p>          <l>מי</l><r>ם<s n="n"/><s n="f"/><s n="sg"/><s n="px1sg"/></r></p></e>
@@ -6240,6 +6265,7 @@
       <e><p>          <l>נותיהם</l><r>ן<s n="n"/><s n="m"/><s n="pl"/><s n="px3pl_m"/></r></p></e>
     </pardef>
     <pardef n="שק__n_m">
+      <!-- TODO LR some forms in this pardef -->
       <e><p>          <l></l><r><s n="n"/><s n="m"/><s n="sg"/></r></p></e>
       <e><p>          <l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="cons"/></r></p></e>
       <e><p>          <l>י</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="px1sg"/></r></p></e>
@@ -6265,6 +6291,7 @@
       <e><p>          <l>יהם</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="px3pl_m"/></r></p></e>
     </pardef>
     <pardef n="נשא__n_m_f">
+      <!-- TODO complete pardef -->
       <e><p>          <l></l><r><s n="n"/><s n="m"/><s n="sg"/></r></p></e>
       <e><p>          <l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="cons"/></r></p></e>
       <e><p>          <l>י</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="px1sg"/></r></p></e>
@@ -6313,6 +6340,7 @@
     
 <!-- begin pardefs to check whether S__שק works TODO -->
     <pardef n="בורר__n_f_m">
+      <!-- TODO complete pardef -->
       <e><p>          <l></l><r><s n="n"/><s n="m"/><s n="sg"/></r></p></e>
       <e><p>          <l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="cons"/></r></p></e>
       <e><p>          <l>י</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="px1sg"/></r></p></e>
