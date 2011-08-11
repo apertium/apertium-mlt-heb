@@ -40,6 +40,8 @@
        <attr-item tags="sg"/>
        <attr-item tags="pl"/>
        <attr-item tags="sp"/>
+       <attr-item tags="col"/>
+       <attr-item tags="du"/>
        <attr-item tags="ND"/>
     </def-attr>
     <def-attr n="a_adj">
