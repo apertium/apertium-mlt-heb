@@ -306,7 +306,27 @@
     <pardef n="XVI__num">
       <e><p><l/><r><s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
     </pardef>
-    
+    <pardef n="ראשו/ן__num">
+      <e><p><l>ן</l><r>ן<s n="num"/><s n="ord"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>נים</l><r>ן<s n="num"/><s n="ord"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p><l>נה</l><r>ן<s n="num"/><s n="ord"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>נות</l><r>ן<s n="num"/><s n="ord"/><s n="f"/><s n="pl"/></r></p></e>
+    </pardef>
+    <pardef n="שני__num">
+      <e><p><l></l><r><s n="num"/><s n="ord"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>ים</l><r><s n="num"/><s n="ord"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p><l>ה</l><r><s n="num"/><s n="ord"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>ות</l><r><s n="num"/><s n="ord"/><s n="f"/><s n="pl"/></r></p></e>
+    </pardef>
+    <pardef n="שלישי__num">
+      <e><p><l></l><r><s n="num"/><s n="ord"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>ים</l><r><s n="num"/><s n="ord"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p><l>ת</l><r><s n="num"/><s n="ord"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>ות</l><r><s n="num"/><s n="ord"/><s n="f"/><s n="pl"/></r></p></e>
+    </pardef>
+    <pardef n="מאה__num">
+      <e><p><l></l><r><s n="num"/><s n="ord"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
 
     <!-- SECTION: Nouns -->  
 
@@ -6784,6 +6804,17 @@
     <e lm="XXIII" c=""><i>XXIII</i><par n="XVI__num"/></e>
     <e lm="XII" c=""><i>XII</i><par n="XVI__num"/></e>
 
+    <e lm="ראשון" c="first"><i>ראשו</i><par n="ראשו/ן__num"/></e>
+    <e lm="שני" c="second"><i>שני</i><par n="שני__num"/></e>
+    <e lm="שלישי" c="third"><i>שלישי</i><par n="שלישי__num"/></e>
+    <e lm="רביעי" c="fourth"><i>רביעי</i><par n="שלישי__num"/></e>
+    <e lm="חמישי" c="fifth"><i>חמישי</i><par n="שלישי__num"/></e>
+    <e lm="שישי" c="sixth"><i>שישי</i><par n="שלישי__num"/></e>
+    <e lm="שביעי" c="seventh"><i>שביעי</i><par n="שלישי__num"/></e>
+    <e lm="שמיני" c="eighth"><i>שמיני</i><par n="שלישי__num"/></e>
+    <e lm="תשיעי" c="ninth"><i>תשיעי</i><par n="שלישי__num"/></e>
+    <e lm="עשירי" c="tenth"><i>עשירי</i><par n="שלישי__num"/></e>
+    <e lm="מאה" c="hundredth"><i>מאה</i><par n="מאה__num"/></e><!-- TODO -->
 
     <!-- SECTION: Nouns -->
     <e lm="רפדת"><par n="ה"/><i>רפד</i><par n="מגבת__n_f"/></e>
