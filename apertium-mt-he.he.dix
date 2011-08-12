@@ -1497,7 +1497,7 @@
       <e><p>          <l>פם</l><r>ף<s n="n"/><s n="mf"/><s n="sg"/><s n="px3pl_m"/></r></p></e>
     </pardef>
     <pardef n="לס__n_m">
-      <!-- single-only masc nouns -->
+      <!-- single-only masculine nouns -->
       <e><p>          <l></l><r><s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     </pardef>
     <pardef n="ק/ומץ__n_m">
@@ -2070,7 +2070,7 @@
       <e><p>          <l>איונותיהם</l><r>יאיון<s n="n"/><s n="m"/><s n="pl"/><s n="px3pl_m"/></r></p></e>
     </pardef>
     <pardef n="קמ/ה__n_f">
-      <!-- TODO complete pardef -->
+      <!-- single-only feminine nouns -->
       <e><p>          <l>ה</l><r>ה<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
       <e><p>          <l>ת</l><r>ה<s n="n"/><s n="f"/><s n="sg"/><s n="cons"/></r></p></e>
     </pardef>
