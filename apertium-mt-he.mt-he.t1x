@@ -12,6 +12,9 @@
     <def-cat n="nom">
       <cat-item tags="n.*"/>
     </def-cat>
+    <def-cat n="numeral">
+      <cat-item tags="num.*"/>
+    </def-cat>
     <def-cat n="adj">
       <cat-item tags="adj.*"/>
     </def-cat>
@@ -297,7 +300,6 @@
        </action>
     </rule>
 
-
     <rule comment="rule: artic nom">
        <pattern>
          <pattern-item n="artic"/>
@@ -425,6 +427,22 @@
              </let>
            </when>
          </choose>
+         <out>
+           <lu>
+             <clip pos="1" side="tl" part="whole"/>
+           </lu>
+         </out>
+       </action>
+    </rule>
+
+    
+
+    <rule comment="rule: numeral">
+       <pattern>
+         <pattern-item n="numeral"/>
+       </pattern>
+       <action>
+         <call-macro n="f_concord1"><with-param pos="1"/></call-macro>
          <out>
            <lu>
              <clip pos="1" side="tl" part="whole"/>
