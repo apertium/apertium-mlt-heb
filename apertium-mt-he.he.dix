@@ -228,68 +228,76 @@
     
     <!-- SECTION: Numerals -->
     <pardef n="אחד__num">
-      <e><p><l/><r><s n="num"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>ד</l><r>ד<s n="num"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>ת</l><r>ד<s n="num"/><s n="f"/><s n="sg"/></r></p></e>
     </pardef>
-    <pardef n="אחת__num">
-      <e><p><l/><r><s n="num"/><s n="f"/><s n="sg"/></r></p></e>
-    </pardef>
-    <pardef n="שני/ים__num">
-      <e><p><l/><r><s n="num"/><s n="m"/><s n="sp"/></r></p></e>
-      <e><p><l>ים</l><r><s n="num"/><s n="m"/><s n="sp"/></r></p></e>
-      <e><p><l>ים<b/>עשר</l><r><s n="num"/><s n="m"/><s n="sp"/></r></p></e>
-    </pardef>
-    <pardef n="שתי/ים__num">
-      <e><p><l/><r><s n="num"/><s n="f"/><s n="sp"/></r></p></e>
-      <e><p><l>ים</l><r><s n="num"/><s n="f"/><s n="sp"/></r></p></e>
-      <e><p><l>ים<b/>עשרה</l><r><s n="num"/><s n="f"/><s n="sp"/></r></p></e>
+    <pardef n="ש/ניים__num">
+      <!-- 2-->
+      <e><p><l>ני</l><r>ניים<s n="num"/><s n="m"/><s n="sp"/><s n="cons"/></r></p></e>
+      <e><p><l>ניים</l><r>ניים<s n="num"/><s n="m"/><s n="sp"/></r></p></e>
+      <e><p><l>תי</l><r>ניים<s n="num"/><s n="f"/><s n="sp"/><s n="cons"/></r></p></e>
+      <e><p><l>תיים</l><r>ניים<s n="num"/><s n="f"/><s n="sp"/></r></p></e>
+      <!-- 12-->
+      <e><p><l>נים עשר<b/>עשרה</l><r><s n="num"/><s n="m"/><s n="sp"/></r></p></e>
+      <e><p><l>תים עשרה<b/>עשר</l><r><s n="num"/><s n="f"/><s n="sp"/></r></p></e>
     </pardef>
     <pardef n="שלוש/ה__num">
+      <!-- 3-->
       <e><p><l/><r><s n="num"/><s n="f"/><s n="sp"/></r></p></e>
       <e><p><l>ה</l><r><s n="num"/><s n="m"/><s n="sp"/></r></p></e>
-      <e><p><l><b/>עשרה</l><r><s n="num"/><s n="f"/><s n="sp"/></r></p></e>
-      <e><p><l>ה<b/>עשר</l><r><s n="num"/><s n="m"/><s n="sp"/></r></p></e>
-      <e><p><l><b/>מאות</l><r><s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
-      <e><p><l>ת<b/>אלפים</l><r><s n="num"/><s n="m"/><s n="sp"/></r></p></e>
+      <!-- 13-->
+      <e><p><l><b/>עשרה</l><r>ה<b/>עשר<s n="num"/><s n="f"/><s n="sp"/></r></p></e>
+      <e><p><l>ה<b/>עשר</l><r>ה<b/>עשר<s n="num"/><s n="m"/><s n="sp"/></r></p></e>
+      <!-- 300-->
+      <e><p><l><b/>מאות</l><r><b/>מאות<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+      <!-- 3000-->
+      <e><p><l>ת<b/>אלפים</l><r>ת<b/>אלפים<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+    </pardef>
+    <pardef n="חמ/ישה__num">
+      <!-- 5-->
+      <e><p><l>ישה</l><r>ישה<s n="num"/><s n="m"/><s n="sp"/></r></p></e>
+      <e><p><l>ש</l><r>ישה<s n="num"/><s n="f"/><s n="sp"/></r></p></e>
+      <!-- 15-->
+      <e><p><l>ישה<b/>עשר</l><r>ישה<b/>עשר<s n="num"/><s n="m"/><s n="sp"/></r></p></e>
+      <e><p><l>ש<b/>עשרה</l><r>ישה<b/>עשר<s n="num"/><s n="f"/><s n="sp"/></r></p></e>
+      <!-- 500-->
+      <e><p><l>ש<b/>מאות</l><r>ש<b/>מאות<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+      <!-- 5000-->
+      <e><p><l>שת<b/>אלפים</l><r>שת<b/>אלפים<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
     </pardef>
     
-    <pardef n="חמישה__num">
-      <e><p><l/><r><s n="num"/><s n="m"/><s n="sp"/></r></p></e>
-      <e><p><l><b/>עשר</l><r><s n="num"/><s n="m"/><s n="sp"/></r></p></e>
-    </pardef>
-    <pardef n="חמש__num">
-      <e><p><l/><r><s n="num"/><s n="f"/><s n="sp"/></r></p></e>
-      <e><p><l><b/>עשרה</l><r><s n="num"/><s n="f"/><s n="sp"/></r></p></e>
-      <e><p><l><b/>מאות</l><r><s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
-      <e><p><l>ת<b/>אלפים</l><r><s n="num"/><s n="m"/><s n="sp"/></r></p></e>
-    </pardef>
     <pardef n="שמונ/ה__num">
+      <!-- 8-->
       <e><p><l>ה</l><r><s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+      <!-- 18-->
       <e><p><l>ה<b/>עשרה</l><r><s n="num"/><s n="f"/><s n="sp"/></r></p></e>
       <e><p><l>ה<b/>עשר</l><r><s n="num"/><s n="m"/><s n="sp"/></r></p></e>
+      <!-- 800-->
       <e><p><l>ה<b/>מאות</l><r><s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+      <!-- 8000-->
       <e><p><l>ת<b/>אלפים</l><r><s n="num"/><s n="m"/><s n="sp"/></r></p></e>
     </pardef>
     
     <pardef n="עשרים__num">
-      <e><p><l/><r/></p><par n="חמישה__num"/></e>
-      <e><p><l>ואחד</l><r>ואחד</r></p><par n="חמישה__num"/></e>
-      <e><p><l>ואחת</l><r>ואחת</r></p><par n="חמש__num"/></e>
-      <e><p><l>ושני</l><r>ושני</r></p><par n="שני/ים__num"/></e>
-      <e><p><l>ושתי</l><r>ושתי</r></p><par n="שתי/ים__num"/></e>
+      <!-- 20-->
+      <e><p><l/><r><s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+      <!-- 21..29-->
+      <e><p><l>ואח</l><r>ואח</r></p><par n="אחד__num"/></e>
+      <e><p><l>וש</l><r>וש</r></p><par n="ש/ניים__num"/></e>
       <e><p><l>ושלוש</l><r>ושלוש</r></p><par n="שלוש/ה__num"/></e>
       <e><p><l>וארבע</l><r>וארבע</r></p><par n="שלוש/ה__num"/></e>
-      <e><p><l>וחמישה</l><r>וחמישה</r></p><par n="חמישה__num"/></e>
-      <e><p><l>וחמש</l><r>וחמש</r></p><par n="חמש__num"/></e>
-      <e><p><l>ושישה</l><r>ושישה</r></p><par n="חמישה__num"/></e>
-      <e><p><l>ושש</l><r>ושש</r></p><par n="חמש__num"/></e>
+      <e><p><l>וחמ</l><r>וחמ</r></p><par n="חמ/ישה__num"/></e>
+      <e><p><l>וש</l><r>ושש</r></p><par n="חמ/ישה__num"/></e>
       <e><p><l>ושבע</l><r>ושבע</r></p><par n="שלוש/ה__num"/></e>
       <e><p><l>ושמונ</l><r>ושמונ</r></p><par n="שמונ/ה__num"/></e>
       <e><p><l>ותשע</l><r>ותשע</r></p><par n="שלוש/ה__num"/></e>
     </pardef>
     <pardef n="מאתיים__num">
-      <e><p><l/><r><s n="num"/><s n="sp"/></r></p></e>
+      <!-- 200-->
+      <e><p><l/><r><s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
     </pardef>
     <pardef n="מיליון__num">
+      <!-- 1M-->
       <e><p><l/><r><s n="num"/><s n="m"/><s n="sp"/></r></p></e>
     </pardef>
     
@@ -6730,20 +6738,16 @@
     
     <!-- SECTION: Numerals -->
     
-    <e lm="אחד" c="one (m)"><i>אחד</i><par n="אחד__num"/></e>
-    <e lm="אחד" c="one (f)"><i>אחת</i><par n="אחת__num"/></e>
-    <e lm="שתיים" c="two (m)"><i>שני</i><par n="שני/ים__num"/></e>
-    <e lm="שתיים" c="two (f)"><i>שתי</i><par n="שתי/ים__num"/></e>
-    <e lm="שלוש" c="three"><i>שלוש</i><par n="שלוש/ה__num"/></e>
-    <e lm="ארבע" c="four"><i>ארבע</i><par n="שלוש/ה__num"/></e>
-    <e lm="חמישה" c="five (m)"><i>חמישה</i><par n="חמישה__num"/></e>
-    <e lm="חמישה" c="five (f)"><i>חמש</i><par n="חמש__num"/></e>
-    <e lm="שישה" c="six (m)"><i>שישה</i><par n="חמישה__num"/></e>
-    <e lm="שישה" c="six (f)"><i>שש</i><par n="חמש__num"/></e>
-    <e lm="שבע" c="seven"><i>שבע</i><par n="שלוש/ה__num"/></e>
+    <e lm="אחד" c="one"><i>אח</i><par n="אחד__num"/></e>
+    <e lm="שניים" c="two"><i>ש</i><par n="ש/ניים__num"/></e>
+    <e lm="שלושה" c="three"><i>שלוש</i><par n="שלוש/ה__num"/></e>
+    <e lm="ארבעה" c="four"><i>ארבע</i><par n="שלוש/ה__num"/></e>
+    <e lm="חמישה" c="five"><i>חמ</i><par n="חמ/ישה__num"/></e>
+    <e lm="שישה" c="six"><i>ש</i><par n="חמ/ישה__num"/></e>
+    <e lm="שבעה" c="seven"><i>שבע</i><par n="שלוש/ה__num"/></e>
     <e lm="שמונה" c="eight"><i>שמונ</i><par n="שמונ/ה__num"/></e>
-    <e lm="תשע" c="nine"><i>תשע</i><par n="שלוש/ה__num"/></e>
-    <e lm="עשר" c="ten"><i>עשר</i><par n="שלוש/ה__num"/></e>
+    <e lm="תשעה" c="nine"><i>תשע</i><par n="שלוש/ה__num"/></e>
+    <e lm="עשרה" c="ten"><i>עשר</i><par n="שלוש/ה__num"/></e>
     <e lm="עשרים" c="twenty"><i>עשרים</i><par n="עשרים__num"/></e>
     <e lm="שלושים" c="thirty"><i>שלושים</i><par n="עשרים__num"/></e>
     <e lm="ארבעים" c="forty"><i>ארבעים</i><par n="עשרים__num"/></e>
