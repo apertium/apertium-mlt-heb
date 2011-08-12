@@ -67,7 +67,9 @@
      </def-attr>
     <def-attr n="poss">
        <attr-item tags="px1sg"/>
-       <attr-item tags="px2sg"/>
+       <attr-item tags="px2sg"/> <!-- maltese-only -->
+       <attr-item tags="px2sg_m"/> <!-- hebrew-only -->
+       <attr-item tags="px2sg_f"/> <!-- hebrew-only -->
        <attr-item tags="px3sg"/>
        <attr-item tags="px3sg_m"/>
        <attr-item tags="px3sg_f"/>
@@ -194,6 +196,38 @@
       </choose>    
     </def-macro>
 
+    <def-macro n="set_px_gen" npar="1" c="Hebrew has px2sg_m or px2sg_f, whereas Maltese has just px2sg;
+                                          similarly for px2pl, px3pl.
+                                          Default to _m, but if 'genero' is f, use _f.
+                                          (the 'genero' variable is set by the f_concord1 macro).">      
+      <choose>
+        <when>
+          <test><equal><clip pos="1" side="tl" part="poss"/><lit-tag v="px2sg"/></equal></test>
+          <let><clip pos="1" side="tl" part="poss"/><lit-tag v="px2sg_m"/></let>
+          <choose><when>
+            <test><equal><var n="genero"/><lit-tag v="f"/></equal></test>
+            <let><clip pos="1" side="tl" part="poss"/><lit-tag v="px2sg_f"/></let>
+          </when></choose>
+        </when>
+        <when>
+          <test><equal><clip pos="1" side="tl" part="poss"/><lit-tag v="px2pl"/></equal></test>
+          <let><clip pos="1" side="tl" part="poss"/><lit-tag v="px2pl_m"/></let>
+          <choose><when>
+            <test><equal><var n="genero"/><lit-tag v="f"/></equal></test>
+            <let><clip pos="1" side="tl" part="poss"/><lit-tag v="px2pl_f"/></let>
+          </when></choose>
+        </when>
+        <when>
+          <test><equal><clip pos="1" side="tl" part="poss"/><lit-tag v="px3pl"/></equal></test>
+          <let><clip pos="1" side="tl" part="poss"/><lit-tag v="px3pl_m"/></let>
+          <choose><when>
+            <test><equal><var n="genero"/><lit-tag v="f"/></equal></test>
+            <let><clip pos="1" side="tl" part="poss"/><lit-tag v="px3pl_f"/></let>
+          </when></choose>
+        </when>
+      </choose>
+    </def-macro>
+
   </section-def-macros>
   <section-rules>
     <rule comment="rule: adj">
@@ -245,6 +279,7 @@
          <pattern-item n="nom"/>
        </pattern>
        <action>
+         <call-macro n="set_px_gen"><with-param pos="1"/></call-macro>
          <out>
            <lu>
              <clip pos="1" side="tl" part="lemh"/>
@@ -265,6 +300,7 @@
          <pattern-item n="nom"/>
        </pattern>
        <action>
+         <call-macro n="set_px_gen"><with-param pos="2"/></call-macro>
          <out>
            <mlu>
              <lu>
@@ -289,6 +325,7 @@
          <pattern-item n="det"/>
        </pattern>
        <action>
+         <call-macro n="set_px_gen"><with-param pos="1"/></call-macro>
          <choose>
            <when>
              <test>
