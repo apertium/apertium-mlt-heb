@@ -300,6 +300,9 @@
       <!-- 1M-->
       <e><p><l/><r><s n="num"/><s n="m"/><s n="sp"/></r></p></e>
     </pardef>
+    <pardef n="XVI__num">
+      <e><p><l/><r><s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+    </pardef>
     
 
     <!-- SECTION: Nouns -->  
@@ -6768,6 +6771,14 @@
     <e lm="מיליארדים" c="billions"><i>מיליארדים</i><par n="מיליון__num"/></e>
     <e lm="טריליון" c="trillion"><i>טריליון</i><par n="מיליון__num"/></e>
     <e lm="טריליונים" c="trillions"><i>טריליונים</i><par n="מיליון__num"/></e>
+
+    <e lm="XVI" c=""><i>XVI</i><par n="XVI__num"/></e>
+    <e lm="II" c=""><i>II</i><par n="XVI__num"/></e>
+    <e lm="III" c=""><i>III</i><par n="XVI__num"/></e>
+    <e lm="IV" c=""><i>IV</i><par n="XVI__num"/></e>
+    <e lm="VI" c=""><i>VI</i><par n="XVI__num"/></e>
+    <e lm="XXIII" c=""><i>XXIII</i><par n="XVI__num"/></e>
+    <e lm="XII" c=""><i>XII</i><par n="XVI__num"/></e>
 
 
     <!-- SECTION: Nouns -->
