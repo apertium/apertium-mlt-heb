@@ -53,6 +53,7 @@ dev/inconsistency-summary.sh -text
 dev/missing-bidix-freq.sh -text
 dev/mt-he.inconsistency.sh -text
 dev/mt-he.interwiki.xml -text
+dev/mt-num.dix -text
 dev/mt_adj/adj_loops.sh -text
 dev/mt_adj/adj_suspected-ku-ka-ci.txt -text
 dev/mt_adj/adj_suspected-ku-ka-ci.verified.txt -text
