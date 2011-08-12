@@ -6731,15 +6731,15 @@
     <!-- SECTION: Numerals -->
     
     <e lm="אחד" c="one (m)"><i>אחד</i><par n="אחד__num"/></e>
-    <e lm="אחת" c="one (f)"><i>אחת</i><par n="אחת__num"/></e>
-    <e lm="שניים" c="two (m)"><i>שני</i><par n="שני/ים__num"/></e>
+    <e lm="אחד" c="one (f)"><i>אחת</i><par n="אחת__num"/></e>
+    <e lm="שתיים" c="two (m)"><i>שני</i><par n="שני/ים__num"/></e>
     <e lm="שתיים" c="two (f)"><i>שתי</i><par n="שתי/ים__num"/></e>
     <e lm="שלוש" c="three"><i>שלוש</i><par n="שלוש/ה__num"/></e>
     <e lm="ארבע" c="four"><i>ארבע</i><par n="שלוש/ה__num"/></e>
     <e lm="חמישה" c="five (m)"><i>חמישה</i><par n="חמישה__num"/></e>
-    <e lm="חמש" c="five (f)"><i>חמש</i><par n="חמש__num"/></e>
+    <e lm="חמישה" c="five (f)"><i>חמש</i><par n="חמש__num"/></e>
     <e lm="שישה" c="six (m)"><i>שישה</i><par n="חמישה__num"/></e>
-    <e lm="שש" c="six (f)"><i>שש</i><par n="חמש__num"/></e>
+    <e lm="שישה" c="six (f)"><i>שש</i><par n="חמש__num"/></e>
     <e lm="שבע" c="seven"><i>שבע</i><par n="שלוש/ה__num"/></e>
     <e lm="שמונה" c="eight"><i>שמונ</i><par n="שמונ/ה__num"/></e>
     <e lm="תשע" c="nine"><i>תשע</i><par n="שלוש/ה__num"/></e>
