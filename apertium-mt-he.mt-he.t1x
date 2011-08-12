@@ -74,8 +74,12 @@
        <attr-item tags="px3sg_m"/>
        <attr-item tags="px3sg_f"/>
        <attr-item tags="px1pl"/>
-       <attr-item tags="px2pl"/>
-       <attr-item tags="px3pl"/>
+       <attr-item tags="px2pl"/> <!-- maltese only -->
+       <attr-item tags="px2pl_m"/> <!-- hebrew only -->
+       <attr-item tags="px2pl_f"/> <!-- hebrew only -->
+       <attr-item tags="px3pl"/> <!-- maltese only -->
+       <attr-item tags="px3pl_m"/> <!-- hebrew only -->
+       <attr-item tags="px3pl_f"/> <!-- hebrew only -->
     </def-attr>
     <def-attr n="pers">
        <attr-item tags="p1"/>
