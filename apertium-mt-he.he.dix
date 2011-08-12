@@ -241,6 +241,9 @@
       <e><p><l>נים עשר<b/>עשרה</l><r><s n="num"/><s n="m"/><s n="sp"/></r></p></e>
       <e><p><l>תים עשרה<b/>עשר</l><r><s n="num"/><s n="f"/><s n="sp"/></r></p></e>
     </pardef>
+    <pardef n="זוג__num">
+      <e><p><l/><r><s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+    </pardef>
     <pardef n="שלוש/ה__num">
       <!-- 3-->
       <e><p><l/><r><s n="num"/><s n="f"/><s n="sp"/></r></p></e>
@@ -6743,6 +6746,7 @@
     
     <e lm="אחד" c="one"><i>אח</i><par n="אחד__num"/></e>
     <e lm="שניים" c="two"><i>ש</i><par n="ש/ניים__num"/></e>
+    <e lm="זוג" c="couple"><i>זוג</i><par n="זוג__num"/></e>
     <e lm="שלושה" c="three"><i>שלוש</i><par n="שלוש/ה__num"/></e>
     <e lm="ארבעה" c="four"><i>ארבע</i><par n="שלוש/ה__num"/></e>
     <e lm="חמישה" c="five"><i>חמ</i><par n="חמ/ישה__num"/></e>
