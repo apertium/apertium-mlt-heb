@@ -501,15 +501,66 @@
         <choose>
           <when>
             <test>
-              <equal>
-                <clip pos="1" side="tl" part="lemh"/>
-                <lit v="ב"/>
-              </equal>
+              <or>
+                <equal>
+                  <clip pos="1" side="tl" part="lemh"/>
+                  <lit v="ב"/>
+                </equal>
+                <equal>
+                  <clip pos="1" side="tl" part="lemh"/>
+                  <lit v="אחרי"/>
+                </equal>
+                <equal>
+                  <clip pos="1" side="tl" part="lemh"/>
+                  <lit v="את"/>
+                </equal>
+                <equal>
+                  <clip pos="1" side="tl" part="lemh"/>
+                  <lit v="בין"/>
+                </equal>
+                <equal>
+                  <clip pos="1" side="tl" part="lemh"/>
+                  <lit v="כמו"/>
+                </equal>
+                <equal>
+                  <clip pos="1" side="tl" part="lemh"/>
+                  <lit v="ל"/>
+                </equal>
+                <equal>
+                  <clip pos="1" side="tl" part="lemh"/>
+                  <lit v="לאחר"/>
+                </equal>
+                <equal>
+                  <clip pos="1" side="tl" part="lemh"/>
+                  <lit v="לפני"/>
+                </equal>
+                <equal>
+                  <clip pos="1" side="tl" part="lemh"/>
+                  <lit v="מ"/>
+                </equal>
+                <equal>
+                  <clip pos="1" side="tl" part="lemh"/>
+                  <lit v="מאז"/>
+                </equal>
+                <equal>
+                  <clip pos="1" side="tl" part="lemh"/>
+                  <lit v="עד"/>
+                </equal>
+                <equal>
+                  <clip pos="1" side="tl" part="lemh"/>
+                  <lit v="של"/>
+                </equal>
+                <equal>
+                  <clip pos="1" side="tl" part="lemh"/>
+                  <lit v="ב"/>
+                </equal>
+              </or>
             </test>
             <out>
               <lu>
                 <clip pos="1" side="tl" part="whole"/>
               </lu>
+              <b pos="1"/>
               <lu>
                 <clip pos="3" side="tl" part="whole"/>
               </lu>
