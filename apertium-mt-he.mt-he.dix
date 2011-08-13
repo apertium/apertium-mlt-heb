@@ -1288,7 +1288,9 @@
      <e><p><l>sistema<s n="n"/><s n="f"/></l><r>מערכת<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>kappella<s n="n"/><s n="f"/></l><r>תפילה<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>gazzetta<s n="n"/><s n="f"/></l><r>עיתון<s n="n"/><s n="m"/></r></p></e>
-     <e><p><l>elezzjoni<s n="n"/><s n="f"/></l><r>בחירה<s n="n"/><s n="f"/></r></p></e>
+     <!-- TODO this ignores elezzjoni<sg>. Do sg -> GD and add a rule to determine number -->
+     <e><p><l>elezzjoni<s n="n"/><s n="f"/><s n="sg"/></l><r>בחירה<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+     <e><p><l>elezzjoni<s n="n"/><s n="f"/><s n="pl"/></l><r>בחירה<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
      <e><p><l>liġi<s n="n"/><s n="f"/></l><r>חוק<s n="n"/><s n="m"/></r></p></e>
      <e><p><l>ħaġa<s n="n"/><s n="f"/></l><r>דבר<s n="n"/><s n="m"/></r></p></e>
      <e><p><l>ordni<s n="n"/><s n="f"/></l><r>סדר<s n="n"/><s n="m"/></r></p></e>
