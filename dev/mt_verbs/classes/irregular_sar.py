@@ -5,7 +5,7 @@
 def main(stem, root, vowels):
 	sp = {}
 
-	sp['inf'] = stem
+	# sp['inf'] = stem
 	sp['past.p1.sg'] = 'sirt'
 	sp['past.p2.sg'] = 'sirt'
 	sp['past.p3.m.sg'] = 'sar'

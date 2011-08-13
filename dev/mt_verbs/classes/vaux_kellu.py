@@ -5,7 +5,7 @@
 def main(stem, root, vowels):
 	sp = {}
 
-	sp['inf'] = stem
+	# sp['inf'] = stem
 
         sp['past.p1.sg'] = [
             'ikolli',

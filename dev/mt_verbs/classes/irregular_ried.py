@@ -45,7 +45,7 @@ def add_probjs(feats, form, short_form=None):
 def main(stem, root, vowels):
 	sp = {}
 
-	sp['inf'] = stem
+	# sp['inf'] = stem
 	sp['pres.p1.sg'] = ['irrid', ('irrid', 'LR'), ('rrid', 'LR'), ('irrid', 'RL')]
 	sp['pres.p2.sg'] = 'trid'
 	sp['pres.p3.m.sg'] = ['irid', ('irid', 'LR'), ('jrid', 'LR'), ('irid', 'RL')]

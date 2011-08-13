@@ -90,7 +90,7 @@ def pp_pl(stem, root, vowels):
 def main(stem, root, vowels):
 	sp = {};
 	
-	sp['inf'] = stem;
+	# sp['inf'] = stem;
 	sp['past.p1.sg'] = past_p1_sg(stem, root, vowels);
 	sp['past.p2.sg'] = past_p2_sg(stem, root, vowels);
 	sp['past.p3.m.sg'] = stem;

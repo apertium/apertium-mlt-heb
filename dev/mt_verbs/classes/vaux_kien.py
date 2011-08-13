@@ -13,7 +13,7 @@
 def main(stem, root, vowels):
     sp = {}
 
-    sp['inf'] = stem
+    # sp['inf'] = stem
     sp['past.p1.sg'] = 'inkun'
     sp['past.p1.sg'] = 'jnkun'
     sp['past.p2.sg'] = 'tkun' # thun

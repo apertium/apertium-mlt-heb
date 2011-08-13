@@ -57,7 +57,7 @@ def add_probjs(feats, form, short_form=None):
 def main(stem, root, vowels):
 	sp = {}
 
-	sp['inf'] = stem
+	# sp['inf'] = stem
 	sp['pres.p1.sg'] = 'naf'
 	sp['pres.p2.sg'] = 'taf'
 	sp['pres.p3.m.sg'] = 'jaf'

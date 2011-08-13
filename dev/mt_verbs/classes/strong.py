@@ -155,7 +155,7 @@ def ger(stem, root, vowels):
 def main(stem, root, vowels):
 	sp = {}
 
-	sp['inf'] = stem
+	# sp['inf'] = stem
 	sp.update( past_p1_sg(stem, root, vowels) )
 	sp.update( past_p2_sg(stem, root, vowels) )
 	sp.update( past_p3_m_sg(stem, root, vowels) )

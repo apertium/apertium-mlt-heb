@@ -80,7 +80,7 @@ def ger(stem, root, vowels):
 def main(stem, root, vowels):
 	sp = {}
 
-	sp['inf'] = stem;
+	# sp['inf'] = stem;
 	sp['past.p3.m.sg'] = past_p3_m_sg(stem, root, vowels)
 	sp['past.p3.f.sg'] = past_p3_f_sg(stem, root, vowels)
 	sp['past.p3.pl'] = past_p3_pl(stem, root, vowels)
