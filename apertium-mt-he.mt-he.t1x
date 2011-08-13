@@ -13,6 +13,7 @@
       <cat-item tags="n.*"/>
     </def-cat>
     <def-cat n="numeral">
+      <cat-item tags="num"/>
       <cat-item tags="num.*"/>
     </def-cat>
     <def-cat n="adj">
