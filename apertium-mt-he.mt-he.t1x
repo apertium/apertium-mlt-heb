@@ -25,6 +25,10 @@
     <def-cat n="pron">
       <cat-item tags="prn.*"/>
     </def-cat>
+    <def-cat n="np">
+      <cat-item tags="np"/>
+      <cat-item tags="np.*"/>
+    </def-cat>
     <def-cat n="qed">
       <cat-item lemma="qed" tags="adv"/>
     </def-cat>
@@ -585,7 +589,6 @@
       </action>
     </rule>
 
-
     <rule comment="rule: numeral">
        <pattern>
          <pattern-item n="numeral"/>
@@ -598,6 +601,20 @@
            </lu>
          </out>
        </action>
+    </rule>
+
+    <rule comment="rule: artic np">
+      <pattern>
+        <pattern-item n="artic"/>
+        <pattern-item n="np"/>
+      </pattern>
+      <action>
+        <out>
+          <lu>
+            <clip pos="2" side="tl" part="whole"/>
+          </lu>
+        </out>
+      </action>
     </rule>
 
     <rule comment="rule: qed">
