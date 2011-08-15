@@ -1,5 +1,7 @@
 #!/bin/bash
 
+if [ $# -gt 0 ]; then FILTER=$@; else FILTER="."; fi
+
 DEV=$(dirname $0)
 TMP=/tmp
 ALPHABET="ABĊDEFĠGGHĦIIJKLMNOPQRSTUVWXZŻabċdefġgħghieiejklmnopqrstuvwxzżycYCáéíóúàèìòù"
@@ -17,7 +19,7 @@ transfer () {
 GENBIN=${DEV}/../${PREFIX}.autogen.bin
 
 # Find all forms and analyses of the source dictionary:
-lt-expand $ANADIX |\
+lt-expand $ANADIX | grep $FILTER |\
         # Print analysis, but only of lines like "form:lemma<tag>" or "form:>:lemma<tag>" (characters 'm' and 'l' are in $ALPHABET)
         # turning analysis into the format ^lemma<tag>$
         awk -vPATTERN="[$ALPHABET]:(>:)?[$ALPHABET]" -F':|:>:' '$0 ~ PATTERN { gsub("/","\\/",$2); print "^" $2 "$ ^.<sent>$"; }' |\
