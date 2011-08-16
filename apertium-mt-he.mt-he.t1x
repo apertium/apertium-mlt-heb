@@ -39,6 +39,12 @@
     <def-cat n="vrb">
       <cat-item tags="vblex.*"/>
     </def-cat>
+    <def-cat n="kien">
+      <cat-item tags="vaux.*" lemma="kien"/>
+    </def-cat>
+    <def-cat n="kellu">
+      <cat-item tags="vaux.*" lemma="kellu"/>
+    </def-cat>
   </section-def-cats>
   <section-def-attrs>
     <def-attr n="gen">
@@ -717,5 +723,22 @@
          </out>
        </action>
     </rule>
+
+    <rule comment="rule: kien ('to be')">
+       <pattern>
+         <pattern-item n="kien"/>
+       </pattern>
+       <action>
+       </action>
+    </rule>
+
+    <rule comment="rule: kellu ('to have')">
+       <pattern>
+         <pattern-item n="kellu"/>
+       </pattern>
+       <action>
+       </action>
+    </rule>
+
   </section-rules>
 </transfer>
