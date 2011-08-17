@@ -46,6 +46,8 @@
       <cat-item tags="vaux.*" lemma="kellu"/>
     </def-cat>
   </section-def-cats>
+
+
   <section-def-attrs>
     <def-attr n="gen">
        <attr-item tags="m"/>
@@ -115,10 +117,14 @@
        <attr-item tags="vblex"/>
     </def-attr>
   </section-def-attrs>
+
+
   <section-def-vars>
     <def-var n="numero"/>
     <def-var n="genero"/>
   </section-def-vars>
+
+
   <section-def-macros>
     <def-macro n="f_concord1" npar="1">
       
@@ -249,7 +255,41 @@
       </choose>
     </def-macro>
 
+    <def-macro n="modify_verb_and_genero" npar="1" c="Guess verb gender, remove person from present, no gender for inf/p1">
+      <choose><when c="Default genero to 'm' unless set to 'm' or 'f'">
+        <test><not><or>
+          <equal><var n="genero"/><lit-tag v="m"/></equal>
+          <equal><var n="genero"/><lit-tag v="f"/></equal>
+        </or></not></test>
+        <let>
+          <var n="genero"/><lit-tag v="m"/>
+        </let>
+      </when></choose>
+
+      <choose><when c="Hebrew present tense verbs have no person distinction (but have gender)">
+        <test><equal>
+          <clip pos="1" side="tl" part="temps"/><lit-tag v="pres"/>
+        </equal></test>
+        <let>
+          <clip pos="1" side="tl" part="pers"/><lit v=""/>
+        </let>
+      </when></choose>
+
+      <choose><when c="infinitives and first-persons have no gender
+                       (do this after removing person from the present, which does have gender)">
+        <test><or>
+          <equal><clip pos="1" side="tl" part="temps"/><lit-tag v="inf"/></equal>
+          <equal><clip pos="1" side="tl" part="pers"/><lit-tag v="p1"/></equal>
+        </or></test>
+        <let>
+          <var n="genero"/><lit v=""/>
+        </let>
+      </when></choose>
+    </def-macro>
+
   </section-def-macros>
+
+
   <section-rules>
     <rule comment="rule: adj">
        <pattern>
@@ -653,21 +693,10 @@
        </pattern>
        <action>
          <let>
-           <var n="genero"/><lit-tag v="m"/>
-         </let>
-         <let>
            <clip pos="2" side="tl" part="temps"/><lit-tag v="fut"/>
          </let>
-         <choose><when c="infinitives and first-persons have no gender">
-           <test><or>
-             <equal><clip pos="1" side="tl" part="temps"/><lit-tag v="inf"/></equal>
-             <equal><clip pos="1" side="tl" part="pers"/><lit-tag v="p1"/></equal>
-           </or></test>
-           <let>
-             <var n="genero"/><lit v=""/>             
-           </let>
-         </when></choose>
-         
+         <call-macro n="modify_verb_and_genero"><with-param pos="1"/></call-macro>
+
          <out>
            <lu>
              <clip pos="2" side="tl" part="lemh"/>
@@ -688,28 +717,8 @@
          <pattern-item n="vrb"/>
        </pattern>
        <action>
-         <let>
-           <var n="genero"/><lit-tag v="m"/>
-         </let>
-         <choose><when c="infinitives and first-persons have no gender">
-           <test><or>
-             <equal><clip pos="1" side="tl" part="temps"/><lit-tag v="inf"/></equal>
-             <equal><clip pos="1" side="tl" part="pers"/><lit-tag v="p1"/></equal>
-           </or></test>
-           <let>
-             <var n="genero"/><lit v=""/>             
-           </let>
-         </when></choose>
-         
-         <choose><when c="Hebrew present tense verbs have no person distinction">
-           <test><equal>
-             <clip pos="1" side="tl" part="temps"/><lit-tag v="pres"/>
-           </equal></test>
-           <let>
-             <clip pos="1" side="tl" part="pers"/><lit v=""/>
-           </let>
-         </when></choose>
-         
+         <call-macro n="modify_verb_and_genero"><with-param pos="1"/></call-macro>
+
          <out>
            <lu>
              <clip pos="1" side="tl" part="lemh"/>
