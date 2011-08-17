@@ -3724,7 +3724,7 @@
      <e><p><l>infurza<s n="vblex"/></l><r>אכף<s n="vblex"/></r></p></e>
      <e><p><l>vjola<s n="vblex"/></l><r>הפר<s n="vblex"/></r></p></e>
      <e><p><l>vvjola<s n="vblex"/></l><r>הפר<s n="vblex"/></r></p></e>
-     <e><p><l>ikklassifika<s n="vblex"/></l><r><s n="vblex"/></r></p></e>
+     <!-- <e><p><l>ikklassifika<s n="vblex"/></l><r><s n="vblex"/></r></p></e> --> <!--TODO-->
      <e><p><l>ra<s n="vblex"/></l><r>ראה<s n="vblex"/></r></p></e>
      <e><p><l>qal<s n="vblex"/></l><r>אמר<s n="vblex"/></r></p></e>
      <e><p><l>gie<s n="vblex"/></l><r>בא<s n="vblex"/></r></p></e>
