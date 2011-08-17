@@ -299,6 +299,16 @@
 
       </when></choose>
 
+      <choose><when c="Present (ie. imperfect) might correspond with gerund in Hebrew(?) TODO check this
+                       Also, append number (default sg), since ger has no number.">
+        <test><equal>
+          <clip pos="1" side="tl" part="temps"/><lit-tag v="ger"/>
+        </equal></test>
+        <let>
+          <clip pos="1" side="tl" part="temps"/><lit-tag v="pres.sg"/>
+        </let>
+      </when></choose>
+
       <choose><when c="Hebrew present tense verbs have no person distinction (but have gender)">
         <test><equal>
           <clip pos="1" side="tl" part="temps"/><lit-tag v="pres"/>
