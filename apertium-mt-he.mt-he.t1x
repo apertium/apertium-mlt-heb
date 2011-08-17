@@ -83,6 +83,7 @@
         <attr-item tags="inf"/>
         <attr-item tags="ger"/>
         <attr-item tags="pprs"/>
+        <attr-item tags="imp"/>
      </def-attr>
     <def-attr n="poss">
        <attr-item tags="px1sg"/>
