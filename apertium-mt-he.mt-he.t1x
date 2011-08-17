@@ -328,6 +328,20 @@
           <var n="genero"/><lit v=""/>
         </let>
       </when></choose>
+
+      <!-- <choose><when c="BUG TODO: The verbs from hspell don't have the sg tag in imp.p2 or past.p2, -->
+      <!--                  uncomment this for bug compatibility:"> -->
+      <!--   <test><and> -->
+      <!--     <equal><clip pos="1" side="tl" part="pers"/><lit-tag v="p2"/></equal> -->
+      <!--     <or> -->
+      <!--       <equal><clip pos="1" side="tl" part="temps"/><lit-tag v="imp"/></equal> -->
+      <!--       <equal><clip pos="1" side="tl" part="temps"/><lit-tag v="past"/></equal> -->
+      <!--     </or> -->
+      <!--   </and></test> -->
+      <!--   <let> -->
+      <!--     <clip pos="1" side="tl" part="nbr"/><lit v=""/> -->
+      <!--   </let> -->
+      <!-- </when></choose> -->      
     </def-macro>
 
 
