@@ -20015,7 +20015,37 @@
     <e lm="שם"><i>שם</i><par n="עכשיו__adv"/></e>
     <e lm="תמיד"><i>תמיד</i><par n="עכשיו__adv"/></e>
 
-
+    <!-- SECTION: manually created verb entries that weren't in hspell: -->
+    <e lm="מחא כפיים"><p><l>מחא</l><r>מחא<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p><p><l><b/>כפיים</l><r><g><b/>כפיים</g></r></p></e>
+    <e lm="מחא כפיים"><p><l>מחאתי</l><r>מחא<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p><p><l><b/>כפיים</l><r><g><b/>כפיים</g></r></p></e>
+    <e lm="מחא כפיים"><p><l>מחאת</l><r>מחא<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/><s n="sg"/></r></p><p><l><b/>כפיים</l><r><g><b/>כפיים</g></r></p></e>
+    <e lm="מחא כפיים"><p><l>מחאת</l><r>מחא<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/><s n="sg"/></r></p><p><l><b/>כפיים</l><r><g><b/>כפיים</g></r></p></e>
+    <e lm="מחא כפיים"><p><l>מחאה</l><r>מחא<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r></p><p><l><b/>כפיים</l><r><g><b/>כפיים</g></r></p></e>
+    <e lm="מחא כפיים"><p><l>מחאנו</l><r>מחא<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p><p><l><b/>כפיים</l><r><g><b/>כפיים</g></r></p></e>
+    <e lm="מחא כפיים"><p><l>מחאתם</l><r>מחא<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/><s n="pl"/></r></p><p><l><b/>כפיים</l><r><g><b/>כפיים</g></r></p></e>
+    <e lm="מחא כפיים"><p><l>מחאתן</l><r>מחא<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/><s n="pl"/></r></p><p><l><b/>כפיים</l><r><g><b/>כפיים</g></r></p></e>
+    <e lm="מחא כפיים"><p><l>מחאו</l><r>מחא<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="pl"/></r></p><p><l><b/>כפיים</l><r><g><b/>כפיים</g></r></p></e>
+    <e lm="מחא כפיים"><p><l>מחאו</l><r>מחא<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="pl"/></r></p><p><l><b/>כפיים</l><r><g><b/>כפיים</g></r></p></e>
+    <e lm="מחא כפיים"><p><l>למחוא</l><r>מחא<s n="vblex"/><s n="inf"/></r></p><p><l><b/>כפיים</l><r><g><b/>כפיים</g></r></p></e>
+    <e lm="מחא כפיים"><p><l>מחא</l><r>מחא<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/><s n="sg"/></r></p><p><l><b/>כפיים</l><r><g><b/>כפיים</g></r></p></e>
+    <e lm="מחא כפיים"><p><l>מחאי</l><r>מחא<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/><s n="sg"/></r></p><p><l><b/>כפיים</l><r><g><b/>כפיים</g></r></p></e>
+    <e lm="מחא כפיים"><p><l>מחאו</l><r>מחא<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/><s n="pl"/></r></p><p><l><b/>כפיים</l><r><g><b/>כפיים</g></r></p></e>
+    <e lm="מחא כפיים"><p><l>מחאנה</l><r>מחא<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/><s n="pl"/></r></p><p><l><b/>כפיים</l><r><g><b/>כפיים</g></r></p></e>
+    <e lm="מחא כפיים"><p><l>אמחא</l><r>מחא<s n="vblex"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p><p><l><b/>כפיים</l><r><g><b/>כפיים</g></r></p></e>
+    <e lm="מחא כפיים"><p><l>תמחא</l><r>מחא<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/><s n="sg"/></r></p><p><l><b/>כפיים</l><r><g><b/>כפיים</g></r></p></e>
+    <e lm="מחא כפיים"><p><l>תמחאי</l><r>מחא<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/><s n="sg"/></r></p><p><l><b/>כפיים</l><r><g><b/>כפיים</g></r></p></e>
+    <e lm="מחא כפיים"><p><l>ימחא</l><r>מחא<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="sg"/></r></p><p><l><b/>כפיים</l><r><g><b/>כפיים</g></r></p></e>
+    <e lm="מחא כפיים"><p><l>תמחא</l><r>מחא<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="sg"/></r></p><p><l><b/>כפיים</l><r><g><b/>כפיים</g></r></p></e>
+    <e lm="מחא כפיים"><p><l>נמחא</l><r>מחא<s n="vblex"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p><p><l><b/>כפיים</l><r><g><b/>כפיים</g></r></p></e>
+    <e lm="מחא כפיים"><p><l>תמחאו</l><r>מחא<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/><s n="pl"/></r></p><p><l><b/>כפיים</l><r><g><b/>כפיים</g></r></p></e>
+    <e lm="מחא כפיים"><p><l>תמחאנה</l><r>מחא<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/><s n="pl"/></r></p><p><l><b/>כפיים</l><r><g><b/>כפיים</g></r></p></e>
+    <e lm="מחא כפיים"><p><l>ימחאו</l><r>מחא<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="pl"/></r></p><p><l><b/>כפיים</l><r><g><b/>כפיים</g></r></p></e>
+    <e lm="מחא כפיים"><p><l>תמחאנה</l><r>מחא<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="pl"/></r></p><p><l><b/>כפיים</l><r><g><b/>כפיים</g></r></p></e>
+    <e lm="מחא כפיים"><p><l>מוחא</l><r>מחא<s n="vblex"/><s n="pres"/><s n="m"/><s n="sg"/></r></p><p><l><b/>כפיים</l><r><g><b/>כפיים</g></r></p></e>
+    <e lm="מחא כפיים"><p><l>מוחאת</l><r>מחא<s n="vblex"/><s n="pres"/><s n="f"/><s n="sg"/></r></p><p><l><b/>כפיים</l><r><g><b/>כפיים</g></r></p></e>
+    <e lm="מחא כפיים"><p><l>מוחאים</l><r>מחא<s n="vblex"/><s n="pres"/><s n="m"/><s n="pl"/></r></p><p><l><b/>כפיים</l><r><g><b/>כפיים</g></r></p></e>
+    <e lm="מחא כפיים"><p><l>מוחאות</l><r>מחא<s n="vblex"/><s n="pres"/><s n="f"/><s n="pl"/></r></p><p><l><b/>כפיים</l><r><g><b/>כפיים</g></r></p></e>
+    <!-- /manually created verbs -->
 
 
 
@@ -22477,6 +22507,36 @@
 <e lm="מיהר"><p><l>ממהרת</l><r>מיהר<s n="vblex"/><s n="pres"/><s n="f"/><s n="sg"/></r></p></e>
 <e lm="מיהר"><p><l>ממהרים</l><r>מיהר<s n="vblex"/><s n="pres"/><s n="m"/><s n="pl"/></r></p></e>
 <e lm="מיהר"><p><l>ממהרות</l><r>מיהר<s n="vblex"/><s n="pres"/><s n="f"/><s n="pl"/></r></p></e>
+
+<e lm="מחא"><p><l>מחא</l><r>מחא<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="מחא"><p><l>מחאתי</l><r>מחא<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="מחא"><p><l>מחאת</l><r>מחא<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="מחא"><p><l>מחאת</l><r>מחא<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="מחא"><p><l>מחאה</l><r>מחא<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="מחא"><p><l>מחאנו</l><r>מחא<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="מחא"><p><l>מחאתם</l><r>מחא<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="מחא"><p><l>מחאתן</l><r>מחא<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="מחא"><p><l>מחאו</l><r>מחא<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="מחא"><p><l>מחאו</l><r>מחא<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="מחא"><p><l>למחוא</l><r>מחא<s n="vblex"/><s n="inf"/></r></p></e>
+<e lm="מחא"><p><l>מחא</l><r>מחא<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="מחא"><p><l>מחאי</l><r>מחא<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="מחא"><p><l>מחאו</l><r>מחא<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="מחא"><p><l>מחאנה</l><r>מחא<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="מחא"><p><l>אמחא</l><r>מחא<s n="vblex"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="מחא"><p><l>תמחא</l><r>מחא<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="מחא"><p><l>תמחאי</l><r>מחא<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="מחא"><p><l>ימחא</l><r>מחא<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="מחא"><p><l>תמחא</l><r>מחא<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="מחא"><p><l>נמחא</l><r>מחא<s n="vblex"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
+<e lm="מחא"><p><l>תמחאו</l><r>מחא<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="מחא"><p><l>תמחאנה</l><r>מחא<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="מחא"><p><l>ימחאו</l><r>מחא<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="מחא"><p><l>תמחאנה</l><r>מחא<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="מחא"><p><l>מוחא</l><r>מחא<s n="vblex"/><s n="pres"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="מחא"><p><l>מוחאת</l><r>מחא<s n="vblex"/><s n="pres"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="מחא"><p><l>מוחאים</l><r>מחא<s n="vblex"/><s n="pres"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="מחא"><p><l>מוחאות</l><r>מחא<s n="vblex"/><s n="pres"/><s n="f"/><s n="pl"/></r></p></e>
 
 <e lm="מכר"><p><l>מכר</l><r>מכר<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
 <e lm="מכר"><p><l>מכרתי</l><r>מכר<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
@@ -27483,6 +27543,7 @@
 <e lm="התקמצן"><p><l>מתקמצנים</l><r>התקמצן<s n="vblex"/><s n="pres"/><s n="m"/><s n="pl"/></r></p></e>
 <e lm="התקמצן"><p><l>מתקמצנות</l><r>התקמצן<s n="vblex"/><s n="pres"/><s n="f"/><s n="pl"/></r></p></e>
     <!-- /verbs -->
+
   </section>
 
   <!-- Post-blank words -->
