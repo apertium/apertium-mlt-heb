@@ -328,14 +328,14 @@
 <e>       <p><l>disgħin<s n="num"/></l>     <r>תשעים<s n="num"/></r></p></e>
 
 <!-- 100, 200, 1000, 2000 -->
-<e>       <p><l>mija<s n="num"/></l>        <r>מאה<s n="num"/></r></p><par n="mf_m_f"/></e>
-<e>       <p><l>mitejn<s n="num"/></l>      <r>מאתיים<s n="num"/></r></p><par n="mf_m_f"/></e>
-<e>       <p><l>elf<s n="num"/></l>         <r>אלף<s n="num"/></r></p><par n="mf_m_f"/></e>
-<e>       <p><l>elfejn<s n="num"/></l>      <r>אלפיים<s n="num"/></r></p><par n="mf_m_f"/></e>
+<e>       <p><l>mija<s n="num"/></l>        <r>מאה<s n="num"/></r></p></e>
+<e>       <p><l>mitejn<s n="num"/></l>      <r>מאתיים<s n="num"/></r></p></e>
+<e>       <p><l>elf<s n="num"/></l>         <r>אלף<s n="num"/></r></p></e>
+<e>       <p><l>elfejn<s n="num"/></l>      <r>אלפיים<s n="num"/></r></p></e>
 
-<e>       <p><l>miljun<s n="num"/></l><r>מיליון<s n="num"/></r></p><par n="mf_m_f"/></e>
-<e>       <p><l>biljun<s n="num"/></l>      <r>מיליארד<s n="num"/></r></p><par n="mf_m_f"/></e>
-<e>       <p><l>triljun<s n="num"/></l>     <r>טריליון<s n="num"/></r></p><par n="mf_m_f"/></e>
+<e>       <p><l>miljun<s n="num"/></l><r>מיליון<s n="num"/></r></p></e>
+<e>       <p><l>biljun<s n="num"/></l>      <r>מיליארד<s n="num"/></r></p></e>
+<e>       <p><l>triljun<s n="num"/></l>     <r>טריליון<s n="num"/></r></p></e>
 
 <!-- one pair, two pairs? -->
 <e>       <p><l>żewġ<s n="num"/></l>        <r>זוג<s n="num"/></r></p></e><!-- TODO -->

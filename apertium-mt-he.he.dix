@@ -28,6 +28,7 @@
     <sdef n="qnt"         c="Quantative"/>
     
     <sdef n="sg"          c="Singular"/>
+    <sdef n="du"          c="Dual"/>
     <sdef n="pl"          c="Plural"/>
     <sdef n="sp"          c="Singular / plural"/>
     
@@ -315,14 +316,25 @@
   <e><p><l>ותשע</l><r>ותשע</r></p><par n="שלוש/ה_/עשר__num"/></e>
 </pardef>
 
-    <pardef n="מאתיים__num">
-      <!-- 200-->
-      <e><p><l/><r><s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+    <pardef n="מא/ה__num" c="100">
+      <e>   <p><l>ה</l>     <r>ה<s n="num"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e>   <p><l>תיים</l>  <r>ה<s n="num"/><s n="mf"/><s n="du"/></r></p></e>
+      <e>   <p><l>ות</l>    <r>ה<s n="num"/><s n="mf"/><s n="pl"/></r></p></e>
     </pardef>
-    <pardef n="מיליון__num">
-      <!-- 1M-->
-      <e><p><l/><r><s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+    <pardef n="אל/ף__num" c="1000">
+      <e>   <p><l>ף</l>     <r>ף<s n="num"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e>   <p><l>פיים</l>  <r>ף<s n="num"/><s n="mf"/><s n="du"/></r></p></e>
+      <e>   <p><l>פים</l>   <r>ף<s n="num"/><s n="mf"/><s n="pl"/></r></p></e>
     </pardef>
+    <pardef n="מיליו/ן__num" c="million/trillion">
+      <e>   <p><l>ן</l>     <r>ן<s n="num"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e>   <p><l>נים</l>   <r>ן<s n="num"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
+    <pardef n="מיליארד__num" c="billion">
+      <e>   <p><l></l>      <r><s n="num"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e>   <p><l>ים</l>    <r><s n="num"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
+    
     <pardef n="XVI__num">
       <e><p><l/><r><s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
     </pardef>
@@ -6811,20 +6823,12 @@
     <e lm="שמונים" c="eighty"><i>שמונים</i><par n="עשרים__num"/></e>
     <e lm="תשעים" c="ninety"><i>תשעים</i><par n="עשרים__num"/></e>
     
-    <e lm="מאה" c="hundred"><i>מאה</i><par n="מיליון__num"/></e>
-    <e lm="מאתיים" c="two hundreds"><i>מאתיים</i><par n="מאתיים__num"/></e>
-    <e lm="מאות" c="hundreds"><i>מאות</i><par n="מיליון__num"/></e>
+    <e lm="מאה" c="hundred"><i>מא</i><par n="מא/ה__num"/></e>
+    <e lm="אלף" c="thousand"><i>אל</i><par n="אל/ף__num"/></e>
     
-    <e lm="אלף" c="thousand"><i>אלף</i><par n="מיליון__num"/></e>
-    <e lm="אלפיים" c="two thousands"><i>אלפיים</i><par n="מאתיים__num"/></e>
-    <e lm="אלפים" c="thousands"><i>אלפים</i><par n="מיליון__num"/></e>
-    
-    <e lm="מיליון" c="million"><i>מיליון</i><par n="מיליון__num"/></e>
-    <e lm="מיליונים" c="millions"><i>מיליונים</i><par n="מיליון__num"/></e>
-    <e lm="מיליארד" c="billion"><i>מיליארד</i><par n="מיליון__num"/></e>
-    <e lm="מיליארדים" c="billions"><i>מיליארדים</i><par n="מיליון__num"/></e>
-    <e lm="טריליון" c="trillion"><i>טריליון</i><par n="מיליון__num"/></e>
-    <e lm="טריליונים" c="trillions"><i>טריליונים</i><par n="מיליון__num"/></e>
+    <e lm="מיליון" c="million"><i>מיליו</i><par n="מיליו/ן__num"/></e>
+    <e lm="מיליארד" c="billion"><i>מיליארד</i><par n="מיליארד__num"/></e>
+    <e lm="טריליון" c="trillion"><i>טריליו</i><par n="מיליו/ן__num"/></e>
 
     <e lm="XVI" c=""><i>XVI</i><par n="XVI__num"/></e>
     <e lm="II" c=""><i>II</i><par n="XVI__num"/></e>
