@@ -318,14 +318,14 @@
 <e>       <p><l>dsatax<s n="num"/></l>      <r>תשעה<b/>עשר<s n="num"/></r></p><par n="mf_m_f"/></e>
 
 <!-- 20..90 -->
-<e>       <p><l>għoxrin<s n="num"/></l>     <r>עשרים<s n="num"/></r></p><par n="mf_m_f"/></e>
-<e>       <p><l>tletin<s n="num"/></l>      <r>שלושים<s n="num"/></r></p><par n="mf_m_f"/></e>
-<e>       <p><l>erbgħin<s n="num"/></l>     <r>ארבעים<s n="num"/></r></p><par n="mf_m_f"/></e>
-<e>       <p><l>ħamsin<s n="num"/></l>      <r>חמישים<s n="num"/></r></p><par n="mf_m_f"/></e>
-<e>       <p><l>sittin<s n="num"/></l>      <r>שישים<s n="num"/></r></p><par n="mf_m_f"/></e>
-<e>       <p><l>sebgħin<s n="num"/></l>     <r>שבעים<s n="num"/></r></p><par n="mf_m_f"/></e>
-<e>       <p><l>tmenin<s n="num"/></l>      <r>שמונים<s n="num"/></r></p><par n="mf_m_f"/></e>
-<e>       <p><l>disgħin<s n="num"/></l>     <r>תשעים<s n="num"/></r></p><par n="mf_m_f"/></e>
+<e>       <p><l>għoxrin<s n="num"/></l>     <r>עשרים<s n="num"/></r></p></e>
+<e>       <p><l>tletin<s n="num"/></l>      <r>שלושים<s n="num"/></r></p></e>
+<e>       <p><l>erbgħin<s n="num"/></l>     <r>ארבעים<s n="num"/></r></p></e>
+<e>       <p><l>ħamsin<s n="num"/></l>      <r>חמישים<s n="num"/></r></p></e>
+<e>       <p><l>sittin<s n="num"/></l>      <r>שישים<s n="num"/></r></p></e>
+<e>       <p><l>sebgħin<s n="num"/></l>     <r>שבעים<s n="num"/></r></p></e>
+<e>       <p><l>tmenin<s n="num"/></l>      <r>שמונים<s n="num"/></r></p></e>
+<e>       <p><l>disgħin<s n="num"/></l>     <r>תשעים<s n="num"/></r></p></e>
 
 <!-- 100, 200, 1000, 2000 -->
 <e>       <p><l>mija<s n="num"/></l>        <r>מאה<s n="num"/></r></p><par n="mf_m_f"/></e>
@@ -333,7 +333,7 @@
 <e>       <p><l>elf<s n="num"/></l>         <r>אלף<s n="num"/></r></p><par n="mf_m_f"/></e>
 <e>       <p><l>elfejn<s n="num"/></l>      <r>אלפיים<s n="num"/></r></p><par n="mf_m_f"/></e>
 
-<e>         <p><l>miljun<s n="num"/></l><r>מיליון<s n="num"/></r></p><par n="mf_m_f"/></e>
+<e>       <p><l>miljun<s n="num"/></l><r>מיליון<s n="num"/></r></p><par n="mf_m_f"/></e>
 <e>       <p><l>biljun<s n="num"/></l>      <r>מיליארד<s n="num"/></r></p><par n="mf_m_f"/></e>
 <e>       <p><l>triljun<s n="num"/></l>     <r>טריליון<s n="num"/></r></p><par n="mf_m_f"/></e>
 
