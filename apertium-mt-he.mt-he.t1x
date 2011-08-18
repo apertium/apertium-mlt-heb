@@ -111,8 +111,10 @@
        <attr-item tags="prn.ref"/>
        <attr-item tags="prn.ind"/>
        <attr-item tags="prn.dem"/>
+       <attr-item tags="prn.def"/>
        <attr-item tags="prn.itg"/>
        <attr-item tags="prn.pers"/>
+       <attr-item tags="prn.pos"/>
     </def-attr>
     <def-attr n="a_verb">
        <attr-item tags="vblex"/>

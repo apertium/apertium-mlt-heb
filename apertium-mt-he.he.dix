@@ -130,9 +130,9 @@
       <e><p>          <l>ה</l><r>ה<s n="det"/><s n="def"/></r></p></e>
     </pardef>
 
-    <pardef n="זה__det" c="this/that">
-      <e>       <p><l>זה</l><r>זה<s n="det"/><s n="dem"/><s n="m"/><s n="sg"/></r></p></e>
-      <e>       <p><l>זו</l><r>זה<s n="det"/><s n="dem"/><s n="f"/><s n="sg"/></r></p></e>
+    <pardef n="/זה__det" c="this/that">
+      <e>       <p><l>זה</l> <r>זה<s n="det"/><s n="dem"/><s n="m"/><s n="sg"/></r></p></e>
+      <e>       <p><l>זו</l> <r>זה<s n="det"/><s n="dem"/><s n="f"/><s n="sg"/></r></p></e>
       <e>       <p><l>אלה</l><r>זה<s n="det"/><s n="dem"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="LR"><p><l>אלו</l><r>זה<s n="det"/><s n="dem"/><s n="mf"/><s n="pl"/></r></p></e>
     </pardef>
@@ -216,8 +216,11 @@
     <pardef n="כמה__prn">
       <e><p><l/><r><s n="prn"/><s n="def"/><s n="mf"/><s n="pl"/></r></p></e>
     </pardef>
-    <pardef n="זה__prn">
-      <e><p><l/><r><s n="prn"/><s n="def"/><s n="mf"/><s n="sg"/></r></p></e>
+    <pardef n="/זה__prn">
+      <e>       <p><l>זה</l> <r>זה<s n="prn"/><s n="def"/><s n="m"/><s n="sg"/></r></p></e>
+      <e>       <p><l>זו</l> <r>זה<s n="prn"/><s n="def"/><s n="f"/><s n="sg"/></r></p></e>
+      <e>       <p><l>אלה</l><r>זה<s n="prn"/><s n="def"/><s n="mf"/><s n="pl"/></r></p></e>
+      <e r="LR"><p><l>אלו</l><r>זה<s n="prn"/><s n="def"/><s n="mf"/><s n="pl"/></r></p></e>
     </pardef>
     <pardef n="שלי__prn">
       <e><p><l/><r><s n="prn"/><s n="pos"/><s n="mf"/><s n="sp"/></r></p></e>
@@ -6587,7 +6590,7 @@
     <!-- SECTION: Determiners -->
 
     <e lm="ה"><i></i><par n="ה__det"/></e>
-    <e lm="זה" c="this/that"><i></i><par n="זה__det"/></e>
+    <e lm="זה" c="this/that"><i></i><par n="/זה__det"/></e>
 
     <e lm="אחרון"><i>אחרו</i><par n="אחרון__det"/></e>
 
@@ -6727,7 +6730,7 @@
     <e lm="איזה" c="which"><i>איזה</i><par n="מי__prn"/></e>
     <e lm="כמה" c="how many"><i>כמה</i><par n="כמה__prn"/></e>
     
-    <e lm="זה" c="this"><i>זה</i><par n="זה__prn"/></e>
+    <e lm="זה" c="this/that"><i></i><par n="/זה__prn"/></e>
 
     <e lm="חלק" c=""><i>חלק</i><par n="חלק__prn"/></e>
     
