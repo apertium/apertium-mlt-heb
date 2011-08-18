@@ -245,39 +245,43 @@
       <e><p><l/><r><s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
     </pardef>
     <pardef n="שלוש/ה__num">
-      <!-- 3-->
-      <e><p><l/><r><s n="num"/><s n="f"/><s n="sp"/></r></p></e>
-      <e><p><l>ה</l><r><s n="num"/><s n="m"/><s n="sp"/></r></p></e>
-      <!-- 13-->
+      <!-- 3, 4, 7, 9, 10 -->
+      <e>   <p><l></l>      <r>ה<s n="num"/><s n="f"/><s n="sp"/></r></p></e>
+      <e>   <p><l>ה</l>     <r>ה<s n="num"/><s n="m"/><s n="sp"/></r></p></e>
+      
+      <!-- 13 TODO: the <r> here is different, shouldn't be in a /ה-pardef-->
       <e><p><l><b/>עשרה</l><r>ה<b/>עשר<s n="num"/><s n="f"/><s n="sp"/></r></p></e>
       <e><p><l>ה<b/>עשר</l><r>ה<b/>עשר<s n="num"/><s n="m"/><s n="sp"/></r></p></e>
-      <!-- 300-->
+      <!-- 300 TODO: the <r> here is different, shouldn't be in a /ה-pardef-->
       <e><p><l><b/>מאות</l><r><b/>מאות<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
-      <!-- 3000-->
+      <!-- 3000 TODO: the <r> here is different, shouldn't be in a /ה-pardef-->
       <e><p><l>ת<b/>אלפים</l><r>ת<b/>אלפים<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
     </pardef>
     <pardef n="חמ/ישה__num">
-      <!-- 5-->
+      <!-- 5, 6 -->
       <e><p><l>ישה</l><r>ישה<s n="num"/><s n="m"/><s n="sp"/></r></p></e>
       <e><p><l>ש</l><r>ישה<s n="num"/><s n="f"/><s n="sp"/></r></p></e>
-      <!-- 15-->
+      
+      <!-- 15 TODO: the <r> here is different, shouldn't be in a /ישה-pardef-->
       <e><p><l>ישה<b/>עשר</l><r>ישה<b/>עשר<s n="num"/><s n="m"/><s n="sp"/></r></p></e>
       <e><p><l>ש<b/>עשרה</l><r>ישה<b/>עשר<s n="num"/><s n="f"/><s n="sp"/></r></p></e>
-      <!-- 500-->
+      <!-- 500 TODO: the <r> here is different, shouldn't be in a /ישה-pardef-->
       <e><p><l>ש<b/>מאות</l><r>ש<b/>מאות<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
-      <!-- 5000-->
+      <!-- 5000 TODO: the <r> here is different, shouldn't be in a /ישה-pardef-->
       <e><p><l>שת<b/>אלפים</l><r>שת<b/>אלפים<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
     </pardef>
     
     <pardef n="שמונ/ה__num">
-      <!-- 8-->
-      <e><p><l>ה</l><r><s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
-      <!-- 18-->
+      <!-- 8 (gender difference visible if dotted) -->
+      <e><p><l>ה</l><r>ה<s n="num"/><s n="m"/><s n="sp"/></r></p></e>
+      <e><p><l>ה</l><r>ה<s n="num"/><s n="f"/><s n="sp"/></r></p></e>
+
+      <!-- 18 TODO: the <r> here is different, shouldn't be in a /ה-pardef -->
       <e><p><l>ה<b/>עשרה</l><r><s n="num"/><s n="f"/><s n="sp"/></r></p></e>
       <e><p><l>ה<b/>עשר</l><r><s n="num"/><s n="m"/><s n="sp"/></r></p></e>
-      <!-- 800-->
+      <!-- 800 TODO: the <r> here is different, shouldn't be in a /ה-pardef -->
       <e><p><l>ה<b/>מאות</l><r><s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
-      <!-- 8000-->
+      <!-- 8000 TODO: the <r> here is different, shouldn't be in a /ה-pardef -->
       <e><p><l>ת<b/>אלפים</l><r><s n="num"/><s n="m"/><s n="sp"/></r></p></e>
     </pardef>
     
@@ -324,8 +328,11 @@
       <e><p><l>ת</l><r><s n="num"/><s n="ord"/><s n="f"/><s n="sg"/></r></p></e>
       <e><p><l>ות</l><r><s n="num"/><s n="ord"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
-    <pardef n="מאה__num">
-      <e><p><l></l><r><s n="num"/><s n="ord"/><s n="mf"/><s n="pl"/></r></p></e>
+    <pardef n="מאה__num" c="TODO should the forms be different?">
+      <e><p><l></l><r><s n="num"/><s n="ord"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l></l><r><s n="num"/><s n="ord"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p><l></l><r><s n="num"/><s n="ord"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l></l><r><s n="num"/><s n="ord"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
 
     <!-- SECTION: Nouns -->  
