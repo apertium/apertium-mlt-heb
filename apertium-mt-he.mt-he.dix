@@ -3332,7 +3332,57 @@
      <e><p><l>attivat<s n="adj"/></l><r>מופעל<s n="adj"/></r></p><par n="mf_pl_m_f_pl"/></e>
 
      <e><p><l>aggressiv<s n="adj"/></l><r>מתגרה<s n="adj"/></r></p></e>
-
+     <e><p><l>apostoliku<s n="adj"/></l><r>שליחי<s n="adj"/></r></p></e><!-- TODO -->
+     <e><p><l>appassjonat<s n="adj"/></l><r>נלהב<s n="adj"/></r></p></e>
+     <e><p><l>assistit<s n="adj"/></l><r>נתמך<s n="adj"/></r></p></e>
+     <e><p><l>bask<s n="adj"/></l><r>בסקי<s n="adj"/></r></p></e>
+     <e><p><l>ċibernetiku<s n="adj"/></l><r>קיברנטי<s n="adj"/></r></p></e>
+     <e><p><l>enerġetiku<s n="adj"/></l><r>אנרגטי<s n="adj"/></r></p></e>
+     <e><p><l>galilejan<s n="adj"/></l><r>גלילי<s n="adj"/></r></p></e>
+     <e><p><l>invitat<s n="adj"/></l><r>מוזמן<s n="adj"/></r></p></e>
+     <e><p><l>kapitalizzat<s n="adj"/></l><r>מהוון<s n="adj"/></r></p></e>
+     <e><p><l>kollaborattiv<s n="adj"/></l><r>שיתופי<s n="adj"/></r></p></e>
+     <e><p><l>kontemporanju<s n="adj"/></l><r>בן<b/>זמנו<s n="adj"/></r></p></e>
+     <e><p><l>naplitan<s n="adj"/></l><r>נפוליטני<s n="adj"/></r></p></e>
+     <e><p><l>oċeaniku<s n="adj"/></l><r>אוקיאני<s n="adj"/></r></p></e>
+     <e><p><l>ottoman<s n="adj"/></l><r>עות'מאני<s n="adj"/></r></p></e>
+     <e><p><l>protettiv<s n="adj"/></l><r>מתגונן<s n="adj"/></r></p></e>
+     <e><p><l>rispettiv<s n="adj"/></l><r>מותאם<s n="adj"/></r></p></e>
+     <e><p><l>salvat<s n="adj"/></l><r>שמור<s n="adj"/></r></p></e><!-- TODO -->
+     <e><p><l>speċjalizzat<s n="adj"/></l><r>מתמחה<s n="adj"/></r></p></e>
+     <e><p><l>taljan<s n="adj"/></l><r>איטלקי<s n="adj"/></r></p></e>
+     <e><p><l>televiżiv<s n="adj"/></l><r>טלוויזיוני<s n="adj"/></r></p></e>
+     <e c="  0"><p><l>ohxon<s n="adj"/></l><r>שמן<s n="adj"/></r></p></e>
+     <e slr="1"><p><l>ohxon<s n="adj"/></l><r>עבה<s n="adj"/></r></p></e>
+     <e><p><l>osservat<s n="adj"/></l><r>נצפה<s n="adj"/></r></p></e>
+     <e><p><l>akkanit<s n="adj"/></l><r>להוט<s n="adj"/></r></p></e>
+     <e><p><l>żgħir<s n="adj"/></l><r>צעיר<s n="adj"/></r></p></e>
+     <e><p><l>Arjan<s n="adj"/></l><r>ארי<s n="adj"/></r></p></e>
+     <e><p><l>erojku<s n="adj"/></l><r>גיבורי<s n="adj"/></r></p></e>
+     <e><p><l>aċċessat<s n="adj"/></l><r>נגיש<s n="adj"/></r></p></e>
+     <e><p><l>bhal<s n="adj"/></l><r>כזה<s n="adj"/></r></p></e> <!--?-->
+     <e c="  0"><p><l>diffuż<s n="adj"/></l><r>מופץ<s n="adj"/></r></p></e>
+     <e slr="1"><p><l>diffuż<s n="adj"/></l><r>מופרח<s n="adj"/></r></p></e>
+     <e c="  0"><p><l>ħafif<s n="adj"/></l><r>דליל<s n="adj"/></r></p></e>
+     <e slr="1"><p><l>ħafif<s n="adj"/></l><r>קל<s n="adj"/></r></p></e>
+     <e slr="2"><p><l>ħafif<s n="adj"/></l><r>רזה<s n="adj"/></r></p></e>
+     <e><p><l>immirat<s n="adj"/></l><r>מכוון<s n="adj"/></r></p></e>
+     <e><p><l>introdott<s n="adj"/></l><r>מוצג<s n="adj"/></r></p></e>
+     <e><p><l>joniku<s n="adj"/></l><r>יוני<s n="adj"/></r></p></e>
+     <e><p><l>kantant<s n="adj"/></l><r>מזמר<s n="adj"/></r></p></e>
+     <e><p><l>dijalettiku<s n="adj"/></l><r>דיאלקטי<s n="adj"/></r></p></e>
+     <e><p><l>kardijaku<s n="adj"/></l><r>לב<s n="adj"/></r></p></e><!-- TODO -->
+     <e><p><l>ispirat<s n="adj"/></l><r>בהשראת<s n="adj"/></r></p></e>
+     <e><p><l>sanzjonat<s n="adj"/></l><r>מורשה<s n="adj"/></r></p></e><!-- TODO -->
+     <e><p><l>ammess<s n="adj"/></l><r>מודה<s n="adj"/></r></p></e><!-- TODO -->
+     <e><p><l>segwit<s n="adj"/></l><r>נעקב<s n="adj"/></r></p></e> <!-- segwit minn Venere 'followed by Venus' -->
+     <e><p><l>presedut<s n="adj"/></l><r>בראש<s n="adj"/></r></p></e><!-- TODO -->
+     <e><p><l>trasformat<s n="adj"/></l><r>שונה<s n="adj"/></r></p></e>
+     <e><p><l>modifikat<s n="adj"/></l><r>שונה<s n="adj"/></r></p></e>
+     <e><p><l>imbuttat<s n="adj"/></l><r>נדחף<s n="adj"/></r></p></e>
+     <e><p><l>rifjutat<s n="adj"/></l><r>סורב<s n="adj"/></r></p></e>
+     <e><p><l>skopert<s n="adj"/></l><r>התגלה<s n="adj"/></r></p></e>
+     <e><p><l>skurjat<s n="adj"/></l><r>הובקע<s n="adj"/></r></p></e>
 
      <!-- SECTION: Interjections -->
      <e><p><l>iva<s n="ij"/></l><r>כן<s n="ij"/></r></p></e>
@@ -3490,6 +3540,9 @@
      <e><p><l>hawnhekk<s n="adv"/></l><r>כאן<s n="adv"/></r></p></e>
      <e><p><l>lanqas<s n="adv"/></l><r>אפילו<s n="adv"/></r></p></e>
      <e><p><l>lanqas<b/>biss<s n="adv"/></l><r>אפילו<b/>לא<s n="adv"/></r></p></e>
+
+     <e c="  0"><p><l>pulit<s n="adv"/></l><r>מסודר<s n="adv"/></r></p></e>
+     <e slr="1"><p><l>pulit<s n="adv"/></l><r>נקי<s n="adv"/></r></p></e>
 
      <!-- SECTION: Verbs -->
      <e><p><l>jaf<s n="vblex"/></l><r>ידע<s n="vblex"/></r></p></e>
