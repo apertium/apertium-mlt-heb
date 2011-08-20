@@ -20076,6 +20076,66 @@
     <e lm="עבד שעות נוספות"><p><l>עובדים</l><r>עבד<s n="vblex"/><s n="pres"/><s n="m"/><s n="pl"/></r></p><p><l><b/>שעות<b/>נוספות</l><r><g><b/>שעות<b/>נוספות</g></r></p></e>
     <e lm="עבד שעות נוספות"><p><l>עובדות</l><r>עבד<s n="vblex"/><s n="pres"/><s n="f"/><s n="pl"/></r></p><p><l><b/>שעות<b/>נוספות</l><r><g><b/>שעות<b/>נוספות</g></r></p></e>
 
+    <e lm="יכל"><p><l>יכל</l><r>יכל<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="יכל"><p><l>יכולתי</l><r>יכל<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+    <e lm="יכל"><p><l>יכולת</l><r>יכל<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="יכל"><p><l>יכולת</l><r>יכל<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="יכל"><p><l>יכלה</l><r>יכל<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="יכל"><p><l>יכולנו</l><r>יכל<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+    <e lm="יכל"><p><l>יכולתם</l><r>יכל<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+    <e lm="יכל"><p><l>יכולתן</l><r>יכל<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+    <e lm="יכל"><p><l>יכלו</l><r>יכל<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+    <e lm="יכל"><p><l>יכלו</l><r>יכל<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+    <!-- <e lm="יכל"><p><l></l><r>יכל<s n="vblex"/><s n="inf"/></r></p></e>--><!-- TODO this verb has no Infinitive form! -->
+    <e lm="יכל"><p><l>אוכל</l><r>יכל<s n="vblex"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
+    <e lm="יכל"><p><l>תוכל</l><r>יכל<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="יכל"><p><l>תוכלי</l><r>יכל<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="יכל"><p><l>יוכל</l><r>יכל<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="יכל"><p><l>תוכל</l><r>יכל<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="יכל"><p><l>נוכל</l><r>יכל<s n="vblex"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
+    <e lm="יכל"><p><l>תוכלו</l><r>יכל<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+    <e lm="יכל"><p><l>תוכלונה</l><r>יכל<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+    <e lm="יכל"><p><l>יוכלו</l><r>יכל<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+    <e lm="יכל"><p><l>תוכלונה</l><r>יכל<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+    <e lm="יכל"><p><l>יכול</l><r>יכל<s n="vblex"/><s n="pres"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="יכל"><p><l>יכולה</l><r>יכל<s n="vblex"/><s n="pres"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="יכל"><p><l>יכולים</l><r>יכל<s n="vblex"/><s n="pres"/><s n="m"/><s n="pl"/></r></p></e>
+    <e lm="יכל"><p><l>יכולות</l><r>יכל<s n="vblex"/><s n="pres"/><s n="f"/><s n="pl"/></r></p></e>
+    <!-- TODO I used regular Future forms for these Imperative forms -->
+    <e lm="יכל"><p><l>תוכל</l><r>יכל<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="יכל"><p><l>תוכלי</l><r>יכל<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="יכל"><p><l>תוכלו</l><r>יכל<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+    <e lm="יכל"><p><l>תוכלונה</l><r>יכל<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+
+    <e lm="חי"><p><l>חי</l><r>חי<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="חי"><p><l>חייתי</l><r>חי<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+    <e lm="חי"><p><l>חיית</l><r>חי<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="חי"><p><l>חיית</l><r>חי<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="חי"><p><l>חיה</l><r>חי<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="חי"><p><l>חיינו</l><r>חי<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+    <e lm="חי"><p><l>חייתם</l><r>חי<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+    <e lm="חי"><p><l>חייתן</l><r>חי<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+    <e lm="חי"><p><l>חיו</l><r>חי<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+    <e lm="חי"><p><l>חיו</l><r>חי<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+    <e lm="חי"><p><l>לחיות</l><r>חי<s n="vblex"/><s n="inf"/></r></p></e>
+    <e lm="חי"><p><l>חיה</l><r>חי<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="חי"><p><l>חיי</l><r>חי<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="חי"><p><l>חיו</l><r>חי<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+    <e lm="חי"><p><l>חיונה</l><r>חי<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+    <e lm="חי"><p><l>אחיה</l><r>חי<s n="vblex"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
+    <e lm="חי"><p><l>תחיה</l><r>חי<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="חי"><p><l>תחיי</l><r>חי<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="חי"><p><l>יחיה</l><r>חי<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="חי"><p><l>תחיה</l><r>חי<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="חי"><p><l>נחיה</l><r>חי<s n="vblex"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
+    <e lm="חי"><p><l>תחיה</l><r>חי<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+    <e lm="חי"><p><l>תחיינה</l><r>חי<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+    <e lm="חי"><p><l>יחיו</l><r>חי<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+    <e lm="חי"><p><l>תחיונה</l><r>חי<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+    <e lm="חי"><p><l>חי</l><r>חי<s n="vblex"/><s n="pres"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="חי"><p><l>חיה</l><r>חי<s n="vblex"/><s n="pres"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="חי"><p><l>חיים</l><r>חי<s n="vblex"/><s n="pres"/><s n="m"/><s n="pl"/></r></p></e>
+    <e lm="חי"><p><l>חיות</l><r>חי<s n="vblex"/><s n="pres"/><s n="f"/><s n="pl"/></r></p></e>
     <!-- /manually created verbs -->
 
 
