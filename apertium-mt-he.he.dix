@@ -20136,6 +20136,96 @@
     <e lm="חי"><p><l>חיה</l><r>חי<s n="vblex"/><s n="pres"/><s n="f"/><s n="sg"/></r></p></e>
     <e lm="חי"><p><l>חיים</l><r>חי<s n="vblex"/><s n="pres"/><s n="m"/><s n="pl"/></r></p></e>
     <e lm="חי"><p><l>חיות</l><r>חי<s n="vblex"/><s n="pres"/><s n="f"/><s n="pl"/></r></p></e>
+
+    <e lm="גידף"><p><l>גידף</l><r>גידף<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="גידף"><p><l>גידפתי</l><r>גידף<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+    <e lm="גידף"><p><l>גידפת</l><r>גידף<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="גידף"><p><l>גידפת</l><r>גידף<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="גידף"><p><l>גידפה</l><r>גידף<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="גידף"><p><l>גידפנו</l><r>גידף<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+    <e lm="גידף"><p><l>גידפתם</l><r>גידף<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+    <e lm="גידף"><p><l>גידפתן</l><r>גידף<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+    <e lm="גידף"><p><l>גידפו</l><r>גידף<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+    <e lm="גידף"><p><l>גידפו</l><r>גידף<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+    <e lm="גידף"><p><l>לגדף</l><r>גידף<s n="vblex"/><s n="inf"/></r></p></e>
+    <e lm="גידף"><p><l>גדף</l><r>גידף<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="גידף"><p><l>גדפי</l><r>גידף<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="גידף"><p><l>גדפו</l><r>גידף<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+    <e lm="גידף"><p><l>גדפונה</l><r>גידף<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+    <e lm="גידף"><p><l>אגדף</l><r>גידף<s n="vblex"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
+    <e lm="גידף"><p><l>תגדף</l><r>גידף<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="גידף"><p><l>תגדפי</l><r>גידף<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="גידף"><p><l>יגדף</l><r>גידף<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="גידף"><p><l>תגדף</l><r>גידף<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="גידף"><p><l>נגדף</l><r>גידף<s n="vblex"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
+    <e lm="גידף"><p><l>תגדפו</l><r>גידף<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+    <e lm="גידף"><p><l>תגדפונה</l><r>גידף<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+    <e lm="גידף"><p><l>יגדפו</l><r>גידף<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+    <e lm="גידף"><p><l>תגדפונה</l><r>גידף<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+    <e lm="גידף"><p><l>מגדף</l><r>גידף<s n="vblex"/><s n="pres"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="גידף"><p><l>מגדפת</l><r>גידף<s n="vblex"/><s n="pres"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="גידף"><p><l>מגדפים</l><r>גידף<s n="vblex"/><s n="pres"/><s n="m"/><s n="pl"/></r></p></e>
+    <e lm="גידף"><p><l>מגדפות</l><r>גידף<s n="vblex"/><s n="pres"/><s n="f"/><s n="pl"/></r></p></e>
+
+    <e lm="איבטח"><p><l>איבטח</l><r>איבטח<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="איבטח"><p><l>איבטחתי</l><r>איבטח<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+    <e lm="איבטח"><p><l>איבטחת</l><r>איבטח<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="איבטח"><p><l>איבטחת</l><r>איבטח<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="איבטח"><p><l>איבטחה</l><r>איבטח<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="איבטח"><p><l>איבטחנו</l><r>איבטח<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+    <e lm="איבטח"><p><l>איבטחתם</l><r>איבטח<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+    <e lm="איבטח"><p><l>איבטחתן</l><r>איבטח<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+    <e lm="איבטח"><p><l>איבטחו</l><r>איבטח<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+    <e lm="איבטח"><p><l>איבטחו</l><r>איבטח<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+    <e lm="איבטח"><p><l>לאבטח</l><r>איבטח<s n="vblex"/><s n="inf"/></r></p></e>
+    <e lm="איבטח"><p><l>אבטח</l><r>איבטח<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="איבטח"><p><l>אבטחי<</l><r>איבטח<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="איבטח"><p><l>אבטחו</l><r>איבטח<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+    <e lm="איבטח"><p><l>אבטחונה</l><r>איבטח<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+    <e lm="איבטח"><p><l>אאבטח</l><r>איבטח<s n="vblex"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
+    <e lm="איבטח"><p><l>תאבטח</l><r>איבטח<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="איבטח"><p><l>תאבטחי</l><r>איבטח<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="איבטח"><p><l>יאבטח</l><r>איבטח<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="איבטח"><p><l>תאבטח</l><r>איבטח<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="איבטח"><p><l>נאבטח</l><r>איבטח<s n="vblex"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
+    <e lm="איבטח"><p><l>תאבטחו</l><r>איבטח<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+    <e lm="איבטח"><p><l>תאבטחונה</l><r>איבטח<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+    <e lm="איבטח"><p><l>יאבטחו</l><r>איבטח<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+    <e lm="איבטח"><p><l>תאבטחונה</l><r>איבטח<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+    <e lm="איבטח"><p><l>מאבטח</l><r>איבטח<s n="vblex"/><s n="pres"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="איבטח"><p><l>מאבטחת</l><r>איבטח<s n="vblex"/><s n="pres"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="איבטח"><p><l>מאבטחים</l><r>איבטח<s n="vblex"/><s n="pres"/><s n="m"/><s n="pl"/></r></p></e>
+    <e lm="איבטח"><p><l>מאבטחות</l><r>איבטח<s n="vblex"/><s n="pres"/><s n="f"/><s n="pl"/></r></p></e>
+
+    <e lm="התפתל"><p><l>התפתל</l><r>התפתל<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="התפתל"><p><l>התפתלתי</l><r>התפתל<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+    <e lm="התפתל"><p><l>התפתלת</l><r>התפתל<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="התפתל"><p><l>התפתלת</l><r>התפתל<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="התפתל"><p><l>התפתלה</l><r>התפתל<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="התפתל"><p><l>התפתלנו</l><r>התפתל<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+    <e lm="התפתל"><p><l>התפתלתם</l><r>התפתל<s n="vblex"/><s n="past"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+    <e lm="התפתל"><p><l>התפתלתן</l><r>התפתל<s n="vblex"/><s n="past"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+    <e lm="התפתל"><p><l>התפתלו</l><r>התפתל<s n="vblex"/><s n="past"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+    <e lm="התפתל"><p><l>התפתלו</l><r>התפתל<s n="vblex"/><s n="past"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+    <e lm="התפתל"><p><l>להתפתל</l><r>התפתל<s n="vblex"/><s n="inf"/></r></p></e>
+    <e lm="התפתל"><p><l>התפתל</l><r>התפתל<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="התפתל"><p><l>התפתלי</l><r>התפתל<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="התפתל"><p><l>התפתלו</l><r>התפתל<s n="vblex"/><s n="imp"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+    <e lm="התפתל"><p><l>התפתלונה</l><r>התפתל<s n="vblex"/><s n="imp"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+    <e lm="התפתל"><p><l>אתפתל</l><r>התפתל<s n="vblex"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
+    <e lm="התפתל"><p><l>תתפתל</l><r>התפתל<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="התפתל"><p><l>תתפתלי</l><r>התפתל<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="התפתל"><p><l>יתפתל</l><r>התפתל<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="התפתל"><p><l>תתפתל</l><r>התפתל<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="התפתל"><p><l>נתפתל</l><r>התפתל<s n="vblex"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
+    <e lm="התפתל"><p><l>תתפתלו</l><r>התפתל<s n="vblex"/><s n="fut"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+    <e lm="התפתל"><p><l>תתפתלונה</l><r>התפתל<s n="vblex"/><s n="fut"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+    <e lm="התפתל"><p><l>יתפתלו</l><r>התפתל<s n="vblex"/><s n="fut"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+    <e lm="התפתל"><p><l>יתפתלונה</l><r>התפתל<s n="vblex"/><s n="fut"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+    <e lm="התפתל"><p><l>מתפתל</l><r>התפתל<s n="vblex"/><s n="pres"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="התפתל"><p><l>מתפתלת</l><r>התפתל<s n="vblex"/><s n="pres"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="התפתל"><p><l>מתפתלים</l><r>התפתל<s n="vblex"/><s n="pres"/><s n="m"/><s n="pl"/></r></p></e>
+    <e lm="התפתל"><p><l>מתפתלות</l><r>התפתל<s n="vblex"/><s n="pres"/><s n="f"/><s n="pl"/></r></p></e>
     <!-- /manually created verbs -->
 
 
