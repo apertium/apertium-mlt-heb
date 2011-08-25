@@ -272,7 +272,7 @@
         </let>
       </when></choose>
 
-      <choose><when c="Past (ie. perfect, with no vaux) corresponds with perfect participle in Hebrew(?) TODO check this
+      <choose><when c="Hebrew past (ie. perfect, with no vaux) might correspond with Maltese perfect participle(?) TODO check this
                        Also, append person, since pp has no person.">
         <test><equal>
           <clip pos="1" side="tl" part="temps"/><lit-tag v="pp"/>
@@ -301,13 +301,22 @@
 
       </when></choose>
 
-      <choose><when c="Present (ie. imperfect) might correspond with gerund in Hebrew(?) TODO check this
+      <choose><when c="Hebrew present (ie. imperfect) might correspond with Maltese gerund(?) TODO check this
                        Also, append number (default sg), since ger has no number.">
         <test><equal>
           <clip pos="1" side="tl" part="temps"/><lit-tag v="ger"/>
         </equal></test>
         <let>
           <clip pos="1" side="tl" part="temps"/><lit-tag v="pres.sg"/>
+        </let>
+      </when></choose>
+
+      <choose><when c="Hebrew present (ie. imperfect) might correspond with Maltese present participle(?) TODO check this">
+        <test><equal>
+          <clip pos="1" side="tl" part="temps"/><lit-tag v="pprs"/>
+        </equal></test>
+        <let>
+          <clip pos="1" side="tl" part="temps"/><lit-tag v="pres"/>
         </let>
       </when></choose>
 
