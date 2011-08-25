@@ -1,7 +1,11 @@
 #!/bin/sh
-# http://wiki.apertium.org/wiki/Asturian#Calculating_coverage
-# Usage:
-# cat /path/to/corpora/nb.txt | ./coverage.sh ../nb-nn.automorf.bin
+# Based on http://wiki.apertium.org/wiki/Asturian#Calculating_coverage
+
+if [ $# -ne 1 ]; then
+    echo "Usage:";
+    echo "$ cat mtcorpus.txt | ./coverage.sh ../mt-he.automorf.bin";
+    exit 1;
+fi
 
 # temp files
 F=/tmp/corpus-stat-res.txt 
