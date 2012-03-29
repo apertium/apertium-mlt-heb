@@ -113,6 +113,7 @@ dev/paragraph1.txt -text
 dev/process-found-nouns.py -text
 dev/process-nouns-with-paradigms.py -text
 dev/rule-pattern-extraction.py -text
+dev/story.mt.txt -text
 dev/testvoc-summary.mt-he.txt -text
 dev/testvoc.sh -text
 dev/verb.py -text
