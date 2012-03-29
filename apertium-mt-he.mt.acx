@@ -38,6 +38,7 @@
   </char>
   <char value="ġ">
     <equiv-char value="g"/>
+    <equiv-char value="ġ"/>
   </char>
   <char value="ħ">
     <equiv-char value="h"/>
