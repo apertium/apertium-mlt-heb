@@ -262,15 +262,29 @@
 
     <def-macro n="modify_verb_and_genero" npar="1" c="Guess verb gender, remove person from present, no gender for inf/p1">
 
-      <choose><when c="Default genero to 'm' unless set to 'm' or 'f'">
-        <test><not><or>
-          <equal><var n="genero"/><lit-tag v="m"/></equal>
-          <equal><var n="genero"/><lit-tag v="f"/></equal>
-        </or></not></test>
-        <let>
-          <var n="genero"/><lit-tag v="m"/>
-        </let>
-      </when></choose>
+      <choose>
+	<when>
+	  <test>
+	     <equal><clip pos="1" side="tl" part="gen"/><lit-tag v="m"/></equal>
+	  </test>
+          <let>
+            <var n="genero"/><lit-tag v="m"/>
+          </let>
+	</when>
+	<when>
+	  <test>
+	     <equal><clip pos="1" side="tl" part="gen"/><lit-tag v="f"/></equal>
+	  </test>
+          <let>
+            <var n="genero"/><lit-tag v="f"/>
+          </let>
+	</when>
+	<otherwise> <!-- Default genero to 'm' unless set to 'm' or 'f' -->
+          <let>
+            <var n="genero"/><lit-tag v="m"/>
+          </let>
+	</otherwise>
+      </choose>
 
       <choose><when c="Hebrew past (ie. perfect, with no vaux) might correspond with Maltese perfect participle(?) TODO check this
                        Also, append person, since pp has no person.">

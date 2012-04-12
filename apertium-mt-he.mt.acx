@@ -10,12 +10,15 @@
   <!-- Common orthographical errors -->
   <char value="Ċ">
     <equiv-char value="C"/>
+    <equiv-char value="Ċ"/>
   </char>
   <char value="Ż">
     <equiv-char value="Z"/>
+    <equiv-char value="Ż"/>
   </char>
   <char value="Ġ">
     <equiv-char value="G"/>
+    <equiv-char value="Ġ"/>
   </char>
   <char value="Ħ">
     <equiv-char value="H"/>
@@ -32,9 +35,11 @@
   </char>
   <char value="ċ">
     <equiv-char value="c"/>
+    <equiv-char value="ċ"/>
   </char>
   <char value="ż">
     <equiv-char value="z"/>
+    <equiv-char value="ż"/>
   </char>
   <char value="ġ">
     <equiv-char value="g"/>
