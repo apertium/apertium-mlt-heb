@@ -895,55 +895,29 @@ for stem in infl: #{
 
 	for flex in infl[stem]: #{
 		for subflex in infl[stem][flex]: #{
-			outline = '';
-			left = subflex[0].decode('utf-8');
-			right = stem.decode('utf-8') + '<s n="vblex"/>' + sym(flex).decode('utf-8');
-	
-			if subflex[1] == '-': #{
-				if flex == 'past.p3.m.sg': #{
-					outline = outline + '    <e lm="' + stem.decode('utf-8') + '">';
-				else: #{
-					outline = outline + '    <e>';
-				#}
-				print outline + '<p><l>' + left + '</l><r>' + right + '</r></p></e>';
-				outline = '    <e>';
-				print outline + '<p><l>' + left + 'x</l><r>' + right + '<j/>x<s n="neg"/></r></p></e>';
-				print outline + '<p><l>' + left + '</l><r>' + right + '</r></p><par n="S__qatlu/ni"/></e>';
-				print outline + '<p><l>' + left + '</l><r>' + right + '</r></p><par n="S__qatlu/nix"/></e>';
-				print outline + '<p><l>' + left + '</l><r>' + right + '</r></p><par n="S__qatlu/lha"/></e>';
-				print outline + '<p><l>' + left + '</l><r>' + right + '</r></p><par n="S__qatlu/lhiex"/></e>';
-				print outline + '<p><l>' + left + '</l><r>' + right + '</r></p><par n="S__qatlu/hielha"/></e>';
-				print outline + '<p><l>' + left + '</l><r>' + right + '</r></p><par n="S__qatlu/hielhiex"/></e>';
-			elif subflex[1] == 'RL': #{
-				if flex == 'past.p3.m.sg': #{
-					outline = outline + '    <e lm="' + stem.decode('utf-8') + '" r="' + subflex[1].decode('utf-8') + '">';
-				else: #{
-					outline = outline + '    <e r="' + subflex[1].decode('utf-8') + '">';
-				#}
-				print outline + '<p><l><a/>' + left + '</l><r>' + right + '</r></p></e>';
-				outline = '    <e r="' + subflex[1] + '">';
-				print outline + '<p><l><a/>' + left + 'x</l><r>' + right + '<j/>x<s n="neg"/></r></p></e>';
-				print outline + '<p><l>' + left + '</l><r>' + right + '</r></p><par n="S__qatlu/ni"/></e>';
-				print outline + '<p><l>' + left + '</l><r>' + right + '</r></p><par n="S__qatlu/nix"/></e>';
-				print outline + '<p><l>' + left + '</l><r>' + right + '</r></p><par n="S__qatlu/lha"/></e>';
-				print outline + '<p><l>' + left + '</l><r>' + right + '</r></p><par n="S__qatlu/lhiex"/></e>';
-				print outline + '<p><l>' + left + '</l><r>' + right + '</r></p><par n="S__qatlu/hielha"/></e>';
-				print outline + '<p><l>' + left + '</l><r>' + right + '</r></p><par n="S__qatlu/hielhiex"/></e>';
-			else: #{
-				if flex == 'past.p3.m.sg': #{
-					outline = outline + '    <e lm="' + stem.decode('utf-8') + '" r="' + subflex[1].decode('utf-8') + '">';
-				else: #{
-					outline = outline + '    <e r="' + subflex[1].decode('utf-8') + '">';
-				#}
-				print outline + '<p><l>' + left + '</l><r>' + right + '</r></p></e>';
-				outline = '    <e r="' + subflex[1] + '">';
-				print outline + '<p><l>' + left + 'x</l><r>' + right + '<j/>x<s n="neg"/></r></p></e>';
-				print outline + '<p><l>' + left + '</l><r>' + right + '</r></p><par n="S__qatlu/ni"/></e>';
-				print outline + '<p><l>' + left + '</l><r>' + right + '</r></p><par n="S__qatlu/nix"/></e>';
-				print outline + '<p><l>' + left + '</l><r>' + right + '</r></p><par n="S__qatlu/lha"/></e>';
-				print outline + '<p><l>' + left + '</l><r>' + right + '</r></p><par n="S__qatlu/lhiex"/></e>';
-				print outline + '<p><l>' + left + '</l><r>' + right + '</r></p><par n="S__qatlu/hielha"/></e>';
-				print outline + '<p><l>' + left + '</l><r>' + right + '</r></p><par n="S__qatlu/hielhiex"/></e>';
+			# restriction attribute, lm attribute, postgenerator tag:
+			r, lm, a = '', '', ''	 
+			if flex == 'past.p3.m.sg':
+				lm = ' lm="%s"' % (stem,)
+			if subflex[1] == 'LR':
+				r = ' r="%s"' % (subflex[1],)
+				a = ''
+			elif subflex[1] == 'RL':
+				r = ' r="%s"' % (subflex[1],)
+				a = '<a/>'
+
+			left = subflex[0];
+			right = stem + '<s n="vblex"/>' + sym(flex);
+
+			entry  = '<e%s%s><p><l>%s%s</l><r>%s</r></p></e>\n' % (r, lm, a, left,right);
+			entry += '<e%s><p><l>%s%sx</l><r>%s<j/>x<s n="neg"/></r></p></e>\n' % (r, a, left, right);
+			entry += '<e%s><p><l>%s</l><r>%s</r></p><par n="S__qatlu/ni"/></e>\n' % (r, left, right);
+			entry += '<e%s><p><l>%s</l><r>%s</r></p><par n="S__qatlu/nix"/></e>\n' % (r, left, right);
+			entry += '<e%s><p><l>%s</l><r>%s</r></p><par n="S__qatlu/lha"/></e>\n' % (r, left, right);
+			entry += '<e%s><p><l>%s</l><r>%s</r></p><par n="S__qatlu/lhiex"/></e>\n' % (r, left, right);
+			entry += '<e%s><p><l>%s</l><r>%s</r></p><par n="S__qatlu/hielha"/></e>\n' % (r, left, right);
+			entry += '<e%s><p><l>%s</l><r>%s</r></p><par n="S__qatlu/hielhiex"/></e>\n' % (r, left, right);
+			print entry.decode('utf-8')
 			#}
 		#}
 	#}
