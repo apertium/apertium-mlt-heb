@@ -123,6 +123,102 @@
       <e><p>          <l></l><r><s n="pr"/></r></p></e>
     </pardef>
 
+    <pardef n="ב__pr">  <!-- הם/הן 3 pl type -->
+      <e><p>          <l>י</l><r><j/><s n="prn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ך</l><r><j/><s n="prn"/><s n="p2"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ך</l><r><j/><s n="prn"/><s n="p2"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ו</l><r><j/><s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ה</l><r><j/><s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>נו</l><r><j/><s n="prn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e><p>          <l>כם</l><r><j/><s n="prn"/><s n="p2"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>כן</l><r><j/><s n="prn"/><s n="p2"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>הם</l><r><j/><s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>הן</l><r><j/><s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    </pardef>
+
+    <pardef n="בשביל__pr">  <!-- ם/ן 3 pl type -->
+      <e><p>          <l>י</l><r><j/><s n="prn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ך</l><r><j/><s n="prn"/><s n="p2"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ך</l><r><j/><s n="prn"/><s n="p2"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ו</l><r><j/><s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ה</l><r><j/><s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>נו</l><r><j/><s n="prn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e><p>          <l>כם</l><r><j/><s n="prn"/><s n="p2"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>כן</l><r><j/><s n="prn"/><s n="p2"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ם</l><r><j/><s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ן</l><r><j/><s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    </pardef>
+
+    <pardef n="על__pr">
+      <e><p>          <l>י</l><r><j/><s n="prn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e r="LR"><p>   <l>יי</l><r><j/><s n="prn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e><p>          <l>יך</l><r><j/><s n="prn"/><s n="p2"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ייך</l><r><j/><s n="prn"/><s n="p2"/><s n="f"/><s n="sg"/></r></p></e>
+      <e r="LR"><p>   <l>יך</l><r><j/><s n="prn"/><s n="p2"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>יו</l><r><j/><s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>יה</l><r><j/><s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ינו</l><r><j/><s n="prn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e><p>          <l>יכם</l><r><j/><s n="prn"/><s n="p2"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>יכן</l><r><j/><s n="prn"/><s n="p2"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>יהם</l><r><j/><s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>יהן</l><r><j/><s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    </pardef>
+
+    <pardef n="בין__pr">  <!-- sg like ב, pl like על -->
+      <e><p>          <l>י</l><r><j/><s n="prn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ך</l><r><j/><s n="prn"/><s n="p2"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ך</l><r><j/><s n="prn"/><s n="p2"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ו</l><r><j/><s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ה</l><r><j/><s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ינו</l><r><j/><s n="prn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e><p>          <l>יכם</l><r><j/><s n="prn"/><s n="p2"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>יכן</l><r><j/><s n="prn"/><s n="p2"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>יהם</l><r><j/><s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>יהן</l><r><j/><s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    </pardef>
+
+    <pardef n="את__pr"> 
+      <e><p>          <l>את</l><r>את<s n="pr"/></r></p></e>
+      <e><p>          <l>אות'</l><r>את<s n="pr"/><j/><s n="prn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e><p>          <l>אותך</l><r>את<s n="pr"/><j/><s n="prn"/><s n="p2"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>אותך</l><r>את<s n="pr"/><j/><s n="prn"/><s n="p2"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>אותו</l><r>את<s n="pr"/><j/><s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>אותה</l><r>את<s n="pr"/><j/><s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>אותנו</l><r>את<s n="pr"/><j/><s n="prn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e><p>          <l>אתכם</l><r>את<s n="pr"/><j/><s n="prn"/><s n="p2"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>אתכן</l><r>את<s n="pr"/><j/><s n="prn"/><s n="p2"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>אותם</l><r>את<s n="pr"/><j/><s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>אותן</l><r>את<s n="pr"/><j/><s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    </pardef>
+
+    <pardef n="מן__pr">
+      <e><p>          <l>ממני</l><r><s n="pr"/><j/><s n="prn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ממך</l><r><s n="pr"/><j/><s n="prn"/><s n="p2"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ממך</l><r><s n="pr"/><j/><s n="prn"/><s n="p2"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ממנו</l><r><s n="pr"/><j/><s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ממנה</l><r><s n="pr"/><j/><s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ממנו</l><r><s n="pr"/><j/><s n="prn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e r="LR"><p>  <l>מאתנו</l><r><s n="pr"/><j/><s n="prn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e><p>          <l>מכם</l><r><s n="pr"/><j/><s n="prn"/><s n="p2"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>מכן</l><r><s n="pr"/><j/><s n="prn"/><s n="p2"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>מהם</l><r><s n="pr"/><j/><s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>מהן</l><r><s n="pr"/><j/><s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    </pardef>
+
+    <pardef n="כמו__pr">
+      <e><p>          <l>כמוני</l><r><s n="pr"/><j/><s n="prn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e><p>          <l>כמוך</l><r><s n="pr"/><j/><s n="prn"/><s n="p2"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>כמוך</l><r><s n="pr"/><j/><s n="prn"/><s n="p2"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>כמוהו</l><r><s n="pr"/><j/><s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>כמוה</l><r><s n="pr"/><j/><s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>כמונו</l><r><s n="pr"/><j/><s n="prn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e><p>          <l>כמוכם</l><r><s n="pr"/><j/><s n="prn"/><s n="p2"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>כמוכן</l><r><s n="pr"/><j/><s n="prn"/><s n="p2"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>כמוהם</l><r><s n="pr"/><j/><s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>כמוהן</l><r><s n="pr"/><j/><s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    </pardef>
+
+
 
     <!-- SECTION: Determiners -->
 
@@ -6735,6 +6831,9 @@
     <e lm="חלק" c=""><i>חלק</i><par n="חלק__prn"/></e>
     
     <!-- Possessive pronouns -->
+
+    <!-- מירי: I would prefer for have it as של prep + pron. suffixes! -->
+
     <e lm="שלי" c="mine"><i>שלי</i><par n="שלי__prn"/></e>
     <e lm="שלנו" c="ours"><i>שלנו</i><par n="שלי__prn"/></e>
     <e lm="שלך" c="yours (sg)"><i>שלך</i><par n="שלי__prn"/></e>
@@ -6748,57 +6847,83 @@
 
     <!-- SECTION: Prepositions -->
 
-    <e lm="למרות ש"><i>למרות<b/>ש</i><par n="ללא__pr"/></e>
+    <e lm="למרות ש"><i>למרות<b/>ש</i><par n="ללא__pr"/></e>  <!-- prep?? -->
     <e lm="בלי"><i>בלי</i><par n="ללא__pr"/></e>
+    <e><p><l>בלעד</l><r>בלי</r></p><par n="ללא__pr"/><par n="על__pr"/></e>
     <e lm="לתוך"><i>לתוך</i><par n="ללא__pr"/></e>
+    <e><p><l>לתוכ</l><r>לתוך</r></p><par n="ללא__pr"/><par n="בשביל__pr"/></e> <!-- וגם בתוך --> 
     <e lm="תחת"><i>תחת</i><par n="ללא__pr"/></e>
+    <e><i>תחת</i><par n="ללא__pr"/><par n="על__pr"/></e>
     <e lm="מתחת"><i>מתחת</i><par n="ללא__pr"/></e>
-    <e lm="מאשר"><i>מאשר</i><par n="ללא__pr"/></e>
-    <e lm="ה"><i>ה</i><par n="ללא__pr"/></e>
-    <e lm="אחר"><i>אחר</i><par n="ללא__pr"/></e>
+    <e><i>מתחת</i><par n="ללא__pr"/><par n="על__pr"/></e>
+    <e lm="מאשר"><i>מאשר</i><par n="ללא__pr"/></e>  <!-- prep ? -->
+    <e lm="ה"><i>ה</i><par n="ללא__pr"/></e>   <!-- what??? -->
+    <e lm="אחר"><i>אחר</i><par n="ללא__pr"/></e>  
     <e lm="אחרי"><i>אחרי</i><par n="ללא__pr"/></e>
+    <e><p><l>אחר</l><r>אחרי</r></p><par n="ללא__pr"/><par n="על__pr"/></e>
     <e lm="אל"><i>אל</i><par n="ללא__pr"/></e>
+    <e><i>אל</i><par n="ללא__pr"/><par n="על__pr"/></e>
     <e lm="אצל"><i>אצל</i><par n="ללא__pr"/></e>
-    <e lm="את"><i>את</i><par n="ללא__pr"/></e>
-    <e lm="באשר"><i>באשר</i><par n="ללא__pr"/></e>
+    <e><i>אצל</i><par n="ללא__pr"/><par n="בשביל__pr"/></e>
+    <e lm="את"><i>את</i><par n="את__pr"/></e>
+    <e lm="באשר"><i>באשר</i><par n="ללא__pr"/></e> <!-- .. -->
     <e lm="בגלל"><i>בגלל</i><par n="ללא__pr"/></e>
+    <e><i>בגלל</i><par n="ללא__pr"/><par n="בשביל__pr"/></e>
     <e lm="בין"><i>בין</i><par n="ללא__pr"/></e>
-    <e lm="במקום"><i>במקום</i><par n="ללא__pr"/></e>
-    <e lm="בעצם"><i>בעצם</i><par n="ללא__pr"/></e>
+    <e><p><l>בינ</l><r>בין</r></p><par n="ללא__pr"/><par n="בין__pr"/></e>
+    <e lm="במקום"><i>במקום</i><par n="ללא__pr"/></e> 
+    <e><p><l>במקומ</l><r>במקום</r></p><par n="בשביל__pr"/></e> 
+    <e lm="בעצם"><i>בעצם</i><par n="ללא__pr"/></e>  <!-- hm -->
+    <e><p><l>בעצמ</l><r>בעצם</r></p><par n="ללא__pr"/><par n="בשביל__pr"/></e>  <!-- hm -->
     <e lm="בשביל"><i>בשביל</i><par n="ללא__pr"/></e>
+    <e lm="בשביל"><i>בשביל</i><par n="ללא__pr"/><par n="בשביל__pr"/></e>
     <e lm="בשל"><i>בשל</i><par n="ללא__pr"/></e>
     <e lm="בתוך"><i>בתוך</i><par n="ללא__pr"/></e>
+    <e><p><l>בתוכ</l><r>בתוך</r></p><par n="ללא__pr"/><par n="על__pr"/></e>
     <e lm="דרך"><i>דרך</i><par n="ללא__pr"/></e>
     <e lm="חוץ מ"><i>חוץ<b/>מ</i><par n="ללא__pr"/></e>
+    <e><p><l>חוץ<b/></l><r>חוץ<b/>מ</r></p><par n="ללא__pr"/><par n="מן__pr"/></e>
     <e lm="כ"><i>כ</i><par n="ללא__pr"/></e>
-    <e lm="כדי"><i>כדי</i><par n="ללא__pr"/></e>
+    <e lm="כדי"><i>כדי</i><par n="ללא__pr"/></e> <!-- ?? -->
     <e lm="כמו"><i>כמו</i><par n="ללא__pr"/></e>
+    <e><p><l/><r>כמו</r></p><par n="ללא__pr"/><par n="כמו__pr"/></e>
     <e lm="ל"><i>ל</i><par n="ללא__pr"/></e>
+    <e><i>ל</i><par n="ללא__pr"/><par n="ב__pr"/></e>
     <e lm="לאחר"><i>לאחר</i><par n="ללא__pr"/></e>
+    <e><p><l>לאחר</l><r>לאחר</r></p><par n="ללא__pr"/><par n="על__pr"/></e>
     <e lm="ליד"><i>ליד</i><par n="ללא__pr"/></e>
+    <e lm="ליד"><i>ליד</i><par n="ללא__pr"/><par n="בשביל__pr"/></e>
     <e lm="לכבוד"><i>לכבוד</i><par n="ללא__pr"/></e>
     <e lm="ללא"><i>ללא</i><par n="ללא__pr"/></e>
     <e lm="למען"><i>למען</i><par n="ללא__pr"/></e>
+    <e><p><l>למענ</l><r>למען</r></p><par n="ללא__pr"/><par n="בשביל__pr"/></e>
     <e lm="למרות"><i>למרות</i><par n="ללא__pr"/></e>
     <e lm="לפי"><i>לפי</i><par n="ללא__pr"/></e>
     <e lm="לפני"><i>לפני</i><par n="ללא__pr"/></e>
+    <e><p><l>לפנ</l><r>לפני</r></p><par n="ללא__pr"/><par n="על__pr"/></e>
     <e lm="מ"><i>מ</i><par n="ללא__pr"/></e>
-    <e lm="מאז"><i>מאז</i><par n="ללא__pr"/></e>
+    <e><p><l/><r>מ</r></p><par n="ללא__pr"/><par n="מן__pr"/></e>
+    <e lm="מאז"><i>מאז</i><par n="ללא__pr"/></e> <!-- cnj -->
     <e lm="מול"><i>מול</i><par n="ללא__pr"/></e>
     <e lm="מול עיני"><i>מול<b/>עיני</i><par n="ללא__pr"/></e>
     <e lm="מלבד"><i>מלבד</i><par n="ללא__pr"/></e>
+    <e><i>מלבד</i><par n="ללא__pr"/><par n="בשביל__pr"/></e>
     <e lm="מן"><i>מן</i><par n="ללא__pr"/></e>
+    <e><p><l/><r>מן</r></p><par n="ללא__pr"/><par n="מן__pr"/></e>
     <e lm="מעל"><i>מעל</i><par n="ללא__pr"/></e>
     <e lm="נגד"><i>נגד</i><par n="ללא__pr"/></e>
     <e lm="עד"><i>עד</i><par n="ללא__pr"/></e>
     <e lm="על"><i>על</i><par n="ללא__pr"/></e>
+    <e><i>על</i><par n="ללא__pr"/><par n="על__pr"/></e>
     <e lm="על יד"><i>על<b/>יד</i><par n="ללא__pr"/></e>
-    <e lm="ע״ש"><i>ע״ש</i><par n="ללא__pr"/></e>
+    <e lm="ע״ש"><i>ע״ש</i><par n="ללא__pr"/></e> <!-- abbr? -->
     <e lm="של"><i>של</i><par n="ללא__pr"/></e>
-    <e lm="של"><i>של</i><par n="ללא__pr"/></e>
+    <e lm="של"><i>של</i><par n="ללא__pr"/><par n="ב__pr"/></e> <!-- שלי, שלך.. - do we want to have these forms as poss pronouns? -->
     <e lm="ב"><i>ב</i><par n="ללא__pr"/></e>
+    <e><i>ב</i><par n="ללא__pr"/><par n="ב__pr"/></e>
     <e lm="עם"><i>עם</i><par n="ללא__pr"/></e>
-    <e lm="בזמן ש"><i>בזמן<b/>ש</i><par n="ללא__pr"/></e>
+    <e><p><l>את</l><r>עם</r></p><par n="ללא__pr"/><par n="בשביל__pr"/></e>
+    <e lm="בזמן ש"><i>בזמן<b/>ש</i><par n="ללא__pr"/></e>  <!-- ? -->
     
     <!-- SECTION: Numerals -->
     
