@@ -124,100 +124,99 @@
     </pardef>
 
     <pardef n="ב__pr">  <!-- הם/הן 3 pl type -->
-      <e><p>          <l>י</l><r><j/><s n="prn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
-      <e><p>          <l>ך</l><r><j/><s n="prn"/><s n="p2"/><s n="m"/><s n="sg"/></r></p></e>
-      <e><p>          <l>ך</l><r><j/><s n="prn"/><s n="p2"/><s n="f"/><s n="sg"/></r></p></e>
-      <e><p>          <l>ו</l><r><j/><s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
-      <e><p>          <l>ה</l><r><j/><s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
-      <e><p>          <l>נו</l><r><j/><s n="prn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
-      <e><p>          <l>כם</l><r><j/><s n="prn"/><s n="p2"/><s n="m"/><s n="sg"/></r></p></e>
-      <e><p>          <l>כן</l><r><j/><s n="prn"/><s n="p2"/><s n="f"/><s n="sg"/></r></p></e>
-      <e><p>          <l>הם</l><r><j/><s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
-      <e><p>          <l>הן</l><r><j/><s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>י</l><r><j/>ו<s n="prn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ך</l><r><j/>ו<s n="prn"/><s n="p2"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ך</l><r><j/>ו<s n="prn"/><s n="p2"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ו</l><r><j/>ו<s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ה</l><r><j/>ו<s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>נו</l><r><j/>ו<s n="prn"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
+      <e><p>          <l>כם</l><r><j/>ו<s n="prn"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p>          <l>כן</l><r><j/>ו<s n="prn"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+      <e><p>          <l>הם</l><r><j/>ו<s n="prn"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p>          <l>הן</l><r><j/>ו<s n="prn"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
 
     <pardef n="בשביל__pr">  <!-- ם/ן 3 pl type -->
-      <e><p>          <l>י</l><r><j/><s n="prn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
-      <e><p>          <l>ך</l><r><j/><s n="prn"/><s n="p2"/><s n="m"/><s n="sg"/></r></p></e>
-      <e><p>          <l>ך</l><r><j/><s n="prn"/><s n="p2"/><s n="f"/><s n="sg"/></r></p></e>
-      <e><p>          <l>ו</l><r><j/><s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
-      <e><p>          <l>ה</l><r><j/><s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
-      <e><p>          <l>נו</l><r><j/><s n="prn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
-      <e><p>          <l>כם</l><r><j/><s n="prn"/><s n="p2"/><s n="m"/><s n="sg"/></r></p></e>
-      <e><p>          <l>כן</l><r><j/><s n="prn"/><s n="p2"/><s n="f"/><s n="sg"/></r></p></e>
-      <e><p>          <l>ם</l><r><j/><s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
-      <e><p>          <l>ן</l><r><j/><s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>י</l><r><j/>ו<s n="prn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ך</l><r><j/>ו<s n="prn"/><s n="p2"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ך</l><r><j/>ו<s n="prn"/><s n="p2"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ו</l><r><j/>ו<s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ה</l><r><j/>ו<s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>נו</l><r><j/>ו<s n="prn"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
+      <e><p>          <l>כם</l><r><j/>ו<s n="prn"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p>          <l>כן</l><r><j/>ו<s n="prn"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ם</l><r><j/>ו<s n="prn"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ן</l><r><j/>ו<s n="prn"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
 
     <pardef n="על__pr">
-      <e><p>          <l>י</l><r><j/><s n="prn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
-      <e r="LR"><p>   <l>יי</l><r><j/><s n="prn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
-      <e><p>          <l>יך</l><r><j/><s n="prn"/><s n="p2"/><s n="m"/><s n="sg"/></r></p></e>
-      <e><p>          <l>ייך</l><r><j/><s n="prn"/><s n="p2"/><s n="f"/><s n="sg"/></r></p></e>
-      <e r="LR"><p>   <l>יך</l><r><j/><s n="prn"/><s n="p2"/><s n="f"/><s n="sg"/></r></p></e>
-      <e><p>          <l>יו</l><r><j/><s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
-      <e><p>          <l>יה</l><r><j/><s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
-      <e><p>          <l>ינו</l><r><j/><s n="prn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
-      <e><p>          <l>יכם</l><r><j/><s n="prn"/><s n="p2"/><s n="m"/><s n="sg"/></r></p></e>
-      <e><p>          <l>יכן</l><r><j/><s n="prn"/><s n="p2"/><s n="f"/><s n="sg"/></r></p></e>
-      <e><p>          <l>יהם</l><r><j/><s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
-      <e><p>          <l>יהן</l><r><j/><s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>י</l><r><j/>ו<s n="prn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e r="LR"><p>   <l>יי</l><r><j/>ו<s n="prn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e><p>          <l>יך</l><r><j/>ו<s n="prn"/><s n="p2"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ייך</l><r><j/>ו<s n="prn"/><s n="p2"/><s n="f"/><s n="sg"/></r></p></e>
+      <e r="LR"><p>   <l>יך</l><r><j/>ו<s n="prn"/><s n="p2"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>יו</l><r><j/>ו<s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>יה</l><r><j/>ו<s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ינו</l><r><j/>ו<s n="prn"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
+      <e><p>          <l>יכם</l><r><j/>ו<s n="prn"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p>          <l>יכן</l><r><j/>ו<s n="prn"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+      <e><p>          <l>יהם</l><r><j/>ו<s n="prn"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p>          <l>יהן</l><r><j/>ו<s n="prn"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
 
     <pardef n="בין__pr">  <!-- sg like ב, pl like על -->
-      <e><p>          <l>י</l><r><j/><s n="prn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
-      <e><p>          <l>ך</l><r><j/><s n="prn"/><s n="p2"/><s n="m"/><s n="sg"/></r></p></e>
-      <e><p>          <l>ך</l><r><j/><s n="prn"/><s n="p2"/><s n="f"/><s n="sg"/></r></p></e>
-      <e><p>          <l>ו</l><r><j/><s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
-      <e><p>          <l>ה</l><r><j/><s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
-      <e><p>          <l>ינו</l><r><j/><s n="prn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
-      <e><p>          <l>יכם</l><r><j/><s n="prn"/><s n="p2"/><s n="m"/><s n="sg"/></r></p></e>
-      <e><p>          <l>יכן</l><r><j/><s n="prn"/><s n="p2"/><s n="f"/><s n="sg"/></r></p></e>
-      <e><p>          <l>יהם</l><r><j/><s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
-      <e><p>          <l>יהן</l><r><j/><s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>י</l><r><j/>ו<s n="prn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ך</l><r><j/>ו<s n="prn"/><s n="p2"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ך</l><r><j/>ו<s n="prn"/><s n="p2"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ו</l><r><j/>ו<s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ה</l><r><j/>ו<s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ינו</l><r><j/>ו<s n="prn"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
+      <e><p>          <l>יכם</l><r><j/>ו<s n="prn"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p>          <l>יכן</l><r><j/>ו<s n="prn"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+      <e><p>          <l>יהם</l><r><j/>ו<s n="prn"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p>          <l>יהן</l><r><j/>ו<s n="prn"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
 
     <pardef n="את__pr"> 
       <e><p>          <l>את</l><r>את<s n="pr"/></r></p></e>
-      <e><p>          <l>אות'</l><r>את<s n="pr"/><j/><s n="prn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
-      <e><p>          <l>אותך</l><r>את<s n="pr"/><j/><s n="prn"/><s n="p2"/><s n="m"/><s n="sg"/></r></p></e>
-      <e><p>          <l>אותך</l><r>את<s n="pr"/><j/><s n="prn"/><s n="p2"/><s n="f"/><s n="sg"/></r></p></e>
-      <e><p>          <l>אותו</l><r>את<s n="pr"/><j/><s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
-      <e><p>          <l>אותה</l><r>את<s n="pr"/><j/><s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
-      <e><p>          <l>אותנו</l><r>את<s n="pr"/><j/><s n="prn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
-      <e><p>          <l>אתכם</l><r>את<s n="pr"/><j/><s n="prn"/><s n="p2"/><s n="m"/><s n="sg"/></r></p></e>
-      <e><p>          <l>אתכן</l><r>את<s n="pr"/><j/><s n="prn"/><s n="p2"/><s n="f"/><s n="sg"/></r></p></e>
-      <e><p>          <l>אותם</l><r>את<s n="pr"/><j/><s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
-      <e><p>          <l>אותן</l><r>את<s n="pr"/><j/><s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>אות'</l><r>את<s n="pr"/><j/>ו<s n="prn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e><p>          <l>אותך</l><r>את<s n="pr"/><j/>ו<s n="prn"/><s n="p2"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>אותך</l><r>את<s n="pr"/><j/>ו<s n="prn"/><s n="p2"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>אותו</l><r>את<s n="pr"/><j/>ו<s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>אותה</l><r>את<s n="pr"/><j/>ו<s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>אותנו</l><r>את<s n="pr"/><j/>ו<s n="prn"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
+      <e><p>          <l>אתכם</l><r>את<s n="pr"/><j/>ו<s n="prn"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p>          <l>אתכן</l><r>את<s n="pr"/><j/>ו<s n="prn"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+      <e><p>          <l>אותם</l><r>את<s n="pr"/><j/>ו<s n="prn"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p>          <l>אותן</l><r>את<s n="pr"/><j/>ו<s n="prn"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
 
     <pardef n="מן__pr">
-      <e><p>          <l>ממני</l><r><s n="pr"/><j/><s n="prn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
-      <e><p>          <l>ממך</l><r><s n="pr"/><j/><s n="prn"/><s n="p2"/><s n="m"/><s n="sg"/></r></p></e>
-      <e><p>          <l>ממך</l><r><s n="pr"/><j/><s n="prn"/><s n="p2"/><s n="f"/><s n="sg"/></r></p></e>
-      <e><p>          <l>ממנו</l><r><s n="pr"/><j/><s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
-      <e><p>          <l>ממנה</l><r><s n="pr"/><j/><s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
-      <e><p>          <l>ממנו</l><r><s n="pr"/><j/><s n="prn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
-      <e r="LR"><p>  <l>מאתנו</l><r><s n="pr"/><j/><s n="prn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
-      <e><p>          <l>מכם</l><r><s n="pr"/><j/><s n="prn"/><s n="p2"/><s n="m"/><s n="sg"/></r></p></e>
-      <e><p>          <l>מכן</l><r><s n="pr"/><j/><s n="prn"/><s n="p2"/><s n="f"/><s n="sg"/></r></p></e>
-      <e><p>          <l>מהם</l><r><s n="pr"/><j/><s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
-      <e><p>          <l>מהן</l><r><s n="pr"/><j/><s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ממני</l><r><s n="pr"/><j/>ו<s n="prn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ממך</l><r><s n="pr"/><j/>ו<s n="prn"/><s n="p2"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ממך</l><r><s n="pr"/><j/>ו<s n="prn"/><s n="p2"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ממנו</l><r><s n="pr"/><j/>ו<s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ממנה</l><r><s n="pr"/><j/>ו<s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ממנו</l><r><s n="pr"/><j/>ו<s n="prn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e r="LR"><p>  <l>מאתנו</l><r><s n="pr"/><j/>ו<s n="prn"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
+      <e><p>          <l>מכם</l><r><s n="pr"/><j/>ו<s n="prn"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p>          <l>מכן</l><r><s n="pr"/><j/>ו<s n="prn"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+      <e><p>          <l>מהם</l><r><s n="pr"/><j/>ו<s n="prn"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p>          <l>מהן</l><r><s n="pr"/><j/>ו<s n="prn"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
 
     <pardef n="כמו__pr">
-      <e><p>          <l>כמוני</l><r><s n="pr"/><j/><s n="prn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
-      <e><p>          <l>כמוך</l><r><s n="pr"/><j/><s n="prn"/><s n="p2"/><s n="m"/><s n="sg"/></r></p></e>
-      <e><p>          <l>כמוך</l><r><s n="pr"/><j/><s n="prn"/><s n="p2"/><s n="f"/><s n="sg"/></r></p></e>
-      <e><p>          <l>כמוהו</l><r><s n="pr"/><j/><s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
-      <e><p>          <l>כמוה</l><r><s n="pr"/><j/><s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
-      <e><p>          <l>כמונו</l><r><s n="pr"/><j/><s n="prn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
-      <e><p>          <l>כמוכם</l><r><s n="pr"/><j/><s n="prn"/><s n="p2"/><s n="m"/><s n="sg"/></r></p></e>
-      <e><p>          <l>כמוכן</l><r><s n="pr"/><j/><s n="prn"/><s n="p2"/><s n="f"/><s n="sg"/></r></p></e>
-      <e><p>          <l>כמוהם</l><r><s n="pr"/><j/><s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
-      <e><p>          <l>כמוהן</l><r><s n="pr"/><j/><s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>כמוני</l><r><s n="pr"/><j/>ו<s n="prn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e><p>          <l>כמוך</l><r><s n="pr"/><j/>ו<s n="prn"/><s n="p2"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>כמוך</l><r><s n="pr"/><j/>ו<s n="prn"/><s n="p2"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>כמוהו</l><r><s n="pr"/><j/>ו<s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>כמוה</l><r><s n="pr"/><j/>ו<s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>כמונו</l><r><s n="pr"/><j/>ו<s n="prn"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
+      <e><p>          <l>כמוכם</l><r><s n="pr"/><j/>ו<s n="prn"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p>          <l>כמוכן</l><r><s n="pr"/><j/>ו<s n="prn"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+      <e><p>          <l>כמוהם</l><r><s n="pr"/><j/>ו<s n="prn"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p>          <l>כמוהן</l><r><s n="pr"/><j/>ו<s n="prn"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
-
 
 
     <!-- SECTION: Determiners -->
@@ -6865,7 +6864,7 @@
     <e><i>אל</i><par n="ללא__pr"/><par n="על__pr"/></e>
     <e lm="אצל"><i>אצל</i><par n="ללא__pr"/></e>
     <e><i>אצל</i><par n="ללא__pr"/><par n="בשביל__pr"/></e>
-    <e lm="את"><i>את</i><par n="את__pr"/></e>
+    <e lm="את"><i></i><par n="את__pr"/></e>
     <e lm="באשר"><i>באשר</i><par n="ללא__pr"/></e> <!-- .. -->
     <e lm="בגלל"><i>בגלל</i><par n="ללא__pr"/></e>
     <e><i>בגלל</i><par n="ללא__pr"/><par n="בשביל__pr"/></e>

@@ -45,6 +45,18 @@
     <def-cat n="kellu">
       <cat-item tags="vaux.*" lemma="kellu"/>
     </def-cat>
+    <def-cat n="u_prn">
+      <cat-item tags="prn.*" lemma="u"/>
+    </def-cat>
+    <def-cat n="lu_prn">
+      <cat-item tags="prn.*" lemma="lu"/>
+    </def-cat>
+    <def-cat n="ma_adv">
+      <cat-item tags="adv" lemma="ma"/>
+    </def-cat>
+    <def-cat n="x_neg">
+      <cat-item tags="neg" lemma="x"/>
+    </def-cat>
   </section-def-cats>
 
 
@@ -818,6 +830,304 @@
        <action>
        </action>
     </rule>
+
+    <rule comment="rule: verb + dir.obj.">
+       <pattern>
+         <pattern-item n="vrb"/>
+         <pattern-item n="u_prn"/>
+       </pattern>
+       <action>
+         <call-macro n="modify_verb_and_genero"><with-param pos="1"/></call-macro>
+         <call-macro n="f_concord1"><with-param pos="2"/></call-macro> <!-- ? -->
+         <out>
+           <lu>
+             <clip pos="1" side="tl" part="lemh"/>
+             <clip pos="1" side="tl" part="a_verb"/>
+             <clip pos="1" side="tl" part="temps"/>
+             <clip pos="1" side="tl" part="pers"/>
+             <var n="genero"/>
+             <clip pos="1" side="tl" part="nbr"/>
+             <clip pos="1" side="tl" part="lemq"/>
+           </lu>
+	   <b/>
+	   <mlu>
+  	     <lu>
+	       <lit v="את"/>
+	       <lit-tag v="pr"/>
+	     </lu>
+	     <lu>
+	       <lit v="ו"/>
+	       <lit-tag v="prn"/>
+               <clip pos="2" side="tl" part="pers"/>
+               <clip pos="2" side="tl" part="gen"/>
+               <clip pos="2" side="tl" part="nbr"/>
+	     </lu>
+	   </mlu>
+         </out>
+       </action>
+    </rule>
+
+
+    <rule comment="rule: verb + indir.obj.">
+       <pattern>
+         <pattern-item n="vrb"/>
+         <pattern-item n="lu_prn"/>
+       </pattern>
+       <action>
+         <call-macro n="modify_verb_and_genero"><with-param pos="1"/></call-macro>
+         <call-macro n="f_concord1"><with-param pos="2"/></call-macro> <!-- ? -->
+         <out>
+           <lu>
+             <clip pos="1" side="tl" part="lemh"/>
+             <clip pos="1" side="tl" part="a_verb"/>
+             <clip pos="1" side="tl" part="temps"/>
+             <clip pos="1" side="tl" part="pers"/>
+             <var n="genero"/>
+             <clip pos="1" side="tl" part="nbr"/>
+             <clip pos="1" side="tl" part="lemq"/>
+           </lu>
+	   <b/>
+	   <mlu>
+	     <lu>
+	       <lit v="ל"/>
+	       <lit-tag v="pr"/>
+	     </lu>
+	     <lu>
+	       <lit v="ו"/>
+	       <lit-tag v="prn"/>
+               <clip pos="2" side="tl" part="pers"/>
+               <clip pos="2" side="tl" part="gen"/>
+               <clip pos="2" side="tl" part="nbr"/>
+	     </lu>
+	   </mlu>
+         </out>
+       </action>
+    </rule>
+
+
+    <rule comment="rule: verb + dir.obj. + indir.obj.">
+       <pattern>
+         <pattern-item n="vrb"/>
+         <pattern-item n="u_prn"/>
+         <pattern-item n="lu_prn"/>
+       </pattern>
+       <action>
+         <call-macro n="modify_verb_and_genero"><with-param pos="1"/></call-macro>
+         <call-macro n="f_concord1"><with-param pos="2"/></call-macro>
+         <call-macro n="f_concord1"><with-param pos="3"/></call-macro> <!-- ? -->
+         <out>
+           <lu>
+             <clip pos="1" side="tl" part="lemh"/>
+             <clip pos="1" side="tl" part="a_verb"/>
+             <clip pos="1" side="tl" part="temps"/>
+             <clip pos="1" side="tl" part="pers"/>
+             <var n="genero"/>
+             <clip pos="1" side="tl" part="nbr"/>
+             <clip pos="1" side="tl" part="lemq"/>
+           </lu>
+	   <b/>
+	   <mlu>
+	     <lu>
+	       <lit v="את"/>
+	       <lit-tag v="pr"/>
+	     </lu>
+	     <lu>
+	       <lit v="ו"/>
+	       <lit-tag v="prn"/>
+               <clip pos="2" side="tl" part="pers"/>
+               <clip pos="2" side="tl" part="gen"/>
+               <clip pos="2" side="tl" part="nbr"/>
+	     </lu>
+	   </mlu>
+	   <b/>
+	   <mlu>
+	     <lu>
+	       <lit v="ל"/>
+	       <lit-tag v="pr"/>
+	     </lu>
+	     <lu>
+	       <lit v="ו"/>
+	       <lit-tag v="prn"/>
+               <clip pos="3" side="tl" part="pers"/>
+               <clip pos="3" side="tl" part="gen"/>
+               <clip pos="3" side="tl" part="nbr"/>
+	     </lu>
+	   </mlu>
+         </out>
+       </action>
+    </rule>
+
+
+    <rule comment="rule: verb negation"> <!-- one לא is enough -->
+       <pattern>
+         <pattern-item n="ma_adv"/>
+         <pattern-item n="vrb"/>
+         <pattern-item n="x_neg"/>
+       </pattern>
+       <action>
+         <call-macro n="modify_verb_and_genero"><with-param pos="2"/></call-macro>
+         <out>
+           <lu>
+             <clip pos="1" side="tl" part="whole"/>
+           </lu>
+	   <b/>
+           <lu>
+             <clip pos="2" side="tl" part="lemh"/>
+             <clip pos="2" side="tl" part="a_verb"/>
+             <clip pos="2" side="tl" part="temps"/>
+             <clip pos="2" side="tl" part="pers"/>
+             <var n="genero"/>
+             <clip pos="2" side="tl" part="nbr"/>
+             <clip pos="2" side="tl" part="lemq"/>
+           </lu>
+         </out>
+       </action>
+    </rule>
+
+    <rule comment="rule: verb + dir.obj., neg">
+       <pattern>
+         <pattern-item n="ma_adv"/>
+         <pattern-item n="vrb"/>
+         <pattern-item n="u_prn"/>
+         <pattern-item n="x_neg"/>
+       </pattern>
+       <action>
+         <call-macro n="modify_verb_and_genero"><with-param pos="2"/></call-macro>
+         <call-macro n="f_concord1"><with-param pos="3"/></call-macro> <!-- ? -->
+         <out>
+           <lu>
+             <clip pos="1" side="tl" part="whole"/>
+           </lu>
+	   <b/>
+           <lu>
+             <clip pos="2" side="tl" part="lemh"/>
+             <clip pos="2" side="tl" part="a_verb"/>
+             <clip pos="2" side="tl" part="temps"/>
+             <clip pos="2" side="tl" part="pers"/>
+             <var n="genero"/>
+             <clip pos="2" side="tl" part="nbr"/>
+             <clip pos="2" side="tl" part="lemq"/>
+           </lu>
+	   <b/>
+	   <mlu>
+  	     <lu>
+	       <lit v="את"/>
+	       <lit-tag v="pr"/>
+	     </lu>
+	     <lu>
+	       <lit v="ו"/>
+	       <lit-tag v="prn"/>
+               <clip pos="3" side="tl" part="pers"/>
+               <clip pos="3" side="tl" part="gen"/>
+               <clip pos="3" side="tl" part="nbr"/>
+	     </lu>
+	   </mlu>
+         </out>
+       </action>
+    </rule>
+
+
+    <rule comment="rule: verb + indir.obj., neg">
+       <pattern>
+         <pattern-item n="ma_adv"/>
+         <pattern-item n="vrb"/>
+         <pattern-item n="lu_prn"/>
+         <pattern-item n="x_neg"/>
+       </pattern>
+       <action>
+         <call-macro n="modify_verb_and_genero"><with-param pos="2"/></call-macro>
+         <call-macro n="f_concord1"><with-param pos="3"/></call-macro> <!-- ? -->
+         <out>
+           <lu>
+             <clip pos="1" side="tl" part="whole"/>
+           </lu>
+	   <b/>
+           <lu>
+             <clip pos="2" side="tl" part="lemh"/>
+             <clip pos="2" side="tl" part="a_verb"/>
+             <clip pos="2" side="tl" part="temps"/>
+             <clip pos="2" side="tl" part="pers"/>
+             <var n="genero"/>
+             <clip pos="2" side="tl" part="nbr"/>
+             <clip pos="2" side="tl" part="lemq"/>
+           </lu>
+	   <b/>
+	   <mlu>
+	     <lu>
+	       <lit v="ל"/>
+	       <lit-tag v="pr"/>
+	     </lu>
+	     <lu>
+	       <lit v="ו"/>
+	       <lit-tag v="prn"/>
+               <clip pos="3" side="tl" part="pers"/>
+               <clip pos="3" side="tl" part="gen"/>
+               <clip pos="3" side="tl" part="nbr"/>
+	     </lu>
+	   </mlu>
+         </out>
+       </action>
+    </rule>
+
+
+    <rule comment="rule: verb + dir.obj. + indir.obj., neg">
+       <pattern>
+         <pattern-item n="ma_adv"/>
+         <pattern-item n="vrb"/>
+         <pattern-item n="u_prn"/>
+         <pattern-item n="lu_prn"/>
+         <pattern-item n="x_neg"/>
+       </pattern>
+       <action>
+         <call-macro n="modify_verb_and_genero"><with-param pos="2"/></call-macro>
+         <call-macro n="f_concord1"><with-param pos="3"/></call-macro>
+         <call-macro n="f_concord1"><with-param pos="4"/></call-macro> <!-- ? -->
+         <out>
+           <lu>
+             <clip pos="1" side="tl" part="whole"/>
+           </lu>
+	   <b/>
+           <lu>
+             <clip pos="2" side="tl" part="lemh"/>
+             <clip pos="2" side="tl" part="a_verb"/>
+             <clip pos="2" side="tl" part="temps"/>
+             <clip pos="2" side="tl" part="pers"/>
+             <var n="genero"/>
+             <clip pos="2" side="tl" part="nbr"/>
+             <clip pos="2" side="tl" part="lemq"/>
+           </lu>
+	   <b/>
+	   <mlu>
+	     <lu>
+	       <lit v="את"/>
+	       <lit-tag v="pr"/>
+	     </lu>
+	     <lu>
+	       <lit v="ו"/>
+	       <lit-tag v="prn"/>
+               <clip pos="3" side="tl" part="pers"/>
+               <clip pos="3" side="tl" part="gen"/>
+               <clip pos="3" side="tl" part="nbr"/>
+	     </lu>
+	   </mlu>
+	   <b/>
+	   <mlu>
+	     <lu>
+	       <lit v="ל"/>
+	       <lit-tag v="pr"/>
+	     </lu>
+	     <lu>
+	       <lit v="ו"/>
+	       <lit-tag v="prn"/>
+               <clip pos="4" side="tl" part="pers"/>
+               <clip pos="4" side="tl" part="gen"/>
+               <clip pos="4" side="tl" part="nbr"/>
+	     </lu>
+	   </mlu>
+         </out>
+       </action>
+    </rule>
+
 
   </section-rules>
 </transfer>
