@@ -6,12 +6,12 @@
 /Makefile.am -text
 /NEWS -text
 /README -text
-/apertium-mt-he.he.dix -text
-/apertium-mt-he.mt-he.dix -text
-/apertium-mt-he.mt-he.t1x -text
-/apertium-mt-he.mt.acx -text
-/apertium-mt-he.mt.dix -text
-/apertium-mt-he.mt.tsx -text
+/apertium-mlt-heb.heb.dix -text
+/apertium-mlt-heb.mlt-heb.dix -text
+/apertium-mlt-heb.mlt-heb.t1x -text
+/apertium-mlt-heb.mlt.dix -text
+/apertium-mlt-heb.mlt.tsx -text
+/apertium-mlt-heb.mt.acx -text
 /autogen.sh -text
 /configure.ac -text
 dev/bidix-verbs-to-he.dix.sh -text
@@ -124,9 +124,9 @@ dev/verb_lists/hspell5jun.speling -text
 dev/wiktionary/extract_wiki_inflections.py -text
 dev/wiktionary/extract_wiki_translations.py -text
 /lexchoicebil.xsl -text
+/mlt-heb-unsupervised.make -text
+/mlt-heb.prob -text svneol=unset#unset
 /modes.xml -text
-/mt-he-unsupervised.make -text
-/mt-he.prob -text svneol=unset#unset
 /pending-tests.sh -text
 /regression-tests.sh -text
 /wiki-tests.sh -text
