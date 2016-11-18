@@ -1,6 +1,6 @@
 VERSION=0.1.0
-LANG1=mt
-LANG2=he
+LANG1=mlt
+LANG2=heb
 PREFIX1=$(LANG1)-$(LANG2)
 PREFIX2=$(LANG2)-$(LANG1)
 
@@ -57,7 +57,7 @@ EXTRA_DIST=$(BASENAME).$(LANG1).dix $(BASENAME).$(PREFIX1).dix \
 	   $(BASENAME).$(PREFIX1).t1x \
 	   modes.xml
 
-apertium_mt_hedir=$(prefix)/share/apertium/$(BASENAME)/
+apertium_mlt_hebdir=$(prefix)/share/apertium/$(BASENAME)/
 apertium_mt_modesdir=$(prefix)/share/apertium/modes/
 
 modes/$(PREFIX1).mode: modes.xml
@@ -65,7 +65,7 @@ modes/$(PREFIX1).mode: modes.xml
 	apertium-gen-modes modes.xml
 	cp *.mode modes/
 
-apertium_mt_he_DATA=$(TARGETS_COMMON) \
+apertium_mlt_heb_DATA=$(TARGETS_COMMON) \
                     $(PREFIX1).prob \
 		    modes.xml
 
@@ -79,7 +79,7 @@ install-data-local:
 	test -d $(DESTDIR)$(apertium_mt_modesdir) || mkdir $(DESTDIR)$(apertium_mt_modesdir)
 	$(INSTALL_DATA) $(PREFIX1).mode $(DESTDIR)$(apertium_mt_modesdir)
 	rm $(PREFIX1).mode
-	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t1x $(DESTDIR)$(apertium_mt_hedir)
+	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t1x $(DESTDIR)$(apertium_mlt_hebdir)
 
 
 CLEANFILES = $(TARGETS_COMMON)
