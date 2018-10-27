@@ -6,7 +6,7 @@ and Hebrew. It is a work in progress!
 
 
 Requirements
-===============================================================================
+-------------------------------------------------------------------------------
 
 You will need the following software installed:
 
@@ -17,7 +17,7 @@ If this does not make any sense, we recommend you look at: www.apertium.org
 
 
 Compiling
-===============================================================================
+-------------------------------------------------------------------------------
 
 Given the requirements being installed, you should be able to just run:
 
@@ -28,13 +28,13 @@ $ make install
 ```
 
 You can use `./autogen.sh` instead of `./configure` in case you're compiling from
-GitHub.
-If you're using a `--` prefix when running `./configure`, make sure it's the
-same one you used to install apertium itself.
+source (GitHub).
+If you installed any prerequisite language packages using a `--prefix`
+with `./configure`, make sure to use the same `--prefix` when running `./configure` here.
 
 
 Testing
-===============================================================================
+-------------------------------------------------------------------------------
 
 If you are in the source directory after running make, the following
 commands should work:
@@ -59,7 +59,7 @@ $ ./regression-tests.sh
 
 
 Files and data
-===============================================================================
+-------------------------------------------------------------------------------
 
 * [`apertium-mlt-heb.mt.dix`](apertium-mlt-heb.mt.dix) - Monolingual dictionary for Maltese
 * [`apertium-mlt-heb.mlt-heb.dix`](apertium-mlt-heb.mlt-heb.dix) - Bilingual dictionary 
@@ -71,7 +71,7 @@ for translating into Hebrew
 
 
 For more information
-===============================================================================
+-------------------------------------------------------------------------------
 
 * http://wiki.apertium.org/wiki/Installation
 * http://wiki.apertium.org/wiki/apertium-mlt-heb
@@ -84,6 +84,6 @@ Help and support
 If you need help using this language pair or data, you can contact:
 
 * Mailing list: apertium-stuff@lists.sourceforge.net
-* IRC: [#apertium on irc.freenode.net](irc://irc.freenode.net/#apertium)
+* IRC: [`#apertium` on irc.freenode.net](irc://irc.freenode.net/#apertium)
 
 See also the file [`AUTHORS`](AUTHORS), included in this distribution.
