@@ -1,6 +1,4 @@
-Maltese and Hebrew
-
-                            apertium-mt-he
+Maltese and Hebrew (`apertium-mlt-heb`)
 ===============================================================================
 
 This is an Apertium language pair for translating between Maltese
@@ -25,8 +23,8 @@ $ ./configure
 $ make
 # make install
 
-You can use ./autogen.sh instead of ./configure you're compiling from
-SVN. If you're using a --prefix to ./configure, make sure it's the
+You can use `./autogen.sh` instead of `./configure` you're compiling from
+GitHub. If you're using a --prefix to `./configure`, make sure it's the
 same one you used to install apertium itself.
 
 Testing
@@ -34,34 +32,34 @@ Testing
 
 If you are in the source directory after running make, the following
 commands should work:
-
-$ echo "ara" | apertium -d . mt-he
+```
+$ echo "ara" | apertium -d . mlt-heb
 רואה
-
+```
 After installing somewhere in $PATH, you should be able to do eg.
-
-$ echo "ara" | apertium mt-he
+```
+$ echo "ara" | apertium mlt-heb
 רואה
-
+```
 The following command runs tests which are on the Apertium wiki page:
-
+```
 $ ./regression-tests.sh 
-
+```
 Files and data
 ===============================================================================
 
-* apertium-mt-he.mt.dix            - Monolingual dictionary for Maltese
-* apertium-mt-he.mt-he.dix         - Bilingual dictionary 
-* apertium-mt-he.he.dix            - Monolingual dictionary for Hebrew
-* apertium-mt-he.mt-he.t1x         - Transfer rules for translating into Hebrew
-* mt-he.prob                       - Tagger model for Maltese
+* apertium-mlt-heb.mt.dix            - Monolingual dictionary for Maltese
+* apertium-mlt-heb.mlt-heb.dix         - Bilingual dictionary 
+* apertium-mlt-heb.he.dix            - Monolingual dictionary for Hebrew
+* apertium-mlt-heb.mlt-heb.t1x         - Transfer rules for translating into Hebrew
+* mlt-heb.prob                       - Tagger model for Maltese
 * modes.xml                        - Translation modes
 
 For more information
 ===============================================================================
 
 * http://wiki.apertium.org/wiki/Installation
-* http://wiki.apertium.org/wiki/apertium-mt-he
+* http://wiki.apertium.org/wiki/apertium-mlt-heb
 * http://wiki.apertium.org/wiki/Using_an_lttoolbox_dictionary
 
 Help and support
