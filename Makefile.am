@@ -17,7 +17,6 @@ TARGETS_COMMON =		\
 	$(PREFIX1).autobil.bin	\
 	$(PREFIX1).autolex.bin	\
 	$(PREFIX1).autogen.bin	\
-	$(PREFIX1).autopgen.bin	\
 	$(PREFIX1).t1x.bin	\
 	$(PREFIX2).automorf.bin	\
 	$(PREFIX2).prob		\
@@ -25,9 +24,10 @@ TARGETS_COMMON =		\
 	$(PREFIX2).autobil.bin	\
 	$(PREFIX2).autolex.bin	\
 	$(PREFIX2).autogen.bin	\
-	$(PREFIX2).autopgen.bin	\
 	$(PREFIX2).t1x.bin	
 
+#	$(PREFIX1).autopgen.bin	
+#	$(PREFIX2).autopgen.bin	
 #	$(PREFIX1).t2x.bin
 #	$(PREFIX1).t3x.bin	
 #	$(PREFIX2).t2x.bin	
@@ -127,13 +127,13 @@ $(PREFIX1).t1x.bin: $(BASENAME).$(PREFIX1).t1x
 	apertium-validate-transfer $<
 	apertium-preprocess-transfer $< $@
 
-$(PREFIX1).t2x.bin: $(BASENAME).$(PREFIX1).t2x
-	apertium-validate-interchunk $<
-	apertium-preprocess-transfer $< $@
-
-$(PREFIX1).t3x.bin: $(BASENAME).$(PREFIX1).t3x
-	apertium-validate-postchunk $<
-	apertium-preprocess-transfer $< $@
+#$(PREFIX1).t2x.bin: $(BASENAME).$(PREFIX1).t2x
+#	apertium-validate-interchunk $<
+#	apertium-preprocess-transfer $< $@
+#
+#$(PREFIX1).t3x.bin: $(BASENAME).$(PREFIX1).t3x
+#	apertium-validate-postchunk $<
+#	apertium-preprocess-transfer $< $@
 
 
 $(PREFIX2).t1x.bin: $(BASENAME).$(PREFIX2).t1x
@@ -167,12 +167,13 @@ EXTRA_DIST=					\
 		$(BASENAME).$(PREFIX1).dix	\
 		$(BASENAME).$(PREFIX2).lrx	\
 		$(BASENAME).$(PREFIX1).t1x	\
-		$(BASENAME).$(PREFIX1).t2x	\
-		$(BASENAME).$(PREFIX1).t3x	\
 		$(BASENAME).$(PREFIX2).t1x	\
 		$(BASENAME).$(PREFIX2).t2x	\
 		$(BASENAME).$(PREFIX2).t3x	\
 		modes.xml
+
+#		$(BASENAME).$(PREFIX1).t2x	
+#		$(BASENAME).$(PREFIX1).t3x	
 
 ###############################################################################
 ## Installation
@@ -184,11 +185,12 @@ apertium_mlt_hebdir=$(prefix)/share/apertium/$(BASENAME)/
 apertium_mlt_heb_DATA=	\
 	$(TARGETS_COMMON)				\
 	$(BASENAME).$(PREFIX1).t1x			\
-	$(BASENAME).$(PREFIX1).t2x			\
-	$(BASENAME).$(PREFIX1).t3x			\
 	$(BASENAME).$(PREFIX2).t1x			\
 	$(BASENAME).$(PREFIX2).t2x			\
 	$(BASENAME).$(PREFIX2).t3x
+
+#	$(BASENAME).$(PREFIX1).t2x			
+#	$(BASENAME).$(PREFIX1).t3x			
 
 # All modes are created by the same goal, listing several will just give problems with make -j2
 noinst_DATA=modes/$(PREFIX1).mode \
