@@ -1,5 +1,5 @@
 #!/bin/sh
-# Based on http://wiki.apertium.org/wiki/Asturian#Calculating_coverage
+# Based on https://wiki.apertium.org/wiki/Asturian#Calculating_coverage
 
 if [ $# -ne 1 ]; then
     echo "Usage:";
