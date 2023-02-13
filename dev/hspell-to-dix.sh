@@ -1,5 +1,5 @@
 #!/bin/bash
-# git clone https://github.com/n0nick/hspell here, then run this script
+# git clone https://github.com/apertium/hspell here, then run this script
 cd hspell
 
 ./woo | uconv -f hebrew -t utf-8 | grep -v '(skipme)' |\
